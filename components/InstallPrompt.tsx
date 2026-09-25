@@ -1,8 +1,8 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, type ReactNode } from 'react'
 import { usePathname } from 'next/navigation'
-import { Icon } from './icons'
+import { Icon, type IconName } from './icons'
 import { BrandMark, buttonClass } from './ui'
 import { APP } from '@/lib/config'
 import { dismissInstall, promptInstall, useInstallDismissed, useInstallStatus } from '@/lib/install'
@@ -15,7 +15,7 @@ const TEXT = {
   close: 'Cerrar',
   iosStep1: 'Toca el botón Compartir',
   iosStep2: 'Elige «Añadir a pantalla de inicio»',
-  profileRow: 'Instalar la app en este dispositivo',
+  noDialog: 'Si no ves el diálogo, usa el menú de tu navegador y elige «Instalar app».',
 }
 
 /** Pages where the banner must never appear (the sales funnel). */
@@ -93,33 +93,67 @@ export function InstallBanner() {
               </button>
             </div>
           )}
+          {status !== 'ios' && <p className="mt-2.5 text-center text-[13px] leading-snug text-muted">{TEXT.noDialog}</p>}
         </div>
       </div>
     </>
   )
 }
 
-/** Permanent entry in the profile, for whoever closed the banner. */
-export function InstallRow() {
+function Step({ icon, children }: { icon: IconName; children: ReactNode }) {
+  return (
+    <li className="flex items-start gap-2.5">
+      <span className="grid size-8 shrink-0 place-items-center rounded-lg bg-surface-2 text-primary">
+        <Icon name={icon} className="size-[18px]" />
+      </span>
+      <span className="pt-1">{children}</span>
+    </li>
+  )
+}
+
+/** How to install by hand, for when the browser shows no dialog (or has none). */
+export function InstallHelp({ ios }: { ios: boolean }) {
+  return (
+    <div className="text-[15px] leading-snug text-ink">
+      {ios ? (
+        <IosSteps />
+      ) : (
+        <ol className="mt-1 space-y-2.5">
+          <Step icon="phone">
+            <strong className="font-semibold">Android (Chrome):</strong> toca el menú <strong>⋮</strong> arriba a la derecha y elige «Instalar app» o «Añadir a pantalla de inicio».
+          </Step>
+          <Step icon="download">
+            <strong className="font-semibold">Computadora (Chrome o Edge):</strong> haz clic en el ícono de instalar en la barra de direcciones, o en el menú <strong>⋮</strong> → «Instalar {APP.name}».
+          </Step>
+          <Step icon="share">
+            <strong className="font-semibold">iPhone:</strong> abre este sitio en Safari, toca Compartir y elige «Añadir a pantalla de inicio».
+          </Step>
+        </ol>
+      )}
+      <p className="mt-3 rounded-xl bg-gold-soft/60 px-3 py-2 text-[14px] text-ink">{TEXT.noDialog}</p>
+    </div>
+  )
+}
+
+/**
+ * Permanent entry in the profile. Always does something: opens the browser's dialog when
+ * it can, and always unfolds the steps to install by hand — the dialog may not show.
+ */
+export function InstallRow({ children }: { children: (open: boolean) => ReactNode }) {
   const status = useInstallStatus()
   const [open, setOpen] = useState(false)
-
-  if (status !== 'available' && status !== 'ios') return null
+  const click = () => {
+    if (status === 'available' && !open) void promptInstall()
+    setOpen((o) => !o)
+  }
   return (
-    <div className="rounded-2xl border border-line bg-surface">
-      <button
-        type="button"
-        onClick={() => (status === 'available' ? void promptInstall() : setOpen((o) => !o))}
-        aria-expanded={status === 'ios' ? open : undefined}
-        className="flex w-full items-center gap-3 rounded-2xl p-4 text-left transition hover:bg-surface-hover"
-      >
-        <Icon name="download" className="size-5 text-gold" />
-        <span className="flex-1 text-[16px] text-ink">{TEXT.profileRow}</span>
-        <Icon name={status === 'ios' && open ? 'chevronDown' : 'chevronRight'} className="size-5 text-muted" />
+    <div>
+      <button type="button" onClick={click} aria-expanded={open} className="block w-full text-left transition hover:bg-surface-hover">
+        {children(open)}
       </button>
-      {status === 'ios' && open && (
-        <div className="px-4 pb-4">
-          <IosSteps />
+      {open && (
+        <div className="animate-rise px-4 pb-4">
+          <InstallHelp ios={status === 'ios'} />
         </div>
       )}
     </div>

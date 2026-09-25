@@ -5,8 +5,7 @@ import { useRouter } from 'next/navigation'
 import { BottomNav } from './BottomNav'
 import { BrandMark } from './ui'
 import { AnualBar } from './views/AnualView'
-import type { OfferId } from '@/lib/catalog'
-import { setMember, signOut, useAppState, useHydrated } from '@/lib/store'
+import { setMember, signOut, useAppState, useHydrated, type ServerMember } from '@/lib/store'
 
 // Everything inside the app is members-only. The device remembers the member (so the
 // app opens instantly and offline), and on every visit the server confirms the session
@@ -41,9 +40,9 @@ export function AppShell({ children }: { children: ReactNode }) {
           return
         }
         if (!res.ok) return // server hiccup: keep what the device knows
-        const me = (await res.json()) as { email: string; owned: OfferId[]; name?: string; annual?: boolean }
+        const me = (await res.json()) as ServerMember & { email: string }
         if (me.email !== email) signOut()
-        else setMember(email, me.name || name, me.owned, me.annual === true)
+        else setMember(email, name, me)
       })
       .catch(() => {
         // offline: keep what the device knows

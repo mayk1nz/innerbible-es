@@ -155,12 +155,14 @@ function AppRows() {
     <>
       {install === 'installed' ? (
         <Row icon="download" title="App instalada" hint="Ya la tienes en tu pantalla de inicio." />
-      ) : install === 'available' || install === 'ios' ? (
-        <div className="px-1 py-1">
-          <InstallRow />
-        </div>
       ) : (
-        <Row icon="download" title="Instalar app" hint="Abre este sitio en Chrome o Safari de tu celular para instalarlo." />
+        <InstallRow>
+          {(open) => (
+            <Row icon="download" title="Instalar app" hint="Ábrela desde tu pantalla de inicio, como cualquier app.">
+              <Icon name="chevronDown" className={`size-5 text-muted transition ${open ? 'rotate-180' : ''}`} />
+            </Row>
+          )}
+        </InstallRow>
       )}
       <button type="button" onClick={() => { setUpdating(true); void updateApp() }} className="block w-full text-left transition hover:bg-surface-hover">
         <Row icon="refresh" title={updating ? 'Actualizando…' : 'Actualizar app'} hint="Carga la versión más reciente.">

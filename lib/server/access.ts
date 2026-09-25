@@ -31,19 +31,32 @@ export async function ownedOffers(email: string): Promise<OfferId[]> {
   return ALL.filter((o) => owned.includes(o))
 }
 
-/** Offers + the saved name + whether the member is on the annual plan. */
-export async function memberInfo(email: string): Promise<{ owned: OfferId[]; name: string; annual: boolean }> {
+export interface MemberInfo {
+  owned: OfferId[]
+  name: string
+  annual: boolean
+  /** Start of this member's own 15 days of 50% off (Tienda + Consejero), set once. */
+  offerStartedAt: string
+}
+
+/** Offers + the saved name + annual plan + the start of their personal offer window. */
+export async function memberInfo(email: string): Promise<MemberInfo> {
   const e = normalizeEmail(email)
   const [owned, member, annualRows] = await Promise.all([
     ownedOffers(e),
-    db().from('members').select('name').eq('email', e).maybeSingle(),
+    db().from('members').select('name, offer_started_at').eq('email', e).maybeSingle(),
     db().from('entitlements').select('product, status, current_period_end').eq('email', e).ilike('product', '%anual%'),
   ])
   const now = Date.now()
   const annual = (annualRows.data ?? []).some(
     (r) => r.status !== 'refunded' && (!r.current_period_end || new Date(r.current_period_end).getTime() > now),
   )
-  return { owned, name: member.data?.name ?? '', annual }
+  let offerStartedAt: string | null = member.data?.offer_started_at ?? null
+  if (!offerStartedAt) {
+    offerStartedAt = new Date().toISOString()
+    await db().from('members').upsert({ email: e, offer_started_at: offerStartedAt }, { onConflict: 'email' })
+  }
+  return { owned, name: member.data?.name ?? '', annual, offerStartedAt }
 }
 
 /** Records the login; keeps a name the member already chose. */

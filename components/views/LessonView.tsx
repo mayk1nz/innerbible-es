@@ -31,7 +31,7 @@ export function LessonView({ productId, lessonId }: { productId: string; lessonI
   const s = useAppState()
   const ref = findLesson(productId, lessonId)
   if (!ref) return null
-  if (!isOwned(ref.product, s.owned)) return <LockedProduct product={ref.product} email={s.session?.email} />
+  if (!isOwned(ref.product, s.owned)) return <LockedProduct product={ref.product} />
   // Keyed per lesson so drafts and the "just completed" moment never leak between lessons.
   return <LessonReader key={`${productId}/${lessonId}`} lessonRef={ref} state={s} />
 }
@@ -109,6 +109,9 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         <div className="mb-5">
           <AudioPlayer
             src={lesson.audioSrc}
+            title={lesson.title}
+            subtitle={product.title}
+            cover={product.cover}
             positionKey={key}
             onEnded={() => {
               if (!done) {
@@ -120,7 +123,8 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         </div>
       )}
 
-      <LessonBody lesson={lesson} scale={s.fontScale} />
+      {/* An audio lesson is the audio; its text shows only when there is one. */}
+      {(lesson.format !== 'audio' || lesson.content) && <LessonBody lesson={lesson} scale={s.fontScale} />}
 
       <CompletionCard
         done={done}

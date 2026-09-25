@@ -3,11 +3,13 @@
 import Link from 'next/link'
 import { useState } from 'react'
 import { usePathname } from 'next/navigation'
+import { BenefitList } from '../Deal'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { buttonClass } from '../ui'
-import type { OfferId } from '@/lib/catalog'
+import { PRODUCTS, type OfferId } from '@/lib/catalog'
 import { ANUAL, APP } from '@/lib/config'
+import { DEALS } from '@/lib/deals'
 import { formatUsd } from '@/lib/funnel/config'
 import { useAppState } from '@/lib/store'
 
@@ -92,17 +94,24 @@ export function AnualView() {
   const { owned, session } = useAppState()
   const everything = hasEverything(owned)
   const rows = [
-    { label: 'Estudio Cronológico de la Biblia + 9 regalos', price: ANUAL.monthly.front },
+    { label: 'Resumen Cronológico de la Biblia + 9 regalos', price: ANUAL.monthly.front },
     { label: 'Resumen Cronológico en Audio', price: ANUAL.monthly.upsell1 },
     { label: 'Palabras del Señor + Tu Consejero Bíblico', price: ANUAL.monthly.upsell2 },
   ]
-  const includes = [
-    'Los 66 libros en orden cronológico, para leer y escuchar',
-    'Tu Consejero Bíblico: hasta 30 conversaciones al día',
-    'Tres planes de 90 días con minitareas y pasos prácticos',
-    'La Guía Palabras del Señor y la Biblioteca «Caminando con Gigantes»',
-    'Los 9 regalos: plan de 365 días, mapas mentales, biografías y más',
-    'La comunidad y todo lo nuevo que agreguemos durante tu año',
+  const gifts = PRODUCTS.filter((p) => p.offer === 'front' && p.id !== 'cronologico')
+  const groups = [
+    {
+      title: 'Resumen Cronológico de la Biblia',
+      items: [
+        'Los 66 libros de la Biblia en el orden en que sucedieron los acontecimientos',
+        'Cada resumen con fecha aproximada, autor, personajes, versículo clave y explicación clara',
+        'Progreso, racha, puntos y reflexiones compartidas con los hermanos',
+      ],
+    },
+    { title: `Los ${gifts.length} regalos`, items: gifts.map((p) => p.title) },
+    { title: 'Resumen Cronológico en Audio', items: DEALS.upsell1.benefits },
+    { title: 'Palabras del Señor', items: DEALS.upsell2.benefits },
+    { title: 'Y además', items: ['Todo lo nuevo que agreguemos durante tu año, sin pagar más'] },
   ]
   const checkout = ANUAL.checkoutUrl && session?.email ? `${ANUAL.checkoutUrl}${ANUAL.checkoutUrl.includes('?') ? '&' : '?'}email=${encodeURIComponent(session.email)}` : ANUAL.checkoutUrl
 
@@ -141,22 +150,17 @@ export function AnualView() {
           </li>
         </ul>
         <p className="mt-3 rounded-2xl bg-gold-soft/60 px-4 py-3 text-[14.5px] leading-snug text-ink">
-          Es menos de lo que pagarías en {FRONT_MONTHS} meses solo del Estudio Cronológico.
+          Es menos de lo que pagarías en {FRONT_MONTHS} meses solo del Resumen Cronológico.
         </p>
       </section>
 
       <section aria-label="Qué incluye" className="mt-5 rounded-3xl border border-line bg-surface p-5">
-        <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold">Incluye todo</p>
-        <ul className="mt-3 space-y-2.5">
-          {includes.map((item) => (
-            <li key={item} className="flex gap-2.5 text-[15.5px] leading-snug text-ink">
-              <span className="mt-0.5 grid size-5 shrink-0 place-items-center rounded-full bg-success-soft text-success">
-                <Icon name="check" className="size-3.5" strokeWidth={2.6} />
-              </span>
-              {item}
-            </li>
+        <h2 className="font-serif text-[19px] font-semibold text-ink">Incluye todo</h2>
+        <div className="mt-4 space-y-5">
+          {groups.map((g) => (
+            <BenefitList key={g.title} label={g.title} items={g.items} />
           ))}
-        </ul>
+        </div>
       </section>
 
       <div className="mt-6">

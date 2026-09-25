@@ -1,13 +1,13 @@
 'use client'
 
 import { Fragment, useEffect, useRef, useState, type FormEvent } from 'react'
+import { BenefitList, DealBox } from '../Deal'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { buttonClass } from '../ui'
-import { CONSEJERO } from '@/lib/config'
 import { PAIN_EXAMPLES, TOPIC_GROUPS } from '@/lib/consejero/topics'
+import { DEALS } from '@/lib/deals'
 import { useAppState } from '@/lib/store'
-import { formatUsd } from '@/lib/funnel/config'
 
 // Tu Consejero Bíblico. Members with Palabras del Señor (upsell 2) talk with it every
 // day; everyone else gets one free question a day, examples of the biggest pains and
@@ -81,21 +81,88 @@ export function ConsejeroView() {
 
 // ─── Pieces ─────────────────────────────────────────────────────────
 
-/** "a **b** c" → a <strong>b</strong> c, paragraph by paragraph. */
-function Answer({ text }: { text: string }) {
+/** "a **b** c" → a <strong>b</strong> c. */
+function Inline({ text }: { text: string }) {
   return (
     <>
-      {text
-        .split(/\n{2,}/)
-        .filter((p) => p.trim())
-        .map((p, i) => (
-          <p key={i} className={i ? 'mt-2.5' : ''}>
-            {p.split('**').map((part, j) => (
-              <Fragment key={j}>{j % 2 ? <strong className="font-semibold">{part}</strong> : part}</Fragment>
+      {text.split('**').map((part, j) => (
+        <Fragment key={j}>{j % 2 ? <strong className="font-semibold">{part}</strong> : part}</Fragment>
+      ))}
+    </>
+  )
+}
+
+type Block = { kind: 'p'; lines: string[] } | { kind: 'ol' | 'ul'; items: string[] }
+
+const OL_ITEM = /^\s*\d+[.)]\s+/
+const UL_ITEM = /^\s*[-•*]\s+/
+
+/** The answer's light markdown: paragraphs, line breaks, numbered and bulleted steps, bold. */
+function toBlocks(text: string): Block[] {
+  const blocks: Block[] = []
+  let gap = false
+  for (const raw of text.split('\n')) {
+    // A stray heading ("### Paso 1") reads as a bold line.
+    const line = raw.replace(/^\s*#{1,6}\s+(.*)$/, '**$1**')
+    const last = blocks[blocks.length - 1]
+    if (!line.trim()) {
+      gap = true
+      continue
+    }
+    const kind = OL_ITEM.test(line) ? 'ol' : UL_ITEM.test(line) ? 'ul' : 'p'
+    if (kind === 'p') {
+      // A blank line starts a new paragraph; a single line break stays inside it.
+      if (last?.kind === 'p' && !gap) last.lines.push(line)
+      else blocks.push({ kind: 'p', lines: [line] })
+    } else {
+      // Steps separated by blank lines are still one list (numbering continues).
+      const item = line.replace(kind === 'ol' ? OL_ITEM : UL_ITEM, '')
+      if (last?.kind === kind) last.items.push(item)
+      else blocks.push({ kind, items: [item] })
+    }
+    gap = false
+  }
+  return blocks
+}
+
+function Answer({ text }: { text: string }) {
+  return (
+    <div className="space-y-2.5">
+      {toBlocks(text).map((b, i) =>
+        b.kind === 'p' ? (
+          <p key={i}>
+            {b.lines.map((l, j) => (
+              <Fragment key={j}>
+                {j > 0 && <br />}
+                <Inline text={l} />
+              </Fragment>
             ))}
           </p>
-        ))}
-    </>
+        ) : b.kind === 'ol' ? (
+          <ol key={i} className="space-y-2">
+            {b.items.map((item, j) => (
+              <li key={j} className="flex gap-2.5">
+                <span className="mt-0.5 grid size-6 shrink-0 place-items-center rounded-full bg-gold-soft font-sans text-[13px] font-bold text-ink">{j + 1}</span>
+                <span className="min-w-0">
+                  <Inline text={item} />
+                </span>
+              </li>
+            ))}
+          </ol>
+        ) : (
+          <ul key={i} className="space-y-1.5">
+            {b.items.map((item, j) => (
+              <li key={j} className="flex gap-2.5">
+                <span className="mt-[0.7em] size-1.5 shrink-0 rounded-full bg-gold" aria-hidden />
+                <span className="min-w-0">
+                  <Inline text={item} />
+                </span>
+              </li>
+            ))}
+          </ul>
+        ),
+      )}
+    </div>
   )
 }
 
@@ -297,7 +364,7 @@ function Chat({ status, name, mode }: { status: Status; name: string; mode: 'mem
       <div className="mt-4 space-y-4">
         {messages.map((m, i) =>
           m.role === 'user' ? (
-            <div key={i} className="ml-auto max-w-[85%] whitespace-pre-wrap rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[16px] leading-relaxed text-white">
+            <div key={i} className="ml-auto w-fit max-w-[85%] whitespace-pre-wrap rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[16px] leading-relaxed text-white">
               {m.content}
             </div>
           ) : (
@@ -378,39 +445,6 @@ function Chat({ status, name, mode }: { status: Status; name: string; mode: 'mem
 
 // ─── For members without Palabras del Señor ───────────────────────
 
-function useNow(): number {
-  const [now, setNow] = useState(() => Date.now())
-  useEffect(() => {
-    const t = window.setInterval(() => setNow(Date.now()), 1000)
-    return () => window.clearInterval(t)
-  }, [])
-  return now
-}
-
-function Countdown({ deadline, now }: { deadline: number; now: number }) {
-  const ms = Math.max(0, deadline - now)
-  const days = Math.floor(ms / 86_400_000)
-  const pad = (n: number) => String(n).padStart(2, '0')
-  const h = pad(Math.floor((ms % 86_400_000) / 3_600_000))
-  const m = pad(Math.floor((ms % 3_600_000) / 60_000))
-  const sec = pad(Math.floor((ms % 60_000) / 1000))
-  return (
-    <div className="mt-3 flex items-center justify-center gap-2 font-sans tabular-nums" aria-label={`Termina en ${days} días`}>
-      {[
-        [String(days), days === 1 ? 'día' : 'días'],
-        [h, 'h'],
-        [m, 'min'],
-        [sec, 's'],
-      ].map(([v, unit]) => (
-        <span key={unit} className="min-w-14 rounded-xl bg-white/10 px-2 py-1.5 text-center">
-          <span className="block text-[22px] font-bold leading-none">{v}</span>
-          <span className="mt-1 block text-[11px] uppercase tracking-wide text-white/70">{unit}</span>
-        </span>
-      ))}
-    </div>
-  )
-}
-
 /** The biggest pains, each with the start of a real-style answer, cut at the lock. */
 function PainExamples() {
   const [id, setId] = useState(PAIN_EXAMPLES[0].id)
@@ -439,7 +473,7 @@ function PainExamples() {
         })}
       </div>
       <div key={ex.id} className="animate-rise relative mt-4 overflow-hidden rounded-3xl border border-line bg-surface-2 p-4">
-        <div className="ml-auto max-w-[85%] rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[15.5px] leading-relaxed text-white">{ex.question}</div>
+        <div className="ml-auto w-fit max-w-[85%] rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[15.5px] leading-relaxed text-white">{ex.question}</div>
         <div className="mt-3 flex gap-2.5">
           <span className="mt-1 grid size-8 shrink-0 place-items-center rounded-full bg-primary text-gold-bright" aria-hidden>
             <Icon name="chatCross" className="size-4" />
@@ -457,20 +491,6 @@ function PainExamples() {
 }
 
 function LockedConsejero({ status, name }: { status: Status; name: string }) {
-  const now = useNow()
-  const started = status.offerStartedAt ? Date.parse(status.offerStartedAt) : now
-  const deadline = started + CONSEJERO.offerDays * 86_400_000
-  const active = now < deadline
-  const price = active ? CONSEJERO.discountPrice : CONSEJERO.fullPrice
-  // The 50% checkout only while the member's own 15 days last; then the full price.
-  const checkout = active ? CONSEJERO.checkoutUrl : CONSEJERO.fullCheckoutUrl
-  const includes = [
-    'Tu Consejero Bíblico: hasta 30 conversaciones al día',
-    'Tres planes de 90 días, con una minitarea y pasos prácticos para cada día',
-    'La Guía Palabras del Señor',
-    'Biblioteca «Caminando con Gigantes»',
-  ]
-
   return (
     <>
       <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra, a cualquier hora" />
@@ -479,57 +499,12 @@ function LockedConsejero({ status, name }: { status: Status; name: string }) {
 
       <PainExamples />
 
-      <div className="mt-6 rounded-3xl bg-primary p-5 text-center text-white shadow-float">
-        {active ? (
-          <>
-            <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-bright">Solo para ti · 50% de descuento de por vida</p>
-            <Countdown deadline={deadline} now={now} />
-          </>
-        ) : (
-          <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-bright">Palabras del Señor</p>
-        )}
-        <p className="mt-4 font-serif text-[20px] font-semibold">Tu Consejero + 3 planes de 90 días</p>
-        <p className="mt-1 text-[15px] text-white/80">
-          {active && (
-            <>
-              <span className="line-through">{formatUsd(CONSEJERO.fullPrice)}</span>{' '}
-            </>
-          )}
-          <strong className="text-[22px] text-white">{formatUsd(price)}</strong> al mes
-        </p>
-        {checkout ? (
-          <a
-            href={checkout}
-            className="mt-4 flex min-h-14 w-full items-center justify-center gap-2 rounded-2xl bg-gold-bright px-5 text-[17px] font-semibold text-primary shadow-card transition hover:brightness-105 active:scale-[0.99]"
-          >
-            Quiero mi Consejero
-            <Icon name="arrowRight" className="size-5" />
-          </a>
-        ) : (
-          <button type="button" disabled className={`${buttonClass.primary} mt-4 bg-white/20`}>
-            Disponible muy pronto
-          </button>
-        )}
-        {active && (
-          <p className="mt-3 text-[13px] leading-snug text-white/75">
-            Pagas {formatUsd(CONSEJERO.discountPrice)} al mes mientras mantengas tu suscripción. Cuando termine el plazo, el precio vuelve a {formatUsd(CONSEJERO.fullPrice)}.
-          </p>
-        )}
-        <p className="mt-2 text-[13px] text-white/75">Compra con el mismo correo de tu cuenta y se activa solo.</p>
+      <div className="mt-6">
+        <DealBox offer="upsell2" title="Tu Consejero + 3 planes de 90 días" cta="Quiero mi Consejero" />
       </div>
 
       <div className="mt-5 rounded-3xl border border-line bg-surface p-5">
-        <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold">Incluye</p>
-        <ul className="mt-3 space-y-2.5">
-          {includes.map((item) => (
-            <li key={item} className="flex gap-2.5 text-[15.5px] leading-snug text-ink">
-              <span className="mt-0.5 grid size-5 shrink-0 place-items-center rounded-full bg-success-soft text-success">
-                <Icon name="check" className="size-3.5" strokeWidth={2.6} />
-              </span>
-              {item}
-            </li>
-          ))}
-        </ul>
+        <BenefitList items={DEALS.upsell2.benefits} label="Incluye" />
       </div>
     </>
   )

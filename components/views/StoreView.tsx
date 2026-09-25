@@ -30,7 +30,7 @@ export function StoreView() {
         <div className="space-y-6">
           <AnualCard />
           {pending.map((o) => (
-            <OfferCard key={o.id} offer={o} email={s.session?.email} />
+            <OfferCard key={o.id} offer={o} />
           ))}
         </div>
       )}

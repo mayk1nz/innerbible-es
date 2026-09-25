@@ -16,7 +16,7 @@ export function ModuleView({ productId }: { productId: string }) {
   const s = useAppState()
   const product = productById(productId)
   if (!product) return null
-  if (!isOwned(product, s.owned)) return <LockedProduct product={product} email={s.session?.email} />
+  if (!isOwned(product, s.owned)) return <LockedProduct product={product} />
   if (product.kind === 'enlace') return <LinkProduct product={product} />
   if (product.tabs) return <TabbedModule product={product} completed={s.completed} lastLesson={s.lastLesson} />
   return <ModuleContent product={product} completed={s.completed} />

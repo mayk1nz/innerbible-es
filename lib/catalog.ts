@@ -104,6 +104,15 @@ function lessons(titles: string[], format: LessonFormat): Lesson[] {
   })
 }
 
+/**
+ * Audio lessons play from /api/audio/<product>/<lesson>, which checks the purchase and
+ * hands out a short-lived link to the file in Supabase Storage (bucket "audios", file
+ * "<product>/<lesson>.mp3"). A file not uploaded yet shows "Audio en preparación".
+ */
+function audioLessons(productId: string, titles: string[]): Lesson[] {
+  return lessons(titles, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/${productId}/${l.id}` }))
+}
+
 function numberedDays(count: number, format: LessonFormat): Lesson[] {
   return Array.from({ length: count }, (_, i) => ({ id: `dia-${i + 1}`, title: `Día ${i + 1}`, format }))
 }
@@ -197,9 +206,9 @@ export const PRODUCTS: Product[] = [
     offer: 'upsell1',
     cover: { ...AMBER, lines: ['Resumen', 'Cronológico', 'en'], highlight: 'Audio', icon: 'headphones' },
     sections: [
-      { id: 'introduccion', title: 'Introducción', lessons: lessons(['Comienza aquí', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?'], 'audio') },
-      { id: 'antiguo-testamento', title: 'Antiguo Testamento', lessons: lessons(OLD_TESTAMENT, 'audio') },
-      { id: 'nuevo-testamento', title: 'Nuevo Testamento', lessons: lessons(NEW_TESTAMENT, 'audio') },
+      { id: 'introduccion', title: 'Introducción', lessons: audioLessons('cronologico-audio', ['Comienza aquí', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?']) },
+      { id: 'antiguo-testamento', title: 'Antiguo Testamento', lessons: audioLessons('cronologico-audio', OLD_TESTAMENT) },
+      { id: 'nuevo-testamento', title: 'Nuevo Testamento', lessons: audioLessons('cronologico-audio', NEW_TESTAMENT) },
     ],
   },
   {
@@ -244,7 +253,7 @@ export const PRODUCTS: Product[] = [
     kind: 'guia',
     offer: 'front',
     cover: { ...AMBER, lines: ['Plan de', 'Escucha'], highlight: '30 días', icon: 'headphones' },
-    sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'audio') }],
+    sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/plan-escucha/${l.id}` })) }],
   },
   {
     id: 'caminando-gigantes',

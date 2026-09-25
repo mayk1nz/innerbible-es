@@ -65,7 +65,7 @@ export async function POST(request: Request) {
   const upstream = await fetch(DEEPSEEK_URL, {
     method: 'POST',
     headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-    body: JSON.stringify({ model: 'deepseek-chat', messages: payload, stream: true, temperature: 0.7, max_tokens: 700 }),
+    body: JSON.stringify({ model: 'deepseek-chat', messages: payload, stream: true, temperature: 0.7, max_tokens: 900 }),
   }).catch(() => null)
   if (!upstream || !upstream.ok || !upstream.body) return json({ error: 'upstream' }, 502)
 

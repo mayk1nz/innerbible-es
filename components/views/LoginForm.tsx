@@ -5,8 +5,7 @@ import { useEffect, useState, type FormEvent } from 'react'
 import { Icon } from '../icons'
 import { BrandMark, buttonClass } from '../ui'
 import { APP, DEMO_MODE } from '@/lib/config'
-import type { OfferId } from '@/lib/catalog'
-import { setMember, useAppState, useHydrated } from '@/lib/store'
+import { setMember, useAppState, useHydrated, type ServerMember } from '@/lib/store'
 import { nameFromEmail } from '@/lib/text'
 
 // Two steps: the purchase email, then a 6-digit code sent to it. The reference app
@@ -61,8 +60,7 @@ export function LoginForm() {
         return
       }
       if (!res.ok) throw new Error(String(res.status))
-      const me = (await res.json()) as { owned: OfferId[]; name?: string; annual?: boolean }
-      setMember(clean, me.name || name, me.owned, me.annual === true)
+      setMember(clean, name, (await res.json()) as ServerMember)
       router.replace('/inicio')
     } catch {
       setError('No pudimos conectar. Revisa tu internet e inténtalo de nuevo.')
@@ -78,7 +76,7 @@ export function LoginForm() {
       return
     }
     // TODO(SEND_CODE): verify the code on the server (it would return the owned offers).
-    setMember(email, nameFromEmail(email), ['front'])
+    setMember(email, nameFromEmail(email), { owned: ['front'] })
     router.replace('/inicio')
   }
 

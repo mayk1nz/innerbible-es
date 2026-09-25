@@ -59,6 +59,8 @@ export interface AppState {
   theme: 'light' | 'dark'
   /** The member is on the annual plan (from the server). */
   annual: boolean
+  /** Start of the member's 15 days of 50% off (from the server). */
+  offerStartedAt: string | null
 }
 
 export const DEFAULT_STATE: AppState = {
@@ -76,6 +78,7 @@ export const DEFAULT_STATE: AppState = {
   audioPos: {},
   theme: 'light',
   annual: false,
+  offerStartedAt: null,
 }
 
 import { STORAGE_KEY } from './storage-key'
@@ -113,6 +116,7 @@ function sanitize(raw: unknown): AppState {
     audioPos: isRecord(raw.audioPos) ? (raw.audioPos as AppState['audioPos']) : {},
     theme: raw.theme === 'dark' ? 'dark' : 'light',
     annual: raw.annual === true,
+    offerStartedAt: typeof raw.offerStartedAt === 'string' ? raw.offerStartedAt : null,
   }
 }
 
@@ -219,13 +223,26 @@ function withoutPoint(points: PointEvent[], id: string): PointEvent[] {
  * offers come from the purchases, never from this device. Progress on this device is
  * kept; if another e-mail signs in here, it starts from scratch.
  */
-export function setMember(email: string, name: string, owned: OfferId[], annual = false): void {
+export interface ServerMember {
+  owned: OfferId[]
+  name?: string
+  annual?: boolean
+  offerStartedAt?: string | null
+}
+
+export function setMember(email: string, fallbackName: string, me: ServerMember): void {
   update((s) => {
     const same = s.session?.email === email
     const base = same ? s : { ...DEFAULT_STATE, fontScale: s.fontScale, theme: s.theme }
     // A name saved on the server (edited in the profile) wins over the one guessed from the e-mail.
-    const finalName = name || (same ? s.session?.name : '') || ''
-    return { ...base, session: { email, name: finalName }, owned: owned.filter((o) => OFFER_IDS.includes(o)), annual }
+    const finalName = me.name || (same ? s.session?.name : '') || fallbackName
+    return {
+      ...base,
+      session: { email, name: finalName },
+      owned: me.owned.filter((o) => OFFER_IDS.includes(o)),
+      annual: me.annual === true,
+      offerStartedAt: me.offerStartedAt ?? base.offerStartedAt,
+    }
   })
 }
 
