@@ -17,7 +17,7 @@ const PRODUCT_RULES: { match: RegExp; offers: OfferId[]; days?: number }[] = [
   { match: /palabras del se(n|ñ)or|hacedores/i, offers: ['upsell2'] },
   { match: /audio/i, offers: ['upsell1'] },
   // The front is "Estudio Cronológico de la Biblia" in KashPay (also accept the app's name).
-  { match: /(resumen|estudio) cronol(o|ó)gico|cronolog(i|í)a b(i|í)blica|la biblia interior/i, offers: ['front'] },
+  { match: /(resumen|estudio) cronol(o|ó)gico|cronolog(i|í)a b(i|í)blica|la biblia interior|plan mensual/i, offers: ['front'] },
 ]
 
 function walk(node: Json, visit: (key: string, value: Json, path: string) => void, path = ''): void {

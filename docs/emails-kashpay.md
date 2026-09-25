@@ -93,7 +93,7 @@ Tom: o mesmo do app — carinho, esperança, nada de culpa, nada de urgência fa
 
 **Evento:** Checkout Abandonado · **Produto:** Resumen Cronológico de la Biblia
 **Condição de interrupção: LIGADA — "Compra aprovada"** (quem comprou no meio do caminho não recebe mais)
-**Link do checkout:** https://checkout.kashpay.com.br/checkout/checkout-1790282470977
+**Link do checkout:** https://checkout.kashpay.com.br/checkout/checkout-1790360903063
 
 ### D+0 — Ficou pela metade
 
@@ -105,7 +105,7 @@ Tom: o mesmo do app — carinho, esperança, nada de culpa, nada de urgência fa
 >
 > Si quieres retomarlo, tu pedido está aquí:
 >
-> 👉 **https://checkout.kashpay.com.br/checkout/checkout-1790282470977**
+> 👉 **https://checkout.kashpay.com.br/checkout/checkout-1790360903063**
 >
 > Recuerda: el valor se convierte automáticamente a la moneda de tu país, y tienes **30 días de garantía**.
 >
@@ -127,11 +127,11 @@ Tom: o mesmo do app — carinho, esperança, nada de culpa, nada de urgência fa
 > - **«¿Voy a tener tiempo?»** Cada resumen se lee en pocos minutos. Uno por día es suficiente.
 > - **«¿Y si no es para mí?»** Tienes 30 días de garantía. Si no te ayuda, te devolvemos tu dinero.
 > - **«¿Cómo pago desde mi país?»** El valor se convierte solo a tu moneda, y puedes usar métodos de pago locales.
-> - **«¿Cómo es el pago?»** Es una suscripción de US$ 17,90 al mes.
+> - **«¿Cómo es el pago?»** Es una suscripción de US$ 11,90 al mes.
 >
 > Si tu duda es otra, responde este correo. Lo leemos todos.
 >
-> 👉 **https://checkout.kashpay.com.br/checkout/checkout-1790282470977**
+> 👉 **https://checkout.kashpay.com.br/checkout/checkout-1790360903063**
 >
 > Con cariño,
 > **El equipo de La Biblia Interior**
@@ -148,7 +148,7 @@ Tom: o mesmo do app — carinho, esperança, nada de culpa, nada de urgência fa
 >
 > Cuando quieras empezar, aquí estaremos:
 >
-> 👉 **https://checkout.kashpay.com.br/checkout/checkout-1790282470977**
+> 👉 **https://checkout.kashpay.com.br/checkout/checkout-1790360903063**
 >
 > «Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.» — Mateo 11:28
 >

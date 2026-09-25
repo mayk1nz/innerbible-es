@@ -45,9 +45,10 @@ export const FUNNEL = {
   pixelId: process.env.NEXT_PUBLIC_FUNNEL_PIXEL_ID || '1734156964506551',
   currency: 'USD',
   front: {
-    checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_FRONT_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790282470977',
+    // KashPay "Plan Mensual" of the Estudio Cronológico: US$ 11,90 per month.
+    checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_FRONT_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790360903063',
     /** Monthly subscription. */
-    price: num(process.env.NEXT_PUBLIC_PRICE_FRONT, 17.9),
+    price: num(process.env.NEXT_PUBLIC_PRICE_FRONT, 11.9),
     /** Crossed-out "was" price. 0 → no anchor shown (never invent one). */
     priceFrom: num(process.env.NEXT_PUBLIC_PRICE_FRONT_FROM, 188),
     // Owner's VTurb player "Resumen Cronológico de la Biblia". The offer appears at
