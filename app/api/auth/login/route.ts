@@ -13,7 +13,15 @@ export async function POST(request: Request) {
   const email = typeof body.email === 'string' ? normalizeEmail(body.email) : ''
   if (!EMAIL_RE.test(email)) return Response.json({ error: 'invalid-email' }, { status: 400 })
 
-  const owned = await ownedOffers(email)
+  let owned
+  try {
+    owned = await ownedOffers(email)
+  } catch (e) {
+    // The database's own message (never contains keys) — makes a misconfiguration visible.
+    const detail = e instanceof Error ? e.message : typeof e === 'object' && e && 'message' in e ? String((e as { message: unknown }).message) : 'unknown'
+    console.error('login: could not read entitlements', detail)
+    return Response.json({ error: 'server', detail }, { status: 500 })
+  }
   if (!owned.length) return Response.json({ error: 'no-purchase' }, { status: 403 })
 
   const name = typeof body.name === 'string' ? body.name.slice(0, 60) : ''
