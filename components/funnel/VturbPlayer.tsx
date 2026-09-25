@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useId, useRef } from 'react'
+import { preload } from 'react-dom'
 import { Icon } from '../icons'
 import type { VslConfig } from '@/lib/funnel/config'
 
@@ -21,6 +22,9 @@ export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: (
   const sentinel = useRef<HTMLSpanElement>(null)
   const sentinelId = `offer-gate-${useId().replace(/[^a-zA-Z0-9]/g, '')}`
   const configured = Boolean(video.playerId && video.scriptUrl)
+  // VTurb's "Optimize Player Loading Speed": start downloading the player script as
+  // early as possible (React emits the <link rel="preload"> once, in <head>).
+  if (configured) preload(video.scriptUrl, { as: 'script' })
 
   useEffect(() => {
     if (!configured || video.delaySeconds <= 0) onReveal()
@@ -33,7 +37,7 @@ export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: (
 
     const player = document.createElement('vturb-smartplayer') as SmartPlayer
     player.id = video.playerId
-    player.style.cssText = 'display:block;margin:0 auto;width:100%;'
+    player.style.cssText = 'display:block;margin:0 auto;width:100%;max-width:400px;'
     const onReady = () => {
       if (video.delaySeconds > 0) player.displayHiddenElements?.(video.delaySeconds, [`#${sentinelId}`], { persist: true })
     }
@@ -64,7 +68,7 @@ export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: (
   return (
     <div>
       {configured ? (
-        <div ref={mount} className="overflow-hidden rounded-2xl bg-black shadow-card" />
+        <div ref={mount} className="mx-auto max-w-[400px] overflow-hidden rounded-2xl bg-black shadow-card" />
       ) : (
         <div className="grid aspect-[9/16] max-h-[520px] w-full place-items-center rounded-2xl bg-[#0c0a07] text-center text-[#fbf1dc]">
           <div className="px-6">

@@ -24,10 +24,14 @@ export const FUNNEL = {
     price: num(process.env.NEXT_PUBLIC_PRICE_FRONT, 17.9),
     /** Crossed-out "was" price. 0 → no anchor shown (never invent one). */
     priceFrom: num(process.env.NEXT_PUBLIC_PRICE_FRONT_FROM, 0),
+    // Owner's VTurb player "Resumen Cronológico de la Biblia". The offer appears at
+    // 10:15 (615 s), the timing that was configured for this same video.
     video: {
-      playerId: process.env.NEXT_PUBLIC_VTURB_FRONT_ID || '',
-      scriptUrl: process.env.NEXT_PUBLIC_VTURB_FRONT_SCRIPT || '',
-      delaySeconds: num(process.env.NEXT_PUBLIC_VTURB_FRONT_DELAY, 0),
+      playerId: process.env.NEXT_PUBLIC_VTURB_FRONT_ID || 'vid-6ab58aff91c2cea332a2396c',
+      scriptUrl:
+        process.env.NEXT_PUBLIC_VTURB_FRONT_SCRIPT ||
+        'https://scripts.converteai.net/90eef771-3dd8-46c8-b5b3-3c5b48ea076b/players/6ab58aff91c2cea332a2396c/v4/player.js',
+      delaySeconds: num(process.env.NEXT_PUBLIC_VTURB_FRONT_DELAY, 615),
     } satisfies VslConfig,
   },
   up1: {

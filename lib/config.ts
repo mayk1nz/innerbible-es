@@ -2,7 +2,7 @@
 // lives here or in the environment (.env.example), never inside a component.
 
 export const APP = {
-  name: 'Inner Bible',
+  name: 'La Biblia Interior',
   tagline: 'Toda la historia de la Biblia, en orden y en comunidad',
   supportEmail: 'soporte@innerbible.app',
 } as const

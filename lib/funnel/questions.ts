@@ -5,20 +5,29 @@ import type { IconName } from '@/components/icons'
 // well-known facts with two "what came first?" questions: those are exactly what the
 // chronological summary solves, so the result can point at a real gap.
 
+// Images are optional everywhere. Put the file in /public/quiz/ and reference it as
+// "/quiz/nombre.webp": a question `image` shows above the title; when the options of
+// a question have images they render as a two-column grid of picture cards.
+// Only reference files that exist — a missing file shows as a broken picture.
+
 export interface ProfileQuestion {
   kind: 'profile'
   id: string
   title: string
   hint?: string
   multi?: boolean
-  options: { label: string; icon?: IconName }[]
+  image?: string
+  options: { label: string; icon?: IconName; image?: string }[]
 }
 
 export interface TestQuestion {
   kind: 'test'
   id: string
   title: string
+  image?: string
   options: string[]
+  /** One per option, same order. Omit for text-only options. */
+  optionImages?: string[]
   correct: number
   /** Questions about the order of events: reported separately in the result. */
   chronology?: boolean

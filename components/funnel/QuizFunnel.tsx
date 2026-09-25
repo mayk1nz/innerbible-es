@@ -209,6 +209,54 @@ function Option({
   )
 }
 
+/** Picture card for options that come with an image (e.g. age, gender, Bible scenes). */
+function ImageOption({
+  label,
+  image,
+  selected,
+  onClick,
+  badge,
+  multi = false,
+}: {
+  label: string
+  image: string
+  selected: boolean
+  onClick: () => void
+  badge?: string
+  multi?: boolean
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      aria-pressed={selected}
+      className={`relative flex flex-col overflow-hidden rounded-2xl border-2 text-left transition active:scale-[0.99] ${
+        selected ? 'border-primary bg-[#e8ecf3]' : 'border-line bg-surface hover:border-[#cdb888]'
+      }`}
+    >
+      {/* eslint-disable-next-line @next/next/no-img-element -- local static files, sized by CSS */}
+      <img src={image} alt="" loading="eager" className="aspect-square w-full object-cover" />
+      <span className="flex min-h-14 items-center gap-2 px-3 py-2.5">
+        {badge && (
+          <span className={`grid size-7 shrink-0 place-items-center rounded-full text-[13px] font-bold ${selected ? 'bg-primary text-white' : 'bg-gold-soft text-ink'}`}>{badge}</span>
+        )}
+        <span className="text-[15.5px] font-medium leading-snug text-ink">{label}</span>
+      </span>
+      {multi && selected && (
+        <span className="absolute right-2 top-2 grid size-7 place-items-center rounded-md bg-primary text-white">
+          <Icon name="check" className="size-4" strokeWidth={3} />
+        </span>
+      )}
+    </button>
+  )
+}
+
+function QuestionImage({ src }: { src?: string }) {
+  if (!src) return null
+  // eslint-disable-next-line @next/next/no-img-element -- local static file
+  return <img src={src} alt="" className="mb-5 aspect-[16/9] w-full rounded-2xl object-cover shadow-card" />
+}
+
 function ProfileStep({
   q,
   headingRef,
@@ -226,11 +274,35 @@ function ProfileStep({
   onMulti: (values: number[]) => void
   onContinue: () => void
 }) {
+  const pick = (i: number) => {
+    if (!q.multi) {
+      onPick(i)
+      return
+    }
+    onMulti(multiValue.includes(i) ? multiValue.filter((v) => v !== i) : [...multiValue, i])
+  }
+  const pictures = q.options.every((o) => o.image)
+
   return (
     <>
+      <QuestionImage src={q.image} />
       <Title headingRef={headingRef} hint={q.hint}>
         {q.title}
       </Title>
+      {pictures ? (
+        <div className="grid grid-cols-2 gap-3">
+          {q.options.map((o, i) => (
+            <ImageOption
+              key={o.label}
+              label={o.label}
+              image={o.image ?? ''}
+              multi={q.multi}
+              selected={q.multi ? multiValue.includes(i) : picked === i}
+              onClick={() => pick(i)}
+            />
+          ))}
+        </div>
+      ) : (
       <div className="space-y-3">
         {q.options.map((o, i) => {
           const selected = q.multi ? multiValue.includes(i) : picked === i
@@ -247,17 +319,12 @@ function ProfileStep({
                   </span>
                 ) : undefined
               }
-              onClick={() => {
-                if (!q.multi) {
-                  onPick(i)
-                  return
-                }
-                onMulti(multiValue.includes(i) ? multiValue.filter((v) => v !== i) : [...multiValue, i])
-              }}
+              onClick={() => pick(i)}
             />
           )
         })}
       </div>
+      )}
       {q.multi && (
         <button type="button" onClick={onContinue} disabled={multiValue.length === 0} className={`${buttonClass.primary} mt-6`}>
           Continuar
@@ -306,22 +373,38 @@ function TestStep({
       <p className="mb-2 text-center text-[14px] font-semibold uppercase tracking-[0.08em] text-gold">
         Pregunta {number} de {TEST.length}
       </p>
+      <QuestionImage src={q.image} />
       <Title headingRef={headingRef}>{q.title}</Title>
-      <div className="space-y-3">
-        {q.options.map((label, i) => (
-          <Option
-            key={label}
-            label={label}
-            selected={picked === i}
-            onClick={() => onPick(i)}
-            leading={
-              <span className={`grid size-9 shrink-0 place-items-center rounded-full text-[15px] font-bold ${picked === i ? 'bg-primary text-white' : 'bg-gold-soft text-ink'}`}>
-                {LETTERS[i]}
-              </span>
-            }
-          />
-        ))}
-      </div>
+      {q.optionImages && q.optionImages.length === q.options.length ? (
+        <div className="grid grid-cols-2 gap-3">
+          {q.options.map((label, i) => (
+            <ImageOption
+              key={label}
+              label={label}
+              image={q.optionImages?.[i] ?? ''}
+              badge={LETTERS[i]}
+              selected={picked === i}
+              onClick={() => onPick(i)}
+            />
+          ))}
+        </div>
+      ) : (
+        <div className="space-y-3">
+          {q.options.map((label, i) => (
+            <Option
+              key={label}
+              label={label}
+              selected={picked === i}
+              onClick={() => onPick(i)}
+              leading={
+                <span className={`grid size-9 shrink-0 place-items-center rounded-full text-[15px] font-bold ${picked === i ? 'bg-primary text-white' : 'bg-gold-soft text-ink'}`}>
+                  {LETTERS[i]}
+                </span>
+              }
+            />
+          ))}
+        </div>
+      )}
     </>
   )
 }
