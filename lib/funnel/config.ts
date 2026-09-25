@@ -91,7 +91,7 @@ export const FUNNEL = {
   /** Downsell of upsell 2 — about half price, monthly. */
   down2: {
     // Downsell step of "Upsell 2" in the KashPay flow.
-    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN2_URL || 'https://checkout.kashpay.com.br/u/b5a5b4606ae0bcfa',
+    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN2_URL || 'https://checkout.kashpay.com.br/u/b4a5c977029e6265',
     price: num(process.env.NEXT_PUBLIC_PRICE_DOWN2, 4.95),
     priceFrom: num(process.env.NEXT_PUBLIC_PRICE_UP2, 9.9),
     video: noVideo(),
