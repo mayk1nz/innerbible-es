@@ -9,8 +9,9 @@ import { slugify } from './text'
 // and reflections work everywhere without special cases.
 //
 // `offer` is what unlocks a product: 'front' is the main purchase, 'upsell1' the audio
-// version, 'upsell2' the Hacedores guide. The bonuses are provisionally on 'front'
-// until the owner decides which offer carries each one — change that one field.
+// version, 'upsell2' the Palabras del Señor guide (formerly "Hacedores de la Palabra",
+// id kept) plus the bonuses its sales page lists. The other 9 bonuses come with
+// 'front' ("+ 9 regalos especiales") — to move one, change that one field.
 
 export type OfferId = 'front' | 'upsell1' | 'upsell2'
 export type ProductKind = 'recorrido' | 'guia' | 'enlace'
@@ -174,12 +175,12 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'hacedores',
-    title: 'Guía Hacedores de la Palabra',
+    title: 'Palabras del Señor',
     short: 'Más de 100 situaciones reales de la vida con la respuesta bíblica aplicada paso a paso.',
     description: 'No es un libro teórico ni un devocional genérico. Es una guía práctica: frente a cada situación real de la vida, qué dice la Biblia y cómo aplicarlo, paso a paso.',
     kind: 'recorrido',
     offer: 'upsell2',
-    cover: { ...DAWN, lines: ['Guía', 'Hacedores', 'de la'], highlight: 'Palabra', icon: 'feather' },
+    cover: { ...DAWN, lines: ['Palabras', 'del'], highlight: 'Señor', icon: 'feather' },
     sections: pendingGuide(),
   },
   {
@@ -198,7 +199,7 @@ export const PRODUCTS: Product[] = [
     short: 'Treinta días para renovar tu vida devocional.',
     description: 'Un camino de treinta días, un paso por día, para renovar tu relación con Dios.',
     kind: 'guia',
-    offer: 'front',
+    offer: 'upsell2',
     cover: { ...DUSK, lines: ['Plan de', 'Transformación'], highlight: '30 días', icon: 'sparkles' },
     sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'texto') }],
   },
@@ -208,7 +209,7 @@ export const PRODUCTS: Product[] = [
     short: 'Los grandes hombres y mujeres de la fe.',
     description: 'Una biblioteca con las vidas de quienes caminaron con Dios antes que nosotros.',
     kind: 'guia',
-    offer: 'front',
+    offer: 'upsell2',
     cover: { ...OLIVE, lines: ['Caminando', 'con'], highlight: 'Gigantes', icon: 'users' },
     sections: pendingGuide(),
   },
@@ -300,7 +301,7 @@ export const OFFERS: Offer[] = [
     id: 'front',
     title: 'Resumen Cronológico de la Biblia',
     short: 'tu compra',
-    pitch: 'Los 66 libros en orden cronológico y todos los bonos.',
+    pitch: 'Los 66 libros en orden cronológico y 9 regalos especiales.',
     productId: 'cronologico',
   },
   {
@@ -312,8 +313,8 @@ export const OFFERS: Offer[] = [
   },
   {
     id: 'upsell2',
-    title: 'Guía Hacedores de la Palabra',
-    short: 'Hacedores de la Palabra',
+    title: 'Palabras del Señor',
+    short: 'Palabras del Señor',
     pitch: 'Más de 100 situaciones reales de la vida con la respuesta bíblica aplicada paso a paso.',
     productId: 'hacedores',
   },

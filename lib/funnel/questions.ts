@@ -244,6 +244,18 @@ export const OFFER = {
   product: 'Resumen Cronológico',
   extra: '+ 9 regalos especiales',
   button: 'Haz clic aquí para asegurar tu material',
-  bullets: ['Acceso de por vida', 'Garantía de 30 días'],
-  paymentImage: A('360d280b47c9.png'),
+  bullets: ['Acceso inmediato', 'Garantía de 30 días'],
+  perMonth: '/mes',
+}
+
+/**
+ * Payment info under the button. The front is a MONTHLY subscription, so this must
+ * never say "pago único" / "sin cuotas mensuales" (the owner's old image said so).
+ */
+export const PAYMENT_NOTE = {
+  badge: '¡Acceso inmediato!',
+  plan: 'Suscripción mensual',
+  calm: '¡No te preocupes!',
+  convert:
+    'El valor se convertirá automáticamente a la moneda de tu país al hacer clic en «Haz clic aquí para asegurar tu material». Además, puedes pagar con métodos de pago locales en tu país.',
 }

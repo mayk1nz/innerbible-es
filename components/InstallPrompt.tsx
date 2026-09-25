@@ -19,7 +19,7 @@ const TEXT = {
 }
 
 /** Pages where the banner must never appear (the sales funnel). */
-const HIDDEN_ON = ['/', '/quiz', '/up1', '/up2']
+const HIDDEN_ON = ['/', '/quiz', '/upsell', '/upsell-downsell', '/palabras-del-Senor', '/palabras-del-Senor-downsell']
 /** Pages without the bottom navigation bar. */
 const NO_NAV = ['/login', '/bienvenido']
 
