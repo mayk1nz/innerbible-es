@@ -4,7 +4,7 @@
 export const APP = {
   name: 'La Biblia Interior',
   tagline: 'Toda la historia de la Biblia, en orden y en comunidad',
-  supportEmail: 'soporte@innerbible.app',
+  supportEmail: 'contact@innerbible.app',
 } as const
 
 export const WHATSAPP_URL = process.env.NEXT_PUBLIC_WHATSAPP_URL || ''
