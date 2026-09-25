@@ -12,13 +12,14 @@ export const WHATSAPP_URL = process.env.NEXT_PUBLIC_WHATSAPP_URL || ''
 /** KashPay checkout links (Stripe underneath). Empty → the button reads "Disponible pronto". */
 export const CHECKOUT_URLS: Record<'upsell1' | 'upsell2', string> = {
   upsell1: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_URL || '',
-  upsell2: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL2_URL || '',
+  // Palabras del Señor at full price (US$ 9,90/mes).
+  upsell2: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL2_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790361317561',
 }
 
 /** Price labels exactly as they should read in the Tienda. Empty → no price line. */
 export const OFFER_PRICES: Record<'upsell1' | 'upsell2', string> = {
   upsell1: process.env.NEXT_PUBLIC_PRICE_UPSELL1 || '',
-  upsell2: process.env.NEXT_PUBLIC_PRICE_UPSELL2 || '',
+  upsell2: process.env.NEXT_PUBLIC_PRICE_UPSELL2 || 'US$ 9.90 al mes',
 }
 
 // Accounts that see every offer unlocked (the owner). Kept as hashes (cyrb53 of the
@@ -55,7 +56,7 @@ export const CONSEJERO = {
   /** KashPay checkout "Palabras del Señor 50%" (US$ 4,95/mes): a normal checkout, not a /u/ link. */
   checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_CONSEJERO_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790363235240',
   /** Full-price checkout (US$ 9,90/mes), used once the member's 15 days are over. Empty → "Disponible pronto". */
-  fullCheckoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL2_URL || '',
+  fullCheckoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL2_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790361317561',
 } as const
 
 /** What each action is worth. Shown to members, so keep it simple. */
