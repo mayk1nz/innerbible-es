@@ -1,6 +1,7 @@
 import type { IconName } from '@/components/icons'
 import { WHATSAPP_URL } from './config'
-import { COMIENZA_AQUI, GENESIS, TRANSFORMACION_DIA_1 } from './content/sample'
+import { PLAN_TITLES, type PlanId } from './content/plans/titles'
+import { COMIENZA_AQUI, GENESIS } from './content/sample'
 import { slugify } from './text'
 
 // Every product in the app, in the order the member sees it. A product is a list of
@@ -33,9 +34,13 @@ export interface LessonContent {
 export interface Lesson {
   id: string
   title: string
+  /** Plans: the day's name ("Un corazón dispuesto"), shown next to "Día 1". */
+  subtitle?: string
   format: LessonFormat
   audioSrc?: string
   content?: LessonContent
+  /** Plans: the text lives in lib/content/plans and loads only when the day is opened. */
+  plan?: { id: PlanId; day: number }
 }
 
 export interface Section {
@@ -90,7 +95,6 @@ export interface Offer {
 const SAMPLE_CONTENT: Record<string, LessonContent> = {
   'comienza-aqui': COMIENZA_AQUI,
   genesis: GENESIS,
-  'transformacion-dia-1': TRANSFORMACION_DIA_1,
 }
 
 function lessons(titles: string[], format: LessonFormat): Lesson[] {
@@ -105,11 +109,14 @@ function numberedDays(count: number, format: LessonFormat): Lesson[] {
 }
 
 /** Days of a plan inside a product with several plans: ids carry the plan, so they never clash. */
-function planDays(planId: string, count: number): Lesson[] {
-  return Array.from({ length: count }, (_, i) => {
-    const id = `${planId}-dia-${i + 1}`
-    return { id, title: `Día ${i + 1}`, format: 'texto' as const, content: SAMPLE_CONTENT[id] }
-  })
+function planDays(planId: PlanId, count: number): Lesson[] {
+  return Array.from({ length: count }, (_, i) => ({
+    id: `${planId}-dia-${i + 1}`,
+    title: `Día ${i + 1}`,
+    subtitle: PLAN_TITLES[planId][i],
+    format: 'texto' as const,
+    plan: { id: planId, day: i + 1 },
+  }))
 }
 
 /** Guides whose inner structure is still to be defined: one entry to open them. */

@@ -7,7 +7,8 @@ import { LockedProduct } from '../cards'
 import { Icon, type IconName } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { Avatar, FontScaleControl, buttonClass } from '../ui'
-import type { Lesson } from '@/lib/catalog'
+import type { Lesson, LessonContent } from '@/lib/catalog'
+import { loadPlanDay } from '@/lib/content/plans/load'
 import { SEED_POSTS, SEED_REFLECTIONS } from '@/lib/community-seed'
 import { POINTS } from '@/lib/config'
 import { computeStats } from '@/lib/gamification'
@@ -56,7 +57,7 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
   if (waiting) {
     return (
       <>
-        <PageHeader back={`/modulo/${product.id}`} eyebrow={section.tab ?? section.title} title={lesson.title} />
+        <PageHeader back={`/modulo/${product.id}`} eyebrow={`${section.tab ?? section.title} · ${lesson.title}`} title={lesson.subtitle ?? lesson.title} />
         <div className="rounded-3xl border border-line bg-surface p-6 text-center shadow-card">
           <span className="mx-auto grid size-14 place-items-center rounded-full bg-gold-soft text-gold">
             <Icon name={status === 'tomorrow' ? 'calendar' : 'lock'} className="size-7" />
@@ -89,7 +90,11 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
 
   return (
     <>
-      <PageHeader back={`/modulo/${product.id}`} eyebrow={section.title} title={lesson.title} />
+      <PageHeader
+        back={`/modulo/${product.id}`}
+        eyebrow={section.plan ? `${section.tab ?? section.title} · ${lesson.title}` : section.title}
+        title={lesson.subtitle ?? lesson.title}
+      />
 
       <div className="mb-5 flex items-center justify-between gap-3">
         <p className="text-[14.5px] leading-snug text-muted">
@@ -176,8 +181,61 @@ function Fact({ icon, label, value }: { icon: IconName; label: string; value: st
   )
 }
 
+/** A task written as "Intro: 1) … 2) … 3) …" shows its steps as a numbered list. */
+function TaskText({ text }: { text: string }) {
+  const parts = text.split(/\s(?=\d\)\s)/)
+  if (parts.length < 3) return <p className="mt-1.5 font-serif text-[1.05em] leading-relaxed">{text}</p>
+  const [intro, ...steps] = parts
+  return (
+    <div className="mt-1.5 font-serif text-[1.05em] leading-relaxed">
+      <p>{intro}</p>
+      <ol className="mt-2 space-y-1.5">
+        {steps.map((step, i) => (
+          <li key={step} className="flex gap-2.5">
+            <span className="mt-0.5 grid size-6 shrink-0 place-items-center rounded-full bg-gold-bright font-sans text-[0.75em] font-bold text-primary">{i + 1}</span>
+            <span>{step.replace(/^\d\)\s*/, '').replace(/;\s*$/, '')}</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+  )
+}
+
+/** The lesson's text: inline in the catalog, or — for plan days — fetched when opened. */
+function useLessonContent(lesson: Lesson): { content?: LessonContent; loading: boolean } {
+  const planId = lesson.plan?.id
+  const planDay = lesson.plan?.day ?? 0
+  const key = planId ? `${planId}/${planDay}` : ''
+  const [loaded, setLoaded] = useState<{ key: string; content: LessonContent | null } | null>(null)
+
+  useEffect(() => {
+    if (!planId) return
+    let alive = true
+    loadPlanDay(planId, planDay)
+      .then((content) => alive && setLoaded({ key: `${planId}/${planDay}`, content }))
+      .catch(() => alive && setLoaded({ key: `${planId}/${planDay}`, content: null }))
+    return () => {
+      alive = false
+    }
+  }, [planId, planDay])
+
+  if (!planId) return { content: lesson.content, loading: false }
+  if (loaded?.key !== key) return { loading: true }
+  return { content: loaded.content ?? undefined, loading: false }
+}
+
 function LessonBody({ lesson, scale }: { lesson: Lesson; scale: number }) {
-  const c = lesson.content
+  const { content: c, loading } = useLessonContent(lesson)
+  if (loading) {
+    return (
+      <div aria-busy className="animate-pulse space-y-3 rounded-3xl border border-line bg-surface-2 px-5 py-6">
+        <div className="h-16 rounded-2xl bg-gold-soft/50" />
+        <div className="h-4 rounded bg-line-soft" />
+        <div className="h-4 w-11/12 rounded bg-line-soft" />
+        <div className="h-4 w-4/5 rounded bg-line-soft" />
+      </div>
+    )
+  }
   if (!c) {
     return (
       <div className="rounded-3xl border border-dashed border-line bg-surface-2 px-6 py-8 text-center">
@@ -198,7 +256,7 @@ function LessonBody({ lesson, scale }: { lesson: Lesson; scale: number }) {
       )}
       {c.versiculo && (
         <figure className="my-6 rounded-2xl bg-gold-soft/50 px-5 py-4">
-          <blockquote className="font-serif text-[1.18em] italic leading-relaxed text-ink">«{c.versiculo.texto}»</blockquote>
+          <blockquote className="font-serif text-[1.18em] italic leading-relaxed text-ink">«{c.versiculo.texto.trim().replace(/[;:,]$/, '')}»</blockquote>
           <figcaption className="mt-2 text-[0.85em] font-semibold text-gold">{c.versiculo.referencia}</figcaption>
         </figure>
       )}
@@ -212,7 +270,7 @@ function LessonBody({ lesson, scale }: { lesson: Lesson; scale: number }) {
       {c.tarea && (
         <div className="mt-6 rounded-2xl bg-primary px-5 py-4 text-white">
           <p className="text-[0.8em] font-semibold uppercase tracking-[0.08em] text-gold-bright">Minitarea de hoy</p>
-          <p className="mt-1.5 font-serif text-[1.05em] leading-relaxed">{c.tarea}</p>
+          <TaskText text={c.tarea} />
         </div>
       )}
       {c.practica && c.practica.length > 0 && (

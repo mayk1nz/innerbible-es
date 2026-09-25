@@ -26,19 +26,3 @@ export const GENESIS: LessonContent = {
   ],
   meditar: '¿En qué parte de tu historia necesitas creer, como José, que Dios puede encaminar las cosas para bien?',
 }
-
-/** A plan day (Palabras del Señor): reading, small task of the day, practical steps. */
-export const TRANSFORMACION_DIA_1: LessonContent = {
-  versiculo: { texto: 'Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.', referencia: 'Salmo 51:10' },
-  resumen: [
-    'Toda transformación verdadera empieza en el corazón. David escribió este salmo después de fallar, y no le pidió a Dios que lo hiciera perfecto: le pidió un corazón nuevo.',
-    'Estos 90 días no se tratan de esforzarte más, sino de abrirle a Dios, día a día, cada rincón de tu vida. Él es quien renueva; a ti te toca estar dispuesto.',
-  ],
-  tarea: 'Escribe en una hoja tres áreas de tu vida que quieres poner en las manos de Dios durante estos 90 días.',
-  practica: [
-    'Lee el Salmo 51 completo, despacio y en voz baja.',
-    'Dedica cinco minutos de silencio a hablar con Dios sobre esas tres áreas.',
-    'Guarda la hoja en un lugar seguro: la volverás a leer en el Día 90.',
-  ],
-  meditar: '¿Qué parte de tu corazón quieres que Dios renueve primero?',
-}

@@ -104,6 +104,7 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
         ) : current.status === 'open' ? (
           <Link href={lessonHref(product.id, current.lesson.id)} className={`${buttonClass.primary} mt-4`}>
             {done ? `Hacer el Día ${current.n}` : 'Empezar el Día 1'}
+            {current.lesson.subtitle ? `: ${current.lesson.subtitle}` : ''}
             <Icon name="arrowRight" className="size-5 shrink-0 text-gold-bright" />
           </Link>
         ) : (
