@@ -3,7 +3,9 @@
 import { useEffect, type ReactNode } from 'react'
 import { useRouter } from 'next/navigation'
 import { BottomNav } from './BottomNav'
+import { MiniPlayer } from './MiniPlayer'
 import { BrandMark } from './ui'
+import { closePlayer } from '@/lib/player'
 import { AnualBar } from './views/AnualView'
 import { setMember, signOut, useAppState, useHydrated, type ServerMember } from '@/lib/store'
 
@@ -26,7 +28,10 @@ export function AppShell({ children }: { children: ReactNode }) {
   }, [hydrated, theme])
 
   useEffect(() => {
-    if (hydrated && !email) router.replace('/login')
+    if (hydrated && !email) {
+      closePlayer()
+      router.replace('/login')
+    }
   }, [hydrated, email, router])
 
   useEffect(() => {
@@ -70,6 +75,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         <AnualBar />
         {children}
       </main>
+      <MiniPlayer />
       <BottomNav />
     </>
   )

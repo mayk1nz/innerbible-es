@@ -1,10 +1,20 @@
 import 'server-only'
 import { createClient, type SupabaseClient } from '@supabase/supabase-js'
+import { SITE } from '../config'
 
 // The server's only way into the database: the service role, which bypasses RLS.
 // Never imported by client code ('server-only' fails the build if it is).
 
 let client: SupabaseClient | null = null
+
+/**
+ * A table's name for this site. The Spanish and Polish apps share one Supabase
+ * project: the Spanish tables have no prefix, the Polish ones start with "pl_"
+ * (SITE.dbPrefix), so buyers, conversations and limits never mix.
+ */
+export function t(table: string): string {
+  return `${SITE.dbPrefix}${table}`
+}
 
 export function db(): SupabaseClient {
   if (client) return client

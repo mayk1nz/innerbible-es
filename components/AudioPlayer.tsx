@@ -1,15 +1,14 @@
 'use client'
 
-import { useRef, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Icon } from './icons'
 import type { CoverStyle } from '@/lib/catalog'
-import { getAppState, saveAudioPosition } from '@/lib/store'
+import { cycleRate, hasNeighbour, next, playTrack, previous, seek, seekBy, toggle, usePlayer, type Track } from '@/lib/player'
+import { useAppState } from '@/lib/store'
 
-// Speed, ±15 s, and the position remembered per lesson — the three things the
-// reference audio player lacks and a 30-minute narration needs. Reaching the end
-// marks the lesson as read. A file that is not uploaded yet (404) shows "en preparación".
-
-const RATES = [1, 1.25, 1.5, 2, 0.75]
+// The lesson's big player: a view of the app's one audio player (lib/player.ts), so
+// leaving the page keeps the audio going in the mini player. Speed, ±15 s and the
+// position remembered per lesson. No download.
 
 function clock(sec: number): string {
   const safe = Number.isFinite(sec) && sec > 0 ? sec : 0
@@ -18,48 +17,61 @@ function clock(sec: number): string {
   return `${m}:${String(s).padStart(2, '0')}`
 }
 
-function Disc({ cover, title, spinning }: { cover?: CoverStyle; title: string; spinning: boolean }) {
+/** Round cover: the lesson's own artwork, or the product's colours if there is none. */
+export function Disc({ image, cover, title, size = 'lg' }: { image?: string; cover?: CoverStyle; title: string; size?: 'lg' | 'sm' }) {
+  const [failed, setFailed] = useState<string | null>(null)
+  const showImage = image && failed !== image
   const bg = cover
     ? `radial-gradient(120% 75% at 50% -5%, ${cover.glow} 0%, transparent 60%), linear-gradient(180deg, ${cover.from} 0%, ${cover.to} 100%)`
     : undefined
+  const lg = size === 'lg'
   return (
-    <div className="mx-auto grid size-44 place-items-center rounded-full border-[6px] border-gold-soft bg-primary shadow-float" style={bg ? { backgroundImage: bg } : undefined}>
-      <div className={`flex flex-col items-center gap-2 px-6 text-center ${spinning ? 'animate-pulse' : ''}`}>
-        <Icon name="headphones" className="size-8 text-gold-bright" />
-        <span className="line-clamp-2 font-serif text-[15px] font-semibold uppercase leading-tight tracking-wide text-[#fbf1dc]">{title}</span>
-      </div>
+    <div
+      className={`relative grid shrink-0 place-items-center overflow-hidden bg-primary ${lg ? 'mx-auto size-48 rounded-full border-[6px] border-gold-soft shadow-float' : 'size-11 rounded-xl'}`}
+      style={bg ? { backgroundImage: bg } : undefined}
+    >
+      {showImage ? (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img src={image} alt="" draggable={false} onError={() => setFailed(image)} className="absolute inset-0 size-full object-cover" />
+      ) : lg ? (
+        <div className="flex flex-col items-center gap-2 px-6 text-center">
+          <Icon name="headphones" className="size-8 text-gold-bright" />
+          <span className="line-clamp-2 font-serif text-[15px] font-semibold uppercase leading-tight tracking-wide text-[#fbf1dc]">{title}</span>
+        </div>
+      ) : (
+        <Icon name="headphones" className="size-5 text-gold-bright" />
+      )}
     </div>
   )
 }
 
-export function AudioPlayer({
-  src,
-  positionKey,
-  onEnded,
-  title,
-  subtitle,
-  cover,
-}: {
-  src?: string
-  positionKey: string
-  onEnded?: () => void
-  title: string
-  subtitle?: string
-  cover?: CoverStyle
-}) {
-  const audio = useRef<HTMLAudioElement>(null)
-  const lastSaved = useRef(0)
-  const [playing, setPlaying] = useState(false)
-  const [time, setTime] = useState(0)
-  const [duration, setDuration] = useState(0)
-  const [rate, setRate] = useState(1)
-  const [missing, setMissing] = useState(false)
+/** Whether the file is there, asked once per lesson (the route answers 404 until it is uploaded). */
+function useAvailable(src: string): boolean | null {
+  const [result, setResult] = useState<{ src: string; ok: boolean } | null>(null)
+  useEffect(() => {
+    let alive = true
+    fetch(src, { method: 'HEAD', redirect: 'manual', cache: 'no-store' })
+      .then((r) => alive && setResult({ src, ok: r.type === 'opaqueredirect' || r.ok }))
+      .catch(() => alive && setResult({ src, ok: true }))
+    return () => {
+      alive = false
+    }
+  }, [src])
+  return result?.src === src ? result.ok : null
+}
 
-  if (!src || missing) {
+export function AudioPlayer({ track, cover }: { track: Track; cover?: CoverStyle }) {
+  const p = usePlayer()
+  const { audioPos } = useAppState()
+  const available = useAvailable(track.src)
+  const current = p.track?.key === track.key
+  const missing = available === false || (current && p.missing)
+
+  if (missing) {
     return (
       <div className="rounded-3xl border border-line bg-surface p-5 text-center shadow-card">
-        <Disc cover={cover} title={title} spinning={false} />
-        <p className="mt-4 font-serif text-[20px] font-semibold text-ink">{title}</p>
+        <Disc image={track.image} cover={cover} title={track.title} />
+        <p className="mt-4 font-serif text-[20px] font-semibold text-ink">{track.title}</p>
         <p className="mt-2 inline-flex items-center gap-1.5 rounded-full bg-gold-soft/70 px-3 py-1 text-[14px] font-medium text-ink">
           <Icon name="headphones" className="size-4 text-gold" />
           Audio en preparación
@@ -69,77 +81,25 @@ export function AudioPlayer({
     )
   }
 
-  const toggle = () => {
-    const el = audio.current
-    if (!el) return
-    if (el.paused) void el.play().catch(() => {})
-    else el.pause()
-  }
-
-  const seekBy = (delta: number) => {
-    const el = audio.current
-    if (!el) return
-    const end = Number.isFinite(el.duration) ? el.duration : el.currentTime + delta
-    el.currentTime = Math.min(Math.max(0, el.currentTime + delta), end)
-  }
-
-  const cycleRate = () => {
-    const next = RATES[(RATES.indexOf(rate) + 1) % RATES.length]
-    setRate(next)
-    if (audio.current) audio.current.playbackRate = next
-  }
+  const time = current ? p.time : (audioPos[track.key] ?? 0)
+  const duration = current ? p.duration : 0
+  const playing = current && p.playing
 
   return (
-    <div className="rounded-3xl border border-line bg-surface px-5 pb-5 pt-4 shadow-card">
-      <audio
-        ref={audio}
-        src={src}
-        preload="metadata"
-        onError={() => setMissing(true)}
-        onLoadedMetadata={(e) => {
-          const el = e.currentTarget
-          setDuration(el.duration)
-          el.playbackRate = rate
-          const saved = getAppState().audioPos[positionKey]
-          if (saved && saved < el.duration - 5) {
-            el.currentTime = saved
-            setTime(saved)
-          }
-        }}
-        onTimeUpdate={(e) => {
-          const t = e.currentTarget.currentTime
-          setTime(t)
-          if (Math.abs(t - lastSaved.current) >= 5) {
-            lastSaved.current = t
-            saveAudioPosition(positionKey, t)
-          }
-        }}
-        onPlay={() => setPlaying(true)}
-        onPause={(e) => {
-          setPlaying(false)
-          saveAudioPosition(positionKey, e.currentTarget.currentTime)
-        }}
-        onEnded={() => {
-          setPlaying(false)
-          saveAudioPosition(positionKey, 0)
-          onEnded?.()
-        }}
-      />
-      <div className="flex justify-start">
-        <button
-          type="button"
-          onClick={cycleRate}
-          aria-label={`Velocidad ${rate}x`}
-          className="min-w-14 rounded-full border border-gold/50 bg-gold-soft/60 px-3 py-1.5 text-[13.5px] font-bold text-gold transition hover:bg-gold-soft"
-        >
-          {rate}×
-        </button>
-      </div>
+    <div className="rounded-3xl border border-line bg-surface px-5 pb-5 pt-4 shadow-card" onContextMenu={(e) => e.preventDefault()}>
+      <button
+        type="button"
+        onClick={cycleRate}
+        aria-label={`Velocidad ${p.rate}x`}
+        className="min-w-14 rounded-full border border-gold/50 bg-gold-soft/60 px-3 py-1.5 text-[13.5px] font-bold text-gold transition hover:bg-gold-soft"
+      >
+        {p.rate}×
+      </button>
       <div className="mt-1">
-        <Disc cover={cover} title={title} spinning={playing} />
+        <Disc image={track.image} cover={cover} title={track.title} />
       </div>
-      <p className="mt-4 text-center font-serif text-[21px] font-semibold leading-snug text-ink">{title}</p>
-      {subtitle && <p className="mt-0.5 text-center text-[14.5px] text-muted">{subtitle}</p>}
+      <p className="mt-4 text-center font-serif text-[21px] font-semibold leading-snug text-ink">{track.title}</p>
+      <p className="mt-0.5 text-center text-[14.5px] text-muted">{track.subtitle}</p>
 
       <input
         type="range"
@@ -147,27 +107,35 @@ export function AudioPlayer({
         max={duration || 0}
         step={1}
         value={Math.min(time, duration || 0)}
-        onChange={(e) => {
-          const v = Number(e.target.value)
-          if (audio.current) audio.current.currentTime = v
-          setTime(v)
-        }}
+        disabled={!current || !duration}
+        onChange={(e) => seek(Number(e.target.value))}
         aria-label="Posición del audio"
         className="mt-4 w-full accent-gold"
       />
       <div className="mt-1 flex justify-between text-xs tabular-nums text-muted">
         <span>{clock(time)}</span>
-        <span>-{clock(Math.max(0, duration - time))}</span>
+        <span>{duration ? `-${clock(Math.max(0, duration - time))}` : '--:--'}</span>
       </div>
-      <div className="mt-3 flex items-center justify-center gap-5">
-        <button type="button" onClick={() => seekBy(-15)} aria-label="Retroceder 15 segundos" className="grid size-12 place-items-center rounded-full text-ink hover:bg-surface-hover">
+      <div className="mt-3 flex items-center justify-center gap-2">
+        <button type="button" onClick={previous} disabled={!current || !hasNeighbour(-1)} aria-label="Anterior" className="grid size-11 place-items-center rounded-full text-ink hover:bg-surface-hover disabled:opacity-30">
+          <Icon name="skipBack" className="size-6" />
+        </button>
+        <button type="button" onClick={() => (current ? seekBy(-15) : undefined)} disabled={!current} aria-label="Retroceder 15 segundos" className="grid size-11 place-items-center rounded-full text-ink hover:bg-surface-hover disabled:opacity-30">
           <Icon name="rewind" className="size-6" />
         </button>
-        <button type="button" onClick={toggle} aria-label={playing ? 'Pausar' : 'Reproducir'} className="grid size-[72px] place-items-center rounded-full bg-primary text-gold-bright shadow-float transition active:scale-95">
+        <button
+          type="button"
+          onClick={() => (current ? toggle() : playTrack(track))}
+          aria-label={playing ? 'Pausar' : 'Reproducir'}
+          className="mx-1 grid size-[72px] place-items-center rounded-full bg-primary text-gold-bright shadow-float transition active:scale-95"
+        >
           <Icon name={playing ? 'pause' : 'play'} className="size-8" />
         </button>
-        <button type="button" onClick={() => seekBy(15)} aria-label="Adelantar 15 segundos" className="grid size-12 place-items-center rounded-full text-ink hover:bg-surface-hover">
+        <button type="button" onClick={() => (current ? seekBy(15) : undefined)} disabled={!current} aria-label="Adelantar 15 segundos" className="grid size-11 place-items-center rounded-full text-ink hover:bg-surface-hover disabled:opacity-30">
           <Icon name="forward" className="size-6" />
+        </button>
+        <button type="button" onClick={next} disabled={!current || !hasNeighbour(1)} aria-label="Siguiente" className="grid size-11 place-items-center rounded-full text-ink hover:bg-surface-hover disabled:opacity-30">
+          <Icon name="skipForward" className="size-6" />
         </button>
       </div>
     </div>

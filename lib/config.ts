@@ -7,6 +7,15 @@ export const APP = {
   supportEmail: 'contact@innerbible.app',
 } as const
 
+/**
+ * What differs between the Spanish and the Polish app on the server side (same
+ * Supabase project for both): table prefix and the private bucket of the audios.
+ */
+export const SITE = {
+  dbPrefix: '',
+  audioBucket: 'audios',
+} as const
+
 export const WHATSAPP_URL = process.env.NEXT_PUBLIC_WHATSAPP_URL || ''
 
 // In-app checkout links and prices of the upsells (50% offer + full price): lib/deals.ts.

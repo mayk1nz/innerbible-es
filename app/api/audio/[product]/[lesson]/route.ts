@@ -1,4 +1,5 @@
 import { productById } from '@/lib/catalog'
+import { SITE } from '@/lib/config'
 import { ownedOffers } from '@/lib/server/access'
 import { db } from '@/lib/server/db'
 import { sessionEmail } from '@/lib/server/session'
@@ -10,7 +11,6 @@ import { sessionEmail } from '@/lib/server/session'
 
 export const dynamic = 'force-dynamic'
 
-const AUDIO_BUCKET = 'audios'
 const LINK_SECONDS = 24 * 3600
 
 type Params = { params: Promise<{ product: string; lesson: string }> }
@@ -26,7 +26,7 @@ export async function GET(_request: Request, { params }: Params) {
   try {
     const owned = await ownedOffers(email)
     if (!owned.includes(product.offer)) return new Response('Forbidden', { status: 403 })
-    const { data, error } = await db().storage.from(AUDIO_BUCKET).createSignedUrl(`${productId}/${lessonId}.mp3`, LINK_SECONDS)
+    const { data, error } = await db().storage.from(SITE.audioBucket).createSignedUrl(`${productId}/${lessonId}.mp3`, LINK_SECONDS)
     // Not uploaded yet: the player shows "Audio en preparación".
     if (error || !data?.signedUrl) return new Response('Not found', { status: 404 })
     return new Response(null, { status: 302, headers: { location: data.signedUrl, 'cache-control': 'private, no-store' } })

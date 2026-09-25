@@ -1,4 +1,10 @@
-import type { OfferId } from './catalog'
+import { productById, type OfferId } from './catalog'
+
+/** Audio lessons of the Resumen en Audio (one section, or all). */
+function audioCount(sectionId?: string): number {
+  const sections = productById('cronologico-audio')?.sections ?? []
+  return sections.filter((s) => !sectionId || s.id === sectionId).flatMap((s) => s.lessons).length
+}
 
 // The in-app offers for what a member has not bought yet: 50% off for life during the
 // member's own first 15 days (the clock starts on their first login and is kept on the
@@ -28,9 +34,10 @@ export const DEALS: Record<UpsellId, Deal> = {
     discountUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_DISCOUNT_URL || '',
     fullUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_URL || '',
     benefits: [
-      '67 audios: la introducción y toda la historia bíblica narrada en orden cronológico',
-      'Antiguo Testamento: 37 audios, de Génesis a Malaquías',
-      'Nuevo Testamento: 28 audios, de los evangelios al Apocalipsis',
+      `${audioCount()} audios: la introducción, toda la historia bíblica en orden cronológico y la conclusión`,
+      `Antiguo Testamento: ${audioCount('antiguo-testamento')} audios, de Génesis a Malaquías`,
+      `Nuevo Testamento: ${audioCount('nuevo-testamento')} audios, de los evangelios al Apocalipsis`,
+      'Cada audio con su propia portada, y el reproductor sigue sonando mientras navegas por la app',
       'Escucha mientras caminas, conduces, trabajas o descansas',
       'Velocidad ajustable, de 0.75x a 2x, y botones para adelantar o volver 15 segundos',
       'Continúa exactamente donde lo dejaste, en cada audio',

@@ -1,4 +1,4 @@
-import { db } from '@/lib/server/db'
+import { db, t } from '@/lib/server/db'
 import { checkSignature, parseEvent } from '@/lib/server/kashpay'
 
 // KashPay webhook. Every event is stored raw first (kashpay_events), then applied to
@@ -45,7 +45,7 @@ export async function POST(request: Request) {
   else if (!parsed.offers.length) note = 'unknown product: not applied'
 
   const { data: stored, error: storeError } = await db()
-    .from('kashpay_events')
+    .from(t('kashpay_events'))
     .insert({ event: parsed.event || null, email: parsed.email, product: parsed.product, headers, payload, signature_ok: signatureOk, note: note || null })
     .select('id')
     .single()
@@ -58,7 +58,7 @@ export async function POST(request: Request) {
   if (!note && status && parsed.email && parsed.offers.length) {
     const results: string[] = []
     for (const offer of parsed.offers) results.push(await apply(parsed.email, offer, status, parsed))
-    await db().from('kashpay_events').update({ processed: true, note: results.join(' · ') }).eq('id', stored.id)
+    await db().from(t('kashpay_events')).update({ processed: true, note: results.join(' · ') }).eq('id', stored.id)
   }
 
   return Response.json({ ok: true })
@@ -71,7 +71,7 @@ export async function POST(request: Request) {
  */
 async function apply(email: string, offer: string, status: 'active' | 'past_due' | 'canceled' | 'refunded', parsed: ReturnType<typeof parseEvent>): Promise<string> {
   const { data: existing } = await db()
-    .from('entitlements')
+    .from(t('entitlements'))
     .select('status, current_period_end, product')
     .eq('email', email)
     .eq('offer', offer)
@@ -95,7 +95,7 @@ async function apply(email: string, offer: string, status: 'active' | 'past_due'
   }
 
   const { error } = await db()
-    .from('entitlements')
+    .from(t('entitlements'))
     .upsert(
       {
         email,

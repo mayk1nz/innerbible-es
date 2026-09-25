@@ -38,6 +38,8 @@ export interface Lesson {
   subtitle?: string
   format: LessonFormat
   audioSrc?: string
+  /** Square cover of an audio lesson (public/audio-covers/<lesson>.webp). */
+  image?: string
   content?: LessonContent
   /** Plans: the text lives in lib/content/plans and loads only when the day is opened. */
   plan?: { id: PlanId; day: number }
@@ -110,7 +112,7 @@ function lessons(titles: string[], format: LessonFormat): Lesson[] {
  * "<product>/<lesson>.mp3"). A file not uploaded yet shows "Audio en preparación".
  */
 function audioLessons(productId: string, titles: string[]): Lesson[] {
-  return lessons(titles, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/${productId}/${l.id}` }))
+  return lessons(titles, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/${productId}/${l.id}`, image: `/audio-covers/${l.id}.webp` }))
 }
 
 function numberedDays(count: number, format: LessonFormat): Lesson[] {
@@ -209,6 +211,7 @@ export const PRODUCTS: Product[] = [
       { id: 'introduccion', title: 'Introducción', lessons: audioLessons('cronologico-audio', ['Comienza aquí', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?']) },
       { id: 'antiguo-testamento', title: 'Antiguo Testamento', lessons: audioLessons('cronologico-audio', OLD_TESTAMENT) },
       { id: 'nuevo-testamento', title: 'Nuevo Testamento', lessons: audioLessons('cronologico-audio', NEW_TESTAMENT) },
+      { id: 'conclusion', title: 'Conclusión', lessons: audioLessons('cronologico-audio', ['Conclusión: del Génesis al Apocalipsis']) },
     ],
   },
   {

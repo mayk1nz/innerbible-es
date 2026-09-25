@@ -5,7 +5,7 @@ export type IconName =
   | 'chevronDown' | 'chevronRight' | 'search' | 'arrowLeft' | 'arrowRight'
   | 'flame' | 'star' | 'trophy' | 'message' | 'heart' | 'send' | 'headphones'
   | 'sparkles' | 'user' | 'logout' | 'external' | 'x' | 'users' | 'gift' | 'map'
-  | 'feather' | 'calendar' | 'mail' | 'rewind' | 'forward' | 'download' | 'share' | 'plusSquare'
+  | 'feather' | 'calendar' | 'mail' | 'rewind' | 'forward' | 'skipBack' | 'skipForward' | 'download' | 'share' | 'plusSquare'
   | 'clock' | 'alert' | 'chatCross' | 'phone' | 'moon' | 'bell' | 'refresh' | 'pencil'
 
 const PATHS: Record<IconName, ReactNode> = {
@@ -42,6 +42,8 @@ const PATHS: Record<IconName, ReactNode> = {
   mail: (<><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3.5 6.5 8.5 6.5 8.5-6.5" /></>),
   rewind: (<><path d="M4 12a8 8 0 1 0 2.3-5.7" /><path d="M4 4v4h4" /></>),
   forward: (<><path d="M20 12a8 8 0 1 1-2.3-5.7" /><path d="M20 4v4h-4" /></>),
+  skipBack: (<><path d="M18 5.5v13L8.5 12z" /><path d="M6 5v14" /></>),
+  skipForward: (<><path d="M6 5.5v13l9.5-6.5z" /><path d="M18 5v14" /></>),
   download: (<><path d="M12 3v12" /><path d="m7 10 5 5 5-5" /><path d="M5 21h14" /></>),
   /** iOS "Share" glyph: box with an arrow going up. */
   share: (<><path d="M12 3v12" /><path d="m8 7 4-4 4 4" /><path d="M8 10H6.5A1.5 1.5 0 0 0 5 11.5v8A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5v-8a1.5 1.5 0 0 0-1.5-1.5H16" /></>),

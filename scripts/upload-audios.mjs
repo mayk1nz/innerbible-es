@@ -1,4 +1,5 @@
-// Uploads the audio files of a product to Supabase Storage (private bucket "audios").
+// Uploads the audio files of a product to Supabase Storage (the private bucket named
+// in lib/config.ts, SITE.audioBucket) and copies their covers to public/audio-covers.
 //   node scripts/upload-audios.mjs <folder> [product]        product: cronologico-audio (default) | plan-escucha
 //   node scripts/upload-audios.mjs <folder> [product] --dry  only shows how the files match
 //
@@ -11,7 +12,8 @@ import { fileURLToPath } from 'node:url'
 import { createClient } from '@supabase/supabase-js'
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
-const BUCKET = 'audios'
+const BUCKET = fs.readFileSync(path.join(ROOT, 'lib', 'config.ts'), 'utf8').match(/audioBucket:\s*'([^']+)'/)?.[1]
+if (!BUCKET) throw new Error('SITE.audioBucket not found in lib/config.ts')
 const args = process.argv.slice(2).filter((a) => !a.startsWith('--'))
 const dry = process.argv.includes('--dry')
 const [folder, product = 'cronologico-audio'] = args
@@ -32,20 +34,42 @@ function expectedIds() {
     if (!block) throw new Error(`${name} not found in catalog.ts`)
     return [...block[1].matchAll(/'([^']+)'/g)].map((m) => m[1])
   }
-  return ['Comienza aquí', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?', ...list('OLD_TESTAMENT'), ...list('NEW_TESTAMENT')].map(slugify)
+  return [
+    'Comienza aquí',
+    '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?',
+    ...list('OLD_TESTAMENT'),
+    ...list('NEW_TESTAMENT'),
+    'Conclusión: del Génesis al Apocalipsis',
+  ].map(slugify)
 }
 
 const ALIASES = { 'comienza-por-aqui': 'comienza-aqui', 'cantares': 'cantares-de-salomon', 'cantar-de-los-cantares': 'cantares-de-salomon', 'hechos': 'hechos-de-los-apostoles' }
 
 const ids = new Set(expectedIds())
 function match(file) {
-  const base = path.parse(file).name
+  // "nombre (1).mp3" is a browser's second download of the same file.
+  const base = path.parse(file).name.replace(/\s*\(\d+\)\s*$/, '')
   const tries = [base, base.replace(/^\s*\d+\s*[-._)]+\s*/, ''), base.replace(/^\s*\d+\s+/, '')]
   for (const t of tries) {
     const id = ALIASES[slugify(t)] ?? slugify(t)
     if (ids.has(id)) return id
   }
   return null
+}
+
+// Covers (.webp/.jpg/.png with the same names) go to public/audio-covers/<lesson>.webp:
+// they are shown on the player's disc, not secret, so they ship with the site.
+if (product === 'cronologico-audio') {
+  const coverDir = path.join(ROOT, 'public', 'audio-covers')
+  fs.mkdirSync(coverDir, { recursive: true })
+  let copied = 0
+  for (const f of fs.readdirSync(folder).filter((x) => /\.webp$/i.test(x))) {
+    const id = match(f)
+    if (!id) continue
+    if (!dry) fs.copyFileSync(path.join(folder, f), path.join(coverDir, `${id}.webp`))
+    copied++
+  }
+  console.log(`${copied} portadas ${dry ? 'encontradas' : 'copiadas a public/audio-covers'}.`)
 }
 
 const files = fs.readdirSync(folder).filter((f) => /\.(mp3|m4a)$/i.test(f))

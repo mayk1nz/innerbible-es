@@ -1,7 +1,7 @@
 import 'server-only'
 import type { OfferId } from '../catalog'
 import { hasFullAccess } from '../config'
-import { db } from './db'
+import { db, t } from './db'
 
 // What an e-mail can open, from the entitlements the KashPay webhook keeps up to date.
 // Subscriptions stay open until the paid period ends, plus a few days of grace for a
@@ -17,7 +17,7 @@ export function normalizeEmail(email: string): string {
 export async function ownedOffers(email: string): Promise<OfferId[]> {
   if (hasFullAccess(email)) return [...ALL]
   const { data, error } = await db()
-    .from('entitlements')
+    .from(t('entitlements'))
     .select('offer, status, current_period_end')
     .eq('email', normalizeEmail(email))
   if (error) throw error
@@ -44,8 +44,8 @@ export async function memberInfo(email: string): Promise<MemberInfo> {
   const e = normalizeEmail(email)
   const [owned, member, annualRows] = await Promise.all([
     ownedOffers(e),
-    db().from('members').select('name, offer_started_at').eq('email', e).maybeSingle(),
-    db().from('entitlements').select('product, status, current_period_end').eq('email', e).ilike('product', '%anual%'),
+    db().from(t('members')).select('name, offer_started_at').eq('email', e).maybeSingle(),
+    db().from(t('entitlements')).select('product, status, current_period_end').eq('email', e).ilike('product', '%anual%'),
   ])
   const now = Date.now()
   const annual = (annualRows.data ?? []).some(
@@ -54,7 +54,7 @@ export async function memberInfo(email: string): Promise<MemberInfo> {
   let offerStartedAt: string | null = member.data?.offer_started_at ?? null
   if (!offerStartedAt) {
     offerStartedAt = new Date().toISOString()
-    await db().from('members').upsert({ email: e, offer_started_at: offerStartedAt }, { onConflict: 'email' })
+    await db().from(t('members')).upsert({ email: e, offer_started_at: offerStartedAt }, { onConflict: 'email' })
   }
   return { owned, name: member.data?.name ?? '', annual, offerStartedAt }
 }
@@ -62,8 +62,8 @@ export async function memberInfo(email: string): Promise<MemberInfo> {
 /** Records the login; keeps a name the member already chose. */
 export async function touchMember(email: string, name: string): Promise<void> {
   const e = normalizeEmail(email)
-  const { data } = await db().from('members').select('name').eq('email', e).maybeSingle()
+  const { data } = await db().from(t('members')).select('name').eq('email', e).maybeSingle()
   await db()
-    .from('members')
+    .from(t('members'))
     .upsert({ email: e, name: data?.name || name, last_login_at: new Date().toISOString() }, { onConflict: 'email' })
 }

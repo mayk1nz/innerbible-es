@@ -9,6 +9,7 @@ import { PageHeader } from '../PageHeader'
 import { Avatar, FontScaleControl, buttonClass } from '../ui'
 import type { Lesson, LessonContent } from '@/lib/catalog'
 import { loadPlanDay } from '@/lib/content/plans/load'
+import { trackFor } from '@/lib/player'
 import { SEED_POSTS, SEED_REFLECTIONS } from '@/lib/community-seed'
 import { POINTS } from '@/lib/config'
 import { computeStats } from '@/lib/gamification'
@@ -49,6 +50,7 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
   const dayN = section.lessons.findIndex((l) => l.id === lesson.id) + 1
   const nextStatus = next ? planDayStatus(product.id, section, next.id, s.completed, today) : null
   const nextInPlan = Boolean(section.plan && next && section.lessons.some((l) => l.id === next.id))
+  const track = lesson.format === 'audio' ? trackFor(product, lesson) : null
 
   useEffect(() => {
     if (!waiting) setLastLesson(key)
@@ -105,21 +107,9 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         <FontScaleControl scale={s.fontScale} />
       </div>
 
-      {lesson.format === 'audio' && (
+      {track && (
         <div className="mb-5">
-          <AudioPlayer
-            src={lesson.audioSrc}
-            title={lesson.title}
-            subtitle={product.title}
-            cover={product.cover}
-            positionKey={key}
-            onEnded={() => {
-              if (!done) {
-                completeLesson(key)
-                setCelebrate(true)
-              }
-            }}
-          />
+          <AudioPlayer track={track} cover={product.cover} />
         </div>
       )}
 
