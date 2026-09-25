@@ -2,21 +2,37 @@
 
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
-import { GuideRow, ProductTile } from '../cards'
+import { ProductTile } from '../cards'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { EmptyState, SearchInput, SectionTitle } from '../ui'
-import { PRODUCTS } from '@/lib/catalog'
+import { OFFERS, PRODUCTS, type OfferId } from '@/lib/catalog'
 import { lessonHref, lessonKey, searchLessons } from '@/lib/progress'
 import { useAppState } from '@/lib/store'
+
+// Leer = the whole library, in two tabs so it never turns into one endless list:
+// the recorridos (the courses) and the guides, grouped by the purchase that brings them.
+
+type Tab = 'recorridos' | 'guias'
+
+const GUIDE_GROUP: Record<OfferId, string> = {
+  front: 'Regalos de tu compra',
+  upsell1: 'Incluido en el Audio Premium',
+  upsell2: 'Incluido en Palabras del Señor',
+}
 
 export function LibraryView() {
   const s = useAppState()
   const [query, setQuery] = useState('')
+  // The members area renders only in the browser (AppShell waits for the session), so
+  // the address can be read here: /leer?tab=guias opens on the guides.
+  const [tab, setTab] = useState<Tab>(() => (new URLSearchParams(window.location.search).get('tab') === 'guias' ? 'guias' : 'recorridos'))
   const hits = useMemo(() => searchLessons(query, s.owned), [query, s.owned])
   const searching = query.trim().length >= 2
   const recorridos = PRODUCTS.filter((p) => p.kind === 'recorrido')
-  const guias = PRODUCTS.filter((p) => p.kind !== 'recorrido')
+  const groups = OFFERS.map((o) => ({ offer: o, products: PRODUCTS.filter((p) => p.kind !== 'recorrido' && p.offer === o.id) })).filter(
+    (g) => g.products.length > 0,
+  )
 
   return (
     <>
@@ -50,21 +66,48 @@ export function LibraryView() {
         </section>
       ) : (
         <>
-          <SectionTitle>Recorridos</SectionTitle>
-          <div className="grid grid-cols-2 gap-3.5">
-            {recorridos.map((p) => (
-              <ProductTile key={p.id} product={p} state={s} />
+          <div role="tablist" aria-label="Secciones de la biblioteca" className="mt-5 grid grid-cols-2 gap-1 rounded-2xl border border-line bg-surface p-1">
+            {(
+              [
+                ['recorridos', 'Recorridos'],
+                ['guias', 'Guías'],
+              ] as const
+            ).map(([id, label]) => (
+              <button
+                key={id}
+                type="button"
+                role="tab"
+                id={`tab-${id}`}
+                aria-selected={tab === id}
+                aria-controls={`panel-${id}`}
+                onClick={() => setTab(id)}
+                className={`min-h-11 rounded-xl text-[15.5px] font-semibold transition ${tab === id ? 'bg-primary text-white shadow-card' : 'text-text hover:text-ink'}`}
+              >
+                {label}
+              </button>
             ))}
           </div>
 
-          <SectionTitle>Guías y bonos</SectionTitle>
-          <ul className="space-y-3">
-            {guias.map((p) => (
-              <li key={p.id}>
-                <GuideRow product={p} state={s} />
-              </li>
-            ))}
-          </ul>
+          <div role="tabpanel" id={`panel-${tab}`} aria-labelledby={`tab-${tab}`}>
+            {tab === 'recorridos' ? (
+              <div className="mt-5 grid grid-cols-2 gap-3.5">
+                {recorridos.map((p) => (
+                  <ProductTile key={p.id} product={p} state={s} />
+                ))}
+              </div>
+            ) : (
+              groups.map((g) => (
+                <section key={g.offer.id} aria-label={GUIDE_GROUP[g.offer.id]}>
+                  <SectionTitle>{GUIDE_GROUP[g.offer.id]}</SectionTitle>
+                  <div className="grid grid-cols-2 gap-3.5">
+                    {g.products.map((p) => (
+                      <ProductTile key={p.id} product={p} state={s} />
+                    ))}
+                  </div>
+                </section>
+              ))
+            )}
+          </div>
         </>
       )}
     </>

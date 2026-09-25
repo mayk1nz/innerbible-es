@@ -1,6 +1,6 @@
 import { useSyncExternalStore } from 'react'
 import type { OfferId } from './catalog'
-import { POINTS } from './config'
+import { POINTS, hasFullAccess } from './config'
 import { localDay } from './dates'
 
 // The member's state. While the app runs on sample data it lives in localStorage;
@@ -95,7 +95,12 @@ function sanitize(raw: unknown): AppState {
   return {
     v: 1,
     session,
-    owned: Array.isArray(raw.owned) ? raw.owned.filter((o): o is OfferId => OFFER_IDS.includes(o as OfferId)) : [],
+    owned:
+      session && hasFullAccess(session.email)
+        ? [...OFFER_IDS]
+        : Array.isArray(raw.owned)
+          ? raw.owned.filter((o): o is OfferId => OFFER_IDS.includes(o as OfferId))
+          : [],
     completed: isRecord(raw.completed) ? (raw.completed as AppState['completed']) : {},
     reflections: isRecord(raw.reflections) ? (raw.reflections as AppState['reflections']) : {},
     posts: Array.isArray(raw.posts) ? (raw.posts as UserPost[]) : [],
@@ -211,7 +216,7 @@ export function signIn(email: string, name: string): void {
   update((s) => ({
     ...s,
     session: { email, name },
-    owned: s.owned.length > 0 ? s.owned : ['front'],
+    owned: hasFullAccess(email) ? [...OFFER_IDS] : s.owned.length > 0 ? s.owned : ['front'],
   }))
 }
 

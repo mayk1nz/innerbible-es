@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { useMemo } from 'react'
-import { ProductHeroCard } from '../cards'
+import { ProductHeroCard, ProductTile } from '../cards'
 import { Cover } from '../Cover'
 import { Icon, type IconName } from '../icons'
 import { RankItem } from '../Leaderboard'
@@ -87,6 +87,20 @@ function TodayCard({ stats, target }: { stats: Stats; target: { product: Product
   )
 }
 
+/** A horizontal row of covers that scrolls sideways (swipe on the phone). */
+function Shelf({ products }: { products: Product[] }) {
+  const s = useAppState()
+  return (
+    <div className="-mx-5 flex snap-x snap-mandatory scroll-px-5 gap-3 overflow-x-auto px-5 pb-2 [scrollbar-width:none]">
+      {products.map((p) => (
+        <div key={p.id} className="flex w-[42%] max-w-[180px] shrink-0 snap-start">
+          <ProductTile product={p} state={s} />
+        </div>
+      ))}
+    </div>
+  )
+}
+
 export function HomeView() {
   const s = useAppState()
   const today = useToday()
@@ -100,6 +114,11 @@ export function HomeView() {
   )
   const me = board.find((r) => r.me)
   const recorridos = PRODUCTS.filter((p) => p.kind === 'recorrido' && isOwned(p, s.owned))
+  // One big card — the recorrido in progress — and the rest as small covers, so Home
+  // stays short however much the member owns.
+  const hero = recorridos.find((p) => p.id === target?.product.id) ?? recorridos[0]
+  const otherRecorridos = recorridos.filter((p) => p !== hero)
+  const guides = PRODUCTS.filter((p) => p.kind !== 'recorrido' && isOwned(p, s.owned))
   const pending = OFFERS.filter((o) => o.id !== 'front' && !s.owned.includes(o.id))
 
   return (
@@ -108,12 +127,34 @@ export function HomeView() {
       <StatsStrip stats={stats} />
       <TodayCard stats={stats} target={target} />
 
-      <SectionTitle>Tus recorridos</SectionTitle>
-      <div className="space-y-5">
-        {recorridos.map((p) => (
-          <ProductHeroCard key={p.id} product={p} completed={s.completed} />
-        ))}
-      </div>
+      {hero && (
+        <>
+          <SectionTitle>{otherRecorridos.length ? 'Tu recorrido actual' : 'Tu recorrido'}</SectionTitle>
+          <ProductHeroCard product={hero} completed={s.completed} />
+        </>
+      )}
+
+      {otherRecorridos.length > 0 && (
+        <>
+          <SectionTitle>Tus otros recorridos</SectionTitle>
+          <Shelf products={otherRecorridos} />
+        </>
+      )}
+
+      {guides.length > 0 && (
+        <>
+          <SectionTitle
+            action={
+              <Link href="/leer?tab=guias" className="text-[15px] font-semibold text-primary underline-offset-4 hover:underline">
+                Ver todas
+              </Link>
+            }
+          >
+            Tus guías y regalos
+          </SectionTitle>
+          <Shelf products={guides} />
+        </>
+      )}
 
       {pending.length > 0 && (
         <>

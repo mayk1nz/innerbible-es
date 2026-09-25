@@ -56,7 +56,12 @@ export function ProductTile({ product, state }: { product: Product; state: AppSt
       <span className="flex flex-1 flex-col gap-2.5 p-3.5">
         <span className="font-serif text-[15.5px] font-medium leading-snug text-ink">{product.title}</span>
         <span className="mt-auto">
-          {owned ? (
+          {owned && product.kind === 'enlace' ? (
+            <span className="inline-flex items-center gap-1 text-[13px] font-semibold text-primary">
+              <Icon name="message" className="size-3.5" />
+              Entrar al grupo
+            </span>
+          ) : owned ? (
             <span className="flex items-center gap-2">
               <ProgressBar value={progress.pct} label={`Progreso de ${product.title}`} />
               <span className="text-xs font-semibold tabular-nums text-muted">{progress.pct}%</span>
@@ -69,30 +74,6 @@ export function ProductTile({ product, state }: { product: Product; state: AppSt
           )}
         </span>
       </span>
-    </Link>
-  )
-}
-
-/** Row in Leer → Guías. */
-export function GuideRow({ product, state }: { product: Product; state: AppState }) {
-  const owned = isOwned(product, state.owned)
-  const progress = productProgress(product, state.completed)
-  const meta = !owned
-    ? `Incluido en ${offerById(product.offer).short}`
-    : product.kind === 'enlace'
-      ? 'Oración y estudio en grupo'
-      : progress.done > 0
-        ? `${progress.done} de ${progress.total} · ${progress.pct}%`
-        : contentsLine(product)
-
-  return (
-    <Link href={`/modulo/${product.id}`} className="flex items-center gap-3.5 rounded-2xl border border-line bg-surface p-2 pr-4 shadow-card transition hover:bg-surface-hover">
-      <Cover cover={product.cover} size="thumb" locked={!owned} />
-      <span className="min-w-0 flex-1">
-        <span className="block font-serif text-[16.5px] leading-snug text-ink">{product.title}</span>
-        <span className={`mt-1 block text-[14px] ${owned ? 'text-muted' : 'font-semibold text-gold'}`}>{meta}</span>
-      </span>
-      <Icon name={product.kind === 'enlace' && owned ? 'external' : 'chevronRight'} className="size-5 shrink-0 text-muted" />
     </Link>
   )
 }

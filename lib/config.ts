@@ -21,6 +21,30 @@ export const OFFER_PRICES: Record<'upsell1' | 'upsell2', string> = {
   upsell2: process.env.NEXT_PUBLIC_PRICE_UPSELL2 || '',
 }
 
+// Accounts that see every offer unlocked (the owner). Kept as hashes (cyrb53 of the
+// lowercase e-mail) so the addresses never appear in the site's public code.
+// Temporary, until access comes from the KashPay purchases on the backend.
+const FULL_ACCESS = new Set(['1re1mulvdxk'])
+
+function cyrb53(text: string): string {
+  let h1 = 0xdeadbeef
+  let h2 = 0x41c6ce57
+  for (let i = 0; i < text.length; i++) {
+    const ch = text.charCodeAt(i)
+    h1 = Math.imul(h1 ^ ch, 2654435761)
+    h2 = Math.imul(h2 ^ ch, 1597334677)
+  }
+  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507)
+  h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909)
+  h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507)
+  h2 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909)
+  return (4294967296 * (2097151 & h2) + (h1 >>> 0)).toString(36)
+}
+
+export function hasFullAccess(email: string): boolean {
+  return FULL_ACCESS.has(cyrb53(email.trim().toLowerCase()))
+}
+
 /** What each action is worth. Shown to members, so keep it simple. */
 export const POINTS = { lesson: 10, reflection: 5, post: 3 } as const
 

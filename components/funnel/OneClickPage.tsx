@@ -56,6 +56,7 @@ const PALABRAS = {
     'Plan de 90 días de Transformación Espiritual',
     'Plan de 90 días para aprender a vivir según la filosofía de Jesús (paso a paso)',
     'Plan de 90 días para cambiar tu mentalidad y convertirte en un verdadero cristiano',
+    'Biblioteca «Caminando con Gigantes»',
     'Regalo secreto',
     'Garantía incondicional de 30 días',
   ],
