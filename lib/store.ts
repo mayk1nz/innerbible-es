@@ -1,6 +1,6 @@
 import { useSyncExternalStore } from 'react'
 import type { OfferId } from './catalog'
-import { POINTS, hasFullAccess } from './config'
+import { POINTS } from './config'
 import { localDay } from './dates'
 
 // The member's state. While the app runs on sample data it lives in localStorage;
@@ -95,12 +95,8 @@ function sanitize(raw: unknown): AppState {
   return {
     v: 1,
     session,
-    owned:
-      session && hasFullAccess(session.email)
-        ? [...OFFER_IDS]
-        : Array.isArray(raw.owned)
-          ? raw.owned.filter((o): o is OfferId => OFFER_IDS.includes(o as OfferId))
-          : [],
+    // Only a cache: AppShell refreshes it from the server (/api/auth/me) on every visit.
+    owned: Array.isArray(raw.owned) ? raw.owned.filter((o): o is OfferId => OFFER_IDS.includes(o as OfferId)) : [],
     completed: isRecord(raw.completed) ? (raw.completed as AppState['completed']) : {},
     reflections: isRecord(raw.reflections) ? (raw.reflections as AppState['reflections']) : {},
     posts: Array.isArray(raw.posts) ? (raw.posts as UserPost[]) : [],
@@ -211,17 +207,23 @@ function withoutPoint(points: PointEvent[], id: string): PointEvent[] {
   return points.some((p) => p.id === id) ? points.filter((p) => p.id !== id) : points
 }
 
-/** Mock login: the backend will verify the email code and read the purchases instead. */
-export function signIn(email: string, name: string): void {
-  update((s) => ({
-    ...s,
-    session: { email, name },
-    owned: hasFullAccess(email) ? [...OFFER_IDS] : s.owned.length > 0 ? s.owned : ['front'],
-  }))
+/**
+ * The member as the server knows them (after /api/auth/login or /api/auth/me): the
+ * offers come from the purchases, never from this device. Progress on this device is
+ * kept; if another e-mail signs in here, it starts from scratch.
+ */
+export function setMember(email: string, name: string, owned: OfferId[]): void {
+  update((s) => {
+    const same = s.session?.email === email
+    const base = same ? s : { ...DEFAULT_STATE, fontScale: s.fontScale }
+    return { ...base, session: { email, name: same ? (s.session?.name ?? name) : name }, owned: owned.filter((o) => OFFER_IDS.includes(o)) }
+  })
 }
 
 export function signOut(): void {
   update((s) => ({ ...s, session: null }))
+  // Also end the server session (the cookie); if offline, the next /me check does it.
+  void fetch('/api/auth/me', { method: 'DELETE' }).catch(() => {})
 }
 
 export function completeLesson(key: string): void {

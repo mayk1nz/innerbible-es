@@ -1,99 +1,93 @@
-import { hasFullAccess } from '@/lib/config'
 import { searchLibrary } from '@/lib/consejero/knowledge'
 import { APP_MAP } from '@/lib/consejero/map'
 import { CRISIS_NOTE, SYSTEM_PROMPT, contextMessage, looksLikeCrisis } from '@/lib/consejero/prompt'
+import { clearMessages, consejeroStatus, countMessage, recentMessages, saveMessage } from '@/lib/server/consejero'
+import { sessionEmail } from '@/lib/server/session'
 
-// Tu Consejero Bíblico: one answer, streamed as it is written.
-//
-// ACCESS — TEMPORARY: until the backend exists (Supabase + KashPay webhook), only the
-// owner's account can use it, so nobody else can spend the DeepSeek key. With the
-// backend this checks the member's upsell-2 subscription, the 30-per-day limit and
-// the free daily question for everyone else.
+// Tu Consejero Bíblico.
+//   GET    → today's status (member?, limit, used, offer start) + the recent conversation
+//   POST   → { message } — one answer, streamed as it is written
+//   DELETE → erase this member's conversation
+// The signed-in member comes from the session cookie; the conversation lives in the
+// database (consejero_messages), visible only through these routes.
 
 export const dynamic = 'force-dynamic'
 
 const DEEPSEEK_URL = 'https://api.deepseek.com/chat/completions'
-const MAX_HISTORY = 8
+const HISTORY_FOR_MODEL = 8
+const HISTORY_FOR_SCREEN = 40
 const MAX_CHARS = 1500
 
-interface ChatMessage {
-  role: 'user' | 'assistant'
-  content: string
+const json = (body: unknown, status = 200) => Response.json(body, { status })
+
+export async function GET() {
+  const email = await sessionEmail()
+  if (!email) return json({ error: 'no-session' }, 401)
+  const [status, messages] = await Promise.all([consejeroStatus(email), recentMessages(email, HISTORY_FOR_SCREEN)])
+  return json({ ...status, messages })
 }
 
-function badRequest(error: string, status = 400) {
-  return Response.json({ error }, { status })
-}
-
-function parseMessages(raw: unknown): ChatMessage[] | null {
-  if (!Array.isArray(raw) || raw.length === 0 || raw.length > 40) return null
-  const out: ChatMessage[] = []
-  for (const m of raw) {
-    if (typeof m !== 'object' || m === null) return null
-    const { role, content } = m as Record<string, unknown>
-    if ((role !== 'user' && role !== 'assistant') || typeof content !== 'string' || !content.trim()) return null
-    out.push({ role, content: content.trim().slice(0, MAX_CHARS) })
-  }
-  return out.at(-1)?.role === 'user' ? out : null
+export async function DELETE() {
+  const email = await sessionEmail()
+  if (!email) return json({ error: 'no-session' }, 401)
+  await clearMessages(email)
+  return json({ ok: true })
 }
 
 export async function POST(request: Request) {
-  let body: Record<string, unknown>
-  try {
-    body = (await request.json()) as Record<string, unknown>
-  } catch {
-    return badRequest('invalid-json')
-  }
-  const email = typeof body.email === 'string' ? body.email : ''
-  const messages = parseMessages(body.messages)
-  if (!messages) return badRequest('invalid-messages')
-  if (!hasFullAccess(email)) return badRequest('locked', 403)
+  const email = await sessionEmail()
+  if (!email) return json({ error: 'no-session' }, 401)
+  const body = (await request.json().catch(() => ({}))) as { message?: unknown }
+  const message = typeof body.message === 'string' ? body.message.trim().slice(0, MAX_CHARS) : ''
+  if (!message) return json({ error: 'empty' }, 400)
 
-  const last = messages[messages.length - 1]
-  const crisis = looksLikeCrisis(last.content)
-  // Search with the last two things the member said, so a short follow-up ("¿y qué hago?")
-  // still finds the right passages.
-  const previousUser = messages.slice(0, -1).reverse().find((m) => m.role === 'user')?.content ?? ''
-  const passages = searchLibrary(`${last.content} ${previousUser}`, 3)
+  const status = await consejeroStatus(email)
+  if (status.used >= status.limit) return json({ error: status.member ? 'limit' : 'free-used', ...status }, 429)
 
-  const history = messages.slice(-MAX_HISTORY - 1, -1)
+  const key = process.env.DEEPSEEK_API_KEY
+  if (!key) return json({ error: 'not-configured' }, 503)
+
+  const crisis = looksLikeCrisis(message)
+  const history = (await recentMessages(email, HISTORY_FOR_MODEL)).map(({ role, content }) => ({ role, content }))
+  const previousUser = [...history].reverse().find((m) => m.role === 'user')?.content ?? ''
+  const passages = searchLibrary(`${message} ${previousUser}`, 3)
+
   const payload = [
     // Instructions + the map of the app first and always identical (cached by DeepSeek).
     { role: 'system', content: `${SYSTEM_PROMPT}\n\nMAPA DE LA APP (todo lo que la persona puede hacer en los planes de Palabras del Señor):\n${APP_MAP}` },
     ...history,
     {
       role: 'user',
-      content: `${contextMessage(passages)}\n\n${crisis ? `${CRISIS_NOTE}\n\n` : ''}---\nMensaje de la persona:\n${last.content}`,
+      content: `${contextMessage(passages)}\n\n${crisis ? `${CRISIS_NOTE}\n\n` : ''}---\nMensaje de la persona:\n${message}`,
     },
   ]
-
-  const headers = new Headers({ 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' })
-  if (crisis) headers.set('x-crisis', '1')
-
-  // Local development without a key: a fixed answer, to try the screen.
-  const key = process.env.DEEPSEEK_API_KEY
-  if (!key) {
-    if (process.env.NODE_ENV !== 'production' && process.env.CONSEJERO_MOCK === '1') {
-      return new Response(mockStream(passages.map((p) => p.source)), { headers })
-    }
-    return badRequest('not-configured', 503)
-  }
 
   const upstream = await fetch(DEEPSEEK_URL, {
     method: 'POST',
     headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
     body: JSON.stringify({ model: 'deepseek-chat', messages: payload, stream: true, temperature: 0.7, max_tokens: 700 }),
   }).catch(() => null)
-  if (!upstream || !upstream.ok || !upstream.body) return badRequest('upstream', 502)
+  if (!upstream || !upstream.ok || !upstream.body) return json({ error: 'upstream' }, 502)
 
-  return new Response(sseToText(upstream.body), { headers })
+  // Counted and saved only once DeepSeek has accepted the question.
+  await Promise.all([countMessage(email), saveMessage(email, 'user', message, crisis)])
+
+  const headers = new Headers({ 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' })
+  if (crisis) headers.set('x-crisis', '1')
+  return new Response(
+    sseToText(upstream.body, async (answer) => {
+      if (answer.trim()) await saveMessage(email, 'assistant', answer, crisis)
+    }),
+    { headers },
+  )
 }
 
-/** DeepSeek's server-sent events → just the text of the answer. */
-function sseToText(body: ReadableStream<Uint8Array>): ReadableStream<Uint8Array> {
+/** DeepSeek's server-sent events → just the text of the answer; `done` gets the full text. */
+function sseToText(body: ReadableStream<Uint8Array>, done: (answer: string) => Promise<void>): ReadableStream<Uint8Array> {
   const decoder = new TextDecoder()
   const encoder = new TextEncoder()
   let buffer = ''
+  let answer = ''
   return body.pipeThrough(
     new TransformStream<Uint8Array, Uint8Array>({
       transform(chunk, controller) {
@@ -105,28 +99,18 @@ function sseToText(body: ReadableStream<Uint8Array>): ReadableStream<Uint8Array>
           if (!data || data === '[DONE]') continue
           try {
             const delta = (JSON.parse(data) as { choices?: { delta?: { content?: string } }[] }).choices?.[0]?.delta?.content
-            if (delta) controller.enqueue(encoder.encode(delta))
+            if (delta) {
+              answer += delta
+              controller.enqueue(encoder.encode(delta))
+            }
           } catch {
             // a partial or keep-alive line
           }
         }
       },
+      async flush() {
+        await done(answer).catch(() => {})
+      },
     }),
   )
-}
-
-function mockStream(sources: string[]): ReadableStream<Uint8Array> {
-  const text = `Gracias por abrir tu corazón. Lo que sientes importa, y no tienes que cargarlo en soledad.\n\n«Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros» — 1 Pedro 5:7.\n\nHoy puedes dar un paso pequeño: escribe en una hoja lo que más te pesa y entrégaselo a Dios en una oración corta.${
-    sources[0] ? `\n\nTe puede ayudar: **${sources[0]}**.` : ''
-  }\n\nSeñor, pongo en tus manos lo que hoy me quita la paz. Amén.`
-  const encoder = new TextEncoder()
-  const words = text.split(/(?<=\s)/)
-  let i = 0
-  return new ReadableStream({
-    async pull(controller) {
-      if (i >= words.length) return controller.close()
-      await new Promise((r) => setTimeout(r, 25))
-      controller.enqueue(encoder.encode(words[i++]))
-    },
-  })
 }

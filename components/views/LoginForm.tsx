@@ -5,7 +5,8 @@ import { useEffect, useState, type FormEvent } from 'react'
 import { Icon } from '../icons'
 import { BrandMark, buttonClass } from '../ui'
 import { APP, DEMO_MODE } from '@/lib/config'
-import { signIn, useAppState, useHydrated } from '@/lib/store'
+import type { OfferId } from '@/lib/catalog'
+import { setMember, useAppState, useHydrated } from '@/lib/store'
 import { nameFromEmail } from '@/lib/text'
 
 // Two steps: the purchase email, then a 6-digit code sent to it. The reference app
@@ -27,13 +28,15 @@ export function LoginForm() {
   const [email, setEmail] = useState('')
   const [code, setCode] = useState('')
   const [error, setError] = useState<string | null>(null)
+  const [busy, setBusy] = useState(false)
 
   useEffect(() => {
     if (hydrated && session) router.replace('/inicio')
   }, [hydrated, session, router])
 
-  const submitEmail = (e: FormEvent) => {
+  const submitEmail = async (e: FormEvent) => {
     e.preventDefault()
+    if (busy) return
     const clean = email.trim().toLowerCase()
     if (!EMAIL_RE.test(clean)) {
       setError('Revisa tu correo: parece incompleto.')
@@ -41,12 +44,31 @@ export function LoginForm() {
     }
     setEmail(clean)
     setError(null)
-    if (!SEND_CODE) {
-      signIn(clean, nameFromEmail(clean))
-      router.replace('/inicio')
+    if (SEND_CODE) {
+      setStep('code')
       return
     }
-    setStep('code')
+    setBusy(true)
+    try {
+      const name = nameFromEmail(clean)
+      const res = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ email: clean, name }),
+      })
+      if (res.status === 403) {
+        setError('No encontramos una compra con este correo. Usa el mismo correo con el que compraste o escríbenos y te ayudamos.')
+        return
+      }
+      if (!res.ok) throw new Error(String(res.status))
+      const { owned } = (await res.json()) as { owned: OfferId[] }
+      setMember(clean, name, owned)
+      router.replace('/inicio')
+    } catch {
+      setError('No pudimos conectar. Revisa tu internet e inténtalo de nuevo.')
+    } finally {
+      setBusy(false)
+    }
   }
 
   const submitCode = (e: FormEvent) => {
@@ -55,7 +77,8 @@ export function LoginForm() {
       setError('El código tiene 6 números.')
       return
     }
-    signIn(email, nameFromEmail(email))
+    // TODO(SEND_CODE): verify the code on the server (it would return the owned offers).
+    setMember(email, nameFromEmail(email), ['front'])
     router.replace('/inicio')
   }
 
@@ -102,8 +125,8 @@ export function LoginForm() {
                 {error}
               </p>
             )}
-            <button type="submit" className={`${buttonClass.primary} mt-4`}>
-              Continuar
+            <button type="submit" disabled={busy} aria-busy={busy} className={`${buttonClass.primary} mt-4`}>
+              {busy ? 'Entrando…' : 'Continuar'}
             </button>
             <p id="login-help" className="mt-4 text-center text-[14.5px] leading-relaxed text-muted">
               Usa el mismo correo con el que hiciste tu compra.{SEND_CODE && ' Te enviaremos un código para entrar.'}

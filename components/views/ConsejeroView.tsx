@@ -6,12 +6,13 @@ import { PageHeader } from '../PageHeader'
 import { buttonClass } from '../ui'
 import { CONSEJERO } from '@/lib/config'
 import { PAIN_EXAMPLES, TOPIC_GROUPS } from '@/lib/consejero/topics'
-import { useAppState, useToday } from '@/lib/store'
+import { useAppState } from '@/lib/store'
 import { formatUsd } from '@/lib/funnel/config'
 
-// Tu Consejero Bíblico. Members with Palabras del Señor (upsell 2) talk with it; the
-// rest see what it is, an example conversation and the half-price offer with its
-// countdown. The answers come from /api/consejero (DeepSeek + the app's own texts).
+// Tu Consejero Bíblico. Members with Palabras del Señor (upsell 2) talk with it every
+// day; everyone else gets one free question a day, examples of the biggest pains and
+// the half-price offer with their own countdown. Everything comes from /api/consejero
+// (the conversation is kept on the server, for the member only).
 
 interface Message {
   role: 'user' | 'assistant'
@@ -19,85 +20,66 @@ interface Message {
   crisis?: boolean
 }
 
-interface Saved {
-  day: string
+interface Status {
+  member: boolean
+  limit: number
   used: number
+  offerStartedAt: string | null
   messages: Message[]
 }
 
-const CHAT_KEY = 'ib-es-consejero'
-const OFFER_KEY = 'ib-es-consejero-oferta'
-const MAX_SAVED = 40
+export function ConsejeroView() {
+  const { session } = useAppState()
+  const [status, setStatus] = useState<Status | 'loading' | 'error'>('loading')
+  const [attempt, setAttempt] = useState(0)
 
-/** "¿Sobre qué quieres conversar?": groups first, then ready-to-send first sentences. */
-function TopicPicker({ onPick }: { onPick: (text: string) => void }) {
-  const [open, setOpen] = useState<string | null>(null)
-  const group = TOPIC_GROUPS.find((g) => g.id === open)
-  return (
-    <section aria-label="Temas para conversar" className="mt-6">
-      <h2 className="font-serif text-[20px] font-semibold text-ink">¿Sobre qué quieres conversar?</h2>
-      <div className="mt-3 grid grid-cols-2 gap-2.5">
-        {TOPIC_GROUPS.map((g) => {
-          const active = g.id === open
-          return (
-            <button
-              key={g.id}
-              type="button"
-              aria-expanded={active}
-              onClick={() => setOpen(active ? null : g.id)}
-              className={`flex min-h-16 items-center gap-3 rounded-2xl border px-3.5 py-3 text-left transition ${
-                active ? 'border-primary bg-primary text-white shadow-card' : 'border-line bg-surface text-ink hover:bg-surface-hover'
-              }`}
-            >
-              <span className={`grid size-9 shrink-0 place-items-center rounded-xl ${active ? 'bg-white/15 text-gold-bright' : 'bg-gold-soft text-gold'}`}>
-                <Icon name={g.icon} className="size-5" />
-              </span>
-              <span className="text-[15px] font-semibold leading-tight">{g.label}</span>
-            </button>
-          )
-        })}
-      </div>
-      {group && (
-        <ul className="animate-rise mt-3 space-y-2">
-          {group.starters.map((s) => (
-            <li key={s}>
-              <button
-                type="button"
-                onClick={() => onPick(s)}
-                className="flex min-h-12 w-full items-center gap-3 rounded-2xl border border-line bg-surface-2 px-4 py-3 text-left text-[15.5px] text-ink transition hover:bg-surface-hover"
-              >
-                <span className="flex-1">{s}</span>
-                <Icon name="send" className="size-4 shrink-0 text-primary" />
-              </button>
-            </li>
-          ))}
-        </ul>
-      )}
-      <p className="mt-4 text-center text-[14px] text-muted">O escríbelo con tus propias palabras aquí abajo.</p>
-    </section>
-  )
-}
-
-function load(): Saved {
-  try {
-    const raw = window.localStorage.getItem(CHAT_KEY)
-    if (raw) {
-      const s = JSON.parse(raw) as Saved
-      if (Array.isArray(s.messages)) return s
+  useEffect(() => {
+    let alive = true
+    fetch('/api/consejero', { cache: 'no-store' })
+      .then(async (res) => {
+        if (!res.ok) throw new Error(String(res.status))
+        const data = (await res.json()) as Status
+        if (alive) setStatus(data)
+      })
+      .catch(() => alive && setStatus('error'))
+    return () => {
+      alive = false
     }
-  } catch {
-    // unreadable: start fresh
+  }, [attempt])
+
+  if (status === 'loading') {
+    return (
+      <div aria-busy className="animate-pulse space-y-4">
+        <div className="h-44 rounded-[28px] bg-primary/80" />
+        <div className="h-6 w-2/3 rounded bg-line-soft" />
+        <div className="grid grid-cols-2 gap-2.5">
+          {[0, 1, 2, 3].map((i) => (
+            <div key={i} className="h-16 rounded-2xl bg-surface" />
+          ))}
+        </div>
+      </div>
+    )
   }
-  return { day: '', used: 0, messages: [] }
+  if (status === 'error') {
+    return (
+      <>
+        <PageHeader title="Tu Consejero Bíblico" />
+        <div className="rounded-3xl border border-line bg-surface p-6 text-center">
+          <p className="text-[16px] text-text">No pudimos abrir tu Consejero. Revisa tu conexión.</p>
+          <button type="button" onClick={() => { setStatus('loading'); setAttempt((a) => a + 1) }} className={`${buttonClass.secondary} mt-4`}>
+            Intentar de nuevo
+          </button>
+        </div>
+      </>
+    )
+  }
+
+  const name = session?.name ?? ''
+  if (status.member) return <Chat status={status} name={name} mode="member" />
+  return <LockedConsejero status={status} name={name} />
 }
 
-function save(s: Saved) {
-  try {
-    window.localStorage.setItem(CHAT_KEY, JSON.stringify({ ...s, messages: s.messages.slice(-MAX_SAVED) }))
-  } catch {
-    // storage full or blocked: the conversation just isn't kept
-  }
-}
+// ─── Pieces ─────────────────────────────────────────────────────────
 
 /** "a **b** c" → a <strong>b</strong> c, paragraph by paragraph. */
 function Answer({ text }: { text: string }) {
@@ -143,49 +125,92 @@ function CrisisCard() {
   )
 }
 
-export function ConsejeroView() {
-  const s = useAppState()
-  if (!s.owned.includes('upsell2')) return <LockedConsejero />
-  return <Chat email={s.session?.email ?? ''} name={s.session?.name ?? ''} />
+/** "¿Sobre qué quieres conversar?": groups first, then ready-to-send first sentences. */
+function TopicPicker({ onPick, title = '¿Sobre qué quieres conversar?' }: { onPick: (text: string) => void; title?: string }) {
+  const [open, setOpen] = useState<string | null>(null)
+  const group = TOPIC_GROUPS.find((g) => g.id === open)
+  return (
+    <section aria-label="Temas para conversar" className="mt-6">
+      <h2 className="font-serif text-[20px] font-semibold text-ink">{title}</h2>
+      <div className="mt-3 grid grid-cols-2 gap-2.5">
+        {TOPIC_GROUPS.map((g) => {
+          const active = g.id === open
+          return (
+            <button
+              key={g.id}
+              type="button"
+              aria-expanded={active}
+              onClick={() => setOpen(active ? null : g.id)}
+              className={`flex min-h-16 items-center gap-3 rounded-2xl border px-3.5 py-3 text-left transition ${
+                active ? 'border-primary bg-primary text-white shadow-card' : 'border-line bg-surface text-ink hover:bg-surface-hover'
+              }`}
+            >
+              <span className={`grid size-9 shrink-0 place-items-center rounded-xl ${active ? 'bg-white/15 text-gold-bright' : 'bg-gold-soft text-gold'}`}>
+                <Icon name={g.icon} className="size-5" />
+              </span>
+              <span className="text-[15px] font-semibold leading-tight">{g.label}</span>
+            </button>
+          )
+        })}
+      </div>
+      {group && (
+        <ul className="animate-rise mt-3 space-y-2">
+          {group.starters.map((s) => (
+            <li key={s}>
+              <button
+                type="button"
+                onClick={() => onPick(s)}
+                className="flex min-h-12 w-full items-center gap-3 rounded-2xl border border-line bg-surface-2 px-4 py-3 text-left text-[15.5px] text-ink transition hover:bg-surface-hover"
+              >
+                <span className="flex-1">{s}</span>
+                <Icon name="send" className="size-4 shrink-0 text-primary" />
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+      <p className="mt-4 text-center text-[14px] text-muted">O escríbelo con tus propias palabras aquí abajo.</p>
+    </section>
+  )
 }
 
 // ─── The conversation ─────────────────────────────────────────────
 
-function Chat({ email, name }: { email: string; name: string }) {
-  const today = useToday()
-  // Rendered only in the browser (AppShell waits for the session), so storage is readable here.
-  const [saved, setSaved] = useState<Saved>(() => load())
+function Chat({ status, name, mode }: { status: Status; name: string; mode: 'member' | 'free' }) {
+  const [messages, setMessages] = useState<Message[]>(status.messages)
+  const [used, setUsed] = useState(status.used)
   const [input, setInput] = useState('')
   const [busy, setBusy] = useState(false)
   const [notice, setNotice] = useState<string | null>(null)
   const endRef = useRef<HTMLDivElement>(null)
-  const used = saved.day === today ? saved.used : 0
-  const left = Math.max(0, CONSEJERO.dailyLimit - used)
+  const left = Math.max(0, status.limit - used)
+  const free = mode === 'free'
 
   useEffect(() => {
-    endRef.current?.scrollIntoView({ behavior: 'smooth', block: 'end' })
-  }, [saved.messages])
+    if (messages.length) endRef.current?.scrollIntoView({ behavior: 'smooth', block: 'end' })
+  }, [messages])
 
   const send = async (text: string) => {
     const question = text.trim()
     if (!question || busy || left === 0) return
+    const before = messages
     setInput('')
     setNotice(null)
     setBusy(true)
-    const history: Message[] = [...saved.messages, { role: 'user', content: question }]
-    let current: Saved = { day: today, used: used + 1, messages: [...history, { role: 'assistant', content: '' }] }
-    setSaved(current)
+    const withQuestion: Message[] = [...before, { role: 'user', content: question }]
+    setMessages([...withQuestion, { role: 'assistant', content: '' }])
 
     try {
       const res = await fetch('/api/consejero', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ email, messages: history.map(({ role, content }) => ({ role, content })) }),
+        body: JSON.stringify({ message: question }),
       })
       if (!res.ok || !res.body) {
         const code = ((await res.json().catch(() => ({}))) as { error?: string }).error
         throw new Error(code ?? 'upstream')
       }
+      setUsed((u) => u + 1)
       const crisis = res.headers.get('x-crisis') === '1'
       const reader = res.body.getReader()
       const decoder = new TextDecoder()
@@ -194,21 +219,27 @@ function Chat({ email, name }: { email: string; name: string }) {
         const { done, value } = await reader.read()
         if (done) break
         answer += decoder.decode(value, { stream: true })
-        current = { ...current, messages: [...history, { role: 'assistant', content: answer, crisis }] }
-        setSaved(current)
+        setMessages([...withQuestion, { role: 'assistant', content: answer, crisis }])
       }
-      save(current)
     } catch (err) {
-      // Nothing was answered: give the question back and don't count it.
+      // Nothing was answered: give the question back.
       const code = err instanceof Error ? err.message : ''
-      setSaved({ ...saved })
-      setInput(question)
+      setMessages(before)
+      if (code === 'limit' || code === 'free-used') {
+        setUsed(status.limit)
+      } else {
+        setInput(question)
+      }
       setNotice(
-        code === 'locked'
-          ? 'Tu Consejero se está preparando y muy pronto podrás conversar aquí.'
-          : code === 'not-configured'
-            ? 'El Consejero todavía no está conectado. Vuelve en un rato.'
-            : 'No pude responder ahora. Revisa tu conexión e inténtalo de nuevo en un momento.',
+        code === 'limit'
+          ? `Llegaste a las ${status.limit} conversaciones de hoy. ¡Te espero mañana!`
+          : code === 'free-used'
+            ? 'Ya usaste tu consulta gratuita de hoy. Vuelve mañana, o desbloquea tu Consejero para conversar cada día.'
+            : code === 'not-configured'
+              ? 'El Consejero todavía no está conectado. Vuelve en un rato.'
+              : code === 'no-session'
+                ? 'Tu sesión terminó. Vuelve a entrar con tu correo.'
+                : 'No pude responder ahora. Revisa tu conexión e inténtalo de nuevo en un momento.',
       )
     } finally {
       setBusy(false)
@@ -220,42 +251,51 @@ function Chat({ email, name }: { email: string; name: string }) {
     void send(input)
   }
 
-  const reset = () => {
-    const fresh = { day: saved.day, used: saved.used, messages: [] }
-    setSaved(fresh)
-    save(fresh)
+  const reset = async () => {
+    if (!window.confirm('¿Borrar toda tu conversación con el Consejero? No se puede deshacer.')) return
+    const res = await fetch('/api/consejero', { method: 'DELETE' }).catch(() => null)
+    if (res?.ok) setMessages([])
   }
 
-  const empty = saved.messages.length === 0
+  const empty = messages.length === 0
 
   return (
     <>
-      {empty ? (
-        <>
-          <div className="relative overflow-hidden rounded-[28px] bg-primary px-5 pb-6 pt-5 text-white shadow-float">
-            <div
-              aria-hidden
-              className="pointer-events-none absolute inset-0"
-              style={{ backgroundImage: 'radial-gradient(90% 70% at 85% 0%, rgba(224,172,74,.35), transparent 60%)' }}
-            />
-            <div className="relative">
-              <span className="grid size-12 place-items-center rounded-2xl bg-white/10 text-gold-bright">
-                <Icon name="chatCross" className="size-6" />
-              </span>
-              <h1 className="mt-4 font-serif text-[27px] font-semibold leading-tight">Hola{name ? `, ${name}` : ''}</h1>
-              <p className="mt-1.5 text-[16px] leading-relaxed text-white/85">
-                Soy tu Consejero Bíblico. Cuéntame lo que llevas en el corazón y buscaremos juntos luz en la Palabra de Dios.
-              </p>
-            </div>
+      {free ? (
+        <div className="rounded-3xl border border-line bg-surface p-4">
+          <p className="flex items-center gap-2 text-[13px] font-semibold uppercase tracking-[0.08em] text-gold">
+            <Icon name="gift" className="size-4" />
+            Tu consulta gratuita de hoy
+          </p>
+          <p className="mt-1 text-[15px] leading-snug text-text">
+            {left > 0 ? 'Pruébalo ahora: cuéntale lo que llevas en el corazón. Tienes 1 consulta gratis cada día.' : 'Ya usaste la de hoy. Mañana tendrás otra.'}
+          </p>
+        </div>
+      ) : empty ? (
+        <div className="relative overflow-hidden rounded-[28px] bg-primary px-5 pb-6 pt-5 text-white shadow-float">
+          <div
+            aria-hidden
+            className="pointer-events-none absolute inset-0"
+            style={{ backgroundImage: 'radial-gradient(90% 70% at 85% 0%, rgba(224,172,74,.35), transparent 60%)' }}
+          />
+          <div className="relative">
+            <span className="grid size-12 place-items-center rounded-2xl bg-white/10 text-gold-bright">
+              <Icon name="chatCross" className="size-6" />
+            </span>
+            <h1 className="mt-4 font-serif text-[27px] font-semibold leading-tight">Hola{name ? `, ${name}` : ''}</h1>
+            <p className="mt-1.5 text-[16px] leading-relaxed text-white/85">
+              Soy tu Consejero Bíblico. Cuéntame lo que llevas en el corazón y buscaremos juntos luz en la Palabra de Dios.
+            </p>
           </div>
-          <TopicPicker onPick={(t) => void send(t)} />
-        </>
+        </div>
       ) : (
         <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra" />
       )}
 
-      <div className={`space-y-4 ${empty ? '' : ''}`}>
-        {saved.messages.map((m, i) =>
+      {empty && left > 0 && <TopicPicker onPick={(t) => void send(t)} title={free ? '¿Sobre qué quieres preguntar?' : undefined} />}
+
+      <div className="mt-4 space-y-4">
+        {messages.map((m, i) =>
           m.role === 'user' ? (
             <div key={i} className="ml-auto max-w-[85%] whitespace-pre-wrap rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[16px] leading-relaxed text-white">
               {m.content}
@@ -283,77 +323,60 @@ function Chat({ email, name }: { email: string; name: string }) {
         </p>
       )}
 
-      <form
-        onSubmit={submit}
-        className="sticky z-30 mt-5 rounded-3xl border border-line bg-surface p-2 shadow-card"
-        style={{ bottom: 'calc(max(env(safe-area-inset-bottom), 12px) + 88px)' }}
-      >
-        <div className="flex items-end gap-2">
-          <label htmlFor="consejero-input" className="sr-only">
-            Escribe tu mensaje
-          </label>
-          <textarea
-            id="consejero-input"
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyDown={(e) => {
-              if (e.key === 'Enter' && !e.shiftKey) {
-                e.preventDefault()
-                void send(input)
-              }
-            }}
-            rows={1}
-            maxLength={1500}
-            disabled={left === 0}
-            placeholder={left === 0 ? 'Llegaste al límite de hoy. ¡Hasta mañana!' : 'Escribe lo que sientes…'}
-            className="max-h-36 min-h-12 flex-1 resize-none bg-transparent px-3 py-3 text-[16px] leading-snug text-ink placeholder:text-muted focus:outline-none"
-          />
-          <button
-            type="submit"
-            disabled={busy || !input.trim() || left === 0}
-            aria-label="Enviar"
-            className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-white transition disabled:opacity-40"
-          >
-            <Icon name="send" className="size-5" />
-          </button>
-        </div>
-        <div className="flex items-center justify-between px-3 pb-1 pt-1 text-[12.5px] text-muted">
-          <span>
-            {left} de {CONSEJERO.dailyLimit} conversaciones hoy
-          </span>
-          {saved.messages.length > 0 && (
-            <button type="button" onClick={reset} className="font-semibold text-primary underline-offset-4 hover:underline">
-              Nueva conversación
+      {(left > 0 || !free) && (
+        <form
+          onSubmit={submit}
+          className="sticky z-30 mt-5 rounded-3xl border border-line bg-surface p-2 shadow-card"
+          style={{ bottom: 'calc(max(env(safe-area-inset-bottom), 12px) + 88px)' }}
+        >
+          <div className="flex items-end gap-2">
+            <label htmlFor="consejero-input" className="sr-only">
+              Escribe tu mensaje
+            </label>
+            <textarea
+              id="consejero-input"
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                  e.preventDefault()
+                  void send(input)
+                }
+              }}
+              rows={1}
+              maxLength={1500}
+              disabled={left === 0}
+              placeholder={left === 0 ? 'Llegaste al límite de hoy. ¡Hasta mañana!' : 'Escribe lo que sientes…'}
+              className="max-h-36 min-h-12 flex-1 resize-none bg-transparent px-3 py-3 text-[16px] leading-snug text-ink placeholder:text-muted focus:outline-none"
+            />
+            <button
+              type="submit"
+              disabled={busy || !input.trim() || left === 0}
+              aria-label="Enviar"
+              className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-white transition disabled:opacity-40"
+            >
+              <Icon name="send" className="size-5" />
             </button>
-          )}
-        </div>
-      </form>
+          </div>
+          <div className="flex items-center justify-between px-3 pb-1 pt-1 text-[12.5px] text-muted">
+            <span>{free ? (left ? '1 consulta gratis hoy' : 'Consulta de hoy usada') : `${left} de ${status.limit} conversaciones hoy`}</span>
+            {!empty && !free && (
+              <button type="button" onClick={() => void reset()} className="font-semibold text-primary underline-offset-4 hover:underline">
+                Borrar conversación
+              </button>
+            )}
+          </div>
+        </form>
+      )}
 
       <p className="mt-3 text-center text-[13px] leading-snug text-muted">
-        Tu Consejero usa inteligencia artificial para ayudarte a buscar luz en la Biblia. No reemplaza a tu pastor, a tu sacerdote ni a un profesional.
+        Tu Consejero usa inteligencia artificial para ayudarte a buscar luz en la Biblia. No reemplaza a tu pastor, a tu sacerdote ni a un profesional. Tu conversación es privada: solo tú la ves.
       </p>
     </>
   )
 }
 
 // ─── For members without Palabras del Señor ───────────────────────
-
-function useOfferDeadline(): number {
-  // The member's own 15 days start the first time they see the offer.
-  // TODO(backend): keep this date on the server, so it can't be restarted.
-  const [start] = useState(() => {
-    try {
-      const saved = Number(window.localStorage.getItem(OFFER_KEY))
-      if (saved > 0) return saved
-      const now = Date.now()
-      window.localStorage.setItem(OFFER_KEY, String(now))
-      return now
-    } catch {
-      return Date.now()
-    }
-  })
-  return start + CONSEJERO.offerDays * 86_400_000
-}
 
 function useNow(): number {
   const [now, setNow] = useState(() => Date.now())
@@ -364,8 +387,7 @@ function useNow(): number {
   return now
 }
 
-function Countdown({ deadline }: { deadline: number }) {
-  const now = useNow()
+function Countdown({ deadline, now }: { deadline: number; now: number }) {
   const ms = Math.max(0, deadline - now)
   const days = Math.floor(ms / 86_400_000)
   const pad = (n: number) => String(n).padStart(2, '0')
@@ -394,8 +416,9 @@ function PainExamples() {
   const [id, setId] = useState(PAIN_EXAMPLES[0].id)
   const ex = PAIN_EXAMPLES.find((p) => p.id === id) ?? PAIN_EXAMPLES[0]
   return (
-    <section aria-label="Ejemplos de conversación">
-      <p className="text-[15.5px] leading-relaxed text-text">Toca un tema y mira cómo te acompaña tu Consejero:</p>
+    <section aria-label="Ejemplos de conversación" className="mt-8">
+      <h2 className="font-serif text-[20px] font-semibold text-ink">Así te acompaña cada día</h2>
+      <p className="mt-1 text-[15px] leading-relaxed text-muted">Toca un tema y mira un ejemplo:</p>
       <div className="mt-3 grid grid-cols-4 gap-2">
         {PAIN_EXAMPLES.map((p) => {
           const active = p.id === ex.id
@@ -433,9 +456,10 @@ function PainExamples() {
   )
 }
 
-function LockedConsejero() {
-  const deadline = useOfferDeadline()
+function LockedConsejero({ status, name }: { status: Status; name: string }) {
   const now = useNow()
+  const started = status.offerStartedAt ? Date.parse(status.offerStartedAt) : now
+  const deadline = started + CONSEJERO.offerDays * 86_400_000
   const active = now < deadline
   const price = active ? CONSEJERO.discountPrice : CONSEJERO.fullPrice
   // The 50% checkout only while the member's own 15 days last; then the full price.
@@ -451,13 +475,15 @@ function LockedConsejero() {
     <>
       <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra, a cualquier hora" />
 
+      <Chat status={status} name={name} mode="free" />
+
       <PainExamples />
 
-      <div className="mt-5 rounded-3xl bg-primary p-5 text-center text-white shadow-float">
+      <div className="mt-6 rounded-3xl bg-primary p-5 text-center text-white shadow-float">
         {active ? (
           <>
             <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-bright">Solo para ti · 50% de descuento de por vida</p>
-            <Countdown deadline={deadline} />
+            <Countdown deadline={deadline} now={now} />
           </>
         ) : (
           <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-bright">Palabras del Señor</p>
@@ -484,7 +510,12 @@ function LockedConsejero() {
             Disponible muy pronto
           </button>
         )}
-        {active && <p className="mt-3 text-[13px] leading-snug text-white/75">Pagas {formatUsd(CONSEJERO.discountPrice)} al mes mientras mantengas tu suscripción. Cuando termine el plazo, el precio vuelve a {formatUsd(CONSEJERO.fullPrice)}.</p>}
+        {active && (
+          <p className="mt-3 text-[13px] leading-snug text-white/75">
+            Pagas {formatUsd(CONSEJERO.discountPrice)} al mes mientras mantengas tu suscripción. Cuando termine el plazo, el precio vuelve a {formatUsd(CONSEJERO.fullPrice)}.
+          </p>
+        )}
+        <p className="mt-2 text-[13px] text-white/75">Compra con el mismo correo de tu cuenta y se activa solo.</p>
       </div>
 
       <div className="mt-5 rounded-3xl border border-line bg-surface p-5">
