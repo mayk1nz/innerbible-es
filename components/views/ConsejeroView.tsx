@@ -101,7 +101,7 @@ function Answer({ text }: { text: string }) {
 
 function CrisisCard() {
   return (
-    <div role="alert" className="mt-3 rounded-2xl border-2 border-danger/40 bg-[#fbeceb] p-4 text-[15px] leading-relaxed text-ink">
+    <div role="alert" className="mt-3 rounded-2xl border-2 border-danger/40 bg-danger/10 p-4 text-[15px] leading-relaxed text-ink">
       <p className="flex items-center gap-2 font-semibold text-danger">
         <Icon name="phone" className="size-5" />
         No estás sin ayuda. Habla hoy con alguien:

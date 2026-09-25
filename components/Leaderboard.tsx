@@ -12,7 +12,7 @@ export function RankItem({ row, mode }: { row: RankRow; mode: RankMode }) {
   const detail = mode === 'semana' ? `Racha de ${plural(row.streak, 'día', 'días')}` : `${row.weekPoints} pts esta semana`
   return (
     <li
-      className={`flex items-center gap-3 rounded-2xl border px-3.5 py-3 ${row.me ? 'border-primary/40 bg-[#e8ecf3]' : 'border-line bg-surface'}`}
+      className={`flex items-center gap-3 rounded-2xl border px-3.5 py-3 ${row.me ? 'border-primary/40 bg-primary/10' : 'border-line bg-surface'}`}
       aria-current={row.me ? 'true' : undefined}
     >
       <span

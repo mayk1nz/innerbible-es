@@ -1,4 +1,4 @@
-import { normalizeEmail, ownedOffers, touchMember } from '@/lib/server/access'
+import { memberInfo, normalizeEmail, ownedOffers, touchMember } from '@/lib/server/access'
 import { startSession } from '@/lib/server/session'
 
 // Sign in with the purchase e-mail: allowed only when that e-mail has something to open.
@@ -26,5 +26,6 @@ export async function POST(request: Request) {
   const name = typeof body.name === 'string' ? body.name.slice(0, 60) : ''
   await touchMember(email, name)
   await startSession(email)
-  return Response.json({ email, owned })
+  const info = await memberInfo(email)
+  return Response.json({ email, ...info })
 }

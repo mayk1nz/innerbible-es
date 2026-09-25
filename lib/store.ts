@@ -56,6 +56,9 @@ export interface AppState {
   lastLesson: string | null
   fontScale: number
   audioPos: Record<string, number>
+  theme: 'light' | 'dark'
+  /** The member is on the annual plan (from the server). */
+  annual: boolean
 }
 
 export const DEFAULT_STATE: AppState = {
@@ -71,9 +74,11 @@ export const DEFAULT_STATE: AppState = {
   lastLesson: null,
   fontScale: 1,
   audioPos: {},
+  theme: 'light',
+  annual: false,
 }
 
-const STORAGE_KEY = 'ib-es-state-v1'
+import { STORAGE_KEY } from './storage-key'
 const OFFER_IDS: readonly OfferId[] = ['front', 'upsell1', 'upsell2']
 export const FONT_SCALE_MIN = 0.9
 export const FONT_SCALE_MAX = 1.4
@@ -106,6 +111,8 @@ function sanitize(raw: unknown): AppState {
     lastLesson: typeof raw.lastLesson === 'string' ? raw.lastLesson : null,
     fontScale: typeof raw.fontScale === 'number' ? clampScale(raw.fontScale) : 1,
     audioPos: isRecord(raw.audioPos) ? (raw.audioPos as AppState['audioPos']) : {},
+    theme: raw.theme === 'dark' ? 'dark' : 'light',
+    annual: raw.annual === true,
   }
 }
 
@@ -212,12 +219,22 @@ function withoutPoint(points: PointEvent[], id: string): PointEvent[] {
  * offers come from the purchases, never from this device. Progress on this device is
  * kept; if another e-mail signs in here, it starts from scratch.
  */
-export function setMember(email: string, name: string, owned: OfferId[]): void {
+export function setMember(email: string, name: string, owned: OfferId[], annual = false): void {
   update((s) => {
     const same = s.session?.email === email
-    const base = same ? s : { ...DEFAULT_STATE, fontScale: s.fontScale }
-    return { ...base, session: { email, name: same ? (s.session?.name ?? name) : name }, owned: owned.filter((o) => OFFER_IDS.includes(o)) }
+    const base = same ? s : { ...DEFAULT_STATE, fontScale: s.fontScale, theme: s.theme }
+    // A name saved on the server (edited in the profile) wins over the one guessed from the e-mail.
+    const finalName = name || (same ? s.session?.name : '') || ''
+    return { ...base, session: { email, name: finalName }, owned: owned.filter((o) => OFFER_IDS.includes(o)), annual }
   })
+}
+
+export function setName(name: string): void {
+  update((s) => (s.session ? { ...s, session: { ...s.session, name } } : s))
+}
+
+export function setTheme(theme: 'light' | 'dark'): void {
+  update((s) => (s.theme === theme ? s : { ...s, theme }))
 }
 
 export function signOut(): void {
@@ -323,5 +340,5 @@ export function setOfferOwned(offer: OfferId, owned: boolean): void {
 }
 
 export function resetProgress(): void {
-  update((s) => ({ ...DEFAULT_STATE, session: s.session, owned: s.owned, fontScale: s.fontScale }))
+  update((s) => ({ ...DEFAULT_STATE, session: s.session, owned: s.owned, fontScale: s.fontScale, theme: s.theme, annual: s.annual }))
 }

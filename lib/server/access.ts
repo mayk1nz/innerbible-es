@@ -31,8 +31,26 @@ export async function ownedOffers(email: string): Promise<OfferId[]> {
   return ALL.filter((o) => owned.includes(o))
 }
 
+/** Offers + the saved name + whether the member is on the annual plan. */
+export async function memberInfo(email: string): Promise<{ owned: OfferId[]; name: string; annual: boolean }> {
+  const e = normalizeEmail(email)
+  const [owned, member, annualRows] = await Promise.all([
+    ownedOffers(e),
+    db().from('members').select('name').eq('email', e).maybeSingle(),
+    db().from('entitlements').select('product, status, current_period_end').eq('email', e).ilike('product', '%anual%'),
+  ])
+  const now = Date.now()
+  const annual = (annualRows.data ?? []).some(
+    (r) => r.status !== 'refunded' && (!r.current_period_end || new Date(r.current_period_end).getTime() > now),
+  )
+  return { owned, name: member.data?.name ?? '', annual }
+}
+
+/** Records the login; keeps a name the member already chose. */
 export async function touchMember(email: string, name: string): Promise<void> {
+  const e = normalizeEmail(email)
+  const { data } = await db().from('members').select('name').eq('email', e).maybeSingle()
   await db()
     .from('members')
-    .upsert({ email: normalizeEmail(email), name, last_login_at: new Date().toISOString() }, { onConflict: 'email' })
+    .upsert({ email: e, name: data?.name || name, last_login_at: new Date().toISOString() }, { onConflict: 'email' })
 }

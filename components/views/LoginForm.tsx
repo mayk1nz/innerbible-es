@@ -61,8 +61,8 @@ export function LoginForm() {
         return
       }
       if (!res.ok) throw new Error(String(res.status))
-      const { owned } = (await res.json()) as { owned: OfferId[] }
-      setMember(clean, name, owned)
+      const me = (await res.json()) as { owned: OfferId[]; name?: string; annual?: boolean }
+      setMember(clean, me.name || name, me.owned, me.annual === true)
       router.replace('/inicio')
     } catch {
       setError('No pudimos conectar. Revisa tu internet e inténtalo de nuevo.')

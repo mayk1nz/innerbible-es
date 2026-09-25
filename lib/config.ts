@@ -70,6 +70,9 @@ export const ANUAL = {
   checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_ANUAL_URL || '',
 } as const
 
+/** Web push public key (VAPID). Public by design; the private one is in the database. */
+export const PUSH_PUBLIC_KEY = 'BFKcZtQQMSYJ_xcfylnG24SUCdGH7rLR58UjsFRHa6U-Ufy92RLacKdU4jd6mMu686EYKqHN-NjmX-au6jWm93Q'
+
 /** What each action is worth. Shown to members, so keep it simple. */
 export const POINTS = { lesson: 10, reflection: 5, post: 3 } as const
 

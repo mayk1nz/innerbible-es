@@ -1,4 +1,5 @@
-import { ownedOffers } from '@/lib/server/access'
+import { memberInfo, normalizeEmail } from '@/lib/server/access'
+import { db } from '@/lib/server/db'
 import { endSession, sessionEmail } from '@/lib/server/session'
 
 // Who is signed in on this device and what they can open right now (a new purchase,
@@ -9,8 +10,18 @@ export const dynamic = 'force-dynamic'
 export async function GET() {
   const email = await sessionEmail()
   if (!email) return Response.json({ error: 'no-session' }, { status: 401 })
-  const owned = await ownedOffers(email)
-  return Response.json({ email, owned })
+  return Response.json({ email, ...(await memberInfo(email)) })
+}
+
+/** Change the name shown in the app (kept on the server, so every device sees it). */
+export async function PATCH(request: Request) {
+  const email = await sessionEmail()
+  if (!email) return Response.json({ error: 'no-session' }, { status: 401 })
+  const body = (await request.json().catch(() => ({}))) as { name?: unknown }
+  const name = typeof body.name === 'string' ? body.name.replace(/\s+/g, ' ').trim().slice(0, 60) : ''
+  if (!name) return Response.json({ error: 'empty' }, { status: 400 })
+  await db().from('members').upsert({ email: normalizeEmail(email), name }, { onConflict: 'email' })
+  return Response.json({ ok: true, name })
 }
 
 /** Sign out on this device. */

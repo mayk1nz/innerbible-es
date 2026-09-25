@@ -19,7 +19,7 @@ function LockOverlay({ compact = false }: { compact?: boolean }) {
   return (
     <div className="absolute inset-0 bg-[#0b0906]/35">
       <span
-        className={`absolute flex items-center gap-1 rounded-full bg-[#fdf7e8] font-semibold text-ink shadow-card ${compact ? 'right-1 top-1 p-1' : 'right-2.5 top-2.5 px-2.5 py-1 text-[12.5px]'}`}
+        className={`absolute flex items-center gap-1 rounded-full bg-[#fdf7e8] font-semibold text-[#35260f] shadow-card ${compact ? 'right-1 top-1 p-1' : 'right-2.5 top-2.5 px-2.5 py-1 text-[12.5px]'}`}
       >
         <Icon name="lock" className={compact ? 'size-3.5' : 'size-3.5'} strokeWidth={2.2} />
         {!compact && 'Bloqueado'}

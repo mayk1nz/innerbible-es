@@ -14,10 +14,17 @@ import { setMember, signOut, useAppState, useHydrated } from '@/lib/store'
 // The gate waits for hydration before deciding, so server and client markup agree.
 export function AppShell({ children }: { children: ReactNode }) {
   const hydrated = useHydrated()
-  const { session } = useAppState()
+  const { session, theme } = useAppState()
   const router = useRouter()
   const email = session?.email
   const name = session?.name ?? ''
+
+  // Dark mode switched in the profile applies at once (the <head> script covers page loads).
+  useEffect(() => {
+    if (!hydrated) return
+    if (theme === 'dark') document.documentElement.setAttribute('data-theme', 'dark')
+    else document.documentElement.removeAttribute('data-theme')
+  }, [hydrated, theme])
 
   useEffect(() => {
     if (hydrated && !email) router.replace('/login')
@@ -34,9 +41,9 @@ export function AppShell({ children }: { children: ReactNode }) {
           return
         }
         if (!res.ok) return // server hiccup: keep what the device knows
-        const me = (await res.json()) as { email: string; owned: OfferId[] }
+        const me = (await res.json()) as { email: string; owned: OfferId[]; name?: string; annual?: boolean }
         if (me.email !== email) signOut()
-        else setMember(email, name, me.owned)
+        else setMember(email, me.name || name, me.owned, me.annual === true)
       })
       .catch(() => {
         // offline: keep what the device knows

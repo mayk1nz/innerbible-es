@@ -6,7 +6,7 @@ export type IconName =
   | 'flame' | 'star' | 'trophy' | 'message' | 'heart' | 'send' | 'headphones'
   | 'sparkles' | 'user' | 'logout' | 'external' | 'x' | 'users' | 'gift' | 'map'
   | 'feather' | 'calendar' | 'mail' | 'rewind' | 'forward' | 'download' | 'share' | 'plusSquare'
-  | 'clock' | 'alert' | 'chatCross' | 'phone'
+  | 'clock' | 'alert' | 'chatCross' | 'phone' | 'moon' | 'bell' | 'refresh' | 'pencil'
 
 const PATHS: Record<IconName, ReactNode> = {
   home: (<><path d="M3 10.5 12 3l9 7.5" /><path d="M5 9.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1V9.5" /></>),
@@ -50,6 +50,10 @@ const PATHS: Record<IconName, ReactNode> = {
   /** Speech bubble with a cross: Tu Consejero Bíblico. */
   chatCross: (<><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3h11A2.5 2.5 0 0 1 20 5.5v8a2.5 2.5 0 0 1-2.5 2.5H10l-4.5 4v-4A2.5 2.5 0 0 1 3 13.5z" /><path d="M11.5 6.5v6M9 8.8h5" /></>),
   phone: (<path d="M5 4h3l2 5-2.5 1.5a11 11 0 0 0 5 5L14 13l5 2v3a2 2 0 0 1-2 2A15 15 0 0 1 3 6a2 2 0 0 1 2-2" />),
+  moon: (<path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" />),
+  bell: (<><path d="M6 16V11a6 6 0 1 1 12 0v5l1.5 2h-15z" /><path d="M10 20.5a2 2 0 0 0 4 0" /></>),
+  refresh: (<><path d="M20 11a8 8 0 0 0-14.3-4.9L4 8" /><path d="M4 4v4h4" /><path d="M4 13a8 8 0 0 0 14.3 4.9L20 16" /><path d="M20 20v-4h-4" /></>),
+  pencil: (<><path d="M4 20h4L19 9l-4-4L4 16z" /><path d="M13.5 6.5l4 4" /></>),
   alert: (<><path d="M10.3 4.2 2.6 17.5A2 2 0 0 0 4.3 20.5h15.4a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z" /><path d="M12 9.5v4.5" /><path d="M12 17.2v.01" /></>),
 }
 

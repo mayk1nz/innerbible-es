@@ -4,6 +4,8 @@ import { Figtree, Literata } from 'next/font/google'
 import { InstallBanner } from '@/components/InstallPrompt'
 import { APP } from '@/lib/config'
 import { installBootstrap } from '@/lib/install-bootstrap'
+import { STORAGE_KEY } from '@/lib/storage-key'
+import { themeBootstrap } from '@/lib/theme-bootstrap'
 import './globals.css'
 
 // Literata was drawn for long-form reading on screens (it is the Google Play Books
@@ -33,6 +35,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         {/* Must run before the bundles: the install event can fire before React loads. */}
         <script dangerouslySetInnerHTML={{ __html: installBootstrap(process.env.NODE_ENV === 'production') }} />
+        <script dangerouslySetInnerHTML={{ __html: themeBootstrap(STORAGE_KEY) }} />
       </head>
       <body>
         {children}
