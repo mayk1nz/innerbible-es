@@ -23,7 +23,7 @@ export const FUNNEL = {
     checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_FRONT_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790282470977',
     price: num(process.env.NEXT_PUBLIC_PRICE_FRONT, 17.9),
     /** Crossed-out "was" price. 0 → no anchor shown (never invent one). */
-    priceFrom: num(process.env.NEXT_PUBLIC_PRICE_FRONT_FROM, 0),
+    priceFrom: num(process.env.NEXT_PUBLIC_PRICE_FRONT_FROM, 188),
     // Owner's VTurb player "Resumen Cronológico de la Biblia". The offer appears at
     // 10:15 (615 s), the timing that was configured for this same video.
     video: {
@@ -36,7 +36,7 @@ export const FUNNEL = {
   },
   up1: {
     /** KashPay one-click upsell link (checkout.kashpay.com.br/u/…). */
-    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP1_URL || '',
+    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP1_URL || 'https://checkout.kashpay.com.br/u/3b7c5fb39b1a3127',
     price: num(process.env.NEXT_PUBLIC_PRICE_UP1, 0),
     video: {
       playerId: process.env.NEXT_PUBLIC_VTURB_UP1_ID || '',
@@ -45,7 +45,7 @@ export const FUNNEL = {
     } satisfies VslConfig,
   },
   up2: {
-    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP2_URL || '',
+    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP2_URL || 'https://checkout.kashpay.com.br/u/df227ca0ddefadfe',
     price: num(process.env.NEXT_PUBLIC_PRICE_UP2, 0),
     video: {
       playerId: process.env.NEXT_PUBLIC_VTURB_UP2_ID || '',

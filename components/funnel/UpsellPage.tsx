@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useCallback, useEffect, useState, useSyncExternalStore } from 'react'
 import { VturbPlayer } from './VturbPlayer'
+import { Icon } from '../icons'
 import { BrandMark, buttonClass } from '../ui'
 import { APP } from '@/lib/config'
 import { FUNNEL, formatUsd } from '@/lib/funnel/config'
@@ -58,23 +59,42 @@ function validUpsellUrl(raw: string): string | null {
   }
 }
 
+// The owner's upsell copy.
 const COPY = {
   up1: {
-    product: 'resumen-cronologico-audio',
-    eyebrow: '¡Espera! Tu pedido aún no está completo',
-    title: 'Escucha toda la historia de la Biblia',
-    text: 'Añade el Resumen Cronológico en Audio y recorre toda la Biblia en orden mientras caminas, conduces o descansas.',
-    accept: 'Sí, quiero añadir el audio',
-    decline: 'No, gracias. Continuar sin el audio',
+    product: 'parabolas-de-jesus',
+    eyebrow: 'Un complemento para tu Resumen Cronológico',
+    name: 'Parábolas de Jesús, Paso a Paso',
+    title: 'Ya conoces la historia.',
+    highlight: 'Ahora comprende lo que Jesús enseñaba.',
+    text: 'Profundiza en 20 parábolas de Jesús con una guía que explica el contexto, el mensaje central y cómo llevar cada enseñanza a tu vida cotidiana.',
+    benefit: 'Una parábola a la vez. Más contexto para leer, más claridad para reflexionar.',
+    includes: [
+      'El contexto y los personajes de cada relato.',
+      'Explicaciones claras, con referencias para leer en tu Biblia.',
+      'Preguntas de reflexión y una aplicación práctica por estudio.',
+    ],
+    detail: 'Guía digital de estudio · 20 parábolas',
+    accept: 'Sí, quiero estudiar las parábolas',
+    decline: 'No, gracias. Continuar sin este complemento',
     next: '/up2',
   },
   up2: {
-    product: 'guia-hacedores',
-    eyebrow: 'Un último paso',
-    title: 'De entender la Palabra a vivirla',
-    text: 'La Guía Hacedores de la Palabra: más de 100 situaciones reales de la vida con la respuesta bíblica aplicada paso a paso.',
-    accept: 'Sí, quiero la guía',
-    decline: 'No, gracias. Ir a mi acceso',
+    product: 'devocional-en-familia',
+    eyebrow: 'Un espacio para leer y conversar juntos',
+    name: 'Devocional en Familia — 60 Encuentros',
+    title: 'Que la lectura no se quede en ti.',
+    highlight: 'Compártela en familia.',
+    text: 'Una guía para abrir la Biblia, conversar sobre una enseñanza y terminar con una oración, sin tener que preparar cada reunión desde cero.',
+    benefit: 'Un ritmo sugerido de 15 minutos para escuchar, reflexionar y compartir la fe.',
+    includes: [
+      '60 encuentros con pasaje bíblico y reflexión.',
+      'Preguntas para conversar y adaptar a distintas edades.',
+      'Una oración y una actividad sencilla para cada encuentro.',
+    ],
+    detail: 'Guía digital · 60 encuentros para compartir',
+    accept: 'Sí, quiero el devocional en familia',
+    decline: 'No, gracias. Terminar sin añadirlo',
     next: '/bienvenido',
   },
 } as const
@@ -85,11 +105,14 @@ export function UpsellPage({ offer }: { offer: 'up1' | 'up2' }) {
   const copy = COPY[offer]
   const config = FUNNEL[offer]
   const search = useSyncExternalStore(subscribeNothing, () => window.location.search, () => '')
-  const [revealed, setRevealed] = useState(false)
-  const reveal = useCallback(() => setRevealed(true), [])
+  const hasVideo = Boolean(config.video.playerId && config.video.scriptUrl)
+  const [videoRevealed, setVideoRevealed] = useState(false)
+  const reveal = useCallback(() => setVideoRevealed(true), [])
+  // No upsell video yet: the offer is shown straight away (no empty player box).
+  const revealed = videoRevealed || !hasVideo
   const [state, setState] = useState<'idle' | 'working' | 'sent' | 'error'>('idle')
   const checkout = validUpsellUrl(config.checkoutUrl)
-  const available = Boolean(checkout) && config.price > 0
+  const available = Boolean(checkout)
 
   useEffect(() => {
     initPixel()
@@ -122,19 +145,37 @@ export function UpsellPage({ offer }: { offer: 'up1' | 'up2' }) {
         <span className="font-serif text-[19px] font-semibold text-ink">{APP.name}</span>
       </header>
 
-      <p className="text-center text-[13px] font-semibold uppercase tracking-[0.1em] text-flame">{copy.eyebrow}</p>
-      <h1 className="mt-2 text-center font-serif text-[28px] font-semibold leading-tight text-balance text-ink">{copy.title}</h1>
+      <p className="rounded-2xl bg-primary px-4 py-3 text-center text-[13px] font-semibold uppercase tracking-[0.08em] text-white">{copy.eyebrow}</p>
+      <p className="mt-6 text-center text-[15px] font-semibold text-gold">{copy.name}</p>
+      <h1 className="mt-2 text-center font-serif text-[29px] font-semibold leading-tight text-balance text-ink">
+        {copy.title} <span className="text-gold">{copy.highlight}</span>
+      </h1>
       <p className="mx-auto mt-3 max-w-sm text-center text-[16.5px] leading-relaxed text-text">{copy.text}</p>
+      <p className="mx-auto mt-3 max-w-sm text-center text-[16px] font-semibold leading-snug text-ink">{copy.benefit}</p>
 
-      <div className="mt-6">
-        <VturbPlayer video={config.video} onReveal={reveal} />
-      </div>
+      {hasVideo && (
+        <div className="mt-6">
+          <VturbPlayer video={config.video} onReveal={reveal} />
+        </div>
+      )}
+
+      <ul className="mt-6 space-y-2.5 rounded-3xl border border-line bg-surface-2 p-5">
+        {copy.includes.map((item) => (
+          <li key={item} className="flex gap-2.5 text-[15.5px] leading-snug text-ink">
+            <span className="mt-0.5 grid size-5 shrink-0 place-items-center rounded-full bg-success-soft text-success">
+              <Icon name="check" className="size-3.5" strokeWidth={2.6} />
+            </span>
+            {item}
+          </li>
+        ))}
+      </ul>
+      <p className="mt-3 text-center text-[14px] text-muted">{copy.detail}</p>
 
       {revealed && (
         <div className="animate-rise mt-6 rounded-3xl border-2 border-gold-bright bg-surface p-5 text-center shadow-card">
           {available ? (
             <>
-              <p className="font-serif text-[34px] font-bold text-ink">{formatUsd(config.price)}</p>
+              {config.price > 0 && <p className="font-serif text-[34px] font-bold text-ink">{formatUsd(config.price)}</p>}
               <button
                 type="button"
                 onClick={accept}

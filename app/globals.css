@@ -46,7 +46,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-:focus-visible {
+/* tabindex="-1" elements (e.g. step headings) only get programmatic focus for screen
+   readers; a ring there would look like a stray box. */
+:focus-visible:not([tabindex='-1']) {
   outline: 2px solid var(--color-primary);
   outline-offset: 2px;
 }

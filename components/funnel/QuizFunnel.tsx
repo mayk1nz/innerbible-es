@@ -1,28 +1,40 @@
 'use client'
 
-import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode, type RefObject } from 'react'
+import { useCallback, useEffect, useRef, useState, type ReactNode, type RefObject } from 'react'
 import { VturbPlayer } from './VturbPlayer'
 import { Icon } from '../icons'
 import { BrandMark, buttonClass } from '../ui'
 import { APP } from '@/lib/config'
 import { FUNNEL, formatUsd } from '@/lib/funnel/config'
-import { PROFILE, TEST, type ProfileQuestion, type TestQuestion } from '@/lib/funnel/questions'
+import {
+  ANALYSIS_IMAGE,
+  INTRO,
+  OFFER,
+  PROFILE,
+  RESULT,
+  TEST,
+  TEST_INTRO,
+  type ProfileQuestion,
+  type TestQuestion,
+} from '@/lib/funnel/questions'
 import { initPixel, trackCheckout, trackViewContent, withAttribution } from '@/lib/funnel/tracking'
 
-// 22 steps, in the order of the funnel it is modelled on:
+// The owner's quiz funnel in the app's look. 22 steps:
 //   0 intro · 1–7 profile · 8 test intro · 9–18 test · 19 analysis · 20 result · 21 video
 // The browser Back button walks back through the steps. Answers stay in memory only.
+// The score is computed from the answers.
 
-const TEST_INTRO = 1 + PROFILE.length
-const FIRST_TEST = TEST_INTRO + 1
+const TEST_INTRO_STEP = 1 + PROFILE.length
+const FIRST_TEST = TEST_INTRO_STEP + 1
 const ANALYSIS = FIRST_TEST + TEST.length
-const RESULT = ANALYSIS + 1
-const VIDEO = RESULT + 1
+const RESULT_STEP = ANALYSIS + 1
+const VIDEO = RESULT_STEP + 1
 const TOTAL = VIDEO + 1
 const ANALYSIS_MS = 4500
 const PRODUCT_ID = 'resumen-cronologico'
 
 type ProfileAnswers = Record<string, number[]>
+type HeadingRef = RefObject<HTMLHeadingElement | null>
 
 export function QuizFunnel() {
   const [step, setStep] = useState(0)
@@ -62,6 +74,9 @@ export function QuizFunnel() {
     }
   }, [])
 
+  // Stable, so the analysis timer is not restarted by unrelated re-renders.
+  const toResult = useCallback(() => go(RESULT_STEP), [go])
+
   const answerProfile = (q: ProfileQuestion, choice: number) => {
     if (picked !== null) return
     setPicked(choice)
@@ -79,9 +94,6 @@ export function QuizFunnel() {
     })
     window.setTimeout(() => go(step + 1), 260)
   }
-
-  // Stable, so the analysis timer is not restarted by unrelated re-renders.
-  const toResult = useCallback(() => go(RESULT), [go])
 
   const inProfile = step >= 1 && step <= PROFILE.length
   const inTest = step >= FIRST_TEST && step < ANALYSIS
@@ -116,9 +128,7 @@ export function QuizFunnel() {
           />
         )}
 
-        {step === TEST_INTRO && (
-          <Interstitial headingRef={heading} onStart={() => go(FIRST_TEST)} />
-        )}
+        {step === TEST_INTRO_STEP && <Interstitial headingRef={heading} onStart={() => go(FIRST_TEST)} />}
 
         {inTest && (
           <TestStep
@@ -132,7 +142,7 @@ export function QuizFunnel() {
 
         {step === ANALYSIS && <Analysis headingRef={heading} onDone={toResult} />}
 
-        {step === RESULT && <Result headingRef={heading} profile={profile} test={test} onNext={() => go(VIDEO)} />}
+        {step === RESULT_STEP && <Result headingRef={heading} test={test} onNext={() => go(VIDEO)} />}
 
         {step === VIDEO && <VideoOffer headingRef={heading} />}
       </main>
@@ -140,35 +150,21 @@ export function QuizFunnel() {
   )
 }
 
-// ─── Steps ─────────────────────────────────────────────────────────
+// ─── Building blocks ───────────────────────────────────────────────
 
-function Intro({ onStart }: { onStart: () => void }) {
-  return (
-    <div className="pt-4 text-center">
-      <p className="text-[13px] font-semibold uppercase tracking-[0.1em] text-gold">Test bíblico · 2 minutos</p>
-      <h1 className="mt-3 font-serif text-[34px] font-semibold leading-[1.1] text-balance text-ink">¿Cuánto conoces la Palabra de Dios?</h1>
-      <p className="mx-auto mt-4 max-w-sm text-[17px] leading-relaxed text-text">
-        Responde unas preguntas rápidas y descubre tu nivel — y qué te falta para entender la Biblia de principio a fin.
-      </p>
-      <div className="mx-auto mt-7 flex max-w-sm items-center gap-3 rounded-2xl border border-line bg-surface px-4 py-3.5 text-left">
-        <Icon name="gift" className="size-6 shrink-0 text-gold" />
-        <p className="text-[15.5px] leading-snug text-ink">Al final verás tu resultado y un regalo para tu lectura.</p>
-      </div>
-      <button type="button" onClick={onStart} className={`${buttonClass.primary} mt-7 min-h-14 text-[17px]`}>
-        Empezar el test
-        <Icon name="arrowRight" className="size-5 text-gold-bright" />
-      </button>
-      <p className="mt-3 text-[14px] text-muted">Tus respuestas no se comparten con nadie.</p>
-    </div>
-  )
+const headingClass = 'font-serif font-semibold leading-[1.2] text-balance text-ink focus:outline-none focus-visible:outline-none'
+
+function Picture({ src, className = '' }: { src?: string; className?: string }) {
+  if (!src) return null
+  // eslint-disable-next-line @next/next/no-img-element -- local static illustrations, sized by CSS
+  return <img src={src} alt="" className={`mx-auto aspect-square w-full max-w-[340px] rounded-3xl object-cover shadow-card ${className}`} />
 }
 
-type HeadingRef = RefObject<HTMLHeadingElement | null>
-
-function Title({ headingRef, children, hint }: { headingRef: HeadingRef; children: ReactNode; hint?: string }) {
+function Title({ headingRef, children, hint, eyebrow }: { headingRef: HeadingRef; children: ReactNode; hint?: string; eyebrow?: string }) {
   return (
     <div className="mb-6 text-center">
-      <h1 ref={headingRef} tabIndex={-1} className="font-serif text-[26px] font-semibold leading-[1.2] text-balance text-ink focus:outline-none focus-visible:outline-none">
+      {eyebrow && <p className="mb-2 text-[14px] font-semibold text-gold">{eyebrow}</p>}
+      <h1 ref={headingRef} tabIndex={-1} className={`text-[25px] ${headingClass}`}>
         {children}
       </h1>
       {hint && <p className="mt-2 text-[15.5px] text-muted">{hint}</p>}
@@ -194,7 +190,7 @@ function Option({
       type="button"
       onClick={onClick}
       aria-pressed={selected}
-      className={`flex min-h-16 w-full items-center gap-3.5 rounded-2xl border-2 px-4 py-3.5 text-left transition active:scale-[0.99] ${
+      className={`flex min-h-16 w-full items-center gap-3.5 rounded-2xl border-2 px-4 py-3 text-left transition active:scale-[0.99] ${
         selected ? 'border-primary bg-[#e8ecf3]' : 'border-line bg-surface hover:border-[#cdb888] hover:bg-surface-hover'
       }`}
     >
@@ -209,52 +205,59 @@ function Option({
   )
 }
 
-/** Picture card for options that come with an image (e.g. age, gender, Bible scenes). */
+/** Picture card for options that come with an illustration (age, gender, Bible scenes). */
 function ImageOption({
   label,
   image,
   selected,
   onClick,
   badge,
-  multi = false,
 }: {
   label: string
   image: string
   selected: boolean
   onClick: () => void
   badge?: string
-  multi?: boolean
 }) {
   return (
     <button
       type="button"
       onClick={onClick}
       aria-pressed={selected}
-      className={`relative flex flex-col overflow-hidden rounded-2xl border-2 text-left transition active:scale-[0.99] ${
+      className={`flex flex-col overflow-hidden rounded-2xl border-2 text-left transition active:scale-[0.99] ${
         selected ? 'border-primary bg-[#e8ecf3]' : 'border-line bg-surface hover:border-[#cdb888]'
       }`}
     >
-      {/* eslint-disable-next-line @next/next/no-img-element -- local static files, sized by CSS */}
-      <img src={image} alt="" loading="eager" className="aspect-square w-full object-cover" />
-      <span className="flex min-h-14 items-center gap-2 px-3 py-2.5">
+      {/* eslint-disable-next-line @next/next/no-img-element -- local static illustration */}
+      <img src={image} alt="" className="aspect-square w-full object-cover" />
+      <span className="flex min-h-14 flex-1 items-center gap-2 px-3 py-2.5">
         {badge && (
           <span className={`grid size-7 shrink-0 place-items-center rounded-full text-[13px] font-bold ${selected ? 'bg-primary text-white' : 'bg-gold-soft text-ink'}`}>{badge}</span>
         )}
-        <span className="text-[15.5px] font-medium leading-snug text-ink">{label}</span>
+        <span className="text-[15px] font-medium leading-snug text-ink">{label}</span>
       </span>
-      {multi && selected && (
-        <span className="absolute right-2 top-2 grid size-7 place-items-center rounded-md bg-primary text-white">
-          <Icon name="check" className="size-4" strokeWidth={3} />
-        </span>
-      )}
     </button>
   )
 }
 
-function QuestionImage({ src }: { src?: string }) {
-  if (!src) return null
-  // eslint-disable-next-line @next/next/no-img-element -- local static file
-  return <img src={src} alt="" className="mb-5 aspect-[16/9] w-full rounded-2xl object-cover shadow-card" />
+// ─── Steps ─────────────────────────────────────────────────────────
+
+function Intro({ onStart }: { onStart: () => void }) {
+  return (
+    <div className="pt-2 text-center">
+      <h1 className="font-serif text-[33px] font-semibold leading-[1.1] text-balance text-ink">{INTRO.title}</h1>
+      <p className="mx-auto mt-3 max-w-sm text-[17px] leading-relaxed text-text">{INTRO.text}</p>
+      <p className="mt-4 inline-flex items-center gap-2 rounded-full bg-gold-soft/70 px-4 py-2 text-[15.5px] font-semibold text-ink">
+        <Icon name="gift" className="size-5 text-gold" />
+        {INTRO.gift}
+      </p>
+      <Picture src={INTRO.image} className="mt-6" />
+      <button type="button" onClick={onStart} className={`${buttonClass.primary} mt-6 min-h-14 text-[17px]`}>
+        {INTRO.button}
+        <Icon name="arrowRight" className="size-5 text-gold-bright" />
+      </button>
+    </div>
+  )
 }
 
 function ProfileStep({
@@ -281,49 +284,42 @@ function ProfileStep({
     }
     onMulti(multiValue.includes(i) ? multiValue.filter((v) => v !== i) : [...multiValue, i])
   }
-  const pictures = q.options.every((o) => o.image)
+  const grid = !q.thumbs && q.options.every((o) => o.image)
 
   return (
     <>
-      <QuestionImage src={q.image} />
-      <Title headingRef={headingRef} hint={q.hint}>
+      <Picture src={q.image} className="mb-6" />
+      <Title headingRef={headingRef} hint={q.hint} eyebrow={q.eyebrow}>
         {q.title}
       </Title>
-      {pictures ? (
+      {grid ? (
         <div className="grid grid-cols-2 gap-3">
           {q.options.map((o, i) => (
-            <ImageOption
-              key={o.label}
-              label={o.label}
-              image={o.image ?? ''}
-              multi={q.multi}
-              selected={q.multi ? multiValue.includes(i) : picked === i}
-              onClick={() => pick(i)}
-            />
+            <ImageOption key={o.label} label={o.label} image={o.image ?? ''} selected={picked === i} onClick={() => pick(i)} />
           ))}
         </div>
       ) : (
-      <div className="space-y-3">
-        {q.options.map((o, i) => {
-          const selected = q.multi ? multiValue.includes(i) : picked === i
-          return (
+        <div className="space-y-3">
+          {q.options.map((o, i) => (
             <Option
               key={o.label}
               label={o.label}
               multi={q.multi}
-              selected={selected}
+              selected={q.multi ? multiValue.includes(i) : picked === i}
+              onClick={() => pick(i)}
               leading={
-                o.icon ? (
-                  <span className="grid size-10 shrink-0 place-items-center rounded-full bg-gold-soft text-gold">
-                    <Icon name={o.icon} className="size-5" />
+                o.image ? (
+                  // eslint-disable-next-line @next/next/no-img-element -- local static illustration
+                  <img src={o.image} alt="" className="size-14 shrink-0 rounded-xl object-cover" />
+                ) : o.icon ? (
+                  <span className={`grid size-10 shrink-0 place-items-center rounded-full ${o.icon === 'x' ? 'bg-[#f6dcd8] text-danger' : o.icon === 'check' ? 'bg-success-soft text-success' : 'bg-gold-soft text-gold'}`}>
+                    <Icon name={o.icon} className="size-5" strokeWidth={2.6} />
                   </span>
                 ) : undefined
               }
-              onClick={() => pick(i)}
             />
-          )
-        })}
-      </div>
+          ))}
+        </div>
       )}
       {q.multi && (
         <button type="button" onClick={onContinue} disabled={multiValue.length === 0} className={`${buttonClass.primary} mt-6`}>
@@ -336,18 +332,14 @@ function ProfileStep({
 
 function Interstitial({ headingRef, onStart }: { headingRef: HeadingRef; onStart: () => void }) {
   return (
-    <div className="pt-6 text-center">
-      <span className="mx-auto grid size-16 place-items-center rounded-full bg-gold-soft text-gold">
-        <Icon name="book" className="size-8" />
-      </span>
-      <h1 ref={headingRef} tabIndex={-1} className="mt-5 font-serif text-[28px] font-semibold leading-tight text-balance text-ink focus:outline-none focus-visible:outline-none">
-        Ahora, pongamos a prueba lo que sabes
+    <div className="text-center">
+      <h1 ref={headingRef} tabIndex={-1} className={`text-[27px] ${headingClass}`}>
+        {TEST_INTRO.title}
       </h1>
-      <p className="mx-auto mt-3 max-w-sm text-[17px] leading-relaxed text-text">
-        {TEST.length} preguntas rápidas sobre la Biblia. Sin presión: el resultado es solo para ti.
-      </p>
-      <button type="button" onClick={onStart} className={`${buttonClass.primary} mt-8 min-h-14 text-[17px]`}>
-        Comenzar
+      <p className="mx-auto mt-2 max-w-sm text-[17px] leading-relaxed text-text">{TEST_INTRO.text}</p>
+      <Picture src={TEST_INTRO.image} className="mt-6" />
+      <button type="button" onClick={onStart} className={`${buttonClass.primary} mt-6 min-h-14 text-[17px]`}>
+        {TEST_INTRO.button}
       </button>
     </div>
   )
@@ -368,24 +360,18 @@ function TestStep({
   picked: number | null
   onPick: (choice: number) => void
 }) {
+  const grid = Boolean(q.optionImages && q.optionImages.length === q.options.length)
   return (
     <>
-      <p className="mb-2 text-center text-[14px] font-semibold uppercase tracking-[0.08em] text-gold">
+      <p className="mb-3 text-center text-[14px] font-semibold uppercase tracking-[0.08em] text-gold">
         Pregunta {number} de {TEST.length}
       </p>
-      <QuestionImage src={q.image} />
+      <Picture src={q.image} className="mb-6" />
       <Title headingRef={headingRef}>{q.title}</Title>
-      {q.optionImages && q.optionImages.length === q.options.length ? (
+      {grid ? (
         <div className="grid grid-cols-2 gap-3">
           {q.options.map((label, i) => (
-            <ImageOption
-              key={label}
-              label={label}
-              image={q.optionImages?.[i] ?? ''}
-              badge={LETTERS[i]}
-              selected={picked === i}
-              onClick={() => onPick(i)}
-            />
+            <ImageOption key={label} label={label} image={q.optionImages?.[i] ?? ''} badge={LETTERS[i]} selected={picked === i} onClick={() => onPick(i)} />
           ))}
         </div>
       ) : (
@@ -409,8 +395,6 @@ function TestStep({
   )
 }
 
-const ANALYSIS_LINES = ['Revisando tus respuestas', 'Comparando con tu perfil de lectura', 'Preparando tu resultado']
-
 function Analysis({ headingRef, onDone }: { headingRef: HeadingRef; onDone: () => void }) {
   const [pct, setPct] = useState(0)
 
@@ -427,90 +411,59 @@ function Analysis({ headingRef, onDone }: { headingRef: HeadingRef; onDone: () =
   }, [onDone])
 
   return (
-    <div className="pt-10 text-center">
-      <h1 ref={headingRef} tabIndex={-1} className="font-serif text-[27px] font-semibold text-ink focus:outline-none focus-visible:outline-none">
+    <div className="text-center">
+      <h1 ref={headingRef} tabIndex={-1} className={`text-[26px] ${headingClass}`}>
         Analizando tus respuestas…
       </h1>
-      <p className="mt-6 font-serif text-[48px] font-semibold tabular-nums text-ink" aria-live="polite">
+      <Picture src={ANALYSIS_IMAGE} className="mt-6" />
+      <p className="mt-6 font-serif text-[44px] font-semibold tabular-nums text-ink" aria-live="polite">
         {pct}%
       </p>
-      <div className="mx-auto mt-3 h-2.5 max-w-xs overflow-hidden rounded-full bg-line-soft" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={pct}>
+      <div className="mx-auto mt-2 h-2.5 max-w-xs overflow-hidden rounded-full bg-line-soft" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={pct}>
         <div className="h-full rounded-full bg-gold-bright" style={{ width: `${pct}%` }} />
       </div>
-      <ul className="mx-auto mt-8 max-w-xs space-y-3 text-left">
-        {ANALYSIS_LINES.map((line, i) => {
-          const done = pct >= ((i + 1) / ANALYSIS_LINES.length) * 100 - 1
-          return (
-            <li key={line} className="flex items-center gap-3 text-[16px]">
-              <span className={`grid size-6 shrink-0 place-items-center rounded-full ${done ? 'bg-success text-white' : 'border-2 border-line'}`}>
-                {done && <Icon name="check" className="size-3.5" strokeWidth={3} />}
-              </span>
-              <span className={done ? 'text-ink' : 'text-muted'}>{line}</span>
-            </li>
-          )
-        })}
-      </ul>
     </div>
   )
 }
 
-function insights(profile: ProfileAnswers): string[] {
-  const out: string[] = []
-  const has = (id: string, v: number) => (profile[id] ?? []).includes(v)
-  if (has('dificultad', 0)) out.push('Te cuesta el Antiguo Testamento: es donde la historia más se pierde cuando se lee sin un orden.')
-  if (has('dificultad', 1)) out.push('Te cuesta el Nuevo Testamento: entender lo que vino antes lo aclara muchísimo.')
-  if (has('dificultad', 2)) out.push('Te cuestan las dos partes: el problema no eres tú, es leerlas como piezas sueltas.')
-  if (has('freno', 0)) out.push('No sabes por dónde empezar: necesitas un punto de partida y un camino claro.')
-  if (has('freno', 2)) out.push('Te cuesta ser constante: con lecturas cortas, un paso por día, es posible.')
-  if (has('freno', 3)) out.push('Sientes que te falta tiempo: pocos minutos al día bastan si el camino está ordenado.')
-  if (has('completa', 1)) out.push('Todavía no leíste la Biblia completa, y puedes hacerlo este año.')
-  return out.slice(0, 3)
-}
-
-function Result({ headingRef, profile, test, onNext }: { headingRef: HeadingRef; profile: ProfileAnswers; test: number[]; onNext: () => void }) {
+function Result({ headingRef, test, onNext }: { headingRef: HeadingRef; test: number[]; onNext: () => void }) {
   const score = TEST.reduce((sum, q, i) => sum + (test[i] === q.correct ? 1 : 0), 0)
-  const chrono = TEST.filter((q) => q.chronology)
-  const chronoScore = TEST.reduce((sum, q, i) => sum + (q.chronology && test[i] === q.correct ? 1 : 0), 0)
-  const lines = useMemo(() => insights(profile), [profile])
-  const verdict =
-    score >= 9 ? '¡Excelente! Conoces muy bien la Palabra.' : score >= 6 ? '¡Muy bien! Tienes una buena base.' : 'Buen comienzo: hay mucho por descubrir.'
+  const lines = score >= 7 ? RESULT.high : RESULT.low
 
   return (
     <>
-      <p className="text-center text-[13px] font-semibold uppercase tracking-[0.1em] text-gold">Tu resultado</p>
-      <h1 ref={headingRef} tabIndex={-1} className="mt-2 text-center font-serif text-[28px] font-semibold leading-tight text-ink focus:outline-none focus-visible:outline-none">
+      <p className="text-center text-[13px] font-semibold uppercase tracking-[0.1em] text-gold">{RESULT.eyebrow}</p>
+      <h1 ref={headingRef} tabIndex={-1} className={`mt-2 text-center text-[29px] ${headingClass}`}>
         Acertaste {score} de {TEST.length} preguntas
       </h1>
-      <p className="mt-2 text-center text-[17px] text-text">{verdict}</p>
+      <p className="mt-2 text-center text-[18px] font-semibold text-ink">{lines[0]}</p>
 
-      <div className="mt-6 rounded-3xl border border-line bg-surface p-5">
-        <div className="flex items-center justify-between gap-3">
-          <p className="text-[16px] font-semibold text-ink">Preguntas de orden de los hechos</p>
-          <p className="font-serif text-[22px] font-semibold tabular-nums text-ink">
-            {chronoScore}/{chrono.length}
-          </p>
+      <div className="mt-5 space-y-2 text-center text-[16.5px] leading-relaxed text-text">
+        {lines.slice(1).map((l) => (
+          <p key={l}>{l}</p>
+        ))}
+      </div>
+
+      <Picture src={RESULT.image} className="mt-6" />
+
+      <div className="mt-6 rounded-3xl border border-line bg-surface p-5 text-center">
+        <p className="font-serif text-[22px] font-semibold text-ink">{RESULT.goodNews}</p>
+        <div className="mt-2 space-y-2 text-[16.5px] leading-relaxed text-text">
+          {RESULT.pitch.map((l) => (
+            <p key={l}>{l}</p>
+          ))}
         </div>
-        <p className="mt-2 text-[15.5px] leading-relaxed text-text">
-          Saber en qué orden sucedió cada cosa es lo que une toda la historia bíblica. Es lo que más cuesta cuando se lee por partes.
+        <p className="mt-4 flex items-center justify-center gap-2 font-serif text-[19px] font-semibold text-ink">
+          <Icon name="sparkles" className="size-5 shrink-0 text-gold" />
+          {RESULT.product}
         </p>
       </div>
 
-      {lines.length > 0 && (
-        <div className="mt-4 rounded-3xl border border-line bg-surface-2 p-5">
-          <p className="text-[13px] font-semibold uppercase tracking-[0.08em] text-gold">Lo que nos contaste</p>
-          <ul className="mt-3 space-y-3">
-            {lines.map((l) => (
-              <li key={l} className="flex gap-3 text-[16px] leading-snug text-ink">
-                <Icon name="check" className="mt-0.5 size-5 shrink-0 text-success" strokeWidth={2.4} />
-                {l}
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
+      {/* eslint-disable-next-line @next/next/no-img-element -- local static product image */}
+      <img src={RESULT.productImage} alt="Resumen Cronológico de la Biblia" className="mx-auto mt-6 w-full max-w-[340px]" />
 
-      <button type="button" onClick={onNext} className={`${buttonClass.primary} mt-7 min-h-14 text-[17px]`}>
-        Ver mi siguiente paso
+      <button type="button" onClick={onNext} className={`${buttonClass.primary} mt-6 min-h-14 text-[17px]`}>
+        {RESULT.button}
         <Icon name="arrowRight" className="size-5 text-gold-bright" />
       </button>
     </>
@@ -533,26 +486,38 @@ function VideoOffer({ headingRef }: { headingRef: HeadingRef }) {
 
   return (
     <>
-      <h1 ref={headingRef} tabIndex={-1} className="mb-5 text-center font-serif text-[25px] font-semibold leading-tight text-balance text-ink focus:outline-none focus-visible:outline-none">
-        Mira este video: la forma más simple de entender la Biblia de principio a fin
+      <h1 ref={headingRef} tabIndex={-1} className={`mb-5 text-center text-[24px] ${headingClass}`}>
+        {OFFER.title}
       </h1>
       <VturbPlayer video={offer.video} onReveal={reveal} />
 
       {revealed && (
         <div className="animate-rise mt-6 rounded-3xl border-2 border-gold-bright bg-surface p-5 text-center shadow-card">
-          <p className="font-serif text-[22px] font-semibold text-ink">Resumen Cronológico de la Biblia</p>
-          <p className="mt-1 text-[15.5px] text-text">Acceso inmediato en la app, con todos los bonos</p>
-          <p className="mt-4">
+          <p className="text-[15px] font-semibold uppercase tracking-[0.08em] text-gold">{OFFER.headline}</p>
+          <p className="mt-1 font-serif text-[24px] font-semibold text-ink">{OFFER.product}</p>
+          <p className="text-[16px] font-semibold text-text">{OFFER.extra}</p>
+          <p className="mt-4 text-[16px] text-text">
             {offer.priceFrom > offer.price && (
-              <span className="mr-2 text-[18px] text-muted line-through">{formatUsd(offer.priceFrom)}</span>
+              <>
+                De <span className="text-muted line-through">{formatUsd(offer.priceFrom)}</span> por
+              </>
             )}
-            <span className="font-serif text-[36px] font-bold text-ink">{formatUsd(offer.price)}</span>
           </p>
+          <p className="font-serif text-[40px] font-bold leading-tight text-ink">{formatUsd(offer.price)}</p>
           <button type="button" onClick={buy} className={`${buttonClass.primary} mt-4 min-h-14 text-[17px]`}>
-            Quiero mi material
-            <Icon name="arrowRight" className="size-5 text-gold-bright" />
+            {OFFER.button}
+            <Icon name="arrowRight" className="size-5 shrink-0 text-gold-bright" />
           </button>
-          <p className="mt-3 text-[14px] text-muted">Pago seguro. Recibes el acceso en tu correo.</p>
+          <ul className="mt-4 flex flex-wrap items-center justify-center gap-x-5 gap-y-1.5">
+            {OFFER.bullets.map((b) => (
+              <li key={b} className="flex items-center gap-1.5 text-[15px] font-medium text-ink">
+                <Icon name="check" className="size-4 text-success" strokeWidth={2.8} />
+                {b}
+              </li>
+            ))}
+          </ul>
+          {/* eslint-disable-next-line @next/next/no-img-element -- local static payment info */}
+          <img src={OFFER.paymentImage} alt="Pago único de US$ 17,90, sin cuotas mensuales. El valor se convierte automáticamente a la moneda de tu país." className="mx-auto mt-5 w-full max-w-[360px] rounded-2xl" />
         </div>
       )}
     </>
