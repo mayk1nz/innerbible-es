@@ -1,5 +1,6 @@
 import { hasFullAccess } from '@/lib/config'
 import { searchLibrary } from '@/lib/consejero/knowledge'
+import { APP_MAP } from '@/lib/consejero/map'
 import { CRISIS_NOTE, SYSTEM_PROMPT, contextMessage, looksLikeCrisis } from '@/lib/consejero/prompt'
 
 // Tu Consejero Bíblico: one answer, streamed as it is written.
@@ -53,11 +54,12 @@ export async function POST(request: Request) {
   // Search with the last two things the member said, so a short follow-up ("¿y qué hago?")
   // still finds the right passages.
   const previousUser = messages.slice(0, -1).reverse().find((m) => m.role === 'user')?.content ?? ''
-  const passages = searchLibrary(`${last.content} ${previousUser}`)
+  const passages = searchLibrary(`${last.content} ${previousUser}`, 3)
 
   const history = messages.slice(-MAX_HISTORY - 1, -1)
   const payload = [
-    { role: 'system', content: SYSTEM_PROMPT },
+    // Instructions + the map of the app first and always identical (cached by DeepSeek).
+    { role: 'system', content: `${SYSTEM_PROMPT}\n\nMAPA DE LA APP (todo lo que la persona puede hacer en los planes de Palabras del Señor):\n${APP_MAP}` },
     ...history,
     {
       role: 'user',

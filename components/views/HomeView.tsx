@@ -127,6 +127,20 @@ export function HomeView() {
       <StatsStrip stats={stats} />
       <TodayCard stats={stats} target={target} />
 
+      <Link
+        href="/consejero"
+        className="mt-3 flex items-center gap-3.5 rounded-3xl border border-line bg-surface p-4 shadow-card transition hover:bg-surface-hover"
+      >
+        <span className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-gold-bright">
+          <Icon name="chatCross" className="size-6" />
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="block font-serif text-[17px] font-semibold leading-snug text-ink">¿Qué hay en tu corazón hoy?</span>
+          <span className="mt-0.5 block text-[14px] leading-snug text-muted">Cuéntaselo a tu Consejero Bíblico y encuentra luz en la Palabra.</span>
+        </span>
+        <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
+      </Link>
+
       {hero && (
         <>
           <SectionTitle>{otherRecorridos.length ? 'Tu recorrido actual' : 'Tu recorrido'}</SectionTitle>

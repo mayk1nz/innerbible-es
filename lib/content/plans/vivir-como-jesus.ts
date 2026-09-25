@@ -15,7 +15,7 @@ export const DAYS: LessonContent[] = [
     "tarea": "Abre tu Cuaderno del camino y escribe la Lista de los cinco rostros: alguien de tu familia, alguien del trabajo o del barrio, alguien que está solo, alguien con quien hay tensión y alguien a quien le debes gratitud o perdón. Escribe su nombre y una línea sobre cada uno.",
     "practica": [
       "Al empezar el día (o ahora mismo), di en voz baja: “Señor, hoy te sigo en mi casa y en mi trabajo”.",
-      "Cuando veas hoy a alguno de tus cinco rostros, salúdale por su nombre y mírale a los ojos unos segundos.",
+      "Cuando veas hoy a alguno de tus cinco rostros, saluda a esa persona por su nombre y mírala a los ojos unos segundos.",
       "Antes de dormir, relee la lista y pide a Jesús que te enseñe a amar a esas cinco personas."
     ],
     "meditar": "Si Jesús pasara hoy junto a tu puesto de trabajo y te dijera “Sígueme”, ¿qué tendrías que dejar un momento para ir con Él?"
@@ -27,10 +27,10 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "¿Alguna vez has sentido que la vida cristiana es una lista más de cosas que cumplir, encima de todo lo que ya cargas? Jesús habló a gente cansada y les ofreció otra cosa: “aprended de mí”. En su tiempo, un discípulo caminaba junto a su maestro, lo veía tratar a la gente y aprendía copiando su manera de vivir. Eso te propone Jesús: no una carga, sino un yugo compartido con Él, que es manso y humilde, y que da descanso.",
-      "Aprender de Él se nota en momentos pequeños. Cuando tu hijo adolescente contesta de mala manera, cuando el jefe pide algo a última hora, cuando llegas agotado y la casa está desordenada. Ahí puedes elegir la dureza de siempre o una respuesta mansa, que no es débil, sino tranquila y firme.",
-      "Ayer escribiste tus cinco rostros; son las personas con quienes vas a aprender. Hoy escribirás tu punto de partida en una carta a ti mismo. Sin culpa: nadie empieza sabiendo. Solo la honestidad de un alumno que quiere aprender de un buen Maestro."
+      "Aprender de Él se nota en momentos pequeños. Cuando tu hijo adolescente contesta de mala manera, cuando el jefe pide algo a última hora, cuando llegas sin fuerzas y la casa está desordenada. Ahí puedes elegir la dureza de siempre o una respuesta mansa, que no es débil, sino tranquila y firme.",
+      "Ayer escribiste tus cinco rostros; son las personas con quienes vas a aprender. Hoy escribirás tu punto de partida en una carta para tu propio futuro. Sin culpa: nadie empieza sabiendo. Solo la honestidad de quien quiere aprender de un buen Maestro."
     ],
-    "tarea": "Escribe una carta a tu “yo del Día 90”: cuenta con honestidad, y sin culparte, cómo tratas hoy a los tuyos cuando estás cansado o molesto. Dóblala, ponle la fecha y guárdala cerrada en tu cuaderno hasta el Día 90.",
+    "tarea": "Escribe una carta a tu “yo del Día 90”: cuenta con honestidad, y sin culparte, cómo tratas hoy a los tuyos cuando el cansancio o la molestia te ganan. Dóblala, ponle la fecha y guárdala cerrada en tu cuaderno hasta el Día 90.",
     "practica": [
       "Identifica el momento del día en que sueles responder con más dureza (la mañana apurada, la llegada a casa) y prepárate con una respiración y una frase: “Jesús, enséñame”.",
       "Cuando alguien te hable con mal tono, baja tú el volumen de tu voz en lugar de subirlo.",
@@ -70,7 +70,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Antes de una conversación importante, detente y pregúntate en silencio: “¿Cómo sería amar a esta persona ahora?”.",
       "Mira tu lista de cinco rostros y haz hoy algo concreto por uno de ellos: un mensaje, un favor o una pregunta sincera.",
-      "Dedica un minuto a decirle a Dios en voz baja que le amas y por qué, antes de empezar tus tareas."
+      "Dedica un minuto a decirle a Dios en voz baja que lo amas y por qué, antes de empezar tus tareas."
     ],
     "meditar": "¿Cuál de los dos amores te cuesta más vivir en este momento: amar a Dios con todo o amar a tu prójimo?"
   },
@@ -98,13 +98,13 @@ export const DAYS: LessonContent[] = [
       "referencia": "Marcos 1:41"
     },
     "resumen": [
-      "En tiempos de Jesús, un leproso vivía apartado. Nadie se le acercaba, nadie lo tocaba, y debía gritar para avisar que venía. Un día uno de ellos se arrodilló delante de Jesús. Él pudo haberlo sanado con una palabra y a distancia, pero hizo algo más: extendió la mano y le tocó. Quizá hacía años que nadie lo tocaba. Jesús sanó su piel y también su soledad.",
+      "En tiempos de Jesús, un leproso vivía apartado. Nadie se le acercaba, nadie lo tocaba, y debía gritar para avisar que venía. Un día uno de ellos se arrodilló delante de Jesús. Él pudo haberlo sanado con una palabra y a distancia, pero hizo algo más: extendió la mano y lo tocó. Quizá hacía años que nadie lo tocaba. Jesús sanó su piel y también su soledad.",
       "Hoy también hay personas que quedan apartadas. El compañero que almuerza solo. La tía que ya nadie invita. El vecino mayor que conversa con cualquiera porque nadie lo escucha. Aquel del grupo de WhatsApp a quien nadie le responde. No necesitan un discurso; necesitan que alguien se acerque.",
       "En tu lista del Día 1 escribiste el rostro de alguien que está solo. Hoy es su día. No tienes que resolver su vida. Basta con acercarte: una llamada, un mensaje, una visita corta. Ese pequeño gesto puede ser, para esa persona, la mano de Jesús extendida."
     ],
     "tarea": "Llama o escribe a la persona “que está sola” de tu lista de cinco rostros, solo para preguntarle cómo está. Si puedes, escucha su respuesta sin apuro.",
     "practica": [
-      "En la mesa, en el trabajo o en una reunión, fíjate en quién se ha quedado aparte y acércate a saludarle o a incluirle en la conversación.",
+      "En la mesa, en el trabajo o en una reunión, fíjate en quién se ha quedado aparte y acércate a saludar a esa persona o a incluirla en la conversación.",
       "Responde con cariño en un grupo de WhatsApp a alguien cuyo mensaje nadie contestó.",
       "Si ves a una persona mayor o sola en tu barrio, salúdala por su nombre y pregúntale cómo está."
     ],
@@ -122,7 +122,7 @@ export const DAYS: LessonContent[] = [
     ],
     "tarea": "Relee tu cuaderno desde el Día 1 (sin abrir la carta del Día 2), marca el día que más te costó y repite su tarea con calma. Luego agradece a Dios en voz baja por cada uno de tus cinco rostros.",
     "practica": [
-      "Aparta al menos 15 minutos sin teléfono, solo para estar tranquilo con Jesús.",
+      "Aparta al menos 15 minutos sin teléfono, solo para estar en calma con Jesús.",
       "Di “no” con amabilidad a una actividad que no es necesaria hoy, para hacer espacio al descanso.",
       "Durante una comida, come despacio y agradece en silencio por quienes están a tu mesa o por quienes recuerdas."
     ],
@@ -140,7 +140,7 @@ export const DAYS: LessonContent[] = [
     ],
     "tarea": "Dedica 10 minutos de atención total, sin teléfono, a un niño o a una persona mayor de tu casa o familia: juega, escucha su historia o pregúntale por su día. Si vive lejos, hazlo por llamada.",
     "practica": [
-      "Cuando un niño o un mayor te hable, deja lo que estás haciendo, gírate hacia él y mírale mientras habla.",
+      "Cuando un niño o un mayor te hable, deja lo que estás haciendo, gírate hacia él y míralo mientras habla.",
       "Cambia al menos un “ahora no” por “dame un minuto y te escucho”, y cumple ese minuto.",
       "Pregunta a un niño o a un mayor algo sobre su vida y escucha la respuesta hasta el final."
     ],
@@ -178,9 +178,9 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Saluda con respeto y cercanía a alguien cuya conducta no apruebas, sin indirectas ni frialdad.",
       "Si alguien habla mal de otra persona, menciona algo bueno que sabes de ella.",
-      "Cuando te venga un juicio duro sobre alguien, di en silencio: “Señor, ayúdame a verle como Tú le ves”."
+      "Cuando te venga un juicio duro sobre alguien, di en silencio: “Señor, ayúdame a ver a esta persona como Tú la ves”."
     ],
-    "meditar": "¿A quién estás esperando que cambie antes de tratarle con cariño?"
+    "meditar": "¿A quién le estás exigiendo que cambie antes de darle tu cariño?"
   },
   {
     "versiculo": {
@@ -194,7 +194,7 @@ export const DAYS: LessonContent[] = [
     ],
     "tarea": "Recuerda una vez en que alguien te trató con gracia cuando fallaste. Escríbele un mensaje de agradecimiento; si ya no es posible, agradece a Dios por esa persona en oración.",
     "practica": [
-      "Cuando alguien se equivoque hoy, que tu primera frase sea de ánimo (“tranquilo, se arregla”) y no de reproche.",
+      "Cuando alguien se equivoque hoy, que tu primera frase sea de ánimo (“no pasa nada, se arregla”) y no de reproche.",
       "Si necesitas corregir a alguien, hazlo en privado y con voz calmada, nunca delante de otros.",
       "En el Repaso de la noche, recuerda una falta tuya de hoy y recibe también tú la gracia de Jesús."
     ],
@@ -210,7 +210,7 @@ export const DAYS: LessonContent[] = [
       "Nosotros solemos saltar directo al consejo. La amiga cuenta un problema y ya le estamos diciendo qué hacer. El hijo llega callado y suponemos que es rebeldía. La esposa se queja del trabajo y le damos cinco soluciones, cuando quizá solo quería ser escuchada. Amar bien empieza por preguntar.",
       "Una pregunta sencilla puede cambiar el ambiente de una casa: “¿Qué necesitas de mí esta semana?”. A veces la respuesta sorprende: no piden regalos, sino que llegues a tiempo, que no mires el teléfono en la cena o que ayudes con una tarea. Escucha sin defenderte y anótalo; esa respuesta es un mapa para amar mejor. Guarda también esta manera de escuchar: al final del camino veremos a Jesús caminar con dos amigos desanimados y escucharlos antes de hablar."
     ],
-    "tarea": "Pregunta a un familiar (o a un amigo cercano, si vives solo): “¿Qué necesitas de mí esta semana?”. Escucha sin defenderte y anota la respuesta en tu cuaderno.",
+    "tarea": "Pregunta a un familiar (o a una amistad cercana, si no compartes casa con nadie): “¿Qué necesitas de mí esta semana?”. Escucha sin defenderte y anota la respuesta en tu cuaderno.",
     "practica": [
       "Antes de dar un consejo, haz al menos una pregunta: “¿Quieres que busquemos una solución o prefieres que solo te escuche?”.",
       "Cuando alguien esté raro o callado, pregúntale con cariño cómo está en lugar de suponer el motivo.",
@@ -226,7 +226,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "A la entrada de la ciudad de Naín salía un funeral. Llevaban al hijo único de una viuda; ella se quedaba sin esposo, sin hijo y sin sostén. Nadie le pidió nada a Jesús. Pero el Señor la vio, se compadeció y se acercó a decirle: “No llores”. Antes del milagro hubo una mirada y una cercanía.",
       "Cuando alguien sufre, muchas veces nos alejamos porque no sabemos qué decir. O decimos frases apresuradas: “todo pasa por algo”, “tienes que ser fuerte”. Pero quien atraviesa un duelo, una enfermedad, una separación o la pérdida de un trabajo no necesita palabras perfectas. Necesita presencia: alguien que se siente a su lado, que escuche, que recuerde el nombre de quien partió, que vuelva a preguntar semanas después, cuando los demás ya se olvidaron.",
-      "Hoy piensa en alguien que atraviesa una etapa difícil y acércate con un mensaje breve y cariñoso. No intentes arreglarlo. Y recuerda, para ti y para otros, que buscar la ayuda de un pastor, un consejero o un profesional cuando el dolor pesa demasiado también es una forma en que Dios nos cuida."
+      "Hoy piensa en alguien que atraviesa una etapa difícil y acércate con un mensaje breve y cariñoso. No intentes arreglarlo. Y recuerda, para ti y para otros, que cuando el dolor pesa demasiado, buscar la ayuda de un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o de un consejero o un profesional, también es una forma en que Dios nos cuida."
     ],
     "tarea": "Envía un mensaje breve y cariñoso a alguien que atraviesa una pérdida o una etapa difícil, por ejemplo: “Me acordé de ti y estoy orando por ti. Aquí estoy si quieres hablar”.",
     "practica": [
@@ -248,7 +248,7 @@ export const DAYS: LessonContent[] = [
     ],
     "tarea": "Relee tu lista de los cinco rostros y escribe junto a cada nombre un gesto pequeño que ya hiciste o que harás esta semana. Luego anota cuál de las escenas de Jesús de estas dos semanas te tocó más y por qué.",
     "practica": [
-      "Haz tu Repaso de la noche aunque estés cansado; si te lo saltaste algunos días, retómalo hoy sin culpa.",
+      "Haz tu Repaso de la noche aunque llegues con cansancio; si te lo saltaste algunos días, retómalo hoy sin culpa.",
       "Llama por su nombre, con calidez, a cada persona con quien hables hoy.",
       "Pasa cinco minutos en silencio “quedándote” con Jesús: sin pedir nada, solo agradeciendo que te llamó."
     ],
@@ -261,10 +261,10 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Jesús subió a un monte, se sentó y empezó su enseñanza más famosa con una frase inesperada: dichosos los pobres en espíritu. No habla de tener poco dinero, sino de un corazón que reconoce que necesita a Dios. Esa es la puerta de entrada a todo lo demás.",
-      "Muchos crecimos oyendo que hay que poder solos. La madre que no pide ayuda aunque esté agotada. El padre que prefiere perderse antes que preguntar el camino. El empleado que nunca dice “no sé” por miedo a quedar mal. Aparentar que todo lo controlamos nos aísla de Dios y de los demás.",
-      "En el Día 4 vimos que el primer mandamiento es amar a Dios con todo el corazón. Ese amor empieza al reconocer que le necesitamos. Y ser pobre en espíritu también nos hace más cercanos: cuando pides ayuda, das a otros la oportunidad de servirte. Hoy prueba decir con sencillez “no sé” o “necesito ayuda” cuando sea verdad. Es una pequeña libertad que abre el corazón al Reino, que Jesús promete precisamente a quienes saben que no pueden solos."
+      "Muchos crecimos oyendo que hay que poder con todo sin ayuda. La madre que no pide ayuda aunque esté agotada. El padre que prefiere perderse antes que preguntar el camino. El empleado que nunca dice “no sé” por miedo a quedar mal. Aparentar que todo lo controlamos nos aísla de Dios y de los demás.",
+      "En el Día 4 vimos que el primer mandamiento es amar a Dios con todo el corazón. Ese amor empieza al reconocer que lo necesitamos. Y ser pobre en espíritu también nos hace más cercanos: cuando pides ayuda, das a otros la oportunidad de servirte. Hoy prueba decir con sencillez “no sé” o “necesito ayuda” cuando sea verdad. Es una pequeña libertad que abre el corazón al Reino, que Jesús promete precisamente a quienes saben que no pueden por su cuenta."
     ],
-    "tarea": "Pide ayuda a alguien en algo pequeño que sueles cargar solo (cocinar, una tarea del trabajo, un trámite, una decisión) y agradécele de corazón.",
+    "tarea": "Pide ayuda a alguien en algo pequeño que sueles cargar sin ayuda de nadie (cocinar, una tarea del trabajo, un trámite, una decisión) y agradécele de corazón.",
     "practica": [
       "Di “no sé” o “no entiendo” con sencillez la próxima vez que sea verdad, sin inventar una respuesta.",
       "Empieza tu oración de hoy con estas palabras: “Señor, te necesito”.",
@@ -278,13 +278,13 @@ export const DAYS: LessonContent[] = [
       "referencia": "Mateo 5:4"
     },
     "resumen": [
-      "La segunda bienaventuranza suena extraña: dichosos los que lloran. Jesús no celebra el dolor. Dice que quien llora no está solo, porque Dios mismo le consolará. No tienes que esconder tus lágrimas ni fingir que todo está bien para ser un buen cristiano. Jesús también lloró ante la tumba de su amigo Lázaro.",
+      "La segunda bienaventuranza suena extraña: dichosos los que lloran. Jesús no celebra el dolor. Dice que quien llora no queda sin compañía, porque Dios mismo viene a consolar. No tienes que esconder tus lágrimas ni fingir que todo está bien para ser fiel a Jesús. Jesús también lloró ante la tumba de su amigo Lázaro.",
       "Muchos cargan penas en silencio: una madre que no ve a su hijo desde hace años, un diagnóstico, un matrimonio que se enfrió, una deuda que quita el sueño, un ser querido que ya no está. A veces esas penas salen disfrazadas de enojo o de cansancio. Llevarlas a Dios con palabras sencillas es el primer paso para recibir su consuelo.",
-      "En el Día 13 aprendiste a acompañar el dolor de otro. Hoy empieza por el tuyo. Y cuando alguien te comparta su pena, recuerda que no hace falta cambiar de tema ni dar un sermón: tu presencia puede ser parte del consuelo de Dios. Si tu tristeza es muy honda o dura mucho tiempo, hablar con un pastor, un consejero o un profesional también es una forma en que Dios cuida de ti."
+      "En el Día 13 aprendiste a acompañar el dolor de otro. Hoy empieza por el tuyo. Y cuando alguien te comparta su pena, recuerda que no hace falta cambiar de tema ni dar un sermón: tu presencia puede ser parte del consuelo de Dios. Si tu tristeza es muy honda o dura mucho tiempo, hablar con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o con un consejero o un profesional, también es una forma en que Dios cuida de ti."
     ],
     "tarea": "Escribe en tu cuaderno una carta corta a Dios sobre una pena propia: qué pasó, cómo te sientes y qué necesitas de Él. Termínala con la frase: “Tú me consolarás”.",
     "practica": [
-      "Si alguien comparte hoy algo triste, escúchale sin cambiar de tema ni corregir lo que siente.",
+      "Si alguien comparte hoy algo triste, escucha a esa persona sin cambiar de tema ni corregir lo que siente.",
       "Cuando sientas tristeza durante el día, dile a Dios en una frase lo que te pasa, en lugar de ignorarlo.",
       "Envía un mensaje de ánimo a alguien que sabes que está de duelo o pasando una etapa triste."
     ],
@@ -304,7 +304,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Cuando sientas que la tensión sube, baja tú el volumen de tu voz a propósito.",
       "En una discusión, renuncia a la última palabra: di “lo pienso y lo hablamos luego”.",
-      "En el tráfico o en una fila, cuando alguien te moleste, respira hondo y bendícele en silencio en lugar de reaccionar."
+      "En el tráfico o en una fila, cuando alguien te moleste, respira hondo y bendice en silencio a esa persona en lugar de reaccionar."
     ],
     "meditar": "¿En qué situación sueles necesitar imponerte, y qué pasaría si se la confiaras a Dios?"
   },
@@ -336,7 +336,7 @@ export const DAYS: LessonContent[] = [
       "Jesús dice que los misericordiosos alcanzarán misericordia. No es un negocio con Dios; es que un corazón que da gracia se vuelve capaz de recibirla. En el Día 11 viste cómo Jesús puso la gracia primero ante la mujer acusada. Hoy esa gracia baja a lo más cotidiano: la lentitud, la torpeza y los olvidos de los demás.",
       "Misericordia no significa aprobar todo ni dejar que te hagan daño; significa no aplastar al que es débil o lento. Un buen ejercicio es respirar antes de responder y recordar cuántas veces Dios ha tenido paciencia contigo. Hoy, además, harás algo concreto por alguien que últimamente te ha hecho perder la paciencia."
     ],
-    "tarea": "Haz un favor concreto a alguien que te ha hecho perder la paciencia últimamente: ayúdale con algo, prepárale algo o explícale algo con calma.",
+    "tarea": "Haz un favor concreto a alguien que te ha hecho perder la paciencia últimamente: ofrécele tu ayuda con algo, prepárale algo o explícale algo con calma.",
     "practica": [
       "Ante la lentitud o la torpeza de alguien, respira hondo antes de hablar y responde con voz tranquila.",
       "Explica una vez más, sin suspirar ni mostrar fastidio, algo que alguien no entendió.",
@@ -406,13 +406,13 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hacer el bien no siempre es aplaudido. A veces cuesta. Te miran raro por no reírte de un chiste que humilla a alguien, por no firmar algo falso en el trabajo, por no sumarte al chisme o por orar antes de comer en público. Jesús conoce esa incomodidad y llama dichosos a quienes la sufren por causa de lo justo.",
       "En el Día 18 hablamos del hambre de lo correcto en lo pequeño. Hoy vemos su precio: una burla, una crítica, quedar fuera de la conversación. La respuesta de Jesús no es discutir ni sentirse superior a los demás. Es mantener la honestidad y la amabilidad con paz, sin devolver mal por mal y sin hacerse la víctima.",
-      "Y hay algo más difícil: orar por quienes se burlan o critican. No para aparentar santidad, sino porque así lo hizo Jesús. Esto no significa quedarte en un lugar donde te maltratan: poner límites sanos y buscar ayuda es de sabios. Pero el corazón puede seguir bendiciendo. De los que viven así, dice Jesús, es el reino de los cielos."
+      "Y hay algo más difícil: orar por quienes se burlan o critican. No para aparentar santidad, sino porque así lo hizo Jesús. Esto no significa quedarte en un lugar donde te maltratan: poner límites sanos y buscar el apoyo de un pastor, un sacerdote o alguien de confianza en tu comunidad de fe es de sabios. Pero el corazón puede seguir bendiciendo. De los que viven así, dice Jesús, es el reino de los cielos."
     ],
-    "tarea": "Ora por alguien que se burló de ti o te criticó por tu fe o por tus principios, y bendícele en voz alta por su nombre: “Señor, bendice a… y dale paz”.",
+    "tarea": "Ora por alguien que se burló de ti o te criticó por tu fe o por tus principios, y bendice a esa persona en voz alta por su nombre: “Señor, bendice a… y dale paz”.",
     "practica": [
       "Mantén hoy una respuesta honesta aunque una pequeña mentira resulte más cómoda.",
       "Si alguien critica tus principios, responde con calma y amabilidad, sin discutir ni sermonear.",
-      "Cuando te sientas incomprendido, di en silencio: “Jesús, Tú lo sabes; me basta tu mirada”."
+      "Cuando sientas que nadie te comprende, di en silencio: “Jesús, Tú lo sabes; me basta tu mirada”."
     ],
     "meditar": "¿Qué temes perder si haces lo correcto en tu casa o en tu trabajo?"
   },
@@ -442,15 +442,15 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Muchos somos encantadores en la calle y difíciles en casa. Con los vecinos, sonrisas; con la familia, silencios, gritos o mala cara. Nos sale fácil ser amables con quien vemos poco, y nos cuesta con quien convivimos todos los días. Jesús habló de una lámpara que no se esconde, sino que se pone en alto y alumbra a todos los que están en casa.",
       "La luz empieza en el hogar. Se nota en detalles simples: saludar al llegar en lugar de pasar directo al cuarto, dar las gracias por la comida, preguntar “¿cómo te fue?” y escuchar la respuesta. En el Día 8 aprendiste a dar atención plena a los pequeños y a los mayores. Hoy extiende esa atención a todos los de casa: tu pareja, tus hijos, tus padres, tus hermanos, quien comparta tu techo.",
-      "Si vives solo, tu casa son también tus más cercanos: esa hermana a quien llamas poco, ese amigo que es como familia. La luz de Jesús no se reserva para los de afuera. Hoy déjala brillar, sobre todo, con quienes te ven cuando estás cansado."
+      "Si no compartes techo con nadie, tu casa son también tus más cercanos: esa hermana a quien llamas poco, ese amigo que es como familia. La luz de Jesús no se reserva para los de afuera. Hoy déjala brillar, sobre todo, con quienes te ven cuando llegas con cansancio."
     ],
-    "tarea": "Escribe una nota de cariño o agradecimiento a alguien con quien vives y déjala donde la encuentre (en la almohada, en el refrigerador). Si vives solo, llama a un familiar cercano para decirle algo que valoras de él o de ella.",
+    "tarea": "Escribe una nota de cariño o agradecimiento a alguien con quien vives y déjala donde la encuentre (en la almohada, en el refrigerador). Si no compartes casa con nadie, llama a un familiar cercano para decirle algo que valoras de él o de ella.",
     "practica": [
       "Al llegar a casa, saluda a cada persona antes de hacer cualquier otra cosa.",
       "Di “gracias” y “por favor” a los de tu casa, con la misma cortesía que usas con los de afuera.",
       "Evita hoy el tono seco o sarcástico en casa; si se te escapa, corrígelo enseguida."
     ],
-    "meditar": "¿Te reconocerían más fácilmente como seguidor de Jesús en la calle o en tu casa?"
+    "meditar": "¿Dónde se notaría más fácilmente que sigues a Jesús: en la calle o en tu casa?"
   },
   {
     "versiculo": {
@@ -495,7 +495,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Una rama cortada puede verse verde un par de días, pero no dará fruto. Jesús usó esta imagen la noche antes de morir: Él es la vid y nosotros las ramas. El que permanece en Él lleva mucho fruto; separados de Él, nada podemos hacer. No dice “poco”; dice “nada”.",
-      "Después de cuatro semanas es fácil caer en una trampa: pensar que cambiar depende de nuestra fuerza de voluntad. Nos esforzamos por ser mansos, pacientes y justos, y cuando fallamos nos frustramos. Pero el fruto no se fabrica apretando los dientes; crece cuando permanecemos unidos a Jesús. En el Día 14 hablamos de quedarnos con Él; esto es lo mismo, visto desde el fruto.",
+      "Después de cuatro semanas es fácil caer en una trampa: pensar que cambiar depende de nuestra fuerza de voluntad. Nos esforzamos por vivir con mansedumbre, paciencia y justicia, y cuando fallamos nos frustramos. Pero el fruto no se fabrica apretando los dientes; crece cuando permanecemos unidos a Jesús. En el Día 14 hablamos de quedarnos con Él; esto es lo mismo, visto desde el fruto.",
       "Por eso hoy no corres: descansas y miras atrás. Relee tus notas de las bienaventuranzas y busca un cambio pequeño que ya notas, aunque sea mínimo: una discusión que no escaló, un nombre aprendido, un mensaje enviado. Agradécelo. La próxima etapa tocará relaciones difíciles: el enojo, la reconciliación, amar a quien no te ama. Para eso necesitarás la vid más que nunca."
     ],
     "tarea": "Relee tus notas desde el Día 15 y escribe un cambio pequeño que ya notas en ti. Agradécelo a Jesús y pídele fuerza para la etapa siguiente, que tocará relaciones difíciles.",
@@ -513,13 +513,13 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "En el Sermón del Monte, Jesús fue más allá del “no matarás”: habló del enojo que se guarda en el corazón y de las palabras que desprecian. El apóstol Pablo lo explicó con realismo: “Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo”. Sentir enojo es humano; alimentarlo es lo que nos daña.",
-      "El enojo guardado tiene muchas formas: el silencio que dura días, la cara larga en la cena, las indirectas, repasar la discusión en la cabeza a las dos de la mañana. Quien más sufre suele ser uno mismo, y después los de casa, que reciben el golpe sin saber por qué. El enojo que no se entrega termina saliendo contra quien no tiene la culpa.",
-      "Desde el Día 3 haces el Repaso de la noche. Hoy le sumas algo: antes de dormir, entrega a Dios el enojo del día. No hace falta fingir que no pasó nada ni tener una conversación difícil esa misma noche. Basta con decir: “Señor, esto me enojó; te lo entrego y no lo guardo”. Y si una situación te hace daño una y otra vez, busca también consejo sabio para poner límites."
+      "El enojo guardado tiene muchas formas: el silencio que dura días, la cara larga en la cena, las indirectas, repasar la discusión en la cabeza a las dos de la mañana. Quien más sufre suele ser quien lo guarda, y después los de casa, que reciben el golpe sin saber por qué. El enojo que no se entrega termina saliendo contra quien no tiene la culpa.",
+      "Desde el Día 3 haces el Repaso de la noche. Hoy le sumas algo: antes de dormir, entrega a Dios el enojo del día. No hace falta fingir que no pasó nada ni tener una conversación difícil esa misma noche. Basta con decir: “Señor, esto me enojó; te lo entrego y no lo guardo”. Y si una situación te hace daño una y otra vez, busca también consejo sabio para poner límites: un pastor, un sacerdote o alguien de confianza en tu comunidad de fe puede ayudarte."
     ],
     "tarea": "Escribe en tu cuaderno qué situación te enoja con más frecuencia (en casa, en el trabajo, en el tráfico) y ora entregándola a Dios. Si hay una persona involucrada, bendícela por su nombre.",
     "practica": [
       "Cuando sientas que el enojo sube, espera diez segundos antes de responder y respira despacio.",
-      "Si estás muy molesto, di “necesito un momento” y apártate un rato en lugar de explotar.",
+      "Si la molestia es muy fuerte, di “necesito un momento” y apártate un rato en lugar de explotar.",
       "En el Repaso de la noche, agrega una frase: “Señor, te entrego el enojo de hoy”."
     ],
     "meditar": "¿Qué enojo llevas días, o años, sin entregar a Dios?"
@@ -537,7 +537,7 @@ export const DAYS: LessonContent[] = [
     "tarea": "Elige una relación con tensión leve y da hoy un primer paso sencillo: un saludo, una pregunta amable, un mensaje de “¿cómo estás?”. Anota en tu cuaderno qué hiciste.",
     "practica": [
       "Toma la iniciativa de saludar primero, sin esperar que la otra persona lo haga.",
-      "Si hoy notas que ofendiste a alguien, búscale y arréglalo antes de que termine el día.",
+      "Si hoy notas que ofendiste a alguien, busca a esa persona y arréglalo antes de que termine el día.",
       "Antes de orar o de ir a tu iglesia, pregúntate si hay alguien con quien necesitas hacer las paces."
     ],
     "meditar": "¿A quién estás esperando que dé el primer paso?"
@@ -585,13 +585,13 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Esta es quizá la enseñanza más difícil de Jesús: amad a vuestros enemigos, orad por los que os ultrajan. Y Él no la dio desde un lugar cómodo. Fue insultado, traicionado y crucificado, y oró por quienes le hacían daño.",
-      "Para la mayoría, el “enemigo” no es alguien lejano. Es la persona de tu lista del Día 1 con quien hay tensión: el suegro que critica todo, la excompañera que habló mal de ti, el hermano con quien no hablas desde la herencia. Amarle no empieza por sentir cariño. Empieza por algo más pequeño y más poderoso: orar por su nombre y pedir algo bueno para su vida.",
-      "Algo muy importante: amar no es aceptar abuso. Orar por alguien no te obliga a exponerte a su maltrato ni a fingir que nada pasó. Poner límites seguros, tomar distancia o pedir ayuda también es sabiduría, y también es amor. Lo que Jesús nos pide es que el odio no se adueñe del corazón. Desde hoy hasta el final del plan, dedica un minuto diario a orar por esta persona. No sabes lo que Dios hará en ella, ni en ti."
+      "Para la mayoría, el “enemigo” no es alguien lejano. Es la persona de tu lista del Día 1 con quien hay tensión: el suegro que critica todo, la excompañera que habló mal de ti, el hermano con quien no hablas desde la herencia. Amar a esa persona no empieza por sentir cariño. Empieza por algo más pequeño y más poderoso: orar por su nombre y pedir algo bueno para su vida.",
+      "Algo muy importante: amar no es aceptar abuso. Orar por alguien no te obliga a exponerte a su maltrato ni a fingir que nada pasó. Poner límites seguros, tomar distancia o pedir ayuda a un pastor, un sacerdote o alguien de confianza en tu comunidad de fe también es sabiduría, y también es amor. Lo que Jesús nos pide es que el odio no se adueñe del corazón. Desde hoy hasta el final del plan, dedica un minuto diario a orar por esta persona. No sabes lo que Dios hará en ella, ni en ti."
     ],
     "tarea": "Ora por nombre por la persona con quien hay tensión (tu lista del Día 1), pidiendo a Dios algo concreto y bueno para su vida: salud, paz, trabajo, alegría. Anota en tu cuaderno la fecha de hoy, porque aquí empieza este hábito diario.",
     "practica": [
       "Dedica un minuto hoy, y cada día desde ahora, a orar por la persona difícil de tu lista.",
-      "Cuando recuerdes algo que esa persona te hizo, cambia el pensamiento por una frase: “Señor, bendícele”.",
+      "Cuando recuerdes algo que esa persona te hizo, cambia el pensamiento por una frase: “Señor, bendice a esta persona”.",
       "Evita hoy hablar mal de esa persona con otros, aunque tengas razón."
     ],
     "meditar": "¿Qué te cuesta más: orar por esa persona o desearle de verdad el bien?"
@@ -602,8 +602,8 @@ export const DAYS: LessonContent[] = [
       "referencia": "Mateo 5:45"
     },
     "resumen": [
-      "Mañana saldrá el sol sobre el vecino amable y también sobre el que nunca saluda. Lloverá en el campo del honrado y en el del tramposo. Jesús usó esa imagen para mostrar cómo es el Padre: su bondad no espera a que la merezcamos. Y quienes le siguen se parecen a Él, como hijos que se parecen a su padre.",
-      "Nuestra amabilidad suele ser un espejo: amables con quien es amable, fríos con quien es frío. La compañera que no devuelve el saludo, el cuñado que responde con monosílabos, la vecina que se queja de todo. Es fácil pagar con la misma moneda. Pero Jesús nos invita a un amor que no depende de la respuesta del otro.",
+      "Mañana saldrá el sol sobre el vecino amable y también sobre el que nunca saluda. Lloverá en el campo del honrado y en el del tramposo. Jesús usó esa imagen para mostrar cómo es el Padre: su bondad no espera a que la merezcamos. Y quienes lo siguen se parecen a Él, como hijos que se parecen a su padre.",
+      "Nuestra amabilidad suele ser un espejo: amabilidad con quien es amable, frialdad con quien es frío. La compañera que no devuelve el saludo, el cuñado que responde con monosílabos, la vecina que se queja de todo. Es fácil pagar con la misma moneda. Pero Jesús nos invita a un amor que no depende de la respuesta del otro.",
       "Ayer empezaste a orar por quien te hiere. Hoy esa oración baja a un gesto. No tienes que forzar una amistad ni aceptar un trato injusto; si una relación es dañina, cuidarte con límites sigue siendo sabio. Pero sí puedes seguir saludando, ofreciendo un café, deseando buen día. El sol no deja de salir porque alguien no se lo agradezca."
     ],
     "tarea": "Haz hoy un gesto amable concreto hacia alguien que suele tratarte con frialdad: un saludo cordial, ofrecerle algo, una palabra de reconocimiento. Elige a alguien seco o distante, nunca a una persona que te hace daño.",
@@ -622,15 +622,15 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Esta semana fue exigente. Entregar el enojo antes de dormir, dar el primer paso hacia una reconciliación, cumplir la palabra, caminar la segunda milla, orar por quien te hiere, ser amable como el sol. Leído todo junto, puede parecer imposible. Y lo sería si la meta fuera la perfección.",
       "Por eso Lucas recoge estas palabras de Jesús: “Sed, pues, misericordiosos, como también vuestro Padre es misericordioso”. La meta es parecernos a un Padre que no se cansa de tener paciencia. En el Día 19 practicaste la misericordia con los demás. Hoy aplícala también contigo. Mira tus fallas de la semana como Dios las mira: con verdad, pero sin desprecio.",
-      "Hoy el ritmo es más suave. Relee los días 29 al 34 en tu cuaderno y repite con calma la tarea que quedó pendiente. Busca también un momento en que respondiste mejor que antes: una discusión que no escaló, un saludo difícil que diste, una promesa cumplida. Agradécelo. No caminas solo: la gracia te sostiene cada día."
+      "Hoy el ritmo es más suave. Relee los días 29 al 34 en tu cuaderno y repite con calma la tarea que quedó pendiente. Busca también un momento en que respondiste mejor que antes: una discusión que no escaló, un saludo difícil que diste, una promesa cumplida. Agradécelo. No caminas sin compañía: la gracia te sostiene cada día."
     ],
     "tarea": "Relee los días 29 al 34, elige la tarea que dejaste pendiente o que más te costó y repítela hoy con calma. Luego escribe un momento de la semana en que respondiste mejor que antes y agradécelo.",
     "practica": [
-      "Cuando recuerdes una falla de la semana, háblate con la misma misericordia con que le hablarías a un amigo.",
+      "Cuando recuerdes una falla de la semana, háblate con la misma misericordia con que le hablarías a alguien que quieres.",
       "Sigue tu minuto diario de oración por la persona difícil de tu lista.",
       "Toma hoy un rato de descanso sin pantallas para estar con Dios."
     ],
-    "meditar": "¿Te tratas a ti mismo con la misericordia con que Dios te trata?"
+    "meditar": "¿Te tratas con la misericordia con que Dios te trata?"
   },
   {
     "versiculo": {
@@ -638,7 +638,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Mateo 6:3-4"
     },
     "resumen": [
-      "Jesús usó una imagen casi graciosa: que tu mano izquierda no sepa lo que hace la derecha. Es decir, haz el bien tan en secreto que ni tú mismo te pongas a llevar la cuenta. Y añadió una promesa: el Padre que ve en lo secreto te recompensará.",
+      "Jesús usó una imagen casi graciosa: que tu mano izquierda no sepa lo que hace la derecha. Es decir, haz el bien tan en secreto que ni tú te pongas a llevar la cuenta. Y añadió una promesa: el Padre que ve en lo secreto te recompensará.",
       "Vivimos en una época en que casi todo se publica; hasta la ayuda se fotografía. No está mal que otros vean el bien, como vimos en el Día 26. Pero hay una libertad especial en hacer algo que nadie sabrá jamás. Libera el corazón de la necesidad de reconocimiento. Ya no necesitas el “gracias” para seguir amando; te basta con que el Padre lo vea.",
       "Desde hoy empieza un hábito semanal: el acto secreto. Una vez por semana, hasta el final del plan, harás un bien que nadie debe descubrir. Puede ser arreglar algo roto en casa, dejar una nota de ánimo anónima, adelantar la tarea de otro antes de que la vea u orar por alguien sin decírselo. Si alguien lo descubre, no pasa nada: sonríe y busca otro para la semana siguiente."
     ],
@@ -663,7 +663,7 @@ export const DAYS: LessonContent[] = [
     "tarea": "Revisa cómo usaste tu tiempo ayer (puedes mirar el tiempo de uso del teléfono) y separa en tu agenda un espacio fijo esta semana para una persona de tu lista de cinco rostros.",
     "practica": [
       "Deja el teléfono fuera de la mesa durante las comidas con tu familia.",
-      "Cuando alguien te hable, pon la pantalla boca abajo y mírale.",
+      "Cuando alguien te hable, pon la pantalla boca abajo y mira a esa persona.",
       "Cambia hoy 15 minutos de redes sociales por una conversación o una llamada a alguien que quieres."
     ],
     "meditar": "Si tu familia mirara tu día de ayer, ¿qué dirían que es tu tesoro?"
@@ -693,7 +693,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Esta imagen de Jesús casi da risa. Imaginó a alguien con una viga de madera en el ojo intentando sacarle una pajita del ojo a su hermano. La escena es ridícula a propósito: vemos con lupa la falla pequeña del otro y no notamos la grande en nosotros.",
-      "Pasa en casi todos los conflictos familiares. “Es que tú nunca ayudas”. “Es que tu mamá siempre se mete”. “Es que el niño no obedece”. Puede ser cierto, pero rara vez es toda la verdad. Casi siempre hay una parte que me toca: el tono con que hablo, lo que callo y después cobro, lo que exijo sin dar. Reconocerla no es cargar con toda la culpa; es empezar por lo único que de verdad puedo cambiar. Eso sí: si en una relación hay maltrato, la culpa no es tuya, y lo sabio es buscar ayuda y protección.",
+      "Pasa en casi todos los conflictos familiares. “Es que tú nunca ayudas”. “Es que tu mamá siempre se mete”. “Es que el niño no obedece”. Puede ser cierto, pero rara vez es toda la verdad. Casi siempre hay una parte que me toca: el tono con que hablo, lo que callo y después cobro, lo que exijo sin dar. Reconocerla no es cargar con toda la culpa; es empezar por lo único que de verdad puedo cambiar. Eso sí: si en una relación hay maltrato, la culpa no es tuya, y lo sabio es buscar ayuda y protección; un pastor, un sacerdote o alguien de confianza en tu comunidad de fe pueden acompañarte.",
       "Ayer aprendiste a no juzgar. Hoy miras hacia adentro. Piensa en un conflicto que se repite en tu familia y escribe con honestidad cuál es tu parte. Luego pídele a Dios luz para cambiarla. Y en el próximo desacuerdo, prueba empezar diciendo: “Yo reconozco que…”. Te sorprenderá cómo baja la tensión."
     ],
     "tarea": "Escribe en tu cuaderno “mi parte” en un conflicto que se repite en tu familia: qué digo, hago o callo que empeora las cosas. Ora pidiéndole a Dios luz para cambiar esa parte.",
@@ -712,12 +712,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Cabe en un bolsillo y, según Jesús, resume la ley y los profetas: trata a los demás como quieres que te traten. No dijo solamente “no hagas lo que no te gusta”, sino algo más activo: haz tú primero lo que te gustaría recibir.",
       "Es una pregunta útil para cada momento del día. Te llega un mensaje de reclamo en el grupo del colegio: ¿cómo te gustaría que te respondieran a ti? Tu hijo derrama el jugo: ¿cómo querrías que te hablaran si te hubiera pasado a ti? Un cliente llega molesto a tu mostrador: ¿qué te ayudaría a calmarte si estuvieras en su lugar? La respuesta casi siempre es clara; lo difícil es ponerla en práctica.",
-      "En el Día 4 viste el mandamiento de amar al prójimo como a ti mismo. La regla de oro lo vuelve práctico. Piensa en lo que te hace sentir valorado: que te escuchen, que te den las gracias, que recuerden tu cumpleaños, que te pregunten cómo estás. Hoy haz una de esas cosas por otra persona, sin esperar que te la devuelva."
+      "En el Día 4 viste el mandamiento de amar al prójimo como a ti mismo. La regla de oro lo vuelve práctico. Piensa en lo que te hace sentir que te valoran: que te escuchen, que te den las gracias, que recuerden tu cumpleaños, que te pregunten cómo estás. Hoy haz una de esas cosas por otra persona, sin esperar que te la devuelva."
     ],
-    "tarea": "Escribe en tu cuaderno tres cosas que te hacen sentir valorado (que te escuchen, que te agradezcan, que te pregunten por tu día) y haz hoy una de ellas por otra persona.",
+    "tarea": "Escribe en tu cuaderno tres cosas que te hacen sentir que te valoran (que te escuchen, que te agradezcan, que te pregunten por tu día) y haz hoy una de ellas por otra persona.",
     "practica": [
       "Antes de responder un mensaje o un reclamo, pregúntate: “¿Cómo me gustaría que me respondieran a mí?”.",
-      "Trata a quien te atiende (en la tienda, al teléfono, en una oficina) como te gustaría ser tratado en su lugar.",
+      "Trata a quien te atiende (en la tienda, al teléfono, en una oficina) como te gustaría que te trataran si estuvieras en su lugar.",
       "Sigue tu minuto diario de oración por la persona difícil de tu lista."
     ],
     "meditar": "¿Qué te gustaría recibir de los tuyos que tú todavía no les das?"
@@ -728,7 +728,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Mateo 7:17"
     },
     "resumen": [
-      "Un árbol no necesita un cartel que diga qué clase de árbol es; basta mirar su fruto. Jesús dijo que el buen árbol da buenos frutos. Y los que más ven nuestro fruto no son los de la iglesia ni los del trabajo, sino los de casa: los que nos ven al despertar, cansados, con hambre o preocupados por las cuentas.",
+      "Un árbol no necesita un cartel que diga qué clase de árbol es; basta mirar su fruto. Jesús dijo que el buen árbol da buenos frutos. Y los que más ven nuestro fruto no son los de la iglesia ni los del trabajo, sino los de casa: los que nos ven al despertar, con cansancio, con hambre o con la preocupación de las cuentas.",
       "Por eso el cambio verdadero se comprueba en el hogar. Si después de estas semanas en tu casa se discute menos, si tus hijos se sienten más escuchados, si tu pareja nota más paciencia, algo está creciendo. Y si todavía no lo notan, no te desanimes: los árboles tardan. En el Día 28 recordaste que el fruto viene de permanecer en la vid, no de exigirte más.",
       "Hoy harás algo valiente: preguntar a alguien cercano qué cosa pequeña podrías hacer para ser más fácil de convivir. Escucha sin defenderte, sin explicar y sin contraatacar. Solo di “gracias” y anótalo. Es un regalo que te ayuda a crecer justo donde más importa."
     ],
@@ -738,7 +738,7 @@ export const DAYS: LessonContent[] = [
       "Haz hoy mismo algo de lo que te respondieron, aunque sea en pequeño.",
       "En tu momento de más cansancio hoy, detente un segundo y elige responder con el fruto que quieres dar."
     ],
-    "meditar": "¿Qué fruto ven los de tu casa cuando estás cansado?"
+    "meditar": "¿Qué fruto ven los de tu casa cuando llegas con cansancio?"
   },
   {
     "versiculo": {
@@ -765,13 +765,13 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Rodeado de gente casi todo el día, Jesús se levantaba temprano y se iba a un lugar apartado para orar. Y enseñó a sus discípulos a hacer lo mismo: entra en tu aposento, cierra la puerta y ora a tu Padre que está en secreto. No hacen falta palabras elegantes; basta un rincón y un corazón sincero.",
-      "Empieza una nueva etapa: orar y perdonar como Jesús. Parece un salto: ¿qué tiene que ver la oración a solas con cómo tratamos a los demás? Todo. La paciencia con los hijos, la mansedumbre en el trabajo, el perdón a la persona difícil no salen de la nada. Nacen de estar a solas con el Padre. Quien no tiene dónde recargarse, termina vacío.",
+      "Empieza una nueva etapa: orar y perdonar como Jesús. Parece un salto: ¿qué tiene que ver la oración a solas con cómo tratamos a los demás? Todo. La paciencia con los hijos, la mansedumbre en el trabajo, el perdón a la persona difícil no salen de la nada. Nacen de estar a solas con el Padre. Quien no tiene dónde recargarse se queda sin nada que dar.",
       "En el Día 36 aprendiste que el Padre ve lo que se hace en secreto. Hoy buscas tu “aposento”: una silla junto a la ventana, un rincón del cuarto, el carro estacionado antes de entrar al trabajo. Desde mañana, al despertar, rezarás allí el Padre Nuestro despacio. En los próximos días lo recorreremos juntos, frase por frase, mirando cómo cada una toca a los demás."
     ],
     "tarea": "Busca un “aposento” en tu casa (un rincón, una silla, un lugar donde puedas cerrar la puerta) y ora allí 5 minutos a solas, en voz baja, contándole al Padre cómo estás.",
     "practica": [
       "Mañana al despertar, antes de mirar el teléfono, reza el Padre Nuestro despacio en tu rincón de oración.",
-      "Durante el día, cuando estés tenso con alguien, cierra los ojos unos segundos y di: “Padre, aquí estoy”.",
+      "Durante el día, cuando sientas tensión con alguien, cierra los ojos unos segundos y di: “Padre, aquí estoy”.",
       "Mantén tu tiempo a solas con Dios en lo secreto, sin comentarlo para que otros lo sepan."
     ],
     "meditar": "¿Dónde y cuándo puedes encontrarte a solas con el Padre cada día?"
@@ -782,14 +782,14 @@ export const DAYS: LessonContent[] = [
       "referencia": "Mateo 6:9"
     },
     "resumen": [
-      "Jesús podría habernos enseñado a decir “Padre mío”. Pero no: la oración empieza con “Padre nuestro”. Desde la primera palabra, los demás están incluidos. Cuando oro, no estoy solo: estoy en familia, con hermanos a quienes Dios también ama, incluso los que me caen mal.",
+      "Jesús podría habernos enseñado a decir “Padre mío”. Pero no: la oración empieza con “Padre nuestro”. Desde la primera palabra, los demás están incluidos. Cuando oro, nunca estoy sin compañía: estoy en familia, con hermanos a quienes Dios también ama, incluso los que me caen mal.",
       "Es difícil rezar “Padre nuestro” por la mañana y tratar mal a alguien a mediodía. Si Dios es Padre de ambos, el compañero que me irrita es mi hermano. La vecina que se queja, también. El familiar con quien discutí en el grupo de WhatsApp, también. Esa palabra pequeña, “nuestro”, cambia la forma de mirar a todos.",
       "Y cuando decimos “santificado sea tu nombre”, pedimos que Dios sea honrado, también a través de cómo tratamos a sus hijos. Hoy, después del Padre Nuestro lento de la mañana, vuelve a tu lista del Día 1 y nombra a cada uno de tus cinco rostros como hermano o hermana. Quizá te cueste con alguno, sobre todo con la persona difícil. Dilo de todos modos: la oración va cambiando el corazón."
     ],
     "tarea": "Reza el Padre Nuestro despacio y luego nombra a cada uno de tus cinco rostros del Día 1 como “mi hermano” o “mi hermana”, pidiendo una bendición breve para cada uno.",
     "practica": [
       "Al decir “nuestro” en la oración, piensa en una persona concreta que también es hija de Dios.",
-      "Cuando alguien te irrite hoy, recuerda en silencio: “También es hijo de mi Padre”.",
+      "Cuando alguien te irrite hoy, recuerda en silencio: “Esta persona también es hija de mi Padre”.",
       "Sigue tu minuto diario de oración por la persona difícil de tu lista."
     ],
     "meditar": "¿A quién te cuesta más incluir cuando dices “Padre nuestro”?"
@@ -844,7 +844,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Antes de cada comida, da gracias en una frase y menciona a alguien que hoy necesita pan o compañía.",
       "Sirve primero a otro en la mesa y deja para ti la última porción.",
-      "Si alguien te comparte su preocupación por el dinero, escúchale sin juzgar y ofrécele algo concreto que sí tengas: tiempo, una comida, una oración."
+      "Si alguien te comparte su preocupación por el dinero, escucha a esa persona sin juzgar y ofrécele algo concreto que sí tengas: tiempo, una comida, una oración."
     ],
     "meditar": "¿Qué te impide compartir: la falta de pan o el miedo a que mañana no alcance?"
   },
@@ -855,7 +855,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "¿Has intentado alguna vez perdonar a alguien apretando los dientes, a pura fuerza de voluntad? Casi siempre dura poco. Por eso el orden de esta frase del Padre Nuestro es tan importante: primero decimos “perdónanos nuestras deudas”. Antes de pedirnos que perdonemos, Jesús nos lleva a recibir perdón.",
-      "Jesús vino a cargar con nuestras deudas; en la cruz pagó lo que nosotros no podíamos pagar. Quien se sabe perdonado de verdad empieza a mirar distinto a quien le debe algo: al hermano que no devolvió el préstamo, al esposo que dijo una palabra dura, a la hija que olvidó llamar. No es que esas cosas no importen. Es que ya no soy el juez que lleva la cuenta, sino alguien que también vive de la gracia.",
+      "Jesús vino a cargar con nuestras deudas; en la cruz pagó lo que nosotros no podíamos pagar. Quien ha recibido de verdad el perdón empieza a mirar distinto a quien le debe algo: al hermano que no devolvió el préstamo, al esposo que dijo una palabra dura, a la hija que olvidó llamar. No es que esas cosas no importen. Es que ya no soy el juez que lleva la cuenta, sino alguien que también vive de la gracia.",
       "En el Día 11 aprendiste que lo primero que Jesús da es gracia. Hoy vas a recibirla tú, de forma concreta. No se trata de sentirte culpable, sino de soltar un peso ante un Padre que ya abrió los brazos. Desde ese lugar, perdonar deja de ser una exigencia imposible y se vuelve una respuesta de gratitud."
     ],
     "tarea": "Escribe en una hoja algo por lo que necesitas el perdón de Dios. Pídeselo con sencillez en oración y luego rompe o tacha la hoja como señal de que, en Jesús, esa deuda ya fue perdonada.",
@@ -864,7 +864,7 @@ export const DAYS: LessonContent[] = [
       "No menciones hoy errores pasados de nadie de tu casa, ni siquiera en broma.",
       "En el Repaso de la noche, agradece por un perdón concreto que recibiste de Dios o de una persona."
     ],
-    "meditar": "¿Vives como alguien que ha sido perdonado, o como alguien que todavía está pagando?"
+    "meditar": "¿Vives como alguien que ya recibió el perdón, o como alguien que todavía está pagando?"
   },
   {
     "versiculo": {
@@ -872,7 +872,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Lucas 11:1"
     },
     "resumen": [
-      "Los discípulos llevaban tiempo con Jesús. Le habían visto sanar, enseñar y multiplicar panes. Pero lo que les movió a pedirle algo fue verle orar. Cuando terminó, uno de ellos se animó: “Señor, enséñanos a orar”. Habían orado toda su vida y, aun así, se sentían aprendices. Eso nos da mucha paz: nadie llega sabiendo.",
+      "Los discípulos llevaban tiempo con Jesús. Lo habían visto sanar, enseñar y multiplicar panes. Pero lo que los movió a pedirle algo fue verlo orar. Cuando terminó, uno de ellos se animó: “Señor, enséñanos a orar”. Habían orado toda su vida y, aun así, se sentían aprendices. Eso nos da mucha paz: nadie llega sabiendo.",
       "Hoy toca bajar el ritmo y mirar la semana. Recorriste el Padre Nuestro mirando hacia los demás: el rincón secreto del Día 43, el “nuestro” del Día 44 que incluyó tus cinco rostros, el Reino que entra en una relación (Día 45), la voluntad que cede en lo pequeño (Día 46), el pan que se comparte (Día 47) y el perdón recibido (Día 48). Quizá algunas mañanas lo rezaste con prisa o lo olvidaste. No importa: se vuelve a empezar.",
       "Pide hoy lo mismo que aquel discípulo. La oración no es un examen que se aprueba; es una amistad que se aprende con tiempo. Y no olvides tu acto secreto de esta semana: un bien que solo el Padre vea."
     ],
@@ -892,13 +892,13 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Pedro creyó que estaba siendo generoso. Ofrecer perdón siete veces ya parecía mucho. Jesús le respondió con una cifra que en realidad es una invitación a dejar de contar: setenta veces siete. En el Reino, el perdón no lleva libreta de cuentas.",
       "Perdonar no es un sentimiento que aparece de golpe. Es una decisión que a veces hay que renovar muchas veces por la misma herida: cuando vuelve el recuerdo en la ducha, cuando ves su foto en el grupo familiar, cuando alguien menciona su nombre. Cada vez puedes decir: “Señor, hoy vuelvo a perdonar”. Y perdonar tampoco es fingir que no pasó, ni permitir que te sigan haciendo daño. Amar nunca es aceptar el maltrato; poner límites claros y seguros también es sabiduría, y el perdón puede darse a distancia.",
-      "Desde el Día 33 oras por la persona difícil de tu lista. Hoy vas a escribir su nombre, o el de otra persona a quien necesites perdonar, y entregarlo a Dios. Si la herida es muy profunda, no la cargues solo: un pastor, un consejero o un profesional pueden acompañarte en ese proceso, y también a través de ellos Dios te cuida."
+      "Desde el Día 33 oras por la persona difícil de tu lista. Hoy vas a escribir su nombre, o el de otra persona a quien necesites perdonar, y entregarlo a Dios. Si la herida es muy profunda, no la cargues sin ayuda: un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, y también un consejero o un profesional, pueden acompañarte en ese proceso; a través de ellos Dios también te cuida."
     ],
     "tarea": "Escribe en tu cuaderno el nombre de alguien a quien necesitas perdonar y haz esta oración: “Señor, decido perdonar a… por… Ayúdame a sostener esta decisión”. Marca esa página: volverás a ella en el Día 80.",
     "practica": [
       "Cada vez que vuelva el recuerdo de la ofensa, di en voz baja: “Señor, hoy vuelvo a perdonar”.",
       "No cuentes hoy a nadie la historia de esa ofensa ni la comentes en ningún chat.",
-      "Si tienes que tratar con esa persona, mantén un trato respetuoso y cuida los límites que necesitas para estar seguro."
+      "Si tienes que tratar con esa persona, mantén un trato respetuoso y cuida los límites que necesitas para tu seguridad."
     ],
     "meditar": "¿Qué herida sigues contando una y otra vez, y qué pasaría si hoy dejaras de llevar la cuenta?"
   },
@@ -910,7 +910,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Un hombre debía una fortuna imposible de pagar, y su señor se la perdonó entera. Al salir, ese mismo hombre encontró a un compañero que le debía poco, lo agarró del cuello y lo hizo meter en la cárcel. La pregunta del rey al final de la parábola nos toca a todos: “¿No debías tú también tener misericordia de tu consiervo, como yo tuve misericordia de ti?”.",
       "Rara vez cobramos las ofensas con la cárcel. Las cobramos con cosas más pequeñas: un silencio de dos días, una indirecta en la cena, la cara larga cuando el otro llega, el “ya sabía que se te iba a olvidar”. Son pequeñas deudas que guardamos contra los de casa y que, sin darnos cuenta, vamos cobrando con intereses.",
-      "En el Día 48 recibiste el perdón de Dios. Hoy se trata de dejar que ese perdón baje hasta lo cotidiano. Piensa en un pequeño rencor que guardas contra alguien con quien convives: la toalla mojada, el comentario de la suegra, el favor que no te devolvieron. Suéltalo, no porque no importe, sino porque a ti se te perdonó mucho más. Si lo que hay es una ofensa grave o repetida, hablarla con calma o buscar ayuda también es parte del amor."
+      "En el Día 48 recibiste el perdón de Dios. Hoy se trata de dejar que ese perdón baje hasta lo cotidiano. Piensa en un pequeño rencor que guardas contra alguien con quien convives: la toalla mojada, el comentario de la suegra, el favor que no te devolvieron. Suéltalo, no porque no importe, sino porque a ti se te perdonó mucho más. Si lo que hay es una ofensa grave o repetida, hablarla con calma o buscar el acompañamiento de un pastor, un sacerdote o alguien de confianza en tu comunidad de fe también es parte del amor."
     ],
     "tarea": "Elige un rencor pequeño que guardas contra alguien de tu casa o de tu familia, entrégalo a Dios en una oración breve y trata hoy a esa persona con normalidad y cariño, como quien considera la deuda saldada.",
     "practica": [
@@ -934,7 +934,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Si hoy te equivocas con alguien, reconócelo en el momento: “Tienes razón, me equivoqué”.",
       "Elimina la palabra “pero” de cualquier disculpa que des hoy.",
-      "Después de pedir perdón, no exijas una respuesta inmediata; dale al otro su tiempo y ora por él."
+      "Después de pedir perdón, no exijas una respuesta inmediata; dale a esa persona su tiempo y ora por ella."
     ],
     "meditar": "¿A quién le debes una disculpa limpia, sin excusas, y qué te frena para darla?"
   },
@@ -944,7 +944,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Mateo 6:13"
     },
     "resumen": [
-      "Son las siete de la noche. Llegas cansado, hay platos en el fregadero y alguien pregunta por tercera vez qué hay de cenar. Todos conocemos ese momento en que sale lo peor de nosotros. Jesús nos enseñó a pedir: “No nos metas en tentación, mas líbranos del mal”. Y con su vida nos mostró que la tentación se enfrenta mejor preparado que improvisando.",
+      "Son las siete de la noche. Llegas con cansancio, hay platos en el fregadero y alguien pregunta por tercera vez qué hay de cenar. Todos conocemos ese momento en que sale lo peor de nosotros. Jesús nos enseñó a pedir: “No nos metas en tentación, mas líbranos del mal”. Y con su vida nos mostró que la tentación se enfrenta mejor con preparación que con improvisación.",
       "Pedir no caer en tentación incluye algo muy práctico: reconocer las situaciones que siempre terminan mal con los demás. El tema del dinero o de la herencia que acaba en pelea con los hermanos. El chisme que empieza en el grupo de WhatsApp. La hora del hambre y del cansancio. La conversación seria justo antes de dormir. No son excusas; son lugares de riesgo. Quien los conoce puede orar antes y cambiar el plan.",
       "En el Día 29 aprendiste a entregar el enojo antes de dormir. Hoy vas un paso antes: prevenir. Un minuto de oración al entrar a casa, dejar una discusión para la mañana, silenciar un chat que siempre enciende los ánimos. Eso también es decir “líbranos del mal”."
     ],
@@ -980,13 +980,13 @@ export const DAYS: LessonContent[] = [
       "referencia": "Lucas 10:41-42"
     },
     "resumen": [
-      "Marta no estaba haciendo nada malo. Había recibido a Jesús en su casa y quería atenderle bien: la comida, el agua, que todo estuviera en orden. Mientras tanto, su hermana María se sentó a los pies del Señor a escucharle. Cuando Marta se quejó, Jesús le respondió con cariño, repitiendo su nombre: “Marta, Marta, afanada y turbada estás con muchas cosas”.",
-      "Muchos vivimos como Marta: sirviendo a todos, corriendo todo el día y, a la vez, molestos porque nadie ayuda. Cocinamos para la familia pero no nos sentamos a la mesa con ellos; hacemos los mandados de mamá pero no la escuchamos. Jesús no desprecia el servicio. Pero nos recuerda que lo primero es estar con Él y estar presentes de verdad con quienes amamos. Una casa impecable llena de gente cansada y sola no se parece al Reino.",
+      "Marta no estaba haciendo nada malo. Había recibido a Jesús en su casa y quería atenderlo bien: la comida, el agua, que todo estuviera en orden. Mientras tanto, su hermana María se sentó a los pies del Señor a escucharlo. Cuando Marta se quejó, Jesús le respondió con cariño, repitiendo su nombre: “Marta, Marta, afanada y turbada estás con muchas cosas”.",
+      "Muchos vivimos como Marta: sirviendo a todos, corriendo todo el día y, a la vez, con enojo porque nadie ayuda. Cocinamos para la familia pero no nos sentamos a la mesa con ellos; hacemos los mandados de mamá pero no la escuchamos. Jesús no desprecia el servicio. Pero nos recuerda que lo primero es estar con Él y estar presentes de verdad con quienes amamos. Una casa impecable llena de gente cansada y sola no se parece al Reino.",
       "En el Día 7 aprendiste que el camino se sostiene con pausas. Hoy la invitación es elegir la buena parte: dejar algo menos urgente para sentarte, escuchar y descansar. Lo que se hace con prisa se olvida; lo que se vive con presencia no te será quitado."
     ],
     "tarea": "Elige una cosa que puedes dejar de hacer esta semana (una limpieza extra, un compromiso no esencial, un rato de pantalla) y usa ese tiempo para una conversación tranquila o un descanso con tu familia. Escribe la decisión en tu cuaderno.",
     "practica": [
-      "Cuando alguien de casa te hable, deja lo que estás haciendo y míralo de frente, sentado si es posible.",
+      "Cuando alguien de casa te hable, deja lo que estás haciendo y míralo de frente; siéntate si es posible.",
       "Si te descubres quejándote de que “todo lo haces tú”, detente y pide ayuda con amabilidad en lugar de reclamar.",
       "Regálate cinco minutos de silencio con Jesús antes de la tarea más agotadora del día."
     ],
@@ -1018,7 +1018,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "El camino de Jerusalén a Jericó bajaba entre piedras y era conocido por los asaltos. Allí quedó un hombre golpeado, medio muerto. Pasaron un sacerdote y un levita, quizá con prisa o con miedo, y siguieron de largo por el otro lado. Luego llegó un samaritano, alguien de un pueblo con el que los judíos no se trataban. Y el texto dice lo esencial: “viéndole, fue movido a misericordia”.",
       "La compasión empieza por los ojos. Antes de ayudar, el samaritano vio. Nosotros también pasamos cada día junto a gente herida en el camino: la compañera que llegó con los ojos hinchados, el vecino que perdió el trabajo, la tía que desde que enviudó no sale de casa, el muchacho de la familia que ya no habla en la mesa. No siempre sangran por fuera. Por eso hay que mirar con atención.",
-      "En el Día 5 empezaste a ver personas en lugar de obstáculos. Ahora la mirada se vuelve compasión: dejar que lo que ves te mueva por dentro. No se trata de resolverle la vida a nadie, sino de acercarte como Jesús se acerca a ti cuando estás herido. Hoy vas a mirar y pensar; mañana vas a hacer."
+      "En el Día 5 empezaste a ver personas en lugar de obstáculos. Ahora la mirada se vuelve compasión: dejar que lo que ves te mueva por dentro. No se trata de resolverle la vida a nadie, sino de acercarte como Jesús se acerca a ti cuando algo te duele. Hoy vas a mirar y pensar; mañana vas a hacer."
     ],
     "tarea": "Piensa en alguien cercano que está “herido en el camino” (enfermo, sin trabajo, de luto, agotado) y escribe en tu cuaderno una ayuda concreta y posible que le ofrecerás mañana.",
     "practica": [
@@ -1056,9 +1056,9 @@ export const DAYS: LessonContent[] = [
       "Así nos recibe Dios cuando volvemos. Y así Jesús nos enseña a recibir a quien regresa. Casi todas las familias tienen a alguien que se fue alejando: el hermano que dejó de venir a las reuniones, la hija que se mudó enojada, el amigo que desapareció después de una discusión. Solemos esperar que ellos den el primer paso y, cuando lo dan, los recibimos con un “¿y ahora sí te acuerdas de nosotros?”.",
       "En el Día 10 viste cómo Jesús aceptó a Zaqueo antes de que cambiara. Hoy puedes correr un poco hacia alguien, aunque sea con un mensaje: “Te extraño, aquí estoy”. Si esa persona te hizo un daño grave, correr no significa exponerte; puedes bendecirla en oración y mantener límites seguros. Abrir el corazón no obliga a abrir todas las puertas."
     ],
-    "tarea": "Escribe o llama a alguien que se alejó de ti o de la familia, con un mensaje sin reproches ni preguntas incómodas: “Pensé en ti. Te extraño. Aquí estoy”. Si no es seguro contactarle, escribe ese mensaje en tu cuaderno y ora por esa persona.",
+    "tarea": "Escribe o llama a alguien que se alejó de ti o de la familia, con un mensaje sin reproches ni preguntas incómodas: “Pensé en ti. Te extraño. Aquí estoy”. Si no es seguro buscar ese contacto, escribe ese mensaje en tu cuaderno y ora por esa persona.",
     "practica": [
-      "Cuando alguien llegue hoy a casa, levántate o sal a recibirle con un saludo cálido.",
+      "Cuando alguien llegue hoy a casa, levántate o sal a recibir a esa persona con un saludo cálido.",
       "Si alguien vuelve a buscarte tras un distanciamiento, no menciones el tiempo que estuvo lejos; alégrate de que esté.",
       "Evita hoy toda frase que empiece con “¿Y ahora sí…?” o “Hasta que por fin…”."
     ],
@@ -1071,7 +1071,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Mientras dentro de la casa había música y baile, afuera alguien se cruzaba de brazos. El hijo mayor había trabajado fielmente durante años y, cuando vio la fiesta por el hermano que volvió, “se enojó, y no quería entrar”. Lo hermoso es lo que sigue: el padre también salió por él. Corrió hacia el menor y salió a rogarle al mayor. Tiene amor para los dos.",
-      "El hermano mayor nos retrata a los que nos portamos bien. Podemos estar muy cerca de Dios y, aun así, quedarnos fuera del gozo por resentimiento o por comparación: cuando ascienden al compañero y no a ti, cuando la familia celebra al hermano que dio tantos problemas, cuando la persona difícil de tu lista recibe una bendición que crees que no merece. El bien ajeno nos duele porque llevamos la cuenta de lo nuestro.",
+      "El hermano mayor nos retrata a quienes nos portamos bien. Podemos estar muy cerca de Dios y, aun así, quedarnos fuera del gozo por resentimiento o por comparación: cuando ascienden al compañero y no a ti, cuando la familia celebra al hermano que dio tantos problemas, cuando la persona difícil de tu lista recibe una bendición que crees que no merece. El bien ajeno nos duele porque llevamos la cuenta de lo nuestro.",
       "Desde el Día 33 oras por esa persona difícil, y en el Día 50 escribiste un nombre para perdonar. Hoy el paso es otro: alegrarte cuando a alguien le va bien. No tienes que fingir cercanía ni exponerte a quien te hace daño; basta con bendecir de corazón. El Padre te dice lo mismo que al hijo mayor: “Hijo, tú siempre estás conmigo, y todas mis cosas son tuyas”."
     ],
     "tarea": "Felicita o bendice a alguien por algo bueno que le pasó, sobre todo si te costó alegrarte (un logro, un viaje, una buena noticia). Si es la persona difícil de tu lista y no es prudente escribirle, bendícela por su nombre en oración.",
@@ -1089,7 +1089,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Cien ovejas son muchas. Cualquiera diría que perder una no es tan grave: todavía quedan noventa y nueve. Pero el pastor de la parábola no piensa en porcentajes. Deja el rebaño y sale a buscar la que falta, “hasta encontrarla”. Y cuando la halla, no la regaña: la pone sobre sus hombros, gozoso, y llama a sus amigos para celebrar.",
-      "Jesús contó esta historia para mostrar cómo nos busca Dios. Y, siguiéndole, aprendemos a notar quién falta. El primo que ya no aparece en las fotos de la familia. La amiga que dejó de escribir en el grupo después de su divorcio. El compañero que se jubiló y nadie volvió a llamar. La señora que se sentaba siempre en la misma banca y hace meses no viene. Casi nunca se fueron de golpe; se fueron quedando atrás, y nadie salió a buscarlos.",
+      "Jesús contó esta historia para mostrar cómo nos busca Dios. Y, siguiéndolo, aprendemos a notar quién falta. El primo que ya no aparece en las fotos de la familia. La amiga que dejó de escribir en el grupo después de su divorcio. El compañero que se jubiló y nadie volvió a llamar. La señora que se sentaba siempre en la misma banca y hace meses no viene. Casi nunca se fueron de golpe; se fueron quedando atrás, y nadie salió a buscarlos.",
       "En el Día 6 llamaste a la persona que está sola de tu lista de cinco rostros. Mírala otra vez hoy: ¿sigue sola? ¿Hay alguien más que se perdió de tu vista con los años? No hace falta un gran reencuentro. Basta un mensaje que diga: “Me acordé de ti. ¿Cómo estás?”. Para quien se siente olvidado, que alguien lo busque es como volver a casa."
     ],
     "tarea": "Retoma el contacto con alguien con quien perdiste relación hace tiempo (un familiar, un antiguo amigo, un excompañero) y con quien sea sano y seguro volver a hablar, solo para saber cómo está, sin reproches ni explicaciones largas.",
@@ -1098,7 +1098,7 @@ export const DAYS: LessonContent[] = [
       "Si alguien lleva días sin aparecer o sin responder, escríbele tú primero una línea de cariño.",
       "Cuando alguien reaparezca, recíbelo con alegría y sin preguntarle “¿dónde te habías metido?”."
     ],
-    "meditar": "¿Quién se fue quedando atrás en tu vida sin que tú salieras a buscarle?"
+    "meditar": "¿Quién se fue quedando atrás en tu vida sin que tú salieras a su encuentro?"
   },
   {
     "versiculo": {
@@ -1215,7 +1215,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Nadie la había invitado a aquella cena. Pero cuando supo que Jesús estaba allí, entró con un frasco de perfume, se puso a sus pies llorando, los secó con sus cabellos y los ungió. Los demás solo veían su pasado. Jesús vio su corazón y explicó que ella amaba mucho porque se le había perdonado mucho.",
-      "El amor de aquella mujer no era un esfuerzo para ganarse algo; era gratitud desbordada. Se sabía muy perdonada, y por eso amaba sin medida. Lo mismo pasa con nosotros: cuanto más conscientes somos de lo que Jesús nos ha perdonado y de las veces que nos levantó, más fácil nos resulta amar con generosidad. Quien se cree bueno ama poco y juzga mucho; quien se sabe rescatado abraza.",
+      "El amor de aquella mujer no era un esfuerzo para ganarse algo; era gratitud desbordada. Se sabía muy perdonada, y por eso amaba sin medida. Lo mismo pasa con nosotros: cuanto más conscientes somos de lo que Jesús nos ha perdonado y de las veces que nos levantó, más fácil nos resulta amar con generosidad. Quien presume de su bondad ama poco y juzga mucho; quien reconoce su propio rescate abraza.",
       "En el Día 48 escribiste algo por lo que necesitabas el perdón de Dios y rompiste o tachaste la hoja. Hoy vas a recordar más: momentos en que Dios te perdonó, te sostuvo o te levantó. Y vas a dejar que esa gratitud se convierta en un gesto visible de amor hacia alguien de tu casa. El perfume de aquella mujer llenó toda la sala; tu amor también puede notarse."
     ],
     "tarea": "Escribe en tu cuaderno cinco momentos en que Dios te perdonó o te levantó. Después, responde con un gesto de amor visible hacia alguien de tu casa o de tu familia: un abrazo, una nota, su comida favorita, una palabra de cariño.",
@@ -1233,7 +1233,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Lo más bonito de esta escena es la sorpresa. Jesús describe el día en que el Rey reúne a todas las naciones, y los que son recibidos preguntan asombrados cuándo lo vieron con hambre, enfermo o forastero. Nunca supieron que lo estaban atendiendo a Él. Solo habían dado de comer, visitado y abrigado a gente común. Y el Rey responde: “en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis”.",
-      "Jesús se identifica con el más pequeño, y eso cambia la manera de mirar el día. La señora que necesita ayuda con la bolsa en la escalera, el abuelo que repite la misma historia, el vecino enfermo al que alguien tiene que comprarle las medicinas, el compañero que no tiene con quién almorzar. En cada uno, de un modo misterioso, está el Señor. Servirles no es un favor que les hacemos; es un encuentro con Él.",
+      "Jesús se identifica con el más pequeño, y eso cambia la manera de mirar el día. La señora que necesita ayuda con la bolsa en la escalera, el abuelo que repite la misma historia, el vecino enfermo al que alguien tiene que comprarle las medicinas, el compañero que no tiene con quién almorzar. En cada uno, de un modo misterioso, está el Señor. Servirlos no es un favor que les hacemos; es un encuentro con Él.",
       "En los Días 57 y 58, con el samaritano, aprendiste a ver y a detenerte. Hoy añades una mirada nueva: detrás del rostro que necesita algo, está Jesús. No hace falta buscar lejos. Mira alrededor de tu casa, de tu edificio, de tu calle."
     ],
     "tarea": "Haz un servicio concreto para alguien necesitado de tu entorno (un anciano, un enfermo, un vecino que está solo) y, mientras lo haces, di en tu interior: “Esto es para Ti, Jesús”.",
@@ -1252,7 +1252,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Una mujer está en su cocina preparando pan. Mezcla un poco de levadura en una gran cantidad de harina, la cubre y espera. Nadie ve la levadura; queda escondida. Pero después de unas horas, toda la masa ha crecido. Jesús dijo que el reino de los cielos es así: algo pequeño y escondido que, con paciencia, lo transforma todo.",
       "Con este día de descanso se cierra la quinta etapa. En estas dos semanas las parábolas entraron en tu casa: el samaritano que se detiene (Días 57 y 58), el padre que corre y el hermano mayor (Días 59 y 60), la oveja que se busca (Día 61), el publicano humilde (Día 62), los dones al servicio (Día 64), soltar las cosas (Día 65), dar lo que cuesta (Día 66), abrir la mesa (Día 67), amar mucho (Día 68) y servir a Jesús en el más pequeño (Día 69).",
-      "Desde el Día 36 has hecho, semana tras semana, un acto secreto que nadie debía descubrir. Quizá pensaste que eran cosas demasiado pequeñas para cambiar algo. Pero así trabaja la levadura. Tal vez notes que en casa hay menos tensión, o que te sientes más libre de la necesidad de ser visto. Hoy mira atrás y dale gracias a Dios por lo que ha crecido en lo escondido."
+      "Desde el Día 36 has hecho, semana tras semana, un acto secreto que nadie debía descubrir. Quizá pensaste que eran cosas demasiado pequeñas para cambiar algo. Pero así trabaja la levadura. Tal vez notes que en casa hay menos tensión, o que te sientes más libre de la necesidad de que te vean. Hoy mira atrás y dale gracias a Dios por lo que ha crecido en lo escondido."
     ],
     "tarea": "Recuerda en tu cuaderno los actos secretos que hiciste desde el Día 36 y escribe qué efecto notaste en ti y en tu casa. Termina agradeciendo a Dios con una oración breve.",
     "practica": [
@@ -1270,7 +1270,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Lavar los pies polvorientos de los invitados era trabajo de sirvientes, de esos que nadie quiere hacer. Aquella noche, en la última cena, fue Jesús quien se levantó de la mesa, se quitó el manto, se ató una toalla a la cintura y se inclinó ante cada uno de sus discípulos. Después les dijo: “si yo, el Señor y el Maestro, he lavado vuestros pies, vosotros también debéis lavaros los pies los unos a los otros”.",
       "En cada casa hay un “lavado de pies” que nadie quiere hacer: destapar el baño, sacar la basura que ya huele, limpiar al niño que vomitó, cambiar al abuelo, recoger lo que otro dejó tirado. Son tareas sin aplauso. Justamente por eso son el lugar donde más nos parecemos a Jesús. Él, que es Señor, no se sintió rebajado sirviendo; nosotros tampoco lo seremos.",
-      "Hoy comienza la última etapa del camino: amar hasta el final. En los Días 26 y 36 aprendiste a servir sin ser visto. Ahora añades la humildad de lo desagradable. Hazlo sin suspiros y sin comentar después “¿y quién crees que limpió esto?”."
+      "Hoy comienza la última etapa del camino: amar hasta el final. En los Días 26 y 36 aprendiste a servir sin que te vieran. Ahora añades la humildad de lo desagradable. Hazlo sin suspiros y sin comentar después “¿y quién crees que limpió esto?”."
     ],
     "tarea": "Elige un servicio humilde para alguien de tu casa o de tu familia (limpiar su calzado, preparar su bebida, ordenar su espacio, hacer la tarea que le tocaba) y hazlo hoy sin anunciarlo.",
     "practica": [
@@ -1296,7 +1296,7 @@ export const DAYS: LessonContent[] = [
       "Sirve tú primero en la mesa o en la reunión, antes de esperar que te sirvan.",
       "Reconoce en voz alta el esfuerzo de alguien que está bajo tu responsabilidad."
     ],
-    "meditar": "¿Usas tu lugar en casa o en el trabajo para ser servido o para servir?"
+    "meditar": "¿Usas tu lugar en casa o en el trabajo para que te sirvan o para servir?"
   },
   {
     "versiculo": {
@@ -1305,7 +1305,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "¿Te has fijado cómo se reparten los asientos en una fiesta? Jesús sí. En una comida vio cómo los invitados escogían los primeros lugares y contó una pequeña historia: si te sientas en el mejor puesto y llega alguien más importante, te pedirán que te muevas y pasarás vergüenza. Mejor siéntate al final, y quizá el anfitrión te diga: “Amigo, sube más arriba”.",
-      "La humildad práctica no consiste en hablar mal de uno mismo. Es dejar que otros brillen. Es no contar tu historia cada vez que alguien cuenta la suya. Es no necesitar que en la reunión sepan que la idea fue tuya. Es ceder el asiento cómodo, el centro de la foto, la última palabra. Cuesta, porque todos queremos ser vistos. Pero hay una libertad enorme en no tener que competir.",
+      "La humildad práctica no consiste en hablar mal de ti. Es dejar que otros brillen. Es no contar tu historia cada vez que alguien cuenta la suya. Es no necesitar que en la reunión sepan que la idea fue tuya. Es ceder el asiento cómodo, el centro de la foto, la última palabra. Cuesta, porque a todos nos gusta que nos vean. Pero hay una libertad enorme en no tener que competir.",
       "En el Día 62 el publicano te enseñó a no compararte. Hoy das un paso visible: reconocer delante de otros el mérito de alguien. Decir en la mesa “esto salió bien gracias a tu hermana”, o escribir en el grupo del trabajo “la idea fue de Carmen”. Es un gesto pequeño que se parece mucho a Jesús, que siendo el primero tomó el último lugar."
     ],
     "tarea": "Reconoce públicamente (en casa, en el trabajo o en un grupo de WhatsApp) el mérito de otra persona en algo concreto, nombrándola y dándole las gracias.",
@@ -1314,7 +1314,7 @@ export const DAYS: LessonContent[] = [
       "Cuando alguien cuente algo suyo, no lo compares con una historia tuya; hazle una pregunta.",
       "Si tu trabajo no es reconocido, entrégaselo a Dios en una frase en lugar de reclamarlo."
     ],
-    "meditar": "¿Dónde necesitas que te vean, y qué pasaría si dejaras que otro brillara en tu lugar?"
+    "meditar": "¿Dónde necesitas que te vean, y qué pasaría si dejaras que otra persona brillara en tu lugar?"
   },
   {
     "versiculo": {
@@ -1323,7 +1323,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Era la última noche antes de la cruz. Judas acababa de salir para entregarlo. Y en ese momento, Jesús dejó a sus amigos algo que llamó nuevo: “Que os améis unos a otros; como yo os he amado”. La ley ya pedía amar al prójimo como a uno mismo. Jesús subió la medida: ya no “como te amas a ti”, sino “como yo te he amado”.",
-      "¿Y cómo nos amó? Nos buscó primero, antes de que cambiáramos. Nos llamó por el nombre. Nos lavó los pies. Nos perdonó sin llevar la cuenta. Se quedó cuando otros se fueron. Dio su vida. Por eso el mandamiento nuevo no se aprende a pura fuerza de voluntad, sino mirándole a Él. Cada vez que recuerdas cómo te ha tratado Jesús, aprendes cómo tratar a tu esposo, a tu madre, a tu compañero de trabajo.",
+      "¿Y cómo nos amó? Nos buscó primero, antes de que cambiáramos. Nos llamó por el nombre. Nos lavó los pies. Nos perdonó sin llevar la cuenta. Se quedó cuando otros se fueron. Dio su vida. Por eso el mandamiento nuevo no se aprende a pura fuerza de voluntad, sino mirándolo a Él. Cada vez que recuerdas cómo te ha tratado Jesús, aprendes cómo tratar a tu esposo, a tu madre, a tu compañero de trabajo.",
       "En el Día 4 copiaste los dos grandes mandamientos, y en el Día 40 aprendiste la regla de oro. Hoy el camino llega a su centro: amar como Él. Mira atrás estos 74 días. ¿Dónde te ha amado Jesús? En una oración respondida, en un perdón, en alguien que te cuidó. Devuelve hoy una de esas maneras a alguien."
     ],
     "tarea": "Escribe tres maneras concretas en que Jesús te ha amado en estos 74 días y devuelve hoy una de ellas a alguien: si te buscó, busca; si te perdonó, perdona; si te escuchó, escucha.",
@@ -1332,7 +1332,7 @@ export const DAYS: LessonContent[] = [
       "Toma hoy la iniciativa de amar primero: saluda, pregunta o ayuda sin esperar a que el otro lo haga.",
       "En el Repaso de la noche, pregúntate: “¿A quién amé hoy como Jesús me ama a mí?”."
     ],
-    "meditar": "Los de tu casa, ¿se sienten amados por ti como Jesús te ama a ti?"
+    "meditar": "Los de tu casa, ¿sienten que los amas como Jesús te ama a ti?"
   },
   {
     "versiculo": {
@@ -1342,15 +1342,15 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Imagina a alguien que nunca ha leído la Biblia y que, durante una semana, observa a un grupo de cristianos. ¿Cómo sabría que siguen a Jesús? No por lo que saben ni por cómo visten, sino por cómo se tratan. Eso fue lo que Jesús dijo aquella misma noche: “En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros”.",
       "El cariño entre hermanos en la fe es un testimonio silencioso. Se ve cuando visitamos al enfermo de la comunidad, cuando hablamos bien de quienes nos sirven, cuando le damos las gracias a quien dirige los cantos o prepara el café, cuando alguien nuevo llega y no se queda solo en la última fila. Por eso vale la pena cuidar lo que decimos unos de otros, en persona y en los chats.",
-      "Hoy piensa en tu comunidad de fe, sea grande o pequeña: las personas con quienes oras, cantas o compartes la Palabra. Seguro hay alguien que se esfuerza sin que nadie se lo agradezca, o alguien que está pasando un tiempo difícil. Una palabra de ánimo puede recordarle que no está solo, y mostrar a los de afuera que el amor de Jesús es real."
+      "Hoy piensa en tu comunidad de fe, sea grande o pequeña: las personas con quienes oras, cantas o compartes la Palabra. Seguro hay alguien que se esfuerza sin que nadie se lo agradezca, o alguien que está pasando un tiempo difícil. Una palabra de ánimo puede recordarle que alguien camina a su lado, y mostrar a los de afuera que el amor de Jesús es real."
     ],
     "tarea": "Envía hoy un mensaje de ánimo y gratitud a alguien de tu comunidad de fe (quien sirve, quien enseña, quien está pasando un mal momento), diciéndole algo concreto que valoras de él o de ella.",
     "practica": [
       "Habla hoy solo bien de otros hermanos en la fe; si surge una crítica, cambia de tema con amabilidad.",
       "Ora por nombre por tres personas de tu comunidad de fe.",
-      "Si alguien nuevo o solo aparece en tu grupo o reunión, acércate a saludarle y pregúntale su nombre."
+      "Si alguien nuevo o solo aparece en tu grupo o reunión, acércate a saludar a esa persona y pregúntale su nombre."
     ],
-    "meditar": "Si alguien te observara durante una semana, ¿descubriría en tu trato con los demás que eres discípulo de Jesús?"
+    "meditar": "Si alguien te observara durante una semana, ¿descubriría en tu trato con los demás que sigues a Jesús?"
   },
   {
     "versiculo": {
@@ -1395,14 +1395,14 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "En el huerto de Getsemaní, la noche antes de la cruz, Jesús no quiso estar solo. Llevó consigo a Pedro, a Santiago y a Juan, y les abrió el corazón: “Mi alma está muy triste, hasta la muerte; quedaos aquí, y velad conmigo”. El Hijo de Dios, que tantas veces había consolado a otros, pidió compañía. Y sus amigos, vencidos por el cansancio, se durmieron.",
-      "Esta escena nos enseña dos cosas. La primera: estar presente en la noche oscura de alguien es una forma profunda de amor. No hacen falta respuestas brillantes; basta con quedarse. Sentarse junto a la cama del hospital, acompañar a la amiga que recibió un diagnóstico, escuchar al hijo que no puede dormir de angustia. La segunda: pedir compañía no es debilidad. Si Jesús lo hizo, tú también puedes decir “no quiero estar solo con esto”.",
-      "En los Días 13 y 16 aprendiste a acompañar el dolor y a no esconder el propio. Hoy vuelves a ese lugar con más camino recorrido. Y si la tristeza, tuya o de quien acompañas, es muy honda o dura mucho, busquen también a un pastor, un consejero o un profesional: Dios cuida de nosotros a través de ellos."
+      "Esta escena nos enseña dos cosas. La primera: estar presente en la noche oscura de alguien es una forma profunda de amor. No hacen falta respuestas brillantes; basta con quedarse. Sentarse junto a la cama del hospital, acompañar a la amiga que recibió un diagnóstico, escuchar al hijo que no puede dormir de angustia. La segunda: pedir compañía no es debilidad. Si Jesús lo hizo, tú también puedes decir “no quiero pasar por esto sin compañía”.",
+      "En los Días 13 y 16 aprendiste a acompañar el dolor y a no esconder el propio. Hoy vuelves a ese lugar con más camino recorrido. Y si la tristeza, tuya o de quien acompañas, es muy honda o dura mucho, busquen también a un pastor, un sacerdote o alguien de confianza en su comunidad de fe, o a un consejero o un profesional: Dios cuida de nosotros a través de ellos."
     ],
     "tarea": "Visita o llama a alguien que atraviesa una “noche difícil” (enfermedad, duelo, soledad, angustia) y quédate a escuchar sin prisa. Si eres tú quien la atraviesa, escribe hoy a una persona de confianza y pídele compañía.",
     "practica": [
       "Cuando alguien te cuente algo doloroso, no mires el reloj ni el teléfono; quédate hasta que termine.",
       "Evita las frases que apuran el dolor (“ya pasará”, “no llores”); di mejor: “Aquí estoy contigo”.",
-      "Si tú estás cansado o triste, acepta la ayuda o la compañía que te ofrezcan en lugar de decir “estoy bien”."
+      "Si eres tú quien carga cansancio o tristeza, acepta la ayuda o la compañía que te ofrezcan en lugar de decir “estoy bien”."
     ],
     "meditar": "¿Quién está pasando una noche oscura cerca de ti, y a quién le permites tú acompañarte en la tuya?"
   },
@@ -1414,13 +1414,13 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Llegaron de noche, con espadas y palos, a arrestar a Jesús. Uno de los discípulos sacó su espada e hirió a un siervo del sumo sacerdote, cortándole la oreja. Era la reacción natural: defenderse, devolver el golpe. Pero Jesús dijo: “Basta ya; dejad”. Y tocando la oreja de aquel hombre, que venía contra Él, lo sanó. En el momento en que lo atacaban, Él sanaba.",
       "Todos tenemos nuestras espadas: la respuesta hiriente que sale rápido, el mensaje en mayúsculas, el sarcasmo, el recuerdo de una falla del otro que usamos como arma en la discusión. Cuando alguien nos hiere, lo natural es cortar una oreja. Jesús nos muestra otra posibilidad: responder con algo que calme, que no añada más heridas. No es debilidad; es la fuerza mansa del Día 17, la bondad que, como el sol del Día 34, no depende de cómo se porte el otro.",
-      "Esto no significa quedarse bajo el maltrato. Amar nunca es aceptar abusos; retirarte, poner límites y pedir ayuda también puede ser sabio y necesario. Pero en los roces de cada día puedes elegir no devolver el golpe. Hoy piensa en la persona que más te irrita y prepara desde ya una respuesta que sane."
+      "Esto no significa quedarse bajo el maltrato. Amar nunca es aceptar abusos; retirarte, poner límites y pedir ayuda a un pastor, un sacerdote o alguien de confianza en tu comunidad de fe también puede ser sabio y necesario. Pero en los roces de cada día puedes elegir no devolver el golpe. Hoy piensa en la persona que más te irrita y prepara desde ya una respuesta que sane."
     ],
     "tarea": "Piensa en la persona que más te irrita y escribe en tu cuaderno una respuesta amable y firme para la próxima vez que te diga algo hiriente. Ora por ella por su nombre.",
     "practica": [
       "Ante una palabra hiriente, espera antes de responder y elige una frase que calme, no una que corte.",
       "No uses hoy sarcasmo ni saques errores pasados del otro durante una discusión.",
-      "Si una conversación se vuelve irrespetuosa, retírate con calma diciendo: “Hablamos cuando estemos tranquilos”."
+      "Si una conversación se vuelve irrespetuosa, retírate con calma diciendo: “Hablamos cuando haya más calma”."
     ],
     "meditar": "¿Qué espada sacas con más rapidez cuando te hieren, y cómo sería sanar en lugar de cortar?"
   },
@@ -1438,7 +1438,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Cuando alguien te hiera hoy, di en silencio “Padre, perdónalo” antes de responder.",
       "Cada vez que la ofensa vuelva a tu mente, no la repases ni la cuentes: entrégala con esa misma frase.",
-      "Si la herida es profunda, habla hoy con alguien de confianza, un pastor o un consejero, en lugar de cargarla solo."
+      "Si la herida es profunda, habla hoy con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe (o con un consejero) en lugar de cargarla sin ayuda."
     ],
     "meditar": "¿A quién te cuesta todavía decirle a Dios “perdónalo”, y qué necesitas de Jesús para poder hacerlo?"
   },
@@ -1450,7 +1450,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Desde la cruz, en medio de un dolor que no podemos imaginar, Jesús miró hacia abajo. Allí estaba su madre, y junto a ella el discípulo amado. Y se ocupó de ella: “Mujer, he ahí tu hijo”. Luego, al discípulo: “He ahí tu madre”. El texto añade algo precioso: “desde aquella hora el discípulo la recibió en su casa”.",
       "Seguir a Jesús incluye cuidar a nuestra familia, especialmente a los mayores y a los que dependen de nosotros. Es fácil amar a la humanidad y olvidarse de llamar a mamá. Es fácil servir en muchos lugares y no tener paciencia con el padre que ya camina lento o que pregunta lo mismo tres veces. Para muchos, cuidar a los padres es cansado y está lleno de tensiones; Jesús lo mira y lo honra, aunque nadie lo aplauda.",
-      "En el Día 8 aprendiste que los pequeños y los mayores importan. Hoy lo vives con alguien concreto. Si tus padres ya partieron, o si la relación con ellos está muy herida y no es seguro acercarte, piensa en otra persona mayor a quien puedas “recibir en tu casa”: una abuela, una tía, un vecino anciano. Y si cuidar te está agotando, pedir ayuda a otros familiares, a tu comunidad de fe o a un profesional también es amor."
+      "En el Día 8 aprendiste que los pequeños y los mayores importan. Hoy lo vives con alguien concreto. Si tus padres ya partieron, o si la relación con ellos está muy herida y no es seguro acercarte, piensa en otra persona mayor a quien puedas “recibir en tu casa”: una abuela, una tía, un vecino anciano. Y si cuidar te está agotando, pedir ayuda a otros familiares, a un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o a un profesional, también es amor."
     ],
     "tarea": "Llama o visita a tu madre, tu padre, un abuelo u otra persona mayor que te importe, y pregúntale: “¿Cómo te puedo ayudar esta semana?”. Anota la respuesta y cúmplela.",
     "practica": [
@@ -1467,10 +1467,10 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Era muy temprano, y María Magdalena lloraba junto al sepulcro vacío. Pensaba que se habían llevado el cuerpo de su Señor. Alguien se le acercó y ella, creyendo que era el hortelano, le rogó que le dijera dónde lo había puesto. Entonces Él pronunció una sola palabra: “¡María!”. Y ella lo reconoció al instante: “¡Raboni!”. El Resucitado no se presentó con un discurso, sino con su nombre.",
-      "Jesús te conoce así: por tu nombre, con tu historia, tus lágrimas y tus preguntas. No eres un número en la multitud. Y ese amor personal nos enseña a nombrar con amor a los demás. Nuestro nombre dicho con cariño nos hace sentir vistos; dicho con enojo o con desprecio, nos hiere. Piensa en cómo suena tu nombre en boca de los de tu casa, y cómo suena el suyo en la tuya.",
-      "En el Día 5 aprendiste el nombre de alguien a quien nunca se lo habías preguntado. ¿Lo recuerdas todavía? Quizá ahora le saludas por su nombre cada vez que lo ves. Hoy vas más cerca, a tu propia casa. Di el nombre de cada uno con la misma ternura con que Jesús dijo “María”."
+      "Jesús te conoce así: por tu nombre, con tu historia, tus lágrimas y tus preguntas. No eres un número en la multitud. Y ese amor personal nos enseña a nombrar con amor a los demás. Nuestro nombre dicho con cariño nos hace sentir que alguien nos ve; dicho con enojo o con desprecio, nos hiere. Piensa en cómo suena tu nombre en boca de los de tu casa, y cómo suena el suyo en la tuya.",
+      "En el Día 5 aprendiste el nombre de alguien a quien nunca se lo habías preguntado. ¿Lo recuerdas todavía? Quizá ahora saludas a esa persona por su nombre cada vez que la ves. Hoy vas más cerca, a tu propia casa. Di el nombre de cada uno con la misma ternura con que Jesús dijo “María”."
     ],
-    "tarea": "Escribe tu nombre en tu cuaderno y al lado lo que crees que Jesús te diría hoy. Luego dile a cada persona de tu casa (o por mensaje, si vives solo) una frase de afecto que empiece con su nombre.",
+    "tarea": "Escribe tu nombre en tu cuaderno y al lado lo que crees que Jesús te diría hoy. Luego dile a cada persona de tu casa (o por mensaje, si no compartes casa con nadie) una frase de afecto que empiece con su nombre.",
     "practica": [
       "Llama hoy a cada persona por su nombre con calidez, también a quienes te atienden.",
       "No uses el nombre de nadie en tono de reproche ni lo grites desde otra habitación.",
@@ -1492,9 +1492,9 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Pregunta hoy “¿qué te pasa?” o “¿cómo te sientes con eso?” antes de dar tu opinión.",
       "Cuando alguien te cuente un desánimo, repite con tus palabras lo que entendiste antes de responder.",
-      "Camina al paso del otro: si alguien va más lento (un niño, un mayor), ajusta tu ritmo sin apurarle."
+      "Camina al paso del otro: si alguien va más lento (un niño, un mayor), ajusta tu ritmo sin apurar a nadie."
     ],
-    "meditar": "¿Quién camina desanimado a tu lado esperando que alguien le pregunte y le escuche?"
+    "meditar": "¿Quién camina desanimado a tu lado esperando que alguien le pregunte cómo está y escuche su respuesta?"
   },
   {
     "versiculo": {
@@ -1521,7 +1521,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Había un fuego de brasas en la playa, como aquel junto al cual Pedro había negado a Jesús tres veces. Ahora, junto a otro fuego, el Resucitado le preguntó tres veces: “¿Me amas?”. A la tercera, Pedro se entristeció y respondió con humildad: “Señor, tú lo sabes todo; tú sabes que te amo”. Jesús no le recordó su caída. Le dio una misión: “Apacienta mis ovejas”.",
-      "En el Día 54 leíste que Jesús había orado por Pedro antes de que cayera, para que, una vez vuelto, confirmara a sus hermanos. Aquí vemos esa oración cumplida. Tus fallas en este camino tampoco te descalifican. Quizá hubo días que saltaste, discusiones en que volviste a gritar, una persona difícil a la que no pudiste bendecir. Jesús no te pide un expediente limpio; te pregunta si le amas. Y a quien responde “tú lo sabes”, le confía personas para cuidar.",
+      "En el Día 54 leíste que Jesús había orado por Pedro antes de que cayera, para que, una vez vuelto, confirmara a sus hermanos. Aquí vemos esa oración cumplida. Tus fallas en este camino tampoco te descalifican. Quizá hubo días que saltaste, discusiones en que volviste a gritar, una persona difícil a la que no pudiste bendecir. Jesús no te pide un expediente limpio; te pregunta si lo amas. Y a quien responde “tú lo sabes”, le confía personas para cuidar.",
       "Amar a Jesús se demuestra cuidando a otros. Hoy vas a mirar tus fallas con honestidad y sin culpa, a recibir su perdón y a escribir a quién vas a “apacentar” en las próximas semanas: un hijo, un amigo, un vecino, alguien de tu lista de rostros."
     ],
     "tarea": "Escribe con honestidad en tu cuaderno dónde fallaste durante el plan. Ora recibiendo el perdón de Jesús y respóndele: “Señor, tú sabes que te amo”. Luego escribe el nombre de una o dos personas a quienes cuidarás de forma especial en las próximas semanas.",
@@ -1539,12 +1539,12 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Los discípulos estaban encerrados, con las puertas cerradas por miedo. Y Jesús resucitado se puso en medio de ellos. Lo primero que les dio fue paz: “Paz a vosotros”. Lo segundo, una misión: “Como me envió el Padre, así también yo os envío”. No los mandó lejos de inmediato; los envió a vivir como Él vivió, empezando allí donde estaban.",
-      "Tú también eres enviado. No hace falta cruzar el océano: tu casa, tu trabajo, tu barrio y tu grupo de WhatsApp son el lugar al que Jesús te envía. La cajera del supermercado, el compañero de oficina, el vecino ruidoso, tu suegra. Cada uno es alguien a quien puedes tratar como Él trata a la gente: con compasión, con verdad y con paciencia.",
+      "A ti también te envía. No hace falta cruzar el océano: tu casa, tu trabajo, tu barrio y tu grupo de WhatsApp son el lugar al que Jesús te envía. La cajera del supermercado, el compañero de oficina, el vecino ruidoso, tu suegra. Cada uno es alguien a quien puedes tratar como Él trata a la gente: con compasión, con verdad y con paciencia.",
       "Vuelve hoy a la lista del Día 1. Esos cinco rostros —alguien de tu familia, alguien del trabajo o del barrio, alguien que está solo, alguien con quien había tensión y alguien a quien le debías gratitud o perdón— han estado contigo todo el camino: los llamaste, los incluiste en el Padre Nuestro y oras por ellos cada mañana desde el Día 54. Ya no son una tarea del plan. Son tu misión. Hoy escribirás lo que Jesús quiere hacer, a través de ti, en la vida de cada uno."
     ],
-    "tarea": "Mira tu lista de los cinco rostros y escribe junto a cada nombre una “misión” concreta para los próximos meses (por ejemplo: “visitarla una vez al mes”, “llamarle los domingos”, “seguir orando y cuidar la paz”).",
+    "tarea": "Mira tu lista de los cinco rostros y escribe junto a cada nombre una “misión” concreta para los próximos meses (por ejemplo: “visitarla una vez al mes”, “llamarlo los domingos”, “seguir orando y cuidar la paz”).",
     "practica": [
-      "Al salir de casa, di: “Señor, hoy soy enviado tuyo a estas personas”.",
+      "Al salir de casa, di: “Señor, hoy me envías a estas personas”.",
       "Saluda con intención de paz al primer compañero, vecino o familiar que encuentres.",
       "Haz hoy un pequeño gesto hacia uno de tus cinco rostros para empezar su misión."
     ],
@@ -1558,7 +1558,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Un río sin orillas termina convertido en charco. Las orillas no le quitan fuerza al agua; le dan dirección. Algo así es una “regla de vida”: unas pocas prácticas sencillas que dan forma a los días para que el amor de Jesús siga corriendo cuando este plan termine. Pablo lo resumió así: “todo lo que hacéis, sea de palabra o de hecho, hacedlo todo en el nombre del Señor Jesús”.",
       "En estos meses fuiste aprendiendo hábitos, uno a uno: el Repaso de la noche desde el Día 3, el acto secreto semanal desde el Día 36, el Padre Nuestro lento al despertar desde el Día 43, la Oración de los cinco rostros desde el Día 54 y un don al servicio cada semana desde el Día 64. Algunos ya son parte de ti; otros te costaron más. No tienes que conservarlos todos. Se trata de elegir los que te ayudan a vivir como Jesús con los demás.",
-      "Hoy escribirás tu regla de vida: cinco prácticas concretas y realistas, con cuándo y cómo. Que quepa en una hoja. Que sirva para el lunes cansado y para el domingo tranquilo. Hacerlo todo en su nombre, dando gracias, convierte también lo ordinario en una forma de seguirle."
+      "Hoy escribirás tu regla de vida: cinco prácticas concretas y realistas, con cuándo y cómo. Que quepa en una hoja. Que sirva para el lunes cansado y para el domingo tranquilo. Hacerlo todo en su nombre, dando gracias, convierte también lo ordinario en una forma de seguirlo."
     ],
     "tarea": "Escribe en tu cuaderno tu “regla de vida” con cinco prácticas para después del Día 90 (por ejemplo: Padre Nuestro lento al despertar, Oración de los cinco rostros, Repaso de la noche, acto secreto semanal, un don al servicio cada semana, gestos de tu bienaventuranza), indicando cuándo harás cada una. Colócala donde puedas verla.",
     "practica": [
@@ -1593,7 +1593,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "“Si es posible, en cuanto dependa de vosotros”. Pablo no era ingenuo. Sabía que hay relaciones en las que, por más que uno quiera, la paz no llega del todo. Por eso no dice “lograd que todos os quieran”, sino “haced vuestra parte”. No controlas la respuesta del otro, pero sí lo que sale de ti.",
-      "Hoy cosechas el camino con la persona difícil de tu lista. Recuérdalo: en el Día 1 escribiste su nombre, el rostro con quien había tensión. En el Día 33 empezaste a orar por ella cada día, y en el Día 50 decidiste perdonar sin llevar la cuenta. En el Día 80 oraste por ella con las palabras de Jesús en la cruz: “Padre, perdónalos”. Quizá la relación cambió. Quizá no cambió nada por fuera, pero tú ya no eres el mismo por dentro: el rencor pesa menos, oras sin tanto esfuerzo, ya no ensayas discusiones en la cabeza.",
+      "Hoy cosechas el camino con la persona difícil de tu lista. Recuérdalo: en el Día 1 escribiste su nombre, el rostro con quien había tensión. En el Día 33 empezaste a orar por ella cada día, y en el Día 50 decidiste perdonar sin llevar la cuenta. En el Día 80 oraste por ella con las palabras de Jesús en la cruz: “Padre, perdónalos”. Quizá la relación cambió. Quizá no cambió nada por fuera, pero por dentro algo cambió en ti: el rencor pesa menos, oras sin tanto esfuerzo, ya no ensayas discusiones en la cabeza.",
       "Hacer tu parte por la paz nunca significa aceptar maltrato ni forzar una reconciliación. Si esa persona te hace daño, mantener distancia y límites seguros es sabio, y Dios lo entiende. Hoy, si es seguro y sabio, puedes enviarle una palabra de bendición; si no, puedes escribirla solo para Dios. Lo demás queda en sus manos."
     ],
     "tarea": "Ora por la persona difícil de tu lista por su nombre. Si es seguro y sabio, envíale una palabra breve de bendición (“Te deseo un buen día; que Dios te bendiga”); si no, escríbela en tu cuaderno solo para Dios. Anota cómo ha cambiado tu corazón desde el Día 33.",
@@ -1611,7 +1611,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "En un monte de Galilea, el Señor resucitado reunió a sus discípulos. Eran los mismos que lo habían seguido desde la orilla del mar, que se durmieron en Getsemaní y que huyeron aquella noche. Y a ellos, con toda su historia, les dijo: “Id”. Los envió a enseñar a otros a guardar lo que Él había mandado, con una promesa: “he aquí yo estoy con vosotros todos los días, hasta el fin del mundo”.",
-      "Hoy llegas al Día 90. ¿Recuerdas el Día 1? Jesús llamó a Leví con una sola palabra, “Sígueme”, y tú escribiste la lista de los cinco rostros. En el Día 2 escribiste una carta cerrada contando cómo tratabas a los tuyos cuando estabas cansado o molesto. Hoy la abres. Léela despacio, junto a la lista. Compara hechos, no sentimientos: a quién pediste perdón sin excusas, a quién buscaste después de años, cómo reaccionas ahora en una discusión o en el grupo de WhatsApp, cómo miras a la persona difícil.",
+      "Hoy llegas al Día 90. ¿Recuerdas el Día 1? Jesús llamó a Leví con una sola palabra, “Sígueme”, y tú escribiste la lista de los cinco rostros. En el Día 2 escribiste una carta cerrada contando cómo tratabas a los tuyos cuando el cansancio o la molestia te ganaban. Hoy la abres. Léela despacio, junto a la lista. Compara hechos, no sentimientos: a quién pediste perdón sin excusas, a quién buscaste después de años, cómo reaccionas ahora en una discusión o en el grupo de WhatsApp, cómo miras a la persona difícil.",
       "Quizá veas mucho cambio, o menos del que esperabas. En los dos casos, da gracias: la semilla está sembrada y Él sigue a tu lado. Desde el Día 3 lo sabes: la dicha no está en saber, sino en hacer. Esto no es un final. Mañana, con tu regla de vida del Día 87, será otro día con Jesús. Ve. Él va contigo."
     ],
     "tarea": "Abre la carta del Día 2 y relee la lista de los cinco rostros del Día 1. Escribe una respuesta a tu “yo del Día 2” con los cambios concretos que ves, nombre por nombre. Termina dando gracias a Jesús en voz alta por cada paso del camino.",

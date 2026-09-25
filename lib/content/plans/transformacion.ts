@@ -8,7 +8,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Salmos 139:23"
     },
     "resumen": [
-      "Hoy empieza el camino. Muchos planes empiezan con grandes promesas: «esta vez sí voy a leer la Biblia todos los días», «voy a orar más». Este empieza con algo más sencillo y más fuerte: la verdad. No necesitas llegar arreglado ni con la fe en su mejor momento. Dios no te pide que aparentes; te invita a abrirle el corazón tal como está hoy, con lo bueno, lo cansado y lo que todavía no sabes nombrar.",
+      "Hoy empieza el camino. Muchos planes empiezan con grandes promesas: «esta vez sí voy a leer la Biblia todos los días», «voy a orar más». Este empieza con algo más sencillo y más fuerte: la verdad. No necesitas llegar con todo en orden ni con la fe en su mejor momento. Dios no te pide que aparentes; te invita a abrirle el corazón tal como está hoy, con lo bueno, lo cansado y lo que todavía no sabes nombrar.",
       "Piensa en cuántas veces al día respondes «bien, gracias» cuando en realidad no lo estás: en la fila del supermercado, en el grupo de WhatsApp de la familia, incluso en la oración. David hizo lo contrario. Le dijo a Dios: «Examíname… conoce mi corazón». No lo dijo con miedo, sino con confianza: prefería ser conocido por Dios antes que parecer fuerte ante los demás.",
       "Hoy vas a hacer dos cosas que te acompañarán todo el camino. Escribirás una carta a la persona que serás el Día 90 y medirás con honestidad cómo está tu alma. No es un examen ni una nota para sentirte mal: es una foto del punto de partida. Dentro de noventa días mirarás atrás y verás lo que Dios hizo."
     ],
@@ -28,12 +28,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Ayer le abriste a Dios tu corazón con honestidad. Quizá después apareció una voz conocida: «¿Y ahora qué va a pensar Dios de mí?». La respuesta de hoy es clara: tu sinceridad del Día 1 no fue recibida con un reproche, sino con un abrazo. Dios no dice «te amaré cuando cambies». Dice: «Con amor eterno te he amado». Eterno significa que ese amor empezó antes de tus aciertos y de tus errores.",
       "Mucha gente vive la fe como si fuera un trabajo con evaluación mensual: si oré, si leí, si no me enojé con mi hijo, entonces Dios está contento. Pero piensa en una madre que mira a su bebé dormido. El bebé no ha hecho nada útil en todo el día, y ella lo ama igual. Así empieza este camino: no para ganar el amor de Dios, sino porque ya lo tienes.",
-      "Esto cambia cómo te levantas. Si despiertas pensando en todo lo que debes demostrar, el día pesa desde temprano. Si despiertas recordando que eres amado, puedes enfrentar las cuentas, el tráfico o la conversación difícil desde un lugar seguro. Los cambios que vendrán en estos 90 días nacerán de ese amor, no del miedo a perderlo."
+      "Esto cambia cómo te levantas. Si despiertas pensando en todo lo que debes demostrar, el día pesa desde temprano. Si despiertas recordando que Dios te ama, puedes enfrentar las cuentas, el tráfico o la conversación difícil desde un lugar seguro. Los cambios que vendrán en estos 90 días nacerán de ese amor, no del miedo a perderlo."
     ],
     "tarea": "Escribe en un papel «Dios me ama hoy, no cuando sea mejor» y ponlo donde lo veas al despertar: el espejo del baño, la nevera o el fondo de pantalla del celular.",
     "practica": [
       "Al levantarte, antes de revisar el celular, lee en voz alta la frase que escribiste y respira hondo una vez.",
-      "Cuando cometas un error hoy (llegar tarde, olvidar algo, levantar la voz), di en tu interior «sigo siendo amado» y luego repara lo que haga falta.",
+      "Cuando cometas un error hoy (llegar tarde, olvidar algo, levantar la voz), di en tu interior «Dios me sigue amando» y luego repara lo que haga falta.",
       "Trata a alguien de tu casa como Dios te trata a ti: dile algo bueno de él o de ella sin que lo haya «ganado»."
     ],
     "meditar": "¿Qué cambiaría hoy en tu manera de vivir si creyeras de verdad que Dios ya te ama por completo?"
@@ -63,8 +63,8 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Hay personas que casi no oran porque sienten que no saben hacerlo. Creen que hacen falta palabras bonitas o un tono especial. Pero la Biblia dice algo sorprendente: el Espíritu de Dios nos enseña a llamarlo «¡Abba, Padre!». «Abba» era la palabra aramea con la que los hijos, pequeños y grandes, llamaban a su padre en casa: cercana y llena de confianza. No es el idioma de un empleado asustado, sino el de un hijo que se sabe querido.",
-      "Piensa en cómo le hablas a alguien de mucha confianza cuando llegas cansado a casa: «Hoy fue un día difícil, me preocupa la cita del médico, no sé cómo voy a llegar a fin de mes». Así también se puede orar. Dios no se cansa de tus palabras sencillas ni se molesta si repites algo. Tu voz, tal como es, le agrada.",
-      "Hoy vas a usar por primera vez el rincón que elegiste ayer, y vas a hablar en voz alta. Al principio puede sentirse raro oírte a ti mismo, y es normal. Hablar en voz alta ayuda a que la mente no se disperse y a que la oración sea real. Y si alguna vez te faltó un padre bueno, Dios quiere ser para ti lo que ese padre no pudo ser."
+      "Piensa en cómo le hablas a alguien de mucha confianza cuando llegas a casa con cansancio: «Hoy fue un día difícil, me preocupa la cita del médico, no sé cómo voy a llegar a fin de mes». Así también se puede orar. Dios no se cansa de tus palabras sencillas ni se molesta si repites algo. Tu voz, tal como es, le agrada.",
+      "Hoy vas a usar por primera vez el rincón que elegiste ayer, y vas a hablar en voz alta. Al principio puede sentirse raro oír tu propia voz, y es normal. Hablar en voz alta ayuda a que la mente no se disperse y a que la oración sea real. Y si alguna vez te faltó un padre bueno, Dios quiere ser para ti lo que ese padre no pudo ser."
     ],
     "tarea": "En tu rincón del Día 3, háblale a Dios en voz alta durante tres minutos como le hablarías a un padre bueno: cómo amaneciste, qué te preocupa y qué esperas de este día.",
     "practica": [
@@ -136,12 +136,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "El niño Samuel dormía en el templo cuando oyó que lo llamaban. Tres veces corrió hacia el sacerdote Elí pensando que era él. Hasta que Elí entendió y le enseñó a responder: «Habla, porque tu siervo oye». La primera oración de Samuel no fue un discurso: fue ponerse a escuchar.",
       "A veces nuestras oraciones son como una llamada en la que hablamos sin parar y colgamos antes de que la otra persona responda. Escuchar a Dios no suele significar oír una voz audible. Muchas veces es una frase de la Biblia que se queda contigo, una paz inesperada, una persona que te viene a la mente o una convicción suave sobre algo que debes hacer. Para notarlo, hace falta silencio.",
-      "El Día 3 comenzaste con un minuto de silencio. Hoy subes un escalón: dos minutos. Después de leer, dirás las palabras de Samuel y te quedarás callado. Es normal que la mente se vaya a la lista del mercado o a un pendiente del trabajo. Cuando pase, vuelve con tu oración de una frase, sin enojarte contigo. Lo que quede en tu corazón, anótalo."
+      "El Día 3 comenzaste con un minuto de silencio. Hoy subes un escalón: dos minutos. Después de leer, dirás las palabras de Samuel y guardarás silencio. Es normal que la mente se vaya a la lista del mercado o a un pendiente del trabajo. Cuando pase, vuelve con tu oración de una frase, sin enojarte contigo. Lo que quede en tu corazón, anótalo."
     ],
     "tarea": "Lee un pasaje corto (por ejemplo, 1 Samuel 3:1-10), di en voz baja «Habla, Señor, que tu siervo oye», quédate dos minutos en silencio y anota una palabra o idea que haya quedado en tu corazón.",
     "practica": [
       "En cada conversación de hoy, deja terminar a la otra persona y cuenta hasta tres antes de responder.",
-      "Apaga la radio, la música o los videos durante un trayecto o una tarea de la casa y usa ese rato para estar atento a Dios.",
+      "Apaga la radio, la música o los videos durante un trayecto o una tarea de la casa y usa ese rato para prestar atención a Dios.",
       "Al final del día, relee la palabra que anotaste en la mañana y pregúntate si apareció de alguna forma en tu jornada."
     ],
     "meditar": "¿Qué ruido de tu vida hace más difícil que escuches lo que Dios quiere decirte?"
@@ -208,7 +208,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "«Derramad delante de él vuestro corazón». Derramar no es servir con cuidado unas gotas; es vaciar el recipiente entero. El salmista invita a llevarle a Dios todo lo que hay dentro, sin maquillaje: la cuenta que no sabes cómo pagar, la preocupación por el hijo que no contesta, la soledad de las noches, el cansancio de cuidar a un familiar enfermo.",
       "Muchas veces oramos con una sonrisa forzada, como si Dios solo quisiera oír cosas bonitas. Pero el Día 1 aprendiste que la honestidad es el punto de partida. Hoy esa misma honestidad se vuelve hacia tus cargas. No se trata de quejarte de Dios, sino de confiar en Él lo suficiente como para mostrarle lo que te pesa. Por eso el versículo termina diciendo: «Dios es nuestro refugio».",
-      "Un refugio es el lugar al que corres cuando llueve fuerte, no cuando hace sol. Y si alguna de tus cargas es demasiado grande para llevarla solo, como una tristeza que no se va o una ansiedad que no te deja dormir, hablar con un pastor, un consejero o un profesional también es una forma en que Dios cuida de ti. Pedir ayuda no es falta de fe."
+      "Un refugio es el lugar al que corres cuando llueve fuerte, no cuando hace sol. Y si alguna de tus cargas es demasiado grande para llevarla sin ayuda, como una tristeza que no se va o una ansiedad que no te deja dormir, hablar con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o con un consejero o un profesional, también es una forma en que Dios cuida de ti. Pedir ayuda no es falta de fe."
     ],
     "tarea": "Escribe en tu cuaderno una lista con lo que hoy te pesa, sin filtrar nada. Luego ora en voz alta por cada cosa, una por una, terminando cada una con: «Esto te lo entrego».",
     "practica": [
@@ -216,7 +216,7 @@ export const DAYS: LessonContent[] = [
       "Si una persona de confianza te pregunta cómo estás, responde con verdad en lugar de decir «todo bien».",
       "Después de orar por una de tus cargas, da hoy un paso práctico sobre ella: una llamada, una cita o un mensaje."
     ],
-    "meditar": "¿Qué carga llevas tanto tiempo sosteniendo solo que ya olvidaste que puedes entregársela a Dios?"
+    "meditar": "¿Qué carga llevas tanto tiempo sosteniendo por tu cuenta que ya olvidaste que puedes entregársela a Dios?"
   },
   {
     "versiculo": {
@@ -225,7 +225,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Después de una gran liberación, Samuel tomó una piedra, la puso de pie junto al camino y le dio un nombre: Eben-ezer, que significa «piedra de ayuda». Y dijo: «Hasta aquí nos ayudó Jehová». Cada vez que alguien pasara por allí, la piedra le recordaría que Dios había sido fiel. Era una memoria que se podía tocar.",
-      "Nuestra memoria es frágil. Un problema nuevo nos hace olvidar todas las veces que Dios nos sostuvo antes, y cuando llega la mala noticia sentimos que estamos solos por primera vez. Recordar no es vivir en el pasado: es alimentar la fe para lo que viene. Si Dios te ayudó en aquel parto difícil, en aquel despido o en aquella noche en el hospital, no te va a dejar ahora.",
+      "Nuestra memoria es frágil. Un problema nuevo nos hace olvidar todas las veces que Dios nos sostuvo antes, y cuando llega la mala noticia sentimos, como si fuera la primera vez, que nadie está con nosotros. Recordar no es vivir en el pasado: es alimentar la fe para lo que viene. Si Dios te ayudó en aquel parto difícil, en aquel despido o en aquella noche en el hospital, no te va a dejar ahora.",
       "Hoy abres una nueva página en tu cuaderno: «Piedras de memoria». Allí escribirás momentos concretos en los que viste la mano de Dios. No tienen que ser milagros espectaculares; basta con que sean verdad. Esta página volverá en la fase de la tormenta, en la fase del servicio y casi al final del camino. Hoy pones las tres primeras piedras."
     ],
     "tarea": "Abre en tu cuaderno la página «Piedras de memoria» y escribe tres momentos de tu vida en los que Dios te ayudó. Para cada uno, anota una línea: qué pasó y qué hizo Dios.",
@@ -250,7 +250,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Si dejaste algún hábito, retómalo hoy en su versión mínima (un minuto en el rincón, una frase de lectura) sin intentar recuperar lo atrasado.",
       "Mañana, al despertar y antes de levantarte, di: «Tus misericordias son nuevas hoy; gracias».",
-      "Sé misericordioso con alguien que te falló esta semana: no le recuerdes el error y trátalo con la misma frescura con que Dios te trata a ti."
+      "Ten misericordia de alguien que te falló esta semana: no le recuerdes el error y trata a esa persona con la misma frescura con que Dios te trata a ti."
     ],
     "meditar": "¿Qué te cuesta más: recibir la misericordia nueva de Dios cada mañana o dársela a los demás?"
   },
@@ -261,7 +261,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Comienza una nueva etapa del camino: hablar y escuchar. Durante dos semanas aprendiste a encontrarte con Dios; ahora la oración se va a ensanchar. El primer paso es descubrir que no siempre tienes que inventar las palabras. En la Biblia hay un libro entero de oraciones, los Salmos. Allí hay alegría, miedo, gratitud, cansancio y deseo de Dios, dichos por gente como tú.",
-      "«Como el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía». Piensa en un animal que corre bajo el sol del mediodía buscando agua. Así describe el salmista su sed de Dios. Quizá hoy no sientas esa sed; quizá te sientas seco, distante o simplemente ocupado. Orar este salmo en voz alta es una manera de pedirle a Dios que te devuelva el deseo de Él.",
+      "«Como el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía». Piensa en un animal que corre bajo el sol del mediodía buscando agua. Así describe el salmista su sed de Dios. Quizá hoy no sientas esa sed; quizá sientas el alma seca, distante o simplemente ocupada. Orar este salmo en voz alta es una manera de pedirle a Dios que te devuelva el deseo de Él.",
       "El Día 4 aprendiste a orar en voz alta con tus propias palabras. Hoy harás lo mismo, pero con palabras prestadas de la Biblia. Donde el salmo diga «mi alma», dilo como tuyo; donde hable de lágrimas, piensa en las tuyas. Los Salmos no se leen como un informe: se oran."
     ],
     "tarea": "Lee en voz alta y despacio Salmos 42:1-5 como si fuera tu propia oración, haciendo una pausa donde algo te toque. Escoge una frase del salmo para llevarla contigo el resto del día.",
@@ -285,7 +285,7 @@ export const DAYS: LessonContent[] = [
     "tarea": "Escribe en tu cuaderno cinco cosas que Dios es (por ejemplo: fiel, paciente, cercano, santo, bueno) y alábalo en voz alta por cada una con una frase: «Te alabo porque eres…».",
     "practica": [
       "Comienza tu oración de la mañana y la de la noche con una frase de adoración antes de agradecer o pedir.",
-      "Cuando algo te preocupe, nombra en voz baja el rasgo de Dios que responde a esa preocupación: si temes, «tú eres fiel»; si te sientes solo, «tú eres cercano».",
+      "Cuando algo te preocupe, nombra en voz baja el rasgo de Dios que responde a esa preocupación: si temes, «tú eres fiel»; si sientes soledad, «tú eres cercano».",
       "Escucha o canta un canto de alabanza mientras haces una tarea de la casa, prestando atención a lo que dice de Dios."
     ],
     "meditar": "¿Qué rasgo del carácter de Dios necesitas contemplar más en esta temporada de tu vida?"
@@ -315,8 +315,8 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Cuando la oración se queda solo en nuestras necesidades, el mundo se vuelve pequeño. Pablo le pidió a Timoteo que, ante todo, se hicieran oraciones, peticiones y acciones de gracias «por todos los hombres». Orar por otros se llama interceder: es ponerte entre Dios y otra persona, como quien lleva a un amigo de la mano hasta la puerta del médico.",
-      "Interceder te saca del centro. Cuando oras por la vecina que perdió a su esposo, por el compañero de trabajo que siempre está de mal humor o por el sobrino que se alejó de la familia, algo cambia también en ti. Empiezas a mirar a esas personas con los ojos de Dios. Es difícil seguir resentido con alguien por quien oras cada día.",
-      "Hoy nace una lista que tendrá un papel importante en este plan: tus cinco nombres. Cinco personas concretas: alguien de tu familia, un vecino, un compañero, alguien que te resulta difícil y alguien que está sufriendo. Hoy solo vas a orar por ellos. Más adelante orarás la Palabra por ellos y, en la última fase, darás pasos para servirles de cerca."
+      "Interceder te saca del centro. Cuando oras por la vecina que perdió a su esposo, por el compañero de trabajo que siempre está de mal humor o por el sobrino que se alejó de la familia, algo cambia también en ti. Empiezas a mirar a esas personas con los ojos de Dios. Es difícil guardar resentimiento contra alguien por quien oras cada día.",
+      "Hoy nace una lista que tendrá un papel importante en este plan: tus cinco nombres. Cinco personas concretas: alguien de tu familia, un vecino, un compañero, alguien que te resulta difícil y alguien que está sufriendo. Hoy solo vas a orar por ellos. Más adelante orarás la Palabra por ellos y, en la última fase, darás pasos para servir de cerca a esas personas."
     ],
     "tarea": "Escribe en tu cuaderno «Mis cinco nombres»: alguien de tu familia, un vecino, un compañero, alguien que te resulta difícil y alguien que sufre. Ora un minuto por cada uno, diciendo su nombre en voz alta.",
     "practica": [
@@ -334,12 +334,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hay días en que no sale nada. Te sientas en tu rincón y no sabes qué decir: el cansancio pesa, la tristeza no tiene nombre o simplemente estás en blanco. La Biblia no esconde esos días. Pablo reconoce que no sabemos qué pedir como conviene, «pero el Espíritu mismo intercede por nosotros con gemidos indecibles». Cuando tú no tienes palabras, Dios no se queda sin oración.",
       "Piensa en una madre junto a la cama de un hijo con fiebre. No le pide que explique bien lo que siente; le basta un quejido para entender. Así es el Espíritu con nosotros. Un suspiro sincero, una lágrima o un silencio delante de Dios también son oración. No hay que llenar cada momento con frases.",
-      "La escalera del silencio sigue subiendo: un minuto el Día 3, dos el Día 8, y hoy tres. Esta vez no vas a leer ni a hablar. Solo respirar despacio y presentarle a Dios tu corazón, tal como esté. Si la mente se distrae, vuelve con tu oración de una frase. Y si llevas tiempo con un peso por dentro que no se va, háblalo también con un pastor, un consejero o alguien de confianza que pueda acompañarte."
+      "La escalera del silencio sigue subiendo: un minuto el Día 3, dos el Día 8, y hoy tres. Esta vez no vas a leer ni a hablar. Solo respirar despacio y presentarle a Dios tu corazón, tal como esté. Si la mente se distrae, vuelve con tu oración de una frase. Y si llevas tiempo con un peso por dentro que no se va, háblalo también con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o con un consejero que pueda acompañarte."
     ],
     "tarea": "Quédate tres minutos en silencio en tu rincón, sin leer ni hablar, respirando despacio y presentando tu corazón a Dios sin palabras. Al terminar, di solamente: «Gracias por escucharme».",
     "practica": [
-      "Si en algún momento del día te sientes abrumado y no sabes cómo orar, respira hondo tres veces y di: «Espíritu Santo, ora tú por mí».",
-      "Acompaña hoy a alguien sin necesidad de llenar el silencio: escucha, míralo a los ojos, quédate.",
+      "Si en algún momento del día todo te abruma y no sabes cómo orar, respira hondo tres veces y di: «Espíritu Santo, ora tú por mí».",
+      "Acompaña hoy a alguien sin necesidad de llenar el silencio: escucha, mira a esa persona a los ojos, quédate.",
       "Deja el celular fuera de tu alcance durante una comida y ofrece ese silencio a Dios."
     ],
     "meditar": "¿Qué hay hoy en tu corazón que no sabes cómo poner en palabras, pero que Dios ya entiende?"
@@ -426,7 +426,7 @@ export const DAYS: LessonContent[] = [
       "Cuando oramos por otros, solemos pedir lo urgente: salud, trabajo, que se resuelva el problema. Está bien pedirlo. Pero las oraciones de la Biblia nos enseñan a pedir también lo profundo. Orar un texto bíblico por alguien es como regalarle las mejores palabras posibles. Y cuando pones su nombre donde dice «vosotros», la oración se vuelve personal y concreta.",
       "Hoy vuelves a tu lista del Día 18: tus cinco nombres. Quizá has orado por ellos estos días; quizá los olvidaste. No importa: hoy los traes de nuevo ante Dios, esta vez con palabras de la Escritura. Imagina a tu compañero difícil lleno de sabiduría, o a esa persona que sufre recibiendo luz de Dios para su situación."
     ],
-    "tarea": "Ora Colosenses 1:9 por cada uno de tus cinco nombres del Día 18, poniendo su nombre en lugar de «vosotros»: «Señor, te pido que… sea lleno del conocimiento de tu voluntad».",
+    "tarea": "Ora Colosenses 1:9 por cada uno de tus cinco nombres del Día 18, poniendo su nombre en lugar de «vosotros»: «Señor, te pido que llenes a… del conocimiento de tu voluntad».",
     "practica": [
       "Si hoy hablas o te escribes con alguno de tus cinco nombres, ora por él o por ella en silencio antes o durante la conversación.",
       "Cuando pidas algo para ti, añade también una petición profunda: «y que conozca mejor tu voluntad en esto».",
@@ -440,8 +440,8 @@ export const DAYS: LessonContent[] = [
       "referencia": "Salmos 5:3"
     },
     "resumen": [
-      "El salmista describe una rutina de mañana: «De mañana me presentaré delante de ti, y esperaré». Presentarse es orar; esperar es mirar hacia arriba con expectativa. No se trata de lanzar una petición al aire y olvidarla, sino de quedarse atento, como quien envía un mensaje importante y mira el celular de vez en cuando esperando la respuesta.",
-      "Hace ocho días escribiste tres peticiones con fecha (Día 17). Hoy vuelves a mirarlas. Tal vez alguna ya tiene una señal: la conversación difícil fue mejor de lo esperado, apareció una puerta, llegó un poco de paz. Tal vez nada ha cambiado por fuera, pero tú sí estás distinto: más tranquilo, más paciente, con otra mirada. Eso también es una respuesta.",
+      "El salmista describe una rutina de mañana: «De mañana me presentaré delante de ti, y esperaré». Presentarse es orar; esperar es mirar hacia arriba con expectativa. No se trata de lanzar una petición al aire y olvidarla, sino de mantenerse a la espera, como quien envía un mensaje importante y mira el celular de vez en cuando esperando la respuesta.",
+      "Hace ocho días escribiste tres peticiones con fecha (Día 17). Hoy vuelves a mirarlas. Tal vez alguna ya tiene una señal: la conversación difícil fue mejor de lo esperado, apareció una puerta, llegó un poco de paz. Tal vez nada ha cambiado por fuera, pero algo en ti sí cambió: hay más calma, más paciencia, otra mirada. Eso también es una respuesta.",
       "Y si todavía no ves nada, escribe «esperando» con serenidad. Dios no siempre responde a nuestra hora ni como imaginábamos, pero nunca ignora una oración sincera. Esperar con fe no es quedarse de brazos cruzados ni vivir ansioso: es seguir orando, seguir haciendo tu parte y confiar en que la respuesta llegará a su tiempo. El Día 88 volverás a esta lista."
     ],
     "tarea": "Revisa tus peticiones del Día 17 y escribe al lado de cada una cualquier señal, avance o cambio que notes, en la situación o en ti. Si aún no hay nada, escribe «esperando» y vuelve a presentarla en oración.",
@@ -460,9 +460,9 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Al final de su vida, Josué reunió al pueblo y le hizo una pregunta seria: ¿a quién van a servir? Y dio su propia respuesta sin rodeos: «Yo y mi casa serviremos a Jehová». La fe no era solo un asunto privado; se vivía en el hogar, entre ollas, niños y conversaciones de todos los días.",
       "No hace falta una reunión larga ni que todos piensen igual para que tu casa se convierta en un pequeño altar. Basta con una oración sencilla en la mesa: «Gracias, Señor, por esta comida y por estar juntos; cuida a cada uno mañana». Puede que tu adolescente ponga los ojos en blanco o que tu esposo se quede callado. No importa. Lo que se siembra con amor y sin presión va dejando huella.",
-      "Si vives solo, tu casa también cuenta. Puedes orar recorriendo cada habitación o enviar un audio de bendición a un hijo, a una hermana o a tus padres. La idea no es imponer, sino ofrecer. A veces, una oración de un minuto en la cena abre conversaciones que nunca habían ocurrido."
+      "Si no vives con nadie, tu casa también cuenta. Puedes orar recorriendo cada habitación o enviar un audio de bendición a un hijo, a una hermana o a tus padres. La idea no es imponer, sino ofrecer. A veces, una oración de un minuto en la cena abre conversaciones que nunca habían ocurrido."
     ],
-    "tarea": "Haz una oración de un minuto en la cena con quien esté en casa, con palabras sencillas de gratitud y bendición. Si vives solo, envía un audio corto de bendición a un familiar.",
+    "tarea": "Haz una oración de un minuto en la cena con quien esté en casa, con palabras sencillas de gratitud y bendición. Si no vives con nadie, envía un audio corto de bendición a un familiar.",
     "practica": [
       "Invita a los tuyos con suavidad, sin obligar a nadie: «¿Les parece si damos gracias juntos hoy?».",
       "Bendice con una frase a alguien de tu casa cuando salga o cuando se vaya a dormir: «Que Dios te cuide».",
@@ -476,15 +476,15 @@ export const DAYS: LessonContent[] = [
       "referencia": "Salmos 4:8"
     },
     "resumen": [
-      "Muchas noches terminan igual: acostados, con el celular frente a la cara, pasando de un video a otro hasta que los ojos se cierran solos. O dando vueltas en la cama, repasando las cuentas y las conversaciones del día. David escribió este salmo en un momento difícil y, aun así, pudo decir: «En paz me acostaré, y asimismo dormiré».",
+      "Muchas noches terminan igual: con la luz apagada y el celular frente a la cara, pasando de un video a otro hasta que los ojos se cierran solos. O dando vueltas en la cama, repasando las cuentas y las conversaciones del día. David escribió este salmo en un momento difícil y, aun así, pudo decir: «En paz me acostaré, y asimismo dormiré».",
       "La forma en que cierras el día influye en cómo duermes y en cómo despiertas. Si lo último que ves son noticias alarmantes o discusiones en redes, eso se va contigo a la almohada. Pero si lo último que haces es dar gracias y entregarle a Dios lo que queda pendiente, el cuerpo y la mente reciben otro mensaje: alguien más está cuidando esta noche.",
-      "El Día 10 aprendiste a empezar la oración con gratitud. Hoy la gratitud cierra el día. Vas a dejar el celular lejos de la cama, anotar una gratitud y decir una frase de entrega. Si el insomnio o las preocupaciones de la noche son frecuentes y te agotan, háblalo también con un médico o un consejero: cuidar tu descanso es parte de cómo Dios te cuida."
+      "El Día 10 aprendiste a empezar la oración con gratitud. Hoy la gratitud cierra el día. Vas a dejar el celular lejos de la cama, anotar una gratitud y decir una frase de entrega. Si el insomnio o las preocupaciones de la noche son frecuentes y te agotan, háblalo también con un médico o un consejero, y con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe: cuidar tu descanso es parte de cómo Dios te cuida."
     ],
     "tarea": "Antes de acostarte, deja el celular lejos de la cama (con la alarma puesta), anota una gratitud del día en tu cuaderno y di en voz baja: «En tus manos dejo este día y esta noche».",
     "practica": [
       "Decide a qué hora soltarás el celular esta noche, al menos treinta minutos antes de dormir, y respétala.",
       "Si una preocupación te despierta de madrugada, di tu oración de una frase y las palabras del salmo: «En paz me acostaré».",
-      "Antes de dormir, di «buenas noches» con cariño a quien viva contigo o, si vives solo, envía un mensaje breve a alguien querido."
+      "Antes de dormir, di «buenas noches» con cariño a quien viva contigo o, si no vives con nadie, envía un mensaje breve a alguien querido."
     ],
     "meditar": "¿Qué es lo último que entra en tu mente cada noche, y qué te gustaría que fuera?"
   },
@@ -496,7 +496,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Detente y mira hacia atrás: en cuatro semanas has aprendido a orar con los Salmos, adorar, pedir con fecha, interceder por cinco nombres, callar sin palabras, memorizar, leer para obedecer, orar en casa y cerrar el día con Dios. No es una lista para cumplir, sino un abanico de formas de estar con Él. Hoy es día de reposo, y el salmo lo dice todo: «En tu presencia hay plenitud de gozo».",
       "Quizá al empezar el plan la oración te parecía una obligación, algo que «había que hacer». Poco a poco puede estar convirtiéndose en un lugar de encuentro, como esa cocina donde te sientas con una amiga a tomar café sin mirar el reloj. No todos los días se sienten así, y está bien. El gozo del que habla David no depende del ánimo: nace de saber con quién estás.",
-      "Escribe hoy en tres líneas lo que Dios te ha mostrado en estas cuatro semanas. Luego marcarás qué forma de oración te acerca más a Él. No hay respuesta correcta: a unos les ayuda el silencio, a otros los Salmos, a otros orar por los demás. Conocerte a ti mismo te ayuda a caminar mejor con Dios."
+      "Escribe hoy en tres líneas lo que Dios te ha mostrado en estas cuatro semanas. Luego marcarás qué forma de oración te acerca más a Él. No hay respuesta correcta: a unos les ayuda el silencio, a otros los Salmos, a otros orar por los demás. Saber cómo eres te ayuda a caminar mejor con Dios."
     ],
     "tarea": "Escribe en tres líneas lo que Dios te ha mostrado en estas cuatro semanas y marca qué forma de oración te acerca más a Él: Salmos, adoración, petición, intercesión o silencio. Termina recitando Hebreos 4:16.",
     "practica": [
@@ -513,7 +513,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Hoy comienza la tercera fase: un corazón limpio. Vamos a hablar de pecado, de confesión y de perdón. Pero antes de mirar nuestras faltas, miramos la cruz: «Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros». Fíjate en el orden. No después de que cambiáramos, sino «siendo aún pecadores».",
-      "¿Recuerdas el Día 2? Aprendiste que eres amado antes de cambiar. Esta fase se construye sobre esa roca. Si miras tus errores sin la cruz delante, solo verás vergüenza y te darán ganas de esconderte, como Adán entre los árboles del huerto. Pero si los miras desde el amor de Cristo, el arrepentimiento se vuelve un regreso a casa, no un juicio.",
+      "¿Recuerdas el Día 2? Aprendiste que Dios te ama antes de que cambies. Esta fase se construye sobre esa roca. Si miras tus errores sin la cruz delante, solo verás vergüenza y te darán ganas de esconderte, como Adán entre los árboles del huerto. Pero si los miras desde el amor de Cristo, el arrepentimiento se vuelve un regreso a casa, no un juicio.",
       "Piensa en un niño que rompe un vaso. Si en casa lo reciben con gritos, aprenderá a esconder los pedazos. Si sabe que lo aman, vendrá corriendo a contar lo que pasó. Dios quiere que corras hacia Él con tus pedazos. Por eso esta fase empieza con amor y no con una lista de faltas: el arrepentimiento verdadero nace de ese amor, no del miedo."
     ],
     "tarea": "Completa por escrito, con honestidad y en pocas líneas: «Cristo murió por mí aun cuando yo…». Termina con una frase de gratitud por ese amor.",
@@ -522,7 +522,7 @@ export const DAYS: LessonContent[] = [
       "Detente un minuto a mirar una cruz, una imagen o simplemente tus manos, y agradece a Jesús por dar su vida por ti.",
       "Si alguien de tu casa comete un error hoy, respóndele primero con calma y cariño, y después hablen de lo que pasó."
     ],
-    "meditar": "¿Te acercas a Dios con tus faltas corriendo como un hijo, o escondiéndote como quien teme un castigo?"
+    "meditar": "¿Te acercas a Dios con tus faltas corriendo como quien vuelve a casa, o escondiéndote como quien teme un castigo?"
   },
   {
     "versiculo": {
@@ -532,7 +532,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "El Día 1 oraste con el Salmo 139: «Examíname, oh Dios, y conoce mi corazón». El versículo siguiente completa esa oración: «Y ve si hay en mí camino de perversidad, y guíame en el camino eterno». Hoy esa súplica se convierte en un hábito diario que te acompañará hasta el final del plan y, ojalá, mucho más allá: el examen de la noche.",
       "El examen es un repaso breve del día junto a Dios. No es un juicio ni una lista de defectos. Son solo dos preguntas: «¿Dónde vi a Dios hoy?» y «¿Dónde me alejé de Él?». Quizá lo viste en la paciencia del cajero, en la risa de tu nieta o en una llamada que llegó a tiempo. Quizá te alejaste al contestar con dureza, o cuando dejaste que la preocupación se comiera la tarde.",
-      "Desde el Día 27 cierras el día con gratitud y entrega; ahora el examen se suma a ese momento. Terminas siempre igual: dando gracias por lo bueno y pidiendo perdón por lo que falló, sabiendo que eres amado. Cinco minutos bastan. Con el tiempo empezarás a ver patrones y a notar a Dios durante el día, no solo al final."
+      "Desde el Día 27 cierras el día con gratitud y entrega; ahora el examen se suma a ese momento. Terminas siempre igual: dando gracias por lo bueno y pidiendo perdón por lo que falló, sabiendo que Dios te ama. Cinco minutos bastan. Con el tiempo empezarás a ver patrones y a notar a Dios durante el día, no solo al final."
     ],
     "tarea": "Antes de dormir, responde en tu cuaderno dos preguntas: «¿Dónde vi a Dios hoy?» y «¿Dónde me alejé de Él?». Termina con una frase de gracias y una de perdón. Desde hoy, hazlo cada noche.",
     "practica": [
@@ -549,7 +549,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Cuando algo nos avergüenza, solemos hablar de ello con palabras vagas: «perdóname por todo», «perdona mis fallas». Es como ir al médico y decirle «me siento mal» sin explicar dónde duele. Juan nos invita a otra cosa: «Si confesamos nuestros pecados, él es fiel y justo para perdonar». Confesar es llamar a las cosas por su nombre delante de Dios.",
-      "No es «a veces me falta paciencia», sino «le grité a mi hija esta mañana porque estaba cansado». No es «no siempre soy honesto», sino «dije que el informe estaba listo y no era verdad». Nombrarlo duele un momento, pero libera. Lo que se esconde crece en la oscuridad; lo que se confiesa pierde su fuerza.",
+      "No es «a veces me falta paciencia», sino «le grité a mi hija esta mañana por puro cansancio». No es «no siempre digo la verdad», sino «dije que el informe estaba listo y no era verdad». Nombrarlo duele un momento, pero libera. Lo que se esconde crece en la oscuridad; lo que se confiesa pierde su fuerza.",
       "Fíjate en la promesa: Dios es «fiel y justo» para perdonar. No perdona a regañadientes ni de vez en cuando; perdona porque Cristo ya pagó. Anoche, en tu primer examen (Día 30), quizá apareció algo concreto. Hoy lo traes a Dios con nombre y apellido, y luego harás un gesto que te recuerde que ya fue perdonado. Si tu falta afectó a alguien, quizá también haga falta pedirle perdón a esa persona."
     ],
     "tarea": "Escribe en un papel una falta concreta que Dios te mostró en el examen de anoche, confiésala en oración con palabras claras y luego rompe el papel en pedazos como señal de que ya está perdonada.",
@@ -567,8 +567,8 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Hay dos voces que pueden hablarte después de un error. Una dice: «Eso no estuvo bien; vuelve, repáralo, Dios te ayuda». La otra dice: «Siempre lo arruinas, no tienes remedio, Dios está cansado de ti». La primera es la voz del Espíritu, que muestra el error para levantarte. La segunda no viene de Dios. Pablo lo afirma sin dudar: «Ninguna condenación hay para los que están en Cristo Jesús».",
-      "Ayer confesaste algo concreto y rompiste el papel (Día 31). Quizá hoy la culpa vuelva a tocar la puerta, como un cobrador que insiste por una deuda ya pagada. Cuando eso pase, no tienes que abrirle ni volver a pagar. Puedes responder con la Palabra y dar gracias. La condenación te deja aplastado y sin salida; la convicción del Espíritu te muestra el error con esperanza.",
-      "Aprender a distinguir estas dos voces cambia la vida. La culpa que aplasta te aleja de Dios; la convicción que levanta te acerca a Él. Si notas que una culpa se repite desde hace años y no te deja en paz aunque ya la entregaste, hablarla con un pastor, un sacerdote o un consejero es un paso sabio: Dios también sana a través de personas."
+      "Ayer confesaste algo concreto y rompiste el papel (Día 31). Quizá hoy la culpa vuelva a tocar la puerta, como un cobrador que insiste por una deuda ya pagada. Cuando eso pase, no tienes que abrirle ni volver a pagar. Puedes responder con la Palabra y dar gracias. La condenación te aplasta y te deja sin salida; la convicción del Espíritu te muestra el error con esperanza.",
+      "Aprender a distinguir estas dos voces cambia la vida. La culpa que aplasta te aleja de Dios; la convicción que levanta te acerca a Él. Si notas que una culpa se repite desde hace años y no te deja en paz aunque ya la entregaste, hablarla con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o con un consejero, es un paso sabio: Dios también sana a través de personas."
     ],
     "tarea": "Escribe Romanos 8:1 en una tarjeta o en la pantalla de bloqueo del celular. Cada vez que hoy vuelva una culpa ya confesada, di el versículo en voz baja y termina con «gracias, Jesús».",
     "practica": [
@@ -626,11 +626,11 @@ export const DAYS: LessonContent[] = [
     ],
     "tarea": "Relee en tu cuaderno lo que escribiste desde el Día 29, escribe una frase de alegría por el perdón recibido («Hoy me alegro porque…») y recita de memoria Salmos 51:10.",
     "practica": [
-      "Sonríe a propósito hoy a tres personas (en casa, en la calle o en el trabajo) como expresión de la alegría de ser perdonado.",
+      "Sonríe a propósito hoy a tres personas (en casa, en la calle o en el trabajo) como expresión de la alegría del perdón recibido.",
       "Canta o escucha un canto sobre el perdón y la gracia de Dios mientras haces algo en casa.",
-      "Descansa hoy de la autocrítica: si aparece un pensamiento duro contra ti, respóndele con «bienaventurado el perdonado»."
+      "Descansa hoy de la autocrítica: si aparece un pensamiento duro contra ti, respóndele con el salmo: «Bienaventurado aquel cuya transgresión ha sido perdonada»."
     ],
-    "meditar": "¿Qué cambiaría en tu rostro y en tu trato con los demás si vivieras cada día como alguien perdonado por completo?"
+    "meditar": "¿Qué cambiaría en tu rostro y en tu trato con los demás si vivieras cada día sabiendo que Dios te perdonó por completo?"
   },
   {
     "versiculo": {
@@ -640,7 +640,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Algunas personas pueden recibir el perdón por lo que hicieron ayer, pero siguen cargando algo de hace diez o veinte años: una decisión de juventud, palabras que hirieron a un padre que ya murió, un error que marcó la historia de la familia. Lo han confesado muchas veces, pero en el fondo sienten que eso no se borra.",
       "El salmista responde con una imagen: «Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras rebeliones». El oriente es donde sale el sol y el occidente, donde se pone: dos extremos que nunca se juntan. Así de lejos pone Dios lo que ha perdonado. Él no lo vuelve a sacar para echártelo en cara.",
-      "El Día 32 aprendiste a distinguir la convicción que levanta de la culpa que aplasta. Hoy das un paso más: dejar de revivir faltas antiguas que ya fueron perdonadas. Si Dios ya no las usa contra ti, tú tampoco necesitas seguir cargándolas. Y si ese peso es muy hondo y lleva años, conversarlo con un pastor o un consejero puede ayudarte a soltarlo."
+      "El Día 32 aprendiste a distinguir la convicción que levanta de la culpa que aplasta. Hoy das un paso más: dejar de revivir faltas antiguas que ya fueron perdonadas. Si Dios ya no las usa contra ti, tú tampoco necesitas seguir cargándolas. Y si ese peso es muy hondo y lleva años, conversarlo con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o con un consejero, puede ayudarte a soltarlo."
     ],
     "tarea": "Escribe en un papel una culpa antigua que todavía cargas, entrégala a Dios en oración y luego escribe encima, con letra grande, Salmos 103:12. Guarda ese papel en tu cuaderno como testimonio.",
     "practica": [
@@ -658,13 +658,13 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Solemos pensar en la gracia como algo que solo perdona: te equivocas, pides perdón y la gracia te limpia. Es verdad, pero Pablo añade algo más: la gracia de Dios nos está «enseñando». Como una buena maestra, nos acompaña para aprender a decir «no» a lo que nos daña y «sí» a una vida sobria, justa y piadosa, aquí y ahora.",
       "Esto quita un peso enorme. No tienes que cambiar a pura fuerza de voluntad, apretando los dientes. La misma gracia que te perdonó te da fuerzas para el siguiente paso. El Día 34 elegiste un cambio de dirección, y quizá ya te está costando mantenerlo: los primeros días suelen ser los más difíciles. Hoy no se trata de esforzarte más, sino de apoyarte en la gracia que enseña.",
-      "Imagina a un niño aprendiendo a andar en bicicleta. Su papá corre detrás sosteniendo el asiento y no lo suelta hasta que el niño agarra equilibrio. Así es la gracia contigo. Cada mañana puedes pedir: «Señor, enséñame hoy a decir este no y este sí», y confiar en que no estás pedaleando solo."
+      "Imagina a un niño aprendiendo a andar en bicicleta. Su papá corre detrás sosteniendo el asiento y no lo suelta hasta que el niño agarra equilibrio. Así es la gracia contigo. Cada mañana puedes pedir: «Señor, enséñame hoy a decir este no y este sí», y confiar en que no pedaleas sin compañía."
     ],
     "tarea": "Escribe en tu cuaderno un «no» para hoy (algo que dejarás) y un «sí» (algo bueno que harás). Pide en voz alta gracia para cumplirlos: «Señor, enséñame hoy a decir este no y este sí».",
     "practica": [
       "Cuando llegue el momento de tu «no», di en voz baja «tu gracia me enseña» y, si puedes, aléjate físicamente de lo que te tienta.",
       "Haz tu «sí» antes del mediodía, para no dejarlo para el final del día.",
-      "Si fallas en tu «no», confiésalo en el momento con una frase y vuelve a intentarlo sin darte por vencido el resto del día."
+      "Si fallas en tu «no», confiésalo en el momento con una frase y vuelve a intentarlo sin rendirte el resto del día."
     ],
     "meditar": "¿Estás intentando cambiar solo con tus fuerzas, o dejando que la gracia de Dios te enseñe?"
   },
@@ -676,11 +676,11 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hay luchas que cargamos en secreto durante años: un vicio pequeño, un pensamiento que no nos deja en paz, un rencor, una tentación que vuelve. Pensamos que si alguien lo supiera, nos miraría distinto. Pero Santiago escribe algo que rompe esa soledad: «Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados».",
       "Dios perdona cuando le confesamos a Él, como viste el Día 31. Pero hay una sanidad especial que llega cuando alguien de confianza sabe que estamos luchando y ora por nosotros. No hace falta contar todos los detalles ni hacerlo público. Basta con decir: «Estoy luchando con algo, ¿orarías por mí?». Esa frase sencilla rompe el aislamiento, que es justamente donde la tentación se hace más fuerte.",
-      "Elige bien a esa persona: alguien de fe, discreto, que te quiera y no te juzgue. Puede ser tu cónyuge, una hermana, un amigo de muchos años, tu pastor o tu sacerdote. Si no se te ocurre nadie, pídele hoy a Dios que te muestre a esa persona. Nadie fue hecho para caminar solo, y pedir oración es un acto de humildad y de valentía."
+      "Elige bien a esa persona: alguien de fe, discreto, que te quiera y no te juzgue. Puede ser tu cónyuge, una hermana, un amigo de muchos años, tu pastor, tu sacerdote o alguien de confianza en tu comunidad de fe. Si no se te ocurre nadie, pídele hoy a Dios que te muestre a esa persona. Dios no nos hizo para caminar a solas, y pedir oración es un acto de humildad y de valentía."
     ],
-    "tarea": "Envía un mensaje a alguien de fe y de confianza (un familiar, un amigo, tu pastor o sacerdote): «Estoy luchando con algo, ¿orarías por mí esta semana?». Si no se te ocurre nadie, escribe una oración pidiéndole a Dios que te lo muestre.",
+    "tarea": "Envía un mensaje a alguien de fe y de confianza (un familiar, un amigo, tu pastor, tu sacerdote o una persona cercana de tu comunidad de fe): «Estoy luchando con algo, ¿orarías por mí esta semana?». Si no se te ocurre nadie, escribe una oración pidiéndole a Dios que te muestre a esa persona.",
     "practica": [
-      "Si la persona responde, agradécele y cuéntale solo lo que te sientas cómodo compartiendo.",
+      "Si la persona responde, agradécele y cuéntale solo lo que quieras compartir.",
       "Ofrécete tú también a orar por ella con una pregunta sencilla: «¿Y cómo puedo orar por ti?».",
       "Cuando hoy llegue tu momento de lucha, recuerda que alguien está orando por ti y di tu oración de una frase."
     ],
@@ -710,8 +710,8 @@ export const DAYS: LessonContent[] = [
       "referencia": "1 Corintios 10:13"
     },
     "resumen": [
-      "Todos tenemos un punto débil que vuelve una y otra vez: el enojo cuando llegamos cansados, el chisme en el grupo del trabajo, comer por ansiedad, lo que miramos en la pantalla a medianoche, la compra impulsiva. A veces sentimos que esa tentación es más fuerte que nosotros. Pablo responde con una promesa: «Fiel es Dios… que dará también juntamente con la tentación la salida».",
-      "Una salida es como la puerta de emergencia de un edificio: conviene saber dónde está antes del incendio. En medio de la tentación, la mente se nubla y cuesta pensar. Por eso hoy vas a preparar tu plan con calma. Primero, observa: ¿a qué hora aparece?, ¿dónde estás?, ¿cómo te sientes? Muchas tentaciones llegan cuando estamos solos, cansados, aburridos o tristes.",
+      "Todos tenemos un punto débil que vuelve una y otra vez: el enojo al final de un día agotador, el chisme en el grupo del trabajo, comer por ansiedad, lo que miramos en la pantalla a medianoche, la compra impulsiva. A veces sentimos que esa tentación es más fuerte que nosotros. Pablo responde con una promesa: «Fiel es Dios… que dará también juntamente con la tentación la salida».",
+      "Una salida es como la puerta de emergencia de un edificio: conviene saber dónde está antes del incendio. En medio de la tentación, la mente se nubla y cuesta pensar. Por eso hoy vas a preparar tu plan con calma. Primero, observa: ¿a qué hora aparece?, ¿dónde estás?, ¿cómo te sientes? Muchas tentaciones llegan en momentos de soledad, cansancio, aburrimiento o tristeza.",
       "Luego, elige tu salida. Puede ser la oración de una frase del Día 5, que ya tienes a mano. Puede ser levantarte y salir a caminar, llamar a alguien, tomar un vaso de agua o cambiar de habitación. La salida no tiene que ser heroica; solo tiene que estar lista. Dios es fiel: la puerta siempre está ahí."
     ],
     "tarea": "Escribe en tu cuaderno tu momento de tentación más frecuente (hora, lugar y estado de ánimo) y tu «salida» concreta: una oración de una frase, salir a caminar, llamar a alguien o cambiar de lugar.",
@@ -734,7 +734,7 @@ export const DAYS: LessonContent[] = [
     ],
     "tarea": "Mientras te vistes (hoy o mañana temprano), ora una frase por cada prenda, eligiendo una virtud distinta para cada una: «Me visto de tu paciencia», «me visto de tu bondad», «me visto de tu paz»…",
     "practica": [
-      "Cuando alguien te trate mal hoy, toca discretamente tu ropa y recuerda: «Estoy vestido de Cristo».",
+      "Cuando alguien te trate mal hoy, toca discretamente tu ropa y recuerda: «Llevo puesto a Cristo».",
       "Quita hoy de tu camino una cosa que «provee para la carne»: una aplicación, un grupo, un lugar o un horario de riesgo.",
       "Al llegar a casa y cambiarte de ropa, pregúntate si llevaste puesto a Cristo en tus palabras y gestos del día."
     ],
@@ -746,7 +746,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Isaías 1:18"
     },
     "resumen": [
-      "Terminas hoy la tercera fase, y Dios te recibe con una invitación: «Venid luego, dice Jehová, y estemos a cuenta». «Estar a cuenta» es como sentarse a revisar las cuentas con alguien que ya decidió perdonar la deuda. No es una amenaza; es una invitación a quedar limpio.",
+      "Terminas hoy la tercera fase, y Dios te recibe con una invitación: «Venid luego, dice Jehová, y estemos a cuenta». «Estar a cuenta» es como sentarse a revisar las cuentas con alguien que ya decidió perdonar la deuda. No es una amenaza; es una invitación a que tu vida quede limpia.",
       "En estas dos semanas recorriste un camino valiente. Empezaste por el amor de la cruz (Día 29) y el examen de la noche (Día 30); confesaste con nombre, dejaste atrás la condenación, pediste un corazón nuevo, diste la vuelta en algo concreto y soltaste culpas antiguas. Después pediste oración a alguien, hiciste el bien pendiente, preparaste tu salida ante la tentación y te vestiste de Cristo. No todo te habrá salido igual, y está bien.",
       "La grana era un tinte rojo intenso, casi imposible de quitar de la tela. Nadie podía blanquearla, pero Dios sí. Hoy es día de descansar en esa limpieza, no de volver a buscar manchas. Vas a elegir el hábito de esta fase que quieres mantener y a recitar el versículo ancla. La próxima semana comienza una etapa nueva: confiar en Dios en medio de la tormenta."
     ],
@@ -774,7 +774,7 @@ export const DAYS: LessonContent[] = [
       "Haz hoy tu parte en una de esas situaciones (una llamada, una conversación, una cita) y luego suelta el resultado en oración.",
       "Evita hoy dar consejos que nadie te pidió o insistir en que alguien haga las cosas a tu manera."
     ],
-    "meditar": "¿Qué estás intentando sostener tú solo que en realidad le pertenece a Dios?"
+    "meditar": "¿Qué estás intentando sostener por tu cuenta que en realidad le pertenece a Dios?"
   },
   {
     "versiculo": {
@@ -820,7 +820,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hay preocupaciones que no se van por más que las pienses. La cuenta de la luz, el hijo que no contesta, el resultado médico que tarda. Das vueltas en la cama y a la mañana siguiente la carga sigue ahí, igual de pesada. La Palabra no te pide que la sueltes a fuerza de voluntad, sino que la eches sobre Otro: «Echa sobre Jehová tu carga, y él te sustentará».",
       "Echar no es un gesto de una sola vez. Muchas veces la preocupación regresa a los cinco minutos, y está bien: se vuelve a entregar. Por eso hoy le das una forma concreta. En el Día 12 hiciste una lista de lo que te pesaba; hoy cada carga tendrá su papelito y su lugar. Cuando vuelva a tu mente, podrás decir: «Esto ya está en la caja, Señor; es tuyo».",
-      "No se trata de fingir que ya no te importa, sino de recordar quién te sostiene. Y si la ansiedad te quita el sueño o la calma durante muchos días, habla con un pastor, un consejero o un profesional de la salud: es un paso sabio, y Dios también cuida de ti por medio de ellos."
+      "No se trata de fingir que ya no te importa, sino de recordar quién te sostiene. Y si la ansiedad te quita el sueño o la calma durante muchos días, habla con un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, y también con un consejero o un profesional de la salud: es un paso sabio, y Dios también cuida de ti por medio de esas personas."
     ],
     "tarea": "Busca una caja pequeña o un sobre y escríbele «Caja de entregas». Anota cada preocupación en un papelito, ora por ella con una frase y métela dentro. Guárdala en tu rincón: la abrirás el Día 56.",
     "practica": [
@@ -828,7 +828,7 @@ export const DAYS: LessonContent[] = [
       "Si aparece una preocupación nueva durante el día, anótala en el celular para meterla en la caja esta noche.",
       "Al hacer tu examen esta noche, nombra una carga que hoy pesó un poco menos y da gracias por ella."
     ],
-    "meditar": "¿Qué preocupación sigues cargando tú solo, como si Dios no pudiera sostenerla?"
+    "meditar": "¿Qué preocupación sigues cargando por tu cuenta, como si Dios no pudiera sostenerla?"
   },
   {
     "versiculo": {
@@ -836,7 +836,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Isaías 43:2"
     },
     "resumen": [
-      "Muchos crecimos pensando que, si Dios nos ama, nos librará de todos los problemas. Pero la promesa de Isaías es distinta y, en el fondo, más consoladora: «Cuando pases por las aguas, yo estaré contigo». No dice «si pasas», dice «cuando». Las aguas y el fuego forman parte de la vida; lo que cambia es que ya no los cruzas solo.",
+      "Muchos crecimos pensando que, si Dios nos ama, nos librará de todos los problemas. Pero la promesa de Isaías es distinta y, en el fondo, más consoladora: «Cuando pases por las aguas, yo estaré contigo». No dice «si pasas», dice «cuando». Las aguas y el fuego forman parte de la vida; lo que cambia es que ya no los cruzas sin compañía.",
       "Tu agua puede ser una deuda que no baja, un matrimonio en silencio, un diagnóstico, un hijo lejos de casa o la soledad de las tardes. Tu fuego puede ser un trabajo donde te tratan mal o una espera que se alarga. Ponerle nombre no es falta de fe; es la manera de invitar a Dios exactamente ahí. Él no te acompaña en general: te acompaña en esa sala de espera, en esa conversación difícil, en esa noche larga.",
       "En los próximos días volverás a esta situación varias veces. No para darle más vueltas, sino para aprender a mirarla con Dios a tu lado. Hoy basta con decirle: «Esta es mi agua, y tú estás conmigo en ella»."
     ],
@@ -844,7 +844,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Cada vez que hoy pienses en tu situación difícil, termina el pensamiento con la frase: «…y tú estás conmigo».",
       "Antes de una tarea ligada a esa prueba (una llamada, un trámite, una visita), detente diez segundos y recuerda la promesa.",
-      "Antes de dormir, busca un momento del día en que sentiste que no estabas solo en esa prueba y anótalo en tu cuaderno."
+      "Antes de dormir, busca un momento del día en que sentiste que Dios te acompañaba en esa prueba y anótalo en tu cuaderno."
     ],
     "meditar": "¿En qué parte de tu prueba te cuesta más creer que Dios está contigo?"
   },
@@ -855,8 +855,8 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "¿Sabías que en la Biblia hay oraciones que se quejan? David escribe: «¿Hasta cuándo, Jehová? ¿Me olvidarás para siempre?». No lo dice alguien que perdió la fe, sino alguien que sigue hablando con Dios en medio del dolor. Eso es el lamento: una fe que no se va, aunque no entienda.",
-      "A veces creemos que tenemos que llegar a Dios contentos, con la misma sonrisa que ponemos en el grupo de WhatsApp de la familia. Pero cuando muere alguien querido, cuando la enfermedad no cede o cuando llevas meses esperando, fingir paz te aleja. El Salmo 13 enseña un camino: se queja, pregunta, pide y, al final, dice: «Mas yo en tu misericordia he confiado». No salta por encima del dolor; lo atraviesa hasta llegar a la confianza.",
-      "El Día 15 oraste con un salmo prestado. Hoy escribes el tuyo. No necesita ser bonito, solo verdadero. Y si la tristeza se ha vuelto muy pesada o dura ya mucho tiempo, busca también a un pastor, un consejero o un profesional. El Dios que escucha tu lamento también consuela a través de otras personas."
+      "A veces creemos que tenemos que llegar a Dios de buen humor, con la misma sonrisa que ponemos en el grupo de WhatsApp de la familia. Pero cuando muere alguien querido, cuando la enfermedad no cede o cuando llevas meses esperando, fingir paz te aleja. El Salmo 13 enseña un camino: se queja, pregunta, pide y, al final, dice: «Mas yo en tu misericordia he confiado». No salta por encima del dolor; lo atraviesa hasta llegar a la confianza.",
+      "El Día 15 oraste con un salmo prestado. Hoy escribes el tuyo. No necesita ser bonito, solo verdadero. Y si la tristeza se ha vuelto muy pesada o dura ya mucho tiempo, busca también a un pastor, un sacerdote o alguien de confianza en tu comunidad de fe, o a un consejero o un profesional. El Dios que escucha tu lamento también consuela a través de otras personas."
     ],
     "tarea": "Escribe tu propio salmo de cuatro líneas: una queja («Señor, me duele…»), una pregunta («¿Hasta cuándo…?»), una petición («Ayúdame a…») y una línea de confianza («Pero yo confío en tu misericordia…»). Léelo en voz alta en tu rincón.",
     "practica": [
@@ -872,13 +872,13 @@ export const DAYS: LessonContent[] = [
       "referencia": "Salmos 46:10"
     },
     "resumen": [
-      "Día de reposo. Llevas una semana mirando de frente tus cargas, tu agua o tu fuego, tu propio lamento. Hoy no se agrega nada nuevo. Hoy solo se hace una cosa, quizá la más difícil de todas: quedarse quieto.",
+      "Día de reposo. Llevas una semana mirando de frente tus cargas, tu agua o tu fuego, tu propio lamento. Hoy no se agrega nada nuevo. Hoy solo se hace una cosa, quizá la más difícil de todas: quedarse en quietud.",
       "El Salmo 46 describe la tierra temblando y los montes cayendo al mar, y en medio de ese ruido Dios dice: «Estad quietos, y conoced que yo soy Dios». No es una orden para que dejes de sentir, sino una invitación a dejar de correr. Cuando la mente no para (el trabajo, el hijo, la cuenta, lo que dijo tu hermana), detenerte es reconocer que el mundo no depende de ti.",
       "Recuerda cómo empezó la escalera del silencio: un minuto el Día 3, dos el Día 8, tres el Día 19. Hoy subes a cinco. Si te distraes, no pasa nada; vuelve a la frase del salmo como quien regresa a casa. Mira la semana sin culpa: si algo no te salió, este descanso también es para ti. Y al final, repite el versículo ancla de esta fase, Proverbios 3:5, que ya empieza a ser tuyo."
     ],
     "tarea": "En tu rincón, di despacio «Estad quietos, y conoced que yo soy Dios» y quédate cinco minutos en silencio. Al terminar, recita Proverbios 3:5 y anota una palabra que describa cómo te sientes.",
     "practica": [
-      "Al menos una vez hoy, en un momento de espera, deja el celular en el bolsillo y quédate un minuto quieto repitiendo «Tú eres Dios».",
+      "Al menos una vez hoy, en un momento de espera, deja el celular en el bolsillo y quédate un minuto en quietud repitiendo «Tú eres Dios».",
       "Haz una comida o una caminata sin pantalla y más despacio de lo normal, dando gracias.",
       "Cuando te inquiete algo que no depende de ti, dilo en voz baja: «Tú eres Dios, yo no»."
     ],
@@ -908,7 +908,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Isaías 40:31"
     },
     "resumen": [
-      "Esperar cansa. Esperar una respuesta de un trabajo, que un familiar cambie, que alcance el dinero para el alquiler, que termine un tratamiento. Solemos imaginar la espera como estar sentados con los brazos cruzados y el estómago apretado. La Biblia habla de otra espera: «los que esperan a Jehová tendrán nuevas fuerzas».",
+      "Esperar cansa. Esperar una respuesta de un trabajo, que un familiar cambie, que alcance el dinero para el alquiler, que termine un tratamiento. Solemos imaginar la espera como un tiempo de brazos cruzados y estómago apretado. La Biblia habla de otra espera: «los que esperan a Jehová tendrán nuevas fuerzas».",
       "Fíjate en el final del versículo: correrán y no se cansarán, caminarán y no se fatigarán. Esperar en Dios no te paraliza; te da fuerza para el siguiente paso. No el paso gigante que lo resolvería todo, sino el pequeño y posible: enviar el currículum, hacer la llamada, ordenar los papeles, pedir la cita. Tú das el paso; el resultado queda en sus manos.",
       "Quizá junto a alguna de tus peticiones todavía dice «esperando», como escribiste el Día 25. Hoy le sumas algo: caminar mientras esperas. Así la espera deja de ser una sala vacía y se vuelve un camino por el que Dios te lleva paso a paso."
     ],
@@ -926,14 +926,14 @@ export const DAYS: LessonContent[] = [
       "referencia": "Romanos 8:28"
     },
     "resumen": [
-      "Hay versículos que se han repetido tan deprisa que a veces duelen. Cuando alguien sufre, soltarle «todo ayuda a bien» puede sonar frío. Pero Pablo no dice que todo sea bueno. Dice que Dios, en medio de todas las cosas, obra para bien en los que le aman. El dolor sigue siendo dolor; lo que cambia es que no tiene la última palabra.",
+      "Hay versículos que se han repetido tan deprisa que a veces duelen. Cuando alguien sufre, soltarle «todo ayuda a bien» puede sonar frío. Pero Pablo no dice que todo sea bueno. Dice que Dios, en medio de todas las cosas, obra para bien en los que lo aman. El dolor sigue siendo dolor; lo que cambia es que no tiene la última palabra.",
       "Muchas veces eso solo se ve mirando hacia atrás. Aquella mudanza que no querías te llevó a conocer a una vecina que hoy es como una hermana. Aquel despido te enseñó a depender de Dios de una manera nueva. Aquella enfermedad acercó a tu familia. Dios no te pidió que llamaras bueno al golpe, pero supo tejer con esos hilos algo que entonces no podías ver.",
       "Busca hoy uno de esos hilos. Lo que encuentres merece ir a tu página de piedras de memoria, junto a las dos que añadiste el Día 50. Cada historia así se convierte en un motivo para confiar la próxima vez que no entiendas lo que está pasando."
     ],
     "tarea": "Escribe un momento difícil de tu pasado y, al lado, una cosa buena que Dios trajo después: un aprendizaje, una persona, una fortaleza. Añádelo como nueva piedra de memoria.",
     "practica": [
       "Si hoy algo sale mal, antes de quejarte di: «Señor, no entiendo esto, pero confío en que sigues obrando».",
-      "Si alguien te cuenta un sufrimiento, no le digas «todo pasa por algo»; escúchalo y ora por él en silencio.",
+      "Si alguien te cuenta un sufrimiento, no le digas «todo pasa por algo»; escucha a esa persona y ora por ella en silencio.",
       "Cuando repases el día esta noche, busca un bien pequeño que haya aparecido dentro de algo incómodo."
     ],
     "meditar": "¿Qué herida de tu pasado todavía no le has permitido a Dios usar para bien?"
@@ -946,12 +946,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Pablo le pidió tres veces a Dios que le quitara algo que lo debilitaba. La respuesta no fue la que esperaba: «Bástate mi gracia; porque mi poder se perfecciona en la debilidad». Dios no le dio una vida sin límites, sino una gracia suficiente para vivir con ellos.",
       "Todos tenemos debilidades que preferimos esconder: el carácter que explota al final del día, el cansancio que no se va, la timidez, una lucha con la comida o con la tristeza, la edad que ya no permite lo de antes. Solemos pensar que Dios nos usará cuando las hayamos superado. Pablo descubrió lo contrario: justo allí, donde tus fuerzas no alcanzan, reposa el poder de Cristo.",
-      "Por eso hoy tu oración de una frase, la que elegiste el Día 5, cambia por un día: «Tu gracia me basta en esto». Dila cuando te sientas pequeño, cuando no te alcance la paciencia, cuando no llegues a todo. No es resignarse; es dejar de esconder la debilidad y ponerla delante de Aquel que sí puede. Y si esa lucha te desborda, buscar a un pastor o a un profesional también es una forma de dejar que su gracia te alcance."
+      "Por eso hoy tu oración de una frase, la que elegiste el Día 5, cambia por un día: «Tu gracia me basta en esto». Dila cuando sientas tu pequeñez, cuando no te alcance la paciencia, cuando no llegues a todo. No es resignarse; es dejar de esconder la debilidad y ponerla delante de Aquel que sí puede. Y si esa lucha te desborda, buscar a un pastor, a un sacerdote o a alguien de confianza en tu comunidad de fe, o a un profesional, también es una forma de dejar que su gracia te alcance."
     ],
     "tarea": "Escribe el nombre de una debilidad o un límite que vives en esta etapa. Debajo escribe «Tu gracia me basta en esto» y ora con esa frase en tu rincón.",
     "practica": [
       "Repite «Tu gracia me basta en esto» al menos tres veces hoy, sobre todo cuando notes tu límite.",
-      "Pide ayuda en una tarea en la que normalmente fingirías que puedes solo.",
+      "Pide ayuda en una tarea en la que normalmente fingirías que puedes sin ayuda.",
       "Si fallas en tu punto débil, en lugar de castigarte, di la frase y vuelve a empezar."
     ],
     "meditar": "¿Qué debilidad escondes porque crees que te descalifica ante Dios?"
@@ -963,10 +963,10 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "El Salmo 23 no dice que el Pastor evite el valle oscuro. Dice: «Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo». Hay valles que no se pueden rodear: el duelo por alguien que amabas, una enfermedad larga, una separación. Lo que sí cambia es la compañía.",
-      "Quien ha sentido al Pastor en su propio valle aprende a mirar distinto a los que están en el suyo. Tal vez sea una vecina que enviudó hace poco, un compañero con un hijo enfermo o alguien de tus cinco nombres del Día 18 que atraviesa un momento duro. No necesitas palabras sabias ni respuestas; basta con que sepa que no está solo y que alguien ora por él.",
-      "Hoy vas a orar este salmo por esa persona y luego se lo harás saber con un mensaje breve. Si tú mismo estás en duelo, ora el salmo también por ti. Y recuerda: acudir a un pastor, a un grupo de apoyo o a un profesional cuando el dolor es muy hondo también es una manera en que el Buen Pastor cuida de sus ovejas."
+      "Quien ha sentido al Pastor en su propio valle aprende a mirar distinto a los que están en el suyo. Tal vez sea una vecina que enviudó hace poco, un compañero con un hijo enfermo o alguien de tus cinco nombres del Día 18 que atraviesa un momento duro. No necesitas palabras sabias ni respuestas; basta con que esa persona sepa que tiene compañía y que alguien ora por ella.",
+      "Hoy vas a orar este salmo por esa persona y luego se lo harás saber con un mensaje breve. Si eres tú quien está en duelo, ora el salmo también por ti. Y recuerda: acudir a un pastor, a un sacerdote o a alguien de confianza en tu comunidad de fe, a un grupo de apoyo o a un profesional cuando el dolor es muy hondo también es una manera en que el Buen Pastor cuida de sus ovejas."
     ],
-    "tarea": "Ora el Salmo 23 despacio por alguien que está sufriendo, diciendo su nombre en cada verso. Después envíale un mensaje breve: «Hoy oré por ti. No estás solo(a)».",
+    "tarea": "Ora el Salmo 23 despacio por alguien que está sufriendo, diciendo su nombre en cada verso. Después envíale un mensaje breve: «Hoy oré por ti. No caminas sin compañía».",
     "practica": [
       "Si hoy te encuentras con alguien triste, pregúntale cómo está y escucha sin apurarte a dar consejos.",
       "Cuando pienses en tu propio valle, repite en voz baja: «Tú estás conmigo».",
@@ -1000,7 +1000,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hoy cierras la fase de la tormenta con un día de reposo, aunque quizá tu tormenta todavía no ha terminado. Por eso las palabras de Jesús son tan valiosas: «La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da». La paz del mundo llega cuando todo se arregla. La de Jesús llega antes, en medio.",
       "¿Recuerdas la caja de entregas del Día 46? Allí fuiste metiendo papelitos con tus preocupaciones. Hoy la abres. No para volver a cargar lo que entregaste, sino para mirar con calma. Algunas cosas se resolvieron. Otras siguen igual, pero ya no te quitan el sueño como antes. Otras todavía pesan, y está bien: vuelven a la caja, otra vez en manos de Dios.",
-      "Mira también estas dos semanas sin culpa: soltaste el control, oraste con honestidad, escribiste tu propio salmo, te quedaste quieto cinco minutos, recordaste. No lo hiciste perfecto, pero lo hiciste con Dios. Termina recitando Proverbios 3:5, el versículo ancla de esta fase, y deja que su paz te guarde."
+      "Mira también estas dos semanas sin culpa: soltaste el control, oraste con honestidad, escribiste tu propio salmo, guardaste silencio cinco minutos, recordaste. No lo hiciste perfecto, pero lo hiciste con Dios. Termina recitando Proverbios 3:5, el versículo ancla de esta fase, y deja que su paz te guarde."
     ],
     "tarea": "Abre tu caja de entregas, lee cada papelito y marca con una señal los que ya pesan menos. Devuelve a la caja los que siguen pendientes y recita Proverbios 3:5.",
     "practica": [
@@ -1018,13 +1018,13 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Una rama no se esfuerza para dar uvas. No aprieta los dientes ni hace listas de propósitos. Simplemente permanece unida a la vid, y la savia hace su trabajo. Jesús lo dijo así: «el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí nada podéis hacer».",
       "Empieza una fase nueva, la del fruto, y la primera noticia es buena: no vas a fabricar el carácter de Cristo a pura fuerza. Vas a permanecer. ¿Y cómo se permanece un martes cualquiera, entre el trabajo, los platos y el tráfico? Con lo que ya estás haciendo: tu rincón y tu hora del Día 3, tu oración de una frase del Día 5, la gratitud diaria desde el Día 10 y el examen de cada noche desde el Día 30.",
-      "Esos hábitos no son tareas para ganar puntos: son la manera concreta de quedarte unido a la vid. Hoy los vas a mirar como lo que son y a darle gracias a Dios por cada uno, también por los que todavía te cuestan."
+      "Esos hábitos no son tareas para ganar puntos: son la manera concreta de no separarte de la vid. Hoy los vas a mirar como lo que son y a darle gracias a Dios por cada uno, también por los que todavía te cuestan."
     ],
     "tarea": "Dibuja en tu cuaderno una rama sencilla con varias hojas. En cada hoja escribe un hábito que ya sostienes (rincón, oración de una frase, gratitud, examen…) y da gracias por cada uno. Guarda el dibujo: volverás a él el Día 70.",
     "practica": [
       "Antes de empezar tu jornada, di: «Señor, hoy quiero permanecer en ti».",
       "Cuando notes que intentas hacerlo todo con tus fuerzas, detente y di tu oración de una frase.",
-      "En el examen de la noche, identifica un momento en que te sentiste desconectado de la vid y vuelve a Él con gratitud, sin culpa."
+      "En el examen de la noche, identifica un momento en que te desconectaste de la vid y vuelve a Él con gratitud, sin culpa."
     ],
     "meditar": "¿Estás intentando dar fruto a la fuerza o estás aprendiendo a permanecer?"
   },
@@ -1054,9 +1054,9 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "La santidad casi nunca se juega en grandes escenas. Se juega cuando el cajero te devuelve cambio de más, cuando prometiste llamar y ya es tarde, cuando nadie notaría que llegaste diez minutos tarde o que escondiste un error en el trabajo. Jesús lo dijo sin rodeos: «El que es fiel en lo muy poco, también en lo más es fiel».",
       "Lo pequeño forma el corazón. Cada vez que cumples una promesa sencilla, que dices la verdad exacta y no la versión que te conviene, que dejas ordenado lo que usaste, estás entrenando tu carácter para los días grandes. Y a la vez le estás diciendo a Dios: «Tú también importas aquí».",
-      "En el Día 11 descubriste que lavar platos o manejar podía hacerse con Dios. Hoy das un paso más: no solo hacer lo cotidiano con Él, sino hacerlo con fidelidad. No se trata de perfeccionismo ni de vivir tenso; se trata de pequeños «sí» sostenidos que, con el tiempo, dan un fruto muy visible."
+      "En el Día 11 descubriste que lavar platos o manejar podía hacerse con Dios. Hoy das un paso más: no solo hacer lo cotidiano con Él, sino hacerlo con fidelidad. No se trata de perfeccionismo ni de vivir con tensión; se trata de pequeños «sí» sostenidos que, con el tiempo, dan un fruto muy visible."
     ],
-    "tarea": "Elige tres «pequeñas fidelidades» para esta semana (por ejemplo: cumplir una promesa pequeña, ser exacto con la verdad, dejar ordenado lo que uses) y anótalas en tu cuaderno.",
+    "tarea": "Elige tres «pequeñas fidelidades» para esta semana (por ejemplo: cumplir una promesa pequeña, decir la verdad exacta, dejar ordenado lo que uses) y anótalas en tu cuaderno.",
     "practica": [
       "Si hoy te devuelven de más, te equivocas o se te olvida algo, corrígelo en el momento.",
       "Cumple hoy algo pequeño que dijiste que harías, aunque nadie vaya a recordarlo.",
@@ -1089,7 +1089,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "El pueblo de Israel acababa de escuchar la lectura de la ley y lloraba, porque veía cuánto se había alejado de Dios. Entonces Nehemías les dijo algo sorprendente: no os entristezcáis, «porque el gozo de Jehová es vuestra fuerza». Y los mandó a celebrar y a compartir su comida con los que no tenían nada preparado.",
-      "El gozo del Señor no es estar siempre contento ni sonreír por obligación. Es una fuerza que viene de saber quién es Dios y que Él está contigo, incluso en un miércoles gris con ropa por doblar y cuentas por pagar. Por eso se puede tener gozo en días comunes, y hasta en días tristes.",
+      "El gozo del Señor no es estar de buen humor todo el tiempo ni sonreír por obligación. Es una fuerza que viene de saber quién es Dios y que Él está contigo, incluso en un miércoles gris con ropa por doblar y cuentas por pagar. Por eso se puede tener gozo en días comunes, y hasta en días tristes.",
       "Ese gozo crece con dos alimentos que ya conoces. El primero es la gratitud: desde el Día 10 vienes anotando al menos una cada día, y cada una es una razón para alegrarte en Dios. El segundo es compartir. Nehemías no dijo «alégrense a solas», sino «enviad porciones». La alegría compartida se multiplica: una buena noticia contada en la mesa, una risa enviada por mensaje, una canción sonando en la cocina."
     ],
     "tarea": "Escucha o canta una canción de alabanza o un himno que te guste. Después comparte una alegría del día con alguien de tu casa o por mensaje.",
@@ -1106,7 +1106,7 @@ export const DAYS: LessonContent[] = [
       "referencia": "Colosenses 3:12"
     },
     "resumen": [
-      "Fíjate en el orden de este versículo. Antes de decir qué ponerse, Pablo dice quiénes somos: «escogidos de Dios, santos y amados». Primero la identidad, después la ropa. No te vistes de bondad para que Dios te ame; te vistes así porque ya eres amado.",
+      "Fíjate en el orden de este versículo. Antes de decir qué ponerse, Pablo dice quiénes somos: «escogidos de Dios, santos y amados». Primero la identidad, después la ropa. No te vistes de bondad para que Dios te ame; te vistes así porque Dios ya te ama.",
       "Y la ropa es muy concreta: entrañable misericordia, benignidad (es decir, bondad amable), humildad, mansedumbre y paciencia. Son virtudes que casi siempre se estrenan en casa, que es donde más cuesta. Es fácil ser amable con el vecino; lo difícil es la paciencia con la pareja cansada, la mansedumbre con el hijo que lo desordena todo o la humildad para reconocer un error delante de tu familia.",
       "¿Sigues haciendo la oración de vestirte de Cristo que empezaste el Día 41? Hoy la llevas a un gesto visible. Eliges una de estas cinco prendas y la «usas» con una persona concreta: preparar un café sin que te lo pidan, escuchar sin interrumpir, ceder en una discusión pequeña. Quizá en tu casa no lo noten enseguida, pero Dios sí lo ve."
     ],
@@ -1178,13 +1178,13 @@ export const DAYS: LessonContent[] = [
       "referencia": "1 Corintios 6:19-20"
     },
     "resumen": [
-      "A veces pensamos que lo espiritual es solo lo invisible: el alma, la oración, los pensamientos. Pero Pablo pregunta: «¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo?». El cuerpo con el que te levantas cansado, con el que cargas las bolsas del mercado y abrazas a los tuyos, es un lugar donde Dios habita.",
-      "Cuidarlo no es vanidad ni obsesión por la apariencia. Es gratitud. Dormir un poco más cuando llevas semanas trasnochando, tomar agua, caminar un rato, comer sentado en lugar de picar de pie frente a la nevera: todo eso puede ser una forma de glorificar a Dios en tu cuerpo. Y también lo es ir al médico cuando hace falta y seguir su tratamiento.",
+      "A veces pensamos que lo espiritual es solo lo invisible: el alma, la oración, los pensamientos. Pero Pablo pregunta: «¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo?». El cuerpo que cada mañana se levanta con cansancio, con el que cargas las bolsas del mercado y abrazas a los tuyos, es un lugar donde Dios habita.",
+      "Cuidarlo no es vanidad ni obsesión por la apariencia. Es gratitud. Dormir un poco más cuando llevas semanas trasnochando, tomar agua, caminar un rato, comer en la mesa en lugar de picar de pie frente a la nevera: todo eso puede ser una forma de glorificar a Dios en tu cuerpo. Y también lo es ir al médico cuando hace falta y seguir su tratamiento.",
       "Desde el Día 11, las tareas de la casa pueden ser un rato con Dios. Hoy esa misma idea llega al cuerpo. No se trata de empezar un plan exigente ni de sentir culpa por lo que no haces; se trata de ofrecerle a Dios un cuidado pequeño, con alegría, como quien limpia con cariño la casa de alguien a quien ama."
     ],
     "tarea": "Elige un cuidado sencillo para hoy (acostarte treinta minutos antes, tomar más agua, caminar diez minutos orando) y, antes de hacerlo, ofrécelo a Dios con una frase: «Esto lo hago para honrarte».",
     "practica": [
-      "Come al menos una comida del día sentado, sin pantalla y dando gracias antes de empezar.",
+      "Come al menos una comida del día en la mesa, sin pantalla y dando gracias antes de empezar.",
       "Si notas tensión en el cuerpo, detente, relaja los hombros, respira hondo tres veces y di tu oración de una frase.",
       "Esta noche deja el celular lejos de la cama para descansar mejor."
     ],
@@ -1203,7 +1203,7 @@ export const DAYS: LessonContent[] = [
     "tarea": "Deja de seguir o silencia tres cuentas, canales o grupos que te alejan de la paz de Dios, o pon un límite de tiempo diario a una aplicación desde la configuración del celular.",
     "practica": [
       "Antes de abrir un video o una red social, pregúntate: «¿Esto me acerca o me aleja de la paz de Dios?».",
-      "Si un contenido te deja inquieto, envidioso o irritado, ciérralo en ese momento sin terminar de verlo.",
+      "Si un contenido te deja inquietud, envidia o irritación, ciérralo en ese momento sin terminar de verlo.",
       "Cambia hoy un rato de pantalla por leer un salmo o conversar con alguien de tu casa."
     ],
     "meditar": "¿Qué estás dejando entrar por tus ojos que después sale en tu manera de hablar o de sentir?"
@@ -1216,12 +1216,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "De los nueve sabores del fruto que memorizaste el Día 58, el primero es el amor. Y Pablo lo baja a tierra con palabras muy concretas: «El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece». Sufrido quiere decir paciente, capaz de aguantar sin estallar; benigno quiere decir amable.",
       "Este amor no se prueba en las grandes declaraciones, sino en la fila del banco que no avanza, en el adolescente que contesta mal, en el compañero de trabajo que siempre se lleva el mérito, en la madre anciana que repite la misma pregunta por cuarta vez. Ahí se nota si el amor es un sentimiento bonito o un fruto real.",
-      "Hoy harás un ejercicio que suele sorprender: leer el versículo poniendo tu nombre donde dice «el amor». «Marta es sufrida, es benigna…». Seguramente te quedarás corto en alguna frase, y está bien. No es para acusarte, sino para mostrarte hacia dónde quiere llevarte el Espíritu. Elige una sola de esas frases y vívela con una persona concreta."
+      "Hoy harás un ejercicio que suele sorprender: leer el versículo poniendo tu nombre donde dice «el amor». «Marta es sufrida, es benigna…». Seguramente alguna frase te quedará grande, y está bien. No es para acusarte, sino para mostrarte hacia dónde quiere llevarte el Espíritu. Elige una sola de esas frases y vívela con una persona concreta."
     ],
     "tarea": "Lee 1 Corintios 13:4 en voz alta poniendo tu nombre donde dice «el amor». Elige la frase que más te cueste y decide con qué persona concreta la vas a vivir hoy.",
     "practica": [
       "Cuando esa persona te haga perder la paciencia, respira y responde con una frase amable en lugar de la cortante.",
-      "Si hoy sientes envidia de alguien, bendícelo en silencio por su nombre.",
+      "Si hoy sientes envidia de alguien, bendice en silencio a esa persona por su nombre.",
       "En una conversación, pregunta primero por los logros o las noticias del otro antes de contar los tuyos."
     ],
     "meditar": "¿Con quién te cuesta más que tu amor sea paciente y amable?"
@@ -1240,7 +1240,7 @@ export const DAYS: LessonContent[] = [
     "practica": [
       "Antes de una decisión de hoy, por pequeña que sea, pregunta: «Señor, ¿qué te agradaría aquí?».",
       "Si alguien se equivoca contigo, respóndele con la misma misericordia que te gustaría recibir.",
-      "Pide consejo a alguien sobre un asunto en el que normalmente decidirías solo."
+      "Pide consejo a alguien sobre un asunto en el que normalmente decidirías sin consultar a nadie."
     ],
     "meditar": "¿Cuál de las tres cosas que pide Miqueas te resulta más difícil de vivir en esta etapa?"
   },
@@ -1324,9 +1324,9 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hay un servicio que se ve y otro que no. El que se ve es bueno; el que no se ve tiene algo especial: nadie te aplaude, nadie lo agradece, y justamente por eso va limpiando el corazón. Pablo lo dice así: «no uséis la libertad como ocasión para la carne, sino servíos por amor los unos a los otros».",
       "En casa casi siempre hay alguien que hace las tareas invisibles: quien saca la basura, quien lava el baño, quien se acuerda de comprar el papel higiénico, quien plancha la camisa para la reunión. Hoy tomarás una de esas tareas que normalmente hace otra persona y la harás sin decir nada. Sin avisar, sin dejar pistas, sin esperar un «gracias».",
-      "Desde el Día 11 haces algunas tareas de la casa en el nombre de Jesús. Hoy das un giro: la tarea no es solo con Él, sino por amor a otro, y en secreto. Si vives solo, busca a un vecino, a un compañero o a un familiar a quien puedas servir sin que sepa que fuiste tú. Y si te descubren, sonríe y no le des importancia. El Padre, que ve en lo secreto, lo sabe."
+      "Desde el Día 11 haces algunas tareas de la casa en el nombre de Jesús. Hoy das un giro: la tarea no es solo con Él, sino por amor a otro, y en secreto. Si no vives con nadie, busca a un vecino, a un compañero o a un familiar a quien puedas servir sin que sepa que fuiste tú. Y si te descubren, sonríe y no le des importancia. El Padre, que ve en lo secreto, lo sabe."
     ],
-    "tarea": "Haz hoy una tarea de la casa que normalmente hace otra persona, sin decir nada ni esperar agradecimiento. Si vives solo, haz un servicio escondido para un vecino, un compañero o un familiar.",
+    "tarea": "Haz hoy una tarea de la casa que normalmente hace otra persona, sin decir nada ni esperar agradecimiento. Si no vives con nadie, haz un servicio escondido para un vecino, un compañero o un familiar.",
     "practica": [
       "Si nadie nota lo que hiciste, resiste las ganas de mencionarlo y di en tu interior: «Esto fue para ti, Señor».",
       "Haz una segunda cosa pequeña por alguien sin que te la pida: servir el agua, recoger un plato, cargar una bolsa.",
@@ -1378,7 +1378,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Día de reposo y repaso. Los primeros cristianos no tenían planes de lectura en el celular, pero tenían algo que los sostenía: «perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones». La Palabra, la amistad, la mesa y la oración. Y lo hacían juntos.",
       "Mira esta semana sin prisa: convertiste tu gratitud en adoración, alabaste en voz alta, nombraste tus dones, serviste en lo escondido, escuchaste la carga de uno de tus cinco nombres, animaste a alguien. Si algo quedó sin hacer, no es un fracaso; es parte del camino. Recita Gálatas 6:2 y descansa: Dios no te pide perfección, sino un corazón que sigue.",
-      "Faltan menos de dos semanas para el Día 90, y hay una pregunta importante: ¿con quién vas a seguir caminando después? Perseverar es mucho más fácil acompañado. Piensa en una persona (un familiar, una amiga, alguien de tu comunidad) con quien podrías compartir lo que Dios está haciendo, orar de vez en cuando y animarse mutuamente. Por ahora solo piensa en ella y ora; todavía no hace falta decirle nada."
+      "Faltan menos de dos semanas para el Día 90, y hay una pregunta importante: ¿con quién vas a seguir caminando después? Perseverar es mucho más fácil en compañía. Piensa en una persona (un familiar, una amiga, alguien de tu comunidad) con quien podrías compartir lo que Dios está haciendo, orar de vez en cuando y animarse mutuamente. Por ahora solo piensa en ella y ora; todavía no hace falta decirle nada."
     ],
     "tarea": "Repasa la semana en tu cuaderno, recita Gálatas 6:2 y escribe el nombre de una persona que podría ser tu «compañero de camino» después del Día 90. Ora por ella.",
     "practica": [
@@ -1414,7 +1414,7 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Jesús hizo una promesa muy sencilla: «donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos». No habló de multitudes ni de templos grandes. Habló de dos o tres. Una madre y su hija en la cocina. Dos amigas en una videollamada. Un matrimonio antes de dormir.",
       "Orar con otro suele dar un poco de vergüenza al principio: ¿y si no sé qué decir?, ¿y si me trabo? Pero algo pasa cuando dos personas presentan juntas su vida a Dios. La carga se reparte, la fe de uno sostiene la del otro, y los dos salen más fuertes. No hace falta una oración larga: tres minutos, con una frase cada uno, bastan.",
-      "El Día 26 empezaste a orar en casa, en la mesa o con un audio. Y el Día 75 escuchaste la carga de uno de tus cinco nombres del Día 18. Quizá hoy puedes dar el paso de orar con esa persona, por teléfono o en persona. Si no es posible, ora con alguien de tu casa. Lo importante es que esta vez no lo hagas solo."
+      "El Día 26 empezaste a orar en casa, en la mesa o con un audio. Y el Día 75 escuchaste la carga de uno de tus cinco nombres del Día 18. Quizá hoy puedes dar el paso de orar con esa persona, por teléfono o en persona. Si no es posible, ora con alguien de tu casa. Lo importante es que esta vez no lo hagas a solas."
     ],
     "tarea": "Ora tres minutos con alguien: en casa, por llamada o por videollamada, quizá con uno de tus cinco nombres o con la persona que anotaste el Día 77. Si les cuesta, que cada uno diga solo una frase de gratitud y una de petición.",
     "practica": [
@@ -1431,12 +1431,12 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Pablo dice que Dios «nos consuela en todas nuestras tribulaciones, para que podamos también nosotros consolar a los que están en cualquier tribulación». El consuelo que recibes no termina en ti. Es como el agua que cae en un vaso lleno: rebosa y moja lo que está cerca.",
-      "Vuelve con la memoria a la fase de la tormenta, del Día 43 al 56. Pusiste nombre a tu agua o a tu fuego, escribiste un salmo de lamento, volviste a tus piedras de memoria, descubriste que la gracia de Dios basta en la debilidad. Aquello que te dolió, y quizá todavía duele, se ha convertido en algo que otros necesitan: la experiencia de haber sido sostenido.",
-      "Quien perdió a su mamá entiende como nadie a otro que acaba de perder a la suya. Quien salió de una deuda, de una depresión o de un divorcio tiene palabras que ningún libro tiene. Hoy piensa en alguien que atraviesa algo que tú viviste y escríbele. No le expliques por qué pasa; cuéntale con sencillez cómo Dios te sostuvo y ofrécele tu compañía. Y si esa persona está muy mal, anímala también a buscar a un pastor o a un profesional."
+      "Vuelve con la memoria a la fase de la tormenta, del Día 43 al 56. Pusiste nombre a tu agua o a tu fuego, escribiste un salmo de lamento, volviste a tus piedras de memoria, descubriste que la gracia de Dios basta en la debilidad. Aquello que te dolió, y quizá todavía duele, se ha convertido en algo que otros necesitan: la experiencia de que Dios sostiene.",
+      "Quien perdió a su mamá entiende como nadie a otro que acaba de perder a la suya. Quien salió de una deuda, de una depresión o de un divorcio tiene palabras que ningún libro tiene. Hoy piensa en alguien que atraviesa algo que tú viviste y escríbele. No le expliques por qué pasa; cuéntale con sencillez cómo Dios te sostuvo y ofrécele tu compañía. Y si esa persona está muy mal, anímala también a buscar a un pastor, a un sacerdote o a alguien de confianza en su comunidad de fe, o a un profesional."
     ],
-    "tarea": "Escribe un mensaje breve a alguien que está pasando por algo que tú viviste. Cuéntale en pocas frases cómo Dios te sostuvo y dile que estás ahí para escucharle.",
+    "tarea": "Escribe un mensaje breve a alguien que está pasando por algo que tú viviste. Cuéntale en pocas frases cómo Dios te sostuvo y dile que estás ahí para escuchar.",
     "practica": [
-      "Evita frases como «sé exactamente lo que sientes»; mejor di: «Yo pasé por algo parecido y no estuve solo».",
+      "Evita frases como «sé exactamente lo que sientes»; mejor di: «Yo pasé por algo parecido y Dios me acompañó».",
       "Si la persona responde, escucha más de lo que hablas y no te apures a dar soluciones.",
       "Esta noche, en tu examen, da gracias porque tu dolor ha servido para acompañar a alguien."
     ],
@@ -1449,7 +1449,7 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "En una de sus últimas enseñanzas, Jesús habla de un Rey que dice: «en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis». Los que dieron de comer al hambriento y visitaron al enfermo ni siquiera sabían que estaban sirviendo al Rey. Solo vieron a alguien que necesitaba algo.",
-      "Cerca de ti hay personas a quienes casi nadie visita: el adulto mayor que vive solo en tu calle, la tía enferma que ya no sale, el vecino que perdió a su esposa, alguien de tus cinco nombres que quedó un poco olvidado. No pueden devolverte el favor, invitarte a nada ni hablar bien de ti en ningún lado. Precisamente por eso servirles se parece tanto a Jesús.",
+      "Cerca de ti hay personas a quienes casi nadie visita: el adulto mayor que vive solo en tu calle, la tía enferma que ya no sale, el vecino que perdió a su esposa, alguien de tus cinco nombres que quedó un poco olvidado. No pueden devolverte el favor, invitarte a nada ni hablar bien de ti en ningún lado. Precisamente por eso servirlas se parece tanto a Jesús.",
       "Hoy harás un gesto sencillo por una de esas personas: una llamada de diez minutos, ayudar con las bolsas, llevar un plato de la comida de casa, sentarte un rato a escuchar. Mientras lo haces, recuerda quién te está esperando detrás de ese rostro."
     ],
     "tarea": "Haz un gesto sencillo por alguien olvidado o solo: llamar a un adulto mayor, ayudar a un vecino con una tarea o visitar a alguien enfermo en casa. Si es uno de tus cinco nombres, mejor aún.",
@@ -1504,9 +1504,9 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "«¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía!». Hace doce semanas este camino empezó a solas, en un rincón, con una carta cerrada y una mirada honesta al corazón. Hoy, en el último día de reposo del plan, puedes ver algo que quizá no esperabas: tu vida con Dios se ha vuelto también vida con otros.",
       "Piensa en tus cinco nombres. El Día 18 los escribiste y oraste un minuto por cada uno. El Día 24 oraste la Escritura sobre ellos. El Día 75 escuchaste la carga de uno, el Día 79 tal vez oraste con alguno y el Día 81 quizá serviste a otro. Puede que algo haya cambiado en sus vidas; puede que lo que más cambió sea tu manera de mirarlos. Las dos cosas son obra de Dios.",
-      "Hoy no se agrega nada nuevo: solo escribir lo que pasó, dar gracias y descansar. Si con alguno no pudiste avanzar, no te culpes; la oración sigue abierta y el amor no tiene fecha de cierre. Recita Gálatas 6:2 y disfruta de esa bondad que el salmo llama deliciosa: la de no caminar solo."
+      "Hoy no se agrega nada nuevo: solo escribir lo que pasó, dar gracias y descansar. Si con alguno no pudiste avanzar, no te culpes; la oración sigue abierta y el amor no tiene fecha de cierre. Recita Gálatas 6:2 y disfruta de esa bondad que el salmo llama deliciosa: la de no caminar a solas."
     ],
-    "tarea": "Escribe, junto a cada uno de tus cinco nombres, qué pasó durante el plan: cómo oraste, cómo le serviste, qué cambió en esa persona o en ti. Da gracias por cada uno y recita Gálatas 6:2.",
+    "tarea": "Escribe, junto a cada uno de tus cinco nombres, qué pasó durante el plan: cómo oraste, en qué serviste, qué cambió en esa persona o en ti. Da gracias por cada uno y recita Gálatas 6:2.",
     "practica": [
       "Envía a uno de tus cinco nombres un mensaje sencillo de cariño, sin ningún motivo especial.",
       "Si hoy hay tensión con alguien de tu familia o de tu comunidad, da tú el primer paso hacia la paz con un gesto amable.",
@@ -1539,13 +1539,13 @@ export const DAYS: LessonContent[] = [
     },
     "resumen": [
       "Todo agricultor sabe que entre la siembra y la cosecha hay semanas en que parece que no pasa nada. La tentación es rendirse justo antes de que brote. Pablo anima a seguir: «No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos».",
-      "Hay un error común al terminar un plan: querer mantenerlo todo, cada hábito, cada minuto, y acabar agotado y abandonándolo todo al mes. Es mejor sostener pocos hábitos durante años que muchos durante semanas. La perseverancia se construye con lo pequeño y posible, no con promesas enormes.",
+      "Hay un error común al terminar un plan: querer mantenerlo todo, cada hábito, cada minuto, y terminar sin fuerzas, abandonándolo todo al mes. Es mejor sostener pocos hábitos durante años que muchos durante semanas. La perseverancia se construye con lo pequeño y posible, no con promesas enormes.",
       "Vuelve a tu rama de los Días 57 y 70. Mira todas las hojas: el rincón, la oración de una frase, la lectura corta, la gratitud, el examen, el silencio, la alabanza, el servicio. Todas son buenas, pero hoy vas a elegir solo tres que mantendrás sí o sí. Y les darás un cuándo y un dónde, porque un hábito sin hora y sin lugar se queda en buena intención. Los demás no se pierden: podrás retomarlos cuando estos tres ya caminen solos."
     ],
     "tarea": "De todos los hábitos del plan, elige los tres que vas a mantener sí o sí después del Día 90. Escribe para cada uno cuándo y dónde lo harás (por ejemplo: «Lectura corta, 6:30 a. m., en la silla de la cocina»).",
     "practica": [
       "Practica hoy los tres hábitos elegidos exactamente a la hora y en el lugar que escribiste.",
-      "Si te sientes cansado de hacer el bien, repite en voz baja: «A su tiempo segaremos».",
+      "Si te cansas de hacer el bien, repite en voz baja: «A su tiempo segaremos».",
       "Sigue haciendo un bien pequeño que venías sosteniendo, aunque hoy no veas resultados."
     ],
     "meditar": "¿Qué hábito, si lo sostienes durante años, cambiaría más tu vida con Dios?"
@@ -1566,7 +1566,7 @@ export const DAYS: LessonContent[] = [
       "Si algo de la regla no encaja con tu día real, ajústalo esta noche sin culpa.",
       "Toma una foto de tu regla de vida y guárdala en el celular para releerla cada semana en tu día de repaso."
     ],
-    "meditar": "¿Qué ritmo con Dios quieres que te encuentre firme cuando llegue un día difícil?"
+    "meditar": "¿Qué ritmo con Dios quieres que te sostenga cuando llegue un día difícil?"
   },
   {
     "versiculo": {
@@ -1612,12 +1612,12 @@ export const DAYS: LessonContent[] = [
     "resumen": [
       "Hoy, por fin, abres la carta. Hace noventa días, en el Día 1, le escribiste a tu «yo del Día 90» lo que esperabas y lo que te costaba, y la guardaste sin releerla. Esa persona que escribía con honestidad, quizá cansada, quizá con miedo de abandonar otro plan más, hoy te habla. Léela despacio. Tal vez sonrías, tal vez llores. Algunas cosas habrán cambiado mucho y otras apenas empiezan. Todo es parte de la misma obra.",
       "Pablo dice que, mirando la gloria del Señor, «somos transformados de gloria en gloria en la misma imagen». Fíjate en el verbo: somos transformados, ahora, sin parar. No dice «fuimos». La transformación no termina hoy. El Día 45 lo recordaste con Filipenses 1:6: el que comenzó en ti la buena obra la perfeccionará. Estos noventa días fueron un tramo del camino, y Él no ha dejado de trabajar en ti.",
-      "Por eso hoy no es un final, sino un envío. Mañana volverás a tu rincón y a tu hora, con tu regla de vida en la mano, tus cinco nombres en el corazón y un cuaderno lleno de gratitudes y piedras de memoria. Seguirás mirando a Jesús, y mientras lo miras, Él te irá haciendo cada día más parecido a Él. Ve en paz. No vas solo."
+      "Por eso hoy no es un final, sino un envío. Mañana volverás a tu rincón y a tu hora, con tu regla de vida en la mano, tus cinco nombres en el corazón y un cuaderno lleno de gratitudes y piedras de memoria. Seguirás mirando a Jesús, y mientras lo miras, Él te irá transformando cada día a su imagen. Ve en paz. No caminas sin compañía."
     ],
     "tarea": "Abre y lee la carta del Día 1. Debajo, escribe una respuesta a tu «yo» de entonces: qué cambió, qué sigue en camino y qué quieres decirle. Termina leyendo tu regla de vida en voz alta, como oración de gratitud y de nueva entrega, y guarda la carta junto a ella en tu rincón.",
     "practica": [
       "Abre tu lista de gratitud del Día 10 en cualquier página y lee cinco en voz alta: eran días comunes, y Dios estaba en ellos.",
-      "Envía hoy un mensaje a tu compañero de camino para contarle que terminaste y proponerle orar juntos esta semana.",
+      "Envía hoy un mensaje a tu compañero de camino para contarle que terminaste y proponerle compartir un rato de oración esta semana.",
       "Antes de dormir, en tu examen de la noche, entrégale a Dios lo que viene con tus palabras: «Lo que empezaste, sigue haciéndolo. Aquí estoy»."
     ],
     "meditar": "¿Qué ves hoy de Jesús que no veías el Día 1?"
