@@ -101,9 +101,9 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
       'Entiendo perfectamente que {from} puede parecer mucho en este momento, especialmente después de acabar de adquirir el Resumen Cronológico de la Biblia.',
       'Pero creo de verdad que la Palabra se graba más hondo cuando **también la escuchas**, en esos momentos del día en que no puedes sentarte a leer.',
       'Por eso, voy a hacer algo que **solo ofrezco en esta página**:',
-      'Voy a darte acceso al **Resumen Cronológico en Audio** con un descuento del 50%.',
+      'Voy a darte acceso al **Resumen Cronológico en Audio** con un descuento del {pct}%.',
     ],
-    accept: 'Sí, quiero el audio con 50% de descuento',
+    accept: 'Realmente quiero escuchar audio todos los días',
     decline: 'No, gracias. Continuar sin el audio',
     next: '/palabras-del-Senor',
   },
@@ -125,9 +125,9 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
       'Entiendo perfectamente que {from} puede parecer mucho en este momento, especialmente después de acabar de adquirir el Resumen Cronológico de la Biblia.',
       'Pero creo de verdad que el potencial total de nuestro material solo se alcanza cuando **pones en práctica** todo lo que aprendes en él.',
       'Por eso, voy a hacer algo que **solo ofrezco en esta página**:',
-      'Voy a darte acceso a **Palabras del Señor** con un descuento del 50%.',
+      'Voy a darte acceso a **Palabras del Señor** con un descuento del {pct}%.',
     ],
-    accept: 'Sí, quiero Palabras del Señor con 50% de descuento',
+    accept: 'Sí, quiero Palabras del Señor con {pct}% de descuento',
     decline: 'No, gracias. Terminar mi pedido',
     next: '/bienvenido',
   },
@@ -136,11 +136,13 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
 const TEXT = {
   notice: '¡No cierres la página: compra en proceso!',
   lastChance: '¡Última oportunidad!',
-  discount: '¡50% de descuento!',
+  discount: '¡{pct}% de descuento!',
   receive: 'Vas a recibir todo:',
   from: 'de',
   for: 'por',
-  sameCard: 'Se añade a tu compra con el mismo método de pago, sin volver a escribir tus datos.',
+  perMonth: '/mes',
+  /** Every offer is a monthly subscription: said right under the button. */
+  sameCard: 'Suscripción mensual de {price} al mes, con el mismo método de pago y sin volver a escribir tus datos.',
   error: 'No pudimos conectar con el pago. No se cobró nada: recarga la página e inténtalo de nuevo.',
   unavailable: 'Esta oferta no está disponible en este momento.',
   ps: 'Esta es una oportunidad exclusiva, válida solo ahora en esta página: esta condición no volverá a estar disponible para ti.',
@@ -185,6 +187,13 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
   const revealed = videoRevealed || !hasVideo
   const [failed, setFailed] = useState(false)
   const checkout = validUpsellUrl(config.checkoutUrl)
+  // Downsell discount from the real prices, so the text can never disagree with them.
+  const pct = config.priceFrom > config.price ? Math.round((1 - config.price / config.priceFrom) * 100) : 0
+  const fill = (text: string) =>
+    text
+      .replace('{pct}', String(pct))
+      .replace('{from}', `${formatUsd(config.priceFrom)} al mes`)
+      .replace('{price}', formatUsd(config.price))
 
   useEffect(() => {
     initPixel()
@@ -219,6 +228,7 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
             config.priceFrom > config.price && (
               <p className="text-[18px] font-semibold text-danger line-through">
                 {TEXT.from} {formatUsd(config.priceFrom)}
+                {TEXT.perMonth}
               </p>
             )
           ) : (
@@ -228,12 +238,13 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
             <p className="font-serif text-[36px] font-bold leading-tight text-ink">
               {copy.kind === 'downsell' && <span className="text-[22px] font-semibold">{TEXT.for} </span>}
               {formatUsd(config.price)}
+              <span className="text-[19px] font-semibold text-text">{TEXT.perMonth}</span>
             </p>
           )}
           <button type="button" onClick={accept} className={`${buttonClass.primary} mt-3 min-h-14 text-[17px]`}>
-            {copy.accept}
+            {fill(copy.accept)}
           </button>
-          <p className="mt-3 text-[14px] leading-snug text-muted">{TEXT.sameCard}</p>
+          {config.price > 0 && <p className="mt-3 text-[14px] leading-snug text-muted">{fill(TEXT.sameCard)}</p>}
           {failed && (
             <p role="alert" className="mt-3 text-[14.5px] font-medium text-danger">
               {TEXT.error}
@@ -299,11 +310,11 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
             <Icon name="alert" className="size-5 shrink-0" />
             {TEXT.lastChance}
           </p>
-          <h1 className="mt-1 font-serif text-[32px] font-semibold leading-tight text-primary">{TEXT.discount}</h1>
+          <h1 className="mt-1 font-serif text-[32px] font-semibold leading-tight text-primary">{fill(TEXT.discount)}</h1>
           <div className="mx-auto mt-4 max-w-md space-y-3 text-[16.5px] leading-relaxed text-text">
             {copy.paragraphs.map((p) => (
               <p key={p}>
-                <Rich text={p.replace('{from}', formatUsd(config.priceFrom))} />
+                <Rich text={fill(p)} />
               </p>
             ))}
           </div>

@@ -72,7 +72,8 @@ export const FUNNEL = {
   } satisfies OneClickOffer,
   /** Downsell of upsell 1 — the audio at half price. */
   down1: {
-    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN1_URL || '',
+    // Downsell step of "Upsell 1" in the KashPay flow.
+    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN1_URL || 'https://checkout.kashpay.com.br/u/73fdbe235dce3d10',
     price: num(process.env.NEXT_PUBLIC_PRICE_DOWN1, 8.5),
     priceFrom: num(process.env.NEXT_PUBLIC_PRICE_UP1, 17),
     video: noVideo(),
