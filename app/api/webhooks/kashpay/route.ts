@@ -11,8 +11,6 @@ import { checkSignature, parseEvent } from '@/lib/server/kashpay'
 
 export const dynamic = 'force-dynamic'
 
-const MONTH_MS = 31 * 86_400_000
-
 const STATUS: Record<string, 'active' | 'past_due' | 'canceled' | 'refunded'> = {
   'order.paid': 'active',
   'subscription.created': 'active',
@@ -44,7 +42,7 @@ export async function POST(request: Request) {
   if (!status) note = 'stored only'
   else if (signatureOk === false) note = 'signature mismatch: not applied'
   else if (!parsed.email) note = 'no e-mail found: not applied'
-  else if (!parsed.offer) note = 'unknown product: not applied'
+  else if (!parsed.offers.length) note = 'unknown product: not applied'
 
   const { data: stored, error: storeError } = await db()
     .from('kashpay_events')
@@ -57,32 +55,60 @@ export async function POST(request: Request) {
     return Response.json({ ok: false }, { status: 500 })
   }
 
-  if (!note && status && parsed.email && parsed.offer) {
-    const periodEnd =
-      status === 'active' ? (parsed.periodEnd ?? new Date(Date.now() + MONTH_MS).toISOString()) : parsed.periodEnd
-    const row: Record<string, unknown> = {
-      email: parsed.email,
-      offer: parsed.offer,
-      status,
-      product: parsed.product,
-      source: 'kashpay',
-      updated_at: new Date().toISOString(),
-    }
-    // Keep the known paid-until date when the event doesn't bring one; a cancellation
-    // or failure for someone with no row yet must not open anything (end = now).
-    if (periodEnd) row.current_period_end = periodEnd
-    else {
-      const { data: existing } = await db().from('entitlements').select('email').eq('email', parsed.email).eq('offer', parsed.offer).maybeSingle()
-      if (!existing) row.current_period_end = new Date().toISOString()
-    }
-    const { error } = await db().from('entitlements').upsert(row, { onConflict: 'email,offer' })
-    await db()
-      .from('kashpay_events')
-      .update({ processed: !error, note: error ? `apply failed: ${error.message}` : `applied: ${parsed.offer} ${status}` })
-      .eq('id', stored.id)
+  if (!note && status && parsed.email && parsed.offers.length) {
+    const results: string[] = []
+    for (const offer of parsed.offers) results.push(await apply(parsed.email, offer, status, parsed))
+    await db().from('kashpay_events').update({ processed: true, note: results.join(' · ') }).eq('id', stored.id)
   }
 
   return Response.json({ ok: true })
+}
+
+/**
+ * Applies one event to one offer. Paid time never shrinks because of another product:
+ * someone who moved to the annual plan and then has their old monthly cancelled or
+ * refunded keeps the year they paid for.
+ */
+async function apply(email: string, offer: string, status: 'active' | 'past_due' | 'canceled' | 'refunded', parsed: ReturnType<typeof parseEvent>): Promise<string> {
+  const { data: existing } = await db()
+    .from('entitlements')
+    .select('status, current_period_end, product')
+    .eq('email', email)
+    .eq('offer', offer)
+    .maybeSingle()
+  const existingEnd = existing?.current_period_end ? Date.parse(existing.current_period_end) : 0
+  const otherProduct = existing?.product && parsed.product && existing.product !== parsed.product
+
+  if (status !== 'active' && otherProduct && existing?.status === 'active' && existingEnd > Date.now()) {
+    return `${offer}: kept (paid by ${existing.product})`
+  }
+
+  let end: number | null
+  if (status === 'active') {
+    const paidUntil = parsed.periodEnd ? Date.parse(parsed.periodEnd) : Date.now() + (parsed.days || 31) * 86_400_000
+    end = Math.max(paidUntil, existingEnd) // a renewal or an annual never shortens access
+  } else if (parsed.periodEnd) {
+    end = Date.parse(parsed.periodEnd)
+  } else {
+    // No date: keep what was paid; with nothing paid before, nothing opens (end = now).
+    end = existing ? (existingEnd || null) : Date.now()
+  }
+
+  const { error } = await db()
+    .from('entitlements')
+    .upsert(
+      {
+        email,
+        offer,
+        status,
+        product: status === 'active' ? parsed.product : (existing?.product ?? parsed.product),
+        source: 'kashpay',
+        current_period_end: end ? new Date(end).toISOString() : null,
+        updated_at: new Date().toISOString(),
+      },
+      { onConflict: 'email,offer' },
+    )
+  return error ? `${offer}: apply failed (${error.message})` : `${offer}: ${status}`
 }
 
 /** Lets a browser (or KashPay's URL check) see the endpoint is alive. */

@@ -59,6 +59,17 @@ export const CONSEJERO = {
   fullCheckoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL2_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790361317561',
 } as const
 
+/**
+ * The annual plan: everything (front + upsell 1 + upsell 2) for a year, sold only inside
+ * the app. The comparison uses the real monthly prices of the three subscriptions.
+ */
+export const ANUAL = {
+  price: 99,
+  monthly: { front: 11.9, upsell1: 4.9, upsell2: 9.9 },
+  /** KashPay checkout of the annual product (name must contain "Anual"). Empty → "Disponible pronto". */
+  checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_ANUAL_URL || '',
+} as const
+
 /** What each action is worth. Shown to members, so keep it simple. */
 export const POINTS = { lesson: 10, reflection: 5, post: 3 } as const
 

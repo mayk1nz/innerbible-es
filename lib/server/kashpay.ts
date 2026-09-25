@@ -8,11 +8,16 @@ import type { OfferId } from '../catalog'
 
 type Json = null | boolean | number | string | Json[] | { [key: string]: Json }
 
-/** Product name in KashPay → the offer it unlocks (most specific first). */
-const PRODUCT_RULES: { match: RegExp; offer: OfferId }[] = [
-  { match: /palabras del se(n|ñ)or|hacedores/i, offer: 'upsell2' },
-  { match: /audio/i, offer: 'upsell1' },
-  { match: /resumen cronol(o|ó)gico|cronolog(i|í)a b(i|í)blica/i, offer: 'front' },
+/**
+ * Product name in KashPay → what it unlocks (most specific first). The annual plan
+ * ("…Anual…") opens the three offers for a year.
+ */
+const PRODUCT_RULES: { match: RegExp; offers: OfferId[]; days?: number }[] = [
+  { match: /anual|annual|12 meses/i, offers: ['front', 'upsell1', 'upsell2'], days: 366 },
+  { match: /palabras del se(n|ñ)or|hacedores/i, offers: ['upsell2'] },
+  { match: /audio/i, offers: ['upsell1'] },
+  // The front is "Estudio Cronológico de la Biblia" in KashPay (also accept the app's name).
+  { match: /(resumen|estudio) cronol(o|ó)gico|cronolog(i|í)a b(i|í)blica|la biblia interior/i, offers: ['front'] },
 ]
 
 function walk(node: Json, visit: (key: string, value: Json, path: string) => void, path = ''): void {
@@ -29,7 +34,10 @@ export interface ParsedEvent {
   event: string
   email: string | null
   product: string | null
-  offer: OfferId | null
+  /** Offers this product opens (empty = not one of ours). */
+  offers: OfferId[]
+  /** How long a payment opens them when the event carries no date (default: a month). */
+  days: number
   periodEnd: string | null
 }
 
@@ -50,7 +58,7 @@ export function parseEvent(payload: Json): ParsedEvent {
   // Fallback: a product name anywhere in the payload.
   const haystack = productNames.length ? productNames.join(' | ') : JSON.stringify(payload)
   const rule = PRODUCT_RULES.find((r) => r.match.test(haystack))
-  return { event, email, product: productNames[0] ?? null, offer: rule?.offer ?? null, periodEnd }
+  return { event, email, product: productNames[0] ?? null, offers: rule?.offers ?? [], days: rule?.days ?? 31, periodEnd }
 }
 
 /**

@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { OfferCard } from '../cards'
+import { AnualCard } from './AnualView'
 import { PageHeader } from '../PageHeader'
 import { EmptyState, buttonClass } from '../ui'
 import { OFFERS } from '@/lib/catalog'
@@ -27,6 +28,7 @@ export function StoreView() {
         />
       ) : (
         <div className="space-y-6">
+          <AnualCard />
           {pending.map((o) => (
             <OfferCard key={o.id} offer={o} email={s.session?.email} />
           ))}

@@ -4,6 +4,7 @@ import { useEffect, type ReactNode } from 'react'
 import { useRouter } from 'next/navigation'
 import { BottomNav } from './BottomNav'
 import { BrandMark } from './ui'
+import { AnualBar } from './views/AnualView'
 import type { OfferId } from '@/lib/catalog'
 import { setMember, signOut, useAppState, useHydrated } from '@/lib/store'
 
@@ -59,7 +60,10 @@ export function AppShell({ children }: { children: ReactNode }) {
 
   return (
     <>
-      <main className="mx-auto w-full max-w-[480px] px-5 pb-36 pt-[max(env(safe-area-inset-top),24px)]">{children}</main>
+      <main className="mx-auto w-full max-w-[480px] px-5 pb-36 pt-[max(env(safe-area-inset-top),24px)]">
+        <AnualBar />
+        {children}
+      </main>
       <BottomNav />
     </>
   )
