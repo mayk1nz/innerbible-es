@@ -20,7 +20,11 @@ export async function POST(request: Request) {
   } catch {
     // not JSON: keep the text as it came
   }
-  console.log('kashpay-webhook', JSON.stringify({ receivedAt: new Date().toISOString(), headers, body }))
+  const event = JSON.stringify({ receivedAt: new Date().toISOString(), headers, body })
+  console.log('kashpay-webhook', event)
+  // The log viewer folds JSON into "{…}"; this plain base64 line is never folded, so
+  // it can be copied whole.
+  console.log(`kashpay-webhook-b64 ${Buffer.from(event).toString('base64')}`)
   return Response.json({ ok: true })
 }
 
