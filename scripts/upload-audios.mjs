@@ -22,28 +22,36 @@ if (!folder) {
   process.exit(1)
 }
 
+// Same as slugify in lib/text.ts (lesson ids).
 const slugify = (s) =>
-  s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+  s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').replace(/Ł/g, 'L').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
 
-/** The lesson ids of the product, read from lib/catalog.ts (the single source). */
+/**
+ * The lesson ids of the product, read from lib/catalog.ts (the single source): every
+ * audioLessons('<product>', [...titles] | LIST) call, in order.
+ */
 function expectedIds() {
   if (product === 'plan-escucha') return Array.from({ length: 30 }, (_, i) => `dia-${i + 1}`)
   const src = fs.readFileSync(path.join(ROOT, 'lib', 'catalog.ts'), 'utf8')
+  const strings = (text) => [...text.matchAll(/'((?:[^'\\]|\\.)*)'/g)].map((m) => m[1].replace(/\\'/g, "'"))
   const list = (name) => {
     const block = src.match(new RegExp(`const ${name} = \\[([\\s\\S]*?)\\]`))
     if (!block) throw new Error(`${name} not found in catalog.ts`)
-    return [...block[1].matchAll(/'([^']+)'/g)].map((m) => m[1])
+    return strings(block[1])
   }
-  return [
-    'Comienza aquí',
-    '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?',
-    ...list('OLD_TESTAMENT'),
-    ...list('NEW_TESTAMENT'),
-    'Conclusión: del Génesis al Apocalipsis',
-  ].map(slugify)
+  const titles = []
+  for (const m of src.matchAll(new RegExp(`audioLessons\\('${product}',\\s*(\\[[^\\]]*\\]|[A-Z_]+)\\)`, 'g'))) {
+    titles.push(...(m[1].startsWith('[') ? strings(m[1]) : list(m[1])))
+  }
+  if (!titles.length) throw new Error(`no audioLessons('${product}', …) in catalog.ts`)
+  return titles.map(slugify)
 }
 
-const ALIASES = { 'comienza-por-aqui': 'comienza-aqui', 'cantares': 'cantares-de-salomon', 'cantar-de-los-cantares': 'cantares-de-salomon', 'hechos': 'hechos-de-los-apostoles' }
+// Common other names of a file → the lesson id (Spanish and Polish apps).
+const ALIASES = {
+  'comienza-por-aqui': 'comienza-aqui', 'cantares': 'cantares-de-salomon', 'cantar-de-los-cantares': 'cantares-de-salomon', 'hechos': 'hechos-de-los-apostoles',
+  'genesis': 'rodzaju', 'ksiega-rodzaju': 'rodzaju', 'exodus': 'wyjscia', 'ksiega-wyjscia': 'wyjscia', 'psalmy': 'psalm', 'dzieje': 'dzieje-apostolskie', 'apokalipsa': 'objawienie',
+}
 
 const ids = new Set(expectedIds())
 function match(file) {
@@ -51,8 +59,9 @@ function match(file) {
   const base = path.parse(file).name.replace(/\s*\(\d+\)\s*$/, '')
   const tries = [base, base.replace(/^\s*\d+\s*[-._)]+\s*/, ''), base.replace(/^\s*\d+\s+/, '')]
   for (const t of tries) {
-    const id = ALIASES[slugify(t)] ?? slugify(t)
-    if (ids.has(id)) return id
+    const slug = slugify(t)
+    if (ids.has(slug)) return slug
+    if (ids.has(ALIASES[slug])) return ALIASES[slug]
   }
   return null
 }
