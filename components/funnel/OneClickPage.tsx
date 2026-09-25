@@ -127,7 +127,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
       'Por eso, voy a hacer algo que **solo ofrezco en esta página**:',
       'Voy a darte acceso a **Palabras del Señor** con un descuento del {pct}%.',
     ],
-    accept: 'Sí, quiero Palabras del Señor con {pct}% de descuento',
+    accept: 'Quiero todas las bonificaciones del Señor',
     decline: 'No, gracias. Terminar mi pedido',
     next: '/bienvenido',
   },

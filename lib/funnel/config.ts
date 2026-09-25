@@ -64,9 +64,9 @@ export const FUNNEL = {
   up1: {
     // Link of the "Upsell 1" step of the KashPay flow "palabra". The link belongs to the
     // step: whatever product/price is chosen in that step is what gets charged — it
-    // must be "Resumen Cronológico en Audio" at US$17 (it was "20 parábolas", US$37).
+    // is "Cronología Bíblica En Audio" at US$4,90/month (it was "20 parábolas", US$37).
     checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP1_URL || 'https://checkout.kashpay.com.br/u/3b7c5fb39b1a3127',
-    price: num(process.env.NEXT_PUBLIC_PRICE_UP1, 17),
+    price: num(process.env.NEXT_PUBLIC_PRICE_UP1, 4.9),
     priceFrom: 0,
     video: noVideo(process.env.NEXT_PUBLIC_VTURB_UP1_ID, process.env.NEXT_PUBLIC_VTURB_UP1_SCRIPT, process.env.NEXT_PUBLIC_VTURB_UP1_DELAY),
   } satisfies OneClickOffer,
@@ -74,8 +74,8 @@ export const FUNNEL = {
   down1: {
     // Downsell step of "Upsell 1" in the KashPay flow.
     checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN1_URL || 'https://checkout.kashpay.com.br/u/73fdbe235dce3d10',
-    price: num(process.env.NEXT_PUBLIC_PRICE_DOWN1, 8.5),
-    priceFrom: num(process.env.NEXT_PUBLIC_PRICE_UP1, 17),
+    price: num(process.env.NEXT_PUBLIC_PRICE_DOWN1, 2.45),
+    priceFrom: num(process.env.NEXT_PUBLIC_PRICE_UP1, 4.9),
     video: noVideo(),
   } satisfies OneClickOffer,
   /** Upsell 2 — Palabras del Señor. */
@@ -83,15 +83,17 @@ export const FUNNEL = {
     // Second step of the same flow: must be "Palabras del Señor" at US$27 (it was
     // "Devocional en Familia", US$49).
     checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP2_URL || 'https://checkout.kashpay.com.br/u/df227ca0ddefadfe',
-    price: num(process.env.NEXT_PUBLIC_PRICE_UP2, 27),
+    // Monthly subscription, as set in the KashPay step.
+    price: num(process.env.NEXT_PUBLIC_PRICE_UP2, 9.9),
     priceFrom: 0,
     video: noVideo(process.env.NEXT_PUBLIC_VTURB_UP2_ID, process.env.NEXT_PUBLIC_VTURB_UP2_SCRIPT, process.env.NEXT_PUBLIC_VTURB_UP2_DELAY),
   } satisfies OneClickOffer,
-  /** Downsell of upsell 2 — half price. */
+  /** Downsell of upsell 2 — about half price, monthly. */
   down2: {
-    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN2_URL || '',
-    price: num(process.env.NEXT_PUBLIC_PRICE_DOWN2, 13.5),
-    priceFrom: num(process.env.NEXT_PUBLIC_PRICE_UP2, 27),
+    // Downsell step of "Upsell 2" in the KashPay flow.
+    checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_DOWN2_URL || 'https://checkout.kashpay.com.br/u/b5a5b4606ae0bcfa',
+    price: num(process.env.NEXT_PUBLIC_PRICE_DOWN2, 4.85),
+    priceFrom: num(process.env.NEXT_PUBLIC_PRICE_UP2, 9.9),
     video: noVideo(),
   } satisfies OneClickOffer,
 } as const
