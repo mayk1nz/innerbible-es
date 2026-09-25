@@ -3,10 +3,10 @@
 // change without a code change. See .env.example.
 //
 // Pages, in order (each its own URL, so every step shows up on its own in the stats):
-//   /quiz → KashPay checkout (front) → /upsell ─accept→ /palabras-del-Senor
-//                                           └decline→ /upsell-downsell → /palabras-del-Senor
-//   /palabras-del-Senor ─accept→ /bienvenido
-//                       └decline→ /palabras-del-Senor-downsell → /bienvenido
+//   /quiz → KashPay checkout (front) → /upsell ─accept→ /palabras-del-senor
+//                                           └decline→ /upsell-downsell → /palabras-del-senor
+//   /palabras-del-senor ─accept→ /bienvenido
+//                       └decline→ /palabras-del-senor-downsell → /bienvenido
 // After an accepted one-click, KashPay itself redirects to the next page (set the
 // redirect of each upsell in KashPay); declining is a plain link on our pages.
 

@@ -105,7 +105,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
     ],
     accept: 'Realmente quiero escuchar audio todos los días',
     decline: 'No, gracias. Continuar sin el audio',
-    next: '/palabras-del-Senor',
+    next: '/palabras-del-senor',
   },
   up2: {
     kind: 'upsell',
@@ -115,7 +115,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
     text: 'Esta es la última etapa antes de entregarte todo el material que acabas de adquirir. Mira el video de abajo.',
     accept: 'Sí, quiero Palabras del Señor',
     decline: 'No, gracias. Continuar sin esta guía',
-    next: '/palabras-del-Senor-downsell',
+    next: '/palabras-del-senor-downsell',
   },
   down2: {
     kind: 'downsell',
