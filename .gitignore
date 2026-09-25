@@ -25,6 +25,9 @@ npm-debug.log*
 # build temp/cache kept off drive C:
 /.tmp/
 
+# third-party reference material, never published
+/funil quiz/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
