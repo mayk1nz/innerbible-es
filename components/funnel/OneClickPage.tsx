@@ -54,7 +54,6 @@ const PALABRAS = {
   receive: [
     'Guía Palabras del Señor',
     'Plan de 30 Días de Transformación Espiritual',
-    'Acceso directo a mi WhatsApp personal',
     'Biblioteca «Caminando con Gigantes»',
     'Regalo secreto',
     'Garantía incondicional de 30 días',
