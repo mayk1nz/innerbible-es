@@ -45,6 +45,17 @@ export function hasFullAccess(email: string): boolean {
   return FULL_ACCESS.has(cyrb53(email.trim().toLowerCase()))
 }
 
+/** Tu Consejero Bíblico (included in upsell 2, Palabras del Señor). */
+export const CONSEJERO = {
+  dailyLimit: 30,
+  /** In-app offer for members without upsell 2: half price for life, for a limited time. */
+  offerDays: 15,
+  fullPrice: 9.9,
+  discountPrice: 4.95,
+  /** KashPay checkout of the discounted subscription (a normal checkout, not a /u/ link). */
+  checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_CONSEJERO_URL || '',
+} as const
+
 /** What each action is worth. Shown to members, so keep it simple. */
 export const POINTS = { lesson: 10, reflection: 5, post: 3 } as const
 

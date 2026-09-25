@@ -12,8 +12,10 @@ import { nameFromEmail } from '@/lib/text'
 // lets anyone in who types a buyer's email; the code closes that door and stops
 // shared logins, at the cost of one extra step.
 //
-// Mock for now: any 6 digits are accepted. The backend will send and verify the code
-// and refuse emails without a purchase.
+// For now the code step is OFF: no e-mail with a code is sent yet, so asking for one
+// would leave real buyers waiting for a message that never arrives. The backend will
+// send and verify the code (turn SEND_CODE on) and refuse e-mails without a purchase.
+const SEND_CODE = false
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/
 
@@ -39,6 +41,11 @@ export function LoginForm() {
     }
     setEmail(clean)
     setError(null)
+    if (!SEND_CODE) {
+      signIn(clean, nameFromEmail(clean))
+      router.replace('/inicio')
+      return
+    }
     setStep('code')
   }
 
@@ -99,7 +106,7 @@ export function LoginForm() {
               Continuar
             </button>
             <p id="login-help" className="mt-4 text-center text-[14.5px] leading-relaxed text-muted">
-              Usa el mismo correo con el que hiciste tu compra. Te enviaremos un código para entrar.
+              Usa el mismo correo con el que hiciste tu compra.{SEND_CODE && ' Te enviaremos un código para entrar.'}
             </p>
           </form>
         ) : (

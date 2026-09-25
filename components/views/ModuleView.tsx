@@ -36,7 +36,9 @@ function TabbedModule({ product, completed, lastLesson }: { product: Product; co
   return (
     <>
       <PageHeader back="/leer" title={product.title} />
-      <div role="tablist" aria-label={`Secciones de ${product.title}`} className="-mx-5 flex gap-2 overflow-x-auto px-5 pb-1 [scrollbar-width:none]">
+      {/* A grid, not a sideways-scrolling row: every section stays visible (with a mouse
+          there is no way to tell that a row scrolls). */}
+      <div role="tablist" aria-label={`Secciones de ${product.title}`} className="grid grid-cols-2 gap-2">
         {product.sections.map((sec) => {
           const active = sec.id === section.id
           return (
@@ -48,11 +50,14 @@ function TabbedModule({ product, completed, lastLesson }: { product: Product; co
               aria-selected={active}
               aria-controls={`panel-${sec.id}`}
               onClick={() => setTab(sec.id)}
-              className={`min-h-11 shrink-0 rounded-full border px-4 text-[15px] font-semibold transition ${
-                active ? 'border-primary bg-primary text-white' : 'border-line bg-surface text-text hover:bg-surface-hover'
+              className={`flex min-h-14 flex-col items-center justify-center rounded-2xl border px-3 py-2 text-center transition ${
+                active ? 'border-primary bg-primary text-white shadow-card' : 'border-line bg-surface text-ink hover:bg-surface-hover'
               }`}
             >
-              {sec.tab ?? sec.title}
+              <span className="text-[15px] font-semibold leading-tight">{sec.tab ?? sec.title}</span>
+              <span className={`mt-0.5 text-[12.5px] ${active ? 'text-white/75' : 'text-muted'}`}>
+                {sec.plan ? `Plan de ${sec.lessons.length} días` : 'La guía'}
+              </span>
             </button>
           )
         })}
