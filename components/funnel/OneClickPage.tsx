@@ -53,6 +53,7 @@ const PALABRAS = {
   name: 'Palabras del Señor',
   receive: [
     'Guía Palabras del Señor',
+    'Tu Consejero Bíblico: conversa cuando lo necesites y recibe consuelo y dirección en la Palabra',
     'Plan de 90 días de Transformación Espiritual',
     'Plan de 90 días para aprender a vivir según la filosofía de Jesús (paso a paso)',
     'Plan de 90 días para cambiar tu mentalidad y convertirte en un verdadero cristiano',

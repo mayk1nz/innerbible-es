@@ -5,6 +5,7 @@ import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { buttonClass } from '../ui'
 import { CONSEJERO } from '@/lib/config'
+import { PAIN_EXAMPLES, TOPIC_GROUPS } from '@/lib/consejero/topics'
 import { useAppState, useToday } from '@/lib/store'
 import { formatUsd } from '@/lib/funnel/config'
 
@@ -28,7 +29,54 @@ const CHAT_KEY = 'ib-es-consejero'
 const OFFER_KEY = 'ib-es-consejero-oferta'
 const MAX_SAVED = 40
 
-const SUGGESTIONS = ['Me siento con ansiedad', 'Tuve una pelea en casa', 'Me cuesta perdonar', 'No entiendo un pasaje', 'Quiero orar por alguien']
+/** "¿Sobre qué quieres conversar?": groups first, then ready-to-send first sentences. */
+function TopicPicker({ onPick }: { onPick: (text: string) => void }) {
+  const [open, setOpen] = useState<string | null>(null)
+  const group = TOPIC_GROUPS.find((g) => g.id === open)
+  return (
+    <section aria-label="Temas para conversar" className="mt-6">
+      <h2 className="font-serif text-[20px] font-semibold text-ink">¿Sobre qué quieres conversar?</h2>
+      <div className="mt-3 grid grid-cols-2 gap-2.5">
+        {TOPIC_GROUPS.map((g) => {
+          const active = g.id === open
+          return (
+            <button
+              key={g.id}
+              type="button"
+              aria-expanded={active}
+              onClick={() => setOpen(active ? null : g.id)}
+              className={`flex min-h-16 items-center gap-3 rounded-2xl border px-3.5 py-3 text-left transition ${
+                active ? 'border-primary bg-primary text-white shadow-card' : 'border-line bg-surface text-ink hover:bg-surface-hover'
+              }`}
+            >
+              <span className={`grid size-9 shrink-0 place-items-center rounded-xl ${active ? 'bg-white/15 text-gold-bright' : 'bg-gold-soft text-gold'}`}>
+                <Icon name={g.icon} className="size-5" />
+              </span>
+              <span className="text-[15px] font-semibold leading-tight">{g.label}</span>
+            </button>
+          )
+        })}
+      </div>
+      {group && (
+        <ul className="animate-rise mt-3 space-y-2">
+          {group.starters.map((s) => (
+            <li key={s}>
+              <button
+                type="button"
+                onClick={() => onPick(s)}
+                className="flex min-h-12 w-full items-center gap-3 rounded-2xl border border-line bg-surface-2 px-4 py-3 text-left text-[15.5px] text-ink transition hover:bg-surface-hover"
+              >
+                <span className="flex-1">{s}</span>
+                <Icon name="send" className="size-4 shrink-0 text-primary" />
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+      <p className="mt-4 text-center text-[14px] text-muted">O escríbelo con tus propias palabras aquí abajo.</p>
+    </section>
+  )
+}
 
 function load(): Saved {
   try {
@@ -178,46 +226,56 @@ function Chat({ email, name }: { email: string; name: string }) {
     save(fresh)
   }
 
+  const empty = saved.messages.length === 0
+
   return (
     <>
-      <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra, a cualquier hora" />
+      {empty ? (
+        <>
+          <div className="relative overflow-hidden rounded-[28px] bg-primary px-5 pb-6 pt-5 text-white shadow-float">
+            <div
+              aria-hidden
+              className="pointer-events-none absolute inset-0"
+              style={{ backgroundImage: 'radial-gradient(90% 70% at 85% 0%, rgba(224,172,74,.35), transparent 60%)' }}
+            />
+            <div className="relative">
+              <span className="grid size-12 place-items-center rounded-2xl bg-white/10 text-gold-bright">
+                <Icon name="chatCross" className="size-6" />
+              </span>
+              <h1 className="mt-4 font-serif text-[27px] font-semibold leading-tight">Hola{name ? `, ${name}` : ''}</h1>
+              <p className="mt-1.5 text-[16px] leading-relaxed text-white/85">
+                Soy tu Consejero Bíblico. Cuéntame lo que llevas en el corazón y buscaremos juntos luz en la Palabra de Dios.
+              </p>
+            </div>
+          </div>
+          <TopicPicker onPick={(t) => void send(t)} />
+        </>
+      ) : (
+        <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra" />
+      )}
 
-      <div className="space-y-3">
-        <div className="max-w-[88%] rounded-3xl rounded-tl-md border border-line bg-surface px-4 py-3 text-[16px] leading-relaxed text-ink">
-          Hola{name ? `, ${name}` : ''}. Estoy aquí para acompañarte con la Palabra de Dios. ¿Qué hay en tu corazón hoy?
-        </div>
-
+      <div className={`space-y-4 ${empty ? '' : ''}`}>
         {saved.messages.map((m, i) =>
           m.role === 'user' ? (
             <div key={i} className="ml-auto max-w-[85%] whitespace-pre-wrap rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[16px] leading-relaxed text-white">
               {m.content}
             </div>
           ) : (
-            <div key={i}>
-              <div className="max-w-[92%] rounded-3xl rounded-tl-md border border-line bg-surface px-4 py-3 font-serif text-[16.5px] leading-relaxed text-ink">
-                {m.content ? <Answer text={m.content} /> : <span className="animate-pulse text-muted">Escribiendo…</span>}
+            <div key={i} className="flex gap-2.5">
+              <span className="mt-1 grid size-8 shrink-0 place-items-center rounded-full bg-primary text-gold-bright" aria-hidden>
+                <Icon name="chatCross" className="size-4" />
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="rounded-3xl rounded-tl-md border border-line bg-surface px-4 py-3 font-serif text-[16.5px] leading-relaxed text-ink">
+                  {m.content ? <Answer text={m.content} /> : <span className="animate-pulse text-muted">Buscando luz en la Palabra…</span>}
+                </div>
+                {m.crisis && <CrisisCard />}
               </div>
-              {m.crisis && <CrisisCard />}
             </div>
           ),
         )}
         <div ref={endRef} />
       </div>
-
-      {saved.messages.length === 0 && (
-        <div className="mt-5 flex flex-wrap gap-2">
-          {SUGGESTIONS.map((t) => (
-            <button
-              key={t}
-              type="button"
-              onClick={() => void send(t)}
-              className="rounded-full border border-line bg-surface px-4 py-2 text-[14.5px] font-medium text-ink transition hover:bg-surface-hover"
-            >
-              {t}
-            </button>
-          ))}
-        </div>
-      )}
 
       {notice && (
         <p role="status" className="mt-4 rounded-2xl bg-gold-soft/60 px-4 py-3 text-center text-[15px] text-ink">
@@ -331,11 +389,57 @@ function Countdown({ deadline }: { deadline: number }) {
   )
 }
 
+/** The biggest pains, each with the start of a real-style answer, cut at the lock. */
+function PainExamples() {
+  const [id, setId] = useState(PAIN_EXAMPLES[0].id)
+  const ex = PAIN_EXAMPLES.find((p) => p.id === id) ?? PAIN_EXAMPLES[0]
+  return (
+    <section aria-label="Ejemplos de conversación">
+      <p className="text-[15.5px] leading-relaxed text-text">Toca un tema y mira cómo te acompaña tu Consejero:</p>
+      <div className="mt-3 grid grid-cols-4 gap-2">
+        {PAIN_EXAMPLES.map((p) => {
+          const active = p.id === ex.id
+          return (
+            <button
+              key={p.id}
+              type="button"
+              aria-pressed={active}
+              onClick={() => setId(p.id)}
+              className={`flex min-h-[74px] flex-col items-center justify-center gap-1.5 rounded-2xl border px-1 py-2 text-center transition ${
+                active ? 'border-primary bg-primary text-white shadow-card' : 'border-line bg-surface text-ink hover:bg-surface-hover'
+              }`}
+            >
+              <Icon name={p.icon} className={`size-5 ${active ? 'text-gold-bright' : 'text-gold'}`} />
+              <span className="text-[12.5px] font-semibold leading-tight">{p.label}</span>
+            </button>
+          )
+        })}
+      </div>
+      <div key={ex.id} className="animate-rise relative mt-4 overflow-hidden rounded-3xl border border-line bg-surface-2 p-4">
+        <div className="ml-auto max-w-[85%] rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[15.5px] leading-relaxed text-white">{ex.question}</div>
+        <div className="mt-3 flex gap-2.5">
+          <span className="mt-1 grid size-8 shrink-0 place-items-center rounded-full bg-primary text-gold-bright" aria-hidden>
+            <Icon name="chatCross" className="size-4" />
+          </span>
+          <div className="rounded-3xl rounded-tl-md border border-line bg-surface px-4 py-3 font-serif text-[16px] leading-relaxed text-ink">{ex.answer}</div>
+        </div>
+        <div className="pointer-events-none absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-surface-2 to-transparent" />
+        <span className="absolute bottom-3 left-1/2 flex -translate-x-1/2 items-center gap-1.5 whitespace-nowrap rounded-full bg-primary px-3 py-1.5 text-[13px] font-semibold text-white">
+          <Icon name="lock" className="size-3.5" />
+          Continúa con tu Consejero
+        </span>
+      </div>
+    </section>
+  )
+}
+
 function LockedConsejero() {
   const deadline = useOfferDeadline()
   const now = useNow()
   const active = now < deadline
   const price = active ? CONSEJERO.discountPrice : CONSEJERO.fullPrice
+  // The 50% checkout only while the member's own 15 days last; then the full price.
+  const checkout = active ? CONSEJERO.checkoutUrl : CONSEJERO.fullCheckoutUrl
   const includes = [
     'Tu Consejero Bíblico: hasta 30 conversaciones al día',
     'Tres planes de 90 días, con una minitarea y pasos prácticos para cada día',
@@ -347,20 +451,7 @@ function LockedConsejero() {
     <>
       <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra, a cualquier hora" />
 
-      {/* An example of what a conversation looks like. */}
-      <div className="relative overflow-hidden rounded-3xl border border-line bg-surface-2 p-4" aria-label="Ejemplo de conversación">
-        <div className="ml-auto max-w-[85%] rounded-3xl rounded-tr-md bg-primary px-4 py-3 text-[15.5px] leading-relaxed text-white">
-          Estoy muy ansiosa por las deudas y no puedo dormir.
-        </div>
-        <div className="mt-3 max-w-[92%] rounded-3xl rounded-tl-md border border-line bg-surface px-4 py-3 font-serif text-[16px] leading-relaxed text-ink">
-          Gracias por contármelo. Cuando las cuentas no cierran, la mente no descansa, y es muy humano sentirse así. La Palabra dice: «Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros» (1 Pedro 5:7). Esta noche, antes de dormir, escribe en una hoja cada deuda y…
-        </div>
-        <div className="pointer-events-none absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-surface-2 to-transparent" />
-        <span className="absolute bottom-3 left-1/2 flex -translate-x-1/2 items-center gap-1.5 rounded-full bg-primary px-3 py-1.5 text-[13px] font-semibold text-white">
-          <Icon name="lock" className="size-3.5" />
-          Parte de Palabras del Señor
-        </span>
-      </div>
+      <PainExamples />
 
       <div className="mt-5 rounded-3xl bg-primary p-5 text-center text-white shadow-float">
         {active ? (
@@ -380,8 +471,11 @@ function LockedConsejero() {
           )}
           <strong className="text-[22px] text-white">{formatUsd(price)}</strong> al mes
         </p>
-        {CONSEJERO.checkoutUrl ? (
-          <a href={CONSEJERO.checkoutUrl} className={`${buttonClass.primary} mt-4 bg-gold-bright text-primary hover:bg-gold-bright`}>
+        {checkout ? (
+          <a
+            href={checkout}
+            className="mt-4 flex min-h-14 w-full items-center justify-center gap-2 rounded-2xl bg-gold-bright px-5 text-[17px] font-semibold text-primary shadow-card transition hover:brightness-105 active:scale-[0.99]"
+          >
             Quiero mi Consejero
             <Icon name="arrowRight" className="size-5" />
           </a>

@@ -52,8 +52,10 @@ export const CONSEJERO = {
   offerDays: 15,
   fullPrice: 9.9,
   discountPrice: 4.95,
-  /** KashPay checkout of the discounted subscription (a normal checkout, not a /u/ link). */
-  checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_CONSEJERO_URL || '',
+  /** KashPay checkout "Palabras del Señor 50%" (US$ 4,95/mes): a normal checkout, not a /u/ link. */
+  checkoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_CONSEJERO_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790363235240',
+  /** Full-price checkout (US$ 9,90/mes), used once the member's 15 days are over. Empty → "Disponible pronto". */
+  fullCheckoutUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL2_URL || '',
 } as const
 
 /** What each action is worth. Shown to members, so keep it simple. */

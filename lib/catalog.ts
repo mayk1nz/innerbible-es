@@ -358,7 +358,7 @@ export const OFFERS: Offer[] = [
     id: 'upsell2',
     title: 'Palabras del Señor',
     short: 'Palabras del Señor',
-    pitch: 'Más de 100 situaciones reales de la vida con la respuesta bíblica aplicada paso a paso.',
+    pitch: 'Tu Consejero Bíblico para conversar cada día, tres planes de 90 días y la guía práctica para vivir la Palabra.',
     productId: 'hacedores',
   },
 ]
