@@ -1,6 +1,6 @@
 import type { IconName } from '@/components/icons'
 import { WHATSAPP_URL } from './config'
-import { COMIENZA_AQUI, GENESIS } from './content/sample'
+import { COMIENZA_AQUI, GENESIS, TRANSFORMACION_DIA_1 } from './content/sample'
 import { slugify } from './text'
 
 // Every product in the app, in the order the member sees it. A product is a list of
@@ -24,6 +24,10 @@ export interface LessonContent {
   versiculo?: { texto: string; referencia: string }
   resumen?: string[]
   meditar?: string
+  /** Plans: the small task of the day. */
+  tarea?: string
+  /** Plans: concrete steps to put the day's reading into practice. */
+  practica?: string[]
 }
 
 export interface Lesson {
@@ -37,6 +41,13 @@ export interface Lesson {
 export interface Section {
   id: string
   title: string
+  /** Label of the section's tab, when the product shows its sections as tabs. */
+  tab?: string
+  /**
+   * A day-by-day plan: one day at a time — the next day opens the day after the
+   * previous one was done (see planDayStatus in lib/progress.ts).
+   */
+  plan?: { goal: string }
   lessons: Lesson[]
 }
 
@@ -60,6 +71,8 @@ export interface Product {
   sections: Section[]
   /** Only for kind 'enlace' (e.g. the WhatsApp group). */
   url?: string
+  /** Show the sections as tabs (e.g. Palabras del Señor: the guide + its plans). */
+  tabs?: boolean
 }
 
 export interface Offer {
@@ -77,6 +90,7 @@ export interface Offer {
 const SAMPLE_CONTENT: Record<string, LessonContent> = {
   'comienza-aqui': COMIENZA_AQUI,
   genesis: GENESIS,
+  'transformacion-dia-1': TRANSFORMACION_DIA_1,
 }
 
 function lessons(titles: string[], format: LessonFormat): Lesson[] {
@@ -88,6 +102,14 @@ function lessons(titles: string[], format: LessonFormat): Lesson[] {
 
 function numberedDays(count: number, format: LessonFormat): Lesson[] {
   return Array.from({ length: count }, (_, i) => ({ id: `dia-${i + 1}`, title: `Día ${i + 1}`, format }))
+}
+
+/** Days of a plan inside a product with several plans: ids carry the plan, so they never clash. */
+function planDays(planId: string, count: number): Lesson[] {
+  return Array.from({ length: count }, (_, i) => {
+    const id = `${planId}-dia-${i + 1}`
+    return { id, title: `Día ${i + 1}`, format: 'texto' as const, content: SAMPLE_CONTENT[id] }
+  })
 }
 
 /** Guides whose inner structure is still to be defined: one entry to open them. */
@@ -176,12 +198,36 @@ export const PRODUCTS: Product[] = [
   {
     id: 'hacedores',
     title: 'Palabras del Señor',
-    short: 'Más de 100 situaciones reales de la vida con la respuesta bíblica aplicada paso a paso.',
-    description: 'No es un libro teórico ni un devocional genérico. Es una guía práctica: frente a cada situación real de la vida, qué dice la Biblia y cómo aplicarlo, paso a paso.',
+    short: 'La guía práctica y tres planes de 90 días para vivir la Palabra, un día a la vez.',
+    description: 'No es un libro teórico ni un devocional genérico. Es una guía práctica: frente a cada situación real de la vida, qué dice la Biblia y cómo aplicarlo, paso a paso. Y tres planes de 90 días, con una lectura, una minitarea y medidas prácticas para cada día.',
     kind: 'recorrido',
     offer: 'upsell2',
     cover: { ...DAWN, lines: ['Palabras', 'del'], highlight: 'Señor', icon: 'feather' },
-    sections: pendingGuide(),
+    tabs: true,
+    sections: [
+      { id: 'guia', title: 'Guía Palabras del Señor', tab: 'Guía', lessons: lessons(['Cómo usar esta guía'], 'texto') },
+      {
+        id: 'transformacion',
+        title: 'Plan de 90 días de Transformación Espiritual',
+        tab: 'Transformación',
+        plan: { goal: 'Renovar tu relación con Dios, un paso cada día.' },
+        lessons: planDays('transformacion', 90),
+      },
+      {
+        id: 'vivir-como-jesus',
+        title: 'Plan de 90 días para aprender a vivir según la filosofía de Jesús',
+        tab: 'Vivir como Jesús',
+        plan: { goal: 'Llevar sus enseñanzas a tu día a día, paso a paso.' },
+        lessons: planDays('vivir-como-jesus', 90),
+      },
+      {
+        id: 'nueva-mentalidad',
+        title: 'Plan de 90 días para cambiar tu mentalidad y convertirte en un verdadero cristiano',
+        tab: 'Nueva mentalidad',
+        plan: { goal: 'Renovar tu manera de pensar a la luz de la Palabra.' },
+        lessons: planDays('nueva-mentalidad', 90),
+      },
+    ],
   },
   {
     id: 'plan-escucha',
@@ -192,16 +238,6 @@ export const PRODUCTS: Product[] = [
     offer: 'front',
     cover: { ...AMBER, lines: ['Plan de', 'Escucha'], highlight: '30 días', icon: 'headphones' },
     sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'audio') }],
-  },
-  {
-    id: 'plan-transformacion',
-    title: 'Plan de 30 Días de Transformación Espiritual',
-    short: 'Treinta días para renovar tu vida devocional.',
-    description: 'Un camino de treinta días, un paso por día, para renovar tu relación con Dios.',
-    kind: 'guia',
-    offer: 'upsell2',
-    cover: { ...DUSK, lines: ['Plan de', 'Transformación'], highlight: '30 días', icon: 'sparkles' },
-    sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'texto') }],
   },
   {
     id: 'caminando-gigantes',

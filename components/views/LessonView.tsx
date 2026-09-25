@@ -11,7 +11,7 @@ import type { Lesson } from '@/lib/catalog'
 import { SEED_POSTS, SEED_REFLECTIONS } from '@/lib/community-seed'
 import { POINTS } from '@/lib/config'
 import { computeStats } from '@/lib/gamification'
-import { findLesson, isOwned, lessonHref, lessonKey, type LessonRef } from '@/lib/progress'
+import { findLesson, isOwned, lessonHref, lessonKey, planDayStatus, type LessonRef } from '@/lib/progress'
 import {
   completeLesson,
   saveReflection,
@@ -42,10 +42,40 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
   const stats = useMemo(() => computeStats(s, today), [s, today])
   const done = Boolean(s.completed[key])
   const [celebrate, setCelebrate] = useState(false)
+  // Plan days open one at a time; a day not open yet shows when it opens instead.
+  const status = planDayStatus(product.id, section, lesson.id, s.completed, today)
+  const waiting = status === 'locked' || status === 'tomorrow'
+  const dayN = section.lessons.findIndex((l) => l.id === lesson.id) + 1
+  const nextStatus = next ? planDayStatus(product.id, section, next.id, s.completed, today) : null
+  const nextInPlan = Boolean(section.plan && next && section.lessons.some((l) => l.id === next.id))
 
   useEffect(() => {
-    setLastLesson(key)
-  }, [key])
+    if (!waiting) setLastLesson(key)
+  }, [key, waiting])
+
+  if (waiting) {
+    return (
+      <>
+        <PageHeader back={`/modulo/${product.id}`} eyebrow={section.tab ?? section.title} title={lesson.title} />
+        <div className="rounded-3xl border border-line bg-surface p-6 text-center shadow-card">
+          <span className="mx-auto grid size-14 place-items-center rounded-full bg-gold-soft text-gold">
+            <Icon name={status === 'tomorrow' ? 'calendar' : 'lock'} className="size-7" />
+          </span>
+          <p className="mt-4 font-serif text-[21px] font-semibold text-ink">
+            {status === 'tomorrow' ? `El Día ${dayN} se abre mañana` : `Primero, el Día ${dayN - 1}`}
+          </p>
+          <p className="mx-auto mt-2 max-w-xs text-[15.5px] leading-relaxed text-muted">
+            {status === 'tomorrow'
+              ? 'Ya hiciste el paso de hoy. Un día a la vez: vuelve mañana para seguir.'
+              : `Este plan se hace un día a la vez. Completa el Día ${dayN - 1} para avanzar.`}
+          </p>
+          <Link href={`/modulo/${product.id}`} className={`${buttonClass.secondary} mt-5`}>
+            Volver al plan
+          </Link>
+        </div>
+      </>
+    )
+  }
 
   const toggle = () => {
     if (done) {
@@ -63,9 +93,9 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
 
       <div className="mb-5 flex items-center justify-between gap-3">
         <p className="text-[14.5px] leading-snug text-muted">
-          {product.title}
+          {section.plan ? section.title : product.title}
           <br />
-          Lección {index + 1} de {total}
+          {section.plan ? `Día ${dayN} de ${section.lessons.length}` : `Lección ${index + 1} de ${total}`}
         </p>
         <FontScaleControl scale={s.fontScale} />
       </div>
@@ -92,7 +122,13 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         celebrate={celebrate}
         streak={stats.streak}
         onToggle={toggle}
-        next={next ? { href: lessonHref(product.id, next.id), title: next.title } : null}
+        isPlanDay={Boolean(section.plan)}
+        next={
+          next && !(nextInPlan && nextStatus !== 'open' && nextStatus !== 'done')
+            ? { href: lessonHref(product.id, next.id), title: next.title }
+            : null
+        }
+        opensTomorrow={nextInPlan && nextStatus === 'tomorrow' ? next?.title ?? null : null}
       />
 
       <ReflectionBox lessonKey={key} existing={s.reflections[key]} />
@@ -173,6 +209,25 @@ function LessonBody({ lesson, scale }: { lesson: Lesson; scale: number }) {
           ))}
         </div>
       )}
+      {c.tarea && (
+        <div className="mt-6 rounded-2xl bg-primary px-5 py-4 text-white">
+          <p className="text-[0.8em] font-semibold uppercase tracking-[0.08em] text-gold-bright">Minitarea de hoy</p>
+          <p className="mt-1.5 font-serif text-[1.05em] leading-relaxed">{c.tarea}</p>
+        </div>
+      )}
+      {c.practica && c.practica.length > 0 && (
+        <div className="mt-4 rounded-2xl border border-line-soft bg-surface p-4">
+          <p className="text-[0.8em] font-semibold uppercase tracking-[0.08em] text-gold">Para poner en práctica</p>
+          <ol className="mt-2 space-y-2">
+            {c.practica.map((step, i) => (
+              <li key={step} className="flex gap-3 leading-relaxed text-ink">
+                <span className="grid size-6 shrink-0 place-items-center rounded-full bg-gold-soft text-[0.8em] font-bold text-ink">{i + 1}</span>
+                {step}
+              </li>
+            ))}
+          </ol>
+        </div>
+      )}
       {c.meditar && (
         <div className="mt-6 rounded-2xl border border-line-soft bg-surface p-4">
           <p className="text-[0.8em] font-semibold uppercase tracking-[0.08em] text-gold">Para meditar</p>
@@ -189,19 +244,24 @@ function CompletionCard({
   streak,
   onToggle,
   next,
+  isPlanDay,
+  opensTomorrow,
 }: {
   done: boolean
   celebrate: boolean
   streak: number
   onToggle: () => void
   next: { href: string; title: string } | null
+  isPlanDay: boolean
+  /** Title of the next plan day when it only opens tomorrow. */
+  opensTomorrow: string | null
 }) {
   if (!done) {
     return (
       <div className="mt-6">
         <button type="button" onClick={onToggle} className={buttonClass.primary}>
           <Icon name="check" className="size-5" strokeWidth={2.6} />
-          Marcar como leída
+          {isPlanDay ? 'Completar el día' : 'Marcar como leída'}
           <span className="rounded-full bg-white/15 px-2 py-0.5 text-[13px] font-semibold">+{POINTS.lesson} pts</span>
         </button>
         <p className="mt-2 text-center text-[14px] text-muted">Suma puntos y mantiene tu racha.</p>
@@ -215,7 +275,7 @@ function CompletionCard({
           <Icon name="check" className="size-6" strokeWidth={2.8} />
         </span>
         <div>
-          <p className="font-serif text-[19px] font-semibold text-ink">Lección completada</p>
+          <p className="font-serif text-[19px] font-semibold text-ink">{isPlanDay ? 'Día completado' : 'Lección completada'}</p>
           <p className="text-[15px] text-text">
             {streak > 0 ? (
               <>
@@ -234,8 +294,14 @@ function CompletionCard({
           <Icon name="arrowRight" className="size-5 shrink-0 text-gold-bright" />
         </Link>
       )}
+      {opensTomorrow && (
+        <p className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-surface-2 p-3 text-center text-[15px] text-ink">
+          <Icon name="calendar" className="size-5 shrink-0 text-gold" />
+          El {opensTomorrow} se abre mañana. ¡Te esperamos!
+        </p>
+      )}
       <button type="button" onClick={onToggle} className="mt-3 w-full py-1 text-center text-[14px] font-medium text-muted underline underline-offset-4 hover:text-ink">
-        Desmarcar lección
+        {isPlanDay ? 'Desmarcar día' : 'Desmarcar lección'}
       </button>
     </div>
   )

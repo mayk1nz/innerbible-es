@@ -7,9 +7,9 @@ import { Cover } from '../Cover'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { EmptyState, ProgressBar, SearchInput, buttonClass } from '../ui'
-import { productById, type Lesson, type Product } from '@/lib/catalog'
-import { allLessons, isOwned, lessonHref, lessonKey, nextLesson, productProgress } from '@/lib/progress'
-import { toggleLesson, useAppState, type AppState } from '@/lib/store'
+import { productById, type Lesson, type Product, type Section } from '@/lib/catalog'
+import { allLessons, currentPlanDay, isOwned, lessonHref, lessonKey, nextLesson, planDayStatus, productProgress } from '@/lib/progress'
+import { toggleLesson, useAppState, useToday, type AppState } from '@/lib/store'
 import { normalize, plural } from '@/lib/text'
 
 export function ModuleView({ productId }: { productId: string }) {
@@ -18,7 +18,136 @@ export function ModuleView({ productId }: { productId: string }) {
   if (!product) return null
   if (!isOwned(product, s.owned)) return <LockedProduct product={product} email={s.session?.email} />
   if (product.kind === 'enlace') return <LinkProduct product={product} />
+  if (product.tabs) return <TabbedModule product={product} completed={s.completed} lastLesson={s.lastLesson} />
   return <ModuleContent product={product} completed={s.completed} />
+}
+
+// ─── Products with tabs (Palabras del Señor: the guide + its 90-day plans) ────
+
+function TabbedModule({ product, completed, lastLesson }: { product: Product; completed: AppState['completed']; lastLesson: string | null }) {
+  // Open on the tab of the lesson read last, if it belongs to this product.
+  const [tab, setTab] = useState(() => {
+    const lastId = lastLesson?.startsWith(`${product.id}/`) ? lastLesson.slice(product.id.length + 1) : null
+    return product.sections.find((sec) => sec.lessons.some((l) => l.id === lastId))?.id ?? product.sections[0]?.id
+  })
+  const section = product.sections.find((sec) => sec.id === tab) ?? product.sections[0]
+  if (!section) return null
+
+  return (
+    <>
+      <PageHeader back="/leer" title={product.title} />
+      <div role="tablist" aria-label={`Secciones de ${product.title}`} className="-mx-5 flex gap-2 overflow-x-auto px-5 pb-1 [scrollbar-width:none]">
+        {product.sections.map((sec) => {
+          const active = sec.id === section.id
+          return (
+            <button
+              key={sec.id}
+              type="button"
+              role="tab"
+              id={`tab-${sec.id}`}
+              aria-selected={active}
+              aria-controls={`panel-${sec.id}`}
+              onClick={() => setTab(sec.id)}
+              className={`min-h-11 shrink-0 rounded-full border px-4 text-[15px] font-semibold transition ${
+                active ? 'border-primary bg-primary text-white' : 'border-line bg-surface text-text hover:bg-surface-hover'
+              }`}
+            >
+              {sec.tab ?? sec.title}
+            </button>
+          )
+        })}
+      </div>
+      <div role="tabpanel" id={`panel-${section.id}`} aria-labelledby={`tab-${section.id}`} className="mt-5">
+        {section.plan ? (
+          <PlanPanel product={product} section={section} completed={completed} />
+        ) : (
+          <>
+            <h2 className="mb-3 font-serif text-[20px] font-semibold text-ink">{section.title}</h2>
+            <ul className="space-y-2.5">
+              {section.lessons.map((lesson, i) => (
+                <LessonRow key={lesson.id} product={product} lesson={lesson} n={i + 1} done={Boolean(completed[lessonKey(product.id, lesson.id)])} />
+              ))}
+            </ul>
+          </>
+        )}
+      </div>
+    </>
+  )
+}
+
+function PlanPanel({ product, section, completed }: { product: Product; section: Section; completed: AppState['completed'] }) {
+  const today = useToday()
+  const total = section.lessons.length
+  const done = section.lessons.filter((l) => completed[lessonKey(product.id, l.id)]).length
+  const pct = total ? Math.round((done / total) * 100) : 0
+  const current = currentPlanDay(product.id, section, completed, today)
+
+  return (
+    <>
+      <div className="rounded-3xl border border-line bg-surface p-5 shadow-card">
+        <h2 className="font-serif text-[20px] font-semibold leading-snug text-ink">{section.title}</h2>
+        {section.plan && <p className="mt-1 text-[15.5px] leading-snug text-muted">{section.plan.goal}</p>}
+        <div className="mt-4 flex items-baseline justify-between gap-3">
+          <p className="text-[15.5px] text-text">
+            <strong className="text-ink">{done}</strong> de {total} días
+          </p>
+          <p className="font-serif text-[24px] font-semibold tabular-nums text-ink">{pct}%</p>
+        </div>
+        <div className="mt-2">
+          <ProgressBar value={pct} label={`Progreso de ${section.title}`} />
+        </div>
+        {!current ? (
+          <p className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-success-soft p-3 text-[15.5px] font-semibold text-success">
+            <Icon name="trophy" className="size-5" />
+            ¡Completaste los {total} días!
+          </p>
+        ) : current.status === 'open' ? (
+          <Link href={lessonHref(product.id, current.lesson.id)} className={`${buttonClass.primary} mt-4`}>
+            {done ? `Hacer el Día ${current.n}` : 'Empezar el Día 1'}
+            <Icon name="arrowRight" className="size-5 shrink-0 text-gold-bright" />
+          </Link>
+        ) : (
+          <p className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-gold-soft/60 p-3 text-center text-[15.5px] font-medium text-ink">
+            <Icon name="check" className="size-5 shrink-0 text-success" strokeWidth={2.6} />
+            Día de hoy completado. El Día {current.n} se abre mañana.
+          </p>
+        )}
+      </div>
+
+      <ol className="mt-5 grid grid-cols-6 gap-2" aria-label={`Días de ${section.title}`}>
+        {section.lessons.map((lesson, i) => {
+          const status = planDayStatus(product.id, section, lesson.id, completed, today) ?? 'open'
+          const n = i + 1
+          if (status === 'done' || status === 'open') {
+            return (
+              <li key={lesson.id}>
+                <Link
+                  href={lessonHref(product.id, lesson.id)}
+                  aria-label={`Día ${n}${status === 'done' ? ', completado' : ', disponible'}`}
+                  className={`grid aspect-square place-items-center rounded-xl text-[14px] font-semibold tabular-nums transition ${
+                    status === 'done' ? 'bg-success text-white' : 'bg-primary text-white ring-2 ring-gold-bright ring-offset-2 ring-offset-bg'
+                  }`}
+                >
+                  {status === 'done' ? <Icon name="check" className="size-4" strokeWidth={3} /> : n}
+                </Link>
+              </li>
+            )
+          }
+          return (
+            <li key={lesson.id}>
+              <span
+                aria-label={`Día ${n}, ${status === 'tomorrow' ? 'se abre mañana' : 'bloqueado'}`}
+                className="grid aspect-square place-items-center rounded-xl border border-line-soft bg-surface text-[13.5px] tabular-nums text-muted"
+              >
+                {n}
+              </span>
+            </li>
+          )
+        })}
+      </ol>
+      <p className="mt-3 text-center text-[14px] text-muted">Un día a la vez: cada día se abre al día siguiente de completar el anterior.</p>
+    </>
+  )
 }
 
 function LinkProduct({ product }: { product: Product }) {

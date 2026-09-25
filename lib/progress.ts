@@ -14,6 +14,43 @@ export function isOwned(product: Product, owned: readonly OfferId[]): boolean {
   return owned.includes(product.offer)
 }
 
+/**
+ * A plan day is 'done'; 'open' (day 1, or the previous day was done on an earlier
+ * date); 'tomorrow' (the previous day was done today — one day at a time); or
+ * 'locked' (the previous day is not done yet). null for lessons outside a plan.
+ * `today` is a local YYYY-MM-DD (useToday).
+ */
+export type PlanDayStatus = 'done' | 'open' | 'tomorrow' | 'locked'
+
+export function planDayStatus(
+  productId: string,
+  section: Section,
+  lessonId: string,
+  completed: AppState['completed'],
+  today: string,
+): PlanDayStatus | null {
+  if (!section.plan) return null
+  if (completed[lessonKey(productId, lessonId)]) return 'done'
+  const i = section.lessons.findIndex((l) => l.id === lessonId)
+  if (i <= 0) return 'open'
+  const prev = completed[lessonKey(productId, section.lessons[i - 1].id)]
+  if (!prev) return 'locked'
+  return today && prev.day < today ? 'open' : 'tomorrow'
+}
+
+/** The plan day to do now (first not done), with its status; null when the plan is finished. */
+export function currentPlanDay(
+  productId: string,
+  section: Section,
+  completed: AppState['completed'],
+  today: string,
+): { lesson: Lesson; n: number; status: PlanDayStatus } | null {
+  const i = section.lessons.findIndex((l) => !completed[lessonKey(productId, l.id)])
+  if (i < 0) return null
+  const lesson = section.lessons[i]
+  return { lesson, n: i + 1, status: planDayStatus(productId, section, lesson.id, completed, today) ?? 'open' }
+}
+
 export function allLessons(product: Product): Lesson[] {
   return product.sections.flatMap((s) => s.lessons)
 }
