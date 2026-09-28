@@ -933,5 +933,20 @@
     "id": "colecta",
     "termino": "Colecta",
     "definicion": "Ofrenda que Pablo reunió en las iglesias para ayudar a los cristianos pobres de Jerusalén."
+  },
+  {
+    "id": "copero",
+    "termino": "Copero",
+    "definicion": "Servidor de confianza que servía el vino al rey. Nehemías tenía ese cargo."
+  },
+  {
+    "id": "renuevo",
+    "termino": "El Renuevo",
+    "definicion": "Nombre del Mesías en los profetas: un brote nuevo de la familia de David. La RV1909 dice «Pimpollo»."
+  },
+  {
+    "id": "abominacion-desoladora",
+    "termino": "Abominación desoladora",
+    "definicion": "Profanación del templo anunciada en Daniel. Jesús la recuerda en Mateo 24:15."
   }
 ]

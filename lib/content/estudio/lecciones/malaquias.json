@@ -42,7 +42,7 @@
   "lugar": { "nombre": "Jerusalén, junto al segundo templo", "mapa": "regreso" },
 
   "personajes": [
-    { "id": "malaquias", "nombre": "Malaquías", "linea": "Último profeta de nuestro Antiguo Testamento; habla en forma de diálogo." },
+    { "id": "malaquias", "nombre": "Malaquías", "linea": "Su libro cierra el Antiguo Testamento; habla en forma de diálogo." },
     { "id": "elias", "nombre": "Elías", "linea": "Dios promete enviarlo antes del gran día del Señor." },
     { "id": "esau", "nombre": "Esaú", "linea": "Hermano de Jacob; Malaquías recuerda a los dos hermanos." }
   ],

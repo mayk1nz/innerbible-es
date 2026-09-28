@@ -52,6 +52,7 @@ export const LECCIONES_ESCRITAS: Record<string, () => Promise<Leccion>> = {
   'nehemias': () => import('./nehemias.json').then((m) => m.default as unknown as Leccion),
   'cronicas': () => import('./cronicas.json').then((m) => m.default as unknown as Leccion),
   'malaquias': () => import('./malaquias.json').then((m) => m.default as unknown as Leccion),
+  'entre-testamentos': () => import('./entre-testamentos.json').then((m) => m.default as unknown as Leccion),
   'el-verbo': () => import('./el-verbo.json').then((m) => m.default as unknown as Leccion),
   'anuncios': () => import('./anuncios.json').then((m) => m.default as unknown as Leccion),
   'nacimiento': () => import('./nacimiento.json').then((m) => m.default as unknown as Leccion),

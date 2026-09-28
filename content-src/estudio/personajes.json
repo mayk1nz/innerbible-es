@@ -947,6 +947,7 @@
     "lecciones": [
       "ezequiel",
       "daniel",
+      "entre-testamentos",
       "ultima-semana"
     ]
   },
@@ -1071,6 +1072,7 @@
     "linea": "El Hijo de Dios hecho hombre, el Mesías prometido y Salvador.",
     "lecciones": [
       "jonas",
+      "entre-testamentos",
       "el-verbo",
       "anuncios",
       "nacimiento",
@@ -2056,6 +2058,105 @@
     "linea": "Joven de Troas que cayó de una ventana y volvió a vivir.",
     "lecciones": [
       "hechos-18-20"
+    ]
+  },
+  {
+    "id": "josue-sumo-sacerdote",
+    "nombre": "Josué (Jesúa), sumo sacerdote",
+    "rv1909": "Jesuá / Josué",
+    "linea": "Sumo sacerdote del regreso; reconstruye el templo con Zorobabel.",
+    "lecciones": [
+      "esdras-1-6",
+      "hageo",
+      "zacarias"
+    ]
+  },
+  {
+    "id": "dario-persa",
+    "nombre": "Darío I, rey de Persia",
+    "rv1909": "Darío",
+    "linea": "Rey persa que confirma el decreto de Ciro sobre el templo.",
+    "lecciones": [
+      "esdras-1-6",
+      "hageo",
+      "zacarias"
+    ]
+  },
+  {
+    "id": "dario-de-media",
+    "nombre": "Darío de Media",
+    "rv1909": "Darío",
+    "linea": "Rey que echa a Daniel al foso y luego alaba a Dios.",
+    "lecciones": [
+      "daniel"
+    ]
+  },
+  {
+    "id": "belsasar",
+    "nombre": "Belsasar",
+    "linea": "Rey de Babilonia; ve una mano que escribe en la pared.",
+    "lecciones": [
+      "daniel"
+    ]
+  },
+  {
+    "id": "artajerjes",
+    "nombre": "Artajerjes",
+    "linea": "Rey persa que envía a Esdras y a Nehemías a Jerusalén.",
+    "lecciones": [
+      "esdras-7-10",
+      "nehemias"
+    ]
+  },
+  {
+    "id": "vasti",
+    "nombre": "Vasti",
+    "rv1909": "Vasthi",
+    "linea": "Reina de Persia apartada por no presentarse ante el rey.",
+    "lecciones": [
+      "ester"
+    ]
+  },
+  {
+    "id": "sanbalat",
+    "nombre": "Sanbalat",
+    "rv1909": "Samballat",
+    "linea": "Gobernante vecino que se burla y se opone a los muros.",
+    "lecciones": [
+      "nehemias"
+    ]
+  },
+  {
+    "id": "tobias-amonita",
+    "nombre": "Tobías el amonita",
+    "rv1909": "Tobías",
+    "linea": "Aliado de Sanbalat; se opone a la obra de Nehemías.",
+    "lecciones": [
+      "nehemias"
+    ]
+  },
+  {
+    "id": "alejandro-magno",
+    "nombre": "Alejandro Magno",
+    "linea": "Rey griego que vence a Persia y extiende la cultura griega.",
+    "lecciones": [
+      "entre-testamentos"
+    ]
+  },
+  {
+    "id": "antioco-iv",
+    "nombre": "Antíoco IV Epífanes",
+    "linea": "Rey seléucida que profana el templo y persigue la fe judía.",
+    "lecciones": [
+      "entre-testamentos"
+    ]
+  },
+  {
+    "id": "judas-macabeo",
+    "nombre": "Judas Macabeo",
+    "linea": "Guía la revuelta de los Macabeos y purifica el templo.",
+    "lecciones": [
+      "entre-testamentos"
     ]
   }
 ]
