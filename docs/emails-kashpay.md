@@ -75,6 +75,8 @@ Tom: o mesmo do app — carinho, esperança, nada de culpa, nada de urgência fa
 > - Mujeres Virtuosas de la Biblia
 > - **Tu Guía de Estudio con IA:** escribe el pasaje, el personaje o el tema que estás estudiando —«Génesis 22», «Abraham», «la fe»— y recibe en segundos todos los pasajes que se conectan, en el orden en que sucedieron y explicados con palabras sencillas. Sin ir de libro en libro.
 >
+> Y tu **regalo secreto**: el **Plan de Escucha de 30 días**, un audio por día por los grandes momentos de la historia bíblica, para escuchar camino al trabajo, en casa o antes de dormir.
+>
 > Los encuentras en la app, en **Leer → Guías**.
 >
 > Y en **Comunidad** puedes leer lo que otros hermanos están descubriendo, y compartir lo tuyo. Nadie tiene que caminar solo.

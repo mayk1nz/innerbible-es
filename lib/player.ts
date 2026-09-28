@@ -51,7 +51,8 @@ export function trackFor(product: Product, lesson: Lesson): Track | null {
     productId: product.id,
     lessonId: lesson.id,
     src: lesson.audioSrc,
-    title: lesson.title,
+    // Plan days ("Día 3") carry the audio's name in the subtitle.
+    title: lesson.subtitle && lesson.format === 'audio' ? `${lesson.title} · ${lesson.subtitle}` : lesson.title,
     subtitle: product.title,
     image: lesson.image,
   }

@@ -6,7 +6,7 @@ import { BenefitList, DealBadge, DealBox } from './Deal'
 import { Icon } from './icons'
 import { PageHeader } from './PageHeader'
 import { ProgressBar, buttonClass } from './ui'
-import { offerById, productById, type Offer, type Product } from '@/lib/catalog'
+import { offerById, productById, type Offer, type OfferId, type Product } from '@/lib/catalog'
 import { DEALS, type UpsellId } from '@/lib/deals'
 import { isOwned, lessonHref, nextLesson, productProgress } from '@/lib/progress'
 import type { AppState } from '@/lib/store'
@@ -82,6 +82,34 @@ export function ProductTile({ product, state }: { product: Product; state: AppSt
           )}
         </span>
       </span>
+    </Link>
+  )
+}
+
+/**
+ * In the listening plan (the secret gift): the full Resumen en Audio for whoever does not
+ * have it yet — 30 audios here, 68 there.
+ */
+export function AudioPromo({ owned }: { owned: readonly OfferId[] }) {
+  if (owned.includes('upsell1')) return null
+  return (
+    <Link
+      href="/modulo/cronologico-audio"
+      className="mt-5 flex items-center gap-3.5 rounded-3xl border border-gold/40 bg-gold-soft/50 p-4 transition hover:bg-gold-soft active:scale-[0.99]"
+    >
+      <span className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-gold-bright">
+        <Icon name="headphones" className="size-6" />
+      </span>
+      <span className="min-w-0 flex-1">
+        <span className="flex flex-wrap items-center gap-2">
+          <span className="font-serif text-[17px] font-semibold text-ink">¿Te gusta escuchar?</span>
+          <DealBadge offer="upsell1" />
+        </span>
+        <span className="mt-0.5 block text-[14.5px] leading-snug text-text">
+          Este plan tiene 30 audios. El Resumen Cronológico en Audio completo tiene los 68, de la creación al Apocalipsis.
+        </span>
+      </span>
+      <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
     </Link>
   )
 }

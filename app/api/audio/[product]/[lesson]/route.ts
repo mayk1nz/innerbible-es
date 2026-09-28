@@ -26,7 +26,7 @@ export async function GET(_request: Request, { params }: Params) {
   try {
     const owned = await ownedOffers(email)
     if (!owned.includes(product.offer)) return new Response('Forbidden', { status: 403 })
-    const { data, error } = await db().storage.from(SITE.audioBucket).createSignedUrl(`${productId}/${lessonId}.mp3`, LINK_SECONDS)
+    const { data, error } = await db().storage.from(SITE.audioBucket).createSignedUrl(lesson.audioFile ?? `${productId}/${lessonId}.mp3`, LINK_SECONDS)
     // Not uploaded yet: the player shows "Audio en preparación".
     if (error || !data?.signedUrl) return new Response('Not found', { status: 404 })
     return new Response(null, { status: 302, headers: { location: data.signedUrl, 'cache-control': 'private, no-store' } })

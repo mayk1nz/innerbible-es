@@ -38,6 +38,8 @@ export interface Lesson {
   subtitle?: string
   format: LessonFormat
   audioSrc?: string
+  /** Storage file to play when the lesson reuses another product's audio ("cronologico-audio/genesis.mp3"). */
+  audioFile?: string
   /** Square cover of an audio lesson (public/audio-covers/<lesson>.webp). */
   image?: string
   content?: LessonContent
@@ -121,8 +123,31 @@ function audioLessons(productId: string, titles: string[]): Lesson[] {
   return lessons(titles, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/${productId}/${l.id}`, image: `/audio-covers/${l.id}.webp` }))
 }
 
-function numberedDays(count: number, format: LessonFormat): Lesson[] {
-  return Array.from({ length: count }, (_, i) => ({ id: `dia-${i + 1}`, title: `Día ${i + 1}`, format }))
+/**
+ * The listening plan (the secret gift of the front): 30 audios of the Resumen en Audio, one
+ * a day, through the key moments of the story. It plays the same files, so a member who
+ * enjoys it already knows what the full audio (68 audios) is like.
+ */
+const ESCUCHA = [
+  'Comienza aquí', 'Génesis', 'Job', 'Éxodo', 'Números', 'Josué', 'Jueces', 'Rut', '1 Samuel', '2 Samuel',
+  'Salmos', 'Proverbios', '1 Reyes 1-11', 'Jonás', 'Isaías', 'Jeremías', 'Daniel', 'Esdras', 'Ester', 'Nehemías',
+  'Lucas 1-2', 'Mateo 1-2', 'Juan 1', 'El ministerio de Jesús: una armonía de los evangelios', 'Hechos de los Apóstoles',
+  'Romanos', 'Efesios', 'Hebreos', 'Apocalipsis', 'Conclusión: del Génesis al Apocalipsis',
+]
+
+function listeningPlan(): Lesson[] {
+  return ESCUCHA.map((title, i) => {
+    const audio = slugify(title)
+    return {
+      id: `dia-${i + 1}`,
+      title: `Día ${i + 1}`,
+      subtitle: title,
+      format: 'audio' as const,
+      audioSrc: `/api/audio/plan-escucha/dia-${i + 1}`,
+      audioFile: `cronologico-audio/${audio}.mp3`,
+      image: `/audio-covers/${audio}.webp`,
+    }
+  })
 }
 
 /** Days of a plan inside a product with several plans: ids carry the plan, so they never clash. */
@@ -261,16 +286,7 @@ export const PRODUCTS: Product[] = [
       },
     ],
   },
-  {
-    id: 'plan-escucha',
-    title: 'Plan de Escucha · 30 Días',
-    short: 'Un audio por día durante un mes.',
-    description: 'Treinta días para escuchar la Palabra con constancia, un paso por día.',
-    kind: 'guia',
-    offer: 'upsell1',
-    cover: { ...AMBER, lines: ['Plan de', 'Escucha'], highlight: '30 días', icon: 'headphones' },
-    sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/plan-escucha/${l.id}` })) }],
-  },
+
   {
     id: 'caminando-gigantes',
     title: 'Biblioteca «Caminando con Gigantes»',
@@ -362,6 +378,17 @@ export const PRODUCTS: Product[] = [
     cover: { ...DUSK, lines: ['Tu guía de', 'estudio'], highlight: 'IA', icon: 'sparkles' },
     sections: [],
     href: '/estudio',
+  },
+  {
+    id: 'plan-escucha',
+    title: 'Regalo secreto: Plan de Escucha de 30 días',
+    short: 'Un audio por día, durante 30 días, por los grandes momentos de la historia bíblica.',
+    description:
+      'Tu regalo secreto: 30 audios del Resumen Cronológico en Audio, uno por día, de «Comienza aquí» al Apocalipsis. Escúchalos camino al trabajo, en casa o antes de dormir, y crea el hábito de escuchar la Palabra cada día.',
+    kind: 'guia',
+    offer: 'front',
+    cover: { ...AMBER, lines: ['Plan de', 'Escucha'], highlight: '30 días', icon: 'headphones' },
+    sections: [{ id: 'dias', title: '30 días', lessons: listeningPlan() }],
   },
 ]
 

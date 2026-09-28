@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
-import { LockedProduct } from '../cards'
+import { AudioPromo, LockedProduct } from '../cards'
 import { Cover } from '../Cover'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
@@ -20,7 +20,12 @@ export function ModuleView({ productId }: { productId: string }) {
   if (product.kind === 'enlace') return <LinkProduct product={product} />
   if (product.kind === 'herramienta') return <ToolProduct product={product} />
   if (product.tabs) return <TabbedModule product={product} completed={s.completed} lastLesson={s.lastLesson} />
-  return <ModuleContent product={product} completed={s.completed} />
+  return (
+    <>
+      <ModuleContent product={product} completed={s.completed} />
+      {product.id === 'plan-escucha' && <AudioPromo owned={s.owned} />}
+    </>
+  )
 }
 
 // â”€â”€â”€ Products with tabs (Palabras del SeÃ±or: the guide + its 90-day plans) â”€â”€â”€â”€

@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { AudioPlayer } from '../AudioPlayer'
 import { EstudioLesson } from './EstudioLesson'
-import { LockedProduct } from '../cards'
+import { AudioPromo, LockedProduct } from '../cards'
 import { Icon, type IconName } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { Avatar, FontScaleControl, buttonClass } from '../ui'
@@ -111,6 +111,7 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
       {track && (
         <div className="mb-5">
           <AudioPlayer track={track} cover={product.cover} />
+          {product.id === 'plan-escucha' && <AudioPromo owned={s.owned} />}
         </div>
       )}
 
