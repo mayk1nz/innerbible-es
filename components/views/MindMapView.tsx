@@ -112,7 +112,7 @@ export function MindMapView({ mapId, scale }: { mapId: string; scale: number }) 
         <figure className="rounded-2xl bg-gold-soft/60 px-5 py-4">
           <blockquote className="font-serif text-[1.08em] italic leading-relaxed text-ink">«{m.versiculo.texto}»</blockquote>
           <figcaption className="mt-2 text-[0.85em]">
-            <RefLink refText={m.versiculo.referencia} /> <span className="text-muted">· Reina-Valera 1909</span>
+            <RefLink refText={m.versiculo.referencia} />
           </figcaption>
         </figure>
       )}

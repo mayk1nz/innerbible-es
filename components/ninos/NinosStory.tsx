@@ -172,7 +172,7 @@ export function NinosStory({ id, scale, onPlayed }: { id: string; scale: number;
             <blockquote className="mt-2 font-serif text-[1.3em] font-semibold leading-snug text-ink">«{verso.texto}»</blockquote>
             <figcaption className="mt-2 text-[0.85em] text-muted">
               {verso.referencia}
-              {verso.fuente === 'adaptado' ? ' (adaptado)' : ' · Reina-Valera 1909'}
+              {verso.fuente === 'adaptado' ? ' (adaptado)' : ''}
             </figcaption>
           </figure>
 

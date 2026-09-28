@@ -301,7 +301,7 @@ function Result({
         </div>
       </div>
       <p className="mt-6 text-center text-[12.5px] leading-snug text-muted">
-        Conexiones: OpenBible.info (Treasury of Scripture Knowledge). Épocas: Theographic. Texto: Reina-Valera 1909.
+        Conexiones: OpenBible.info (Treasury of Scripture Knowledge). Épocas: Theographic.
       </p>
     </div>
   )

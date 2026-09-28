@@ -95,7 +95,7 @@ export function GuiaLesson({ guia, lessonId, scale }: { guia: string; lessonId: 
           <figure className="rounded-2xl bg-gold-soft/60 px-5 py-4">
             <blockquote className="font-serif text-[1.15em] italic leading-relaxed text-ink">«{l.versiculo.texto}»</blockquote>
             <figcaption className="mt-2 text-[0.85em]">
-              <RefLink refText={l.versiculo.referencia} /> <span className="text-muted">· Reina-Valera 1909</span>
+              <RefLink refText={l.versiculo.referencia} />
             </figcaption>
           </figure>
         )}

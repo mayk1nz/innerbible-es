@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { FontScaleControl, buttonClass } from '../ui'
-import { BIBLE_VERSION, BOOKS, bookById, chapterHref, loadBook, type BibleBook, type BookText } from '@/lib/biblia'
+import { BOOKS, bookById, chapterHref, loadBook, type BibleBook, type BookText } from '@/lib/biblia'
 import { useAppState } from '@/lib/store'
 
 // The whole Bible (Reina-Valera 1909, public domain) inside the app: an index of the
@@ -41,7 +41,7 @@ export function BibleIndex() {
 
   return (
     <>
-      <PageHeader back="/leer" title="La Biblia" subtitle={`Los 66 libros · ${BIBLE_VERSION}`} />
+      <PageHeader back="/leer" title="La Biblia" subtitle="Los 66 libros, con letra grande" />
 
       {last && lastBook && (
         <Link
@@ -160,7 +160,7 @@ export function ChapterReader({ bookId, chapter }: { bookId: string; chapter: nu
 
   return (
     <>
-      <PageHeader back="/biblia" eyebrow={BIBLE_VERSION} title={`${book.nombre} ${chapter}`} />
+      <PageHeader back="/biblia" eyebrow="La Biblia" title={`${book.nombre} ${chapter}`} />
 
       <div className="mb-5 flex items-center justify-between gap-3">
         <button type="button" onClick={() => setPicker((p) => !p)} aria-expanded={picker} className="flex min-h-11 items-center gap-1.5 rounded-full border border-line bg-surface px-4 text-[15px] font-semibold text-ink">
@@ -235,7 +235,6 @@ export function ChapterReader({ bookId, chapter }: { bookId: string; chapter: nu
           <span />
         )}
       </nav>
-      <p className="mt-4 text-center text-[13px] text-muted">Texto bíblico: {BIBLE_VERSION} (dominio público).</p>
     </>
   )
 }
