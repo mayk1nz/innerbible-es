@@ -1,0 +1,496 @@
+{
+  "audios": [
+    {
+      "id": "comienza-aqui",
+      "titulo": "Comienza aquí",
+      "estudio": [
+        "comienza-aqui"
+      ]
+    },
+    {
+      "id": "por-que-la-biblia-se-divide-en-antiguo-y-nuevo-testamento",
+      "titulo": "¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?",
+      "estudio": [
+        "antiguo-y-nuevo"
+      ]
+    },
+    {
+      "id": "genesis",
+      "titulo": "Génesis",
+      "estudio": [
+        "genesis-1-11",
+        "genesis-12-50"
+      ]
+    },
+    {
+      "id": "job",
+      "titulo": "Job",
+      "estudio": [
+        "job"
+      ]
+    },
+    {
+      "id": "exodo",
+      "titulo": "Éxodo",
+      "estudio": [
+        "exodo"
+      ]
+    },
+    {
+      "id": "levitico",
+      "titulo": "Levítico",
+      "estudio": [
+        "levitico"
+      ]
+    },
+    {
+      "id": "numeros",
+      "titulo": "Números",
+      "estudio": [
+        "numeros"
+      ]
+    },
+    {
+      "id": "deuteronomio",
+      "titulo": "Deuteronomio",
+      "estudio": [
+        "deuteronomio"
+      ]
+    },
+    {
+      "id": "josue",
+      "titulo": "Josué",
+      "estudio": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jueces",
+      "titulo": "Jueces",
+      "estudio": [
+        "jueces"
+      ]
+    },
+    {
+      "id": "rut",
+      "titulo": "Rut",
+      "estudio": [
+        "rut"
+      ]
+    },
+    {
+      "id": "1-samuel",
+      "titulo": "1 Samuel",
+      "estudio": [
+        "1-samuel"
+      ]
+    },
+    {
+      "id": "2-samuel",
+      "titulo": "2 Samuel",
+      "estudio": [
+        "2-samuel"
+      ]
+    },
+    {
+      "id": "1-cronicas",
+      "titulo": "1 Crónicas",
+      "estudio": [
+        "2-samuel",
+        "cronicas"
+      ]
+    },
+    {
+      "id": "salmos",
+      "titulo": "Salmos",
+      "estudio": [
+        "salmos"
+      ]
+    },
+    {
+      "id": "proverbios",
+      "titulo": "Proverbios",
+      "estudio": [
+        "proverbios"
+      ]
+    },
+    {
+      "id": "eclesiastes",
+      "titulo": "Eclesiastés",
+      "estudio": [
+        "eclesiastes"
+      ]
+    },
+    {
+      "id": "cantares-de-salomon",
+      "titulo": "Cantares de Salomón",
+      "estudio": [
+        "cantares"
+      ]
+    },
+    {
+      "id": "1-reyes-1-11",
+      "titulo": "1 Reyes 1-11",
+      "estudio": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "2-cronicas-1-9",
+      "titulo": "2 Crónicas 1-9",
+      "estudio": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "jonas",
+      "titulo": "Jonás",
+      "estudio": [
+        "jonas"
+      ]
+    },
+    {
+      "id": "amos",
+      "titulo": "Amós",
+      "estudio": [
+        "amos"
+      ]
+    },
+    {
+      "id": "oseas",
+      "titulo": "Oseas",
+      "estudio": [
+        "oseas"
+      ]
+    },
+    {
+      "id": "isaias",
+      "titulo": "Isaías",
+      "estudio": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "miqueas",
+      "titulo": "Miqueas",
+      "estudio": [
+        "miqueas"
+      ]
+    },
+    {
+      "id": "nahum",
+      "titulo": "Nahúm",
+      "estudio": [
+        "nahum"
+      ]
+    },
+    {
+      "id": "sofonias",
+      "titulo": "Sofonías",
+      "estudio": [
+        "sofonias"
+      ]
+    },
+    {
+      "id": "habacuc",
+      "titulo": "Habacuc",
+      "estudio": [
+        "habacuc"
+      ]
+    },
+    {
+      "id": "jeremias",
+      "titulo": "Jeremías",
+      "estudio": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "lamentaciones",
+      "titulo": "Lamentaciones",
+      "estudio": [
+        "lamentaciones"
+      ]
+    },
+    {
+      "id": "abdias",
+      "titulo": "Abdías",
+      "estudio": [
+        "abdias"
+      ]
+    },
+    {
+      "id": "ezequiel",
+      "titulo": "Ezequiel",
+      "estudio": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "daniel",
+      "titulo": "Daniel",
+      "estudio": [
+        "daniel"
+      ]
+    },
+    {
+      "id": "esdras",
+      "titulo": "Esdras",
+      "estudio": [
+        "esdras-1-6",
+        "esdras-7-10"
+      ]
+    },
+    {
+      "id": "hageo",
+      "titulo": "Hageo",
+      "estudio": [
+        "hageo"
+      ]
+    },
+    {
+      "id": "zacarias",
+      "titulo": "Zacarías",
+      "estudio": [
+        "zacarias"
+      ]
+    },
+    {
+      "id": "ester",
+      "titulo": "Ester",
+      "estudio": [
+        "ester"
+      ]
+    },
+    {
+      "id": "nehemias",
+      "titulo": "Nehemías",
+      "estudio": [
+        "nehemias"
+      ]
+    },
+    {
+      "id": "malaquias",
+      "titulo": "Malaquías",
+      "estudio": [
+        "malaquias"
+      ]
+    },
+    {
+      "id": "lucas-1-2",
+      "titulo": "Lucas 1-2",
+      "estudio": [
+        "anuncios",
+        "nacimiento"
+      ]
+    },
+    {
+      "id": "mateo-1-2",
+      "titulo": "Mateo 1-2",
+      "estudio": [
+        "anuncios",
+        "nacimiento"
+      ]
+    },
+    {
+      "id": "marcos-1",
+      "titulo": "Marcos 1",
+      "estudio": [
+        "inicio-ministerio"
+      ]
+    },
+    {
+      "id": "juan-1",
+      "titulo": "Juan 1",
+      "estudio": [
+        "el-verbo",
+        "inicio-ministerio"
+      ]
+    },
+    {
+      "id": "el-ministerio-de-jesus-una-armonia-de-los-evangelios",
+      "titulo": "El ministerio de Jesús: una armonía de los evangelios",
+      "estudio": [
+        "galilea-ensenanzas",
+        "galilea-milagros",
+        "camino-a-jerusalen",
+        "ultima-semana",
+        "pasion-y-muerte",
+        "resurreccion"
+      ]
+    },
+    {
+      "id": "hechos-de-los-apostoles",
+      "titulo": "Hechos de los Apóstoles",
+      "estudio": [
+        "hechos-1-7",
+        "hechos-8-12",
+        "hechos-13-14",
+        "hechos-15-18",
+        "hechos-18-20",
+        "hechos-21-28"
+      ]
+    },
+    {
+      "id": "santiago",
+      "titulo": "Santiago",
+      "estudio": [
+        "santiago"
+      ]
+    },
+    {
+      "id": "galatas",
+      "titulo": "Gálatas",
+      "estudio": [
+        "galatas"
+      ]
+    },
+    {
+      "id": "1-tesalonicenses",
+      "titulo": "1 Tesalonicenses",
+      "estudio": [
+        "1-tesalonicenses"
+      ]
+    },
+    {
+      "id": "2-tesalonicenses",
+      "titulo": "2 Tesalonicenses",
+      "estudio": [
+        "2-tesalonicenses"
+      ]
+    },
+    {
+      "id": "1-corintios",
+      "titulo": "1 Corintios",
+      "estudio": [
+        "1-corintios"
+      ]
+    },
+    {
+      "id": "2-corintios",
+      "titulo": "2 Corintios",
+      "estudio": [
+        "2-corintios"
+      ]
+    },
+    {
+      "id": "romanos",
+      "titulo": "Romanos",
+      "estudio": [
+        "romanos"
+      ]
+    },
+    {
+      "id": "efesios",
+      "titulo": "Efesios",
+      "estudio": [
+        "efesios"
+      ]
+    },
+    {
+      "id": "filipenses",
+      "titulo": "Filipenses",
+      "estudio": [
+        "filipenses"
+      ]
+    },
+    {
+      "id": "colosenses",
+      "titulo": "Colosenses",
+      "estudio": [
+        "colosenses"
+      ]
+    },
+    {
+      "id": "filemon",
+      "titulo": "Filemón",
+      "estudio": [
+        "filemon"
+      ]
+    },
+    {
+      "id": "1-timoteo",
+      "titulo": "1 Timoteo",
+      "estudio": [
+        "1-timoteo"
+      ]
+    },
+    {
+      "id": "tito",
+      "titulo": "Tito",
+      "estudio": [
+        "tito"
+      ]
+    },
+    {
+      "id": "2-timoteo",
+      "titulo": "2 Timoteo",
+      "estudio": [
+        "2-timoteo"
+      ]
+    },
+    {
+      "id": "1-pedro",
+      "titulo": "1 Pedro",
+      "estudio": [
+        "1-pedro"
+      ]
+    },
+    {
+      "id": "2-pedro",
+      "titulo": "2 Pedro",
+      "estudio": [
+        "2-pedro"
+      ]
+    },
+    {
+      "id": "hebreos",
+      "titulo": "Hebreos",
+      "estudio": [
+        "hebreos"
+      ]
+    },
+    {
+      "id": "judas",
+      "titulo": "Judas",
+      "estudio": [
+        "judas"
+      ]
+    },
+    {
+      "id": "1-juan",
+      "titulo": "1 Juan",
+      "estudio": [
+        "1-juan"
+      ]
+    },
+    {
+      "id": "2-juan",
+      "titulo": "2 Juan",
+      "estudio": [
+        "2-juan"
+      ]
+    },
+    {
+      "id": "3-juan",
+      "titulo": "3 Juan",
+      "estudio": [
+        "3-juan"
+      ]
+    },
+    {
+      "id": "apocalipsis",
+      "titulo": "Apocalipsis",
+      "estudio": [
+        "apocalipsis"
+      ]
+    },
+    {
+      "id": "conclusion-del-genesis-al-apocalipsis",
+      "titulo": "Conclusión: del Génesis al Apocalipsis",
+      "estudio": [
+        "conclusion"
+      ]
+    }
+  ]
+}

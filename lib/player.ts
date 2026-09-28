@@ -29,14 +29,17 @@ export interface PlayerState {
   rate: number
   /** The file is not there (not uploaded yet). */
   missing: boolean
+  /** Modo descanso: when the audio stops by itself (epoch ms), or at the end of the current audio. */
+  sleep: number | 'fin' | null
 }
 
 const RATES = [1, 1.25, 1.5, 2, 0.75]
-const IDLE: PlayerState = { track: null, playing: false, time: 0, duration: 0, rate: 1, missing: false }
+const IDLE: PlayerState = { track: null, playing: false, time: 0, duration: 0, rate: 1, missing: false, sleep: null }
 
 let state: PlayerState = IDLE
 let audio: HTMLAudioElement | null = null
 let lastSaved = 0
+let sleepTimer: ReturnType<typeof setTimeout> | null = null
 const listeners = new Set<() => void>()
 
 function set(patch: Partial<PlayerState>): void {
@@ -103,6 +106,8 @@ function element(): HTMLAudioElement {
     if (!t) return
     saveAudioPosition(t.key, 0)
     completeLesson(t.key)
+    // Modo descanso "al terminar este audio": stop here.
+    if (state.sleep === 'fin') return set({ sleep: null })
     // Like an audiobook: the next chapter starts by itself.
     const next = neighbour(1)
     if (next) playTrack(next)
@@ -180,6 +185,37 @@ export function previous(): void {
   if (t) playTrack(t)
 }
 
+/**
+ * Modo descanso: stop after minutes (the volume fades out over the last seconds), at the
+ * end of the current audio ('fin'), or cancel (null). Meant for listening in bed.
+ */
+export function setSleep(minutes: number | 'fin' | null): void {
+  if (sleepTimer) clearTimeout(sleepTimer)
+  sleepTimer = null
+  if (typeof minutes === 'number') {
+    sleepTimer = setTimeout(fadeOutAndPause, minutes * 60_000)
+    return set({ sleep: Date.now() + minutes * 60_000 })
+  }
+  set({ sleep: minutes })
+}
+
+function fadeOutAndPause(): void {
+  sleepTimer = null
+  const el = element()
+  const start = el.volume
+  let step = 0
+  const fade = setInterval(() => {
+    step++
+    el.volume = Math.max(0, start * (1 - step / 20))
+    if (step >= 20) {
+      clearInterval(fade)
+      el.pause()
+      el.volume = start
+      set({ sleep: null })
+    }
+  }, 300)
+}
+
 export function hasNeighbour(delta: 1 | -1): boolean {
   return neighbour(delta) !== null
 }
@@ -191,6 +227,7 @@ export function closePlayer(): void {
     saveAudioPosition(state.track.key, el.currentTime)
     el.pause()
   }
+  setSleep(null)
   set({ ...IDLE, rate: state.rate })
 }
 

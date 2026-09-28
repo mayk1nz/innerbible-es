@@ -3,8 +3,8 @@
 import { useEffect, useState } from 'react'
 import { Icon } from './icons'
 import type { CoverStyle } from '@/lib/catalog'
-import { cycleRate, hasNeighbour, next, playTrack, previous, seek, seekBy, toggle, usePlayer, type Track } from '@/lib/player'
-import { useAppState } from '@/lib/store'
+import { cycleRate, hasNeighbour, next, playTrack, previous, seek, seekBy, setSleep, toggle, usePlayer, type Track } from '@/lib/player'
+import { useAppState, useNowMinute } from '@/lib/store'
 
 // The lesson's big player: a view of the app's one audio player (lib/player.ts), so
 // leaving the page keeps the audio going in the mini player. Speed, ±15 s and the
@@ -62,7 +62,7 @@ function useAvailable(src: string): boolean | null {
 
 export function AudioPlayer({ track, cover }: { track: Track; cover?: CoverStyle }) {
   const p = usePlayer()
-  const { audioPos } = useAppState()
+  const { audioPos, owned } = useAppState()
   const available = useAvailable(track.src)
   const current = p.track?.key === track.key
   const missing = available === false || (current && p.missing)
@@ -138,6 +138,65 @@ export function AudioPlayer({ track, cover }: { track: Track; cover?: CoverStyle
           <Icon name="skipForward" className="size-6" />
         </button>
       </div>
+      {owned.includes('upsell1') && <SleepControl />}
+    </div>
+  )
+}
+
+const SLEEP_OPTIONS: { value: number | 'fin'; label: string }[] = [
+  { value: 15, label: '15 min' },
+  { value: 30, label: '30 min' },
+  { value: 60, label: '1 hora' },
+  { value: 'fin', label: 'Al terminar este audio' },
+]
+
+/** Modo descanso (Resumen en Audio): the audio stops by itself, to listen in bed. */
+function SleepControl() {
+  const p = usePlayer()
+  const [open, setOpen] = useState(false)
+  const now = useNowMinute()
+  const left = typeof p.sleep === 'number' ? Math.max(1, Math.ceil(p.sleep / 60_000 - now)) : null
+
+  return (
+    <div className="mt-4 border-t border-line-soft pt-3">
+      <button
+        type="button"
+        onClick={() => setOpen((o) => !o)}
+        aria-expanded={open}
+        className="flex min-h-11 w-full items-center justify-center gap-2 rounded-2xl text-[15px] font-semibold text-ink transition hover:bg-surface-hover"
+      >
+        <Icon name="moon" className="size-5 text-gold" />
+        {p.sleep === 'fin' ? 'Modo descanso: al terminar este audio' : left ? `Modo descanso: se apaga en ${left} min` : 'Modo descanso'}
+      </button>
+      {open && (
+        <div className="mt-2 flex flex-wrap justify-center gap-2">
+          {SLEEP_OPTIONS.map((o) => (
+            <button
+              key={o.label}
+              type="button"
+              onClick={() => {
+                setSleep(o.value)
+                setOpen(false)
+              }}
+              className="min-h-11 rounded-full border border-line bg-surface-2 px-4 text-[14.5px] font-medium text-ink transition hover:bg-gold-soft"
+            >
+              {o.label}
+            </button>
+          ))}
+          {p.sleep !== null && (
+            <button
+              type="button"
+              onClick={() => {
+                setSleep(null)
+                setOpen(false)
+              }}
+              className="min-h-11 rounded-full px-4 text-[14.5px] font-medium text-muted underline-offset-4 hover:underline"
+            >
+              Apagar
+            </button>
+          )}
+        </div>
+      )}
     </div>
   )
 }

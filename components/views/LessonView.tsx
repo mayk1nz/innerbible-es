@@ -10,6 +10,7 @@ import { NinosStory } from '../ninos/NinosStory'
 import { ReadingDay } from './ReadingDay'
 import { AudioPromo, LockedProduct } from '../cards'
 import { ListeningDay } from '../ListeningDay'
+import { EscuchaGuide, escuchaId } from '../EscuchaGuide'
 import { Icon, type IconName } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { Avatar, FontScaleControl, buttonClass } from '../ui'
@@ -116,6 +117,7 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
       {track && (
         <div className="mb-5">
           <AudioPlayer track={track} cover={product.cover} />
+          {escuchaId(product.id, lesson) && <EscuchaGuide id={escuchaId(product.id, lesson) ?? ''} />}
           {product.id === 'plan-escucha' && <AudioPromo owned={s.owned} />}
         </div>
       )}
