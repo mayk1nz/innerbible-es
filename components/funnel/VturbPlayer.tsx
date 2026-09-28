@@ -38,6 +38,12 @@ export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: (
     const player = document.createElement('vturb-smartplayer') as SmartPlayer
     player.id = video.playerId
     player.style.cssText = 'display:block;margin:0 auto;width:100%;max-width:400px;'
+    // VTurb's placeholder: the video's own box (portrait, 134%) before the script loads,
+    // so the page does not jump when the player appears.
+    const box = document.createElement('div')
+    box.className = 'vturb-player-placeholder'
+    box.style.cssText = 'position:relative;width:100%;padding:134.07407407407408% 0 0;z-index:0;background-color:black;'
+    player.appendChild(box)
     const onReady = () => {
       if (video.delaySeconds > 0) player.displayHiddenElements?.(video.delaySeconds, [`#${sentinelId}`], { persist: true })
     }

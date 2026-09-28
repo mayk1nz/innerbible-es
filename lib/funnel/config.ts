@@ -51,14 +51,14 @@ export const FUNNEL = {
     price: num(process.env.NEXT_PUBLIC_PRICE_FRONT, 11.9),
     /** Crossed-out "was" price. 0 → no anchor shown (never invent one). */
     priceFrom: num(process.env.NEXT_PUBLIC_PRICE_FRONT_FROM, 188),
-    // Owner's VTurb player "Resumen Cronológico de la Biblia". The offer appears at
-    // 10:15 (615 s), when the video reaches the price.
+    // Owner's VTurb player of the new front VSL (Estudio Cronológico). The offer appears at
+    // 10:40 (640 s), when the video reaches the price.
     video: {
-      playerId: process.env.NEXT_PUBLIC_VTURB_FRONT_ID || 'vid-6ab58aff91c2cea332a2396c',
+      playerId: process.env.NEXT_PUBLIC_VTURB_FRONT_ID || 'vid-6abae891139de073836850d2',
       scriptUrl:
         process.env.NEXT_PUBLIC_VTURB_FRONT_SCRIPT ||
-        'https://scripts.converteai.net/90eef771-3dd8-46c8-b5b3-3c5b48ea076b/players/6ab58aff91c2cea332a2396c/v4/player.js',
-      delaySeconds: num(process.env.NEXT_PUBLIC_VTURB_FRONT_DELAY, 615),
+        'https://scripts.converteai.net/90eef771-3dd8-46c8-b5b3-3c5b48ea076b/players/6abae891139de073836850d2/v4/player.js',
+      delaySeconds: num(process.env.NEXT_PUBLIC_VTURB_FRONT_DELAY, 640),
     } satisfies VslConfig,
   },
   /** Upsell 1 — Resumen Cronológico en Audio. */
@@ -69,7 +69,14 @@ export const FUNNEL = {
     checkoutUrl: process.env.NEXT_PUBLIC_KASHPAY_UP1_URL || 'https://checkout.kashpay.com.br/u/3b7c5fb39b1a3127',
     price: num(process.env.NEXT_PUBLIC_PRICE_UP1, 4.9),
     priceFrom: 0,
-    video: noVideo(process.env.NEXT_PUBLIC_VTURB_UP1_ID, process.env.NEXT_PUBLIC_VTURB_UP1_SCRIPT, process.env.NEXT_PUBLIC_VTURB_UP1_DELAY),
+    // Owner's VTurb player of the upsell 1 VSL; the offer appears at 6:25 (385 s).
+    video: {
+      playerId: process.env.NEXT_PUBLIC_VTURB_UP1_ID || 'vid-6abaf85538fddd9e2e9332fc',
+      scriptUrl:
+        process.env.NEXT_PUBLIC_VTURB_UP1_SCRIPT ||
+        'https://scripts.converteai.net/90eef771-3dd8-46c8-b5b3-3c5b48ea076b/players/6abaf85538fddd9e2e9332fc/v4/player.js',
+      delaySeconds: num(process.env.NEXT_PUBLIC_VTURB_UP1_DELAY, 385),
+    } satisfies VslConfig,
   } satisfies OneClickOffer,
   /** Downsell of upsell 1 — the audio at half price. */
   down1: {
