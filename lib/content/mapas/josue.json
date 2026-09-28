@@ -1,0 +1,215 @@
+{
+  "id": "josue",
+  "tipo": "libro",
+  "titulo": "Josué",
+  "subtitulo": "Israel entra en la tierra prometida",
+  "libro": "Josh",
+  "centro": {
+    "texto": "Dios cumple su promesa y lleva a su pueblo a la tierra.",
+    "textoNino": "Dios llevó a su pueblo a la tierra que prometió."
+  },
+  "versiculo": {
+    "texto": "Mira que te mando que te esfuerces y seas valiente: no temas ni desmayes, porque Jehová tu Dios será contigo en donde quiera que fueres.",
+    "referencia": "Josué 1:9"
+  },
+  "ramas": [
+    {
+      "titulo": "Cruzar el Jordán",
+      "capitulos": "1–5",
+      "color": "dawn",
+      "resumen": "Moisés ha muerto y Josué guía al pueblo. Dios le pide valor y le promete estar con él. Rahab ayuda a los espías y el pueblo cruza el Jordán en seco.",
+      "resumenNino": "Dios ayudó a Josué a cruzar el río con todo el pueblo.",
+      "hojas": [
+        {
+          "titulo": "Esfuérzate y sé valiente",
+          "texto": "Dios le repite a Josué que no tema. Le promete: «Jehová tu Dios será contigo en donde quiera que fueres».",
+          "textoNino": "Dios le dijo a Josué: «No tengas miedo, yo estoy contigo».",
+          "referencia": "Josué 1:1-9",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Rahab esconde a los espías",
+          "texto": "Rahab, una mujer de Jericó, esconde a dos espías de Israel. Ella confiesa que el Dios de Israel es Dios del cielo y de la tierra.",
+          "textoNino": "Rahab escondió a los espías porque creyó en Dios.",
+          "referencia": "Josué 2:1-21",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El río se detiene",
+          "texto": "Los sacerdotes con el arca entran al Jordán. El agua se detiene y todo Israel pasa en seco.",
+          "textoNino": "El río se detuvo y todos cruzaron sin mojarse.",
+          "referencia": "Josué 3:14-17",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Doce piedras",
+          "texto": "Levantan doce piedras del río. Cuando los hijos pregunten qué significan, los padres contarán lo que Dios hizo.",
+          "textoNino": "Doce piedras ayudaban a recordar lo que Dios hizo.",
+          "referencia": "Josué 4:1-7",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Jericó y Hai",
+      "capitulos": "6–8",
+      "color": "amber",
+      "resumen": "Los muros de Jericó caen tras siete días de marcha y trompetas. Rahab y su familia se salvan. En Hai, el pecado de uno trae derrota, pero Dios restaura al pueblo.",
+      "resumenNino": "Los muros de Jericó cayeron cuando el pueblo obedeció a Dios.",
+      "hojas": [
+        {
+          "titulo": "Los muros caen",
+          "texto": "El pueblo rodea Jericó siete días con el arca y las trompetas. Al séptimo día gritan, y el muro cae.",
+          "textoNino": "Caminaron, tocaron trompetas y gritaron. ¡Los muros cayeron!",
+          "referencia": "Josué 6:1-20",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Rahab es salvada",
+          "texto": "Josué cumple la promesa hecha a Rahab. Ella y toda su familia se salvan y viven desde entonces en medio de Israel.",
+          "textoNino": "Rahab y su familia fueron salvados.",
+          "referencia": "Josué 6:22-25",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La ley leída a todos",
+          "texto": "Después de Hai, Josué construye un altar en el monte Ebal. Lee toda la ley ante el pueblo, también a las mujeres, los niños y los extranjeros.",
+          "textoNino": "Josué leyó la palabra de Dios a grandes y chicos.",
+          "referencia": "Josué 8:30-35",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "La tierra es tomada",
+      "capitulos": "9–12",
+      "color": "rose",
+      "resumen": "Josué gana batallas en el sur y en el norte, y la tierra descansa de la guerra. Son relatos de guerra de otro tiempo, difíciles de leer hoy.",
+      "resumenNino": "Dios ayudó a Josué, y al final hubo paz en la tierra.",
+      "hojas": [
+        {
+          "titulo": "El engaño de Gabaón",
+          "texto": "Los de Gabaón fingen venir de lejos. Israel hace pacto con ellos sin consultar a Dios, pero después cumple su palabra.",
+          "textoNino": "Josué hizo un trato sin preguntar a Dios primero.",
+          "referencia": "Josué 9:3-27",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El sol se detiene",
+          "texto": "Josué ora en medio de la batalla por Gabaón. El sol se detiene casi un día entero: «Jehová peleaba por Israel».",
+          "textoNino": "Josué oró y el día duró más.",
+          "referencia": "Josué 10:12-14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La tierra reposó",
+          "texto": "Josué toma la tierra, como Dios dijo a Moisés, y la entrega a las tribus. «La tierra reposó de guerra».",
+          "textoNino": "Por fin llegó la paz.",
+          "referencia": "Josué 11:16-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "La tierra repartida",
+      "capitulos": "13–21",
+      "color": "olive",
+      "resumen": "Josué reparte la tierra entre las tribus. El tabernáculo queda en Silo y se apartan ciudades de refugio. Dios cumple todas sus buenas promesas.",
+      "resumenNino": "Cada familia recibió su parte de la tierra.",
+      "hojas": [
+        {
+          "titulo": "Caleb pide su monte",
+          "texto": "A los ochenta y cinco años, Caleb sigue fuerte y confiado. Pide el monte que Dios le prometió cuarenta y cinco años antes.",
+          "textoNino": "Caleb, ya abuelo, seguía confiando en Dios.",
+          "referencia": "Josué 14:6-15",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El tabernáculo en Silo",
+          "texto": "Todo el pueblo se reúne en Silo y levanta allí el tabernáculo. Desde allí se reparte el resto de la tierra.",
+          "textoNino": "Pusieron la casa de Dios en un lugar llamado Silo.",
+          "referencia": "Josué 18:1-10",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Todo se cumplió",
+          "texto": "Dios da a Israel toda la tierra que prometió a sus padres. El libro lo resume con alegría: «todo se cumplió».",
+          "textoNino": "Dios cumplió todo lo que prometió.",
+          "referencia": "Josué 21:43-45",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Escoge a quién servir",
+      "capitulos": "22–24",
+      "color": "dusk",
+      "resumen": "Antes de morir, Josué reúne al pueblo. Les recuerda todo lo que Dios hizo y les pide elegir. El pueblo renueva el pacto en Siquem.",
+      "resumenNino": "Josué dijo: «Yo y mi familia seguiremos a Dios».",
+      "hojas": [
+        {
+          "titulo": "Un altar de testimonio",
+          "texto": "Las tribus del otro lado del Jordán levantan un altar. Hay un malentendido, pero hablan y se entienden: es un testimonio de que el Señor es Dios.",
+          "textoNino": "Hablaron en vez de pelear, y todo se aclaró.",
+          "referencia": "Josué 22:10-34",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Ni una palabra falló",
+          "texto": "Ya anciano, Josué dice al pueblo: reconoced que no se ha perdido ni una de las buenas palabras de Dios.",
+          "textoNino": "Josué dijo: «Dios nunca falló».",
+          "referencia": "Josué 23:14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Yo y mi casa",
+          "texto": "Josué pone al pueblo ante una decisión: «escogeos hoy a quién sirváis». Y da su respuesta: «yo y mi casa serviremos a Jehová».",
+          "textoNino": "Josué y su familia eligieron servir a Dios.",
+          "referencia": "Josué 24:14-15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Pacto en Siquem",
+          "texto": "El pueblo promete servir al Señor. Josué escribe las palabras y levanta una gran piedra como testigo.",
+          "textoNino": "Pusieron una piedra grande para recordar su promesa.",
+          "referencia": "Josué 24:24-28",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Josué y Jesús llevan el mismo nombre en hebreo, que habla de que el Señor salva. Hebreos dice que, después de Josué, aún «queda un reposo para el pueblo de Dios». Y Rahab aparece entre los antepasados de Jesús.",
+    "referencias": ["Hebreos 4:8-9", "Mateo 1:5"]
+  },
+  "paraTuVida": [
+    "Guarda una «piedra de recuerdo»: escribe algo que Dios hizo por ti y compártelo.",
+    "Di hoy con tu familia, a tu manera: «yo y mi casa serviremos a Jehová»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué pasó con el agua del Jordán cuando entraron los sacerdotes?",
+      "opciones": ["Se detuvo", "Creció", "Se volvió roja"],
+      "correcta": 0,
+      "explicacion": "Las aguas se detuvieron y todo Israel pasó en seco (Josué 3:16-17)."
+    },
+    {
+      "pregunta": "¿Cuántos días rodearon los muros de Jericó?",
+      "opciones": ["Tres", "Siete", "Cuarenta"],
+      "correcta": 1,
+      "explicacion": "Rodearon Jericó siete días; al séptimo cayó el muro (Josué 6:14-20)."
+    },
+    {
+      "pregunta": "¿En qué lista del Nuevo Testamento aparece Rahab?",
+      "opciones": ["Entre los doce apóstoles", "Entre los jueces", "Entre los antepasados de Jesús"],
+      "correcta": 2,
+      "explicacion": "Mateo 1:5 nombra a Rahab en la familia de la que nace Jesús."
+    }
+  ],
+  "estudio": ["josue"],
+  "conexiones": [
+    { "id": "jueces", "motivo": "Después de Josué, Israel olvida a Dios una y otra vez." },
+    { "id": "deuteronomio", "motivo": "Moisés prepara a Josué antes de morir." },
+    { "id": "rut", "motivo": "Booz, hijo de Rahab según Mateo 1:5, aparece en Rut." }
+  ]
+}

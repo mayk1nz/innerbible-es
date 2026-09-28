@@ -1,0 +1,157 @@
+{
+  "id": "judas",
+  "tipo": "libro",
+  "titulo": "Judas",
+  "subtitulo": "Cuida la fe que recibiste",
+  "libro": "Jude",
+  "centro": {
+    "texto": "Cuida la fe que recibiste: Dios puede guardarte sin caída hasta el final",
+    "textoNino": "Dios te cuida para que no te caigas"
+  },
+  "versiculo": {
+    "texto": "A aquel, pues, que es poderoso para guardaros sin caída, y presentaros delante de su gloria irreprensibles, con grande alegría, Al Dios solo sabio, nuestro Salvador, sea gloria y magnificencia, imperio y potencia, ahora y en todos los siglos. Amén.",
+    "referencia": "Judas 1:24-25"
+  },
+  "ramas": [
+    {
+      "titulo": "Defiende la fe",
+      "capitulos": "1:1-4",
+      "color": "warm",
+      "resumen": "Judas quería escribir sobre la salvación que compartimos. Pero debe avisar: algunos entraron a escondidas y usan la gracia como excusa para el mal.",
+      "resumenNino": "Judas pide cuidar la fe como un tesoro.",
+      "hojas": [
+        {
+          "titulo": "Hermano de Santiago",
+          "texto": "El autor se presenta como «hermano de Jacobo», es decir, de Santiago. Muchos lo relacionan con la familia de Jesús; las iglesias entienden ese parentesco de distintas maneras.",
+          "textoNino": "Judas escribe a los amados de Dios, que él cuida.",
+          "referencia": "Judas 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La fe dada una vez",
+          "texto": "Judas pide defender la fe «una vez dada a los santos». Algunos la tuercen y niegan a Jesús como Señor.",
+          "textoNino": "La fe en Jesús es un regalo que cuidamos.",
+          "referencia": "Judas 1:3-4",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprender del pasado",
+      "capitulos": "1:5-16",
+      "color": "amber",
+      "resumen": "Judas recuerda historias antiguas: el pueblo en el desierto, Sodoma, Caín, Balaam y Coré. Quienes engañan son como nubes sin agua: prometen y no dan.",
+      "resumenNino": "La Biblia nos cuenta historias para aprender a elegir bien.",
+      "hojas": [
+        {
+          "titulo": "Historias que avisan",
+          "texto": "Dios sacó a su pueblo de Egipto, pero algunos no creyeron. Judas recuerda también a Sodoma. Son avisos para no alejarnos de Dios.",
+          "textoNino": "Dios nos avisa porque nos quiere.",
+          "referencia": "Judas 1:5-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ni el arcángel Miguel",
+          "texto": "Miguel no insultó al diablo; solo dijo: «El Señor te reprenda». Los que engañan, en cambio, hablan mal de lo que no entienden.",
+          "textoNino": "Miguel dejó el juicio en manos de Dios.",
+          "referencia": "Judas 1:8-10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Nubes sin agua",
+          "texto": "Siguen el camino de Caín y de Balaam. Son como nubes sin lluvia y árboles sin fruto: mucha apariencia y nada que dar.",
+          "textoNino": "Algunos parecen buenos por fuera, pero no dan fruto.",
+          "referencia": "Judas 1:11-13",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Crecer y cuidar",
+      "capitulos": "1:17-23",
+      "color": "dawn",
+      "resumen": "Judas recuerda lo que dijeron los apóstoles. Pide edificarse en la fe, orar en el Espíritu, quedarse en el amor de Dios y tener compasión de los que dudan.",
+      "resumenNino": "Oramos, crecemos en la fe y ayudamos a los que dudan.",
+      "hojas": [
+        {
+          "titulo": "Recuerden a los apóstoles",
+          "texto": "Los apóstoles ya avisaron que vendrían burladores. Por eso no hay que asustarse, sino recordar y seguir firmes.",
+          "textoNino": "Recordamos lo que enseñaron los amigos de Jesús.",
+          "referencia": "Judas 1:17-19",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Edificados y guardados",
+          "texto": "Construye tu vida sobre la fe, ora por el Espíritu Santo y quédate en el amor de Dios, esperando su misericordia.",
+          "textoNino": "Oramos y nos quedamos cerca del amor de Dios.",
+          "referencia": "Judas 1:20-21",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Compasión con los que dudan",
+          "texto": "Algunos dudan o se alejan. Judas pide tratarlos con misericordia y ayudarlos a volver, sin dejarse arrastrar por el mal.",
+          "textoNino": "Ayudamos con cariño a quien tiene dudas.",
+          "referencia": "Judas 1:22-23",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Poderoso para guardarte",
+      "capitulos": "1:24-25",
+      "color": "olive",
+      "resumen": "La carta termina con alabanza. Dios puede guardarnos sin caer y presentarnos ante su gloria con gran alegría. A él sea la gloria para siempre.",
+      "resumenNino": "Dios te sostiene de la mano para que no caigas.",
+      "hojas": [
+        {
+          "titulo": "Sin caída",
+          "texto": "No depende solo de nuestras fuerzas. Dios es poderoso para guardarnos y llevarnos ante él, sin culpa y con alegría.",
+          "textoNino": "Dios te cuida hasta el final.",
+          "referencia": "Judas 1:24",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Gloria al único Dios",
+          "texto": "Judas alaba al único Dios, nuestro Salvador. Suya es la gloria y el poder, ahora y por todos los siglos.",
+          "textoNino": "Alabamos a Dios porque es grande y bueno.",
+          "referencia": "Judas 1:25",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Judas llama a Jesús «nuestro Señor Jesucristo» y espera su misericordia para vida eterna. Jesús es quien guarda a los suyos. Él mismo prometió que nadie puede arrebatar sus ovejas de su mano.",
+    "referencias": ["Judas 1:21", "Juan 10:28"]
+  },
+  "paraTuVida": [
+    "Esta semana, ora por alguien que duda de su fe.",
+    "Lee Judas 1:24-25 en voz alta antes de dormir.",
+    "Antes de seguir a un maestro, mira si su vida da buen fruto."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué puede hacer Dios, según Judas 1:24?",
+      "opciones": ["Guardarnos sin caída", "Darnos riquezas", "Quitarnos todo problema"],
+      "correcta": 0,
+      "explicacion": "Dios es poderoso para guardarnos sin caída y presentarnos con alegría (Judas 1:24)."
+    },
+    {
+      "pregunta": "¿Cómo pide Judas tratar a los que dudan?",
+      "opciones": ["Con burla", "Con misericordia", "Con silencio"],
+      "correcta": 1,
+      "explicacion": "Judas pide tener misericordia de ellos y ayudarlos a volver (Judas 1:22-23)."
+    },
+    {
+      "pregunta": "¿Qué carta avisa de maestros falsos con palabras muy parecidas a Judas?",
+      "opciones": ["2 Pedro", "Filemón", "3 Juan"],
+      "correcta": 0,
+      "explicacion": "2 Pedro 2 habla de los mismos engaños y nombra también a Balaam."
+    }
+  ],
+  "estudio": ["judas"],
+  "conexiones": [
+    { "id": "2-pedro", "motivo": "Avisa de los mismos engaños con palabras parecidas." },
+    { "id": "numeros", "motivo": "Allí están las historias de Balaam y de Coré." }
+  ]
+}

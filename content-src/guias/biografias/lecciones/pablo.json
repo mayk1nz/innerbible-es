@@ -2,7 +2,11 @@
   "id": "pablo",
   "titulo": "Pablo",
   "subtitulo": "De perseguidor a apóstol de las naciones",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "De Tarso a Roma"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "De Tarso a Roma"
+  ],
   "enUnMinuto": [
     "Saulo, también llamado Pablo, era un fariseo muy estricto que perseguía a los seguidores de Jesús.",
     "En el camino a Damasco, Jesús resucitado se le apareció y le cambió la vida.",
@@ -89,49 +93,106 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 7:58-8:3", "nota": "Saulo, el perseguidor" },
-        { "ref": "Hechos 9:1-31", "nota": "El camino a Damasco" },
-        { "ref": "Hechos 13-14", "nota": "El primer viaje, con Bernabé" },
-        { "ref": "Hechos 15:1-35", "nota": "La reunión de Jerusalén" },
-        { "ref": "Hechos 16-18", "nota": "El segundo viaje, con Silas" },
-        { "ref": "Hechos 19-20", "nota": "Éfeso y la despedida en Mileto" },
-        { "ref": "Hechos 21-28", "nota": "Preso, hasta Roma" },
-        { "ref": "Gálatas 1:11-24", "nota": "Pablo cuenta su propia historia" },
-        { "ref": "Filipenses 3:4-14", "nota": "Todo lo tengo por pérdida" },
-        { "ref": "2 Corintios 11:23-12:10", "nota": "Sufrimientos y gracia" },
-        { "ref": "2 Timoteo 4:6-18", "nota": "Sus últimas palabras" }
+        {
+          "ref": "Hechos 7:58-8:3",
+          "nota": "Saulo, el perseguidor"
+        },
+        {
+          "ref": "Hechos 9:1-31",
+          "nota": "El camino a Damasco"
+        },
+        {
+          "ref": "Hechos 13-14",
+          "nota": "El primer viaje, con Bernabé"
+        },
+        {
+          "ref": "Hechos 15:1-35",
+          "nota": "La reunión de Jerusalén"
+        },
+        {
+          "ref": "Hechos 16-18",
+          "nota": "El segundo viaje, con Silas"
+        },
+        {
+          "ref": "Hechos 19-20",
+          "nota": "Éfeso y la despedida en Mileto"
+        },
+        {
+          "ref": "Hechos 21-28",
+          "nota": "Preso, hasta Roma"
+        },
+        {
+          "ref": "Gálatas 1:11-24",
+          "nota": "Pablo cuenta su propia historia"
+        },
+        {
+          "ref": "Filipenses 3:4-14",
+          "nota": "Todo lo tengo por pérdida"
+        },
+        {
+          "ref": "2 Corintios 11:23-12:10",
+          "nota": "Sufrimientos y gracia"
+        },
+        {
+          "ref": "2 Timoteo 4:6-18",
+          "nota": "Sus últimas palabras"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Pablo y Silas estaban en la cárcel, y a medianoche se pusieron a cantar a Dios. ¿Qué canción cantarías tú a Dios cuando estás triste?",
-      "actividad": "Para papás y abuelos: Dios cambió el corazón de Pablo y luego lo cuidó en la cárcel (Hechos 16:25-26). Canten juntos una alabanza antes de dormir."
+      "actividad": "Para el adulto: Dios cambió el corazón de Pablo y luego lo cuidó en la cárcel (Hechos 16:25-26). Canten juntos una alabanza antes de dormir."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, gracias porque tu gracia alcanzó a Pablo y me alcanza a mí. Cambia lo que haya que cambiar en mi corazón. Que yo también pueda decir: vive Cristo en mí. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué parte de la historia de Pablo les da más esperanza?",
+        "Pablo dijo: «Bástate mi gracia». ¿Cómo han visto la fuerza de Dios en una debilidad?",
+        "Pablo y Bernabé discutieron y se separaron. ¿Qué nos enseña su historia sobre los desacuerdos?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Dónde se le apareció Jesús a Saulo?",
-      "opciones": ["En el templo de Jerusalén", "En el camino a Damasco", "En un barco hacia Roma"],
+      "opciones": [
+        "En el templo de Jerusalén",
+        "En el camino a Damasco",
+        "En un barco hacia Roma"
+      ],
       "correcta": 1,
       "explicacion": "Cerca de Damasco, una luz del cielo lo rodeó y Jesús le habló (Hechos 9:3-5)."
     },
     {
       "pregunta": "¿Qué dice Hechos 13:9 sobre sus nombres?",
-      "opciones": ["Que Jesús le cambió el nombre", "Que Ananías lo llamó Pablo", "«Saulo, que también es Pablo»"],
+      "opciones": [
+        "Que Jesús le cambió el nombre",
+        "Que Ananías lo llamó Pablo",
+        "«Saulo, que también es Pablo»"
+      ],
       "correcta": 2,
       "explicacion": "Tenía dos nombres, uno judío y otro romano. No hubo un cambio de nombre en su conversión."
     },
     {
       "pregunta": "¿Quién presentó a Saulo a los apóstoles cuando todos le tenían miedo?",
-      "opciones": ["Bernabé", "Pedro", "Esteban"],
+      "opciones": [
+        "Bernabé",
+        "Pedro",
+        "Esteban"
+      ],
       "correcta": 0,
       "explicacion": "Bernabé lo llevó ante los apóstoles y contó cómo había visto al Señor (Hechos 9:27)."
     }
   ],
-  "estudio": ["hechos-8-12", "hechos-13-14"],
+  "estudio": [
+    "hechos-8-12",
+    "hechos-13-14"
+  ],
   "buscar": "Pablo"
 }

@@ -1,0 +1,181 @@
+{
+  "id": "esdras",
+  "tipo": "libro",
+  "titulo": "Esdras",
+  "subtitulo": "El regreso y el templo reconstruido",
+  "libro": "Ezra",
+  "centro": {
+    "texto": "Dios trae a su pueblo de vuelta y lo reúne alrededor de su Palabra",
+    "textoNino": "Dios llevó a su pueblo de vuelta a casa"
+  },
+  "versiculo": {
+    "texto": "Porque Esdras había preparado su corazón para inquirir la ley de Jehová, y para hacer y enseñar a Israel mandamientos y juicios.",
+    "referencia": "Esdras 7:10"
+  },
+  "ramas": [
+    {
+      "titulo": "Ciro deja volver",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Dios mueve el corazón de Ciro, rey de Persia. Ciro permite a los judíos volver a Jerusalén y reconstruir el templo. Miles de personas emprenden el viaje.",
+      "resumenNino": "Un rey dejó que el pueblo de Dios volviera a su tierra.",
+      "hojas": [
+        {
+          "titulo": "El decreto de Ciro",
+          "texto": "Se cumple lo que Dios dijo por Jeremías. Ciro anuncia que el Dios del cielo le encargó edificarle una casa en Jerusalén.",
+          "textoNino": "Dios puso en el corazón del rey dejar volver al pueblo.",
+          "referencia": "Esdras 1:1-4",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Los vasos del templo",
+          "texto": "Ciro devuelve los objetos de oro y plata que Nabucodonosor se había llevado del templo. Vuelven a casa con el pueblo.",
+          "textoNino": "Devolvieron las copas de oro del templo.",
+          "referencia": "Esdras 1:7-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un pueblo en camino",
+          "texto": "Una larga lista nombra a las familias que regresan con Zorobabel y Jesúa. Son más de cuarenta y dos mil personas.",
+          "textoNino": "Muchísimas familias volvieron juntas a Jerusalén.",
+          "referencia": "Esdras 2:1-2",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Un altar y unos cimientos",
+      "capitulos": "3",
+      "color": "amber",
+      "resumen": "Lo primero que hacen es levantar el altar y adorar. Luego ponen los cimientos del templo. Unos cantan de alegría y otros lloran recordando el templo antiguo.",
+      "resumenNino": "Empezaron el templo con cantos y lágrimas de emoción.",
+      "hojas": [
+        {
+          "titulo": "Primero, el altar",
+          "texto": "El pueblo se reúne en Jerusalén «como un solo hombre». Antes de tener templo, levantan el altar y vuelven a adorar a Dios.",
+          "textoNino": "Lo primero que hicieron fue adorar a Dios.",
+          "referencia": "Esdras 3:1-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Risa y llanto",
+          "texto": "Al ver los cimientos, cantan: Dios es bueno y su misericordia es para siempre. Los ancianos que vieron el primer templo lloran. No se distingue la alegría del llanto.",
+          "textoNino": "Unos cantaban y otros lloraban de emoción.",
+          "referencia": "Esdras 3:10-13",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "La obra se detiene",
+      "capitulos": "4–6",
+      "color": "olive",
+      "resumen": "Los vecinos se oponen y la obra se para por años. Dios envía a los profetas Hageo y Zacarías para animar. El templo se termina y celebran la Pascua.",
+      "resumenNino": "Quisieron detener la obra, pero Dios ayudó a terminar el templo.",
+      "hojas": [
+        {
+          "titulo": "Oposición",
+          "texto": "Los enemigos desaniman al pueblo y lo asustan. Escriben al rey, y la obra de la casa de Dios se detiene.",
+          "textoNino": "Algunos no querían que se construyera el templo.",
+          "referencia": "Esdras 4:1-24",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Hageo y Zacarías",
+          "texto": "Dios habla por dos profetas. Con su ánimo, Zorobabel y Jesúa vuelven a construir, y los profetas los ayudan.",
+          "textoNino": "Dos profetas animaron al pueblo a seguir construyendo.",
+          "referencia": "Esdras 5:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Templo terminado",
+          "texto": "El templo se termina en tiempos del rey Darío. Lo dedican con gozo y celebran la Pascua, porque Dios los ha alegrado.",
+          "textoNino": "Terminaron el templo e hicieron una gran fiesta.",
+          "referencia": "Esdras 6:14-22",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Llega Esdras",
+      "capitulos": "7–8",
+      "color": "dawn",
+      "resumen": "Años después llega Esdras, un maestro de la Ley de Moisés. Ha preparado su corazón para estudiarla, vivirla y enseñarla. Viaja confiando solo en Dios.",
+      "resumenNino": "Esdras amaba la Palabra de Dios y la enseñaba.",
+      "hojas": [
+        {
+          "titulo": "Estudiar, vivir, enseñar",
+          "texto": "Esdras es escriba y conoce bien la Ley. Primero la estudia, luego la vive, y después la enseña al pueblo.",
+          "textoNino": "Esdras leía la Biblia, la obedecía y la enseñaba.",
+          "referencia": "Esdras 7:6-10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Ayuno junto al río",
+          "texto": "Esdras no pide soldados al rey para el viaje. Ayuna y ora con el pueblo junto al río Ahava, y Dios los protege.",
+          "textoNino": "Esdras oró y confió en que Dios los cuidaría en el viaje.",
+          "referencia": "Esdras 8:21-23",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Volver de corazón",
+      "capitulos": "9–10",
+      "color": "dusk",
+      "resumen": "Muchos se han casado con personas de pueblos que adoran ídolos. Esdras se entristece y ora. El pueblo reconoce su falta y toma una decisión difícil para ser fiel.",
+      "resumenNino": "Esdras oró, y el pueblo decidió obedecer a Dios.",
+      "hojas": [
+        {
+          "titulo": "La oración de Esdras",
+          "texto": "Esdras se arrodilla y confiesa los pecados del pueblo como si fueran suyos. Reconoce que Dios ha sido justo y bueno con ellos.",
+          "textoNino": "Esdras pidió perdón a Dios por todo el pueblo.",
+          "referencia": "Esdras 9:5-15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un pueblo que llora",
+          "texto": "Hombres, mujeres y niños se reúnen llorando ante la casa de Dios. Deciden ordenar su vida según la Ley de Dios.",
+          "textoNino": "Todos juntos decidieron seguir a Dios.",
+          "referencia": "Esdras 10:1-4",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Dios cumple su palabra y guarda a su pueblo para que llegue el Mesías. Siglos después, en ese templo reconstruido y ampliado, presentan a Jesús niño. Y Jesús, como un maestro mayor que Esdras, explica lo que las Escrituras decían de él.",
+    "referencias": ["Lucas 2:27", "Lucas 24:27"]
+  },
+  "paraTuVida": [
+    "Antes de hacer planes esta semana, dedica un momento a adorar a Dios, como el pueblo con su altar.",
+    "Lee un pasaje de la Biblia, piensa cómo vivirlo y compártelo con alguien.",
+    "Si te desanimas en una obra buena, pide a Dios ánimo para seguir."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué rey de Persia dejó volver al pueblo a Jerusalén?",
+      "opciones": ["Nabucodonosor", "Ciro", "Faraón"],
+      "correcta": 1,
+      "explicacion": "Dios movió el corazón de Ciro, rey de Persia, para que el pueblo volviera (Esdras 1:1-3)."
+    },
+    {
+      "pregunta": "¿Qué hizo Esdras antes de enseñar la Ley?",
+      "opciones": ["Viajar por el mundo", "Construir un palacio", "Estudiarla y vivirla"],
+      "correcta": 2,
+      "explicacion": "Esdras preparó su corazón para estudiar la Ley, cumplirla y luego enseñarla (Esdras 7:10)."
+    },
+    {
+      "pregunta": "¿A quién presentaron siglos después en el templo reconstruido?",
+      "opciones": ["A Jesús niño", "Al rey Ciro", "A Esdras"],
+      "correcta": 0,
+      "explicacion": "José y María llevaron a Jesús al templo, y Simeón lo tomó en brazos (Lucas 2:27-28)."
+    }
+  ],
+  "estudio": ["esdras-1-6", "esdras-7-10"],
+  "conexiones": [
+    { "id": "nehemias", "motivo": "Nehemías levanta los muros de Jerusalén junto a Esdras." },
+    { "id": "hageo", "motivo": "Hageo anima a terminar el templo." },
+    { "id": "zacarias", "motivo": "Zacarías también anima a los que reconstruyen." }
+  ]
+}

@@ -2,13 +2,20 @@
   "id": "juan-el-bautista",
   "titulo": "Juan el Bautista",
   "subtitulo": "La voz que preparó el camino",
-  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Judea y el río Jordán"],
+  "etiquetas": [
+    "Siglo I",
+    "Alrededor de Jesús",
+    "Judea y el río Jordán"
+  ],
   "enUnMinuto": [
     "Juan nació cuando sus padres ya eran ancianos, como un regalo de Dios.",
     "Vivió en el desierto y llamó al pueblo a cambiar de vida y a bautizarse en el río Jordán.",
     "Bautizó a Jesús, lo señaló como el Cordero de Dios y se alegró de hacerse pequeño para que Jesús creciera."
   ],
-  "versiculo": { "texto": "A él conviene crecer, mas a mí menguar.", "referencia": "Juan 3:30" },
+  "versiculo": {
+    "texto": "A él conviene crecer, mas a mí menguar.",
+    "referencia": "Juan 3:30"
+  },
   "bloques": [
     {
       "tipo": "texto",
@@ -81,48 +88,102 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Isaías 40:3", "nota": "La voz que clama en el desierto" },
-        { "ref": "Malaquías 4:5-6", "nota": "La promesa de Elías" },
-        { "ref": "Lucas 1:5-80", "nota": "Anuncio y nacimiento" },
-        { "ref": "Lucas 3:1-20", "nota": "Lo que predicaba" },
-        { "ref": "Mateo 3:1-17", "nota": "El bautismo de Jesús" },
-        { "ref": "Juan 1:19-37", "nota": "El Cordero de Dios" },
-        { "ref": "Juan 3:22-30", "nota": "El amigo del esposo" },
-        { "ref": "Mateo 11:2-19", "nota": "La pregunta desde la cárcel" },
-        { "ref": "Marcos 6:14-29", "nota": "Su muerte" },
-        { "ref": "Hechos 19:1-7", "nota": "Discípulos de Juan en Éfeso" }
+        {
+          "ref": "Isaías 40:3",
+          "nota": "La voz que clama en el desierto"
+        },
+        {
+          "ref": "Malaquías 4:5-6",
+          "nota": "La promesa de Elías"
+        },
+        {
+          "ref": "Lucas 1:5-80",
+          "nota": "Anuncio y nacimiento"
+        },
+        {
+          "ref": "Lucas 3:1-20",
+          "nota": "Lo que predicaba"
+        },
+        {
+          "ref": "Mateo 3:1-17",
+          "nota": "El bautismo de Jesús"
+        },
+        {
+          "ref": "Juan 1:19-37",
+          "nota": "El Cordero de Dios"
+        },
+        {
+          "ref": "Juan 3:22-30",
+          "nota": "El amigo del esposo"
+        },
+        {
+          "ref": "Mateo 11:2-19",
+          "nota": "La pregunta desde la cárcel"
+        },
+        {
+          "ref": "Marcos 6:14-29",
+          "nota": "Su muerte"
+        },
+        {
+          "ref": "Hechos 19:1-7",
+          "nota": "Discípulos de Juan en Éfeso"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Juan señalaba a Jesús para que todos lo conocieran. ¿A quién te gustaría hablarle de Jesús esta semana?",
-      "actividad": "Para papás y abuelos: Juan quería que Jesús fuera grande (Juan 3:30). Dibujen juntos a Juan señalando a Jesús y oren por la persona que el niño nombró."
+      "actividad": "Para el adulto: Juan quería que Jesús fuera grande (Juan 3:30). Dibujen juntos a Juan señalando a Jesús y oren por la persona que el niño nombró."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, como Juan, quiero señalarte a ti. Crece tú en mi vida y enséñame a hacerme pequeño. Cuando dude, recibe mi pregunta. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Juan se alegró de “menguar” en vez de sentirse desplazado?",
+        "Juan dudó en la cárcel. ¿Qué nos enseña la respuesta de Jesús sobre nuestras dudas?",
+        "¿Qué “frutos concretos” de cambio pediría Juan hoy en tu barrio o tu trabajo?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Dónde bautizaba Juan a la gente?",
-      "opciones": ["En el mar de Galilea", "En el río Jordán", "En el templo de Jerusalén"],
+      "opciones": [
+        "En el mar de Galilea",
+        "En el río Jordán",
+        "En el templo de Jerusalén"
+      ],
       "correcta": 1,
       "explicacion": "Juan bautizaba en el Jordán, y allí también bautizó a Jesús (Mateo 3:13)."
     },
     {
       "pregunta": "¿Qué dijo Juan cuando vio que todos iban a Jesús?",
-      "opciones": ["Que se iría a otra ciudad", "Que Jesús le quitaba seguidores", "Que Jesús debía crecer y él menguar"],
+      "opciones": [
+        "Que se iría a otra ciudad",
+        "Que Jesús le quitaba seguidores",
+        "Que Jesús debía crecer y él menguar"
+      ],
       "correcta": 2,
       "explicacion": "Juan se alegró como el amigo del esposo: «A él conviene crecer» (Juan 3:30)."
     },
     {
       "pregunta": "¿Qué profeta habló de una voz que clama en el desierto?",
-      "opciones": ["Isaías", "Jonás", "Daniel"],
+      "opciones": [
+        "Isaías",
+        "Jonás",
+        "Daniel"
+      ],
       "correcta": 0,
       "explicacion": "Isaías 40:3 anunció esa voz, y los Evangelios la ven cumplida en Juan (Mateo 3:3)."
     }
   ],
-  "estudio": ["anuncios", "inicio-ministerio"],
+  "estudio": [
+    "anuncios",
+    "inicio-ministerio"
+  ],
   "buscar": "Juan el Bautista"
 }

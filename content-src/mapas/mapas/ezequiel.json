@@ -1,0 +1,232 @@
+{
+  "id": "ezequiel",
+  "tipo": "libro",
+  "titulo": "Ezequiel",
+  "subtitulo": "Dios da un corazón nuevo",
+  "libro": "Ezek",
+  "centro": {
+    "texto": "Dios da vida nueva donde todo parece perdido",
+    "textoNino": "Dios cambia corazones de piedra por corazones buenos"
+  },
+  "versiculo": {
+    "texto": "Y os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré corazón de carne.",
+    "referencia": "Ezequiel 36:26"
+  },
+  "ramas": [
+    {
+      "titulo": "El cielo se abre",
+      "capitulos": "1–3",
+      "color": "amber",
+      "resumen": "Ezequiel es un sacerdote de Judá llevado cautivo a Babilonia. Allí habla a los desterrados de su pueblo (593–571 a.C.).",
+      "resumenNino": "Ezequiel vivía lejos de casa, en Babilonia.",
+      "hojas": [
+        {
+          "titulo": "La gloria de Dios",
+          "texto": "Junto al río Quebar, Ezequiel ve seres con alas, ruedas y un trono brillante. Es la gloria de Dios, y cae sobre su rostro.",
+          "textoNino": "Ezequiel vio la luz brillante de Dios junto a un río.",
+          "referencia": "Ezequiel 1:1-28",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un rollo dulce",
+          "texto": "Dios le da un rollo escrito y le pide comerlo. En su boca es «dulce como miel». Luego debe llevar esa palabra al pueblo.",
+          "textoNino": "Dios le dio un rollo que sabía a miel.",
+          "referencia": "Ezequiel 2:8–3:4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El atalaya",
+          "texto": "Dios pone a Ezequiel como atalaya, el guardia que avisa del peligro. Su tarea es avisar a tiempo, por amor al pueblo.",
+          "textoNino": "Ezequiel era como un guardia que avisa del peligro.",
+          "referencia": "Ezequiel 3:16-21",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Señales antes del final",
+      "capitulos": "4–24",
+      "color": "rose",
+      "resumen": "Jerusalén todavía está en pie. Ezequiel avisa con gestos y visiones que caerá, porque el pueblo sigue a los ídolos.",
+      "resumenNino": "Ezequiel avisó al pueblo con dibujos y señales.",
+      "hojas": [
+        {
+          "titulo": "Un dibujo en un adobe",
+          "texto": "Ezequiel dibuja Jerusalén sobre un adobe y la rodea como en un sitio. Es una lección que todos pueden ver.",
+          "textoNino": "Ezequiel dibujó la ciudad en un ladrillo.",
+          "referencia": "Ezequiel 4:1-3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La gloria sale del templo",
+          "texto": "En una visión, la gloria de Dios sale del templo y se aleja. Pero Dios promete estar con los desterrados.",
+          "textoNino": "Dios dijo: estaré con ustedes, aun lejos.",
+          "referencia": "Ezequiel 10:18–11:20",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dios quiere que vivas",
+          "texto": "Cada persona responde por sí misma. Y Dios dice: «no quiero la muerte del que muere». Quien se aparta del mal, vivirá.",
+          "textoNino": "Dios quiere que todos vivan y vuelvan a él.",
+          "referencia": "Ezequiel 18:21-32",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Palabra a las naciones",
+      "capitulos": "25–32",
+      "color": "dusk",
+      "resumen": "Ezequiel habla a los pueblos vecinos que se alegraron de la caída de Judá. Dios humilla el orgullo, pero no olvida a su pueblo.",
+      "resumenNino": "Dios dijo a los pueblos orgullosos que él es Dios.",
+      "hojas": [
+        {
+          "titulo": "Tiro, la orgullosa",
+          "texto": "Tiro es rica por el comercio del mar. Su príncipe dice: «Yo soy un dios». Pero es hombre, y su grandeza pasará.",
+          "textoNino": "Un rey rico se creyó dios, pero era solo un hombre.",
+          "referencia": "Ezequiel 26–28",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Volverán a su tierra",
+          "texto": "Dios promete reunir a su pueblo disperso. Vivirán seguros, construirán casas y plantarán viñas.",
+          "textoNino": "Dios promete llevar a su pueblo a casa.",
+          "referencia": "Ezequiel 28:25-26",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Egipto no es refugio",
+          "texto": "El faraón dice que el río es suyo. Dios le recuerda que no es el dueño de la tierra.",
+          "textoNino": "El faraón no era más fuerte que Dios.",
+          "referencia": "Ezequiel 29–32",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El buen pastor",
+      "capitulos": "33–36",
+      "color": "olive",
+      "resumen": "Llega la noticia: Jerusalén ha caído. Desde ese día, Ezequiel anuncia esperanza: Dios cuidará a sus ovejas y cambiará su corazón.",
+      "resumenNino": "Dios cuida a su pueblo como un pastor a sus ovejas.",
+      "hojas": [
+        {
+          "titulo": "La ciudad ha caído",
+          "texto": "Un hombre que escapó de Jerusalén llega y dice: «La ciudad ha sido herida». Ahora Ezequiel habla de vida nueva.",
+          "textoNino": "Llegó una noticia triste, pero Dios tenía un plan.",
+          "referencia": "Ezequiel 33:21-22",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Buscaré la perdida",
+          "texto": "Los jefes solo cuidaron de sí mismos. Dios dice: «Yo buscaré la perdida». Promete un pastor de la familia de David.",
+          "textoNino": "Dios busca a la oveja perdida.",
+          "referencia": "Ezequiel 34:11-24",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un corazón nuevo",
+          "texto": "Dios promete lavar a su pueblo con agua limpia. Quitará el corazón de piedra y pondrá dentro su propio Espíritu.",
+          "textoNino": "Dios nos da un corazón nuevo y suave.",
+          "referencia": "Ezequiel 36:24-28",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Huesos que vuelven a vivir",
+      "capitulos": "37–39",
+      "color": "warm",
+      "resumen": "El pueblo se siente seco y sin esperanza. Dios muestra que puede levantarlo, unirlo y protegerlo.",
+      "resumenNino": "Dios puede dar vida a lo que parece muerto.",
+      "hojas": [
+        {
+          "titulo": "El valle de huesos",
+          "texto": "Dios pregunta: «¿vivirán estos huesos?». Ezequiel profetiza, el espíritu entra en ellos y se ponen de pie.",
+          "textoNino": "Dios hizo que unos huesos secos volvieran a vivir.",
+          "referencia": "Ezequiel 37:1-14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dos palos, un pueblo",
+          "texto": "Ezequiel une dos palos en su mano. Así Dios hará de los dos reinos un solo pueblo, con un solo pastor.",
+          "textoNino": "Dios juntó dos grupos en un solo pueblo.",
+          "referencia": "Ezequiel 37:15-28",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Dios protege a su pueblo",
+          "texto": "Un enemigo llamado Gog ataca, pero Dios defiende a su pueblo. Hay varias maneras de entender estos capítulos.",
+          "textoNino": "Dios defiende a su pueblo.",
+          "referencia": "Ezequiel 38–39",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un templo y un río",
+      "capitulos": "40–48",
+      "color": "dawn",
+      "resumen": "Ezequiel ve un templo nuevo. La gloria de Dios vuelve y del templo sale un río que da vida a todo.",
+      "resumenNino": "Dios vuelve a vivir con su pueblo.",
+      "hojas": [
+        {
+          "titulo": "La gloria vuelve",
+          "texto": "La gloria de Dios llega desde el oriente con sonido de muchas aguas. Llena la casa, y la tierra resplandece.",
+          "textoNino": "La luz de Dios volvió y llenó el templo.",
+          "referencia": "Ezequiel 43:1-5",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un río que sana",
+          "texto": "Del templo sale un río que crece y crece. Donde llega, todo vive. Los árboles dan fruto cada mes, y sus hojas son medicina.",
+          "textoNino": "Un río salía del templo y todo florecía.",
+          "referencia": "Ezequiel 47:1-12",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "El Señor está allí",
+          "texto": "La ciudad tendrá un nombre nuevo: «Jehová-SHAMMA». Quiere decir: el Señor está allí. Dios vive con su pueblo.",
+          "textoNino": "La ciudad se llamará: Dios está aquí.",
+          "referencia": "Ezequiel 48:35",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Dios promete buscar a sus ovejas y darles un pastor de la familia de David. Jesús dice: «Yo soy el buen pastor». También habla de nacer «de agua y del Espíritu». Y el río de vida vuelve en el Apocalipsis.",
+    "referencias": ["Juan 10:11", "Juan 3:5", "Apocalipsis 22:1-2"]
+  },
+  "paraTuVida": [
+    "Pídele hoy a Dios que cambie lo duro de tu corazón.",
+    "Piensa en algo que parece muerto en tu vida y ora por ello.",
+    "Busca a alguien que se alejó y muéstrale el amor del buen pastor."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué vio Ezequiel en el valle?",
+      "opciones": ["Un río de fuego", "Muchas ovejas", "Huesos secos"],
+      "correcta": 2,
+      "explicacion": "Dios llevó a Ezequiel a un valle de huesos secos, y los huesos volvieron a vivir (Ezequiel 37:1-10)."
+    },
+    {
+      "pregunta": "¿Qué corazón promete quitar Dios en Ezequiel 36?",
+      "opciones": ["El corazón de piedra", "El corazón alegre", "El corazón de carne"],
+      "correcta": 0,
+      "explicacion": "Dios quita el corazón de piedra y da un corazón de carne (Ezequiel 36:26)."
+    },
+    {
+      "pregunta": "¿Cómo se llama Jesús a sí mismo, como en Ezequiel 34?",
+      "opciones": ["El buen vigía", "El buen pastor", "El buen rey"],
+      "correcta": 1,
+      "explicacion": "Dios promete un pastor para sus ovejas. Jesús dice: «Yo soy el buen pastor» (Juan 10:11)."
+    }
+  ],
+  "estudio": ["ezequiel"],
+  "conexiones": [
+    { "id": "jeremias", "motivo": "Jeremías habla en Jerusalén mientras Ezequiel habla en Babilonia." },
+    { "id": "daniel", "motivo": "Daniel también vive cautivo en Babilonia." },
+    { "id": "apocalipsis", "motivo": "El río de vida vuelve a aparecer al final de la Biblia." }
+  ]
+}

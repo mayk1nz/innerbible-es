@@ -1,0 +1,144 @@
+{
+  "id": "ana-ora",
+  "titulo": "Ana ora y Dios escucha",
+  "referencia": "1 Samuel 1",
+  "estudio": "1-samuel",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "ana-triste",
+      "texto": {
+        "3-5": "Ana quería mucho tener un bebé. Pero no tenía hijos. Ana lloraba y no quería comer.",
+        "6-8": "Elcana tenía dos esposas: Ana y Penina. Penina tenía hijos, pero Ana no. Cada año, Penina se burlaba de ella, y Ana lloraba y no comía. Elcana la consolaba: «¿No valgo yo para ti más que diez hijos?»",
+        "9-12": "Elcana tenía dos esposas. Penina tenía hijos, pero Ana no, y cada año la humillaba cuando subían a adorar a Silo. Ana lloraba y no comía. Elcana la amaba y le preguntaba: «¿No te soy yo mejor que diez hijos?» (1 Samuel 1:8)."
+      }
+    },
+    {
+      "id": "ana-ora",
+      "texto": {
+        "3-5": "Ana fue a la casa de Dios. Oró muy bajito: «Señor, dame un hijo, y será tuyo».",
+        "6-8": "En la casa de Dios, en Silo, Ana oró con el corazón lleno de tristeza. Movía los labios, pero no se oía su voz. Prometió: «Señor, si me das un hijo, te lo dedicaré toda su vida».",
+        "9-12": "Después de la comida, Ana se levantó y oró con amargura, llorando mucho. Hizo un voto: si Dios le daba un hijo, se lo dedicaría «todos los días de su vida» (1 Samuel 1:11). Oraba en su corazón: solo se movían sus labios."
+      }
+    },
+    {
+      "id": "eli",
+      "texto": {
+        "3-5": "El sacerdote Elí le dijo: «Ve en paz». ¡Y Ana ya no estaba triste!",
+        "6-8": "El sacerdote Elí la vio y pensó que había tomado demasiado vino. Ana le explicó: «No, señor; estoy muy triste y le contaba todo a Dios». Elí le dijo: «Ve en paz, y que Dios te dé lo que pediste». Ana se fue y ya no estuvo triste.",
+        "9-12": "El sacerdote Elí la observaba y creyó que estaba ebria. Ana respondió: «He derramado mi alma delante del Señor». Elí la bendijo: «Ve en paz, y el Dios de Israel te conceda lo que le has pedido». Ana volvió a comer, y ya no estuvo más triste."
+      }
+    },
+    {
+      "id": "samuel-nace",
+      "texto": {
+        "3-5": "Dios escuchó a Ana. ¡Nació un bebé! Se llamó Samuel.",
+        "6-8": "Dios se acordó de Ana, y ella tuvo un hijo. Lo llamó Samuel, porque decía: «Se lo pedí al Señor». ¡Qué alegría tan grande en la familia!",
+        "9-12": "El Señor se acordó de Ana. Con el tiempo nació su hijo, y lo llamó Samuel, «por cuanto lo demandé al Señor» (1 Samuel 1:20). Ana se quedó en casa criándolo hasta que dejó de tomar pecho."
+      }
+    },
+    {
+      "id": "la-promesa",
+      "texto": {
+        "3-5": "Ana llevó a Samuel a la casa de Dios, como prometió. Cada año le llevaba una túnica nueva.",
+        "6-8": "Cuando Samuel creció un poco, Ana lo llevó a Silo, con el sacerdote Elí. Le dijo: «Por este niño oraba, y el Señor me lo dio». Samuel se quedó a servir a Dios. Cada año, Ana le llevaba una túnica nueva que ella misma cosía.",
+        "9-12": "Entonces Ana llevó al pequeño Samuel a Silo, ante Elí. Le dijo: «Por este niño oraba, y el Señor me dio lo que le pedí». Cumplió su voto y lo dedicó al servicio de Dios. Cada año le llevaba una túnica pequeña (1 Samuel 2:19). Y Dios le dio a Ana cinco hijos más."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me escucha cuando oro.", "referencia": "1 Samuel 1:27", "fuente": "adaptado" },
+    "6-8": { "texto": "Cuéntale a Dios lo que hay en tu corazón: Él te escucha.", "referencia": "1 Samuel 1:15", "fuente": "adaptado" },
+    "9-12": { "texto": "Por este niño oraba, y Jehová me dio lo que le pedí.", "referencia": "1 Samuel 1:27", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon en orden la historia de Ana.",
+      "niveles": {
+        "3-5": {
+          "items": ["Ana está triste", "Ana ora a Dios", "¡Nace Samuel!"]
+        },
+        "6-8": {
+          "items": [
+            "Ana llora porque no tiene hijos",
+            "Ana ora en silencio en Silo",
+            "Elí le dice: «Ve en paz»",
+            "Nace Samuel",
+            "Ana lleva a Samuel a la casa de Dios"
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Penina humilla a Ana cada año",
+            "Ana hace un voto al Señor",
+            "Elí cree que Ana está ebria",
+            "Elí la bendice: «Ve en paz»",
+            "Nace Samuel: «lo pedí al Señor»",
+            "Ana presenta a Samuel en Silo"
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre Ana.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Ana le contó a Dios su tristeza.", "verdadera": true, "porque": "Ana oró con todo su corazón." },
+            { "texto": "Dios no escuchó a Ana.", "verdadera": false, "porque": "Dios la escuchó y le dio a Samuel." },
+            { "texto": "El bebé de Ana se llamó Samuel.", "verdadera": true, "porque": "¡Samuel, el niño que Ana pidió a Dios!" }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Ana estaba triste porque no tenía hijos.", "verdadera": true, "porque": "Y además Penina se burlaba de ella." },
+            { "texto": "Ana oró gritando muy fuerte.", "verdadera": false, "porque": "Oró en silencio: solo movía los labios." },
+            { "texto": "Al principio, Elí pensó que Ana había tomado vino.", "verdadera": true, "porque": "No entendía por qué movía los labios sin sonido." },
+            { "texto": "Elí le dijo: «Ve en paz».", "verdadera": true, "porque": "Y le deseó que Dios le diera lo que pedía." },
+            { "texto": "Ana le puso Samuel porque se lo había pedido al Señor.", "verdadera": true, "porque": "Así lo explicó ella misma." },
+            { "texto": "Ana nunca volvió a ver a Samuel.", "verdadera": false, "porque": "Cada año lo visitaba y le llevaba una túnica." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Ana y Penina eran las dos esposas de Elcana.", "verdadera": true, "porque": "1 Samuel 1:2." },
+            { "texto": "Elcana amaba a Ana.", "verdadera": true, "porque": "Le daba una parte escogida y la consolaba (1 Samuel 1:5, 8)." },
+            { "texto": "Ana prometió que su hijo serviría al Señor solo unos años.", "verdadera": false, "porque": "Prometió «todos los días de su vida» (1 Samuel 1:11)." },
+            { "texto": "Elí vio que Ana movía los labios sin que se oyera su voz.", "verdadera": true, "porque": "Oraba en su corazón (1 Samuel 1:13)." },
+            { "texto": "Después de orar, Ana siguió sin comer.", "verdadera": false, "porque": "Comió y ya no estuvo triste (1 Samuel 1:18)." },
+            { "texto": "Ana llevó a Samuel a Silo apenas nació.", "verdadera": false, "porque": "Esperó a que dejara de tomar pecho (1 Samuel 1:22-24)." },
+            { "texto": "Ana le dijo a Elí: «Por este niño oraba».", "verdadera": true, "porque": "1 Samuel 1:27." },
+            { "texto": "Después de Samuel, Ana tuvo cinco hijos más.", "verdadera": true, "porque": "Tres hijos y dos hijas (1 Samuel 2:21)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño sepa que puede contarle a Dios todo lo que siente, y que Dios lo escucha con amor.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Ana regaló a su hijo?",
+        "respuesta": "No lo abandonó: lo dedicó a Dios, como había prometido, y lo dejó al cuidado del sacerdote Elí. Lo visitaba cada año y le llevaba una túnica cosida por ella. Samuel creció amado y cerca de Dios."
+      },
+      {
+        "pregunta": "¿Por qué Dios no le daba un bebé a Ana?",
+        "respuesta": "La Biblia no lo explica. Ana llevó su tristeza a Dios con sinceridad. Dios no siempre responde como pedimos, pero siempre escucha y nunca deja de amarnos."
+      },
+      {
+        "pregunta": "¿Por qué Elcana tenía dos esposas?",
+        "respuesta": "En aquel tiempo algunos hombres tenían más de una esposa. La historia muestra que eso traía celos y dolor. Jesús recordó el plan de Dios: un esposo y una esposa (Mateo 19:4-6)."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué le prometió Ana a Dios cuando oraba en Silo?",
+      "sentir": "Ana estaba muy triste y se lo contó a Dios. ¿Qué te pone triste a ti? ¿Se lo has contado a Dios?",
+      "vivir": "Esta semana, ¿por qué cosa vamos a orar juntos cada noche?"
+    },
+    "oracion": "Señor, gracias porque siempre nos escuchas. Te contamos lo que sentimos y confiamos en tu amor. Amén.",
+    "gesto": "Hagan una «cajita de oración»: escriban peticiones en papelitos y, cuando Dios responda, agreguen un «¡gracias!»."
+  },
+  "estampa": "La túnica de Samuel"
+}

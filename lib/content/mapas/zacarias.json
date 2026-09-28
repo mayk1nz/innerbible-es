@@ -1,0 +1,232 @@
+{
+  "id": "zacarias",
+  "tipo": "libro",
+  "titulo": "Zacarías",
+  "subtitulo": "Tu Rey viene a ti",
+  "libro": "Zech",
+  "centro": {
+    "texto": "Dios da el primer paso hacia su pueblo y envía a su Rey humilde",
+    "textoNino": "Dios envía a un Rey humilde que trae paz"
+  },
+  "versiculo": {
+    "texto": "Alégrate mucho, hija de Sión; da voces de júbilo, hija de Jerusalem: he aquí, tu rey vendrá a ti, justo y salvador, humilde, y cabalgando sobre un asno, así sobre un pollino hijo de asna.",
+    "referencia": "Zacarías 9:9"
+  },
+  "ramas": [
+    {
+      "titulo": "Volved a mí",
+      "capitulos": "1:1-6",
+      "color": "olive",
+      "resumen": "Zacarías habla a Judá, que volvió del exilio, en el año 520 a.C. Ya no hay rey, y el templo sigue sin terminar. Los capítulos 9–14 son posteriores.",
+      "resumenNino": "Zacarías animó al pueblo que había vuelto a casa.",
+      "hojas": [
+        {
+          "titulo": "Dios da el primer paso",
+          "texto": "Dios invita: «Volveos a mí», y promete: «yo me volveré a vosotros». Siempre hay camino de regreso.",
+          "textoNino": "Dios dice: vuelve a mí, y yo vuelvo a ti.",
+          "referencia": "Zacarías 1:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "No como sus padres",
+          "texto": "Sus padres no escucharon a los profetas. Pero la palabra de Dios sigue en pie, aunque las generaciones pasen.",
+          "textoNino": "La palabra de Dios dura para siempre.",
+          "referencia": "Zacarías 1:4-6",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Visiones de una noche",
+      "capitulos": "1:7–6:15",
+      "color": "dusk",
+      "resumen": "En una noche, Zacarías ve jinetes, un candelero, un rollo que vuela y más. Hay varias maneras de entenderlas, pero todas animan a confiar.",
+      "resumenNino": "Zacarías vio sueños de Dios que daban ánimo.",
+      "hojas": [
+        {
+          "titulo": "Un muro de fuego",
+          "texto": "Un hombre va a medir Jerusalén. Dios dice que la ciudad crecerá sin muros, porque él será para ella «muro de fuego en derredor».",
+          "textoNino": "Dios protege su ciudad como un muro de fuego.",
+          "referencia": "Zacarías 2:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Ropas limpias",
+          "texto": "El sumo sacerdote Josué está con ropas sucias, y Satán lo acusa. Dios lo defiende, le quitan esa ropa y lo visten de gala.",
+          "textoNino": "Dios le quitó la ropa sucia y le dio ropa limpia.",
+          "referencia": "Zacarías 3:1-5",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Con mi espíritu",
+          "texto": "Zacarías ve un candelero de oro. Dios dice a Zorobabel: no con ejército ni con fuerza, «sino con mi espíritu».",
+          "textoNino": "Dios nos ayuda con su Espíritu, no con fuerza.",
+          "referencia": "Zacarías 4:1-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El Renuevo",
+          "texto": "Dios anuncia a un hombre llamado el Renuevo. Él edificará el templo del Señor y reinará con paz.",
+          "textoNino": "Dios promete a alguien que construirá su casa.",
+          "referencia": "Zacarías 6:9-15",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Justicia y alegría",
+      "capitulos": "7–8",
+      "color": "amber",
+      "resumen": "Unos preguntan si deben seguir ayunando. Dios responde que lo importante es la justicia y la misericordia, y promete un futuro feliz.",
+      "resumenNino": "Dios quiere que seamos buenos unos con otros.",
+      "hojas": [
+        {
+          "titulo": "Misericordia con el hermano",
+          "texto": "Dios pide juzgar con verdad y tener misericordia. No oprimir a la viuda, al huérfano, al extranjero ni al pobre.",
+          "textoNino": "Cuida a los que no tienen quién los cuide.",
+          "referencia": "Zacarías 7:8-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Niños en las calles",
+          "texto": "Dios promete ancianos con bastón sentados en las plazas, y calles llenas de niños y niñas que juegan.",
+          "textoNino": "Un día los niños jugarán felices en las calles.",
+          "referencia": "Zacarías 8:3-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Dios está con vosotros",
+          "texto": "Gente de todas las lenguas dirá a los de Judá: «Iremos con vosotros, porque hemos oído que Dios está con vosotros».",
+          "textoNino": "Personas de todo el mundo querrán conocer a Dios.",
+          "referencia": "Zacarías 8:20-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Tu Rey viene a ti",
+      "capitulos": "9–11",
+      "color": "warm",
+      "resumen": "Esta parte mira más lejos. Jerusalén debe alegrarse: su rey viene, justo y humilde. Pero también aparece un pastor rechazado.",
+      "resumenNino": "Viene un Rey humilde montado en un burrito.",
+      "hojas": [
+        {
+          "titulo": "Sobre un asno",
+          "texto": "El rey de Jerusalén no llega en caballo de guerra. Viene humilde, sobre un asno, y hablará paz a las naciones.",
+          "textoNino": "El Rey llega montado en un burrito y trae paz.",
+          "referencia": "Zacarías 9:9-10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Tendré piedad",
+          "texto": "Dios fortalecerá a su pueblo y lo traerá de vuelta, porque tiene piedad de ellos. Será como si nunca los hubiera dejado.",
+          "textoNino": "Dios trae de vuelta a su pueblo con cariño.",
+          "referencia": "Zacarías 10:6-12",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Treinta piezas de plata",
+          "texto": "Un pastor pide su salario, y le pagan treinta piezas de plata. Dios lo llama «hermoso precio», y el pastor las echa en la casa de Dios.",
+          "textoNino": "Le pagaron muy poco al pastor bueno.",
+          "referencia": "Zacarías 11:4-14",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Un manantial que limpia",
+      "capitulos": "12–13",
+      "color": "rose",
+      "resumen": "Dios derramará un espíritu de gracia y de oración. El pueblo llorará por el que traspasaron, y se abrirá un manantial para el pecado.",
+      "resumenNino": "Dios abrirá una fuente que limpia el corazón.",
+      "hojas": [
+        {
+          "titulo": "Mirarán al traspasado",
+          "texto": "Dios derramará «espíritu de gracia y de oración». Mirarán al que traspasaron y llorarán como por un hijo único.",
+          "textoNino": "El pueblo llorará arrepentido y buscará a Dios.",
+          "referencia": "Zacarías 12:10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Manantial abierto",
+          "texto": "En aquel tiempo habrá un manantial abierto para lavar el pecado y la impureza.",
+          "textoNino": "Dios limpia nuestro pecado como agua fresca.",
+          "referencia": "Zacarías 13:1",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El pastor herido",
+          "texto": "Hieren al pastor, y las ovejas se dispersan. Pero Dios cuida a los pequeños y al final dice: «Pueblo mío».",
+          "textoNino": "Aunque las ovejas se van, Dios cuida a las pequeñas.",
+          "referencia": "Zacarías 13:7-9",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Rey sobre toda la tierra",
+      "capitulos": "14",
+      "color": "dawn",
+      "resumen": "El libro termina con el día del Señor. Hay varias maneras de entenderlo, pero todas esperan lo mismo: Dios reinará sobre toda la tierra.",
+      "resumenNino": "Al final, Dios será el Rey de todo el mundo.",
+      "hojas": [
+        {
+          "titulo": "El monte de los Olivos",
+          "texto": "En aquel día, los pies del Señor estarán sobre el monte de los Olivos, frente a Jerusalén.",
+          "textoNino": "Dios vendrá al monte de los Olivos.",
+          "referencia": "Zacarías 14:1-5",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Aguas vivas",
+          "texto": "De Jerusalén saldrán aguas vivas, en verano y en invierno. Y el Señor será rey sobre toda la tierra.",
+          "textoNino": "De Jerusalén saldrá agua fresca todo el año.",
+          "referencia": "Zacarías 14:6-9",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Todo será santo",
+          "texto": "Hasta las campanillas de los caballos y las ollas de cocina estarán dedicadas a Dios. Toda la vida será santa.",
+          "textoNino": "Todo, hasta las ollas, será para Dios.",
+          "referencia": "Zacarías 14:20-21",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Zacarías 9:9 se cumple cuando Jesús entra en Jerusalén sobre un pollino. El pastor herido, las treinta piezas de plata y el que traspasaron vuelven a aparecer en la pasión de Jesús.",
+    "referencias": ["Mateo 21:4-5", "Mateo 26:31", "Juan 19:37"]
+  },
+  "paraTuVida": [
+    "Si te sientes lejos de Dios, da un paso: él ya viene a tu encuentro.",
+    "Ante una tarea grande, ora: no con fuerza, sino con tu Espíritu.",
+    "Haz un gesto de misericordia con alguien vulnerable esta semana."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Sobre qué animal viene el rey humilde de Zacarías 9:9?",
+      "opciones": ["Un caballo", "Un camello", "Un asno"],
+      "correcta": 2,
+      "explicacion": "El rey viene «humilde, y cabalgando sobre un asno» (Zacarías 9:9)."
+    },
+    {
+      "pregunta": "¿Qué le quitaron al sumo sacerdote Josué en la visión?",
+      "opciones": ["Las ropas sucias", "La corona", "Las sandalias"],
+      "correcta": 0,
+      "explicacion": "Le quitaron las vestimentas viles y lo vistieron de ropas de gala (Zacarías 3:4)."
+    },
+    {
+      "pregunta": "¿Cuándo se cumplió Zacarías 9:9, según Mateo?",
+      "opciones": ["En la última cena", "Al entrar Jesús en Jerusalén", "En el nacimiento de Jesús"],
+      "correcta": 1,
+      "explicacion": "Jesús entró en Jerusalén sobre un pollino, y Mateo citó a Zacarías (Mateo 21:4-5)."
+    }
+  ],
+  "estudio": ["zacarias", "esdras-1-6"],
+  "conexiones": [
+    { "id": "hageo", "motivo": "Hageo anima a reconstruir en los mismos meses." },
+    { "id": "mateo", "motivo": "Mateo cita a Zacarías en la entrada a Jerusalén." },
+    { "id": "apocalipsis", "motivo": "El río y el reinado de Dios vuelven al final de la Biblia." }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "jesus-en-toda-la-biblia",
+  "tipo": "tema",
+  "titulo": "Jesús en toda la Biblia",
+  "subtitulo": "De Génesis a Apocalipsis, un solo hilo",
+  "centro": {
+    "texto": "Toda la Biblia habla de Jesús: lo promete, lo anuncia y lo muestra.",
+    "textoNino": "Desde el principio hasta el final, la Biblia habla de Jesús."
+  },
+  "versiculo": {
+    "texto": "Y comenzando desde Moisés, y de todos los profetas, declarábales en todas las Escrituras lo que de él decían.",
+    "referencia": "Lucas 24:27"
+  },
+  "ramas": [
+    {
+      "titulo": "Promesas en la Ley",
+      "capitulos": "",
+      "color": "warm",
+      "resumen": "Desde los primeros libros, Dios promete a alguien que vencerá al mal y traerá bendición. El Nuevo Testamento reconoce en Jesús el cumplimiento.",
+      "resumenNino": "Desde el principio, Dios prometió enviar a Jesús.",
+      "hojas": [
+        {
+          "titulo": "El descendiente de la mujer",
+          "texto": "Dios anuncia que un descendiente de la mujer vencerá a la serpiente. Pablo dice que Jesús vino «hecho de mujer» (Gálatas 4:4).",
+          "textoNino": "Dios prometió a alguien que vencería al mal.",
+          "referencia": "Génesis 3:15",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Bendición para todos",
+          "texto": "En Abraham serán benditas todas las familias. Mateo empieza llamando a Jesús «hijo de Abraham» (Mateo 1:1).",
+          "textoNino": "Jesús vino a bendecir a todas las familias.",
+          "referencia": "Génesis 12:3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un profeta como Moisés",
+          "texto": "Moisés anuncia otro profeta al que habrá que oír. Pedro enseña que ese profeta es Jesús (Hechos 3:22).",
+          "textoNino": "Moisés dijo que vendría otro profeta: Jesús.",
+          "referencia": "Deuteronomio 18:15",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Imágenes que lo anuncian",
+      "capitulos": "",
+      "color": "amber",
+      "resumen": "Algunas cosas del Antiguo Testamento son como un anticipo de Jesús. No lo inventamos: el Nuevo Testamento mismo hace estas conexiones.",
+      "resumenNino": "Algunas cosas de la Biblia se parecen a Jesús.",
+      "hojas": [
+        {
+          "titulo": "El cordero de Pascua",
+          "texto": "En Egipto, la sangre del cordero protege a las familias. Pablo llama a Cristo «nuestra pascua» (1 Corintios 5:7).",
+          "textoNino": "Jesús es como el cordero que protegía a las familias.",
+          "referencia": "Éxodo 12:1-13",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El pan del cielo",
+          "texto": "Dios da maná en el desierto. Jesús dice: «Yo soy el pan de vida» (Juan 6:35).",
+          "textoNino": "Jesús es el pan que nos da vida.",
+          "referencia": "Éxodo 16:4-15",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La serpiente levantada",
+          "texto": "Quien mira la serpiente de metal, vive. Jesús dice que él será levantado igual, para dar vida eterna (Juan 3:14-15).",
+          "textoNino": "Quien mira a Jesús con fe recibe vida.",
+          "referencia": "Números 21:8-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dios habita en medio",
+          "texto": "Dios pide un tabernáculo para habitar con su pueblo. Juan dice que el Verbo «habitó entre nosotros» (Juan 1:14).",
+          "textoNino": "Dios vino a vivir con nosotros en Jesús.",
+          "referencia": "Éxodo 25:8",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El Rey de David",
+      "capitulos": "",
+      "color": "dawn",
+      "resumen": "Dios promete a David un reino eterno. Los Evangelios presentan a Jesús como el hijo de David, nacido en Belén, la ciudad de David.",
+      "resumenNino": "Jesús es el Rey que Dios le prometió a David.",
+      "hojas": [
+        {
+          "titulo": "Un trono para siempre",
+          "texto": "Dios promete a David un trono estable para siempre. El ángel anuncia que Jesús recibirá «el trono de David su padre» (Lucas 1:32).",
+          "textoNino": "Jesús es el Rey que reina para siempre.",
+          "referencia": "2 Samuel 7:12-16",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La familia de Rut",
+          "texto": "Rut, la extranjera, es bisabuela de David. Mateo la nombra entre los antepasados de Jesús (Mateo 1:5).",
+          "textoNino": "Rut fue parte de la familia de Jesús.",
+          "referencia": "Rut 4:13-17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Belén, pequeña",
+          "texto": "Miqueas anuncia que de Belén saldrá el que gobernará a Israel. Los escribas lo citan cuando Herodes pregunta dónde nacería el Cristo (Mateo 2:4-6).",
+          "textoNino": "Un profeta dijo que el Rey nacería en Belén.",
+          "referencia": "Miqueas 5:2",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "En los Salmos",
+      "capitulos": "",
+      "color": "olive",
+      "resumen": "Jesús oró con los Salmos y los citó. En sus cantos, los cristianos oyen su dolor, su victoria y su cuidado de pastor.",
+      "resumenNino": "Jesús cantaba y oraba con los Salmos.",
+      "hojas": [
+        {
+          "titulo": "¿Por qué me has dejado?",
+          "texto": "El Salmo 22 empieza con un grito de dolor. Jesús lo ora en la cruz (Mateo 27:46), y el salmo termina en esperanza.",
+          "textoNino": "En la cruz, Jesús oró con un salmo.",
+          "referencia": "Salmos 22",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El buen pastor",
+          "texto": "«Jehová es mi pastor», canta David. Jesús dice: «Yo soy el buen pastor», que da su vida por las ovejas (Juan 10:11).",
+          "textoNino": "Jesús nos cuida como un pastor a sus ovejas.",
+          "referencia": "Salmos 23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La piedra desechada",
+          "texto": "La piedra que los constructores rechazan se vuelve la principal. Jesús aplica este salmo a sí mismo (Mateo 21:42).",
+          "textoNino": "Muchos rechazaron a Jesús, pero Dios lo puso primero.",
+          "referencia": "Salmos 118:22-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "En los profetas",
+      "capitulos": "",
+      "color": "rose",
+      "resumen": "Los profetas anuncian a un niño, a un rey humilde y a un siervo que sufre por otros. Los Evangelios los citan al contar la vida de Jesús.",
+      "resumenNino": "Los profetas contaron cosas de Jesús antes de que naciera.",
+      "hojas": [
+        {
+          "titulo": "Emmanuel",
+          "texto": "Isaías anuncia que la virgen tendrá un hijo llamado Emmanuel. Mateo explica: «Con nosotros Dios» (Mateo 1:23).",
+          "textoNino": "Jesús es Dios con nosotros.",
+          "referencia": "Isaías 7:14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El Siervo que sufre",
+          "texto": "El Siervo carga el pecado de todos: «por su llaga fuimos nosotros curados». Felipe explica este pasaje hablando de Jesús (Hechos 8:35).",
+          "textoNino": "Jesús sufrió para sanarnos.",
+          "referencia": "Isaías 53:4-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un rey sobre un asno",
+          "texto": "Zacarías anuncia un rey humilde que llega sobre un asno. Jesús entra así en Jerusalén (Mateo 21:5).",
+          "textoNino": "Jesús entró a Jerusalén montado en un burrito.",
+          "referencia": "Zacarías 9:9",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Cumplido en el Nuevo",
+      "capitulos": "",
+      "color": "dusk",
+      "resumen": "El Nuevo Testamento muestra a Jesús en persona. Él mismo abre las Escrituras a sus discípulos, y el último libro lo presenta como el principio y el fin.",
+      "resumenNino": "Jesús vino, y todo lo prometido se cumplió en él.",
+      "hojas": [
+        {
+          "titulo": "El Verbo hecho carne",
+          "texto": "Juan empieza como Génesis: «En el principio era el Verbo». Ese Verbo se hace hombre en Jesús.",
+          "textoNino": "Jesús estaba con Dios desde el principio.",
+          "referencia": "Juan 1:1-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "De quien escribió Moisés",
+          "texto": "Felipe le dice a Natanael: hemos hallado a aquel de quien escribieron Moisés y los profetas.",
+          "textoNino": "Felipe dijo: «¡Encontramos a Jesús!».",
+          "referencia": "Juan 1:43-46",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Alpha y Omega",
+          "texto": "Al final de la Biblia, Jesús dice: «Yo soy Alpha y Omega, principio y fin».",
+          "textoNino": "Jesús es el principio y el final de todo.",
+          "referencia": "Apocalipsis 22:12-13",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús mismo enseñó a leer así la Biblia. Dijo que de él hablaban la ley de Moisés, los profetas y los salmos. Leer con él al lado hace arder el corazón, como a los discípulos de Emaús.",
+    "referencias": ["Lucas 24:27", "Lucas 24:32", "Lucas 24:44"]
+  },
+  "paraTuVida": [
+    "Cuando leas el Antiguo Testamento, pregúntate: ¿qué me enseña esto de Jesús?",
+    "Busca hoy una de estas conexiones y léela en los dos Testamentos."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En qué ciudad dijo Miqueas que nacería el gobernante de Israel?",
+      "opciones": ["Belén", "Nazaret", "Jerusalén"],
+      "correcta": 0,
+      "explicacion": "Miqueas 5:2 nombra a Belén, y Mateo 2:5-6 lo recuerda cuando nace Jesús."
+    },
+    {
+      "pregunta": "¿Qué significa el nombre Emmanuel?",
+      "opciones": ["Rey de paz", "Con nosotros Dios", "Hijo de David"],
+      "correcta": 1,
+      "explicacion": "Mateo 1:23 lo explica: Emmanuel quiere decir «Con nosotros Dios»."
+    },
+    {
+      "pregunta": "¿A qué imagen del desierto comparó Jesús su cruz?",
+      "opciones": ["Al maná", "A la roca", "A la serpiente levantada"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo que sería levantado como Moisés levantó la serpiente (Juan 3:14-15)."
+    }
+  ],
+  "estudio": ["comienza-aqui", "el-verbo", "resurreccion", "conclusion"],
+  "conexiones": [
+    { "id": "historia-de-la-salvacion", "motivo": "Mira la historia completa que desemboca en Jesús." },
+    { "id": "genesis", "motivo": "Empieza por la primera promesa, en Génesis 3:15." },
+    { "id": "pactos-de-dios", "motivo": "Los pactos de Dios se cumplen en Jesús." }
+  ]
+}

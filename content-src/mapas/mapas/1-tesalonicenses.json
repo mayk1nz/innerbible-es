@@ -1,0 +1,179 @@
+{
+  "id": "1-tesalonicenses",
+  "tipo": "libro",
+  "titulo": "1 Tesalonicenses",
+  "subtitulo": "Esperanza en su venida",
+  "libro": "1Thess",
+  "centro": {
+    "texto": "Una iglesia joven vive con fe, amor y esperanza en el regreso de Jesús",
+    "textoNino": "Jesús volverá, y viviremos con él para siempre"
+  },
+  "versiculo": {
+    "texto": "Estad siempre gozosos. Orad sin cesar. Dad gracias en todo; porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+    "referencia": "1 Tesalonicenses 5:16-18"
+  },
+  "ramas": [
+    {
+      "titulo": "Una iglesia ejemplo",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo, Silvano y Timoteo dan gracias por la fe, el amor y la esperanza de los tesalonicenses. Su fe se conoce en muchos lugares.",
+      "resumenNino": "Pablo está feliz porque sus amigos aman a Jesús.",
+      "hojas": [
+        {
+          "titulo": "Fe, amor y esperanza",
+          "texto": "Pablo recuerda la obra de su fe, el trabajo de su amor y su esperanza firme en Jesús.",
+          "textoNino": "Creen, aman y esperan en Jesús.",
+          "referencia": "1 Tesalonicenses 1:2-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Al Dios vivo",
+          "texto": "Dejaron los ídolos para servir al Dios vivo y verdadero, y esperan a su Hijo desde el cielo.",
+          "textoNino": "Dejaron las estatuas para amar al Dios vivo.",
+          "referencia": "1 Tesalonicenses 1:9-10",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Como madre y padre",
+      "capitulos": "2–3",
+      "color": "amber",
+      "resumen": "Pablo recuerda cómo los cuidó con ternura. Tuvo que irse pronto y envió a Timoteo, que volvió con buenas noticias de su fe.",
+      "resumenNino": "Pablo cuida a sus amigos como una mamá y un papá.",
+      "hojas": [
+        {
+          "titulo": "Como una madre",
+          "texto": "Pablo fue tierno como una madre que cría a sus hijos. Les dio el evangelio y también su propia vida.",
+          "textoNino": "Pablo cuida a sus amigos con cariño de mamá.",
+          "referencia": "1 Tesalonicenses 2:7-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Como un padre",
+          "texto": "Como un padre con sus hijos, animó a cada uno a vivir como es digno de Dios.",
+          "textoNino": "Pablo anima a sus amigos como un papá.",
+          "referencia": "1 Tesalonicenses 2:11-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Noticias de Timoteo",
+          "texto": "Timoteo trae noticias de su fe y de su amor. Pablo se consuela y ora de noche y de día para volver a verlos.",
+          "textoNino": "Timoteo trae buenas noticias, y Pablo se alegra.",
+          "referencia": "1 Tesalonicenses 3:6-10",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Vivir para agradar a Dios",
+      "capitulos": "4",
+      "color": "dawn",
+      "resumen": "Pablo les pide seguir creciendo: vivir en santidad, amarse como hermanos y trabajar con sus manos, con una vida tranquila.",
+      "resumenNino": "Amamos a los demás y trabajamos con alegría.",
+      "hojas": [
+        {
+          "titulo": "Una vida santa",
+          "texto": "Dios nos llama a una vida limpia y santa. Él mismo nos da su Espíritu Santo.",
+          "textoNino": "Dios nos ayuda a vivir de forma limpia.",
+          "referencia": "1 Tesalonicenses 4:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una vida tranquila",
+          "texto": "Ya se aman como hermanos. Pablo les pide vivir en paz, ocuparse de lo suyo y trabajar con sus manos.",
+          "textoNino": "Trabajamos bien y vivimos en paz.",
+          "referencia": "1 Tesalonicenses 4:9-12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Jesús volverá",
+      "capitulos": "4–5",
+      "color": "olive",
+      "resumen": "Algunos están tristes por los hermanos que murieron. Pablo los consuela: Jesús volverá, y los que murieron en él resucitarán. Hay varias maneras de leer los detalles.",
+      "resumenNino": "Jesús volverá, y estaremos siempre con él.",
+      "hojas": [
+        {
+          "titulo": "Esperanza ante la muerte",
+          "texto": "Los que murieron en Cristo resucitarán, y estaremos siempre con el Señor. Con estas palabras se consuelan unos a otros.",
+          "textoNino": "Los que aman a Jesús vivirán con él para siempre.",
+          "referencia": "1 Tesalonicenses 4:13-18",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Hijos de luz",
+          "texto": "El día del Señor vendrá como ladrón de noche. Por eso vivimos despiertos, con fe, amor y esperanza.",
+          "textoNino": "Vivimos cada día listos para Jesús.",
+          "referencia": "1 Tesalonicenses 5:1-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Consejos finales",
+      "capitulos": "5",
+      "color": "dusk",
+      "resumen": "Pablo termina con consejos breves para la iglesia. Pide respetar a los que sirven, ayudar a los débiles, orar y dar gracias.",
+      "resumenNino": "Oramos siempre y damos gracias por todo.",
+      "hojas": [
+        {
+          "titulo": "Cuidar a todos",
+          "texto": "Consuela al desanimado, sostén al débil y ten paciencia con todos. No devuelvas mal por mal.",
+          "textoNino": "Ayudamos al que está triste o cansado.",
+          "referencia": "1 Tesalonicenses 5:12-15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Orad sin cesar",
+          "texto": "Vive con alegría, ora sin cesar y da gracias en todo. Esa es la voluntad de Dios en Cristo Jesús.",
+          "textoNino": "Hablamos con Dios y le damos gracias siempre.",
+          "referencia": "1 Tesalonicenses 5:16-22",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dios es fiel",
+          "texto": "Pablo pide que Dios los santifique por completo. Fiel es el que los llama, y él lo hará.",
+          "textoNino": "Dios siempre cumple lo que promete.",
+          "referencia": "1 Tesalonicenses 5:23-24",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús murió y resucitó por nosotros, y volverá. Por eso, quienes mueren en él tienen esperanza: estaremos siempre con el Señor.",
+    "referencias": ["1 Tesalonicenses 4:14", "1 Tesalonicenses 4:17", "1 Tesalonicenses 5:9-10"]
+  },
+  "paraTuVida": [
+    "Esta semana, da gracias a Dios cada noche por tres cosas del día.",
+    "Escribe unas palabras de consuelo a alguien que perdió a un ser querido."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué tres cosas recuerda Pablo de ellos en 1 Tesalonicenses 1:3?",
+      "opciones": ["Fe, amor y esperanza", "Paz, gozo y poder", "Ley, templo y fiesta"],
+      "correcta": 0,
+      "explicacion": "Pablo recuerda la obra de su fe, el trabajo de su amor y su esperanza en Jesús."
+    },
+    {
+      "pregunta": "¿A quién envió Pablo para saber cómo estaban?",
+      "opciones": ["A Timoteo", "A Tito", "A Lucas"],
+      "correcta": 0,
+      "explicacion": "1 Tesalonicenses 3:2 y 3:6 cuentan que Pablo envió a Timoteo, y que volvió con buenas noticias."
+    },
+    {
+      "pregunta": "¿Qué libro cuenta la llegada de Pablo a Tesalónica?",
+      "opciones": ["Hechos", "Romanos", "Mateo"],
+      "correcta": 0,
+      "explicacion": "Hechos 17:1-10 cuenta que Pablo predicó en Tesalónica y tuvo que salir de noche."
+    }
+  ],
+  "estudio": ["1-tesalonicenses"],
+  "conexiones": [
+    { "id": "2-tesalonicenses", "motivo": "Pablo vuelve a escribir sobre la venida de Jesús." },
+    { "id": "hechos", "motivo": "Hechos 17 cuenta cómo nació la iglesia de Tesalónica." }
+  ]
+}

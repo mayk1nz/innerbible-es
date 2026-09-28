@@ -1,0 +1,195 @@
+{
+  "id": "oseas",
+  "tipo": "libro",
+  "titulo": "Oseas",
+  "subtitulo": "Un amor que no se rinde",
+  "libro": "Hos",
+  "centro": {
+    "texto": "Dios ama a su pueblo infiel y lo llama a volver sin cansarse",
+    "textoNino": "Dios nos ama aunque nos alejemos de él"
+  },
+  "versiculo": {
+    "texto": "Yo medicinaré su rebelión, amarélos de voluntad: porque mi furor se apartó de ellos.",
+    "referencia": "Oseas 14:4"
+  },
+  "ramas": [
+    {
+      "titulo": "Un matrimonio que habla",
+      "capitulos": "1–3",
+      "color": "rose",
+      "resumen": "Oseas habla a Israel, el reino del norte, en sus últimos años (c. 755–715 a.C.). Su propio matrimonio muestra cómo ama Dios.",
+      "resumenNino": "Oseas amó a su esposa como Dios ama a su pueblo.",
+      "hojas": [
+        {
+          "titulo": "Oseas y Gomer",
+          "texto": "Dios pide a Oseas casarse con Gomer, que le será infiel. Así muestra lo que Dios vive con su pueblo. Unos lo leen como historia; otros, como parábola.",
+          "textoNino": "Dios le pidió a Oseas amar a Gomer, aunque ella se fuera.",
+          "referencia": "Oseas 1:2-3",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Nombres que cambian",
+          "texto": "Sus hijos reciben nombres tristes, como Lo-ammi, que quiere decir no mi pueblo. Pero Dios promete llamarlos «hijos del Dios viviente».",
+          "textoNino": "Dios promete: ustedes serán mis hijos.",
+          "referencia": "Oseas 1:4–2:1",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Hablaré a su corazón",
+          "texto": "Dios llevará a su pueblo al desierto y le hablará con ternura. Promete un pacto para siempre, en justicia y misericordia.",
+          "textoNino": "Dios le habla con cariño a su pueblo.",
+          "referencia": "Oseas 2:14-23",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Ama otra vez",
+          "texto": "Dios le dice a Oseas: «Ve, ama una mujer». Oseas paga un precio por ella y espera su fidelidad. Así espera Dios a su pueblo.",
+          "textoNino": "Oseas volvió a amar y a perdonar, como Dios.",
+          "referencia": "Oseas 3:1-5",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Misericordia quiero",
+      "capitulos": "4–7",
+      "color": "amber",
+      "resumen": "En Israel falta verdad y conocimiento de Dios. El pueblo ofrece sacrificios, pero su amor dura poco, como el rocío.",
+      "resumenNino": "Dios quiere un amor que dure, no solo regalos.",
+      "hojas": [
+        {
+          "titulo": "Les falta conocer a Dios",
+          "texto": "Dios dice que en la tierra no hay verdad ni misericordia. Su pueblo sufre porque se olvidó de él.",
+          "textoNino": "El pueblo se olvidó de Dios y sufría.",
+          "referencia": "Oseas 4:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Volvamos al Señor",
+          "texto": "Oseas invita: «Venid y volvámonos a Jehová». El que hirió también sanará, y vendrá como la lluvia.",
+          "textoNino": "Volvamos a Dios: él nos sana.",
+          "referencia": "Oseas 6:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Como el rocío",
+          "texto": "El amor del pueblo se va como el rocío de la mañana. Dios dice: «misericordia quise, y no sacrificio».",
+          "textoNino": "Dios quiere que seamos buenos con los demás.",
+          "referencia": "Oseas 6:4-6",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Sembrar y cosechar",
+      "capitulos": "8–10",
+      "color": "olive",
+      "resumen": "Israel pone reyes sin consultar a Dios y hace ídolos. Oseas avisa que cada siembra trae su cosecha.",
+      "resumenNino": "Lo que sembramos, eso cosechamos.",
+      "hojas": [
+        {
+          "titulo": "Viento y torbellino",
+          "texto": "El pueblo confía en ídolos y en alianzas. Oseas dice: «sembraron viento, y torbellino segarán».",
+          "textoNino": "Si siembras cosas malas, cosechas problemas.",
+          "referencia": "Oseas 8:1-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Tiempo de buscar a Dios",
+          "texto": "Dios invita a sembrar justicia y cosechar misericordia. Todavía es tiempo de buscarlo.",
+          "textoNino": "Siembra cosas buenas y busca a Dios.",
+          "referencia": "Oseas 10:12",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Cuerdas de amor",
+      "capitulos": "11–13",
+      "color": "warm",
+      "resumen": "Dios recuerda cómo cuidó a Israel desde niño. Aunque el pueblo se aleja, su corazón no puede soltarlo.",
+      "resumenNino": "Dios cuidó a su pueblo como a un niño pequeño.",
+      "hojas": [
+        {
+          "titulo": "Enseñó a caminar",
+          "texto": "Dios amó a Israel cuando era niño y lo llamó de Egipto. Le enseñó a caminar tomándolo de los brazos, con cuerdas de amor.",
+          "textoNino": "Dios enseñó a su pueblo a caminar, como un papá.",
+          "referencia": "Oseas 11:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un corazón que se conmueve",
+          "texto": "Dios pregunta: «¿Cómo tengo de dejarte?». Su corazón se revuelve de amor, y no destruye a su pueblo.",
+          "textoNino": "Dios dice: no puedo dejarte, te quiero mucho.",
+          "referencia": "Oseas 11:8-11",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Más fuerte que la muerte",
+          "texto": "Dios promete librar a su pueblo de la muerte y del sepulcro: «Oh muerte, yo seré tu muerte».",
+          "textoNino": "Dios es más fuerte que la muerte.",
+          "referencia": "Oseas 13:4-14",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Vuelve, Israel",
+      "capitulos": "14",
+      "color": "dawn",
+      "resumen": "El libro termina con una invitación. Dios enseña al pueblo qué decir al volver y promete sanarlo con amor.",
+      "resumenNino": "Dios dice: vuelve a mí, y te sanaré.",
+      "hojas": [
+        {
+          "titulo": "Palabras para volver",
+          "texto": "Oseas les da una oración: «Quita toda iniquidad, y acepta el bien». Volver a Dios empieza con palabras sinceras.",
+          "textoNino": "Podemos decirle a Dios: perdóname.",
+          "referencia": "Oseas 14:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Florecerá como lirio",
+          "texto": "Dios promete sanar la rebelión y amar de pura voluntad. Será como rocío, e Israel florecerá como lirio.",
+          "textoNino": "Con Dios, su pueblo florece como una flor.",
+          "referencia": "Oseas 14:4-9",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Mateo ve a Jesús en Oseas 11:1: «de Egipto llamé a mi hijo». Jesús repite Oseas 6:6 cuando come con pecadores. Y Pablo canta la victoria de Jesús sobre la muerte con palabras de Oseas 13.",
+    "referencias": ["Mateo 2:15", "Mateo 9:13", "1 Corintios 15:55-57"]
+  },
+  "paraTuVida": [
+    "Si te alejaste de Dios, usa hoy la oración de Oseas 14:2.",
+    "Muestra misericordia esta semana a alguien que te falló.",
+    "Recuerda un momento en que Dios te cuidó como un padre."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llamaba la esposa de Oseas?",
+      "opciones": ["Rut", "Gomer", "Débora"],
+      "correcta": 1,
+      "explicacion": "Dios le pidió a Oseas casarse con Gomer, hija de Diblaim (Oseas 1:3)."
+    },
+    {
+      "pregunta": "Según Oseas 6:6, ¿qué quiere Dios más que sacrificios?",
+      "opciones": ["Más ofrendas", "Largos ayunos", "Misericordia"],
+      "correcta": 2,
+      "explicacion": "Dios dice: «misericordia quise, y no sacrificio» (Oseas 6:6)."
+    },
+    {
+      "pregunta": "¿Qué frase de Oseas usa Mateo para Jesús niño, al volver de Egipto?",
+      "opciones": ["De Egipto llamé a mi hijo", "Sembraron viento", "Hablaré a su corazón"],
+      "correcta": 0,
+      "explicacion": "Mateo cita Oseas 11:1 cuando Jesús vuelve de Egipto con su familia (Mateo 2:15)."
+    }
+  ],
+  "estudio": ["oseas", "2-reyes-15-17"],
+  "conexiones": [
+    { "id": "amos", "motivo": "Amós habla al mismo reino del norte, pocos años antes." },
+    { "id": "2-reyes", "motivo": "Allí se cuenta la caída de Samaria." },
+    { "id": "lucas", "motivo": "El padre del hijo pródigo ama como en Oseas." }
+  ]
+}

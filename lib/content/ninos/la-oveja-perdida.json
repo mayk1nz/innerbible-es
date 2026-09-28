@@ -1,0 +1,118 @@
+{
+  "id": "la-oveja-perdida",
+  "titulo": "La oveja perdida",
+  "referencia": "Lucas 15:3-7",
+  "estudio": "camino-a-jerusalen",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "cien-ovejas",
+      "texto": {
+        "3-5": "Jesús contó una historia. Un pastor tenía cien ovejas. ¡Bee, bee! Las cuidaba con mucho cariño.",
+        "6-8": "Mucha gente que se sentía lejos de Dios se acercaba a escuchar a Jesús. Algunos se quejaban: «Este recibe a los pecadores y come con ellos». Entonces Jesús contó una historia: «Un pastor tenía cien ovejas».",
+        "9-12": "Cobradores de impuestos y personas señaladas como pecadoras se acercaban a escuchar a Jesús. Algunos fariseos y escribas murmuraban porque Él los recibía y comía con ellos (Lucas 15:1-2). Jesús respondió con tres historias sobre cosas perdidas. La primera habla de un pastor que tenía cien ovejas."
+      }
+    },
+    {
+      "id": "una-se-pierde",
+      "texto": {
+        "3-5": "Un día, una ovejita se perdió. ¡Ya no estaba! Solo quedaban noventa y nueve.",
+        "6-8": "Un día, el pastor se dio cuenta de que le faltaba una. ¡Una ovejita se había perdido! Quedaban noventa y nueve, pero para el pastor cada oveja era importante.",
+        "9-12": "Jesús preguntó: ¿quién de ustedes, si pierde una de sus cien ovejas, no deja las noventa y nueve y va a buscarla? En el campo, una oveja sola y perdida corre peligro. Por eso el pastor no espera a que vuelva: sale a buscarla."
+      }
+    },
+    {
+      "id": "la-busca",
+      "texto": {
+        "3-5": "El pastor salió a buscarla. Buscó y buscó, sin parar. «¡Ovejita! ¿Dónde estás?».",
+        "6-8": "El pastor dejó a las noventa y nueve en el campo. Salió a buscar a la que se había perdido. Caminó y buscó, sin rendirse, hasta encontrarla.",
+        "9-12": "El pastor busca «hasta que la halle» (Lucas 15:4). No se rinde a medio camino ni pone condiciones. Así es el amor de Dios: no espera a que el perdido encuentre solo el camino de regreso. Sale a su encuentro."
+      }
+    },
+    {
+      "id": "sobre-los-hombros",
+      "texto": {
+        "3-5": "¡La encontró! La puso sobre sus hombros, muy feliz. ¡A casa, ovejita!",
+        "6-8": "¡Por fin la encontró! Lleno de alegría, la puso sobre sus hombros y la llevó de regreso a casa.",
+        "9-12": "Cuando la encuentra, la pone sobre sus hombros «gozoso» (Lucas 15:5). Una oveja cansada no puede caminar mucho, así que el pastor carga con ella todo el camino. En la historia no hay reproches: solo alegría."
+      }
+    },
+    {
+      "id": "fiesta",
+      "texto": {
+        "3-5": "Llamó a sus amigos: «¡Encontré mi ovejita!». ¡Qué fiesta! Así se alegra Dios cuando volvemos a Él.",
+        "6-8": "Al llegar, llamó a sus amigos y vecinos: «¡Alégrense conmigo! Encontré la oveja que se había perdido». Jesús explicó que así hay alegría en el cielo por cada persona que vuelve a Dios. Tú también eres muy importante para Dios.",
+        "9-12": "El pastor reúne a amigos y vecinos para celebrar. Jesús explica: así habrá más gozo en el cielo por un pecador que se arrepiente (Lucas 15:7). Más que por noventa y nueve que no necesitan arrepentirse. Para Dios, nadie es «solo uno más»: cada persona es buscada y amada."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me busca y se alegra conmigo.", "referencia": "Lucas 15:4-6", "fuente": "adaptado" },
+    "6-8": { "texto": "Alégrense conmigo, porque encontré la oveja que se había perdido.", "referencia": "Lucas 15:6", "fuente": "adaptado" },
+    "9-12": { "texto": "Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen.", "referencia": "Juan 10:14", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "¡Ayuda al pastor! Busca las palabras escondidas.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["OVEJA", "CASA", "DIOS"], "diagonales": false, "seed": 1534 },
+        "6-8": { "tamano": 6, "palabras": ["OVEJA", "PASTOR", "CIEN", "FIESTA"], "diagonales": false, "seed": 15347 },
+        "9-12": { "tamano": 10, "palabras": ["PASTOR", "OVEJA", "NOVENTA", "HOMBROS", "VECINOS", "AMIGOS", "GOZO", "CIELO"], "diagonales": true, "seed": 153407 }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Te acuerdas? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Cuántas ovejas tenía el pastor?", "opciones": ["Cien", "Dos"], "correcta": 0, "explicacion": "¡Cien ovejas!" },
+            { "texto": "¿Qué hizo el pastor cuando se perdió una?", "opciones": ["Se fue a dormir", "La buscó"], "correcta": 1, "explicacion": "La buscó hasta encontrarla." },
+            { "texto": "¿Cómo llevó a la oveja a casa?", "opciones": ["Sobre sus hombros", "En un carro"], "correcta": 0, "explicacion": "La cargó sobre sus hombros, muy feliz." }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Cuántas ovejas se quedaron en el campo?", "opciones": ["Diez", "Noventa y nueve", "Cincuenta"], "correcta": 1, "explicacion": "Noventa y nueve se quedaron; una se había perdido." },
+            { "texto": "¿Hasta cuándo buscó el pastor?", "opciones": ["Hasta la hora de comer", "Un ratito", "Hasta encontrarla"], "correcta": 2, "explicacion": "No se rindió hasta encontrarla." },
+            { "texto": "¿Cómo se sintió el pastor al encontrarla?", "opciones": ["Enojado", "Lleno de alegría", "Cansado y triste"], "correcta": 1, "explicacion": "La puso sobre sus hombros, lleno de alegría." },
+            { "texto": "¿A quiénes llamó al llegar a casa?", "opciones": ["A sus amigos y vecinos", "A los soldados", "A nadie"], "correcta": 0, "explicacion": "Les dijo: «¡Alégrense conmigo!»." },
+            { "texto": "¿Quién se alegra cuando alguien vuelve a Dios?", "opciones": ["Nadie", "Solo el pastor", "Todo el cielo"], "correcta": 2, "explicacion": "Jesús dijo que hay alegría en el cielo." }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Por qué murmuraban algunos fariseos y escribas?", "opciones": ["Porque Jesús comía con pecadores", "Porque Jesús no oraba", "Porque llovía", "Porque Jesús cobraba impuestos"], "correcta": 0, "explicacion": "«Este a los pecadores recibe, y con ellos come» (Lucas 15:2)." },
+            { "texto": "¿Dónde dejó el pastor a las noventa y nueve?", "opciones": ["En el templo", "En el desierto", "En el mar", "En la ciudad"], "correcta": 1, "explicacion": "Las dejó «en el desierto», es decir, en el campo abierto (Lucas 15:4)." },
+            { "texto": "¿Hasta cuándo busca el pastor?", "opciones": ["Hasta el anochecer", "Tres días", "Hasta que la halla", "Hasta cansarse"], "correcta": 2, "explicacion": "«Hasta que la halle» (Lucas 15:4)." },
+            { "texto": "¿Cuántas historias de cosas perdidas cuenta Jesús en Lucas 15?", "opciones": ["Una", "Dos", "Tres", "Siete"], "correcta": 2, "explicacion": "La oveja, la moneda y el hijo perdidos." },
+            { "texto": "¿Qué pide el pastor a amigos y vecinos?", "opciones": ["Que lo ayuden a vender", "Que se alegren con él", "Que cuiden el rebaño", "Que guarden silencio"], "correcta": 1, "explicacion": "«Dadme el parabién», es decir, alégrense conmigo (Lucas 15:6)." },
+            { "texto": "Según Jesús, ¿qué causa gozo en el cielo?", "opciones": ["Un pecador que se arrepiente", "Un rebaño grande", "Una fiesta en el pueblo", "Un pastor rico"], "correcta": 0, "explicacion": "Así lo dice Jesús en Lucas 15:7." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño sepa que es muy valioso para Dios, y que Dios siempre lo busca con amor, aunque se aleje.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Si me porto mal, Dios deja de quererme?",
+        "respuesta": "Respóndele con ternura: «No. Dios nunca deja de amarte. Cuando nos equivocamos, Él nos busca como el pastor, y se alegra cuando volvemos. Por eso podemos pedir perdón sin miedo»."
+      },
+      {
+        "pregunta": "¿No le importaban las otras noventa y nueve?",
+        "respuesta": "Sí le importaban: estaban juntas y a salvo. La que corría peligro era la perdida. Jesús quiere mostrarnos que Dios no se olvida de nadie."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántas ovejas tenía el pastor y qué hizo cuando encontró a la perdida?",
+      "sentir": "¿Alguna vez te perdiste o perdiste algo que querías mucho? ¿Qué sentiste al encontrarlo?",
+      "vivir": "¿Cómo podemos hacer sentir importante esta semana a alguien que está solo o apartado?"
+    },
+    "oracion": "Buen Pastor, gracias porque me conoces y siempre me buscas. Llévame cerca de tu corazón. Amén.",
+    "gesto": "Escondan un peluche o una figura de oveja. Al encontrarla, digan juntos: «¡Dios me busca y se alegra conmigo!»."
+  },
+  "estampa": "La ovejita en los hombros"
+}

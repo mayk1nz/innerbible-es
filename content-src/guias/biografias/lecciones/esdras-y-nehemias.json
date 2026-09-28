@@ -1,0 +1,131 @@
+{
+  "id": "esdras-y-nehemias",
+  "titulo": "Esdras y Nehemías",
+  "subtitulo": "Reconstruir la Ley y los muros",
+  "etiquetas": ["Antiguo Testamento", "Exilio y regreso", "Jerusalén"],
+  "enUnMinuto": [
+    "Después del exilio, Jerusalén está pobre y con los muros en ruinas.",
+    "Esdras, sacerdote y maestro, vuelve para enseñar la Palabra de Dios. Nehemías, copero del rey persa, vuelve para levantar los muros.",
+    "Los dos oran, trabajan juntos y ayudan al pueblo a empezar de nuevo con Dios."
+  ],
+  "versiculo": {
+    "texto": "Díjoles luego: Id, comed grosuras, y bebed vino dulce, y enviad porciones a los que no tienen prevenido; porque día santo es a nuestro Señor: y no os entristezcáis, porque el gozo de Jehová es vuestra fortaleza.",
+    "referencia": "Nehemías 8:10"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quiénes eran",
+      "parrafos": [
+        "Esdras quiere decir «ayuda». Era sacerdote, descendiente de Aarón, y escriba experto en la ley de Moisés (Esdras 7:1-6). Llegó a Jerusalén desde Babilonia en el 458 a.C.",
+        "Nehemías quiere decir «el Señor consuela». Era hijo de Hacalías y copero del rey persa Artajerjes en Susa, un cargo de mucha confianza (Nehemías 1:1, 11). Llegó a Jerusalén en el 445 a.C. como gobernador.",
+        "Los dos vivieron unos cien años después de la caída de Jerusalén, cuando los judíos ya podían volver a su tierra."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un corazón preparado. Esdras se propone estudiar la ley de Dios, vivirla y enseñarla (Esdras 7:10).",
+        "Un viaje en oración. Antes de partir, Esdras no pide soldados al rey. Ayuna y ora con el pueblo, y Dios los protege (Esdras 8:21-23).",
+        "Un dolor compartido. Esdras descubre que el pueblo se ha alejado de Dios. Llora, ora y confiesa esos pecados como propios (Esdras 9:3-6; 10:1).",
+        "Noticias tristes. En Susa, Nehemías oye que los muros de Jerusalén siguen en ruinas. Llora, ayuna y ora varios días (Nehemías 1:1-11).",
+        "Una oración rápida. El rey nota su tristeza y le pregunta qué pide. Nehemías ora en silencio y luego habla. El rey lo envía (Nehemías 2:1-8).",
+        "«Levantémonos, y edifiquemos». Nehemías recorre los muros de noche y anima al pueblo a reconstruir (Nehemías 2:11-18).",
+        "Trabajo y vigilancia. Los enemigos se burlan y amenazan. El pueblo ora y pone guardias, y sigue trabajando (Nehemías 4:6-9, 14-17).",
+        "Justicia para los pobres. Algunos judíos ricos abusan de sus hermanos con préstamos. Nehemías los corrige y da ejemplo: no cobra lo que le correspondía como gobernador (Nehemías 5:1-15).",
+        "Cincuenta y dos días. El muro se termina, y hasta los enemigos reconocen que la obra venía de Dios (Nehemías 6:15-16).",
+        "La Palabra en la plaza. Esdras lee la Ley desde el amanecer, y los levitas la explican. El pueblo llora, y le dicen: «el gozo de Jehová es vuestra fortaleza» (Nehemías 8:1-10)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Esdras leyó las Escrituras y otros ayudaron a entenderlas. Después de resucitar, Jesús abrió el entendimiento de sus discípulos para que comprendieran las Escrituras (Lucas 24:45). Nehemías reconstruyó los muros de una ciudad. Jesús vino a reconstruir algo más profundo: un pueblo nuevo, su Iglesia, con piedras vivas (1 Pedro 2:5)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Primero el corazón, luego la tarea. Esdras preparó su corazón antes de enseñar. Esta semana: lee un capítulo de la Biblia cada día antes de empezar tus tareas.",
+        "Orar y trabajar van juntos. Nehemías oró y también puso guardias. Esta semana: ora por un problema y da un paso práctico para resolverlo.",
+        "Reconstruir es obra de muchos. Cada familia levantó su parte del muro. Esta semana: ofrece tu ayuda en un proyecto de tu iglesia o de tu barrio."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizá hay «muros caídos» en tu vida: una familia herida, una fe que se enfrió. Dios no se cansa de reconstruir. Empieza como Esdras y Nehemías: con oración, con su Palabra y con un primer ladrillo."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Esdras y Nehemías aparecen juntos en la gran lectura de la Ley (Nehemías 8:9).",
+        "Nehemías gobernó doce años sin cobrar el pan del gobernador (Nehemías 5:14-15)."
+      ],
+      "tradicion": [
+        "Una antigua tradición judía dice que Esdras reunió a los sabios de su tiempo y ayudó a ordenar las Escrituras.",
+        "En la antigua Biblia latina, la Vulgata, estos dos libros se llamaban Primero y Segundo de Esdras."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esdras 10 y Nehemías 13 cuentan medidas duras sobre los matrimonios con extranjeros. Son pasajes difíciles, nacidos del deseo de proteger la fe de un pueblo pequeño. La misma Biblia cuenta la historia de Rut, una moabita que entró al pueblo de Dios por su fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparecen en la Biblia?",
+      "items": [
+        { "ref": "Esdras 7:1-10", "nota": "Esdras llega a Jerusalén" },
+        { "ref": "Esdras 9:5-15", "nota": "La oración de Esdras" },
+        { "ref": "Nehemías 1", "nota": "La oración de Nehemías" },
+        { "ref": "Nehemías 2:1-8", "nota": "Ante el rey Artajerjes" },
+        { "ref": "Nehemías 4", "nota": "Trabajar y vigilar" },
+        { "ref": "Nehemías 6:15-16", "nota": "El muro terminado" },
+        { "ref": "Nehemías 8:1-12", "nota": "La lectura de la Ley" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Nehemías y su pueblo levantaron un muro enorme en cincuenta y dos días, cada familia un pedacito. ¿Qué pueden construir juntos en tu casa?",
+      "actividad": "Para el adulto: todos trabajaron juntos (Nehemías 4:6). Construyan un muro con cajas o bloques, y en cada pieza escriban el nombre de alguien de la familia."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, reconstruye lo que está caído en mi vida. Dame un corazón como el de Esdras, que ama tu Palabra, y manos como las de Nehemías, que trabajan con fe. Tu gozo es mi fuerza. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Esdras y Nehemías confesaron los pecados del pueblo como propios. ¿Por qué es importante eso?",
+        "¿Qué «muros» necesita reconstruir hoy nuestra comunidad?",
+        "¿Cómo podemos hacer que la Biblia se entienda, como hicieron los levitas?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué trabajo hacía Nehemías en el palacio del rey de Persia?",
+      "opciones": ["Era cocinero", "Era soldado", "Era copero del rey"],
+      "correcta": 2,
+      "explicacion": "Nehemías dice: «yo servía de copero al rey» (Nehemías 1:11)."
+    },
+    {
+      "pregunta": "¿En cuántos días se terminó el muro de Jerusalén?",
+      "opciones": ["En cincuenta y dos días", "En siete días", "En tres años"],
+      "correcta": 0,
+      "explicacion": "El muro se acabó en cincuenta y dos días (Nehemías 6:15)."
+    },
+    {
+      "pregunta": "Esdras leyó las Escrituras al pueblo. ¿Qué hizo Jesús resucitado con sus discípulos?",
+      "opciones": ["Les dio un rollo nuevo", "Les abrió el entendimiento para comprender las Escrituras", "Les prohibió leer la Ley"],
+      "correcta": 1,
+      "explicacion": "Jesús «les abrió el sentido, para que entendiesen las Escrituras» (Lucas 24:45)."
+    }
+  ],
+  "estudio": ["esdras-7-10", "nehemias"],
+  "buscar": "Nehemías"
+}

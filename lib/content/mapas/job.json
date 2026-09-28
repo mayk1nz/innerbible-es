@@ -1,0 +1,246 @@
+{
+  "id": "job",
+  "tipo": "libro",
+  "titulo": "Job",
+  "subtitulo": "Fe en medio del dolor",
+  "libro": "Job",
+  "centro": {
+    "texto": "Dios no explica todo el dolor, pero se acerca y no abandona",
+    "textoNino": "Cuando sufrimos, Dios sigue con nosotros"
+  },
+  "versiculo": {
+    "texto": "Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo:",
+    "referencia": "Job 19:25"
+  },
+  "ramas": [
+    {
+      "titulo": "Job lo pierde todo",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Job es un hombre bueno que ama a Dios. La Biblia no dice cuándo vivió. En poco tiempo pierde sus bienes, sus hijos y su salud, pero no deja a Dios.",
+      "resumenNino": "Job perdió muchas cosas, pero siguió confiando en Dios.",
+      "hojas": [
+        {
+          "titulo": "Un hombre íntegro",
+          "texto": "Job vive en la tierra de Uz. Es recto, ama a Dios y se aparta del mal.",
+          "textoNino": "Job era un hombre bueno que amaba a Dios.",
+          "referencia": "Job 1:1",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "¿Sirve Job por nada?",
+          "texto": "Satanás acusa a Job de amar a Dios solo por sus bendiciones. Dios le permite probarlo, pero le pone un límite.",
+          "textoNino": "El enemigo dijo que Job amaba a Dios solo por sus regalos.",
+          "referencia": "Job 1:6-12",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El Señor dio, el Señor quitó",
+          "texto": "Job lo pierde casi todo en un día. Rasga su manto y adora: «Jehová dio, y Jehová quitó: sea el nombre de Jehová bendito».",
+          "textoNino": "Job estaba muy triste, pero siguió adorando a Dios.",
+          "referencia": "Job 1:13-22",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Siete días de silencio",
+          "texto": "Tres amigos vienen a consolarlo. Se sientan con él en la tierra siete días sin decir nada, porque ven su gran dolor.",
+          "textoNino": "Sus amigos se sentaron con él en silencio.",
+          "referencia": "Job 2:11-13",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Job y sus amigos",
+      "capitulos": "3–20",
+      "color": "amber",
+      "resumen": "Job rompe el silencio con un lamento. Sus amigos le dicen que sufre por algún pecado. Job sabe que no es así, y clama a Dios con preguntas y con esperanza.",
+      "resumenNino": "Los amigos de Job pensaban mal de él, pero él esperaba en Dios.",
+      "hojas": [
+        {
+          "titulo": "Un lamento sincero",
+          "texto": "Job maldice el día en que nació. La Biblia no esconde su dolor: también las quejas pueden decirse delante de Dios.",
+          "textoNino": "Job le contó a Dios toda su tristeza.",
+          "referencia": "Job 3:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una respuesta equivocada",
+          "texto": "Elifaz dice que los inocentes no sufren y que cada uno cosecha lo que siembra. Con eso, culpa a Job de su desgracia.",
+          "textoNino": "Sus amigos creían que Job sufría por portarse mal.",
+          "referencia": "Job 4:7-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Alguien entre Dios y yo",
+          "texto": "Job siente que Dios está muy lejos. Desea que haya un árbitro, alguien que ponga su mano sobre los dos.",
+          "textoNino": "Job quería a alguien que lo ayudara a hablar con Dios.",
+          "referencia": "Job 9:32-33",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Mi Redentor vive",
+          "texto": "En lo más hondo de su dolor, Job afirma: «Yo sé que mi Redentor vive». Espera ver a Dios con sus propios ojos.",
+          "textoNino": "Job dijo: «Yo sé que mi Redentor vive».",
+          "referencia": "Job 19:25-27",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Job busca a Dios",
+      "capitulos": "21–31",
+      "color": "olive",
+      "resumen": "Los amigos insisten, pero se quedan sin palabras. Job busca a Dios y no lo encuentra, aunque confía en que saldrá de la prueba como oro. Recuerda cómo ayudaba al pobre.",
+      "resumenNino": "Job buscaba a Dios y confiaba en que saldría adelante.",
+      "hojas": [
+        {
+          "titulo": "Saldré como oro",
+          "texto": "Job no sabe dónde hallar a Dios. Aun así, dice: Dios conoce mi camino; me probará, y saldré como oro.",
+          "textoNino": "Job sabía que Dios lo cuidaba, aunque no lo viera.",
+          "referencia": "Job 23:3-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "¿Dónde está la sabiduría?",
+          "texto": "Los hombres sacan oro de las minas, pero la sabiduría no se compra. Dios dice: temer al Señor es la sabiduría.",
+          "textoNino": "La verdadera sabiduría es amar y respetar a Dios.",
+          "referencia": "Job 28:12-28",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Padre de los pobres",
+          "texto": "Job recuerda su vida: ayudaba al pobre que clamaba y al huérfano sin ayuda. Era como un padre para los necesitados.",
+          "textoNino": "Job siempre había ayudado a los pobres.",
+          "referencia": "Job 29:12-16",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Habla el joven Eliú",
+      "capitulos": "32–37",
+      "color": "rose",
+      "resumen": "Un joven llamado Eliú ha escuchado en silencio. Ahora habla: Dios enseña de muchas maneras, incluso por medio del dolor. Invita a Job a mirar las maravillas de Dios.",
+      "resumenNino": "Un joven le dijo a Job que mirara las maravillas de Dios.",
+      "hojas": [
+        {
+          "titulo": "Esperó su turno",
+          "texto": "Eliú, el más joven, ha esperado a que hablen los mayores. No está de acuerdo ni con Job ni con sus amigos.",
+          "textoNino": "Eliú esperó con respeto antes de hablar.",
+          "referencia": "Job 32:1-6",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Dios habla de muchas maneras",
+          "texto": "Eliú dice que Dios habla una y otra vez, aunque el ser humano no siempre lo entiende.",
+          "textoNino": "Dios nos habla, aunque a veces no lo entendemos.",
+          "referencia": "Job 33:14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Detente y mira",
+          "texto": "«Escucha esto, Job; repósate, y considera las maravillas de Dios». La tormenta, la nieve y la lluvia hablan de su grandeza.",
+          "textoNino": "Mira la lluvia y la nieve: Dios es grande.",
+          "referencia": "Job 37:14",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios responde",
+      "capitulos": "38–41",
+      "color": "dawn",
+      "resumen": "Dios habla desde un torbellino. No le da a Job una explicación, sino preguntas. Le muestra la creación: el mar, las estrellas y los animales. Job entiende que Dios cuida todo.",
+      "resumenNino": "Dios le mostró a Job todo lo que había creado.",
+      "hojas": [
+        {
+          "titulo": "¿Dónde estabas tú?",
+          "texto": "Dios le pregunta a Job dónde estaba cuando él fundaba la tierra, mientras las estrellas del alba cantaban juntas.",
+          "textoNino": "Dios le preguntó dónde estaba cuando él hizo la tierra.",
+          "referencia": "Job 38:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dios cuida a los animales",
+          "texto": "El león, el cuervo, el caballo y el águila: Dios conoce a cada uno y les da su alimento. Si cuida de ellos, también cuida de Job.",
+          "textoNino": "Dios da comida a los pájaros y a los leones.",
+          "referencia": "Job 39",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Behemot y Leviatán",
+          "texto": "Dios describe dos criaturas enormes que nadie puede dominar. Solo él tiene poder sobre ellas.",
+          "textoNino": "Dios hizo animales enormes y fuertes.",
+          "referencia": "Job 40–41",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Ahora mis ojos te ven",
+      "capitulos": "42",
+      "color": "dusk",
+      "resumen": "Job se humilla ante Dios: antes lo conocía de oídas, ahora lo ha visto. Ora por sus amigos, y Dios le devuelve el doble de lo que tenía.",
+      "resumenNino": "Job conoció mejor a Dios, y Dios lo bendijo mucho.",
+      "hojas": [
+        {
+          "titulo": "De oídas a verte",
+          "texto": "Job dice: «De oídas te había oído; mas ahora mis ojos te ven». El encuentro con Dios vale más que todas las respuestas.",
+          "textoNino": "Job conoció a Dios de cerca.",
+          "referencia": "Job 42:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ora por sus amigos",
+          "texto": "Dios dice que los amigos no hablaron bien de él. Job ora por ellos, y entonces Dios cambia su suerte.",
+          "textoNino": "Job perdonó a sus amigos y oró por ellos.",
+          "referencia": "Job 42:7-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un final bendecido",
+          "texto": "Dios bendice los últimos años de Job más que los primeros. Tiene siete hijos y tres hijas, y muere anciano y lleno de días.",
+          "textoNino": "Dios le dio a Job una familia nueva y una vida larga.",
+          "referencia": "Job 42:12-17",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Job pide un árbitro entre Dios y él, y espera a su Redentor vivo. Jesús es ese mediador entre Dios y los hombres. Santiago recuerda la paciencia de Job y que el Señor es muy misericordioso.",
+    "referencias": ["1 Timoteo 2:5", "Santiago 5:11"]
+  },
+  "paraTuVida": [
+    "Si alguien sufre, acompáñalo sin dar explicaciones rápidas: a veces basta con estar.",
+    "Dile a Dios con sinceridad lo que te duele; él puede escuchar tus preguntas.",
+    "Sal a mirar el cielo o la naturaleza y deja que te hable de la grandeza de Dios."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos días se sentaron los amigos con Job sin hablar?",
+      "opciones": ["Siete días", "Tres días", "Cuarenta días"],
+      "correcta": 0,
+      "explicacion": "Se sentaron con él siete días y siete noches, porque veían que su dolor era muy grande (Job 2:13)."
+    },
+    {
+      "pregunta": "¿Qué hizo Job por sus amigos al final del libro?",
+      "opciones": ["Se alejó de ellos", "Les pidió dinero", "Oró por ellos"],
+      "correcta": 2,
+      "explicacion": "Job oró por sus amigos, y entonces Dios cambió su suerte (Job 42:10)."
+    },
+    {
+      "pregunta": "Job pidió alguien entre Dios y él. ¿Quién es ese mediador?",
+      "opciones": ["Un ángel", "Jesucristo", "Eliú"],
+      "correcta": 1,
+      "explicacion": "Hay un solo mediador entre Dios y los hombres: Jesucristo hombre (1 Timoteo 2:5)."
+    }
+  ],
+  "estudio": ["job"],
+  "conexiones": [
+    { "id": "salmos", "motivo": "Los salmos también llevan el dolor delante de Dios." },
+    { "id": "genesis", "motivo": "El Estudio Cronológico lee a Job junto a los patriarcas." },
+    { "id": "eclesiastes", "motivo": "Otro libro que hace preguntas difíciles sobre la vida." }
+  ]
+}

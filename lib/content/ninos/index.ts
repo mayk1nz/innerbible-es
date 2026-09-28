@@ -331,5 +331,19 @@ export const NINOS_SECCIONES: NinosIndice['secciones'] = [
 ]
 
 export const NINOS_HISTORIAS: Record<string, () => Promise<HistoriaNinos>> = {
-
+  'ana-ora': () => import('./ana-ora.json').then((m) => m.default as unknown as HistoriaNinos),
+  'daniel-y-los-leones': () => import('./daniel-y-los-leones.json').then((m) => m.default as unknown as HistoriaNinos),
+  'dios-llama-a-samuel': () => import('./dios-llama-a-samuel.json').then((m) => m.default as unknown as HistoriaNinos),
+  'el-angel-visita-a-maria': () => import('./el-angel-visita-a-maria.json').then((m) => m.default as unknown as HistoriaNinos),
+  'el-buen-samaritano': () => import('./el-buen-samaritano.json').then((m) => m.default as unknown as HistoriaNinos),
+  'el-mana': () => import('./el-mana.json').then((m) => m.default as unknown as HistoriaNinos),
+  'el-padre-que-abraza': () => import('./el-padre-que-abraza.json').then((m) => m.default as unknown as HistoriaNinos),
+  'gedeon': () => import('./gedeon.json').then((m) => m.default as unknown as HistoriaNinos),
+  'jerico': () => import('./jerico.json').then((m) => m.default as unknown as HistoriaNinos),
+  'la-oveja-perdida': () => import('./la-oveja-perdida.json').then((m) => m.default as unknown as HistoriaNinos),
+  'la-reina-ester': () => import('./la-reina-ester.json').then((m) => m.default as unknown as HistoriaNinos),
+  'los-diez-mandamientos': () => import('./los-diez-mandamientos.json').then((m) => m.default as unknown as HistoriaNinos),
+  'nehemias-reconstruye': () => import('./nehemias-reconstruye.json').then((m) => m.default as unknown as HistoriaNinos),
+  'panes-y-peces': () => import('./panes-y-peces.json').then((m) => m.default as unknown as HistoriaNinos),
+  'rut-la-amiga-fiel': () => import('./rut-la-amiga-fiel.json').then((m) => m.default as unknown as HistoriaNinos),
 }

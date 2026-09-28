@@ -1,0 +1,202 @@
+{
+  "id": "nehemias",
+  "tipo": "libro",
+  "titulo": "Nehemías",
+  "subtitulo": "Muros levantados y corazones renovados",
+  "libro": "Neh",
+  "centro": {
+    "texto": "Con oración y trabajo, Dios levanta los muros y renueva el gozo del pueblo",
+    "textoNino": "Dios ayudó a su pueblo a levantar los muros"
+  },
+  "versiculo": {
+    "texto": "Díjoles luego: Id, comed grosuras, y bebed vino dulce, y enviad porciones a los que no tienen prevenido; porque día santo es a nuestro Señor: y no os entristezcáis, porque el gozo de Jehová es vuestra fortaleza.",
+    "referencia": "Nehemías 8:10"
+  },
+  "ramas": [
+    {
+      "titulo": "Nehemías ora",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Nehemías sirve al rey de Persia. Le cuentan que los muros de Jerusalén siguen en ruinas. Llora, ayuna y ora. Dios le abre camino ante el rey.",
+      "resumenNino": "Nehemías oró por Jerusalén, y Dios le abrió camino.",
+      "hojas": [
+        {
+          "titulo": "Un corazón que llora",
+          "texto": "Al saber que el muro está derribado y las puertas quemadas, Nehemías se sienta a llorar. Durante días ayuna y ora al Dios del cielo.",
+          "textoNino": "Nehemías se puso muy triste y oró a Dios.",
+          "referencia": "Nehemías 1:3-11",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una oración rápida",
+          "texto": "El rey Artajerjes ve triste a su copero y le pregunta qué quiere. Nehemías ora en silencio al Dios del cielo y luego habla. El rey le da permiso y cartas.",
+          "textoNino": "Antes de responder al rey, Nehemías oró en silencio.",
+          "referencia": "Nehemías 2:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Levantémonos y edifiquemos",
+          "texto": "En Jerusalén, Nehemías recorre los muros de noche. Luego anima al pueblo, y todos responden: «Levantémonos, y edifiquemos».",
+          "textoNino": "Todos dijeron: «¡Vamos a construir!».",
+          "referencia": "Nehemías 2:11-18",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Todos construyen",
+      "capitulos": "3–4",
+      "color": "amber",
+      "resumen": "Cada familia repara un tramo del muro. Los enemigos se burlan y amenazan. Nehemías pone guardias, ora y recuerda al pueblo que Dios es grande.",
+      "resumenNino": "Cada familia arregló un pedazo del muro.",
+      "hojas": [
+        {
+          "titulo": "Cada uno su parte",
+          "texto": "Sacerdotes, comerciantes, orfebres y familias enteras trabajan uno al lado del otro. Hasta el sumo sacerdote reconstruye una puerta.",
+          "textoNino": "Todos ayudaron, hasta los sacerdotes.",
+          "referencia": "Nehemías 3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Burlas y amenazas",
+          "texto": "Sanbalat y Tobías se ríen: si una zorra sube, el muro se cae. El pueblo ora a Dios y sigue trabajando con ánimo.",
+          "textoNino": "Se burlaban de ellos, pero siguieron trabajando.",
+          "referencia": "Nehemías 4:1-6",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Orar y vigilar",
+          "texto": "Ante las amenazas, oran a Dios y ponen guardia de día y de noche. Nehemías les dice: «No temáis», acordaos del Señor.",
+          "textoNino": "Oraron a Dios y también hicieron guardia.",
+          "referencia": "Nehemías 4:9-14",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Justicia y muro terminado",
+      "capitulos": "5–7",
+      "color": "olive",
+      "resumen": "Algunos ricos se aprovechan de los pobres, y Nehemías los corrige. A pesar de las trampas, el muro se termina en cincuenta y dos días.",
+      "resumenNino": "¡Terminaron el muro en solo cincuenta y dos días!",
+      "hojas": [
+        {
+          "titulo": "Nadie abusa del pobre",
+          "texto": "Hay familias que pierden sus campos por deudas. Nehemías pide a los ricos que devuelvan lo tomado, y ellos aceptan.",
+          "textoNino": "Nehemías defendió a las familias pobres.",
+          "referencia": "Nehemías 5:1-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Cincuenta y dos días",
+          "texto": "El muro queda terminado en cincuenta y dos días. Hasta los enemigos reconocen que la obra viene de Dios.",
+          "textoNino": "Hasta los enemigos vieron que Dios los ayudó.",
+          "referencia": "Nehemías 6:15-16",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "La Palabra y el gozo",
+      "capitulos": "8–10",
+      "color": "dawn",
+      "resumen": "El pueblo pide a Esdras que lea la Ley. La escuchan desde la mañana hasta el mediodía, lloran y luego celebran. Después confiesan sus pecados y renuevan el pacto.",
+      "resumenNino": "El pueblo escuchó la Palabra de Dios y se alegró.",
+      "hojas": [
+        {
+          "titulo": "Esdras lee la Ley",
+          "texto": "Todo el pueblo se reúne en la plaza. Esdras lee el libro, y los levitas lo explican para que todos entiendan.",
+          "textoNino": "Esdras leyó la Biblia, y todos escuchaban atentos.",
+          "referencia": "Nehemías 8:1-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El gozo del Señor",
+          "texto": "Al oír la Ley, el pueblo llora. Nehemías les dice que es un día santo: «el gozo de Jehová es vuestra fortaleza». Comparten comida con los que no tienen.",
+          "textoNino": "Nehemías dijo: «La alegría de Dios nos hace fuertes».",
+          "referencia": "Nehemías 8:9-12",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Fiesta de las cabañas",
+          "texto": "Descubren en la Ley la fiesta de las cabañas. Hacen cabañas con ramas y viven siete días de gran alegría.",
+          "textoNino": "Hicieron casitas con ramas y celebraron una semana.",
+          "referencia": "Nehemías 8:13-18",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un pacto firmado",
+          "texto": "El pueblo ayuna, confiesa sus pecados y recuerda la fidelidad de Dios. Luego ponen por escrito su compromiso de seguir su Ley.",
+          "textoNino": "Prometieron por escrito seguir a Dios.",
+          "referencia": "Nehemías 9:1-38",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Una ciudad para Dios",
+      "capitulos": "11–13",
+      "color": "dusk",
+      "resumen": "Algunos se ofrecen a vivir en Jerusalén. Dedican el muro con dos coros y mucha alegría. Nehemías sigue cuidando que el pueblo sea fiel.",
+      "resumenNino": "Celebraron el muro nuevo con cantos que se oían de lejos.",
+      "hojas": [
+        {
+          "titulo": "Voluntarios para Jerusalén",
+          "texto": "La ciudad está casi vacía. Una de cada diez familias va a vivir allí, y el pueblo bendice a los que se ofrecen con gusto.",
+          "textoNino": "Algunas familias se mudaron a Jerusalén para cuidarla.",
+          "referencia": "Nehemías 11:1-2",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Dos coros sobre el muro",
+          "texto": "Para dedicar el muro, dos grandes coros caminan sobre él cantando. La alegría de Jerusalén se oye desde lejos.",
+          "textoNino": "Cantaron tan fuerte que se oía desde lejos.",
+          "referencia": "Nehemías 12:27-43",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Acuérdate de mí",
+          "texto": "Nehemías corrige lo que se ha torcido y ora con sencillez: «Acuérdate de mí, Dios mío, para bien».",
+          "textoNino": "Nehemías le pidió a Dios: «Acuérdate de mí».",
+          "referencia": "Nehemías 13:31",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Nehemías llora por Jerusalén y trabaja para levantarla. Jesús también llora al ver la ciudad, y vino a levantar lo caído. En Nazaret, Jesús lee las Escrituras como Esdras y dice que se cumplen en él.",
+    "referencias": ["Lucas 19:41", "Lucas 4:16-21"]
+  },
+  "paraTuVida": [
+    "Antes de una conversación difícil, haz una oración corta en silencio, como Nehemías ante el rey.",
+    "Busca tu «tramo del muro»: una tarea concreta para servir en tu familia o comunidad.",
+    "Cuando estés triste, recuerda: «el gozo de Jehová es vuestra fortaleza»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En cuántos días se terminó el muro de Jerusalén?",
+      "opciones": ["Siete días", "Cincuenta y dos días", "Un año"],
+      "correcta": 1,
+      "explicacion": "El muro se acabó en cincuenta y dos días, y hasta los enemigos vieron la mano de Dios (Nehemías 6:15-16)."
+    },
+    {
+      "pregunta": "¿Qué hizo Nehemías justo antes de responder al rey?",
+      "opciones": ["Oró al Dios del cielo", "Consultó a sus amigos", "Escribió una carta"],
+      "correcta": 0,
+      "explicacion": "El rey le preguntó qué pedía. Nehemías oró al Dios de los cielos y luego respondió (Nehemías 2:4-5)."
+    },
+    {
+      "pregunta": "¿Por quién lloró Jesús, como antes lloró Nehemías?",
+      "opciones": ["Por Roma", "Por Egipto", "Por Jerusalén"],
+      "correcta": 2,
+      "explicacion": "Nehemías lloró por Jerusalén en ruinas (Nehemías 1:4). Jesús, al ver la ciudad, lloró sobre ella (Lucas 19:41)."
+    }
+  ],
+  "estudio": ["nehemias"],
+  "conexiones": [
+    { "id": "esdras", "motivo": "Esdras y Nehemías trabajan juntos en Jerusalén." },
+    { "id": "malaquias", "motivo": "Malaquías habla a este mismo pueblo que volvió." },
+    { "id": "ester", "motivo": "Ester vive en la misma época, en la corte de Persia." }
+  ]
+}

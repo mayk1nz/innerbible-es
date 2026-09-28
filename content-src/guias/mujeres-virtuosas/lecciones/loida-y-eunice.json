@@ -1,0 +1,105 @@
+{
+  "id": "loida-y-eunice",
+  "titulo": "Loida y Eunice",
+  "subtitulo": "La fe de abuela a nieto",
+  "etiquetas": ["c. 50–67 d.C.", "Listra, en Asia Menor", "familia", "vejez"],
+  "enUnMinuto": [
+    "Loida es la abuela y Eunice la madre de Timoteo, el joven compañero de Pablo.",
+    "En una familia con padre griego, ellas le enseñan a Timoteo las Escrituras desde niño.",
+    "Pablo dice que la fe sincera de Timoteo vivió primero en ellas."
+  ],
+  "versiculo": {
+    "texto": "Trayendo a la memoria la fe no fingida que hay en ti, la cual residió primero en tu abuela Loida, y en tu madre Eunice; y estoy cierto que en ti también.",
+    "referencia": "2 Timoteo 1:5"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Sus nombres",
+      "parrafos": [
+        "Loida es un nombre griego de significado incierto. Eunice, también griego, significa “buena victoria”."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "En Listra, una ciudad de Asia Menor, vivía un joven llamado Timoteo. Su madre era una judía creyente, y su padre era griego (Hechos 16:1). Por una carta de Pablo sabemos el nombre de su madre, Eunice, y el de su abuela, Loida.",
+        "Era una familia con dos culturas bajo el mismo techo. No sabemos si el padre compartía su fe. Pero la abuela y la madre sembraron en Timoteo algo que duró toda su vida: el amor por la Palabra de Dios. Desde niño, él conoció las Sagradas Escrituras (2 Timoteo 3:15).",
+        "Cuando Pablo pasó por Listra, los hermanos hablaban bien de Timoteo. Pablo lo invitó a acompañarlo en sus viajes. Con el tiempo, Timoteo fue uno de sus colaboradores más cercanos. Pablo lo llamaba «amado hijo» (2 Timoteo 1:2).",
+        "Años después, desde la prisión, Pablo escribió a Timoteo. Recordaba sus lágrimas y su fe. Y le dijo que esa fe «no fingida» había vivido primero en su abuela Loida y en su madre Eunice. La fe de Timoteo tenía raíces: dos mujeres que la cuidaron en casa."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una fe sincera que se transmite",
+      "parrafos": [
+        "Pablo no habla de grandes obras de Loida y Eunice. Habla de su fe «no fingida»: una fe verdadera, sin apariencias. La vivieron en casa, en lo de cada día, y la enseñaron con las Escrituras. Quizás nunca imaginaron hasta dónde llegaría su ejemplo. Lo que sembraron en un niño dio fruto en toda la iglesia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ellas",
+      "tono": "navy",
+      "texto": "Dios usó a una abuela y a una madre para formar a un servidor de su iglesia. Timoteo acompañó a Pablo, cuidó iglesias y recibió dos cartas que todavía leemos. Todo empezó en una casa sencilla, con las Escrituras abiertas. Y esas Escrituras le mostraron el camino de la salvación por la fe en Cristo Jesús (2 Timoteo 3:15)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si eres abuela o abuelo, tu fe es una herencia para tus nietos, aunque parezca que no escuchan. Si crías a tus hijos sola, o en una casa donde no todos creen, Dios ve lo que siembras. Para los padres: lean la Biblia con sus hijos, aunque sea un versículo. Y para los jóvenes: pregunten a sus mayores cómo conocieron a Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Hechos 16:1-3", "nota": "Pablo conoce a Timoteo en Listra." },
+        { "ref": "2 Timoteo 1:3-5", "nota": "La fe de Loida y Eunice." },
+        { "ref": "2 Timoteo 3:14-17", "nota": "Las Escrituras aprendidas desde niño." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por quienes me hablaron de ti. Bendice a las madres y a las abuelas que siembran tu Palabra en casa. Que mi fe sea sincera, sin apariencias. Y que lo que siembre en otros dé fruto para tu Reino. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿quién te habló de Dios por primera vez? Comparte un recuerdo.",
+        "Pablo habla de una fe «no fingida». ¿Cómo se ve una fe sincera en la vida diaria?",
+        "Timoteo creció en una casa donde no todos compartían la fe. ¿Cómo animar hoy a quienes viven algo así?",
+        "¿Qué costumbres sencillas ayudan a pasar la fe a los hijos y a los nietos?",
+        "Dinámica: cada persona escribe el nombre de un niño o joven de su familia. Esta semana, ora por él cada día.",
+        "Para cerrar: lean 2 Timoteo 1:5 y oren por las madres y las abuelas del grupo."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Timoteo tenía una abuela, Loida, y una mamá, Eunice. Ellas le leían la Biblia desde que era pequeño. ¡Timoteo creció y ayudó a Pablo a contar de Jesús! ¿Qué historia de la Biblia te gusta que te lean?",
+      "actividad": "Pidan a un abuelo o abuela que les cuente su historia favorita de la Biblia. Para memorizar: «desde la niñez has sabido las Sagradas Escrituras» (2 Timoteo 3:15)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién era Loida?",
+      "opciones": ["La madre de Timoteo", "La abuela de Timoteo", "La hermana de Pablo"],
+      "correcta": 1,
+      "explicacion": "Pablo nombra a Loida, la abuela, y a Eunice, la madre de Timoteo (2 Timoteo 1:5)."
+    },
+    {
+      "pregunta": "¿Qué aprendió Timoteo desde niño?",
+      "opciones": ["Las Sagradas Escrituras", "El oficio de hacer tiendas", "La lengua latina"],
+      "correcta": 0,
+      "explicacion": "Desde la niñez conoció las Sagradas Escrituras, que le mostraron la salvación por la fe (2 Timoteo 3:15)."
+    },
+    {
+      "pregunta": "¿Cómo era la familia de Timoteo, según Hechos 16:1?",
+      "opciones": ["Toda de Jerusalén", "Toda griega", "Madre judía creyente y padre griego"],
+      "correcta": 2,
+      "explicacion": "Timoteo era hijo de una mujer judía creyente y de padre griego (Hechos 16:1)."
+    }
+  ],
+  "estudio": ["2-timoteo", "hechos-15-18"],
+  "buscar": "2 Timoteo 1:5"
+}

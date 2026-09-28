@@ -1,0 +1,258 @@
+{
+  "id": "linea-del-tiempo",
+  "tipo": "tema",
+  "titulo": "La línea del tiempo",
+  "subtitulo": "Once eras, con fechas aproximadas",
+  "centro": {
+    "texto": "De la creación a la Iglesia, Dios guía la historia paso a paso.",
+    "textoNino": "Dios estuvo presente en cada época de la historia."
+  },
+  "versiculo": {
+    "texto": "Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito a la ley, Para que redimiese a los que estaban debajo de la ley, a fin de que recibiésemos la adopción de hijos.",
+    "referencia": "Gálatas 4:4-5"
+  },
+  "ramas": [
+    {
+      "titulo": "Comienzos y patriarcas",
+      "capitulos": "",
+      "color": "warm",
+      "resumen": "Los comienzos no tienen fecha: la Biblia no la da. Los patriarcas vivieron c. 2100–1800 a.C., según el cálculo tradicional. Otros cálculos los sitúan hasta dos siglos después.",
+      "resumenNino": "Primero Dios creó el mundo. Después llamó a Abraham.",
+      "hojas": [
+        {
+          "titulo": "Creación, caída y diluvio",
+          "texto": "Sin fecha. Dios crea todo bueno, el pecado lo rompe y Dios promete un rescate.",
+          "textoNino": "Dios hizo el mundo y cuidó a Noé.",
+          "referencia": "Génesis 1–11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Abraham sale de Harán",
+          "texto": "c. 2100–1800 a.C. Dios elige a la familia de Abraham para bendecir a todos los pueblos.",
+          "textoNino": "Dios llamó a Abraham y le hizo una promesa.",
+          "referencia": "Génesis 12:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Jacob baja a Egipto",
+          "texto": "Al final de esta era, la familia de Jacob se muda a Egipto, donde José la recibe.",
+          "textoNino": "La familia de Jacob se fue a vivir a Egipto.",
+          "referencia": "Génesis 46:1-7",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Éxodo, desierto y conquista",
+      "capitulos": "",
+      "color": "amber",
+      "resumen": "La salida de Egipto se fecha c. 1446 o c. 1270 a.C. Aquí seguimos la primera. La conquista y los jueces van de c. 1406 a 1050 a.C.",
+      "resumenNino": "Dios sacó a su pueblo de Egipto y lo llevó a su tierra.",
+      "hojas": [
+        {
+          "titulo": "Salida de Egipto",
+          "texto": "c. 1446 o c. 1270 a.C. Dios libera a Israel después de cuatrocientos treinta años en Egipto.",
+          "textoNino": "Dios liberó a su pueblo de Egipto.",
+          "referencia": "Éxodo 12:40-41",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La Ley en el Sinaí",
+          "texto": "Al tercer mes de la salida, Israel llega al Sinaí. Allí Dios le da su Ley y camina con él.",
+          "textoNino": "En un monte, Dios les dio sus mandamientos.",
+          "referencia": "Éxodo 19:1-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Josué cruza el Jordán",
+          "texto": "c. 1406 a.C., o c. 1230 a.C. con la fecha tardía del éxodo. Israel entra en la tierra prometida.",
+          "textoNino": "El pueblo cruzó el río y entró en la tierra.",
+          "referencia": "Josué 3:14-17",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Los jueces",
+          "texto": "c. 1375–1050 a.C. Algunos jueces gobernaron al mismo tiempo en distintas regiones, así que sus años no se suman.",
+          "textoNino": "Dios envió jueces para ayudar a su pueblo.",
+          "referencia": "Jueces 2:16",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "El tiempo de los reyes",
+      "capitulos": "",
+      "color": "dawn",
+      "resumen": "El reino unido, con Saúl, David y Salomón, va de c. 1050 a 930 a.C. Luego el reino se divide en dos, hasta 586 a.C.",
+      "resumenNino": "Israel tuvo reyes, como David y Salomón.",
+      "hojas": [
+        {
+          "titulo": "David, rey",
+          "texto": "c. 1010–970 a.C. David reina cuarenta años, y Dios le promete un reino para siempre.",
+          "textoNino": "David fue rey cuarenta años.",
+          "referencia": "2 Samuel 5:4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Salomón y el templo",
+          "texto": "c. 970–930 a.C. Salomón construye la casa de Dios en Jerusalén, en el cuarto año de su reinado.",
+          "textoNino": "Salomón construyó un templo para Dios.",
+          "referencia": "1 Reyes 6:1",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "El reino se divide",
+          "texto": "930 a.C. Diez tribus forman el reino del norte, Israel. Judá queda en el sur con los reyes de la familia de David.",
+          "textoNino": "El pueblo se separó en dos reinos.",
+          "referencia": "1 Reyes 12:16-20",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cae Samaria",
+          "texto": "722 a.C. Asiria conquista el reino del norte. Los profetas habían llamado al pueblo a volver a Dios.",
+          "textoNino": "El reino del norte perdió su tierra.",
+          "referencia": "2 Reyes 17:6-7",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Exilio y regreso",
+      "capitulos": "",
+      "color": "olive",
+      "resumen": "El exilio en Babilonia va de 605 a 538 a.C. Después, el pueblo vuelve, reconstruye el templo y los muros, hasta c. 430 a.C.",
+      "resumenNino": "El pueblo vivió lejos, en Babilonia, y después volvió a casa.",
+      "hojas": [
+        {
+          "titulo": "Daniel en Babilonia",
+          "texto": "605 a.C. Babilonia lleva cautivos a algunos jóvenes de Jerusalén, entre ellos Daniel.",
+          "textoNino": "Daniel fue llevado lejos, pero siguió fiel a Dios.",
+          "referencia": "Daniel 1:1-6",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cae Jerusalén",
+          "texto": "586 a.C. Babilonia destruye Jerusalén y el templo. Muchos van cautivos.",
+          "textoNino": "Jerusalén quedó en ruinas y el pueblo lloró.",
+          "referencia": "2 Reyes 25:8-12",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Ciro deja volver",
+          "texto": "538 a.C. Ciro, rey de Persia, permite volver a Jerusalén y reconstruir la casa de Dios.",
+          "textoNino": "Un rey dejó que el pueblo volviera a casa.",
+          "referencia": "Esdras 1:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Los muros de Nehemías",
+          "texto": "445 a.C. Nehemías reconstruye los muros de Jerusalén en cincuenta y dos días.",
+          "textoNino": "Nehemías arregló los muros de la ciudad.",
+          "referencia": "Nehemías 6:15-16",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "La espera y Jesús",
+      "capitulos": "",
+      "color": "rose",
+      "resumen": "Entre los Testamentos, c. 430–5 a.C., gobiernan persas, griegos y romanos. Jesús nace c. 6–4 a.C. y muere y resucita c. 30 o 33 d.C.",
+      "resumenNino": "El pueblo esperó mucho tiempo, y entonces nació Jesús.",
+      "hojas": [
+        {
+          "titulo": "Malaquías",
+          "texto": "c. 430 a.C. Malaquías anuncia un mensajero que preparará el camino del Señor.",
+          "textoNino": "Un profeta dijo: «Alguien viene a preparar el camino».",
+          "referencia": "Malaquías 3:1",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Esperando la consolación",
+          "texto": "Pasan siglos bajo imperios extranjeros. Muchos esperan, como el anciano Simeón, «la consolación de Israel».",
+          "textoNino": "Simeón esperó mucho para ver al Salvador.",
+          "referencia": "Lucas 2:25-32",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Nace Jesús",
+          "texto": "c. 6–4 a.C. Nuestro calendario se calculó siglos después, con un error de unos años.",
+          "textoNino": "Jesús nació en Belén.",
+          "referencia": "Lucas 2:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La cruz y la tumba vacía",
+          "texto": "c. 30 o 33 d.C. Los dos años encajan con la Pascua judía. Jesús muere por amor y resucita.",
+          "textoNino": "Jesús murió por nosotros y volvió a vivir.",
+          "referencia": "Lucas 24:1-7",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "La Iglesia",
+      "capitulos": "",
+      "color": "dusk",
+      "resumen": "De c. 30 a 95 d.C., el Espíritu Santo forma la Iglesia y la buena noticia llega a muchos pueblos. En este tiempo se escribe el Nuevo Testamento.",
+      "resumenNino": "Los amigos de Jesús contaron la buena noticia a todos.",
+      "hojas": [
+        {
+          "titulo": "Pentecostés",
+          "texto": "Unos cincuenta días después de la Pascua, el Espíritu Santo llena a los discípulos en Jerusalén.",
+          "textoNino": "El Espíritu Santo llegó a los amigos de Jesús.",
+          "referencia": "Hechos 2:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Pablo en Roma",
+          "texto": "c. 60–62 d.C. Preso, Pablo llega a Roma y enseña allí sobre Jesús «con toda libertad».",
+          "textoNino": "Pablo habló de Jesús aun estando preso.",
+          "referencia": "Hechos 28:30-31",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Juan en Patmos",
+          "texto": "c. 95 d.C., la fecha más aceptada. Algunos proponen c. 68 d.C. Juan recibe las visiones del Apocalipsis.",
+          "textoNino": "Juan vio en visiones que Jesús gana al final.",
+          "referencia": "Apocalipsis 1:9-11",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Toda la línea del tiempo camina hacia Jesús. «Venido el cumplimiento del tiempo», Dios envía a su Hijo. Él es el centro de la historia: Dios, que habló por los profetas, nos habla por el Hijo.",
+    "referencias": ["Gálatas 4:4", "Hebreos 1:1-2"]
+  },
+  "paraTuVida": [
+    "Mira tu propia historia: escribe tres momentos en que Dios estuvo contigo.",
+    "Cuando algo tarde, recuerda que Dios obra a su tiempo."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué fecha da la Biblia para la creación?",
+      "opciones": ["No da ninguna", "c. 2100 a.C.", "c. 1446 a.C."],
+      "correcta": 0,
+      "explicacion": "La Biblia no fecha la creación ni el diluvio."
+    },
+    {
+      "pregunta": "¿Qué rey de Persia dejó volver al pueblo a Jerusalén?",
+      "opciones": ["Nabucodonosor", "Ciro", "Faraón"],
+      "correcta": 1,
+      "explicacion": "En el primer año de Ciro, rey de Persia, salió el pregón para volver (Esdras 1:1-3)."
+    },
+    {
+      "pregunta": "¿Por qué Jesús nació unos años «antes de Cristo»?",
+      "opciones": ["Por un error de la Biblia", "Porque nació dos veces", "Porque el calendario se calculó con un error"],
+      "correcta": 2,
+      "explicacion": "Nuestro calendario se calculó siglos después y quedó desfasado unos años."
+    }
+  ],
+  "estudio": ["once-eras", "genesis-1-11", "exodo", "entre-testamentos", "nacimiento"],
+  "conexiones": [
+    { "id": "historia-de-la-salvacion", "motivo": "Mira el sentido de la historia, no solo sus fechas." },
+    { "id": "mapa-de-la-biblia", "motivo": "Mira cómo se organizan los libros que cuentan esta historia." },
+    { "id": "genesis", "motivo": "Empieza por los comienzos." }
+  ]
+}

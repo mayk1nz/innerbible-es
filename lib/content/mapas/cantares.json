@@ -1,0 +1,206 @@
+{
+  "id": "cantares",
+  "tipo": "libro",
+  "titulo": "Cantares",
+  "subtitulo": "El regalo del amor en el matrimonio",
+  "libro": "Song",
+  "centro": {
+    "texto": "El amor fiel entre esposo y esposa es un regalo bueno de Dios",
+    "textoNino": "Dios creó el amor entre el esposo y la esposa"
+  },
+  "versiculo": {
+    "texto": "Las muchas aguas no podrán apagar el amor, ni lo ahogarán los ríos. Si diese el hombre toda la hacienda de su casa por este amor, de cierto lo menospreciaran.",
+    "referencia": "Cantares 8:7"
+  },
+  "ramas": [
+    {
+      "titulo": "El amor despierta",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Es un poema de amor entre un esposo y una esposa. Se admiran con imágenes del campo: lirios, palomas y viñas. Llega la primavera, y el amor florece.",
+      "resumenNino": "Un esposo y una esposa se quieren mucho.",
+      "hojas": [
+        {
+          "titulo": "La canción más bella",
+          "texto": "Su título es «Canción de canciones»: la más bella de todas. Celebra el amor en el matrimonio. Muchos cristianos también lo leen como una imagen del amor de Dios.",
+          "textoNino": "Es la canción más bonita de todas.",
+          "referencia": "Cantares 1:1",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un lirio entre espinas",
+          "texto": "Ella se llama a sí misma «el lirio de los valles». Él responde que ella es como un lirio entre las espinas.",
+          "textoNino": "Él dice que ella es bonita como una flor.",
+          "referencia": "Cantares 2:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cada cosa a su tiempo",
+          "texto": "La esposa pide a sus amigas que no despierten al amor «hasta que quiera». El amor tiene su tiempo y no hay que apurarlo.",
+          "textoNino": "El amor necesita su tiempo.",
+          "referencia": "Cantares 2:7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ha llegado la primavera",
+          "texto": "El invierno ha pasado, las flores brotan y cantan las aves. El esposo la invita: «Levántate, oh amiga mía, hermosa mía, y vente».",
+          "textoNino": "Llegó la primavera, y el esposo la invita a pasear.",
+          "referencia": "Cantares 2:10-13",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El día de la boda",
+      "capitulos": "3–4",
+      "color": "amber",
+      "resumen": "La esposa busca a su amado y lo encuentra. Llega el cortejo de la boda del rey Salomón, y su madre lo corona. El esposo ve a su esposa sin mancha.",
+      "resumenNino": "Hubo una gran fiesta de bodas con el rey.",
+      "hojas": [
+        {
+          "titulo": "Lo busca y lo encuentra",
+          "texto": "De noche, ella busca «al que ama mi alma». Recorre la ciudad hasta que lo encuentra, y no lo deja ir.",
+          "textoNino": "Ella buscó a su amado hasta encontrarlo.",
+          "referencia": "Cantares 3:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La boda del rey",
+          "texto": "Llega el cortejo real, con perfumes y valientes. Su madre corona a Salomón el día de su boda, «el día del gozo de su corazón».",
+          "textoNino": "El rey se casó, y todos celebraron con alegría.",
+          "referencia": "Cantares 3:6-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Sin mancha",
+          "texto": "El esposo mira a su esposa con ternura. Le dice: «Toda tú eres hermosa, amiga mía, y en ti no hay mancha».",
+          "textoNino": "Él le dice que es hermosa.",
+          "referencia": "Cantares 4:7",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Se pierden y se encuentran",
+      "capitulos": "5–6",
+      "color": "olive",
+      "resumen": "Ella tarda en abrir la puerta y él se va. Lo busca con el corazón inquieto. Al hablar de él, recuerda cuánto lo ama, y el amor vuelve a unirlos.",
+      "resumenNino": "Se extrañaron mucho y volvieron a estar juntos.",
+      "hojas": [
+        {
+          "titulo": "Una puerta que tarda",
+          "texto": "Él llama a la puerta de noche. Cuando ella abre, él ya se ha ido. Ella sale a buscarlo y pide ayuda a sus amigas.",
+          "textoNino": "Ella tardó en abrir y luego lo buscó.",
+          "referencia": "Cantares 5:2-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Así es mi amado",
+          "texto": "Las amigas preguntan qué tiene de especial. Ella lo describe con cariño y termina: «Tal es mi amado, tal es mi amigo».",
+          "textoNino": "Ella dice que su esposo es su mejor amigo.",
+          "referencia": "Cantares 5:9-16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Yo soy de mi amado",
+          "texto": "El amor se entrega de los dos lados: «Yo soy de mi amado, y mi amado es mío».",
+          "textoNino": "Se pertenecen el uno al otro.",
+          "referencia": "Cantares 6:3",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Fuerte como la muerte",
+      "capitulos": "7–8",
+      "color": "dawn",
+      "resumen": "El poema llega a su final. La esposa sabe que es amada. Pide ser como un sello sobre el corazón de su esposo. El amor verdadero no se apaga ni se compra.",
+      "resumenNino": "El amor verdadero es muy fuerte y no se acaba.",
+      "hojas": [
+        {
+          "titulo": "Amada y segura",
+          "texto": "La esposa dice con paz: «Yo soy de mi amado, y conmigo tiene su contentamiento».",
+          "textoNino": "Ella sabe que su esposo la quiere.",
+          "referencia": "Cantares 7:10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un sello en el corazón",
+          "texto": "«Ponme como un sello sobre tu corazón». El amor fiel es un pacto para toda la vida: «fuerte es como la muerte el amor».",
+          "textoNino": "El amor de los esposos es para siempre.",
+          "referencia": "Cantares 8:6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Ni el agua ni el dinero",
+          "texto": "Las muchas aguas no pueden apagar el amor. Y quien quisiera comprarlo con toda su riqueza sería despreciado.",
+          "textoNino": "El amor no se puede comprar con dinero.",
+          "referencia": "Cantares 8:7",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús hace su primer milagro en una boda, en Caná. Pablo pide a los esposos amar como Cristo, que se entregó por su Iglesia. Y la Biblia termina celebrando «las bodas del Cordero».",
+    "referencias": [
+      "Juan 2:1-11",
+      "Efesios 5:25",
+      "Apocalipsis 19:7"
+    ]
+  },
+  "paraTuVida": [
+    "Si estás casado, dile hoy a tu esposo o esposa algo que admiras de él o de ella.",
+    "Ora esta semana por los matrimonios de tu familia y de tu comunidad.",
+    "Si eres joven, recuerda que el amor tiene su tiempo: no lo despiertes «hasta que quiera»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Con qué nombre empieza el libro de Cantares?",
+      "opciones": [
+        "«Canción de canciones»",
+        "«Libro de los reyes»",
+        "«Salmo de David»"
+      ],
+      "correcta": 0,
+      "explicacion": "El primer versículo dice: «Canción de canciones, la cual es de Salomón» (Cantares 1:1)."
+    },
+    {
+      "pregunta": "Según Cantares, ¿qué no pueden apagar las muchas aguas?",
+      "opciones": [
+        "El fuego",
+        "El amor",
+        "La luz"
+      ],
+      "correcta": 1,
+      "explicacion": "«Las muchas aguas no podrán apagar el amor» (Cantares 8:7)."
+    },
+    {
+      "pregunta": "¿Dónde hizo Jesús su primer milagro?",
+      "opciones": [
+        "En el templo",
+        "En un barco",
+        "En una boda en Caná"
+      ],
+      "correcta": 2,
+      "explicacion": "Jesús convirtió el agua en vino en unas bodas en Caná de Galilea (Juan 2:1-11)."
+    }
+  ],
+  "estudio": [
+    "cantares"
+  ],
+  "conexiones": [
+    {
+      "id": "genesis",
+      "motivo": "Dios une al hombre y la mujer desde el principio."
+    },
+    {
+      "id": "efesios",
+      "motivo": "Pablo habla del amor de los esposos y de Cristo."
+    },
+    {
+      "id": "apocalipsis",
+      "motivo": "La Biblia termina con la fiesta de las bodas del Cordero."
+    }
+  ]
+}

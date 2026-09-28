@@ -1,0 +1,134 @@
+{
+  "id": "linea-del-tiempo",
+  "titulo": "Línea del tiempo de los personajes",
+  "subtitulo": "Del Edén a la Iglesia naciente",
+  "etiquetas": ["Herramientas", "Toda la Biblia"],
+  "enUnMinuto": [
+    "Los personajes de la Biblia vivieron a lo largo de muchos siglos, desde Adán hasta la primera iglesia.",
+    "Esta línea del tiempo los ordena en las mismas etapas del Estudio Cronológico, para que veas quién vino antes y quién después.",
+    "Todos forman parte de una sola historia que lleva a Jesús."
+  ],
+  "versiculo": {
+    "texto": "Por tanto nosotros también, teniendo en derredor nuestro una tan grande nube de testigos, dejando todo el peso del pecado que nos rodea, corramos con paciencia la carrera que nos es propuesta,",
+    "referencia": "Hebreos 12:1"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Cómo leer esta línea del tiempo",
+      "parrafos": [
+        "Las fechas son aproximadas. Por eso llevan «c.», que quiere decir «cerca de». Siguen la misma cronología del Estudio Cronológico de la app.",
+        "Cuanto más antigua es una época, menos seguras son sus fechas. En el Nuevo Testamento, en cambio, podemos fechar muchos hechos con pocos años de diferencia.",
+        "Los años «a.C.» son antes de Cristo y se cuentan hacia atrás. Los años «d.C.» son después de Cristo."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los comienzos y los patriarcas",
+      "items": [
+        "Adán y Eva, Noé y el diluvio (Génesis 1–11). La Biblia no da una fecha para la creación ni para el diluvio.",
+        "Abraham, llamado por Dios a salir de su tierra. Los patriarcas vivieron c. 2100–1800 a.C. (Génesis 12).",
+        "Isaac, Jacob y los doce hijos de Jacob, entre ellos José, que llegó a gobernar Egipto (Génesis 21–50).",
+        "Job: la Biblia no dice cuándo vivió. Sus costumbres recuerdan a la época de los patriarcas."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Éxodo, conquista y jueces",
+      "items": [
+        "Moisés saca a Israel de Egipto. La fecha se discute: c. 1446 o c. 1270 a.C. (Éxodo 12).",
+        "Josué guía al pueblo a la tierra prometida, c. 1406–1375 a.C. según la primera fecha (Josué 1).",
+        "Los jueces, como Gedeón y Sansón, c. 1375–1050 a.C. Algunos gobernaron al mismo tiempo en distintas regiones.",
+        "Rut, la moabita, vivió en tiempos de los jueces, c. 1100 a.C. (Rut 1:1)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El reino de Israel",
+      "items": [
+        "Samuel, el último juez, y Saúl, el primer rey, c. 1100–1010 a.C. (1 Samuel).",
+        "David, el pastor que llegó a ser rey, c. 1010–970 a.C. (2 Samuel).",
+        "Salomón, que construyó el templo, c. 970–930 a.C. Después de él, el reino se divide en dos (1 Reyes 11–12)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Profetas, exilio y regreso",
+      "items": [
+        "Elías, en tiempos del rey Acab, en el siglo IX a.C. (1 Reyes 17–19). Eliseo recibe su manto, c. 850–790 a.C. (2 Reyes 2).",
+        "Jonás, en tiempos de Jeroboam II, c. 780–760 a.C. (2 Reyes 14:25). Isaías, c. 740–680 a.C.",
+        "Jeremías profetiza c. 627–580 a.C. y ve caer Jerusalén en 586 a.C. (Jeremías 39).",
+        "Daniel sirve a Dios en Babilonia desde 605 a.C. hasta c. 535 a.C. Ester vive en Persia, c. 483–473 a.C.",
+        "Esdras enseña la Ley desde 458 a.C., y Nehemías levanta los muros desde 445 a.C."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "En tiempos de Jesús",
+      "items": [
+        "Zacarías e Isabel, José y María reciben los anuncios del ángel, c. 7–5 a.C. (Lucas 1; Mateo 1).",
+        "Jesús nace en Belén, c. 6–4 a.C. Simeón y Ana lo reciben en el templo (Lucas 2).",
+        "Juan el Bautista predica en el desierto, c. 28 d.C., el año quince de Tiberio (Lucas 3:1-2).",
+        "Jesús comienza su misión y llama a los Doce, c. 27–29 d.C. En esos años conoce a Nicodemo, Zaqueo, Lázaro, Marta y María.",
+        "La cruz y la resurrección, c. 30 o 33 d.C. Allí están María Magdalena, José de Arimatea y el discípulo amado."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La Iglesia naciente",
+      "items": [
+        "c. 30–35 d.C.: Pentecostés, Matías completa a los Doce y Esteban da su vida por Jesús (Hechos 1–7).",
+        "c. 35–44 d.C.: Felipe el evangelista, la conversión de Pablo y Cornelio. Herodes mata a Santiago, hijo de Zebedeo (Hechos 8–12).",
+        "c. 46–52 d.C.: viajes de Pablo con Bernabé, Juan Marcos, Silas y Timoteo. Santiago, hermano del Señor, habla en Jerusalén (Hechos 13–18).",
+        "c. 57–62 d.C.: Pablo, preso, llega a Roma. Lucas lo acompaña (Hechos 21–28).",
+        "Según la tradición, Pedro y Pablo dan su vida en Roma, c. 64–67 d.C. El templo es destruido en el año 70 d.C."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Algunas fechas del Antiguo Testamento se discuten mucho, sobre todo la del éxodo. Aquí seguimos la cronología tradicional del Estudio Cronológico. Otras propuestas serias sitúan a los patriarcas y a Moisés unos siglos después."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Después de resucitar, Jesús explicó a dos discípulos todo lo que las Escrituras decían de él, empezando por Moisés (Lucas 24:27). Abraham esperó una promesa, David un Rey, los profetas un Salvador. Todos miraban hacia Jesús, y la primera iglesia lo anunció al mundo."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "¿Quién vivió primero: David o Abraham? ¿Pedro o Moisés?",
+      "actividad": "Hagan una cuerda con pinzas de ropa. En tarjetas, escriban nombres de personajes y cuélguenlos en orden, de Adán a Pablo."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué te sorprende al ver a los personajes en orden?",
+        "¿Cómo cambia tu lectura saber cuántos siglos esperó el pueblo al Mesías?",
+        "Hebreos 12:1 habla de una «nube de testigos». ¿Quién de ellos te anima a seguir?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién vivió primero?",
+      "opciones": ["David", "Abraham", "Elías"],
+      "correcta": 1,
+      "explicacion": "Abraham vivió en la época de los patriarcas, c. 2100–1800 a.C. David reinó c. 1010–970 a.C."
+    },
+    {
+      "pregunta": "¿Qué quiere decir «c.» delante de una fecha?",
+      "opciones": ["Cerca de: la fecha es aproximada", "Que la fecha es segura", "Que es una fecha de Cristo"],
+      "correcta": 0,
+      "explicacion": "«c.» quiere decir «cerca de». Muchas fechas bíblicas son aproximadas, y algunas se discuten."
+    },
+    {
+      "pregunta": "¿A quién señalaban Moisés, David y los profetas, según Lucas 24:27?",
+      "opciones": ["A Juan el Bautista", "A Salomón", "A Jesús"],
+      "correcta": 2,
+      "explicacion": "Jesús explicó lo que decían de él las Escrituras, empezando por Moisés y todos los profetas (Lucas 24:27)."
+    }
+  ],
+  "estudio": ["once-eras"],
+  "buscar": "Hebreos 11"
+}

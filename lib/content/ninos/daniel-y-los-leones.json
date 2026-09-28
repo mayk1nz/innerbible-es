@@ -1,0 +1,141 @@
+{
+  "id": "daniel-y-los-leones",
+  "titulo": "Daniel y los leones",
+  "referencia": "Daniel 6",
+  "estudio": "daniel",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "fiel",
+      "texto": {
+        "3-5": "Daniel amaba a Dios. Trabajaba para el rey Darío. ¡Y hacía todo muy bien!",
+        "6-8": "Daniel vivía lejos de su tierra, en el reino del rey Darío. Era honesto y trabajador, y el rey pensaba ponerlo al frente de todo el reino. Algunos hombres importantes sintieron envidia y buscaron algo malo en él. ¡Pero no encontraron nada!",
+        "9-12": "Daniel era uno de los tres jefes que el rey Darío puso sobre todo el reino. Era tan fiel que sus rivales, llenos de envidia, no le encontraron «ningún vicio ni falta» (Daniel 6:4). Entonces pensaron: «Solo podremos acusarlo por su fe en Dios»."
+      }
+    },
+    {
+      "id": "la-ley",
+      "texto": {
+        "3-5": "Unos hombres celosos hicieron una ley. Decía: «Por treinta días, solo se le pide al rey». ¡Uy, era una trampa!",
+        "6-8": "Esos hombres fueron al rey con una idea: «Firma una ley. Durante treinta días, nadie podrá pedirle nada a ningún dios ni a ninguna persona, solo a ti». Quien no obedeciera iría al foso de los leones. El rey firmó sin darse cuenta de la trampa.",
+        "9-12": "Convencieron al rey de firmar un edicto. Durante treinta días, nadie podría hacer peticiones a ningún dios ni hombre, sino solo al rey. Según la ley de Media y de Persia, una vez firmada, no se podía cambiar. Era una trampa contra Daniel."
+      }
+    },
+    {
+      "id": "daniel-ora",
+      "texto": {
+        "3-5": "Daniel abrió su ventana. Se arrodilló y habló con Dios, como siempre. ¡Tres veces al día!",
+        "6-8": "Daniel supo de la ley, pero no dejó de orar. En su casa, abrió la ventana que miraba hacia Jerusalén. Se arrodilló y habló con Dios tres veces al día, como siempre lo hacía. Los hombres lo vieron y corrieron a acusarlo.",
+        "9-12": "Daniel sabía que la ley estaba firmada. Aun así, abrió las ventanas hacia Jerusalén y oró tres veces al día, «como lo solía hacer antes» (Daniel 6:10). No lo hizo para desafiar a nadie: simplemente no quiso dejar de hablar con Dios."
+      }
+    },
+    {
+      "id": "el-foso",
+      "texto": {
+        "3-5": "El rey estaba triste. Tuvo que llevar a Daniel al foso de los leones. «Que tu Dios te salve», le dijo.",
+        "6-8": "El rey quería mucho a Daniel y trató de salvarlo hasta que se puso el sol. Pero la ley no se podía cambiar, y Daniel fue llevado al foso de los leones. El rey le dijo: «Que tu Dios, a quien sirves siempre, te libre». Esa noche, el rey no pudo dormir.",
+        "9-12": "El rey se entristeció mucho y buscó cómo librarlo hasta la puesta del sol. Al final, Daniel fue echado al foso y una piedra cerró la entrada. Antes, el rey le dijo: «El Dios tuyo, a quien tú continuamente sirves, él te libre» (Daniel 6:16). Esa noche, el rey no comió ni durmió."
+      }
+    },
+    {
+      "id": "manana",
+      "texto": {
+        "3-5": "En la mañana, el rey corrió al foso. «¡Daniel!». «¡Estoy bien! Dios mandó a su ángel». ¡Los leones no le hicieron nada!",
+        "6-8": "Muy temprano, el rey corrió al foso y llamó: «¡Daniel! ¿Tu Dios pudo salvarte?». Daniel respondió: «Mi Dios envió a su ángel, que cerró la boca de los leones». Daniel salió sin un solo rasguño, porque confió en Dios. ¡El rey se llenó de alegría!",
+        "9-12": "Al amanecer, el rey corrió al foso: «Daniel, siervo del Dios viviente, ¿te ha podido librar?». Daniel respondió: «El Dios mío envió su ángel, el cual cerró la boca de los leones» (Daniel 6:22). Salió sin ninguna herida, «porque creyó en su Dios». Y el rey escribió a todo su reino que el Dios de Daniel es el Dios viviente, que salva y libra."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me cuida siempre.", "referencia": "Daniel 6:22", "fuente": "adaptado" },
+    "6-8": { "texto": "Mi Dios envió a su ángel y cerró la boca de los leones.", "referencia": "Daniel 6:22", "fuente": "adaptado" },
+    "9-12": { "texto": "Tarde y mañana y a medio día oraré y clamaré; y él oirá mi voz.", "referencia": "Salmos 55:17", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia de Daniel en orden.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Daniel ora junto a su ventana.",
+            "Daniel está en el foso con los leones.",
+            "El rey encuentra a Daniel sano y feliz."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Daniel trabaja con honestidad para el rey.",
+            "Unos hombres envidiosos inventan una ley.",
+            "Daniel sigue orando junto a su ventana.",
+            "Daniel es llevado al foso de los leones.",
+            "Por la mañana, Daniel sale sano y salvo."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Darío piensa poner a Daniel sobre todo el reino.",
+            "Sus rivales no encuentran ninguna falta en él.",
+            "El rey firma un edicto que no se puede cambiar.",
+            "Daniel ora tres veces al día mirando hacia Jerusalén.",
+            "Una piedra sellada cierra la entrada del foso.",
+            "El rey proclama que el Dios de Daniel es el Dios viviente."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de Daniel? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Con quién hablaba Daniel tres veces al día?", "opciones": ["Con Dios", "Con los leones"], "correcta": 0 },
+            { "texto": "¿Quién cerró la boca de los leones?", "opciones": ["El rey", "Un ángel de Dios"], "correcta": 1 },
+            { "texto": "¿Cómo salió Daniel del foso?", "opciones": ["Sano y feliz", "Muy lastimado"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Por qué esos hombres querían acusar a Daniel?", "opciones": ["Porque tenían envidia", "Porque Daniel robó", "Porque Daniel era perezoso"], "correcta": 0, "explicacion": "No encontraron ninguna falta en Daniel: solo tenían envidia." },
+            { "texto": "¿Qué decía la ley que firmó el rey?", "opciones": ["Que todos debían cantar", "Que solo se podía pedir al rey", "Que nadie podía comer pan"], "correcta": 1 },
+            { "texto": "¿Qué hizo Daniel al saber de la ley?", "opciones": ["Se escondió", "Dejó de orar", "Siguió orando como siempre"], "correcta": 2 },
+            { "texto": "¿Cómo pasó la noche el rey?", "opciones": ["Sin poder dormir", "En una gran fiesta", "Durmiendo tranquilo"], "correcta": 0 },
+            { "texto": "¿Quién protegió a Daniel?", "opciones": ["Los soldados", "Un ángel enviado por Dios", "Un domador"], "correcta": 1 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cuántos presidentes puso Darío sobre los gobernadores?", "opciones": ["Dos", "Tres", "Siete", "Doce"], "correcta": 1, "explicacion": "Eran tres, y Daniel era uno de ellos (Daniel 6:2)." },
+            { "texto": "¿Por qué el edicto no se podía cambiar?", "opciones": ["Porque lo escribió Daniel", "Por la ley de Media y de Persia", "Porque estaba grabado en piedra", "Porque lo firmó un ángel"], "correcta": 1 },
+            { "texto": "¿Hacia qué ciudad miraban las ventanas de Daniel?", "opciones": ["Babilonia", "Nínive", "Jerusalén", "Egipto"], "correcta": 2 },
+            { "texto": "¿Qué hizo el rey para librar a Daniel?", "opciones": ["Nada", "Buscó cómo librarlo hasta la puesta del sol", "Huyó del reino", "Cambió la ley"], "correcta": 1 },
+            { "texto": "¿Qué dijo Daniel que hizo Dios?", "opciones": ["Durmió a los leones con música", "Rompió la piedra del foso", "Mandó una gran tormenta", "Envió su ángel y cerró la boca de los leones"], "correcta": 3 },
+            { "texto": "¿Qué escribió el rey Darío a todo su reino?", "opciones": ["Que el Dios de Daniel es el Dios viviente", "Que Daniel debía irse", "Que los leones eran peligrosos", "Que nadie podía orar"], "correcta": 0, "explicacion": "Darío escribió que el Dios de Daniel «salva y libra» (Daniel 6:26-27)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que puede hablar con Dios cada día y que Dios cuida a quienes confían en Él.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Qué les pasó a los hombres que acusaron a Daniel?",
+        "respuesta": "La Biblia cuenta que el rey los castigó (Daniel 6:24). Con los pequeños basta decir: «El rey descubrió su trampa». Con los mayores, aclara que fue decisión de aquel rey antiguo, no un pedido de Daniel ni un ejemplo para imitar."
+      },
+      {
+        "pregunta": "¿Dios siempre nos salva de lo malo?",
+        "respuesta": "Sé honesto y sereno: «Dios no siempre quita las dificultades, pero siempre está con nosotros, como estuvo con Daniel en el foso». Evita prometer que nunca pasará nada malo; promete lo que Dios promete: su compañía."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántas veces al día oraba Daniel junto a su ventana?",
+      "sentir": "¿Cómo crees que se sintió Daniel en el foso? ¿Qué te ayuda a ti cuando tienes miedo?",
+      "vivir": "¿En qué momentos del día podemos hablar con Dios juntos esta semana?"
+    },
+    "oracion": "Señor, gracias porque siempre nos escuchas. Ayúdanos a hablar contigo cada día y a confiar en ti cuando tengamos miedo. Amén.",
+    "gesto": "Elijan tres momentos del día (al despertar, al comer y al dormir) para decir juntos una oración cortita, como Daniel."
+  },
+  "estampa": "La ventana abierta de Daniel"
+}

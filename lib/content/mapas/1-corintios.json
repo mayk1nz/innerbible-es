@@ -1,0 +1,214 @@
+{
+  "id": "1-corintios",
+  "tipo": "libro",
+  "titulo": "1 Corintios",
+  "subtitulo": "El camino del amor",
+  "libro": "1Cor",
+  "centro": {
+    "texto": "La cruz de Cristo une a una iglesia dividida por el camino del amor",
+    "textoNino": "Jesús nos enseña a vivir juntos con amor"
+  },
+  "versiculo": {
+    "texto": "Y ahora permanecen la fe, la esperanza, y la caridad, estas tres: empero la mayor de ellas es la caridad.",
+    "referencia": "1 Corintios 13:13"
+  },
+  "ramas": [
+    {
+      "titulo": "Una iglesia dividida",
+      "capitulos": "1–4",
+      "color": "warm",
+      "resumen": "Pablo escribe desde Éfeso a una iglesia que él mismo fundó. Hay grupos que siguen a distintos maestros, y Pablo los llama a la unidad en Cristo crucificado.",
+      "resumenNino": "Los creyentes de Corinto se pelean, y Pablo les escribe.",
+      "hojas": [
+        {
+          "titulo": "¿Está dividido Cristo?",
+          "texto": "Unos dicen que son de Pablo, otros de Apolos o de Pedro. Pablo recuerda que todos pertenecen a Cristo.",
+          "textoNino": "Todos somos de Jesús, no de un grupo.",
+          "referencia": "1 Corintios 1:10-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La palabra de la cruz",
+          "texto": "Para muchos, la cruz parece locura. Para los que se salvan, es poder de Dios.",
+          "textoNino": "La cruz de Jesús muestra el poder de Dios.",
+          "referencia": "1 Corintios 1:18-25",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dios da el crecimiento",
+          "texto": "Pablo plantó y Apolos regó, pero Dios dio el crecimiento. Los que sirven son colaboradores de Dios.",
+          "textoNino": "Nosotros plantamos, pero Dios hace crecer.",
+          "referencia": "1 Corintios 3:5-9",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El cuerpo es de Dios",
+      "capitulos": "5–7",
+      "color": "amber",
+      "resumen": "Pablo corrige pecados que dañan a la iglesia y pide resolver los pleitos entre hermanos. Responde preguntas sobre el matrimonio y la soltería.",
+      "resumenNino": "Pablo enseña a cuidar el cuerpo que Dios nos dio.",
+      "hojas": [
+        {
+          "titulo": "Sin pleitos entre hermanos",
+          "texto": "Pablo lamenta que los hermanos se lleven a juicio unos a otros. Les pide arreglar sus diferencias entre ellos.",
+          "textoNino": "Los hermanos arreglan sus problemas con paz.",
+          "referencia": "1 Corintios 6:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Templo del Espíritu",
+          "texto": "Tu cuerpo es templo del Espíritu Santo. Fuiste comprado por precio: honra a Dios con tu cuerpo.",
+          "textoNino": "Nuestro cuerpo es una casa para el Espíritu Santo.",
+          "referencia": "1 Corintios 6:19-20",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Casados y solteros",
+          "texto": "Pablo da consejos a casados, viudos y solteros. Dice que cada uno tiene su propio don de Dios.",
+          "textoNino": "Dios tiene un regalo para cada persona.",
+          "referencia": "1 Corintios 7:1-40",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Libres para amar",
+      "capitulos": "8–10",
+      "color": "dawn",
+      "resumen": "Algunos comen carne ofrecida a los ídolos. Pablo enseña que el saber sin amor hace daño. Él mismo renuncia a sus derechos para ganar a otros para Cristo.",
+      "resumenNino": "El amor piensa primero en los demás.",
+      "hojas": [
+        {
+          "titulo": "El amor edifica",
+          "texto": "«La ciencia hincha, mas la caridad edifica». Pablo pide cuidar la fe del hermano más débil.",
+          "textoNino": "Saber mucho no basta; lo que ayuda es amar.",
+          "referencia": "1 Corintios 8:1-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Correr para ganar",
+          "texto": "Como un atleta que se prepara, Pablo corre para ganar una corona que no se marchita.",
+          "textoNino": "Seguir a Jesús es como correr una carrera.",
+          "referencia": "1 Corintios 9:24-27",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una salida",
+          "texto": "Dios es fiel y no permite una prueba mayor de lo que puedes llevar. Con la prueba, da también la salida.",
+          "textoNino": "Cuando algo es difícil, Dios te ayuda a salir.",
+          "referencia": "1 Corintios 10:13",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Reunidos para adorar",
+      "capitulos": "11–14",
+      "color": "olive",
+      "resumen": "Pablo pone orden en las reuniones de la iglesia. Recuerda la Cena del Señor, explica los dones del Espíritu y muestra el mejor camino: el amor.",
+      "resumenNino": "Todos tenemos dones, y el más grande es el amor.",
+      "hojas": [
+        {
+          "titulo": "La Cena del Señor",
+          "texto": "Pablo transmite las palabras de Jesús sobre el pan y la copa. Las iglesias la celebran con distintos nombres: Eucaristía, Misa, Santa Cena.",
+          "textoNino": "Jesús nos dejó el pan y la copa para recordarlo.",
+          "referencia": "1 Corintios 11:23-26",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un cuerpo, muchos miembros",
+          "texto": "Como el cuerpo tiene muchos miembros, la iglesia tiene muchos dones. Todos se necesitan y se cuidan.",
+          "textoNino": "Somos como un cuerpo: cada parte es importante.",
+          "referencia": "1 Corintios 12:12-27",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El himno del amor",
+          "texto": "El amor es paciente y bondadoso. No tiene envidia ni se envanece. Todo lo sufre, todo lo cree, todo lo espera.",
+          "textoNino": "El amor es paciente, amable y nunca se acaba.",
+          "referencia": "1 Corintios 13:1-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Todo para edificar",
+          "texto": "En la reunión, todo debe servir para edificar, porque Dios no es Dios de desorden, sino de paz.",
+          "textoNino": "En la iglesia nos ayudamos a crecer.",
+          "referencia": "1 Corintios 14:26-33",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Cristo resucitó",
+      "capitulos": "15–16",
+      "color": "dusk",
+      "resumen": "Pablo recuerda la buena noticia: Cristo murió, fue sepultado y resucitó. Por eso también nosotros resucitaremos. Termina con una colecta y saludos.",
+      "resumenNino": "Jesús resucitó, y un día nosotros también viviremos con él.",
+      "hojas": [
+        {
+          "titulo": "Lo más importante",
+          "texto": "Cristo murió por nuestros pecados, fue sepultado y resucitó al tercer día. Se apareció a Pedro, a los doce y a más de quinientos hermanos.",
+          "textoNino": "Jesús resucitó, y muchas personas lo vieron.",
+          "referencia": "1 Corintios 15:3-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El primer fruto",
+          "texto": "Cristo resucitado es como el primer fruto de la cosecha. En él, todos serán vivificados.",
+          "textoNino": "Jesús resucitó primero; después resucitaremos nosotros.",
+          "referencia": "1 Corintios 15:20-22",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La muerte vencida",
+          "texto": "La muerte ha sido vencida. Pablo da gracias a Dios, que nos da la victoria por Jesucristo.",
+          "textoNino": "Jesús venció a la muerte.",
+          "referencia": "1 Corintios 15:54-58",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una colecta",
+          "texto": "Cada primer día de la semana, cada uno aparta algo en su casa para ayudar a los hermanos de Jerusalén.",
+          "textoNino": "Los creyentes ahorran para ayudar a otros.",
+          "referencia": "1 Corintios 16:1-4",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pablo solo quiere conocer a «Jesucristo, y a éste crucificado». La cruz une a la iglesia, y la resurrección de Cristo es la garantía de la nuestra.",
+    "referencias": ["1 Corintios 2:2", "1 Corintios 15:20"]
+  },
+  "paraTuVida": [
+    "Lee 1 Corintios 13 y elige una frase del amor para vivirla hoy.",
+    "Busca la paz con un hermano con quien tengas una diferencia."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "Según 1 Corintios 13:13, ¿cuál es la mayor de las tres?",
+      "opciones": ["La fe", "La esperanza", "La caridad"],
+      "correcta": 2,
+      "explicacion": "Permanecen la fe, la esperanza y la caridad, pero la mayor es la caridad, es decir, el amor."
+    },
+    {
+      "pregunta": "¿Quién da el crecimiento, según Pablo?",
+      "opciones": ["Apolos", "Dios", "Pablo"],
+      "correcta": 1,
+      "explicacion": "Pablo plantó y Apolos regó, pero Dios dio el crecimiento (1 Corintios 3:6)."
+    },
+    {
+      "pregunta": "¿Qué libro cuenta cómo nació la iglesia de Corinto?",
+      "opciones": ["Hechos", "Gálatas", "Juan"],
+      "correcta": 0,
+      "explicacion": "Hechos 18 cuenta que Pablo vivió año y medio en Corinto enseñando."
+    }
+  ],
+  "estudio": ["1-corintios"],
+  "conexiones": [
+    { "id": "2-corintios", "motivo": "Pablo vuelve a escribir a la misma iglesia." },
+    { "id": "hechos", "motivo": "Hechos 18 cuenta cómo nació la iglesia de Corinto." }
+  ]
+}

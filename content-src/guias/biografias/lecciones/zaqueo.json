@@ -2,7 +2,11 @@
   "id": "zaqueo",
   "titulo": "Zaqueo",
   "subtitulo": "El cobrador que bajó del árbol",
-  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Jericó"],
+  "etiquetas": [
+    "Siglo I",
+    "Alrededor de Jesús",
+    "Jericó"
+  ],
   "enUnMinuto": [
     "Zaqueo era el jefe de los cobradores de impuestos de Jericó, rico y mal visto por todos.",
     "Era bajito, así que se subió a un árbol para ver pasar a Jesús.",
@@ -76,43 +80,81 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Lucas 19:1-10", "nota": "Toda su historia" },
-        { "ref": "Lucas 15:1-2", "nota": "Jesús recibe a los publicanos" },
-        { "ref": "Lucas 5:27-32", "nota": "Otro publicano llamado por Jesús: Leví" },
-        { "ref": "Éxodo 22:1", "nota": "Devolver cuatro veces" },
-        { "ref": "Ezequiel 34:16", "nota": "Dios busca a la oveja perdida" }
+        {
+          "ref": "Lucas 19:1-10",
+          "nota": "Toda su historia"
+        },
+        {
+          "ref": "Lucas 15:1-2",
+          "nota": "Jesús recibe a los publicanos"
+        },
+        {
+          "ref": "Lucas 5:27-32",
+          "nota": "Otro publicano llamado por Jesús: Leví"
+        },
+        {
+          "ref": "Éxodo 22:1",
+          "nota": "Devolver cuatro veces"
+        },
+        {
+          "ref": "Ezequiel 34:16",
+          "nota": "Dios busca a la oveja perdida"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Zaqueo era bajito y se subió a un árbol para ver a Jesús. ¿Qué harías tú para ver a Jesús?",
-      "actividad": "Para papás y abuelos: Jesús llamó a Zaqueo por su nombre (Lucas 19:5). Digan juntos: “Jesús conoce mi nombre”, poniendo cada uno su nombre, y den gracias."
+      "actividad": "Para el adulto: Jesús llamó a Zaqueo por su nombre (Lucas 19:5). Digan juntos: “Jesús conoce mi nombre”, poniendo cada uno su nombre, y den gracias."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, gracias porque me buscas y me llamas por mi nombre. Entra hoy en mi casa. Dame un corazón generoso y valor para reparar lo que hice mal. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que todos murmuraron cuando Jesús entró en casa de Zaqueo?",
+        "Zaqueo cambió después de ser recibido, no antes. ¿Qué nos enseña eso sobre la gracia?",
+        "¿A quién hemos dejado de ver como alguien que Jesús puede buscar?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Por qué Zaqueo se subió a un árbol?",
-      "opciones": ["Para esconderse de la gente", "Para ver a Jesús, porque era bajito", "Para cortar fruta"],
+      "opciones": [
+        "Para esconderse de la gente",
+        "Para ver a Jesús, porque era bajito",
+        "Para cortar fruta"
+      ],
       "correcta": 1,
       "explicacion": "Era de baja estatura y quería ver a Jesús (Lucas 19:3-4)."
     },
     {
       "pregunta": "¿Qué prometió dar Zaqueo a los pobres?",
-      "opciones": ["La mitad de sus bienes", "Todo lo que tenía", "Una ofrenda en el templo"],
+      "opciones": [
+        "La mitad de sus bienes",
+        "Todo lo que tenía",
+        "Una ofrenda en el templo"
+      ],
       "correcta": 0,
       "explicacion": "Dijo que daría la mitad de sus bienes a los pobres (Lucas 19:8)."
     },
     {
       "pregunta": "Jesús llamó a Zaqueo «hijo de Abraham». ¿Qué otro publicano llamó Jesús?",
-      "opciones": ["Nicodemo", "Bernabé", "Leví, también llamado Mateo"],
+      "opciones": [
+        "Nicodemo",
+        "Bernabé",
+        "Leví, también llamado Mateo"
+      ],
       "correcta": 2,
       "explicacion": "Jesús llamó a Leví, un publicano, y comió en su casa (Lucas 5:27-29)."
     }
   ],
-  "estudio": ["camino-a-jerusalen"],
+  "estudio": [
+    "camino-a-jerusalen"
+  ],
   "buscar": "Zaqueo"
 }

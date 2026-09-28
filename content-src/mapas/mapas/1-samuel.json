@@ -1,0 +1,239 @@
+{
+  "id": "1-samuel",
+  "tipo": "libro",
+  "titulo": "1 Samuel",
+  "subtitulo": "De los jueces a los reyes",
+  "libro": "1Sam",
+  "centro": {
+    "texto": "Dios escucha a los humildes y elige a un rey según su corazón",
+    "textoNino": "Dios escucha a quien ora y mira el corazón"
+  },
+  "versiculo": {
+    "texto": "Y vino Jehová, y parose, y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo oye.",
+    "referencia": "1 Samuel 3:10"
+  },
+  "ramas": [
+    {
+      "titulo": "Samuel, el niño que escucha",
+      "capitulos": "1–7",
+      "color": "warm",
+      "resumen": "Ana ora con lágrimas y Dios le da un hijo, Samuel. De niño, Samuel aprende a escuchar a Dios. De adulto, guía al pueblo de vuelta al Señor.",
+      "resumenNino": "Ana pidió un hijo a Dios. Samuel creció escuchando a Dios.",
+      "hojas": [
+        {
+          "titulo": "La oración de Ana",
+          "texto": "Ana no puede tener hijos y ora llorando en Silo. Dios la escucha y nace Samuel. Ella lo entrega al servicio del Señor y canta de gozo.",
+          "textoNino": "Ana oró mucho y Dios le regaló un bebé.",
+          "referencia": "1 Samuel 1:1–2:11",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Dios llama de noche",
+          "texto": "Una voz llama a Samuel mientras duerme. Él cree que es el sacerdote Elí. Al fin responde: «Habla, que tu siervo oye».",
+          "textoNino": "Dios llamó a Samuel por su nombre, y él escuchó.",
+          "referencia": "1 Samuel 3:1-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El arca vuelve a casa",
+          "texto": "Los filisteos se llevan el arca del pacto. En su tierra solo les trae problemas, y la devuelven a Israel en un carro nuevo.",
+          "textoNino": "Los enemigos se llevaron el cofre sagrado, pero tuvieron que devolverlo.",
+          "referencia": "1 Samuel 4–6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Hasta aquí nos ayudó",
+          "texto": "El pueblo deja sus ídolos y vuelve a Dios. Samuel levanta una piedra y la llama Eben-ezer: «Hasta aquí nos ayudó Jehová».",
+          "textoNino": "Samuel puso una piedra para recordar que Dios los ayudó.",
+          "referencia": "1 Samuel 7:3-12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Israel pide un rey",
+      "capitulos": "8–12",
+      "color": "amber",
+      "resumen": "El pueblo quiere un rey como las otras naciones. A Samuel le duele, pero Dios le dice que los escuche. Dios elige a Saúl.",
+      "resumenNino": "El pueblo quiso un rey, y Dios eligió a Saúl.",
+      "hojas": [
+        {
+          "titulo": "Queremos un rey",
+          "texto": "Los hijos de Samuel no andan en buen camino, y el pueblo pide un rey. Dios le explica a Samuel que no lo rechazan a él, sino a Dios.",
+          "textoNino": "El pueblo quería un rey como los demás países.",
+          "referencia": "1 Samuel 8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Saúl, el primer rey",
+          "texto": "Saúl sale a buscar unas asnas perdidas y encuentra a Samuel. Samuel derrama aceite sobre su cabeza: Dios lo ha elegido. Al principio, Saúl es humilde.",
+          "textoNino": "Samuel puso aceite en la cabeza de Saúl: iba a ser rey.",
+          "referencia": "1 Samuel 9–10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Samuel se despide",
+          "texto": "Ya anciano, Samuel pide al pueblo que sirva a Dios de todo corazón. Y promete no dejar nunca de orar por ellos.",
+          "textoNino": "Samuel prometió orar siempre por su pueblo.",
+          "referencia": "1 Samuel 12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Saúl desobedece",
+      "capitulos": "13–15",
+      "color": "rose",
+      "resumen": "Saúl empieza bien, pero no espera a Dios ni lo obedece. Samuel le dice que Dios busca un corazón obediente, no solo ofrendas.",
+      "resumenNino": "Saúl no hizo caso a Dios, y perdió el reino.",
+      "hojas": [
+        {
+          "titulo": "Saúl no espera",
+          "texto": "Samuel tarda en llegar y Saúl, nervioso, ofrece el sacrificio él mismo. Samuel le anuncia que Dios ya busca un hombre según su corazón.",
+          "textoNino": "Saúl no quiso esperar como Dios le había pedido.",
+          "referencia": "1 Samuel 13:8-14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Jonatán, el valiente",
+          "texto": "El hijo de Saúl sube con un solo ayudante hasta un puesto filisteo. Confía en que a Dios no le cuesta salvar con muchos o con pocos.",
+          "textoNino": "Jonatán confió en Dios, aunque eran solo dos.",
+          "referencia": "1 Samuel 14:1-23",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Obedecer es mejor",
+          "texto": "Saúl vuelve a desobedecer y pone excusas. Samuel le responde: «el obedecer es mejor que los sacrificios».",
+          "textoNino": "Dios prefiere que le hagamos caso a que le hagamos regalos.",
+          "referencia": "1 Samuel 15:22-23",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "David, el joven pastor",
+      "capitulos": "16–17",
+      "color": "olive",
+      "resumen": "Dios envía a Samuel a Belén. Allí unge al hijo menor de Isaí, un pastor llamado David. Con fe en Dios, David vence al gigante Goliat.",
+      "resumenNino": "Dios eligió a David, un pastorcito, y lo ayudó contra un gigante.",
+      "hojas": [
+        {
+          "titulo": "Dios mira el corazón",
+          "texto": "Samuel ve a los hermanos mayores y cree que uno de ellos será el rey. Dios le enseña que no mira la apariencia, sino el corazón.",
+          "textoNino": "Dios eligió al más pequeño porque miró su corazón.",
+          "referencia": "1 Samuel 16:1-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El arpa de David",
+          "texto": "Saúl vive angustiado. David toca el arpa para él, y el rey encuentra alivio.",
+          "textoNino": "David tocaba música, y el rey se sentía mejor.",
+          "referencia": "1 Samuel 16:14-23",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "David y Goliat",
+          "texto": "Todo el ejército tiene miedo del gigante filisteo. David va con su honda y cinco piedras. Dice que la batalla es del Señor, y vence.",
+          "textoNino": "David venció al gigante porque confiaba en Dios.",
+          "referencia": "1 Samuel 17",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "David huye de Saúl",
+      "capitulos": "18–26",
+      "color": "dawn",
+      "resumen": "Saúl siente celos de David y lo persigue. David huye durante años. Aun así, no le hace daño a Saúl y espera el tiempo de Dios.",
+      "resumenNino": "El rey Saúl tuvo celos, y David tuvo que esconderse.",
+      "hojas": [
+        {
+          "titulo": "Amigos para siempre",
+          "texto": "Jonatán, hijo de Saúl, quiere a David como a sí mismo. Hacen un pacto de amistad, y Jonatán le regala su manto y sus armas.",
+          "textoNino": "Jonatán y David fueron muy buenos amigos.",
+          "referencia": "1 Samuel 18:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Perdona la vida al rey",
+          "texto": "En una cueva, David tiene a Saúl a su alcance y no le hace daño. Lo respeta como el ungido de Dios y deja la justicia en sus manos.",
+          "textoNino": "David pudo vengarse de Saúl, pero no le hizo daño.",
+          "referencia": "1 Samuel 24",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Abigail, la prudente",
+          "texto": "Nabal ofende a David, y David quiere vengarse. Abigail, la esposa de Nabal, sale a su encuentro con regalos y palabras sabias. David da gracias a Dios por ella.",
+          "textoNino": "Abigail habló con calma y evitó una pelea.",
+          "referencia": "1 Samuel 25",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "El fin de Saúl",
+      "capitulos": "27–31",
+      "color": "dusk",
+      "resumen": "David vive un tiempo entre los filisteos. Saúl, lejos de Dios, busca respuestas por caminos prohibidos. En el monte Gilboa, Saúl y Jonatán mueren en batalla.",
+      "resumenNino": "Saúl se alejó de Dios, y su reinado terminó.",
+      "hojas": [
+        {
+          "titulo": "Saúl busca lejos de Dios",
+          "texto": "Dios ya no le responde a Saúl, y él consulta a una adivina en Endor. Hace justo lo que él mismo había prohibido.",
+          "textoNino": "Saúl buscó ayuda lejos de Dios.",
+          "referencia": "1 Samuel 28",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "David se fortalece en Dios",
+          "texto": "En Siclag, David y sus hombres lo pierden todo y lloran. David busca fuerzas en su Dios, y recuperan a todas sus familias.",
+          "textoNino": "David estaba muy triste y pidió fuerzas a Dios.",
+          "referencia": "1 Samuel 30",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El monte Gilboa",
+          "texto": "Los filisteos vencen a Israel en el monte Gilboa. Saúl y sus hijos, entre ellos Jonatán, mueren ese día.",
+          "textoNino": "Saúl y Jonatán murieron en una batalla.",
+          "referencia": "1 Samuel 31",
+          "tipo": "lugar"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Ana canta que Dios exaltará a «su Mesías», su rey ungido. David, el pastor de Belén elegido por Dios, anuncia a Jesús. Jesús nace en Belén, la ciudad de David, y es el buen pastor.",
+    "referencias": ["Lucas 2:11", "Juan 10:11", "Hechos 13:22-23"]
+  },
+  "paraTuVida": [
+    "Antes de empezar el día, ora como Samuel: «Habla, que tu siervo oye».",
+    "Cuando juzgues a alguien por su aspecto, recuerda que Dios mira el corazón.",
+    "Si alguien te hace daño, deja la justicia en manos de Dios, como David."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué respondió Samuel cuando por fin entendió que Dios lo llamaba?",
+      "opciones": ["«Ya voy, Elí»", "«Habla, que tu siervo oye»", "«Déjame dormir»"],
+      "correcta": 1,
+      "explicacion": "Samuel aprendió desde niño a escuchar a Dios (1 Samuel 3:10)."
+    },
+    {
+      "pregunta": "¿Con qué venció David al gigante Goliat?",
+      "opciones": ["Con una honda y una piedra", "Con la espada de Saúl", "Con un gran ejército"],
+      "correcta": 0,
+      "explicacion": "David dejó la armadura de Saúl. Fue con su honda, confiando en que la batalla era del Señor (1 Samuel 17:38-50)."
+    },
+    {
+      "pregunta": "¿En qué ciudad ungió Samuel a David, donde siglos después nació Jesús?",
+      "opciones": ["Jerusalén", "Nazaret", "Belén"],
+      "correcta": 2,
+      "explicacion": "Samuel unge a David en Belén (1 Samuel 16:4-13). Allí nace Jesús, el Hijo de David (Lucas 2:4-7)."
+    }
+  ],
+  "estudio": ["1-samuel"],
+  "conexiones": [
+    { "id": "2-samuel", "motivo": "David llega a ser rey de todo Israel." },
+    { "id": "rut", "motivo": "Rut, la moabita, es la bisabuela de David." },
+    { "id": "salmos", "motivo": "Varios salmos nacen de los años en que David huía." }
+  ]
+}

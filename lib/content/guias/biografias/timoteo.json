@@ -2,7 +2,11 @@
   "id": "timoteo",
   "titulo": "Timoteo",
   "subtitulo": "El joven hijo en la fe de Pablo",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "De Listra a Éfeso"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "De Listra a Éfeso"
+  ],
   "enUnMinuto": [
     "Timoteo aprendió la Biblia de niño con su madre y su abuela.",
     "Pablo lo invitó a viajar con él y lo trató como a un hijo.",
@@ -80,47 +84,98 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 16:1-5", "nota": "Pablo lo invita a viajar" },
-        { "ref": "Hechos 17:14-15", "nota": "Se queda en Berea con Silas" },
-        { "ref": "1 Tesalonicenses 3:1-6", "nota": "Enviado a Tesalónica" },
-        { "ref": "1 Corintios 4:17", "nota": "Hijo amado y fiel" },
-        { "ref": "Filipenses 2:19-22", "nota": "Como hijo a padre" },
-        { "ref": "1 Timoteo 4:11-16", "nota": "Ejemplo de los fieles" },
-        { "ref": "2 Timoteo 1:3-7", "nota": "Su madre, su abuela y su don" },
-        { "ref": "2 Timoteo 4:9-21", "nota": "Ven pronto" },
-        { "ref": "Hebreos 13:23", "nota": "Liberado de la cárcel" }
+        {
+          "ref": "Hechos 16:1-5",
+          "nota": "Pablo lo invita a viajar"
+        },
+        {
+          "ref": "Hechos 17:14-15",
+          "nota": "Se queda en Berea con Silas"
+        },
+        {
+          "ref": "1 Tesalonicenses 3:1-6",
+          "nota": "Enviado a Tesalónica"
+        },
+        {
+          "ref": "1 Corintios 4:17",
+          "nota": "Hijo amado y fiel"
+        },
+        {
+          "ref": "Filipenses 2:19-22",
+          "nota": "Como hijo a padre"
+        },
+        {
+          "ref": "1 Timoteo 4:11-16",
+          "nota": "Ejemplo de los fieles"
+        },
+        {
+          "ref": "2 Timoteo 1:3-7",
+          "nota": "Su madre, su abuela y su don"
+        },
+        {
+          "ref": "2 Timoteo 4:9-21",
+          "nota": "Ven pronto"
+        },
+        {
+          "ref": "Hebreos 13:23",
+          "nota": "Liberado de la cárcel"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Timoteo aprendió historias de la Biblia con su mamá y su abuela. ¿Quién te cuenta a ti historias de Dios?",
-      "actividad": "Para papás y abuelos: la fe de Timoteo empezó en casa (2 Timoteo 1:5). Esta semana, elijan juntos una historia bíblica y léanla antes de dormir."
+      "actividad": "Para el adulto: la fe de Timoteo empezó en casa (2 Timoteo 1:5). Esta semana, elijan juntos una historia bíblica y léanla antes de dormir."
     },
     {
       "tipo": "oracion",
       "texto": "Padre, gracias por quienes me enseñaron tu Palabra. Quita mi miedo y dame tu Espíritu de fortaleza, de amor y de templanza. Úsame, aunque me sienta pequeño. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Quién les enseñó la fe cuando eran niños?",
+        "¿Cómo podemos animar a los jóvenes de nuestra iglesia a servir?",
+        "Pablo le dijo a Timoteo que Dios no nos da espíritu de temor. ¿Qué miedo quieren entregarle hoy?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Cómo se llamaban la madre y la abuela de Timoteo?",
-      "opciones": ["María y Ana", "Eunice y Loida", "Lidia y Priscila"],
+      "opciones": [
+        "María y Ana",
+        "Eunice y Loida",
+        "Lidia y Priscila"
+      ],
       "correcta": 1,
       "explicacion": "La fe sincera estuvo primero en su abuela Loida y su madre Eunice (2 Timoteo 1:5)."
     },
     {
       "pregunta": "¿En qué ciudad pidió Pablo a Timoteo que se quedara a cuidar la iglesia?",
-      "opciones": ["En Roma", "En Jerusalén", "En Éfeso"],
+      "opciones": [
+        "En Roma",
+        "En Jerusalén",
+        "En Éfeso"
+      ],
       "correcta": 2,
       "explicacion": "Pablo le rogó quedarse en Éfeso (1 Timoteo 1:3)."
     },
     {
       "pregunta": "¿Qué dijo Pablo sobre la juventud de Timoteo?",
-      "opciones": ["Que nadie la menospreciara", "Que esperara a ser mayor", "Que no debía predicar"],
+      "opciones": [
+        "Que nadie la menospreciara",
+        "Que esperara a ser mayor",
+        "Que no debía predicar"
+      ],
       "correcta": 0,
       "explicacion": "«Ninguno tenga en poco tu juventud»; sé ejemplo de los fieles (1 Timoteo 4:12)."
     }
   ],
-  "estudio": ["1-timoteo", "2-timoteo"],
+  "estudio": [
+    "1-timoteo",
+    "2-timoteo"
+  ],
   "buscar": "Timoteo"
 }

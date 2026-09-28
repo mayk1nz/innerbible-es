@@ -1,0 +1,215 @@
+{
+  "id": "jueces",
+  "tipo": "libro",
+  "titulo": "Jueces",
+  "subtitulo": "Caer y levantarse",
+  "libro": "Judg",
+  "centro": {
+    "texto": "Israel cae una y otra vez, y Dios vuelve a levantarlo.",
+    "textoNino": "Aunque el pueblo se alejaba, Dios siempre enviaba ayuda."
+  },
+  "versiculo": {
+    "texto": "Mas Jehová suscitó jueces que los librasen de mano de los que los despojaban.",
+    "referencia": "Jueces 2:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Un camino que se repite",
+      "capitulos": "1–2",
+      "color": "dusk",
+      "resumen": "Muere Josué y crece una generación que no conoce a Dios. Empieza un círculo: el pueblo se aleja, sufre, clama, y Dios envía un libertador.",
+      "resumenNino": "El pueblo olvidaba a Dios, sufría, pedía ayuda y Dios lo salvaba.",
+      "hojas": [
+        {
+          "titulo": "Una tarea a medias",
+          "texto": "Las tribus no terminan de tomar la tierra. Conviven con los pueblos de Canaán y empiezan a seguir a sus dioses.",
+          "textoNino": "No terminaron lo que Dios les pidió.",
+          "referencia": "Jueces 1:27-36",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Otra generación",
+          "texto": "Después de Josué, se levanta una generación que no conocía al Señor ni lo que él había hecho por Israel.",
+          "textoNino": "Los nuevos niños no conocían las historias de Dios.",
+          "referencia": "Jueces 2:10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El círculo",
+          "texto": "El pueblo deja a Dios y cae en manos de enemigos. Clama, y Dios levanta un juez. Cuando el juez muere, vuelven a caer.",
+          "textoNino": "Pasaba una y otra vez, y Dios siempre ayudaba.",
+          "referencia": "Jueces 2:11-19",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Débora y los primeros jueces",
+      "capitulos": "3–5",
+      "color": "amber",
+      "resumen": "Dios levanta a Otoniel, a Aod y a Samgar. Luego a Débora, una profetisa que juzga a Israel bajo una palmera y anima a Barac a salir a luchar.",
+      "resumenNino": "Débora fue una mujer valiente que escuchaba a Dios.",
+      "hojas": [
+        {
+          "titulo": "Otoniel, el primero",
+          "texto": "El pueblo clama y Dios les da un salvador: Otoniel, de la familia de Caleb. La tierra tiene paz cuarenta años.",
+          "textoNino": "Otoniel fue el primer juez que ayudó al pueblo.",
+          "referencia": "Jueces 3:7-11",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Débora bajo la palmera",
+          "texto": "Débora es profetisa y juzga a Israel. Llama a Barac y va con él, porque Dios promete darles la victoria.",
+          "textoNino": "Débora ayudaba al pueblo sentada bajo una palmera.",
+          "referencia": "Jueces 4:4-10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El cántico de Débora",
+          "texto": "Débora y Barac cantan a Dios por la victoria. Termina así: los que aman al Señor sean «como el sol cuando nace en su fuerza».",
+          "textoNino": "Débora cantó: quien ama a Dios brilla como el sol.",
+          "referencia": "Jueces 5:1-31",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Gedeón",
+      "capitulos": "6–9",
+      "color": "olive",
+      "resumen": "Dios llama a Gedeón, un hombre con miedo, para liberar a Israel de Madián. Con solo trescientos hombres, Dios muestra que la victoria viene de él.",
+      "resumenNino": "Dios usó a Gedeón, que tenía miedo, para salvar a su pueblo.",
+      "hojas": [
+        {
+          "titulo": "Varón esforzado",
+          "texto": "Gedeón sacude el trigo escondido en un lagar. El ángel lo saluda: «Jehová es contigo, varón esforzado». Gedeón se siente el menor de su familia.",
+          "textoNino": "Dios llamó valiente a Gedeón, aunque tenía miedo.",
+          "referencia": "Jueces 6:11-16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El vellón de lana",
+          "texto": "Gedeón pide señales con un vellón de lana, mojado una noche y seco la otra. Dios, paciente, se las da.",
+          "textoNino": "Gedeón pidió señales y Dios tuvo paciencia con él.",
+          "referencia": "Jueces 6:36-40",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Trescientos hombres",
+          "texto": "Dios reduce el ejército a trescientos, para que nadie diga «Mi mano me ha salvado». Con trompetas, cántaros y antorchas, Madián huye.",
+          "textoNino": "Con trompetas y antorchas, pocos ganaron a muchos.",
+          "referencia": "Jueces 7:1-22",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El Señor es el rey",
+          "texto": "Le piden a Gedeón que sea su rey. Él responde: «Jehová será vuestro Señor».",
+          "textoNino": "Gedeón dijo: «Dios es nuestro rey».",
+          "referencia": "Jueces 8:22-23",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Jefté y Sansón",
+      "capitulos": "10–16",
+      "color": "rose",
+      "resumen": "El pueblo se aparta otra vez y luego clama. Dios se conmueve por su sufrimiento. Levanta a Jefté y después a Sansón, fuerte en el cuerpo pero débil en el corazón.",
+      "resumenNino": "Dios envió a Jefté y a Sansón, un hombre muy fuerte.",
+      "hojas": [
+        {
+          "titulo": "Dios se conmueve",
+          "texto": "Israel confiesa: «Hemos pecado». Quitan los dioses ajenos y sirven al Señor, y él se angustia por el sufrimiento de su pueblo.",
+          "textoNino": "Dios sintió tristeza al ver sufrir a su pueblo.",
+          "referencia": "Jueces 10:10-16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Jefté, el rechazado",
+          "texto": "Sus hermanos echan de casa a Jefté. Años después, los mismos ancianos le piden que los guíe, y el Espíritu del Señor viene sobre él.",
+          "textoNino": "A Jefté lo echaron de casa, pero Dios lo usó.",
+          "referencia": "Jueces 11:1-29",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un niño nazareo",
+          "texto": "Un ángel anuncia a una mujer sin hijos que tendrá un niño consagrado a Dios. Nace Sansón, y el Señor lo bendice.",
+          "textoNino": "Un ángel anunció que nacería Sansón.",
+          "referencia": "Jueces 13:2-24",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Acuérdate de mí",
+          "texto": "Sansón revela su secreto a Dalila y pierde su fuerza. Ciego y preso, ora: «acuérdate ahora de mí». Dios le da fuerza una última vez.",
+          "textoNino": "Sansón oró y Dios le dio fuerza otra vez.",
+          "referencia": "Jueces 16:4-30",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Sin rey en Israel",
+      "capitulos": "17–21",
+      "color": "warm",
+      "resumen": "Los últimos relatos muestran a un pueblo perdido: ídolos en casa y una guerra entre tribus hermanas. El libro repite que no había rey en Israel.",
+      "resumenNino": "Todos hacían lo que querían, y había mucha tristeza.",
+      "hojas": [
+        {
+          "titulo": "Un ídolo en casa",
+          "texto": "Micaía se hace su propio santuario con imágenes y contrata a un sacerdote. Cada uno arma su religión a su gusto.",
+          "textoNino": "Micaía se hizo sus propios dioses.",
+          "referencia": "Jueces 17:1-13",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Hermanos contra hermanos",
+          "texto": "Un crimen terrible en Guibeá lleva a las tribus a pelear contra Benjamín. Al final lloran porque casi desaparece una tribu entera.",
+          "textoNino": "Las familias de Israel pelearon entre ellas y lloraron.",
+          "referencia": "Jueces 19–21",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cada uno a su manera",
+          "texto": "El libro termina con una frase triste: «no había rey en Israel: cada uno hacía lo recto delante de sus ojos».",
+          "textoNino": "Cada uno hacía lo que quería.",
+          "referencia": "Jueces 21:25",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Cada juez libera al pueblo por un tiempo, pero muere, y todo vuelve a empezar. Hebreos recuerda la fe de Gedeón, Barac, Sansón y Jefté. Pero nos invita a mirar a Jesús, que vive siempre y puede salvar del todo.",
+    "referencias": ["Hebreos 11:32-34", "Hebreos 12:2", "Hebreos 7:25"]
+  },
+  "paraTuVida": [
+    "Si te alejaste de Dios, clama hoy a él: nunca se cansa de levantarte.",
+    "Cuenta a un niño una historia de lo que Dios hizo, para que no la olvide."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llamaba la profetisa que juzgaba a Israel?",
+      "opciones": ["Débora", "Rut", "Dalila"],
+      "correcta": 0,
+      "explicacion": "Débora, profetisa, juzgaba a Israel bajo una palmera (Jueces 4:4-5)."
+    },
+    {
+      "pregunta": "¿Con cuántos hombres venció Gedeón a Madián?",
+      "opciones": ["Doce", "Trescientos", "Mil"],
+      "correcta": 1,
+      "explicacion": "Dios dijo: «Con estos trescientos hombres que lamieron el agua os salvaré» (Jueces 7:7)."
+    },
+    {
+      "pregunta": "¿Por qué los jueces no bastaban para salvar a Israel?",
+      "opciones": ["Porque eran extranjeros", "Porque no tenían ejército", "Porque morían y todo volvía a empezar"],
+      "correcta": 2,
+      "explicacion": "Al morir cada juez, el pueblo volvía a caer. Jesús vive siempre para salvar (Hebreos 7:25)."
+    }
+  ],
+  "estudio": ["jueces"],
+  "conexiones": [
+    { "id": "rut", "motivo": "Rut ocurre «en los días que gobernaban los jueces»." },
+    { "id": "josue", "motivo": "Después de Josué, empieza el tiempo de los jueces." },
+    { "id": "linea-del-tiempo", "motivo": "Mira dónde encaja la era de la conquista y los jueces." }
+  ]
+}

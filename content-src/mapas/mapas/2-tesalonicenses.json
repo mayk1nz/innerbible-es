@@ -1,0 +1,164 @@
+{
+  "id": "2-tesalonicenses",
+  "tipo": "libro",
+  "titulo": "2 Tesalonicenses",
+  "subtitulo": "Firmes mientras esperamos",
+  "libro": "2Thess",
+  "centro": {
+    "texto": "Jesús volverá: mientras tanto, sigue firme, en calma y haciendo el bien",
+    "textoNino": "Jesús volverá. Mientras, confiamos en él y hacemos el bien"
+  },
+  "versiculo": {
+    "texto": "Mas fiel es el Señor, que os confirmará y guardará del mal.",
+    "referencia": "2 Tesalonicenses 3:3"
+  },
+  "ramas": [
+    {
+      "titulo": "Una fe que crece",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo da gracias porque la fe de los tesalonicenses crece en medio de persecuciones. Les promete descanso cuando Jesús venga del cielo.",
+      "resumenNino": "Los amigos de Pablo sufrían, pero su fe crecía cada día.",
+      "hojas": [
+        {
+          "titulo": "Gracias por su fe",
+          "texto": "Pablo habla bien de ellos en otras iglesias. Su fe crece y su amor abunda, aunque sufren.",
+          "textoNino": "Su fe y su amor crecían aunque era difícil.",
+          "referencia": "2 Tesalonicenses 1:3-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Descanso cuando él venga",
+          "texto": "Dios es justo. Cuando Jesús venga con sus ángeles, dará descanso a los que sufren y será admirado en los que creyeron.",
+          "textoNino": "Jesús vendrá del cielo y cuidará de los suyos.",
+          "referencia": "2 Tesalonicenses 1:6-10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una oración por ellos",
+          "texto": "Pablo ora para que Dios cumpla en ellos todo buen deseo. Así el nombre de Jesús será honrado en su vida.",
+          "textoNino": "Pablo siempre oraba por sus amigos.",
+          "referencia": "2 Tesalonicenses 1:11-12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Sin miedo al futuro",
+      "capitulos": "2:1-12",
+      "color": "amber",
+      "resumen": "Algunos dicen que el día del Señor está cerca y se alarman. Pablo les pide calma: antes vendrá un gran engaño, y Jesús lo vencerá.",
+      "resumenNino": "Pablo les dice: no tengan miedo, Jesús es más fuerte que todo mal.",
+      "hojas": [
+        {
+          "titulo": "No se dejen asustar",
+          "texto": "Ni por rumores ni por cartas falsas. Pablo les pide no perder la calma sobre la venida de Jesús.",
+          "textoNino": "No hay que creer todo lo que dicen.",
+          "referencia": "2 Tesalonicenses 2:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El engaño no dura",
+          "texto": "Pablo anuncia un gran engaño contra Dios, el «hombre de pecado». Hay varias lecturas de este pasaje. Todas ven lo mismo: Jesús lo vence con el resplandor de su venida.",
+          "textoNino": "Jesús vencerá a todo lo malo cuando vuelva.",
+          "referencia": "2 Tesalonicenses 2:3-10",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Escogidos y firmes",
+      "capitulos": "2:13-17",
+      "color": "dawn",
+      "resumen": "Pablo no quiere que vivan con miedo. Les recuerda que Dios los escogió y los llamó. Les pide estar firmes en lo que aprendieron.",
+      "resumenNino": "Dios nos eligió con amor. Por eso estamos firmes.",
+      "hojas": [
+        {
+          "titulo": "Dios los eligió",
+          "texto": "Desde el principio, Dios los escogió para salvarlos. El Espíritu los hace santos y los llama a la gloria de Jesús.",
+          "textoNino": "Dios te eligió para estar con Jesús.",
+          "referencia": "2 Tesalonicenses 2:13-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Guarden lo aprendido",
+          "texto": "Pablo les pide mantenerse firmes en lo que les enseñó, de palabra o por carta.",
+          "textoNino": "Recuerda lo que aprendiste de Jesús.",
+          "referencia": "2 Tesalonicenses 2:15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un consuelo que no acaba",
+          "texto": "El Padre los amó y les dio consuelo eterno y buena esperanza. Pablo pide que ese consuelo los fortalezca en todo bien.",
+          "textoNino": "Dios te consuela y te da esperanza.",
+          "referencia": "2 Tesalonicenses 2:16-17",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Trabajar en paz",
+      "capitulos": "3",
+      "color": "olive",
+      "resumen": "Pablo pide oración y confía en el Señor fiel. Algunos no quieren trabajar y viven curioseando. Pablo les pide trabajar tranquilos y no cansarse de hacer el bien.",
+      "resumenNino": "Pablo enseña a trabajar bien y a no cansarse de hacer el bien.",
+      "hojas": [
+        {
+          "titulo": "Fiel es el Señor",
+          "texto": "Pablo pide oración para que la palabra de Dios corra. Y recuerda: «fiel es el Señor», que los hará firmes y los guardará del mal.",
+          "textoNino": "Dios es fiel y te cuida del mal.",
+          "referencia": "2 Tesalonicenses 3:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Comer del propio trabajo",
+          "texto": "Pablo trabajó de día y de noche para no ser una carga. Pide a todos trabajar con tranquilidad y ganar su propio pan.",
+          "textoNino": "Pablo trabajaba duro y nos enseña a trabajar.",
+          "referencia": "2 Tesalonicenses 3:6-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "No te canses del bien",
+          "texto": "Hacer el bien a veces cansa. Pablo anima a seguir. Y al que se equivoca, lo corrigen como a un hermano, no como a un enemigo.",
+          "textoNino": "Sigue haciendo el bien, aunque te cueste.",
+          "referencia": "2 Tesalonicenses 3:13-15",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús vendrá del cielo y será admirado en todos los que creyeron. Vencerá el mal con el resplandor de su venida. Mientras tanto, él mismo nos consuela y nos da buena esperanza. Jesús lo prometió: «vendré otra vez».",
+    "referencias": ["2 Tesalonicenses 1:10", "2 Tesalonicenses 2:16-17", "Juan 14:3"]
+  },
+  "paraTuVida": [
+    "Cuando oigas noticias que asustan, recuerda: «fiel es el Señor».",
+    "Haz hoy tu trabajo con calma y buena voluntad, como un servicio a Dios.",
+    "Si estás cansado de hacer el bien, pide fuerzas y da un paso más."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué pidió Pablo a los que no querían trabajar?",
+      "opciones": ["Que se fueran lejos", "Que trabajaran con calma", "Que ayunaran más"],
+      "correcta": 1,
+      "explicacion": "Pablo les pidió trabajar con tranquilidad y comer su propio pan (2 Tesalonicenses 3:12)."
+    },
+    {
+      "pregunta": "¿Por qué estaban alarmados algunos tesalonicenses?",
+      "opciones": ["Creían que el día del Señor estaba cerca", "Habían perdido una carta", "Se quedaron sin pastor"],
+      "correcta": 0,
+      "explicacion": "Oían rumores sobre el día del Señor. Pablo les pidió calma (2 Tesalonicenses 2:1-2)."
+    },
+    {
+      "pregunta": "¿Qué carta escribió Pablo antes a esta misma iglesia?",
+      "opciones": ["Gálatas", "1 Tesalonicenses", "Romanos"],
+      "correcta": 1,
+      "explicacion": "Pablo ya les había escrito 1 Tesalonicenses. Esta segunda carta sigue el mismo tema: la venida de Jesús."
+    }
+  ],
+  "estudio": ["2-tesalonicenses"],
+  "conexiones": [
+    { "id": "1-tesalonicenses", "motivo": "La primera carta a la misma iglesia, también sobre la venida de Jesús." },
+    { "id": "apocalipsis", "motivo": "Muestra el final de la historia: Cristo vence al mal para siempre." }
+  ]
+}

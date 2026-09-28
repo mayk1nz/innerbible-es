@@ -1,0 +1,231 @@
+{
+  "id": "levitico",
+  "tipo": "libro",
+  "titulo": "Levítico",
+  "subtitulo": "Un Dios santo vive entre su pueblo",
+  "libro": "Lev",
+  "centro": {
+    "texto": "Un Dios santo abre un camino para vivir en medio de su pueblo.",
+    "textoNino": "Dios quiere estar cerca y enseña cómo acercarse a él."
+  },
+  "versiculo": {
+    "texto": "Y andaré entre vosotros, y yo seré vuestro Dios, y vosotros seréis mi pueblo.",
+    "referencia": "Levítico 26:12"
+  },
+  "ramas": [
+    {
+      "titulo": "Ofrendas para acercarse",
+      "capitulos": "1–7",
+      "color": "amber",
+      "resumen": "Dios habla desde el tabernáculo y enseña distintas ofrendas. Unas expresan gratitud y amistad con Dios. Otras piden perdón por el pecado.",
+      "resumenNino": "La gente llevaba regalos a Dios para darle gracias o pedir perdón.",
+      "hojas": [
+        {
+          "titulo": "El holocausto",
+          "texto": "Quien ofrece pone su mano sobre la cabeza del animal. Así muestra que ese animal se presenta en su lugar ante Dios.",
+          "textoNino": "Un animal se ofrecía a Dios en lugar de la persona.",
+          "referencia": "Levítico 1:1-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Harina y paz",
+          "texto": "También hay ofrendas de flor de harina con aceite y sacrificios de paz. Son regalos para dar gracias y celebrar la amistad con Dios.",
+          "textoNino": "Había regalos de pan para decir: «Gracias, Dios».",
+          "referencia": "Levítico 2–3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Y será perdonado",
+          "texto": "Si alguien peca sin darse cuenta y luego lo reconoce, lleva su ofrenda. El sacerdote pide perdón por él, y la promesa es clara: «será perdonado».",
+          "textoNino": "Quien se equivocaba podía pedir perdón, y Dios perdonaba.",
+          "referencia": "Levítico 4:27-31",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Los sacerdotes",
+      "capitulos": "8–10",
+      "color": "olive",
+      "resumen": "Moisés consagra a Aarón y a sus hijos como sacerdotes. En su primer servicio, la gloria de Dios aparece a todo el pueblo.",
+      "resumenNino": "Aarón y sus hijos empezaron a servir a Dios.",
+      "hojas": [
+        {
+          "titulo": "Aarón es ungido",
+          "texto": "Moisés viste a Aarón con las ropas sagradas y derrama aceite sobre su cabeza. Así lo aparta para servir a Dios.",
+          "textoNino": "Moisés puso aceite en la cabeza de Aarón.",
+          "referencia": "Levítico 8:1-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La gloria aparece",
+          "texto": "Moisés y Aarón bendicen al pueblo. La gloria del Señor se muestra, sale fuego y consume la ofrenda. El pueblo alaba y se postra.",
+          "textoNino": "Dios mostró su gloria y todos se alegraron.",
+          "referencia": "Levítico 9:22-24",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Lo santo y lo común",
+          "texto": "Los sacerdotes deben enseñar a distinguir lo santo de lo común, y lo limpio de lo impuro. Dios no es algo que se toma a la ligera.",
+          "textoNino": "Los sacerdotes enseñaban que Dios es santo.",
+          "referencia": "Levítico 10:8-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Limpio e impuro",
+      "capitulos": "11–15",
+      "color": "dawn",
+      "resumen": "Hay leyes sobre alimentos, enfermedades de la piel y la vida diaria. Enseñan a Israel que todo lo de cada día importa a un Dios santo.",
+      "resumenNino": "Dios les enseñó a cuidar la comida, la salud y la limpieza.",
+      "hojas": [
+        {
+          "titulo": "Seréis santos",
+          "texto": "Las reglas de alimentos terminan con una razón: Dios sacó a Israel de Egipto para ser su Dios. «Seréis pues santos, porque yo soy santo».",
+          "textoNino": "Dios dijo: «Sean santos, porque yo soy santo».",
+          "referencia": "Levítico 11:44-47",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Sano y de vuelta",
+          "texto": "El enfermo de la piel vive fuera del campamento. Cuando sana, el sacerdote sale a verlo y lo recibe de nuevo en el pueblo.",
+          "textoNino": "Cuando alguien sanaba, volvía a vivir con su familia.",
+          "referencia": "Levítico 14:1-9",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El Día de la expiación",
+      "capitulos": "16–17",
+      "color": "rose",
+      "resumen": "Una vez al año, el sumo sacerdote entra detrás del velo. Ese día se pide perdón por todo el pueblo, y Dios promete limpiarlo de todos sus pecados.",
+      "resumenNino": "Un día al año, Dios perdonaba los pecados de todo el pueblo.",
+      "hojas": [
+        {
+          "titulo": "Detrás del velo",
+          "texto": "Aarón no puede entrar en cualquier momento al lugar santísimo, donde está el arca. Solo ese día, y con la sangre de la ofrenda.",
+          "textoNino": "Solo un día al año el sacerdote entraba al lugar más santo.",
+          "referencia": "Levítico 16:1-19",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "El macho cabrío al desierto",
+          "texto": "Aarón pone las manos sobre un macho cabrío y confiesa los pecados del pueblo. Luego lo envían al desierto: los pecados se van lejos.",
+          "textoNino": "Un cabrito se llevaba los pecados lejos, al desierto.",
+          "referencia": "Levítico 16:20-22",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Seréis limpios",
+          "texto": "La promesa del día es grande: «seréis limpios de todos vuestros pecados delante de Jehová».",
+          "textoNino": "Dios prometió dejar limpio el corazón de su pueblo.",
+          "referencia": "Levítico 16:29-34",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un pueblo santo",
+      "capitulos": "18–22",
+      "color": "warm",
+      "resumen": "Ser santo se nota en la vida diaria: en la familia, el trabajo, el trato al pobre, al anciano y al extranjero. Aquí está «amarás a tu prójimo».",
+      "resumenNino": "Dios les enseñó a tratar bien a todos.",
+      "hojas": [
+        {
+          "titulo": "Santos seréis",
+          "texto": "Dios pide a todo el pueblo, no solo a los sacerdotes: «Santos seréis, porque santo soy yo».",
+          "textoNino": "Dios quiere que todos seamos buenos como él.",
+          "referencia": "Levítico 19:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Deja algo para el pobre",
+          "texto": "Al cosechar, no deben segar las orillas del campo ni recoger todo. Lo que queda es para el pobre y el extranjero.",
+          "textoNino": "Dejaban comida en el campo para los pobres.",
+          "referencia": "Levítico 19:9-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ama a tu prójimo",
+          "texto": "No te vengarás ni guardarás rencor. Amarás a tu prójimo como a ti mismo. Jesús llamará a esto el segundo gran mandamiento.",
+          "textoNino": "Quiere a los demás como te quieres a ti.",
+          "referencia": "Levítico 19:17-18",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ama al extranjero",
+          "texto": "Israel fue extranjero en Egipto. Por eso debe recibir al que viene de fuera y amarlo como a sí mismo.",
+          "textoNino": "Hay que tratar con cariño a quien viene de lejos.",
+          "referencia": "Levítico 19:33-34",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Fiestas, descanso y promesas",
+      "capitulos": "23–27",
+      "color": "dusk",
+      "resumen": "Dios marca el año con fiestas para recordar su bondad. Da descanso a la tierra y un año de libertad. Promete andar en medio de su pueblo.",
+      "resumenNino": "Dios les dio fiestas para celebrar y días para descansar.",
+      "hojas": [
+        {
+          "titulo": "Las fiestas del Señor",
+          "texto": "El sábado, la Pascua, las primicias, las semanas, las trompetas, la expiación y los tabernáculos. Cada fiesta recuerda algo que Dios hizo.",
+          "textoNino": "Cada fiesta recordaba algo bueno que Dios hizo.",
+          "referencia": "Levítico 23",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El año del jubileo",
+          "texto": "Cada cincuenta años se pregona libertad. Las familias recuperan su tierra y nadie queda atrapado para siempre en la pobreza.",
+          "textoNino": "Cada cincuenta años todos volvían a su casa y su tierra.",
+          "referencia": "Levítico 25:8-17",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Andaré entre vosotros",
+          "texto": "Dios promete poner su morada en medio de su pueblo. Él rompió su yugo en Egipto y los hizo andar con la cabeza en alto.",
+          "textoNino": "Dios prometió caminar siempre con su pueblo.",
+          "referencia": "Levítico 26:11-13",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Hebreos lee Levítico mirando a Jesús. Él es el sumo sacerdote que entra en el santuario «una sola vez». No lleva sangre de animales, sino la suya. Y Jesús une «amarás a tu prójimo» con el amor a Dios.",
+    "referencias": ["Hebreos 9:11-12", "Hebreos 10:10", "Mateo 22:37-39"]
+  },
+  "paraTuVida": [
+    "Esta semana deja algo tuyo para quien lo necesita, como el rincón del campo.",
+    "Si guardas rencor contra alguien, entrégaselo hoy a Dios en oración."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué debían dejar en el campo al cosechar?",
+      "opciones": ["Las orillas para el pobre", "Las piedras", "Las herramientas"],
+      "correcta": 0,
+      "explicacion": "No se segaba el rincón del campo: era para el pobre y el extranjero (Levítico 19:9-10)."
+    },
+    {
+      "pregunta": "¿Cada cuántos años llegaba el jubileo?",
+      "opciones": ["Cada siete años", "Cada diez años", "Cada cincuenta años"],
+      "correcta": 2,
+      "explicacion": "El año cincuenta se pregonaba libertad en la tierra (Levítico 25:10)."
+    },
+    {
+      "pregunta": "¿Qué frase de Levítico llama Jesús el segundo gran mandamiento?",
+      "opciones": ["Santos seréis", "Amarás a tu prójimo", "Andaré entre vosotros"],
+      "correcta": 1,
+      "explicacion": "Jesús cita Levítico 19:18: «Amarás a tu prójimo como a ti mismo» (Mateo 22:39)."
+    }
+  ],
+  "estudio": ["levitico"],
+  "conexiones": [
+    { "id": "numeros", "motivo": "El pueblo sale del Sinaí y empieza el camino por el desierto." },
+    { "id": "exodo", "motivo": "Levítico explica cómo servir en el tabernáculo que Éxodo construye." },
+    { "id": "jesus-en-toda-la-biblia", "motivo": "El sacerdote y la ofrenda anuncian a Jesús." }
+  ]
+}

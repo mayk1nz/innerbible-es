@@ -2,7 +2,11 @@
   "id": "esteban",
   "titulo": "Esteban",
   "subtitulo": "El primer mártir de la Iglesia",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Jerusalén"
+  ],
   "enUnMinuto": [
     "Esteban era uno de los siete hombres elegidos para servir a las viudas de la primera iglesia.",
     "Lleno de fe y del Espíritu Santo, habló de Jesús con valentía ante el consejo de Jerusalén.",
@@ -80,45 +84,89 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 6:1-7", "nota": "Los siete servidores" },
-        { "ref": "Hechos 6:8-15", "nota": "Acusado con testigos falsos" },
-        { "ref": "Hechos 7:1-53", "nota": "Su discurso ante el consejo" },
-        { "ref": "Hechos 7:54-8:2", "nota": "Su muerte y su sepultura" },
-        { "ref": "Hechos 11:19", "nota": "La buena noticia se extiende" },
-        { "ref": "Hechos 22:20", "nota": "Pablo lo recuerda" },
-        { "ref": "Lucas 23:34", "nota": "El perdón de Jesús en la cruz" }
+        {
+          "ref": "Hechos 6:1-7",
+          "nota": "Los siete servidores"
+        },
+        {
+          "ref": "Hechos 6:8-15",
+          "nota": "Acusado con testigos falsos"
+        },
+        {
+          "ref": "Hechos 7:1-53",
+          "nota": "Su discurso ante el consejo"
+        },
+        {
+          "ref": "Hechos 7:54-8:2",
+          "nota": "Su muerte y su sepultura"
+        },
+        {
+          "ref": "Hechos 11:19",
+          "nota": "La buena noticia se extiende"
+        },
+        {
+          "ref": "Hechos 22:20",
+          "nota": "Pablo lo recuerda"
+        },
+        {
+          "ref": "Lucas 23:34",
+          "nota": "El perdón de Jesús en la cruz"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Esteban perdonó a quienes le hacían daño, como hizo Jesús. ¿Hay alguien a quien te cuesta perdonar?",
-      "actividad": "Para papás y abuelos: Esteban pidió a Dios perdón para otros (Hechos 7:60). Oren juntos por alguien que molestó al niño, con palabras sencillas."
+      "actividad": "Para el adulto: Esteban pidió a Dios perdón para otros (Hechos 7:60). Oren juntos por alguien que molestó al niño, con palabras sencillas."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, dame la fe de Esteban. Que te sirva con alegría en lo pequeño. Y cuando me hieran, enséñame a perdonar como tú perdonaste. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué les sorprende de la forma en que murió Esteban?",
+        "¿Por qué creen que perdonar es tan difícil, y cómo nos ayuda Jesús?",
+        "Esteban empezó sirviendo mesas. ¿Qué servicio sencillo podemos hacer juntos?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Para qué servicio fue elegido Esteban al principio?",
-      "opciones": ["Para cuidar el templo", "Para escribir un Evangelio", "Para servir a las viudas en las mesas"],
+      "opciones": [
+        "Para cuidar el templo",
+        "Para escribir un Evangelio",
+        "Para servir a las viudas en las mesas"
+      ],
       "correcta": 2,
       "explicacion": "Fue uno de los siete elegidos para el reparto diario a las viudas (Hechos 6:1-5)."
     },
     {
       "pregunta": "¿Qué vio Esteban al mirar al cielo?",
-      "opciones": ["A Jesús a la derecha de Dios", "Un carro de fuego", "Una escalera con ángeles"],
+      "opciones": [
+        "A Jesús a la derecha de Dios",
+        "Un carro de fuego",
+        "Una escalera con ángeles"
+      ],
       "correcta": 0,
       "explicacion": "Vio la gloria de Dios y a Jesús a su derecha (Hechos 7:55-56)."
     },
     {
       "pregunta": "¿Qué joven estaba presente en la muerte de Esteban?",
-      "opciones": ["Timoteo", "Saulo, que después sería Pablo", "Juan Marcos"],
+      "opciones": [
+        "Timoteo",
+        "Saulo, que después sería Pablo",
+        "Juan Marcos"
+      ],
       "correcta": 1,
       "explicacion": "Los testigos dejaron sus ropas a los pies de un joven llamado Saulo (Hechos 7:58)."
     }
   ],
-  "estudio": ["hechos-1-7"],
+  "estudio": [
+    "hechos-1-7"
+  ],
   "buscar": "Esteban"
 }

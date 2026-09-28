@@ -1,0 +1,137 @@
+{
+  "id": "dios-llama-a-samuel",
+  "titulo": "«Habla, Señor»: Dios llama a Samuel",
+  "referencia": "1 Samuel 3",
+  "estudio": "1-samuel",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-lampara",
+      "texto": {
+        "3-5": "Samuel era un niño que ayudaba en la casa de Dios. Dormía cerca de una lámpara encendida.",
+        "6-8": "El niño Samuel vivía en la casa de Dios y ayudaba al sacerdote Elí. Elí ya era anciano y casi no veía. En esos días, pocas veces se oía la palabra de Dios. Una noche, Samuel dormía cerca del arca de Dios, junto a la lámpara encendida.",
+        "9-12": "El joven Samuel servía al Señor junto al sacerdote Elí, que ya casi no veía. En aquellos días, la palabra del Señor era rara y no había visiones (1 Samuel 3:1). Una noche, antes de que se apagara la lámpara de Dios, Samuel dormía en el templo, donde estaba el arca."
+      }
+    },
+    {
+      "id": "samuel",
+      "texto": {
+        "3-5": "De noche, una voz lo llamó: «¡Samuel!». Corrió hacia Elí: «¡Aquí estoy!». Elí dijo: «Yo no te llamé».",
+        "6-8": "De pronto, alguien lo llamó: «¡Samuel!». Él respondió: «¡Aquí estoy!», y corrió hasta Elí. «¿Para qué me llamaste?». Pero Elí le dijo: «Yo no te llamé. Vuelve a acostarte».",
+        "9-12": "Entonces el Señor llamó: «¡Samuel!». Él respondió: «Heme aquí», y corrió hacia Elí. Pero Elí le dijo: «Yo no he llamado; vuelve a acostarte». Samuel obedeció."
+      }
+    },
+    {
+      "id": "otra-vez",
+      "texto": {
+        "3-5": "¡Otra vez! Y otra vez. Elí entendió: «Es Dios. Dile: Habla, Señor, que te escucho».",
+        "6-8": "La voz lo llamó otra vez, y otra más. Samuel todavía no conocía la voz de Dios. A la tercera vez, Elí entendió que era el Señor. Le dijo: «Si te llama, responde: Habla, Señor, que tu siervo escucha».",
+        "9-12": "Pasó una segunda y una tercera vez. Samuel todavía no conocía al Señor de esa manera: nunca había oído su voz (1 Samuel 3:7). Entonces Elí comprendió que era Dios quien llamaba al muchacho. Le enseñó a responder: «Habla, Señor, que tu siervo oye»."
+      }
+    },
+    {
+      "id": "habla-senor",
+      "texto": {
+        "3-5": "Dios lo llamó: «¡Samuel, Samuel!». Samuel dijo: «Habla, Señor, que tu siervo escucha».",
+        "6-8": "Samuel volvió a acostarse. Entonces el Señor vino y lo llamó como antes: «¡Samuel, Samuel!». Y Samuel dijo: «Habla, que tu siervo escucha». Dios le habló y le dio un mensaje serio para Elí y su familia.",
+        "9-12": "El Señor vino, se detuvo y llamó como antes: «¡Samuel, Samuel!». Samuel respondió: «Habla, que tu siervo oye» (1 Samuel 3:10). Dios le confió un mensaje difícil para Elí. Sus hijos hacían mucho mal, y Elí no los había detenido."
+      }
+    },
+    {
+      "id": "la-verdad",
+      "texto": {
+        "3-5": "Samuel creció. Dios estaba con él. ¡Y Samuel siempre escuchaba a Dios!",
+        "6-8": "En la mañana, a Samuel le daba miedo contarle todo a Elí. Pero Elí le pidió la verdad, y Samuel se la dijo. Samuel creció, y el Señor estaba con él. Todo Israel supo que Samuel era un profeta de Dios.",
+        "9-12": "Al amanecer, Samuel abrió las puertas de la casa del Señor, con miedo de contar la visión. Elí le pidió que no le ocultara nada, y Samuel le dijo toda la verdad. Elí respondió: «Él es el Señor; haga lo que bien le parezca». Samuel creció, y el Señor estaba con él."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios sabe mi nombre.", "referencia": "1 Samuel 3:10", "fuente": "adaptado" },
+    "6-8": { "texto": "Habla, Señor, que tu siervo escucha.", "referencia": "1 Samuel 3:9", "fuente": "adaptado" },
+    "9-12": { "texto": "Y vino Jehová, y parose, y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo oye.", "referencia": "1 Samuel 3:10", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Te acuerdas de la noche en que Dios llamó a Samuel?",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Dónde dormía Samuel?", "opciones": ["En la casa de Dios", "En un barco"], "correcta": 0 },
+            { "texto": "¿Quién llamaba a Samuel?", "opciones": ["Elí", "Dios"], "correcta": 1 },
+            { "texto": "¿Qué le dijo Samuel a Dios?", "opciones": ["«Habla, te escucho»", "«Déjame dormir»"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿A quién ayudaba Samuel?", "opciones": ["Al sacerdote Elí", "Al rey David", "A Moisés"], "correcta": 0 },
+            { "texto": "¿Cuántas veces llamó Dios antes de que Elí entendiera?", "opciones": ["Una", "Tres", "Diez"], "correcta": 1 },
+            { "texto": "¿Qué hacía Samuel cada vez que oía la voz?", "opciones": ["Se escondía", "Corría hacia Elí", "Seguía durmiendo"], "correcta": 1 },
+            { "texto": "¿Qué le enseñó Elí a responder?", "opciones": ["«Habla, Señor, que tu siervo escucha»", "«¿Quién eres?»", "«Mañana hablamos»"], "correcta": 0 },
+            { "texto": "¿Qué hizo Samuel en la mañana?", "opciones": ["Se quedó callado", "Le dijo la verdad a Elí", "Se fue de la casa"], "correcta": 1, "explicacion": "Tuvo miedo, pero dijo la verdad." }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cómo estaba la palabra del Señor en aquellos días?", "opciones": ["Se oía todos los días", "Era rara y no había visiones", "Solo la oía el rey", "Estaba prohibida"], "correcta": 1, "explicacion": "1 Samuel 3:1." },
+            { "texto": "¿Dónde dormía Samuel esa noche?", "opciones": ["En su casa de Ramá", "En el templo, donde estaba el arca", "En el campo", "En el palacio"], "correcta": 1, "explicacion": "1 Samuel 3:3." },
+            { "texto": "¿Por qué Samuel no reconocía la voz?", "opciones": ["Porque estaba soñando", "Porque Elí lo confundía", "Porque aún no conocía al Señor de esa manera", "Porque no oía bien"], "correcta": 2, "explicacion": "1 Samuel 3:7." },
+            { "texto": "¿Quién se dio cuenta de que era Dios?", "opciones": ["Samuel", "Ana", "Elí", "Los hijos de Elí"], "correcta": 2, "explicacion": "A la tercera vez (1 Samuel 3:8)." },
+            { "texto": "¿Qué hizo Samuel con el mensaje difícil?", "opciones": ["Lo ocultó", "Tuvo miedo, pero dijo toda la verdad", "Lo cambió para que sonara mejor", "Se lo contó primero a todos"], "correcta": 1, "explicacion": "1 Samuel 3:15-18." },
+            { "texto": "¿Qué significa que Dios no dejó «caer a tierra» ninguna palabra de Samuel?", "opciones": ["Que hablaba bajito", "Que Dios cumplía lo que Samuel anunciaba", "Que nunca hablaba", "Que lo escribía todo"], "correcta": 1, "explicacion": "Por eso todo Israel lo reconoció como profeta (1 Samuel 3:19-20)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "Pon en orden lo que pasó aquella noche.",
+      "niveles": {
+        "3-5": {
+          "items": ["Samuel duerme", "Una voz lo llama", "Samuel dice: «Habla, Señor»"]
+        },
+        "6-8": {
+          "items": [
+            "Samuel duerme junto a la lámpara",
+            "Oye su nombre y corre hacia Elí",
+            "La voz llama otra vez, y otra más",
+            "Elí le enseña qué responder",
+            "Samuel dice: «Habla, que tu siervo escucha»"
+          ]
+        },
+        "9-12": {
+          "items": [
+            "La palabra del Señor es rara en Israel",
+            "Samuel duerme en el templo, cerca del arca",
+            "Tres veces corre hacia Elí",
+            "Elí comprende que llama el Señor",
+            "«Habla, que tu siervo oye»",
+            "Samuel le cuenta toda la verdad a Elí"
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño sepa que Dios lo conoce por su nombre. Y que aprenda a escucharlo en la oración y en la Biblia.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Dios me habla a mí también?",
+        "respuesta": "Sí, aunque casi nunca con una voz que se oye. Nos habla por la Biblia, en la oración, en la conciencia y por personas que nos aman. Como Samuel, podemos decir: «Habla, Señor, que te escucho»."
+      },
+      {
+        "pregunta": "¿Cuál era el mensaje para Elí?",
+        "respuesta": "Los hijos de Elí hacían cosas muy malas y él no los corregía. Dios le anunció una corrección seria. Elí lo aceptó con humildad: «Él es el Señor»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántas veces corrió Samuel hacia Elí, y qué le enseñó Elí a responder?",
+      "sentir": "¿Cómo te sientes cuando alguien te llama por tu nombre con cariño?",
+      "vivir": "Esta semana, ¿en qué momento del día haremos un minuto de silencio para decir: «Habla, Señor»?"
+    },
+    "oracion": "Señor, tú conoces mi nombre. Habla, que te quiero escuchar. Ayúdame a obedecerte y a decir siempre la verdad. Amén.",
+    "gesto": "Antes de dormir, dejen solo una lamparita encendida y hagan un minuto de silencio. Luego digan: «Habla, Señor, que te escucho»."
+  },
+  "estampa": "La lámpara de Samuel"
+}

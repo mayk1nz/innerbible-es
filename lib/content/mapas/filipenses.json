@@ -1,0 +1,177 @@
+{
+  "id": "filipenses",
+  "tipo": "libro",
+  "titulo": "Filipenses",
+  "subtitulo": "Alegría en toda situación",
+  "libro": "Phil",
+  "centro": {
+    "texto": "Aun preso, Pablo tiene alegría porque su vida es Cristo",
+    "textoNino": "Con Jesús podemos estar alegres siempre"
+  },
+  "versiculo": {
+    "texto": "Gozaos en el Señor siempre: otra vez digo: Que os gocéis.",
+    "referencia": "Filipenses 4:4"
+  },
+  "ramas": [
+    {
+      "titulo": "Para mí, vivir es Cristo",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo, preso, da gracias por la iglesia de Filipos, que lo ayudó desde el primer día. Sus cadenas hacen avanzar el evangelio.",
+      "resumenNino": "Pablo está preso, pero sigue feliz porque ama a Jesús.",
+      "hojas": [
+        {
+          "titulo": "Una iglesia amiga",
+          "texto": "Pablo ora con gozo por los filipenses. Está seguro de que Dios terminará la buena obra que empezó en ellos.",
+          "textoNino": "Dios termina lo que empieza en nosotros.",
+          "referencia": "Filipenses 1:3-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Cadenas que ayudan",
+          "texto": "En todo el pretorio se sabe que Pablo está preso por Cristo. Y muchos hermanos se animan a hablar de él sin miedo.",
+          "textoNino": "Aun en la cárcel, Pablo ayuda a otros a hablar de Jesús.",
+          "referencia": "Filipenses 1:12-14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Vivir o morir",
+          "texto": "Pablo no sabe si vivirá o morirá. Dice: «para mí el vivir es Cristo, y el morir es ganancia».",
+          "textoNino": "Para Pablo, lo más importante es Jesús.",
+          "referencia": "Filipenses 1:19-26",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El camino de Jesús",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Pablo pide unidad y humildad, y canta el camino de Jesús: se hizo siervo, obedeció hasta la cruz y Dios lo exaltó. Presenta a Timoteo y a Epafrodito.",
+      "resumenNino": "Jesús se hizo humilde para salvarnos.",
+      "hojas": [
+        {
+          "titulo": "Los demás también importan",
+          "texto": "Nada por rivalidad ni por orgullo. Cada uno piense también en lo que necesitan los demás.",
+          "textoNino": "Pensamos en lo que necesitan los demás.",
+          "referencia": "Filipenses 2:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Jesús se humilló",
+          "texto": "Siendo igual a Dios, Jesús tomó forma de siervo y obedeció hasta la muerte de cruz. Por eso Dios le dio el nombre sobre todo nombre.",
+          "textoNino": "Jesús, siendo Dios, se hizo siervo por amor.",
+          "referencia": "Filipenses 2:5-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Timoteo y Epafrodito",
+          "texto": "Timoteo sirvió con Pablo como un hijo con su padre. Epafrodito arriesgó su vida para servir a Pablo.",
+          "textoNino": "Pablo tiene buenos amigos que lo ayudan.",
+          "referencia": "Filipenses 2:19-30",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Conocer a Cristo",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "Pablo deja atrás todo lo que antes le daba orgullo. Lo cuenta como pérdida al lado de conocer a Cristo, y sigue corriendo hacia la meta.",
+      "resumenNino": "Conocer a Jesús vale más que todo.",
+      "hojas": [
+        {
+          "titulo": "Lo que más vale",
+          "texto": "Lo que Pablo tenía por ganancia, ahora lo cuenta como pérdida, por lo mucho que vale conocer a Cristo.",
+          "textoNino": "Jesús vale más que cualquier tesoro.",
+          "referencia": "Filipenses 3:7-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Prosigo a la meta",
+          "texto": "Pablo olvida lo que queda atrás y se extiende hacia lo que está delante, hacia el premio del llamado de Dios.",
+          "textoNino": "Seguimos adelante, sin rendirnos.",
+          "referencia": "Filipenses 3:12-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Nuestro hogar en el cielo",
+          "texto": "Nuestra casa verdadera está en los cielos. De allí esperamos al Salvador, el Señor Jesucristo.",
+          "textoNino": "Nuestro hogar para siempre está con Jesús.",
+          "referencia": "Filipenses 3:20-21",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Paz y gratitud",
+      "capitulos": "4",
+      "color": "dusk",
+      "resumen": "Pablo pide a dos hermanas que se pongan de acuerdo. Anima a alegrarse siempre y a orar en vez de preocuparse. Agradece la ayuda que le enviaron.",
+      "resumenNino": "Oramos, damos gracias y Dios nos da su paz.",
+      "hojas": [
+        {
+          "titulo": "La paz de Dios",
+          "texto": "No te angusties por nada. Presenta a Dios tus peticiones con gratitud, y su paz guardará tu corazón.",
+          "textoNino": "Cuando tengas miedo, habla con Dios y él te da paz.",
+          "referencia": "Filipenses 4:4-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "En esto pensad",
+          "texto": "Piensa en todo lo verdadero, lo honesto, lo justo, lo puro, lo amable y lo que tiene buen nombre.",
+          "textoNino": "Llenamos la mente de cosas buenas.",
+          "referencia": "Filipenses 4:8-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Todo lo puedo",
+          "texto": "Pablo aprendió a vivir con poco y con mucho. Dice: «Todo lo puedo en Cristo que me fortalece».",
+          "textoNino": "Jesús me da fuerza para todo.",
+          "referencia": "Filipenses 4:11-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una ofrenda de amor",
+          "texto": "Los filipenses envían ayuda a Pablo por medio de Epafrodito. Pablo les dice que Dios suplirá todo lo que les falte.",
+          "textoNino": "Los amigos de Pablo le mandan un regalo.",
+          "referencia": "Filipenses 4:14-20",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Filipenses muestra a Jesús, que siendo igual a Dios se hizo siervo y obedeció hasta la cruz. Dios lo exaltó. Conocerlo es la mayor ganancia, y él da fuerza para todo.",
+    "referencias": ["Filipenses 2:5-11", "Filipenses 3:8", "Filipenses 4:13"]
+  },
+  "paraTuVida": [
+    "Cambia hoy una preocupación por una oración con gratitud, como pide Filipenses 4:6.",
+    "Haz algo por otra persona que no te beneficie a ti."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Dónde estaba Pablo cuando escribió Filipenses?",
+      "opciones": ["En un barco", "Preso", "En su casa de Tarso"],
+      "correcta": 1,
+      "explicacion": "Pablo habla de sus prisiones en Filipenses 1:13. Aun así, la carta está llena de alegría."
+    },
+    {
+      "pregunta": "¿Hasta dónde obedeció Jesús, según Filipenses 2?",
+      "opciones": ["Hasta la muerte de cruz", "Hasta el bautismo", "Hasta la última cena"],
+      "correcta": 0,
+      "explicacion": "Filipenses 2:8 dice que Jesús fue obediente hasta la muerte, y muerte de cruz."
+    },
+    {
+      "pregunta": "¿Quién abrió su casa a Pablo en Filipos, según Hechos 16?",
+      "opciones": ["Lidia", "Marta", "Ester"],
+      "correcta": 0,
+      "explicacion": "Hechos 16:14-15 cuenta que Lidia creyó y recibió a Pablo en su casa."
+    }
+  ],
+  "estudio": ["filipenses"],
+  "conexiones": [
+    { "id": "hechos", "motivo": "Hechos 16 cuenta cómo nació la iglesia de Filipos." },
+    { "id": "colosenses", "motivo": "Otra carta que Pablo escribe desde la prisión." }
+  ]
+}

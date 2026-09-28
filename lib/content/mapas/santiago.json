@@ -1,0 +1,208 @@
+{
+  "id": "santiago",
+  "tipo": "libro",
+  "titulo": "Santiago",
+  "subtitulo": "Una fe que se ve",
+  "libro": "Jas",
+  "centro": {
+    "texto": "La fe verdadera se ve en lo que haces y en cómo hablas",
+    "textoNino": "Si amas a Dios, se nota en lo que haces"
+  },
+  "versiculo": {
+    "texto": "Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "referencia": "Santiago 1:22"
+  },
+  "ramas": [
+    {
+      "titulo": "Pruebas que hacen crecer",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Las pruebas hacen crecer la paciencia. Si te falta sabiduría, pídela a Dios, que da con generosidad. Y no solo escuches la palabra: ponla en práctica.",
+      "resumenNino": "Pide a Dios sabiduría y haz lo que dice la Biblia.",
+      "hojas": [
+        {
+          "titulo": "Santiago, siervo de Dios",
+          "texto": "La carta dice solo «Jacobo, siervo de Dios». Casi todos lo identifican con Santiago, el líder de la iglesia de Jerusalén. Escribe a creyentes dispersos.",
+          "textoNino": "Santiago escribió esta carta a cristianos que vivían lejos.",
+          "referencia": "Santiago 1:1",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Pide sabiduría",
+          "texto": "Las pruebas producen paciencia. Y a quien le falta sabiduría, Dios se la da con generosidad y sin reproches.",
+          "textoNino": "Dios te ayuda a saber qué hacer si se lo pides.",
+          "referencia": "Santiago 1:2-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Todo buen regalo",
+          "texto": "Dios no tienta a nadie. Todo buen regalo viene de él, el Padre de las luces, que nunca cambia.",
+          "textoNino": "Todo lo bueno que tienes viene de Dios.",
+          "referencia": "Santiago 1:13-18",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Oír y hacer",
+          "texto": "Sé pronto para oír y lento para hablar y enojarte. Quien solo oye se parece a quien se mira al espejo y olvida su cara.",
+          "textoNino": "No basta con escuchar; hay que hacer lo que Dios dice.",
+          "referencia": "Santiago 1:19-27",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Una fe con obras",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Dios no hace diferencias entre ricos y pobres, y nosotros tampoco. Una fe que no ayuda al necesitado está muerta. Abraham y Rahab mostraron su fe con hechos.",
+      "resumenNino": "Tratamos igual a todos y ayudamos a quien lo necesita.",
+      "hojas": [
+        {
+          "titulo": "Sin favoritismos",
+          "texto": "Si das el mejor lugar al rico y dejas de pie al pobre, haces diferencias. La ley real dice: «Amarás a tu prójimo como a ti mismo».",
+          "textoNino": "En la iglesia, todos son importantes: ricos y pobres.",
+          "referencia": "Santiago 2:1-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una fe viva",
+          "texto": "Decir «Id en paz» a quien tiene hambre, sin darle nada, no sirve. La fe sin obras está muerta.",
+          "textoNino": "La fe se nota cuando ayudamos a otros.",
+          "referencia": "Santiago 2:14-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Abraham y Rahab",
+          "texto": "Abraham confió y obedeció. Rahab recibió a los mensajeros y los ayudó a escapar. Su fe se vio en lo que hicieron.",
+          "textoNino": "Abraham y Rahab creyeron en Dios y lo mostraron.",
+          "referencia": "Santiago 2:21-26",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Cuida tu lengua",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "La lengua es pequeña como el timón de un barco, pero puede hacer mucho bien o mucho daño. La sabiduría de Dios es pura, pacífica y llena de misericordia.",
+      "resumenNino": "Con la boca podemos bendecir. Usemos palabras buenas.",
+      "hojas": [
+        {
+          "titulo": "Un timón pequeño",
+          "texto": "Un freno guía al caballo y un timón guía al barco. Así la lengua, tan pequeña, puede dirigir toda la vida.",
+          "textoNino": "Las palabras pequeñas pueden cambiar mucho.",
+          "referencia": "Santiago 3:1-5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una sola fuente",
+          "texto": "Con la misma boca bendecimos a Dios y herimos a las personas. Una fuente no da agua dulce y amarga a la vez.",
+          "textoNino": "La misma boca que ora puede hablar con cariño.",
+          "referencia": "Santiago 3:9-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Sabiduría de lo alto",
+          "texto": "La envidia trae desorden. La sabiduría de Dios es pura, pacífica, amable y llena de buenos frutos. Los que hacen la paz siembran justicia.",
+          "textoNino": "Dios nos da sabiduría para vivir en paz.",
+          "referencia": "Santiago 3:13-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Humildes ante Dios",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "Las peleas nacen de deseos egoístas. Dios resiste al orgulloso y da gracia al humilde. Acércate a él y no juzgues a tu hermano.",
+      "resumenNino": "Cuando te acercas a Dios, él se acerca a ti.",
+      "hojas": [
+        {
+          "titulo": "Acércate a Dios",
+          "texto": "«Allegaos a Dios, y él se allegará a vosotros». Dios da más gracia a los humildes y levanta a quien se humilla.",
+          "textoNino": "Si buscas a Dios, él viene a tu encuentro.",
+          "referencia": "Santiago 4:6-10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "No juzgues",
+          "texto": "Hablar mal del hermano es ponerse en el lugar de juez. Solo Dios es juez. ¿Quién eres tú para juzgar a otro?",
+          "textoNino": "No hablamos mal de los demás.",
+          "referencia": "Santiago 4:11-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Si el Señor quiere",
+          "texto": "Hacemos planes, pero no sabemos qué pasará mañana. La vida es como el vapor. Por eso decimos: si el Señor quiere, haremos esto.",
+          "textoNino": "Hacemos planes, pero confiamos en Dios.",
+          "referencia": "Santiago 4:13-17",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Paciencia y oración",
+      "capitulos": "5",
+      "color": "rose",
+      "resumen": "Santiago avisa a los ricos que no pagan a sus obreros. Pide paciencia, como el labrador que espera la lluvia. Y enseña que la oración de fe puede mucho.",
+      "resumenNino": "Esperamos con paciencia y oramos unos por otros.",
+      "hojas": [
+        {
+          "titulo": "Como el labrador",
+          "texto": "El labrador espera con paciencia la lluvia. Así esperamos la venida del Señor. Job también esperó, y Dios fue misericordioso con él.",
+          "textoNino": "Como quien espera que crezca una planta, esperamos a Jesús.",
+          "referencia": "Santiago 5:7-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Que tu sí sea sí",
+          "texto": "No hace falta jurar. Basta con decir la verdad: que tu sí sea sí, y tu no sea no.",
+          "textoNino": "Decimos siempre la verdad.",
+          "referencia": "Santiago 5:12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La oración de fe",
+          "texto": "Si alguien sufre, que ore; si está alegre, que cante. Los ancianos oran por el enfermo y lo ungen con aceite. Elías oró, y Dios respondió.",
+          "textoNino": "Oramos por los enfermos. Dios escucha nuestras oraciones.",
+          "referencia": "Santiago 5:13-18",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Santiago habla poco de la vida de Jesús, pero lo llama «nuestro Señor Jesucristo glorioso». Sus consejos se parecen al Sermón del Monte: oír y hacer, amar al pobre, que el sí sea sí. Y anima a esperar su venida.",
+    "referencias": ["Santiago 2:1", "Mateo 7:24", "Mateo 5:37"]
+  },
+  "paraTuVida": [
+    "Antes de responder con enojo, cuenta hasta diez y escucha primero.",
+    "Esta semana, ayuda con algo concreto a alguien que lo necesita.",
+    "Ora por un enfermo que conozcas y hazle saber que oraste."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Con qué compara Santiago a la lengua?",
+      "opciones": ["Con un timón", "Con una llave", "Con una lámpara"],
+      "correcta": 0,
+      "explicacion": "La lengua es pequeña, como el timón que guía un barco grande (Santiago 3:4-5)."
+    },
+    {
+      "pregunta": "Si te falta sabiduría, ¿qué dice Santiago que hagas?",
+      "opciones": ["Esperar a ser mayor", "Pedírsela a Dios", "Leer muchos libros"],
+      "correcta": 1,
+      "explicacion": "Dios la da a todos con generosidad y sin reproche (Santiago 1:5)."
+    },
+    {
+      "pregunta": "¿Qué profeta oró y no llovió, según Santiago 5 y 1 Reyes 17?",
+      "opciones": ["Elías", "Eliseo", "Jonás"],
+      "correcta": 0,
+      "explicacion": "Elías oró y no llovió en tres años y seis meses (Santiago 5:17; 1 Reyes 17:1)."
+    }
+  ],
+  "estudio": ["santiago"],
+  "conexiones": [
+    { "id": "mateo", "motivo": "El Sermón del Monte tiene muchos ecos en Santiago." },
+    { "id": "proverbios", "motivo": "Sabiduría práctica para la lengua y la vida diaria." }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "rut",
+  "tipo": "libro",
+  "titulo": "Rut",
+  "subtitulo": "Amor fiel en tiempos difíciles",
+  "libro": "Ruth",
+  "centro": {
+    "texto": "Dios cuida en silencio a una familia herida y le da esperanza.",
+    "textoNino": "Dios cuidó de Rut y de Noemí cuando estaban tristes."
+  },
+  "versiculo": {
+    "texto": "Y Ruth respondió: No me ruegues que te deje, y me aparte de ti: porque donde quiera que tú fueres, iré yo; y donde quiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios.",
+    "referencia": "Rut 1:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Tristeza en Moab",
+      "capitulos": "1",
+      "color": "dusk",
+      "resumen": "En tiempos de los jueces, hay hambre en Belén. Noemí se va a Moab, y allí mueren su esposo y sus hijos. Rut, su nuera moabita, no la deja sola.",
+      "resumenNino": "Noemí perdió a su familia, pero Rut se quedó con ella.",
+      "hojas": [
+        {
+          "titulo": "Hambre y pérdida",
+          "texto": "Elimelec y Noemí dejan Belén por el hambre. En Moab, sus hijos se casan con Orfa y Rut. Después, los tres hombres mueren.",
+          "textoNino": "Noemí se quedó sola y muy triste.",
+          "referencia": "Rut 1:1-5",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Tu Dios, mi Dios",
+          "texto": "Noemí quiere volver sola. Orfa se despide, pero Rut se queda: «Tu pueblo será mi pueblo, y tu Dios mi Dios».",
+          "textoNino": "Rut dijo: «Iré contigo a donde vayas».",
+          "referencia": "Rut 1:6-18",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Llamadme Mara",
+          "texto": "Llegan a Belén al comenzar la cosecha de la cebada. Noemí dice: «Yo me fui llena, mas vacía me ha vuelto Jehová».",
+          "textoNino": "Noemí llegó a Belén con el corazón triste.",
+          "referencia": "Rut 1:19-22",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "En el campo de Booz",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Rut sale a recoger espigas para comer. Llega, sin saberlo, al campo de Booz, un pariente de Noemí. Booz la trata con bondad y la protege.",
+      "resumenNino": "Rut recogía trigo, y Booz fue muy bueno con ella.",
+      "hojas": [
+        {
+          "titulo": "Recogiendo espigas",
+          "texto": "La ley permitía al pobre recoger lo que quedaba tras los segadores. Rut trabaja así, y «por ventura» llega al campo de Booz.",
+          "textoNino": "Rut juntaba las espigas que quedaban en el campo.",
+          "referencia": "Rut 2:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Bajo sus alas",
+          "texto": "Booz ha oído del amor de Rut por Noemí. La bendice: ha venido a cubrirse «debajo de sus alas», las alas del Dios de Israel.",
+          "textoNino": "Booz dijo: «Dios te cuida como un ave a sus pollitos».",
+          "referencia": "Rut 2:8-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Uno de nuestros redentores",
+          "texto": "Rut vuelve a casa con mucha cebada. Noemí se alegra y bendice a Dios: Booz es un pariente cercano, «de nuestros redentores».",
+          "textoNino": "Noemí sonrió otra vez: Dios los estaba cuidando.",
+          "referencia": "Rut 2:17-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Una petición valiente",
+      "capitulos": "3",
+      "color": "rose",
+      "resumen": "Noemí busca un hogar para Rut. Rut le pide a Booz que la proteja como pariente cercano. Booz la honra y promete resolverlo de manera justa.",
+      "resumenNino": "Rut le pidió ayuda a Booz, y él prometió ayudarla.",
+      "hojas": [
+        {
+          "titulo": "Extiende tu capa",
+          "texto": "Rut le pide a Booz: «extiende el borde de tu capa sobre tu sierva, por cuanto eres pariente cercano». Es pedirle protección y hogar.",
+          "textoNino": "Rut le pidió a Booz que la cuidara.",
+          "referencia": "Rut 3:1-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Mujer virtuosa",
+          "texto": "Booz la tranquiliza: todo el pueblo sabe que Rut es «mujer virtuosa». Pero hay un pariente más cercano, y Booz quiere hacer las cosas bien.",
+          "textoNino": "Booz dijo que Rut era una mujer muy buena.",
+          "referencia": "Rut 3:10-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Redención y un bebé",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "En la puerta de la ciudad, Booz rescata la tierra de la familia y se casa con Rut. Nace Obed, el abuelo del rey David. Noemí vuelve a tener alegría.",
+      "resumenNino": "Booz y Rut se casaron y tuvieron un bebé llamado Obed.",
+      "hojas": [
+        {
+          "titulo": "En la puerta de la ciudad",
+          "texto": "Ante los ancianos, el otro pariente no quiere redimir. Booz sí: compra la tierra de Elimelec y toma a Rut por esposa.",
+          "textoNino": "Booz pagó por la tierra de la familia de Noemí.",
+          "referencia": "Rut 4:1-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Nace Obed",
+          "texto": "Nace un niño. Las vecinas alaban a Dios y dicen a Noemí que su nuera vale más que siete hijos.",
+          "textoNino": "Noemí tuvo un nieto y volvió a estar feliz.",
+          "referencia": "Rut 4:13-17",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Hasta el rey David",
+          "texto": "El libro termina con una lista: Obed es padre de Isaí, e Isaí es padre de David. Una extranjera entra en la familia del rey.",
+          "textoNino": "Rut fue la bisabuela del rey David.",
+          "referencia": "Rut 4:18-22",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Booz paga el precio para rescatar la tierra y la familia de Noemí. Es una imagen de Jesús, en quien tenemos redención por su sangre. Y Rut, la extranjera, aparece entre los antepasados de Jesús.",
+    "referencias": ["Mateo 1:5", "Efesios 1:7"]
+  },
+  "paraTuVida": [
+    "Acompaña esta semana a alguien que está solo o triste, como Rut con Noemí.",
+    "Cuando no veas a Dios actuar, recuerda que en Rut él obra en silencio."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué hacía Rut en el campo de Booz?",
+      "opciones": ["Cuidaba ovejas", "Recogía espigas", "Sacaba agua"],
+      "correcta": 1,
+      "explicacion": "Rut espigaba en el campo detrás de los segadores (Rut 2:3)."
+    },
+    {
+      "pregunta": "¿Cómo se llamó el hijo de Booz y Rut?",
+      "opciones": ["Obed", "David", "Isaí"],
+      "correcta": 0,
+      "explicacion": "Las vecinas le pusieron por nombre Obed, padre de Isaí, padre de David (Rut 4:17)."
+    },
+    {
+      "pregunta": "¿En qué genealogía del Nuevo Testamento aparece Rut?",
+      "opciones": ["La de Pablo", "La de Juan el Bautista", "La de Jesús"],
+      "correcta": 2,
+      "explicacion": "Mateo 1:5 dice que Booz engendró de Rut a Obed, en la familia de Jesús."
+    }
+  ],
+  "estudio": ["rut"],
+  "conexiones": [
+    { "id": "jueces", "motivo": "Rut vive en el tiempo oscuro de los jueces." },
+    { "id": "1-samuel", "motivo": "El bisnieto de Rut, David, aparece en 1 Samuel." },
+    { "id": "jesus-en-toda-la-biblia", "motivo": "Booz, el pariente redentor, es una imagen de Jesús." }
+  ]
+}

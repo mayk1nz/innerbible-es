@@ -1,0 +1,223 @@
+{
+  "id": "salmos",
+  "tipo": "libro",
+  "titulo": "Salmos",
+  "subtitulo": "Oraciones y cantos para toda la vida",
+  "libro": "Ps",
+  "centro": {
+    "texto": "Los Salmos nos enseñan a hablar con Dios en la alegría y el dolor",
+    "textoNino": "Los Salmos son canciones y oraciones para Dios"
+  },
+  "versiculo": {
+    "texto": "Salmo de David. Jehová es mi pastor; nada me faltará.",
+    "referencia": "Salmos 23:1"
+  },
+  "ramas": [
+    {
+      "titulo": "Libro primero",
+      "capitulos": "1–41",
+      "color": "warm",
+      "resumen": "Casi todos llevan el nombre de David. Hay gritos de auxilio, confianza y alabanza. Empieza con dos caminos y termina con un «Amén y Amén».",
+      "resumenNino": "Aquí están muchas oraciones del rey David.",
+      "hojas": [
+        {
+          "titulo": "Salmo 1: dos caminos",
+          "texto": "Dichoso quien se deleita en la Palabra de Dios: es como un árbol junto al agua. El camino de los malos, en cambio, no lleva a ninguna parte.",
+          "textoNino": "Quien ama la Palabra de Dios es como un árbol fuerte.",
+          "referencia": "Salmos 1",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 19: el cielo habla",
+          "texto": "«Los cielos cuentan la gloria de Dios». La creación habla de él sin palabras, y su Ley alegra el corazón.",
+          "textoNino": "El cielo y las estrellas nos hablan de Dios.",
+          "referencia": "Salmos 19",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 22: un grito",
+          "texto": "Empieza con un clamor: «Dios mío, Dios mío, ¿por qué me has dejado?». Termina con alabanza. Jesús hace suyas estas palabras en la cruz.",
+          "textoNino": "Es una oración muy triste que termina con esperanza.",
+          "referencia": "Salmos 22",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Salmo 23: el pastor",
+          "texto": "Dios cuida como un pastor: da descanso, guía y acompaña incluso en el valle oscuro. Su bien y su misericordia nos siguen siempre.",
+          "textoNino": "Dios me cuida como un pastor cuida a sus ovejas.",
+          "referencia": "Salmos 23",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro segundo",
+      "capitulos": "42–72",
+      "color": "amber",
+      "resumen": "Aparecen los hijos de Coré junto a David. Son oraciones de sed de Dios, de refugio y de perdón. Termina diciendo: «Acábanse las oraciones de David».",
+      "resumenNino": "Oraciones para cuando necesitamos a Dios y su perdón.",
+      "hojas": [
+        {
+          "titulo": "Salmo 42: sed de Dios",
+          "texto": "Como el ciervo busca agua, el alma busca a Dios. En la tristeza, el salmista se habla a sí mismo: «Espera a Dios».",
+          "textoNino": "Necesitamos a Dios como el ciervo necesita agua.",
+          "referencia": "Salmos 42",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 46: nuestro amparo",
+          "texto": "Aunque la tierra tiemble, Dios es refugio y fuerza. Su invitación: «Estad quietos, y conoced que yo soy Dios».",
+          "textoNino": "Cuando tengo miedo, Dios es mi lugar seguro.",
+          "referencia": "Salmos 46",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Salmo 51: un corazón limpio",
+          "texto": "David pide perdón después de su pecado con Betsabé. Ruega: «Crea en mí, oh Dios, un corazón limpio».",
+          "textoNino": "David le pidió a Dios un corazón limpio.",
+          "referencia": "Salmos 51",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro tercero",
+      "capitulos": "73–89",
+      "color": "olive",
+      "resumen": "Muchos son de Asaf y de los hijos de Coré. Hacen preguntas honestas en tiempos difíciles. Aun así, encuentran en Dios su porción y su hogar.",
+      "resumenNino": "Oraciones de quienes tenían preguntas y buscaron a Dios.",
+      "hojas": [
+        {
+          "titulo": "Salmo 73: en el santuario",
+          "texto": "Asaf siente envidia al ver que a los malos les va bien. Todo cambia cuando entra en la casa de Dios: Dios es su porción para siempre.",
+          "textoNino": "Asaf estaba confundido hasta que se acercó a Dios.",
+          "referencia": "Salmos 73",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 84: un día contigo",
+          "texto": "El salmista anhela la casa de Dios: «mejor es un día en tus atrios que mil fuera de ellos».",
+          "textoNino": "Estar con Dios un día es mejor que mil días lejos.",
+          "referencia": "Salmos 84",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Salmo 89: el pacto con David",
+          "texto": "Canta las misericordias de Dios y su promesa a David: un trono firme por todas las generaciones.",
+          "textoNino": "Dios prometió a David un rey para siempre.",
+          "referencia": "Salmos 89",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro cuarto",
+      "capitulos": "90–106",
+      "color": "rose",
+      "resumen": "Empieza con una oración de Moisés. Mira la historia de Israel y proclama que Dios reina. Invita a toda la tierra a cantar y a bendecir al Señor.",
+      "resumenNino": "Cantos para decir que Dios es rey y es bueno.",
+      "hojas": [
+        {
+          "titulo": "Salmo 90: contar los días",
+          "texto": "Moisés ora: Dios es nuestro refugio de generación en generación. Pide aprender a contar nuestros días para tener un corazón sabio.",
+          "textoNino": "Moisés le pidió a Dios aprender a usar bien cada día.",
+          "referencia": "Salmos 90",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Salmo 91: bajo sus alas",
+          "texto": "Quien vive al abrigo del Altísimo puede decir: «Esperanza mía, y castillo mío». Dios lo cubre como un ave a sus crías.",
+          "textoNino": "Dios me cuida como un pájaro cuida a sus pollitos.",
+          "referencia": "Salmos 91",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Salmo 100: canten con alegría",
+          "texto": "Toda la tierra está invitada a servir a Dios con alegría. Somos su pueblo y ovejas de su prado. Él es bueno para siempre.",
+          "textoNino": "¡Cantemos a Dios con alegría!",
+          "referencia": "Salmos 100",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 103: no olvides",
+          "texto": "«Bendice, alma mía, a Jehová». David recuerda los beneficios de Dios: perdona, sana, rescata y corona de misericordia.",
+          "textoNino": "David le dio gracias a Dios por todo lo bueno.",
+          "referencia": "Salmos 103",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro quinto",
+      "capitulos": "107–150",
+      "color": "dawn",
+      "resumen": "Incluye los cantos para subir a Jerusalén y el salmo más largo, sobre la Palabra. Crece la alabanza hasta el final: todo lo que respira alabe al Señor.",
+      "resumenNino": "Aquí la Biblia canta cada vez más fuerte a Dios.",
+      "hojas": [
+        {
+          "titulo": "Salmo 119: la Palabra",
+          "texto": "Es el salmo más largo, y cada estrofa ama la Palabra de Dios: «Lámpara es a mis pies tu palabra».",
+          "textoNino": "La Biblia es como una linterna para mi camino.",
+          "referencia": "Salmos 119",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 121: mi socorro",
+          "texto": "Un canto de viajeros: «Mi socorro viene de Jehová, que hizo los cielos y la tierra». Dios no duerme; guarda tu salida y tu entrada.",
+          "textoNino": "Dios me cuida de día y de noche.",
+          "referencia": "Salmos 121",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Salmo 139: me conoces",
+          "texto": "Dios conoce cada pensamiento y cada paso. Nos formó en el vientre de nuestra madre. No hay lugar donde él no esté.",
+          "textoNino": "Dios me conoce y me hizo con amor.",
+          "referencia": "Salmos 139",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Salmo 150: ¡Aleluya!",
+          "texto": "El último salmo es pura alabanza, con trompeta, arpa y flauta. Termina así: «Todo lo que respira alabe a JAH. Aleluya».",
+          "textoNino": "¡Todo lo que respira alabe a Dios!",
+          "referencia": "Salmos 150",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús dice que los Salmos hablan de él. En la cruz ora con el Salmo 22: «Dios mío, Dios mío». Y él es el buen pastor que da su vida por las ovejas.",
+    "referencias": ["Lucas 24:44", "Mateo 27:46", "Juan 10:11"]
+  },
+  "paraTuVida": [
+    "Lee un salmo cada día esta semana, en voz alta y sin prisa.",
+    "Cuando no sepas cómo orar, usa las palabras de un salmo como tu oración.",
+    "Si estás triste, lee el Salmo 42 y dile a tu alma: «Espera a Dios»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo empieza el Salmo 23?",
+      "opciones": ["«Jehová es mi pastor»", "«Alzaré mis ojos a los montes»", "«Bendice, alma mía»"],
+      "correcta": 0,
+      "explicacion": "El Salmo 23 compara a Dios con un pastor que cuida a sus ovejas (Salmos 23:1)."
+    },
+    {
+      "pregunta": "¿En cuántos libros se agrupan los Salmos?",
+      "opciones": ["Tres", "Cinco", "Siete"],
+      "correcta": 1,
+      "explicacion": "Son cinco libros. Cada uno termina con una alabanza, como el «Amén y Amén» de Salmos 41:13."
+    },
+    {
+      "pregunta": "¿Qué salmo repitió Jesús en la cruz al decir «Dios mío, Dios mío»?",
+      "opciones": ["El Salmo 1", "El Salmo 150", "El Salmo 22"],
+      "correcta": 2,
+      "explicacion": "Jesús clamó con las palabras del Salmo 22:1 (Mateo 27:46)."
+    }
+  ],
+  "estudio": ["salmos", "numeros"],
+  "conexiones": [
+    { "id": "2-samuel", "motivo": "Allí se cuenta la vida de David, autor de muchos salmos." },
+    { "id": "1-cronicas", "motivo": "David organiza a los cantores, como Asaf." },
+    { "id": "proverbios", "motivo": "Otro libro de poesía y sabiduría de Israel." }
+  ]
+}

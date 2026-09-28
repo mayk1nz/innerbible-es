@@ -1,0 +1,268 @@
+{
+  "id": "hechos",
+  "tipo": "libro",
+  "titulo": "Hechos",
+  "subtitulo": "La buena noticia llega hasta Roma",
+  "libro": "Acts",
+  "centro": {
+    "texto": "El Espíritu Santo impulsa a la Iglesia a llevar a Jesús al mundo",
+    "textoNino": "El Espíritu Santo ayuda a los amigos de Jesús a contarlo"
+  },
+  "versiculo": {
+    "texto": "Mas recibiréis la virtud del Espíritu Santo que vendrá sobre vosotros; y me sereís testigos en Jerusalem, y en toda Judea, y Samaria, y hasta lo último de la tierra.",
+    "referencia": "Hechos 1:8"
+  },
+  "ramas": [
+    {
+      "titulo": "Jerusalén",
+      "capitulos": "1–7",
+      "color": "warm",
+      "resumen": "Jesús sube al cielo y el Espíritu Santo llega en Pentecostés. Nace la Iglesia en Jerusalén: oran, lo comparten todo y anuncian a Jesús con valor.",
+      "resumenNino": "El Espíritu Santo llega, y nace la Iglesia en Jerusalén.",
+      "hojas": [
+        {
+          "titulo": "Monte de los Olivos",
+          "texto": "Jesús promete el Espíritu y sube al cielo ante sus apóstoles. Dos varones vestidos de blanco anuncian que volverá.",
+          "textoNino": "Jesús sube al cielo y promete volver.",
+          "referencia": "Hechos 1:6-12",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Pentecostés",
+          "texto": "El Espíritu Santo viene sobre los discípulos como lenguas de fuego. Pedro anuncia a Jesús, y unas tres mil personas se bautizan.",
+          "textoNino": "El Espíritu Santo llega y muchos creen en Jesús.",
+          "referencia": "Hechos 2:1-41",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una comunidad que comparte",
+          "texto": "Los creyentes perseveran en la enseñanza de los apóstoles, en la comunión, en el partimiento del pan y en las oraciones.",
+          "textoNino": "Los amigos de Jesús oran y comparten todo.",
+          "referencia": "Hechos 2:42-47",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Esteban",
+          "texto": "Esteban, lleno del Espíritu, habla de Jesús con valor. Lo condenan, y él muere perdonando: «Señor, no les imputes este pecado».",
+          "textoNino": "Esteban ama a Jesús y perdona a los que le hacen daño.",
+          "referencia": "Hechos 6:8–7:60",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Judea y Samaria",
+      "capitulos": "8–12",
+      "color": "amber",
+      "resumen": "La persecución dispersa a los creyentes, y la buena noticia sale de Jerusalén. Llega a Samaria, a Saulo en Damasco y a los que no son judíos.",
+      "resumenNino": "La buena noticia viaja a nuevos lugares.",
+      "hojas": [
+        {
+          "titulo": "Samaria",
+          "texto": "Felipe anuncia a Cristo en la ciudad de Samaria. Muchos enfermos sanan, y hay gran gozo en aquella ciudad.",
+          "textoNino": "Felipe cuenta de Jesús en Samaria, y la gente se alegra.",
+          "referencia": "Hechos 8:4-8",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Damasco",
+          "texto": "Saulo persigue a los creyentes. Jesús se le aparece en el camino, y en Damasco Ananías le devuelve la vista.",
+          "textoNino": "Jesús cambia el corazón de Saulo.",
+          "referencia": "Hechos 9:1-19",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Cesarea",
+          "texto": "Pedro visita al centurión Cornelio. El Espíritu Santo viene sobre personas que no son judías, y Pedro entiende que Dios recibe a todos.",
+          "textoNino": "Dios muestra a Pedro que ama a todos los pueblos.",
+          "referencia": "Hechos 10:1-48",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Antioquía",
+          "texto": "Nace una iglesia de judíos y griegos. Allí, por primera vez, llaman «cristianos» a los discípulos.",
+          "textoNino": "En Antioquía empiezan a llamarlos cristianos.",
+          "referencia": "Hechos 11:19-26",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Primer viaje de Pablo",
+      "capitulos": "13–14",
+      "color": "dawn",
+      "resumen": "La iglesia de Antioquía envía a Bernabé y a Saulo, también llamado Pablo. Anuncian a Jesús en Chipre y en ciudades de Asia Menor.",
+      "resumenNino": "Pablo y Bernabé viajan para contar de Jesús.",
+      "hojas": [
+        {
+          "titulo": "Chipre",
+          "texto": "En Pafos, el procónsul Sergio Paulo escucha la enseñanza del Señor y cree.",
+          "textoNino": "Un gobernador de una isla cree en Jesús.",
+          "referencia": "Hechos 13:4-12",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Antioquía de Pisidia",
+          "texto": "Pablo predica en la sinagoga. Muchos que no son judíos se alegran al saber que la salvación es también para ellos.",
+          "textoNino": "Mucha gente se alegra al oír de Jesús.",
+          "referencia": "Hechos 13:14-49",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Listra",
+          "texto": "Pablo sana a un hombre cojo de nacimiento. La gente quiere adorarlos, y ellos dicen que solo son hombres como ellos.",
+          "textoNino": "Un hombre que no podía caminar salta de alegría.",
+          "referencia": "Hechos 14:8-18",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Concilio y segundo viaje",
+      "capitulos": "15–18",
+      "color": "olive",
+      "resumen": "En Jerusalén, los apóstoles reconocen que todos se salvan por la gracia del Señor Jesús. Después, Pablo y Silas cruzan a Europa.",
+      "resumenNino": "Pablo lleva la buena noticia a Europa.",
+      "hojas": [
+        {
+          "titulo": "El concilio de Jerusalén",
+          "texto": "Los apóstoles y los ancianos se reúnen para escuchar y decidir juntos. Envían una carta a los creyentes que no son judíos.",
+          "textoNino": "Los apóstoles se reúnen y deciden juntos.",
+          "referencia": "Hechos 15:1-29",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Filipos",
+          "texto": "Lidia abre su corazón y su casa. En la cárcel, Pablo y Silas cantan de noche, y el carcelero cree con su familia.",
+          "textoNino": "Pablo y Silas cantan en la cárcel.",
+          "referencia": "Hechos 16:11-34",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Atenas",
+          "texto": "En el Areópago, Pablo habla del Dios que hizo el mundo y no habita en templos hechos por manos humanas.",
+          "textoNino": "Pablo habla del Dios que hizo todo el mundo.",
+          "referencia": "Hechos 17:16-34",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Corinto",
+          "texto": "Pablo trabaja haciendo tiendas con Aquila y Priscila. Se queda un año y seis meses enseñando la palabra de Dios.",
+          "textoNino": "Pablo trabaja y enseña en Corinto.",
+          "referencia": "Hechos 18:1-11",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Tercer viaje de Pablo",
+      "capitulos": "18–20",
+      "color": "rose",
+      "resumen": "Pablo pasa unos tres años en Éfeso, y la palabra se extiende por Asia. Luego visita las iglesias y se despide de ellas con lágrimas.",
+      "resumenNino": "Pablo enseña en Éfeso y se despide de sus amigos.",
+      "hojas": [
+        {
+          "titulo": "Éfeso",
+          "texto": "Pablo enseña cada día en la escuela de Tirano. Muchos que practicaban magia traen sus libros y los queman.",
+          "textoNino": "En Éfeso, muchos dejan la magia para seguir a Jesús.",
+          "referencia": "Hechos 19:8-20",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Troas",
+          "texto": "Un joven, Eutico, se duerme en la ventana y cae. Pablo lo abraza, y el joven vuelve a vivir.",
+          "textoNino": "Un joven se cae, y Dios le devuelve la vida.",
+          "referencia": "Hechos 20:7-12",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Mileto",
+          "texto": "Pablo se despide de los ancianos de Éfeso. Les recuerda las palabras de Jesús: «Más bienaventurada cosa es dar que recibir».",
+          "textoNino": "Pablo se despide de sus amigos con un abrazo.",
+          "referencia": "Hechos 20:17-38",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Preso, hasta Roma",
+      "capitulos": "21–28",
+      "color": "dusk",
+      "resumen": "Pablo es arrestado en Jerusalén y habla de Jesús ante gobernadores y reyes. Tras un naufragio, llega a Roma y sigue anunciando el reino de Dios.",
+      "resumenNino": "Pablo viaja preso a Roma y sigue hablando de Jesús.",
+      "hojas": [
+        {
+          "titulo": "Jerusalén",
+          "texto": "Una multitud se alborota contra Pablo en el templo. Los soldados romanos lo arrestan, y él cuenta cómo conoció a Jesús.",
+          "textoNino": "Arrestan a Pablo, y él cuenta su historia con Jesús.",
+          "referencia": "Hechos 21:27–22:21",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Cesarea",
+          "texto": "Pablo pasa dos años preso. Habla de Jesús ante el gobernador Félix, ante Festo y ante el rey Agripa.",
+          "textoNino": "Pablo habla de Jesús a gobernantes importantes.",
+          "referencia": "Hechos 24:1–26:32",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Malta",
+          "texto": "El barco se rompe, pero todos llegan a tierra sanos y salvos. En la isla, Pablo sana a muchos enfermos.",
+          "textoNino": "El barco se rompe, pero Dios salva a todos.",
+          "referencia": "Hechos 27:39–28:10",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Roma",
+          "texto": "Pablo vive dos años en una casa alquilada. Recibe a todos y predica el reino de Dios «con toda libertad».",
+          "textoNino": "En Roma, Pablo recibe a todos y les habla de Jesús.",
+          "referencia": "Hechos 28:16-31",
+          "tipo": "lugar"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "En Hechos, Jesús sigue obrando por su Espíritu. Sube al cielo, derrama el Espíritu Santo y sale al encuentro de Saulo. Los apóstoles anuncian que en su nombre hay salvación para todos.",
+    "referencias": ["Hechos 1:8", "Hechos 4:12", "Hechos 9:5"]
+  },
+  "paraTuVida": [
+    "Piensa en tu «Jerusalén»: ¿a quién cercano puedes hablar hoy de Jesús?",
+    "Esta semana, ora con otras personas, como la primera Iglesia.",
+    "Abre tu casa a alguien, como Lidia en Filipos."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En qué fiesta llegó el Espíritu Santo sobre los discípulos?",
+      "opciones": ["Pentecostés", "La Pascua", "Los Tabernáculos"],
+      "correcta": 0,
+      "explicacion": "Hechos 2:1-4 cuenta que el Espíritu Santo vino el día de Pentecostés."
+    },
+    {
+      "pregunta": "¿Dónde llamaron «cristianos» por primera vez a los discípulos?",
+      "opciones": ["En Roma", "En Antioquía", "En Atenas"],
+      "correcta": 1,
+      "explicacion": "Hechos 11:26 dice que fue en Antioquía."
+    },
+    {
+      "pregunta": "¿A quién se dirigen Hechos y el Evangelio de Lucas?",
+      "opciones": ["A Teófilo", "A Timoteo", "A Filemón"],
+      "correcta": 0,
+      "explicacion": "Hechos 1:1 recuerda un «primer tratado» a Teófilo. Lucas 1:3 también se dirige a él."
+    }
+  ],
+  "estudio": [
+    "resurreccion",
+    "hechos-1-7",
+    "hechos-8-12",
+    "hechos-13-14",
+    "hechos-15-18",
+    "hechos-18-20",
+    "hechos-21-28"
+  ],
+  "conexiones": [
+    { "id": "lucas", "motivo": "El mismo autor cuenta antes la vida de Jesús." },
+    { "id": "romanos", "motivo": "Pablo escribe a Roma antes de llegar allí." },
+    { "id": "filipenses", "motivo": "Años después, Pablo escribe a la iglesia de Filipos." }
+  ]
+}

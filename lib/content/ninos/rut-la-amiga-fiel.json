@@ -1,0 +1,121 @@
+{
+  "id": "rut-la-amiga-fiel",
+  "titulo": "Rut, la amiga fiel",
+  "referencia": "Rut 1",
+  "estudio": "rut",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "noemi-triste",
+      "texto": {
+        "3-5": "Noemí vivía lejos de su tierra. Sus hijos se casaron con Orfa y con Rut. Su esposo y sus hijos murieron, y Noemí quedó muy triste.",
+        "6-8": "Hubo hambre en Belén, y Noemí se fue a Moab con su familia. Allí sus dos hijos se casaron con Orfa y con Rut. Pero el esposo de Noemí murió, y después también sus hijos. Las tres mujeres quedaron solas y muy tristes.",
+        "9-12": "En tiempos de los jueces hubo hambre en Belén. Elimelec emigró a Moab con su esposa Noemí y sus dos hijos. Los hijos se casaron con dos moabitas, Orfa y Rut. Con los años murieron Elimelec y sus dos hijos. Tres viudas quedaron solas, sin nadie que las protegiera."
+      }
+    },
+    {
+      "id": "no-te-dejo",
+      "texto": {
+        "3-5": "Noemí volvió a su tierra. Rut le dijo: «¡No te dejo! Iré contigo».",
+        "6-8": "Noemí decidió volver a Belén y les dijo a sus nueras: «Vuelvan a la casa de sus madres». Orfa, llorando, se despidió. Pero Rut abrazó a Noemí: «Donde tú vayas, iré yo. Tu pueblo será mi pueblo, y tu Dios será mi Dios».",
+        "9-12": "Noemí decidió volver a Belén y pidió a sus nueras que se quedaran en Moab. Orfa se despidió con un beso. Rut, en cambio, no la soltó: «Tu pueblo será mi pueblo, y tu Dios mi Dios» (Rut 1:16). Era una decisión de amor y de fe."
+      }
+    },
+    {
+      "id": "espigas",
+      "texto": {
+        "3-5": "En Belén, Rut juntaba espigas en el campo. ¡Trabajaba mucho para cuidar a Noemí!",
+        "6-8": "Llegaron a Belén cuando empezaba la cosecha de cebada. Eran pobres, así que Rut fue al campo a recoger las espigas que los segadores dejaban caer. Sin saberlo, llegó al campo de Booz, un pariente de Noemí.",
+        "9-12": "Llegaron a Belén al comenzar la siega de la cebada. La ley de Dios permitía a los pobres recoger lo que quedaba tras los segadores (Levítico 19:9-10). Rut salió a espigar y, «por ventura», llegó al campo de Booz, pariente de Elimelec (Rut 2:3)."
+      }
+    },
+    {
+      "id": "booz",
+      "texto": {
+        "3-5": "El dueño del campo se llamaba Booz. ¡Era muy bueno! Le dio agua y pan. ¡Y dejó caer más espigas para ella!",
+        "6-8": "Booz supo cuánto había cuidado Rut a Noemí. Le dijo: «Quédate en mi campo. Si tienes sed, bebe de nuestra agua». Le dio pan en la comida y pidió a sus trabajadores dejar caer espigas a propósito. ¡Rut volvió a casa con muchísima cebada!",
+        "9-12": "Booz ya sabía todo lo que Rut había hecho por su suegra. La bendijo: que Dios te recompense, pues viniste a refugiarte «debajo de sus alas» (Rut 2:12). La invitó a comer y ordenó a sus criados dejar caer espigas para ella. Esa tarde, Rut llevó a casa unos veinte litros de cebada."
+      }
+    },
+    {
+      "id": "obed",
+      "texto": {
+        "3-5": "Booz y Rut se casaron. ¡Nació un bebé llamado Obed! Noemí sonrió otra vez.",
+        "6-8": "Booz, como pariente cercano, decidió cuidar de la familia y se casó con Rut. Dios les dio un hijo: Obed. Noemí lo tomó en sus brazos, feliz. ¡Obed sería el abuelo del rey David!",
+        "9-12": "Booz actuó como pariente redentor: rescató la herencia de la familia y se casó con Rut (Rut 4:9-10). Dios les dio un hijo, Obed, y Noemí lo tuvo en su regazo. La que había vuelto «vacía» ahora estaba llena de alegría. Obed fue el abuelo del rey David, antepasado de Jesús."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Un buen amigo no te deja solo.", "referencia": "Rut 1:16", "fuente": "adaptado" },
+    "6-8": { "texto": "Donde tú vayas, iré yo; tu Dios será mi Dios.", "referencia": "Rut 1:16", "fuente": "adaptado" },
+    "9-12": { "texto": "En todo tiempo ama el amigo; y el hermano para la angustia es nacido.", "referencia": "Proverbios 17:17", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre Rut.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Rut dejó sola a Noemí.", "verdadera": false, "porque": "Rut se quedó con ella: ¡fue una amiga fiel!" },
+            { "texto": "Rut recogía espigas en el campo.", "verdadera": true, "porque": "Trabajaba para que Noemí y ella tuvieran pan." },
+            { "texto": "Booz fue malo con Rut.", "verdadera": false, "porque": "Booz fue muy bueno: le dio agua, pan y espigas." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Noemí y su familia se fueron a Moab porque había hambre.", "verdadera": true, "porque": "En Belén no había comida." },
+            { "texto": "Orfa y Rut se quedaron las dos con Noemí.", "verdadera": false, "porque": "Orfa regresó a su casa; Rut se quedó." },
+            { "texto": "Rut dijo: «Tu Dios será mi Dios».", "verdadera": true, "porque": "Rut decidió seguir al Dios de Noemí." },
+            { "texto": "Rut trabajó recogiendo espigas para cuidar a Noemí.", "verdadera": true, "porque": "Así tenían pan las dos." },
+            { "texto": "Booz pidió que no dejaran caer ni una espiga.", "verdadera": false, "porque": "Pidió dejar caer espigas a propósito para ella." },
+            { "texto": "El bebé de Rut y Booz se llamó David.", "verdadera": false, "porque": "Se llamó Obed; David fue su nieto." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Elimelec y Noemí eran de Belén de Judá.", "verdadera": true, "porque": "Así lo dice Rut 1:1-2." },
+            { "texto": "Rut era israelita, igual que Noemí.", "verdadera": false, "porque": "Rut era moabita, una extranjera (Rut 1:4; 2:10)." },
+            { "texto": "Noemí pidió que la llamaran Mara, que significa «amarga».", "verdadera": true, "porque": "Estaba muy dolida por sus pérdidas (Rut 1:20)." },
+            { "texto": "Llegaron a Belén al terminar la cosecha.", "verdadera": false, "porque": "Llegaron al comenzar la siega de la cebada (Rut 1:22)." },
+            { "texto": "Booz sabía cómo Rut había cuidado a su suegra.", "verdadera": true, "porque": "Se lo habían contado todo (Rut 2:11)." },
+            { "texto": "Un «pariente redentor» ayudaba a rescatar la tierra y la familia de un pariente.", "verdadera": true, "porque": "Eso hizo Booz ante los ancianos (Rut 4:9-10)." },
+            { "texto": "Obed fue el padre del rey David.", "verdadera": false, "porque": "Fue su abuelo: Obed, Isaí, David (Rut 4:17)." },
+            { "texto": "Rut aparece en la genealogía de Jesús.", "verdadera": true, "porque": "Mateo 1:5 la nombra." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas en el campo de Booz.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["RUT", "PAN", "BOOZ"], "diagonales": false, "seed": 181 },
+        "6-8": { "tamano": 6, "palabras": ["RUT", "NOEMÍ", "BOOZ", "ESPIGA"], "diagonales": false, "seed": 182 },
+        "9-12": { "tamano": 10, "palabras": ["RUT", "NOEMÍ", "BOOZ", "ORFA", "BELÉN", "CEBADA", "ESPIGAS", "OBED"], "diagonales": true, "seed": 183 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño aprenda qué es ser un amigo fiel y descubra que Dios cuida a quien está triste o solo.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué murieron el esposo y los hijos de Noemí?",
+        "respuesta": "La Biblia no lo explica. A veces pasan cosas tristes que no entendemos. Lo que sí vemos es que Dios no abandonó a Noemí: le dio a Rut, a Booz y un nieto."
+      },
+      {
+        "pregunta": "¿Qué quiere decir que Rut era «extranjera»?",
+        "respuesta": "Rut venía de Moab, otro pueblo. Aun así, Dios la recibió con amor y la hizo parte de la familia de Jesús. En la familia de Dios hay lugar para todos."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué le prometió Rut a Noemí cuando decidió quedarse con ella?",
+      "sentir": "¿Cómo crees que se sintió Noemí cuando Rut no la dejó sola? ¿Quién te acompaña a ti cuando estás triste?",
+      "vivir": "¿A quién podemos acompañar esta semana: un abuelo, un vecino o un compañero que esté solo?"
+    },
+    "oracion": "Señor, gracias por los amigos fieles. Ayúdanos a ser buenos amigos y a cuidar a quien está triste o solo. Amén.",
+    "gesto": "Esta semana, visiten o llamen a alguien mayor de la familia o del barrio, como Rut cuidó a Noemí."
+  },
+  "estampa": "La espiga de Rut"
+}

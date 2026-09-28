@@ -1,0 +1,167 @@
+{
+  "id": "abdias",
+  "tipo": "libro",
+  "titulo": "Abdías",
+  "subtitulo": "Dios ve la injusticia",
+  "libro": "Obad",
+  "centro": {
+    "texto": "Dios humilla al orgulloso y al final el reino será suyo",
+    "textoNino": "Dios ve cuando alguien sufre, y lo defiende"
+  },
+  "versiculo": {
+    "texto": "Y vendrán salvadores al monte de Sión para juzgar al monte de Esaú; y el reino será de Jehová.",
+    "referencia": "Abdías 1:21"
+  },
+  "ramas": [
+    {
+      "titulo": "El orgullo de Edom",
+      "capitulos": "1:1-4",
+      "color": "amber",
+      "resumen": "Abdías habla contra Edom, el pueblo vecino de Judá. La mayoría lo une a la caída de Jerusalén (c. 586 a.C.); otros lo sitúan antes.",
+      "resumenNino": "Abdías habló a un pueblo muy orgulloso.",
+      "hojas": [
+        {
+          "titulo": "El libro más corto",
+          "texto": "Abdías es el libro más corto del Antiguo Testamento: un solo capítulo. Solo sabemos el nombre del profeta, que significa siervo del Señor.",
+          "textoNino": "Es el libro más cortito del Antiguo Testamento.",
+          "referencia": "Abdías 1:1",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un nido entre las estrellas",
+          "texto": "Edom vive en montañas de roca y se cree seguro. Pero su orgullo lo engaña: aunque haga su nido entre las estrellas, Dios lo bajará.",
+          "textoNino": "Nadie es más alto que Dios, aunque viva en las montañas.",
+          "referencia": "Abdías 1:2-4",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Amigos que engañan",
+      "capitulos": "1:5-9",
+      "color": "olive",
+      "resumen": "Edom confía en sus sabios y en sus aliados. Pero esos amigos lo traicionan, y su sabiduría no lo salva.",
+      "resumenNino": "Los amigos de Edom no lo ayudaron.",
+      "hojas": [
+        {
+          "titulo": "Todo queda al descubierto",
+          "texto": "Hasta los ladrones dejan algo. Pero a Edom le buscarán todo lo que tiene escondido.",
+          "textoNino": "Lo que Edom escondía se descubrió.",
+          "referencia": "Abdías 1:5-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Los que comían tu pan",
+          "texto": "Los aliados de Edom lo engañan y le ponen una trampa. La confianza puesta fuera de Dios falla.",
+          "textoNino": "Es mejor confiar en Dios que en otros.",
+          "referencia": "Abdías 1:7-9",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El mal hecho al hermano",
+      "capitulos": "1:10-14",
+      "color": "rose",
+      "resumen": "Edom viene de Esaú, y Judá de Jacob: son pueblos hermanos. Cuando Jerusalén cae, Edom no ayuda. Mira, se alegra y se aprovecha.",
+      "resumenNino": "Edom no ayudó a su hermano cuando sufría.",
+      "hojas": [
+        {
+          "titulo": "Tu hermano Jacob",
+          "texto": "Dios recuerda que Jacob y Esaú eran hermanos. Por el mal que Edom hizo a su hermano, le cubrirá la vergüenza.",
+          "textoNino": "Jacob y Esaú eran hermanos. Sus pueblos también.",
+          "referencia": "Abdías 1:10-11",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "No debiste mirar",
+          "texto": "Edom miró desde lejos, se alegró del mal ajeno y tomó lo que quedaba. Dios dice: no debiste hacerlo en el día de su angustia.",
+          "textoNino": "No hay que reírse cuando otro sufre.",
+          "referencia": "Abdías 1:12-14",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Salvación en Sion",
+      "capitulos": "1:15-18",
+      "color": "dusk",
+      "resumen": "Se acerca el día del Señor para todas las naciones. Lo que cada uno hizo volverá sobre él. Pero en Sion habrá salvación.",
+      "resumenNino": "Dios cuidará a su pueblo en su monte.",
+      "hojas": [
+        {
+          "titulo": "Como tú hiciste",
+          "texto": "Dios dice a Edom: «como tú hiciste se hará contigo». Dios es justo y ve cada injusticia.",
+          "textoNino": "Dios ve todo lo que hacemos.",
+          "referencia": "Abdías 1:15-16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un monte santo",
+          "texto": "En el monte de Sion habrá salvación y santidad. La casa de Jacob recibirá otra vez su herencia.",
+          "textoNino": "En el monte de Dios habrá salvación.",
+          "referencia": "Abdías 1:17-18",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El reino será del Señor",
+      "capitulos": "1:19-21",
+      "color": "dawn",
+      "resumen": "El libro no termina en castigo. Los cautivos vuelven a su tierra, y la última palabra es de esperanza.",
+      "resumenNino": "Al final, Dios será el rey de todos.",
+      "hojas": [
+        {
+          "titulo": "Los cautivos vuelven",
+          "texto": "Los que fueron llevados lejos, hasta Sefarad, volverán a poseer las ciudades del sur. Dios devuelve la tierra a su pueblo.",
+          "textoNino": "Los que estaban lejos volvieron a casa.",
+          "referencia": "Abdías 1:19-20",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El Señor reina",
+          "texto": "Vendrán salvadores al monte de Sion. Y la última frase del libro es una promesa: «el reino será de Jehová».",
+          "textoNino": "Dios es el Rey para siempre.",
+          "referencia": "Abdías 1:21",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Abdías termina con una promesa: el reino será del Señor. Jesús empieza a predicar diciendo que el reino de Dios está cerca. Y el Apocalipsis canta que los reinos del mundo son de nuestro Señor y de su Cristo.",
+    "referencias": ["Marcos 1:15", "Apocalipsis 11:15"]
+  },
+  "paraTuVida": [
+    "Cuando a alguien le vaya mal, no mires de lejos: ofrece ayuda.",
+    "Si guardas rencor a un familiar, pídele a Dios un corazón de hermano.",
+    "Entrega a Dios una injusticia que viste: él la ve también."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos capítulos tiene el libro de Abdías?",
+      "opciones": ["Uno", "Tres", "Doce"],
+      "correcta": 0,
+      "explicacion": "Abdías tiene un solo capítulo de 21 versículos: es el libro más corto del Antiguo Testamento."
+    },
+    {
+      "pregunta": "¿De qué hermano de Jacob viene el pueblo de Edom?",
+      "opciones": ["José", "Esaú", "Rubén"],
+      "correcta": 1,
+      "explicacion": "Edom viene de Esaú; por eso Abdías habla de «tu hermano Jacob» (Abdías 1:10)."
+    },
+    {
+      "pregunta": "¿Qué anunció Jesús al empezar a predicar, como promete Abdías 21?",
+      "opciones": ["Una nueva ciudad", "Un nuevo templo", "Que el reino de Dios está cerca"],
+      "correcta": 2,
+      "explicacion": "Abdías dice que el reino será del Señor. Jesús anunció: «el reino de Dios está cerca» (Marcos 1:15)."
+    }
+  ],
+  "estudio": ["abdias", "2-reyes-24-25"],
+  "conexiones": [
+    { "id": "genesis", "motivo": "Allí empieza la historia de Jacob y Esaú." },
+    { "id": "lamentaciones", "motivo": "También llora la caída de Jerusalén." },
+    { "id": "jonas", "motivo": "Otro profeta que habla a un pueblo extranjero." }
+  ]
+}

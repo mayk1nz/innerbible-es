@@ -1,0 +1,164 @@
+{
+  "id": "2-pedro",
+  "tipo": "libro",
+  "titulo": "2 Pedro",
+  "subtitulo": "Crecer y no olvidar",
+  "libro": "2Pet",
+  "centro": {
+    "texto": "Crece en la fe y espera sin miedo: Dios cumple su promesa con paciencia",
+    "textoNino": "Dios siempre cumple lo que promete. Seguimos creciendo con él"
+  },
+  "versiculo": {
+    "texto": "Mas creced en la gracia y conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén.",
+    "referencia": "2 Pedro 3:18"
+  },
+  "ramas": [
+    {
+      "titulo": "Crecer paso a paso",
+      "capitulos": "1:1-15",
+      "color": "warm",
+      "resumen": "Dios nos dio todo para vivir cerca de él. Pedro pide añadir a la fe bondad, paciencia y amor. Quiere que lo recuerden cuando ya no esté.",
+      "resumenNino": "La fe crece como una planta: con bondad, paciencia y amor.",
+      "hojas": [
+        {
+          "titulo": "Simón Pedro escribe",
+          "texto": "La carta lleva el nombre de Simón Pedro, y así la recibió la tradición. Muchos estudiosos piensan en un discípulo que escribió en su nombre.",
+          "textoNino": "Pedro, amigo de Jesús, escribe para ayudarnos a crecer.",
+          "referencia": "2 Pedro 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una escalera de virtudes",
+          "texto": "A la fe, añade virtud; a la virtud, conocimiento; luego dominio propio, paciencia, piedad, cariño fraternal y amor.",
+          "textoNino": "Cada día puedes sumar algo bueno a tu fe.",
+          "referencia": "2 Pedro 1:3-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Recordar siempre",
+          "texto": "Pedro sabe que pronto dejará esta vida, como Jesús le anunció. Por eso escribe, para que recuerden siempre lo aprendido.",
+          "textoNino": "Pedro escribió para que nunca olvidemos a Jesús.",
+          "referencia": "2 Pedro 1:12-15",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Testigos de su gloria",
+      "capitulos": "1:16-21",
+      "color": "amber",
+      "resumen": "Pedro no cuenta fábulas. En el monte santo vio a Jesús lleno de gloria y oyó la voz del Padre. Y la palabra profética brilla como una lámpara.",
+      "resumenNino": "Pedro vio a Jesús brillar en un monte y oyó a Dios.",
+      "hojas": [
+        {
+          "titulo": "En el monte santo",
+          "texto": "Pedro oyó la voz del cielo: «Este es el amado Hijo mío, en el cual yo me he agradado».",
+          "textoNino": "Dios dijo: Jesús es mi Hijo amado.",
+          "referencia": "2 Pedro 1:16-18",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una lámpara en lo oscuro",
+          "texto": "La palabra de los profetas alumbra como una lámpara hasta que amanezca. Los profetas hablaron guiados por el Espíritu Santo.",
+          "textoNino": "La Biblia es como una linterna en la oscuridad.",
+          "referencia": "2 Pedro 1:19-21",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Cuidado con el engaño",
+      "capitulos": "2",
+      "color": "dawn",
+      "resumen": "Así como hubo falsos profetas, habrá maestros que engañan por dinero. Pero Dios sabe librar a los suyos, como libró a Noé y a Lot.",
+      "resumenNino": "No todos dicen la verdad, pero Dios cuida de los suyos.",
+      "hojas": [
+        {
+          "titulo": "Maestros que engañan",
+          "texto": "Algunos enseñarán mentiras con palabras bonitas y buscarán ganancia. Pedro avisa para que nadie se deje llevar.",
+          "textoNino": "Hay que saber qué es verdad y qué no.",
+          "referencia": "2 Pedro 2:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dios sabe librar",
+          "texto": "Dios guardó a Noé y a su familia en el diluvio, y sacó a Lot de Sodoma. «Sabe el Señor librar de tentación a los píos».",
+          "textoNino": "Dios cuidó a Noé y a Lot, y te cuida a ti.",
+          "referencia": "2 Pedro 2:4-9",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Promesas vacías",
+          "texto": "Los que engañan son como fuentes sin agua. Prometen libertad, pero ellos mismos son esclavos de lo que los domina.",
+          "textoNino": "La verdadera libertad está en Jesús.",
+          "referencia": "2 Pedro 2:17-19",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios es paciente",
+      "capitulos": "3",
+      "color": "olive",
+      "resumen": "Algunos se burlan porque Jesús no ha vuelto. Pedro responde que Dios no tarda: es paciente y quiere que todos se arrepientan. Esperamos cielos nuevos y tierra nueva.",
+      "resumenNino": "Dios espera con paciencia porque quiere que todos lo conozcan.",
+      "hojas": [
+        {
+          "titulo": "Mil años como un día",
+          "texto": "Para el Señor, un día es como mil años. No tarda: tiene paciencia, porque no quiere que nadie se pierda.",
+          "textoNino": "Dios no tiene prisa, porque quiere salvar a todos.",
+          "referencia": "2 Pedro 3:3-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Cielos nuevos y tierra nueva",
+          "texto": "El día del Señor llegará sin avisar. Esperamos lo que Dios prometió: cielos nuevos y tierra nueva, donde vive la justicia.",
+          "textoNino": "Dios hará un mundo nuevo y lleno de bien.",
+          "referencia": "2 Pedro 3:10-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Crecer en la gracia",
+          "texto": "Mientras esperamos, vivimos en paz. Pedro menciona las cartas de «nuestro amado hermano Pablo» y termina pidiendo crecer en la gracia de Jesús.",
+          "textoNino": "Seguimos creciendo en el amor de Jesús cada día.",
+          "referencia": "2 Pedro 3:14-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "En el monte, Pedro vio la gloria de Jesús y oyó al Padre llamarlo su Hijo amado. Jesús es «nuestro Señor y Salvador». Volverá como prometió, y su paciencia es nuestra oportunidad.",
+    "referencias": ["2 Pedro 1:16-18", "Mateo 17:1-5", "2 Pedro 3:15"]
+  },
+  "paraTuVida": [
+    "Elige una virtud de 2 Pedro 1:5-7 y practícala esta semana.",
+    "Cuando te parezca que Dios tarda, recuerda: es paciente contigo y con otros.",
+    "Antes de creer algo que oíste sobre Dios, compáralo con la Biblia."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Dónde vio Pedro la gloria de Jesús?",
+      "opciones": ["En el monte santo", "En el mar", "En el templo"],
+      "correcta": 0,
+      "explicacion": "Pedro estaba con Jesús «en el monte santo» y oyó la voz del Padre (2 Pedro 1:18)."
+    },
+    {
+      "pregunta": "Según Pedro, ¿por qué parece que Dios tarda?",
+      "opciones": ["Porque se olvidó", "Porque es paciente", "Porque está cansado"],
+      "correcta": 1,
+      "explicacion": "Dios es paciente y no quiere que nadie se pierda (2 Pedro 3:9)."
+    },
+    {
+      "pregunta": "¿Qué Evangelio cuenta también lo que pasó en el monte?",
+      "opciones": ["Mateo", "Santiago", "Hebreos"],
+      "correcta": 0,
+      "explicacion": "Mateo 17:1-5 cuenta cómo Jesús brilló y el Padre habló desde la nube."
+    }
+  ],
+  "estudio": ["2-pedro"],
+  "conexiones": [
+    { "id": "1-pedro", "motivo": "La primera carta de Pedro, sobre la esperanza en el sufrimiento." },
+    { "id": "judas", "motivo": "Judas avisa de los mismos engaños con palabras parecidas." }
+  ]
+}

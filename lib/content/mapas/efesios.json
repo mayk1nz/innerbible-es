@@ -1,0 +1,209 @@
+{
+  "id": "efesios",
+  "tipo": "libro",
+  "titulo": "Efesios",
+  "subtitulo": "Un solo cuerpo en Cristo",
+  "libro": "Eph",
+  "centro": {
+    "texto": "Por gracia, Dios nos une en Cristo como un solo cuerpo",
+    "textoNino": "Dios nos regala su amor y nos hace una sola familia"
+  },
+  "versiculo": {
+    "texto": "Porque por gracia sois salvos por la fe; y esto no de vosotros, pues es don de Dios: No por obras, para que nadie se gloríe.",
+    "referencia": "Efesios 2:8-9"
+  },
+  "ramas": [
+    {
+      "titulo": "Bendecidos en Cristo",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo, preso, alaba a Dios por todo lo que nos dio en Cristo: elección, perdón, herencia y el sello del Espíritu. Ora para que conozcamos esa esperanza.",
+      "resumenNino": "Dios nos da muchos regalos por medio de Jesús.",
+      "hojas": [
+        {
+          "titulo": "Toda bendición",
+          "texto": "Dios nos escogió en Cristo antes de la fundación del mundo. En él tenemos perdón y el sello del Espíritu Santo.",
+          "textoNino": "Dios nos eligió con amor desde siempre.",
+          "referencia": "Efesios 1:3-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Ojos para ver",
+          "texto": "Pablo pide que Dios alumbre los ojos del entendimiento, para conocer la esperanza y el poder que tenemos en Cristo.",
+          "textoNino": "Pablo ora para que conozcamos mejor a Dios.",
+          "referencia": "Efesios 1:15-23",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Salvos por gracia",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Estábamos muertos en pecados, pero Dios, rico en misericordia, nos dio vida con Cristo. En la cruz, Cristo derribó el muro entre judíos y no judíos.",
+      "resumenNino": "Dios nos da vida con Jesús y nos une a todos.",
+      "hojas": [
+        {
+          "titulo": "De la muerte a la vida",
+          "texto": "Dios, rico en misericordia, nos dio vida juntamente con Cristo, por el gran amor con que nos amó.",
+          "textoNino": "Dios nos ama tanto que nos da vida nueva.",
+          "referencia": "Efesios 2:1-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un regalo de Dios",
+          "texto": "La salvación es un regalo de Dios, por la fe. Somos obra suya, creados en Cristo para hacer buenas obras.",
+          "textoNino": "Dios nos salva como un regalo, y nos ayuda a hacer el bien.",
+          "referencia": "Efesios 2:8-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El muro derribado",
+          "texto": "Cristo es nuestra paz. Derribó el muro que separaba a los pueblos y de dos hizo uno solo.",
+          "textoNino": "Jesús quita lo que nos separa y nos hace amigos.",
+          "referencia": "Efesios 2:14-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un amor sin medida",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "Pablo explica el misterio que Dios le reveló: los no judíos son herederos junto con Israel. Luego ora para que conozcamos el amor de Cristo.",
+      "resumenNino": "El amor de Jesús es más grande que todo.",
+      "hojas": [
+        {
+          "titulo": "El misterio revelado",
+          "texto": "Los no judíos son herederos junto con Israel, miembros del mismo cuerpo y parte de la misma promesa en Cristo.",
+          "textoNino": "Dios quiere que todos los pueblos sean su familia.",
+          "referencia": "Efesios 3:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ancho, largo, profundo, alto",
+          "texto": "Pablo ora para que Cristo viva en nuestros corazones y conozcamos su amor, que es más grande que todo conocimiento.",
+          "textoNino": "Nadie puede medir cuánto nos ama Jesús.",
+          "referencia": "Efesios 3:14-21",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un solo cuerpo",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "Pablo pide vivir como es digno del llamado: con humildad, paciencia y unidad. Cristo da dones para edificar su cuerpo, y nos vestimos de una vida nueva.",
+      "resumenNino": "Somos un solo equipo con Jesús y nos cuidamos.",
+      "hojas": [
+        {
+          "titulo": "Un Señor, una fe",
+          "texto": "Hay un cuerpo, un Espíritu, un Señor, una fe, un bautismo, un Dios y Padre de todos.",
+          "textoNino": "Todos los que siguen a Jesús son una familia.",
+          "referencia": "Efesios 4:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dones para crecer",
+          "texto": "Cristo da apóstoles, profetas, evangelistas, pastores y maestros, para que todo el cuerpo crezca en amor.",
+          "textoNino": "Jesús da a cada uno algo para ayudar a los demás.",
+          "referencia": "Efesios 4:11-16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Perdonaos",
+          "texto": "Que el enojo no dure hasta la puesta del sol. Sé bondadoso y perdona, como Dios te perdonó en Cristo.",
+          "textoNino": "Perdona antes de irte a dormir.",
+          "referencia": "Efesios 4:25-32",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Vivir en la luz",
+      "capitulos": "5–6",
+      "color": "rose",
+      "resumen": "Como hijos amados, imitamos a Dios y andamos en amor y en luz. Pablo pide amor y respeto en casa, entre esposos, padres, hijos, siervos y amos.",
+      "resumenNino": "Como hijos de Dios, vivimos en la luz y amamos en casa.",
+      "hojas": [
+        {
+          "titulo": "Imitadores de Dios",
+          "texto": "Imita a Dios como un hijo amado, y anda en amor, como Cristo nos amó y se entregó por nosotros.",
+          "textoNino": "Los hijos se parecen a su papá; nosotros, a Dios.",
+          "referencia": "Efesios 5:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Hijos de luz",
+          "texto": "Antes éramos tinieblas; ahora somos luz en el Señor. Por eso andamos como hijos de luz.",
+          "textoNino": "Jesús nos hace brillar como luces.",
+          "referencia": "Efesios 5:8-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Amor en casa",
+          "texto": "Pablo empieza con «Sujetados los unos a los otros en el temor de Dios». Luego pide amor y respeto a cada miembro de la casa.",
+          "textoNino": "En casa nos amamos y nos respetamos.",
+          "referencia": "Efesios 5:21–6:9",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "La armadura de Dios",
+      "capitulos": "6",
+      "color": "dusk",
+      "resumen": "Pablo termina con la imagen de un soldado. Nos pide estar firmes en el Señor con la armadura de Dios y orar en todo tiempo.",
+      "resumenNino": "Dios nos da una armadura para estar firmes.",
+      "hojas": [
+        {
+          "titulo": "Toda la armadura",
+          "texto": "La verdad, la justicia, el evangelio de la paz, la fe, la salvación y la palabra de Dios nos mantienen firmes.",
+          "textoNino": "La fe es como un escudo que nos protege.",
+          "referencia": "Efesios 6:10-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Orad en todo tiempo",
+          "texto": "Pablo pide orar por todos los creyentes y también por él, preso, para anunciar el evangelio con valor.",
+          "textoNino": "Oramos siempre, también por los demás.",
+          "referencia": "Efesios 6:18-20",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Cristo es la cabeza de la iglesia y el centro del plan de Dios. En él tenemos perdón, él es nuestra paz y su amor no se puede medir.",
+    "referencias": ["Efesios 1:7", "Efesios 1:22-23", "Efesios 2:14"]
+  },
+  "paraTuVida": [
+    "Si estás enojado con alguien, busca la paz antes de que acabe el día.",
+    "Cada mañana, ponte la armadura de Dios con una oración breve."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "Según Efesios 2:8, ¿cómo somos salvos?",
+      "opciones": ["Por gracia, por la fe", "Por ser buenos", "Por nacer en Israel"],
+      "correcta": 0,
+      "explicacion": "Efesios 2:8 dice que somos salvos por gracia, por la fe, y que es un don de Dios."
+    },
+    {
+      "pregunta": "¿Qué derribó Cristo, según Efesios 2?",
+      "opciones": ["Un templo", "El muro que separaba a los pueblos", "Las murallas de Jericó"],
+      "correcta": 1,
+      "explicacion": "Cristo es nuestra paz: derribó el muro entre judíos y no judíos (Efesios 2:14)."
+    },
+    {
+      "pregunta": "¿Qué libro cuenta la estancia de Pablo en Éfeso?",
+      "opciones": ["Hechos", "Romanos", "Lucas"],
+      "correcta": 0,
+      "explicacion": "Hechos 19 cuenta que Pablo enseñó en Éfeso y que la palabra se extendió por Asia."
+    }
+  ],
+  "estudio": ["efesios"],
+  "conexiones": [
+    { "id": "colosenses", "motivo": "Carta hermana: Cristo es la cabeza del cuerpo." },
+    { "id": "hechos", "motivo": "Hechos 19 y 20 cuentan la vida de Pablo en Éfeso." }
+  ]
+}

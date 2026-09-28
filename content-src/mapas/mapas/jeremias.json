@@ -1,0 +1,239 @@
+{
+  "id": "jeremias",
+  "tipo": "libro",
+  "titulo": "Jeremías",
+  "subtitulo": "Lágrimas y un pacto nuevo",
+  "libro": "Jer",
+  "centro": {
+    "texto": "Dios llama a volver, llora con su pueblo y promete un pacto nuevo",
+    "textoNino": "Dios nunca deja de amar a su pueblo"
+  },
+  "versiculo": {
+    "texto": "Mas éste es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en sus entrañas, y escribiréla en sus corazones; y seré yo a ellos por Dios, y ellos me serán por pueblo.",
+    "referencia": "Jeremías 31:33"
+  },
+  "ramas": [
+    {
+      "titulo": "No digas: soy niño",
+      "capitulos": "1–10",
+      "color": "warm",
+      "resumen": "Jeremías habla a Judá, el reino del sur, unos cuarenta años. Empieza con el rey Josías y sigue hasta la caída de Jerusalén (c. 627–580 a.C.).",
+      "resumenNino": "Dios llamó a Jeremías cuando era muy joven.",
+      "hojas": [
+        {
+          "titulo": "Un profeta joven",
+          "texto": "Jeremías tiene miedo y dice que es un niño. Dios le responde: «No temas», toca su boca y pone allí sus palabras.",
+          "textoNino": "Jeremías tenía miedo, pero Dios le dijo: no temas.",
+          "referencia": "Jeremías 1:4-10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cisternas rotas",
+          "texto": "El pueblo dejó a Dios, «fuente de agua viva». Busca agua en pozos rotos que no la guardan.",
+          "textoNino": "Dios es como agua fresca que nunca se acaba.",
+          "referencia": "Jeremías 2:13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "A la puerta del templo",
+          "texto": "Muchos creen que el templo los protege, hagan lo que hagan. Jeremías les pide cambiar de vida y tratar bien al extranjero, al huérfano y a la viuda.",
+          "textoNino": "Dios quiere que tratemos bien a los que sufren.",
+          "referencia": "Jeremías 7:1-11",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El alfarero y el barro",
+      "capitulos": "11–20",
+      "color": "amber",
+      "resumen": "Casi nadie escucha a Jeremías. Sufre burlas y golpes, y llora ante Dios. Pero aprende que Dios puede rehacer lo que se rompe.",
+      "resumenNino": "Dios puede arreglar lo que se rompe.",
+      "hojas": [
+        {
+          "titulo": "Un árbol junto al agua",
+          "texto": "Quien confía en Dios es como un árbol junto a un río. Su hoja sigue verde, aun en el año de sequía.",
+          "textoNino": "Si confías en Dios, eres como un árbol verde.",
+          "referencia": "Jeremías 17:7-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "En casa del alfarero",
+          "texto": "Una vasija se echa a perder, y el alfarero hace otra. Dios dice: como el barro en su mano, así es su pueblo.",
+          "textoNino": "Dios nos forma con cuidado, como un alfarero.",
+          "referencia": "Jeremías 18:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un fuego en el corazón",
+          "texto": "Jeremías quiere callar y no hablar más de Dios. Pero la palabra arde en él «como un fuego ardiente».",
+          "textoNino": "Jeremías no podía callar la palabra de Dios.",
+          "referencia": "Jeremías 20:7-13",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Pensamientos de paz",
+      "capitulos": "21–29",
+      "color": "dawn",
+      "resumen": "Jeremías avisa que Babilonia dominará a Judá setenta años. Pero Dios no abandona a los que van cautivos.",
+      "resumenNino": "Aun lejos de casa, Dios cuida a su pueblo.",
+      "hojas": [
+        {
+          "titulo": "Un renuevo justo",
+          "texto": "Los reyes no cuidaron al pueblo. Dios promete un rey justo de la familia de David, que reinará con justicia.",
+          "textoNino": "Dios promete un rey bueno y justo.",
+          "referencia": "Jeremías 23:1-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Setenta años",
+          "texto": "Jeremías anuncia que el pueblo servirá al rey de Babilonia setenta años. Después, Dios lo traerá de vuelta.",
+          "textoNino": "El pueblo estará lejos mucho tiempo, pero volverá.",
+          "referencia": "Jeremías 25:8-14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Carta a los cautivos",
+          "texto": "Jeremías escribe: construyan casas, planten huertos y oren por la ciudad donde viven. Dios tiene para ellos «pensamientos de paz, y no de mal».",
+          "textoNino": "Dios tiene planes buenos para su pueblo.",
+          "referencia": "Jeremías 29:1-14",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un pacto nuevo",
+      "capitulos": "30–33",
+      "color": "olive",
+      "resumen": "En medio del dolor llega el libro de la esperanza. Dios promete sanar a su pueblo y escribir su ley en el corazón.",
+      "resumenNino": "Dios promete escribir su amor en el corazón.",
+      "hojas": [
+        {
+          "titulo": "Amor eterno",
+          "texto": "Dios le dice a su pueblo: «Con amor eterno te he amado». Promete sanar sus heridas y convertir su llanto en gozo.",
+          "textoNino": "Dios nos ama con un amor que no se acaba.",
+          "referencia": "Jeremías 31:1-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La ley en el corazón",
+          "texto": "Dios hará un pacto nuevo. Escribirá su ley en el corazón, perdonará la maldad y no se acordará más del pecado.",
+          "textoNino": "Dios perdona y olvida nuestro pecado.",
+          "referencia": "Jeremías 31:31-34",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un campo en Anatot",
+          "texto": "Babilonia rodea Jerusalén, y Jeremías compra un campo. Es una señal: en esta tierra volverán a comprarse casas y viñas.",
+          "textoNino": "Jeremías compró un campo porque creía que volverían.",
+          "referencia": "Jeremías 32:6-15",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Clama a mí",
+          "texto": "Jeremías está preso, y Dios le habla otra vez: «Clama a mí, y te responderé».",
+          "textoNino": "Dios siempre escucha cuando lo llamamos.",
+          "referencia": "Jeremías 33:1-3",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Cae Jerusalén",
+      "capitulos": "34–45",
+      "color": "rose",
+      "resumen": "Los reyes no escuchan, y Jerusalén cae ante Babilonia en el año 586 a.C. Aun así, Dios cuida a Jeremías y a quienes lo ayudan.",
+      "resumenNino": "La ciudad cayó, pero Dios cuidó a Jeremías.",
+      "hojas": [
+        {
+          "titulo": "El rollo en el fuego",
+          "texto": "Baruc escribe en un rollo las palabras de Jeremías. El rey Joacim lo quema en el brasero. Jeremías se lo dicta otra vez.",
+          "textoNino": "El rey quemó el libro, pero lo escribieron otra vez.",
+          "referencia": "Jeremías 36:20-32",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Rescatado del pozo",
+          "texto": "Echan a Jeremías en un pozo lleno de barro. Ebed-melec, un etíope que sirve al rey, pide permiso y lo saca con sogas.",
+          "textoNino": "Un hombre bueno sacó a Jeremías de un pozo.",
+          "referencia": "Jeremías 38:6-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La ciudad cae",
+          "texto": "El ejército de Babilonia entra en Jerusalén y quema la ciudad. Jeremías queda libre y elige quedarse con el pueblo que queda en la tierra.",
+          "textoNino": "Jerusalén cayó, y Jeremías se quedó con su gente.",
+          "referencia": "Jeremías 39:1–40:6",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios gobierna las naciones",
+      "capitulos": "46–52",
+      "color": "dusk",
+      "resumen": "Jeremías habla a Egipto, a los pueblos vecinos y a la misma Babilonia. El libro termina con una luz: el rey de Judá sale de la cárcel.",
+      "resumenNino": "Dios es rey de todos los pueblos.",
+      "hojas": [
+        {
+          "titulo": "Palabra a las naciones",
+          "texto": "Ningún imperio es para siempre. Egipto, Moab, Edom y otros pueblos también rinden cuentas a Dios.",
+          "textoNino": "Todos los pueblos están en las manos de Dios.",
+          "referencia": "Jeremías 46–49",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "También cae Babilonia",
+          "texto": "El imperio que se llevó a Judá también caerá. Entonces el pueblo volverá a buscar al Señor, llorando y con un pacto que no se olvida.",
+          "textoNino": "El pueblo volverá a buscar a Dios.",
+          "referencia": "Jeremías 50:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un rey sale libre",
+          "texto": "Después de treinta y siete años preso, el rey Joaquín sale de la cárcel. Come en la mesa del rey de Babilonia. La historia no terminó.",
+          "textoNino": "Un rey preso salió libre. ¡Había esperanza!",
+          "referencia": "Jeremías 52:31-34",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "En la última cena, Jesús toma la copa y dice que es el nuevo pacto en su sangre. Así cumple Jeremías 31. Hebreos cita esa promesa: Dios escribe su ley en el corazón y perdona.",
+    "referencias": ["Lucas 22:20", "Hebreos 8:8-12"]
+  },
+  "paraTuVida": [
+    "Si algo se rompió en tu vida, pon ese barro en las manos de Dios.",
+    "Ora esta semana por la ciudad donde vives, como pidió Jeremías.",
+    "Cuando no sepas qué hacer, clama a Dios: él promete responder."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué dijo Jeremías cuando Dios lo llamó?",
+      "opciones": ["Que era muy viejo", "Que era un niño", "Que era rey"],
+      "correcta": 1,
+      "explicacion": "Jeremías dijo «soy niño», y Dios le respondió: «No digas, soy niño» (Jeremías 1:6-7)."
+    },
+    {
+      "pregunta": "¿Quién sacó a Jeremías del pozo lleno de barro?",
+      "opciones": ["Ebed-melec", "Baruc", "El rey Joacim"],
+      "correcta": 0,
+      "explicacion": "Ebed-melec, un etíope que servía en la casa del rey, lo sacó con sogas (Jeremías 38:7-13)."
+    },
+    {
+      "pregunta": "¿Cuándo dijo Jesús que la copa era el nuevo pacto?",
+      "opciones": ["En el monte", "En la cruz", "En la última cena"],
+      "correcta": 2,
+      "explicacion": "En la última cena, Jesús dijo: esta copa es el nuevo pacto en mi sangre (Lucas 22:20)."
+    }
+  ],
+  "estudio": ["jeremias", "2-reyes-24-25"],
+  "conexiones": [
+    { "id": "lamentaciones", "motivo": "El llanto por Jerusalén caída sigue en Lamentaciones." },
+    { "id": "ezequiel", "motivo": "Ezequiel habla a los cautivos en los mismos años." },
+    { "id": "hebreos", "motivo": "Hebreos explica el pacto nuevo que anunció Jeremías." }
+  ]
+}

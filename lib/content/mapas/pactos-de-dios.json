@@ -1,0 +1,228 @@
+{
+  "id": "pactos-de-dios",
+  "tipo": "tema",
+  "titulo": "Los pactos de Dios",
+  "subtitulo": "Las promesas que Dios hace y cumple",
+  "centro": {
+    "texto": "Dios se une a su pueblo con pactos y los cumple en Jesús.",
+    "textoNino": "Dios hace promesas y siempre las cumple."
+  },
+  "versiculo": {
+    "texto": "Mas éste es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en sus entrañas, y escribiréla en sus corazones; y seré yo a ellos por Dios, y ellos me serán por pueblo.",
+    "referencia": "Jeremías 31:33"
+  },
+  "ramas": [
+    {
+      "titulo": "El pacto con Noé",
+      "capitulos": "",
+      "color": "dawn",
+      "resumen": "Un pacto es un compromiso solemne; muchas Biblias dicen «alianza». Después del diluvio, Dios hace pacto con Noé y con todo ser viviente.",
+      "resumenNino": "Dios le prometió a Noé cuidar siempre la tierra.",
+      "hojas": [
+        {
+          "titulo": "Mientras la tierra dure",
+          "texto": "Dios promete que no faltarán la siembra y la cosecha, el frío y el calor, el día y la noche.",
+          "textoNino": "Siempre habrá día y noche, verano e invierno.",
+          "referencia": "Génesis 8:20-22",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Con toda la creación",
+          "texto": "El pacto no es solo con Noé. Incluye a su familia, a sus descendientes y a todos los animales de la tierra.",
+          "textoNino": "Dios cuida a las personas y a los animales.",
+          "referencia": "Génesis 9:8-11",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El arco en las nubes",
+          "texto": "Dios pone su arco en las nubes como señal. Al verlo, dice, se acordará del «pacto perpetuo».",
+          "textoNino": "El arco iris es la señal de la promesa de Dios.",
+          "referencia": "Génesis 9:12-17",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El pacto con Abraham",
+      "capitulos": "",
+      "color": "amber",
+      "resumen": "Dios promete a Abraham una familia, una tierra y bendición para todas las familias de la tierra. Lo sella con señales y le cambia el nombre.",
+      "resumenNino": "Dios le prometió a Abraham muchos hijos y una tierra.",
+      "hojas": [
+        {
+          "titulo": "Tres promesas",
+          "texto": "Una gran nación, una tierra, y una bendición que llegará a «todas las familias de la tierra».",
+          "textoNino": "Dios dijo: «Te daré familia, tierra y bendición».",
+          "referencia": "Génesis 12:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una antorcha en la noche",
+          "texto": "Abram cree la promesa. Esa noche, una antorcha de fuego pasa entre los animales partidos, y Dios hace pacto con él.",
+          "textoNino": "De noche, un fuego mostró que Dios cumpliría.",
+          "referencia": "Génesis 15:5-18",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un nombre nuevo",
+          "texto": "Abram pasa a llamarse Abraham, «padre de muchedumbre de gentes». Dios promete ser su Dios y el de sus hijos.",
+          "textoNino": "Dios le dio un nombre nuevo: Abraham.",
+          "referencia": "Génesis 17:1-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Dios no olvida",
+          "texto": "Siglos después, Zacarías canta que Dios se acordó «de su santo pacto» y del juramento a Abraham.",
+          "textoNino": "Dios se acordó de lo que prometió a Abraham.",
+          "referencia": "Lucas 1:68-75",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El pacto del Sinaí",
+      "capitulos": "",
+      "color": "olive",
+      "resumen": "Primero Dios libera a Israel de Egipto. Después, en el Sinaí, hace pacto con él por medio de Moisés y le da su Ley para vivir como su pueblo.",
+      "resumenNino": "Dios salvó a su pueblo y le dio sus mandamientos.",
+      "hojas": [
+        {
+          "titulo": "Primero, la libertad",
+          "texto": "Dios recuerda que los trajo «sobre alas de águilas». Luego los invita a guardar su pacto y ser su especial tesoro.",
+          "textoNino": "Dios los cargó como un águila y los llamó su tesoro.",
+          "referencia": "Éxodo 19:3-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Las diez palabras",
+          "texto": "Los mandamientos empiezan con lo que Dios ya hizo: «que te saqué de la tierra de Egipto».",
+          "textoNino": "Diez reglas para amar a Dios y a los demás.",
+          "referencia": "Éxodo 20:1-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La sangre de la alianza",
+          "texto": "El pueblo promete obedecer. Moisés rocía la sangre y dice: «He aquí la sangre de la alianza».",
+          "textoNino": "El pueblo prometió seguir a Dios.",
+          "referencia": "Éxodo 24:3-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Renovado en Moab",
+          "texto": "Cuarenta años después, Moisés renueva el pacto con la nueva generación antes de entrar en la tierra.",
+          "textoNino": "Los hijos también prometieron seguir a Dios.",
+          "referencia": "Deuteronomio 29:1-15",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El pacto con David",
+      "capitulos": "",
+      "color": "rose",
+      "resumen": "Dios promete a David que un descendiente suyo reinará para siempre. Los profetas esperan a ese rey, y el Nuevo Testamento lo reconoce en Jesús.",
+      "resumenNino": "Dios le prometió a David un rey que reinaría para siempre.",
+      "hojas": [
+        {
+          "titulo": "Una casa para siempre",
+          "texto": "David quiere construir una casa para Dios. Dios le responde que él le hará una casa a David: un reino eterno.",
+          "textoNino": "Dios dijo: «Tu familia reinará para siempre».",
+          "referencia": "2 Samuel 7:1-16",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Juré a David",
+          "texto": "Un salmo lo canta: «Hice alianza con mi escogido; juré a David mi siervo».",
+          "textoNino": "Una canción recuerda la promesa a David.",
+          "referencia": "Salmos 89:3-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un niño en el trono",
+          "texto": "Isaías anuncia un niño, «Príncipe de paz», que reinará sobre el trono de David para siempre.",
+          "textoNino": "Nacería un niño que sería el Rey de paz.",
+          "referencia": "Isaías 9:6-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El trono de David",
+          "texto": "El ángel anuncia a María que Dios dará a Jesús «el trono de David su padre». Su reino no tendrá fin.",
+          "textoNino": "El ángel dijo que Jesús sería el Rey prometido.",
+          "referencia": "Lucas 1:30-33",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El nuevo pacto",
+      "capitulos": "",
+      "color": "dusk",
+      "resumen": "Jeremías anuncia un pacto nuevo: Dios escribirá su ley en el corazón y perdonará el pecado. En la última cena, Jesús dice que su sangre es la del nuevo pacto.",
+      "resumenNino": "Jesús hizo una promesa nueva para todos.",
+      "hojas": [
+        {
+          "titulo": "Ley en el corazón",
+          "texto": "Dios promete escribir su ley en el corazón. Todos lo conocerán, y él dice: «no me acordaré más de su pecado».",
+          "textoNino": "Dios pondrá su amor dentro de nuestro corazón.",
+          "referencia": "Jeremías 31:31-34",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Corazón nuevo",
+          "texto": "Ezequiel lo dice con otra imagen: Dios quitará el corazón de piedra y dará un corazón de carne y un espíritu nuevo.",
+          "textoNino": "Dios cambia los corazones duros por corazones buenos.",
+          "referencia": "Ezequiel 36:25-27",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El vaso del nuevo pacto",
+          "texto": "En la última cena Jesús dice: «Este vaso es el nuevo pacto en mi sangre». Las iglesias celebran esta Cena con distintos nombres.",
+          "textoNino": "Jesús compartió el pan y el vaso con sus amigos.",
+          "referencia": "Lucas 22:14-20",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Mediador del nuevo pacto",
+          "texto": "Hebreos cita la promesa de Jeremías. Presenta a Jesús como «mediador de un mejor pacto», formado sobre mejores promesas.",
+          "textoNino": "Jesús nos une a Dios para siempre.",
+          "referencia": "Hebreos 8:6-10",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Los pactos son como escalones de una misma promesa. Jesús trae la bendición de Abraham a todos. Es el hijo de David que reina para siempre, y su sangre sella el nuevo pacto. En él, todas las promesas de Dios son «Sí».",
+    "referencias": ["2 Corintios 1:20", "Lucas 22:20", "Gálatas 3:8"]
+  },
+  "paraTuVida": [
+    "Cuando veas un arco iris, da gracias a Dios porque cumple lo que promete.",
+    "Escribe una promesa de Dios que necesitas hoy y léela cada mañana."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué señal dio Dios en su pacto con Noé?",
+      "opciones": ["Una estrella", "El arco en las nubes", "Una columna de fuego"],
+      "correcta": 1,
+      "explicacion": "Dios dijo: «Mi arco pondré en las nubes» como señal de su pacto (Génesis 9:13)."
+    },
+    {
+      "pregunta": "¿A quién prometió Dios un reino para siempre?",
+      "opciones": ["A David", "A Moisés", "A Noé"],
+      "correcta": 0,
+      "explicacion": "Dios prometió a David que su trono sería estable eternalmente (2 Samuel 7:16)."
+    },
+    {
+      "pregunta": "¿Dónde dijo Jesús «Este vaso es el nuevo pacto en mi sangre»?",
+      "opciones": ["En el monte Sinaí", "En el templo", "En la última cena"],
+      "correcta": 2,
+      "explicacion": "Lo dijo en la última cena, cumpliendo lo anunciado en Jeremías 31 (Lucas 22:20)."
+    }
+  ],
+  "estudio": ["genesis-1-11", "genesis-12-50", "exodo", "2-samuel", "jeremias", "antiguo-y-nuevo"],
+  "conexiones": [
+    { "id": "genesis", "motivo": "Allí empiezan los pactos con Noé y con Abraham." },
+    { "id": "exodo", "motivo": "Mira el pacto del Sinaí en su historia completa." },
+    { "id": "historia-de-la-salvacion", "motivo": "Mira cómo los pactos forman una sola historia." }
+  ]
+}

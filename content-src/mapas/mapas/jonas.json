@@ -1,0 +1,165 @@
+{
+  "id": "jonas",
+  "tipo": "libro",
+  "titulo": "Jonás",
+  "subtitulo": "Dios ama también a Nínive",
+  "libro": "Jonah",
+  "centro": {
+    "texto": "La misericordia de Dios alcanza también a los enemigos y a los extranjeros",
+    "textoNino": "Dios ama a todas las personas, también a las de lejos"
+  },
+  "versiculo": {
+    "texto": "¿Y no tendré yo piedad de Nínive, aquella grande ciudad donde hay más de ciento y veinte mil personas que no conocen su mano derecha ni su mano izquierda, y muchos animales?",
+    "referencia": "Jonás 4:11"
+  },
+  "ramas": [
+    {
+      "titulo": "Huir de Dios",
+      "capitulos": "1",
+      "color": "dusk",
+      "resumen": "Jonás es profeta de Israel, el reino del norte, en tiempos de Jeroboam II (c. 780–760 a.C.). Dios lo envía a Nínive, la capital de Asiria.",
+      "resumenNino": "Dios envió a Jonás a una ciudad grande, pero él huyó.",
+      "hojas": [
+        {
+          "titulo": "Un barco a Tarsis",
+          "texto": "Nínive es la ciudad enemiga de su pueblo. Jonás no quiere ir. Baja a Jope y sube a un barco hacia el otro lado del mar.",
+          "textoNino": "Jonás subió a un barco para escapar.",
+          "referencia": "Jonás 1:1-3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La tormenta",
+          "texto": "Dios envía un gran viento, y el barco está a punto de romperse. Los marineros gritan a sus dioses. Jonás duerme abajo.",
+          "textoNino": "Vino una gran tormenta, y Jonás estaba dormido.",
+          "referencia": "Jonás 1:4-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Marineros que oran",
+          "texto": "Jonás pide que lo echen al mar. Los marineros no quieren y reman con fuerza. Al final lo hacen, el mar se calma y ellos temen al Señor.",
+          "textoNino": "El mar se calmó, y los marineros oraron a Dios.",
+          "referencia": "Jonás 1:11-16",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "En el vientre del pez",
+      "capitulos": "2",
+      "color": "warm",
+      "resumen": "Dios no abandona a Jonás en el mar. Prepara un gran pez, y desde allí Jonás ora y da gracias.",
+      "resumenNino": "Un pez grande se tragó a Jonás, y Jonás oró.",
+      "hojas": [
+        {
+          "titulo": "Tres días y tres noches",
+          "texto": "Dios prepara un gran pez que traga a Jonás. Allí pasa tres días y tres noches.",
+          "textoNino": "Jonás estuvo tres días dentro del pez.",
+          "referencia": "Jonás 2:1",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una oración desde lo hondo",
+          "texto": "Jonás clama desde lo más profundo, y Dios lo oye. Termina diciendo: «La salvación pertenece a Jehová». Y el pez lo deja en tierra.",
+          "textoNino": "Jonás le dio gracias a Dios, y el pez lo dejó en la playa.",
+          "referencia": "Jonás 2:2-10",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Nínive vuelve a Dios",
+      "capitulos": "3",
+      "color": "olive",
+      "resumen": "Dios le da a Jonás una segunda oportunidad. Esta vez obedece, y toda la ciudad cambia de camino.",
+      "resumenNino": "Jonás obedeció, y la gente de Nínive dejó de hacer el mal.",
+      "hojas": [
+        {
+          "titulo": "Segunda vez",
+          "texto": "La palabra de Dios llega a Jonás «segunda vez». Jonás va a Nínive y anuncia: en cuarenta días será destruida.",
+          "textoNino": "Dios le dio a Jonás otra oportunidad.",
+          "referencia": "Jonás 3:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El rey en ceniza",
+          "texto": "La gente cree a Dios y ayuna, del mayor al menor. El rey deja su trono, se viste de saco y se sienta en ceniza.",
+          "textoNino": "Hasta el rey se puso triste por el mal que hizo.",
+          "referencia": "Jonás 3:5-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Dios perdona",
+          "texto": "Dios ve que dejan su mal camino. Tiene compasión y no envía el castigo.",
+          "textoNino": "Dios vio que cambiaron y los perdonó.",
+          "referencia": "Jonás 3:10",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "La planta y la piedad",
+      "capitulos": "4",
+      "color": "amber",
+      "resumen": "Jonás se enoja porque Dios perdonó a Nínive. Dios le enseña con paciencia, usando una planta que da sombra.",
+      "resumenNino": "Jonás se enojó, y Dios le enseñó con una planta.",
+      "hojas": [
+        {
+          "titulo": "Sabía que eres clemente",
+          "texto": "Jonás confiesa por qué huyó: sabía que Dios es «clemente y piadoso». No quería perdón para sus enemigos.",
+          "textoNino": "Jonás no quería que Dios perdonara a Nínive.",
+          "referencia": "Jonás 4:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una planta de sombra",
+          "texto": "Dios hace crecer una planta que da sombra a Jonás, y al otro día se seca. Jonás se queja de calor y de tristeza.",
+          "textoNino": "Una planta le dio sombra, y luego se secó.",
+          "referencia": "Jonás 4:5-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "¿No tendré yo piedad?",
+          "texto": "Dios le pregunta: si te duele una planta, ¿no tendré yo piedad de una ciudad tan grande? El libro termina con esa pregunta.",
+          "textoNino": "Dios ama a toda la gente de la ciudad.",
+          "referencia": "Jonás 4:10-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús habla de «la señal de Jonás»: como Jonás estuvo tres días en el pez, así estará él en la tierra. Es la señal de su muerte y resurrección. Y añade: «he aquí más que Jonás en este lugar».",
+    "referencias": ["Mateo 12:39-41", "Lucas 24:46-47"]
+  },
+  "paraTuVida": [
+    "Si estás huyendo de algo que Dios te pide, dile hoy que sí.",
+    "Ora esta semana por alguien que te cae mal.",
+    "Si fallaste, recuerda: Dios también da segundas oportunidades."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿A qué ciudad envió Dios a Jonás?",
+      "opciones": ["Jerusalén", "Nínive", "Tarsis"],
+      "correcta": 1,
+      "explicacion": "Dios lo envió a Nínive, pero Jonás tomó un barco hacia Tarsis (Jonás 1:2-3)."
+    },
+    {
+      "pregunta": "¿Por qué se enojó Jonás al final del libro?",
+      "opciones": ["Porque Dios perdonó a Nínive", "Porque perdió su barco", "Porque nadie lo escuchó"],
+      "correcta": 0,
+      "explicacion": "Jonás sabía que Dios es clemente y no quería perdón para Nínive (Jonás 4:1-2)."
+    },
+    {
+      "pregunta": "¿Qué anunció Jesús con «la señal de Jonás»?",
+      "opciones": ["Su nacimiento", "Su bautismo", "Su muerte y resurrección"],
+      "correcta": 2,
+      "explicacion": "Tres días en el pez, tres días en la tierra: Jesús habló de su muerte y resurrección (Mateo 12:40)."
+    }
+  ],
+  "estudio": ["jonas", "2-reyes-1-14"],
+  "conexiones": [
+    { "id": "nahum", "motivo": "Años después, Nahúm vuelve a hablar de Nínive." },
+    { "id": "mateo", "motivo": "Jesús explica la señal de Jonás." },
+    { "id": "hechos", "motivo": "El perdón de Dios llega a todos los pueblos." }
+  ]
+}

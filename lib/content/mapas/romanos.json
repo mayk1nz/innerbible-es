@@ -1,0 +1,251 @@
+{
+  "id": "romanos",
+  "tipo": "libro",
+  "titulo": "Romanos",
+  "subtitulo": "La buena noticia para todos",
+  "libro": "Rom",
+  "centro": {
+    "texto": "Todos necesitamos a Dios, y él nos acepta por su gracia en Cristo",
+    "textoNino": "Dios nos ama y nos perdona por medio de Jesús"
+  },
+  "versiculo": {
+    "texto": "Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud a todo aquel que cree; al Judío primeramente y también al Griego.",
+    "referencia": "Romanos 1:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Todos necesitamos a Dios",
+      "capitulos": "1–3",
+      "color": "warm",
+      "resumen": "Pablo escribe a Roma antes de visitarla. Explica que judíos y no judíos han pecado, y que Dios ofrece a todos su justicia por la fe en Cristo.",
+      "resumenNino": "Todos fallamos, y todos necesitamos a Jesús.",
+      "hojas": [
+        {
+          "titulo": "Una carta a Roma",
+          "texto": "Pablo desea visitar a los creyentes de Roma. Quiere animarlos y ser animado por la fe que comparten.",
+          "textoNino": "Pablo quiere visitar a sus hermanos de Roma.",
+          "referencia": "Romanos 1:8-15",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Poder de Dios",
+          "texto": "Pablo no se avergüenza del evangelio. Es poder de Dios para salvar a todo el que cree.",
+          "textoNino": "La buena noticia de Jesús tiene poder para salvar.",
+          "referencia": "Romanos 1:16-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un regalo para todos",
+          "texto": "Todos pecaron y necesitan a Dios. Pero Dios nos hace justos gratuitamente, por su gracia en Cristo Jesús.",
+          "textoNino": "Dios nos regala su perdón por medio de Jesús.",
+          "referencia": "Romanos 3:21-26",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Por la fe, como Abraham",
+      "capitulos": "4–5",
+      "color": "amber",
+      "resumen": "Abraham creyó a Dios, y Dios lo contó como justo. Así también, por la fe, tenemos paz con Dios. Cristo murió por nosotros cuando aún éramos pecadores.",
+      "resumenNino": "Abraham confió en Dios. Nosotros también podemos confiar.",
+      "hojas": [
+        {
+          "titulo": "Abraham creyó",
+          "texto": "Abraham era muy anciano, pero creyó la promesa de Dios. Pablo lo llama padre de todos los que creen.",
+          "textoNino": "Abraham creyó lo que Dios le prometió.",
+          "referencia": "Romanos 4:16-22",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Paz con Dios",
+          "texto": "Justificados por la fe, tenemos paz con Dios. Su amor llena nuestro corazón por el Espíritu Santo.",
+          "textoNino": "Por Jesús estamos en paz con Dios.",
+          "referencia": "Romanos 5:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Siendo aún pecadores",
+          "texto": "Dios muestra su amor así: Cristo murió por nosotros cuando todavía éramos pecadores.",
+          "textoNino": "Jesús nos amó antes de que fuéramos buenos.",
+          "referencia": "Romanos 5:6-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Vida nueva en el Espíritu",
+      "capitulos": "6–8",
+      "color": "dawn",
+      "resumen": "Unidos a Cristo, dejamos atrás el pecado y vivimos una vida nueva. La lucha interior es real, pero el Espíritu nos ayuda, y nada nos separa del amor de Dios.",
+      "resumenNino": "El Espíritu Santo nos ayuda a vivir para Dios.",
+      "hojas": [
+        {
+          "titulo": "Una vida nueva",
+          "texto": "Como Cristo resucitó, también nosotros andamos en vida nueva. El pecado ya no es nuestro dueño.",
+          "textoNino": "Con Jesús empezamos una vida nueva.",
+          "referencia": "Romanos 6:1-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La lucha interior",
+          "texto": "Pablo confiesa que a veces hace el mal que no quiere. Y da gracias a Dios por Jesucristo, que lo libra.",
+          "textoNino": "A veces hacemos lo que no queremos, pero Jesús nos ayuda.",
+          "referencia": "Romanos 7:15-25",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Hijos por el Espíritu",
+          "texto": "No hay condenación para los que están en Cristo. El Espíritu nos hace hijos de Dios y nos ayuda cuando no sabemos orar.",
+          "textoNino": "El Espíritu Santo nos hace hijos de Dios.",
+          "referencia": "Romanos 8:1-27",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Nada nos separa",
+          "texto": "Ni la muerte ni la vida, ni lo presente ni lo por venir, nos podrá apartar del amor de Dios en Cristo.",
+          "textoNino": "Nada puede separarte del amor de Dios.",
+          "referencia": "Romanos 8:31-39",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios y su pueblo Israel",
+      "capitulos": "9–11",
+      "color": "olive",
+      "resumen": "Pablo siente un gran dolor por su pueblo, al que ama. Afirma que Dios no ha desechado a Israel y que sus caminos son más altos que los nuestros.",
+      "resumenNino": "Dios ama a su pueblo Israel y cumple sus promesas.",
+      "hojas": [
+        {
+          "titulo": "Pablo ama a su pueblo",
+          "texto": "Pablo recuerda los regalos de Dios a Israel: la adopción, los pactos, la ley, las promesas y, según la carne, Cristo.",
+          "textoNino": "Pablo quiere mucho a su pueblo, Israel.",
+          "referencia": "Romanos 9:1-5",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Confesar y creer",
+          "texto": "Quien confiesa con su boca que Jesús es el Señor y cree en su corazón que Dios lo resucitó, será salvo. Vale para todos.",
+          "textoNino": "Decimos que Jesús es el Señor y creemos en él.",
+          "referencia": "Romanos 10:9-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ramas en el olivo",
+          "texto": "Los no judíos son como ramas injertadas en un olivo. Pablo les pide no ser orgullosos, porque la raíz los sostiene.",
+          "textoNino": "Somos como ramas nuevas en un árbol antiguo.",
+          "referencia": "Romanos 11:17-24",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "¡Oh profundidad!",
+          "texto": "Pablo termina esta parte alabando a Dios, cuya sabiduría nadie puede medir.",
+          "textoNino": "Pablo alaba a Dios, que sabe todas las cosas.",
+          "referencia": "Romanos 11:33-36",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un amor que se vive",
+      "capitulos": "12–13",
+      "color": "rose",
+      "resumen": "Por la misericordia de Dios, Pablo invita a darle toda la vida. Pide servir con los dones, amar sin fingir y vencer el mal con el bien.",
+      "resumenNino": "Dios nos ayuda a amar y a hacer el bien.",
+      "hojas": [
+        {
+          "titulo": "Una ofrenda viva",
+          "texto": "Presenta tu vida a Dios como una ofrenda viva. Deja que él renueve tu manera de pensar.",
+          "textoNino": "Le damos a Dios toda nuestra vida.",
+          "referencia": "Romanos 12:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un solo cuerpo",
+          "texto": "Somos muchos miembros en Cristo, con dones diferentes. Cada uno sirve a los demás con lo que recibió.",
+          "textoNino": "Cada uno tiene un don para ayudar a los demás.",
+          "referencia": "Romanos 12:3-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Vence con el bien",
+          "texto": "Bendice a los que te persiguen. No te vengues: vence el mal con el bien.",
+          "textoNino": "Al que te hace mal, respóndele con bien.",
+          "referencia": "Romanos 12:14-21",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El amor cumple la ley",
+          "texto": "Amar al prójimo resume todos los mandamientos. El amor no hace mal a nadie.",
+          "textoNino": "Amar a los demás es cumplir lo que Dios pide.",
+          "referencia": "Romanos 13:8-10",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Recibirse unos a otros",
+      "capitulos": "14–16",
+      "color": "dusk",
+      "resumen": "Pablo pide que los fuertes y los débiles no se juzguen por la comida o los días de fiesta. Cuenta sus planes de viaje y saluda a muchos por nombre.",
+      "resumenNino": "Pablo pide cuidarse unos a otros y saluda a sus amigos.",
+      "hojas": [
+        {
+          "titulo": "No juzgues al hermano",
+          "texto": "Unos comen de todo y otros no. Pablo pide no juzgar al hermano, porque todos daremos cuenta a Dios.",
+          "textoNino": "No criticamos a los demás; los queremos.",
+          "referencia": "Romanos 14:1-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Como Cristo nos recibió",
+          "texto": "Cristo nos recibió con paciencia. Así debemos sobrellevarnos unos a otros, para gloria de Dios.",
+          "textoNino": "Jesús nos recibe, y nosotros recibimos a los demás.",
+          "referencia": "Romanos 15:1-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Febe y los saludos",
+          "texto": "Pablo recomienda a Febe, que sirve en la iglesia de Cencreas. Luego saluda a Priscila, a Aquila y a muchos hermanos y hermanas.",
+          "textoNino": "Pablo manda saludos a muchos amigos y amigas.",
+          "referencia": "Romanos 16:1-16",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Romanos muestra a Jesús como el centro de la buena noticia: murió por nuestros pecados y resucitó. En él, Dios nos acepta por gracia, y nada nos separa de su amor.",
+    "referencias": ["Romanos 3:24", "Romanos 4:25", "Romanos 8:39"]
+  },
+  "paraTuVida": [
+    "Aprende de memoria Romanos 8:38-39 y repítelo en los días de miedo.",
+    "Esta semana, responde a una ofensa con un bien, como pide Romanos 12:21."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿De qué no se avergüenza Pablo?",
+      "opciones": ["Del evangelio", "De sus viajes", "De su ciudad"],
+      "correcta": 0,
+      "explicacion": "Romanos 1:16: el evangelio es poder de Dios para salvar a todo el que cree."
+    },
+    {
+      "pregunta": "Según Romanos 4, ¿quién es padre de todos los que creen?",
+      "opciones": ["Moisés", "Abraham", "Pedro"],
+      "correcta": 1,
+      "explicacion": "Abraham creyó a Dios, y Pablo lo llama padre de todos nosotros (Romanos 4:16)."
+    },
+    {
+      "pregunta": "Según Hechos, ¿cómo llegó por fin Pablo a Roma?",
+      "opciones": ["De vacaciones", "Preso, tras un naufragio", "Como gobernador"],
+      "correcta": 1,
+      "explicacion": "Hechos 27–28 cuenta que Pablo llegó a Roma preso, después de naufragar en Malta."
+    }
+  ],
+  "estudio": ["romanos"],
+  "conexiones": [
+    { "id": "galatas", "motivo": "Gálatas trata el mismo tema, con más urgencia." },
+    { "id": "hechos", "motivo": "Hechos 28 cuenta cómo Pablo llegó por fin a Roma." }
+  ]
+}

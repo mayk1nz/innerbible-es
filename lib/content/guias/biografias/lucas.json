@@ -2,7 +2,11 @@
   "id": "lucas",
   "titulo": "Lucas",
   "subtitulo": "El médico amado que escribió dos libros",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Con Pablo, hasta Roma"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Con Pablo, hasta Roma"
+  ],
   "enUnMinuto": [
     "Lucas era médico y compañero de viaje de Pablo.",
     "La tradición cristiana le atribuye dos libros: el Evangelio de Lucas y los Hechos de los Apóstoles.",
@@ -80,45 +84,90 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Colosenses 4:14", "nota": "El médico amado" },
-        { "ref": "Filemón 1:24", "nota": "Colaborador de Pablo" },
-        { "ref": "2 Timoteo 4:11", "nota": "Solo Lucas está conmigo" },
-        { "ref": "Lucas 1:1-4", "nota": "Por qué escribió" },
-        { "ref": "Hechos 1:1-2", "nota": "El primer tratado" },
-        { "ref": "Hechos 16:10-17", "nota": "El primer “nosotros”" },
-        { "ref": "Hechos 27:1-28:16", "nota": "El viaje a Roma" }
+        {
+          "ref": "Colosenses 4:14",
+          "nota": "El médico amado"
+        },
+        {
+          "ref": "Filemón 1:24",
+          "nota": "Colaborador de Pablo"
+        },
+        {
+          "ref": "2 Timoteo 4:11",
+          "nota": "Solo Lucas está conmigo"
+        },
+        {
+          "ref": "Lucas 1:1-4",
+          "nota": "Por qué escribió"
+        },
+        {
+          "ref": "Hechos 1:1-2",
+          "nota": "El primer tratado"
+        },
+        {
+          "ref": "Hechos 16:10-17",
+          "nota": "El primer “nosotros”"
+        },
+        {
+          "ref": "Hechos 27:1-28:16",
+          "nota": "El viaje a Roma"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Lucas era médico y ayudaba a los enfermos. También escribió la historia de Jesús con mucho cuidado. ¿Te gustaría escribir o dibujar tu historia favorita de Jesús?",
-      "actividad": "Para papás y abuelos: Lucas escribió para que conozcamos la verdad sobre Jesús (Lucas 1:4). Lean juntos Lucas 15:3-7, la oveja perdida, y dibújenla."
+      "actividad": "Para el adulto: Lucas escribió para que conozcamos la verdad sobre Jesús (Lucas 1:4). Lean juntos Lucas 15:3-7, la oveja perdida, y dibújenla."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, gracias por Lucas, que contó tu historia con cuidado. Dame hambre de conocerte mejor. Y hazme un amigo fiel, que se queda cuando otros se van. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué historia que solo cuenta Lucas es su favorita, y por qué?",
+        "¿Cómo nos ayuda saber que Lucas investigó con cuidado lo que escribió?",
+        "¿Quién ha sido un amigo fiel para ustedes, como Lucas para Pablo?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué oficio tenía Lucas, según Pablo?",
-      "opciones": ["Pescador", "Médico", "Cobrador de impuestos"],
+      "opciones": [
+        "Pescador",
+        "Médico",
+        "Cobrador de impuestos"
+      ],
       "correcta": 1,
       "explicacion": "Pablo lo llama «el médico amado» (Colosenses 4:14)."
     },
     {
       "pregunta": "¿A quién están dedicados el Evangelio de Lucas y Hechos?",
-      "opciones": ["A Timoteo", "A Cornelio", "A Teófilo"],
+      "opciones": [
+        "A Timoteo",
+        "A Cornelio",
+        "A Teófilo"
+      ],
       "correcta": 2,
       "explicacion": "Los dos libros se dirigen a Teófilo (Lucas 1:3; Hechos 1:1)."
     },
     {
       "pregunta": "¿Qué parábola cuenta solo el Evangelio de Lucas?",
-      "opciones": ["El hijo pródigo", "El sembrador", "La semilla de mostaza"],
+      "opciones": [
+        "El hijo pródigo",
+        "El sembrador",
+        "La semilla de mostaza"
+      ],
       "correcta": 0,
       "explicacion": "Solo Lucas narra el hijo pródigo (Lucas 15:11-32)."
     }
   ],
-  "estudio": ["anuncios", "hechos-15-18"],
+  "estudio": [
+    "anuncios",
+    "hechos-15-18"
+  ],
   "buscar": "Lucas"
 }

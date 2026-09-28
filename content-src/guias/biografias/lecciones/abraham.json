@@ -2,13 +2,20 @@
   "id": "abraham",
   "titulo": "Abraham",
   "subtitulo": "El padre de la fe",
-  "etiquetas": ["Los patriarcas", "Antiguo Testamento", "De Ur a Canaán"],
+  "etiquetas": [
+    "Los patriarcas",
+    "Antiguo Testamento",
+    "De Ur a Canaán"
+  ],
   "enUnMinuto": [
     "Dios llamó a Abraham a dejar su tierra y le prometió una familia tan grande como las estrellas.",
     "Abraham creyó, aunque él y Sara eran ancianos y no tenían hijos, y Dios le dio a Isaac.",
     "Por su confianza en Dios, la Biblia lo llama padre de todos los que creen."
   ],
-  "versiculo": { "texto": "Y creyó a Jehová, y contóselo por justicia.", "referencia": "Génesis 15:6" },
+  "versiculo": {
+    "texto": "Y creyó a Jehová, y contóselo por justicia.",
+    "referencia": "Génesis 15:6"
+  },
   "bloques": [
     {
       "tipo": "texto",
@@ -82,50 +89,109 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Génesis 11:26-32", "nota": "Su familia en Ur" },
-        { "ref": "Génesis 12:1-9", "nota": "El llamado y la promesa" },
-        { "ref": "Génesis 13", "nota": "Abraham y Lot" },
-        { "ref": "Génesis 15", "nota": "Las estrellas y el pacto" },
-        { "ref": "Génesis 16", "nota": "Agar e Ismael" },
-        { "ref": "Génesis 17:1-8", "nota": "El nombre nuevo" },
-        { "ref": "Génesis 18", "nota": "Los visitantes y Sodoma" },
-        { "ref": "Génesis 21:1-21", "nota": "Isaac e Ismael" },
-        { "ref": "Génesis 22:1-19", "nota": "Dios proveerá" },
-        { "ref": "Génesis 25:7-10", "nota": "Su muerte" },
-        { "ref": "Romanos 4", "nota": "Justificado por la fe" },
-        { "ref": "Hebreos 11:8-19", "nota": "Por la fe, Abraham" }
+        {
+          "ref": "Génesis 11:26-32",
+          "nota": "Su familia en Ur"
+        },
+        {
+          "ref": "Génesis 12:1-9",
+          "nota": "El llamado y la promesa"
+        },
+        {
+          "ref": "Génesis 13",
+          "nota": "Abraham y Lot"
+        },
+        {
+          "ref": "Génesis 15",
+          "nota": "Las estrellas y el pacto"
+        },
+        {
+          "ref": "Génesis 16",
+          "nota": "Agar e Ismael"
+        },
+        {
+          "ref": "Génesis 17:1-8",
+          "nota": "El nombre nuevo"
+        },
+        {
+          "ref": "Génesis 18",
+          "nota": "Los visitantes y Sodoma"
+        },
+        {
+          "ref": "Génesis 21:1-21",
+          "nota": "Isaac e Ismael"
+        },
+        {
+          "ref": "Génesis 22:1-19",
+          "nota": "Dios proveerá"
+        },
+        {
+          "ref": "Génesis 25:7-10",
+          "nota": "Su muerte"
+        },
+        {
+          "ref": "Romanos 4",
+          "nota": "Justificado por la fe"
+        },
+        {
+          "ref": "Hebreos 11:8-19",
+          "nota": "Por la fe, Abraham"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Dios le pidió a Abraham contar las estrellas. ¡Eran demasiadas! Así de grande sería su familia. ¿Cuántas estrellas crees que puedes contar esta noche?",
-      "actividad": "Para papás y abuelos: Abraham creyó la promesa de Dios (Génesis 15:5-6). Salgan una noche a mirar el cielo y den gracias porque Dios cumple lo que promete."
+      "actividad": "Para el adulto: Abraham creyó la promesa de Dios (Génesis 15:5-6). Salgan una noche a mirar el cielo y den gracias porque Dios cumple lo que promete."
     },
     {
       "tipo": "oracion",
       "texto": "Dios de Abraham, enséñame a confiar en ti como él. Cuando no vea el camino, toma mi mano. Cuando la espera sea larga, recuérdame tus promesas. Gracias por Jesús, el Cordero que tú proveíste. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué les ha pedido Dios dejar atrás para seguirlo?",
+        "Abraham tuvo miedo y tomó atajos. ¿Por qué creen que Dios siguió llamándolo su amigo?",
+        "¿Cómo nos ayuda la historia de Moriah a entender la cruz de Jesús?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué le pidió Dios a Abraham que contara para entender su promesa?",
-      "opciones": ["Las ovejas", "Las estrellas", "Los granos de trigo"],
+      "opciones": [
+        "Las ovejas",
+        "Las estrellas",
+        "Los granos de trigo"
+      ],
       "correcta": 1,
       "explicacion": "Dios le dijo que su descendencia sería como las estrellas del cielo (Génesis 15:5)."
     },
     {
       "pregunta": "¿Qué significa el nombre Isaac?",
-      "opciones": ["Risa", "Descanso", "Dios ha oído"],
+      "opciones": [
+        "Risa",
+        "Descanso",
+        "Dios ha oído"
+      ],
       "correcta": 0,
       "explicacion": "Isaac significa “risa”; Sara dijo que Dios la había hecho reír (Génesis 21:6)."
     },
     {
       "pregunta": "En Moriah, Dios proveyó un carnero. ¿A quién llamó Juan «el Cordero de Dios»?",
-      "opciones": ["A Isaac", "A Pedro", "A Jesús"],
+      "opciones": [
+        "A Isaac",
+        "A Pedro",
+        "A Jesús"
+      ],
       "correcta": 2,
       "explicacion": "Juan el Bautista señaló a Jesús como el Cordero que quita el pecado del mundo (Juan 1:29)."
     }
   ],
-  "estudio": ["genesis-12-50"],
+  "estudio": [
+    "genesis-12-50"
+  ],
   "buscar": "Abraham"
 }

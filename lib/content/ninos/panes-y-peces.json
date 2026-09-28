@@ -1,0 +1,118 @@
+{
+  "id": "panes-y-peces",
+  "titulo": "El niño de los panes y los peces",
+  "referencia": "Juan 6:1-14",
+  "estudio": "galilea-milagros",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-multitud",
+      "texto": {
+        "3-5": "Mucha, mucha gente seguía a Jesús. Jesús subió a un monte con sus amigos. ¿Qué iban a comer tantas personas?",
+        "6-8": "Jesús cruzó el mar de Galilea, y una multitud enorme lo siguió. Habían visto cómo sanaba a los enfermos. Jesús subió a un monte y se sentó con sus discípulos. Al ver llegar a tanta gente, le preguntó a Felipe: «¿Dónde compraremos pan para que coman todos?».",
+        "9-12": "Jesús cruzó al otro lado del mar de Galilea, y una gran multitud lo siguió. Habían visto las señales que hacía sanando a los enfermos. Faltaba poco para la Pascua. Jesús subió a un monte con sus discípulos. Al ver a tanta gente, preguntó a Felipe: «¿De dónde compraremos pan para que coman éstos?» (Juan 6:5). Lo decía para probarlo: Él ya sabía lo que iba a hacer."
+      }
+    },
+    {
+      "id": "cinco-panes",
+      "texto": {
+        "3-5": "Felipe dijo: «¡No alcanza el dinero!». Andrés encontró a un niño. El niño tenía cinco panes y dos pescaditos.",
+        "6-8": "Felipe hizo cuentas: «¡Ni con el sueldo de muchos meses alcanzaría para darle un poquito a cada uno!». Entonces Andrés, el hermano de Pedro, dijo: «Aquí hay un muchacho con cinco panes y dos pescados». Pero, ¿qué era eso para tanta gente?",
+        "9-12": "Felipe calculó que ni doscientos denarios, el salario de muchos meses, alcanzarían para dar un poco a cada uno. Andrés, hermano de Simón Pedro, señaló a un muchacho que tenía cinco panes de cebada y dos pececillos. «¿Mas qué es esto entre tantos?», preguntó. El pan de cebada era el pan sencillo de la gente pobre."
+      }
+    },
+    {
+      "id": "dio-gracias",
+      "texto": {
+        "3-5": "Jesús dijo: «Siéntense en la hierba». Tomó los panes y dio gracias a Dios. ¡Y empezó a repartir!",
+        "6-8": "Jesús dijo: «Hagan que la gente se siente». Había mucha hierba verde en aquel lugar. Solo contando a los hombres, eran unos cinco mil. Jesús tomó los panes, dio gracias a Dios y los repartió. Los discípulos los pasaban a la gente. Y lo mismo hizo con los pescados.",
+        "9-12": "Jesús mandó que la gente se recostara sobre la hierba, que abundaba en aquel lugar. Solo los hombres eran unos cinco mil. Entonces Jesús tomó los panes y, habiendo dado gracias, los repartió. Los discípulos los pasaban a los que estaban sentados. Hizo lo mismo con los peces."
+      }
+    },
+    {
+      "id": "todos-comen",
+      "texto": {
+        "3-5": "Pan para ti, pan para mí. ¡Pan y pescado para todos! Todos comieron hasta quedar llenitos.",
+        "6-8": "¡Y el pan no se acababa! Todos comieron pan y pescado, todo lo que quisieron. Nadie se quedó con hambre. Los panes de un muchacho, en las manos de Jesús, alcanzaron para una multitud.",
+        "9-12": "Todos comieron «cuanto querían» (Juan 6:11). Nadie se quedó sin su parte. Juan llama a este milagro una «señal»: algo que Jesús hace para mostrar quién es. Lo poco de un muchacho, en las manos de Jesús, alcanzó para miles."
+      }
+    },
+    {
+      "id": "doce-cestas",
+      "texto": {
+        "3-5": "Jesús dijo: «Recojan lo que sobró». ¡Llenaron doce canastas! Jesús cuida de todos.",
+        "6-8": "Después, Jesús les dijo a sus discípulos: «Recojan los pedazos que sobraron, para que no se pierda nada». ¡Llenaron doce canastas! La gente, asombrada, decía: «Este es de verdad el profeta que tenía que venir».",
+        "9-12": "Cuando todos quedaron satisfechos, Jesús dijo: «Recoged los pedazos que han quedado, porque no se pierda nada» (Juan 6:12). Llenaron doce cestas con lo que sobró de cinco panes. La gente decía: «Este verdaderamente es el profeta que había de venir al mundo». Con Jesús, no solo alcanza: sobra."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Con Jesús, lo poco alcanza para todos.", "referencia": "Juan 6:11-13", "fuente": "adaptado" },
+    "6-8": { "texto": "Jesús tomó los panes, dio gracias y los repartió: todos comieron lo que quisieron.", "referencia": "Juan 6:11", "fuente": "adaptado" },
+    "9-12": { "texto": "Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos; ¿mas qué es esto entre tantos?", "referencia": "Juan 6:9", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Te acuerdas de la historia? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Cuántos panes tenía el niño?", "opciones": ["Cinco panes", "Cien panes"], "correcta": 0, "explicacion": "Tenía cinco panes y dos pescaditos." },
+            { "texto": "¿Qué hizo Jesús antes de repartir?", "opciones": ["Se fue a dormir", "Dio gracias a Dios"], "correcta": 1, "explicacion": "Jesús dio gracias a Dios por la comida." },
+            { "texto": "¿Alcanzó la comida para todos?", "opciones": ["¡Sí, y sobró!", "No, faltó"], "correcta": 0, "explicacion": "¡Sobraron doce canastas!" }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿A quién le preguntó Jesús dónde comprar pan?", "opciones": ["A Pedro", "A Felipe", "A Juan"], "correcta": 1, "explicacion": "Se lo preguntó a Felipe, para ponerlo a prueba." },
+            { "texto": "¿Quién habló del muchacho que tenía panes?", "opciones": ["Andrés", "Tomás", "Zaqueo"], "correcta": 0, "explicacion": "Andrés, el hermano de Pedro." },
+            { "texto": "¿Qué tenía el muchacho?", "opciones": ["Tres panes y un pez", "Diez panes", "Cinco panes y dos pescados"], "correcta": 2, "explicacion": "Cinco panes y dos pescados: ¡poquito para tanta gente!" },
+            { "texto": "¿Dónde se sentó la gente?", "opciones": ["En la hierba", "En sillas", "En un barco"], "correcta": 0, "explicacion": "Había mucha hierba en aquel lugar." },
+            { "texto": "¿Cuántas canastas sobraron?", "opciones": ["Dos", "Siete", "Doce"], "correcta": 2, "explicacion": "¡Doce canastas llenas de pedazos!" }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Qué fiesta estaba cerca?", "opciones": ["La Pascua", "Pentecostés", "La cosecha", "El Año Nuevo"], "correcta": 0, "explicacion": "«Estaba cerca la Pascua» (Juan 6:4)." },
+            { "texto": "¿Por qué Jesús preguntó a Felipe dónde comprar pan?", "opciones": ["Porque no sabía qué hacer", "Para probarlo", "Porque tenía hambre", "Para enviarlo al mercado"], "correcta": 1, "explicacion": "Juan dice que lo hizo «para probarle»; Él ya sabía lo que iba a hacer (Juan 6:6)." },
+            { "texto": "¿De qué eran los panes del muchacho?", "opciones": ["De trigo", "De maíz", "De cebada", "De arroz"], "correcta": 2, "explicacion": "Pan de cebada, el pan sencillo de la gente humilde (Juan 6:9)." },
+            { "texto": "Solo contando a los hombres, ¿cuántos eran?", "opciones": ["Unos quinientos", "Unos cinco mil", "Unos cincuenta mil", "Doce"], "correcta": 1, "explicacion": "Eran como cinco mil varones (Juan 6:10)." },
+            { "texto": "¿Por qué mandó Jesús recoger los pedazos?", "opciones": ["Para venderlos", "Para dárselos a los pájaros", "Para guardarlos para sí", "Para que no se perdiera nada"], "correcta": 3, "explicacion": "«Porque no se pierda nada» (Juan 6:12)." },
+            { "texto": "¿Cómo llama Juan a este milagro?", "opciones": ["Una señal", "Una parábola", "Un sueño", "Una ley"], "correcta": 0, "explicacion": "Una señal: muestra quién es Jesús (Juan 6:14)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la historia.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["PAN", "PEZ", "NIÑO"], "diagonales": false, "seed": 611 },
+        "6-8": { "tamano": 6, "palabras": ["PANES", "PECES", "FELIPE", "CESTAS"], "diagonales": false, "seed": 6114 },
+        "9-12": { "tamano": 10, "palabras": ["PANES", "PECES", "FELIPE", "ANDRÉS", "CEBADA", "HIERBA", "GRACIAS", "CESTAS"], "diagonales": true, "seed": 61014 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que lo poco que tiene, en las manos de Jesús, puede bendecir a muchos. Jesús cuida de todos.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Cómo se multiplicó el pan?",
+        "respuesta": "Puedes decir: «Fue un milagro: Jesús hizo algo que solo Dios puede hacer». La Biblia no explica cómo sucedió. Nos cuenta que sucedió para que conozcamos quién es Jesús y cuánto nos cuida."
+      },
+      {
+        "pregunta": "¿El niño regaló sus panes?",
+        "respuesta": "La Biblia no dice lo que pensó el muchacho. Solo cuenta que sus panes llegaron a las manos de Jesús y alcanzaron para todos. Pueden imaginar juntos cómo se sintió al ver lo que Jesús hizo con ellos."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué tenía el muchacho y cuántas canastas sobraron?",
+      "sentir": "¿Alguna vez pensaste que lo tuyo era muy poco? ¿Cómo te sentirías si tus panes alimentaran a tanta gente?",
+      "vivir": "¿Qué cosa pequeña podemos compartir esta semana: una merienda, un juguete, un poco de nuestro tiempo?"
+    },
+    "oracion": "Jesús, gracias por la comida de cada día. Te damos lo poco que tenemos: úsalo para bendecir a otros. Amén.",
+    "gesto": "Antes de cada comida de esta semana, den gracias como Jesús y compartan algo de su merienda con alguien."
+  },
+  "estampa": "Los cinco panes y los dos peces"
+}

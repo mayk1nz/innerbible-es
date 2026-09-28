@@ -1,0 +1,201 @@
+{
+  "id": "1-juan",
+  "tipo": "libro",
+  "titulo": "1 Juan",
+  "subtitulo": "Dios es amor",
+  "libro": "1John",
+  "centro": {
+    "texto": "Dios es amor: quien vive en su luz ama de verdad a los demás",
+    "textoNino": "Dios es amor, y nos enseña a amarnos"
+  },
+  "versiculo": {
+    "texto": "Carísimos, amémonos unos a otros; porque el amor es de Dios. Cualquiera que ama, es nacido de Dios, y conoce a Dios. El que no ama, no conoce a Dios; porque Dios es amor.",
+    "referencia": "1 Juan 4:7-8"
+  },
+  "ramas": [
+    {
+      "titulo": "Dios es luz",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "El autor vio y tocó al Verbo de vida, Jesús. Lo anuncia para que tengamos comunión con Dios. Dios es luz, y perdona a quien confiesa su pecado.",
+      "resumenNino": "Juan vio a Jesús y quiere que seamos amigos de Dios.",
+      "hojas": [
+        {
+          "titulo": "Lo vimos y lo tocamos",
+          "texto": "La carta no da el nombre del autor; la tradición la atribuye al apóstol Juan. Él dice que vio y tocó a Jesús.",
+          "textoNino": "Juan fue amigo de Jesús y lo conoció de cerca.",
+          "referencia": "1 Juan 1:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Caminar en la luz",
+          "texto": "En Dios no hay ninguna oscuridad. Si caminamos en su luz, estamos unidos unos con otros, y la sangre de Jesús nos limpia.",
+          "textoNino": "Dios es como una luz que nunca se apaga.",
+          "referencia": "1 Juan 1:5-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Si confesamos",
+          "texto": "Todos pecamos. Pero «si confesamos nuestros pecados, él es fiel y justo» para perdonarnos y limpiarnos.",
+          "textoNino": "Cuando le decimos a Dios lo que hicimos mal, él nos perdona.",
+          "referencia": "1 Juan 1:8-10",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Permanecer en él",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Si pecamos, Jesús nos defiende ante el Padre. Quien lo conoce obedece y ama a su hermano. El mundo pasa; quien hace la voluntad de Dios permanece.",
+      "resumenNino": "Jesús nos ayuda cuando fallamos. Amar a los demás es andar en la luz.",
+      "hojas": [
+        {
+          "titulo": "Un abogado ante el Padre",
+          "texto": "Juan escribe para que no pequemos. Pero si alguien peca, Jesús es nuestro abogado y dio su vida por los pecados de todo el mundo.",
+          "textoNino": "Jesús habla a nuestro favor con el Padre.",
+          "referencia": "1 Juan 2:1-2",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Amar al hermano",
+          "texto": "Quien dice que está en la luz y odia a su hermano, sigue en la oscuridad. Quien ama, camina en la luz.",
+          "textoNino": "Quien ama a los demás camina en la luz.",
+          "referencia": "1 Juan 2:7-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El mundo pasa",
+          "texto": "No pongas tu corazón en el mundo y sus deseos. Todo eso pasa, pero quien hace la voluntad de Dios permanece para siempre.",
+          "textoNino": "Las cosas pasan, pero el amor de Dios dura siempre.",
+          "referencia": "1 Juan 2:15-17",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Hijos de Dios",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "El Padre nos amó tanto que nos llama hijos suyos. Un día seremos como Jesús. Mientras tanto, amamos con hechos, no solo con palabras.",
+      "resumenNino": "Somos hijos de Dios. Amamos con hechos, no solo con palabras.",
+      "hojas": [
+        {
+          "titulo": "Mirad cuál amor",
+          "texto": "El Padre nos llama hijos de Dios, y lo somos. Cuando Jesús aparezca, seremos como él, porque lo veremos tal como es.",
+          "textoNino": "¡Dios nos llama sus hijos! Así de grande es su amor.",
+          "referencia": "1 Juan 3:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Amor con hechos",
+          "texto": "Jesús dio su vida por nosotros. Por eso ayudamos al hermano en necesidad. «No amemos de palabra ni de lengua, sino de obra y en verdad».",
+          "textoNino": "Ayudar a quien lo necesita es amar de verdad.",
+          "referencia": "1 Juan 3:16-18",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dios es mayor",
+          "texto": "Si tu corazón te acusa, recuerda: Dios es mayor que tu corazón y conoce todas las cosas. Su Espíritu nos asegura que él vive en nosotros.",
+          "textoNino": "Aunque te sientas mal, Dios te conoce y te ama.",
+          "referencia": "1 Juan 3:19-24",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios es amor",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "No todo lo que se oye viene de Dios. Dios es amor: nos amó primero y envió a su Hijo. Su amor echa fuera el miedo.",
+      "resumenNino": "Dios nos amó primero. Su amor quita el miedo.",
+      "hojas": [
+        {
+          "titulo": "Probar los espíritus",
+          "texto": "No todo mensaje viene de Dios. Quien confiesa que Jesucristo vino en carne es de Dios. Y Dios en nosotros es mayor que todo mal.",
+          "textoNino": "Dios en ti es más fuerte que cualquier mal.",
+          "referencia": "1 Juan 4:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El amor viene de Dios",
+          "texto": "El amor viene de Dios, porque Dios es amor. Lo mostró enviando a su Hijo para darnos vida y perdonar nuestros pecados.",
+          "textoNino": "Dios es amor. Envió a Jesús para darnos vida.",
+          "referencia": "1 Juan 4:7-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El amor echa fuera el temor",
+          "texto": "Quien vive en el amor vive en Dios. El amor perfecto echa fuera el miedo. Lo amamos porque él nos amó primero.",
+          "textoNino": "Con el amor de Dios no hay que tener miedo.",
+          "referencia": "1 Juan 4:16-21",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Vida eterna en Jesús",
+      "capitulos": "5",
+      "color": "rose",
+      "resumen": "La fe en Jesús vence al mundo. Quien tiene al Hijo tiene la vida. Juan escribe para que sepas que tienes vida eterna y ores con confianza.",
+      "resumenNino": "Con Jesús tenemos una vida que nunca se acaba.",
+      "hojas": [
+        {
+          "titulo": "La fe que vence",
+          "texto": "Todo el que cree que Jesús es el Hijo de Dios vence al mundo. Y sus mandamientos no son una carga pesada.",
+          "textoNino": "Creer en Jesús nos hace fuertes.",
+          "referencia": "1 Juan 5:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Para que sepas",
+          "texto": "Dios nos dio vida eterna, y esa vida está en su Hijo. Juan escribe para que los creyentes sepan que la tienen.",
+          "textoNino": "Si tienes a Jesús, tienes vida para siempre.",
+          "referencia": "1 Juan 5:11-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Dios nos oye",
+          "texto": "Cuando pedimos algo conforme a su voluntad, Dios nos oye. Por eso oramos con confianza.",
+          "textoNino": "Dios escucha cuando le hablas.",
+          "referencia": "1 Juan 5:14-15",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Juan dice que Jesús vino en carne, dio su vida por nuestros pecados y ahora nos defiende ante el Padre. En él se ve el amor de Dios. Tanto amó Dios al mundo, que dio a su Hijo.",
+    "referencias": ["1 Juan 2:1-2", "1 Juan 4:9-10", "Juan 3:16"]
+  },
+  "paraTuVida": [
+    "Esta semana, haz algo concreto por alguien, sin decir nada.",
+    "Si te sientes culpable, confiesa a Dios tu falta y recibe su perdón.",
+    "Cuando sientas miedo, repite: el amor de Dios echa fuera el temor."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "Según 1 Juan 4:8, ¿qué es Dios?",
+      "opciones": ["Amor", "Un juez lejano", "Una idea"],
+      "correcta": 0,
+      "explicacion": "Juan lo dice con tres palabras: «Dios es amor» (1 Juan 4:8)."
+    },
+    {
+      "pregunta": "¿Qué hace Dios si confesamos nuestros pecados?",
+      "opciones": ["Nos castiga", "Nos perdona y nos limpia", "Se aleja de nosotros"],
+      "correcta": 1,
+      "explicacion": "Dios es fiel y justo para perdonarnos y limpiarnos (1 Juan 1:9)."
+    },
+    {
+      "pregunta": "¿Qué Evangelio empieza hablando del Verbo, como 1 Juan?",
+      "opciones": ["Juan", "Marcos", "Lucas"],
+      "correcta": 0,
+      "explicacion": "Juan 1:1 dice: «En el principio era el Verbo». 1 Juan 1:1 usa palabras parecidas."
+    }
+  ],
+  "estudio": ["1-juan"],
+  "conexiones": [
+    { "id": "juan", "motivo": "El Evangelio de Juan usa las mismas palabras: luz, vida y amor." },
+    { "id": "2-juan", "motivo": "Una carta breve que une la verdad y el amor." }
+  ]
+}

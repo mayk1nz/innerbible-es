@@ -2,7 +2,11 @@
   "id": "felipe-el-evangelista",
   "titulo": "Felipe el evangelista",
   "subtitulo": "Uno de los siete, el que habló al etíope",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Samaria, Gaza y Cesarea"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Samaria, Gaza y Cesarea"
+  ],
   "enUnMinuto": [
     "Felipe fue uno de los siete elegidos para servir en la iglesia de Jerusalén.",
     "Llevó la buena noticia a Samaria y explicó a un funcionario de Etiopía que Isaías hablaba de Jesús.",
@@ -79,43 +83,81 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 6:1-7", "nota": "Elegido entre los siete" },
-        { "ref": "Hechos 8:4-25", "nota": "La buena noticia en Samaria" },
-        { "ref": "Hechos 8:26-40", "nota": "El funcionario etíope" },
-        { "ref": "Hechos 21:8-10", "nota": "Su casa en Cesarea" },
-        { "ref": "Isaías 53:7-8", "nota": "El texto que leía el etíope" }
+        {
+          "ref": "Hechos 6:1-7",
+          "nota": "Elegido entre los siete"
+        },
+        {
+          "ref": "Hechos 8:4-25",
+          "nota": "La buena noticia en Samaria"
+        },
+        {
+          "ref": "Hechos 8:26-40",
+          "nota": "El funcionario etíope"
+        },
+        {
+          "ref": "Hechos 21:8-10",
+          "nota": "Su casa en Cesarea"
+        },
+        {
+          "ref": "Isaías 53:7-8",
+          "nota": "El texto que leía el etíope"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Felipe corrió junto a un carro para ayudar a un hombre a entender la Biblia. ¿A quién podrías ayudar tú a conocer una historia de Jesús?",
-      "actividad": "Para papás y abuelos: Felipe explicó que Isaías hablaba de Jesús (Hechos 8:35). Lean juntos una historia bíblica corta y pidan al niño que la cuente a otro familiar."
+      "actividad": "Para el adulto: Felipe explicó que Isaías hablaba de Jesús (Hechos 8:35). Lean juntos una historia bíblica corta y pidan al niño que la cuente a otro familiar."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, aquí estoy, como Felipe. Llévame a quien necesite oír de ti. Abre mis ojos para ver a Jesús en toda la Biblia, y mi boca para anunciarlo con alegría. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que el Espíritu envió a Felipe a un camino desierto por una sola persona?",
+        "¿Cómo explicarían ustedes a alguien que Isaías 53 habla de Jesús?",
+        "¿Qué pregunta sincera sobre Dios han escuchado de alguien últimamente?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué libro leía el funcionario etíope en su carro?",
-      "opciones": ["Salmos", "El profeta Isaías", "Génesis"],
+      "opciones": [
+        "Salmos",
+        "El profeta Isaías",
+        "Génesis"
+      ],
       "correcta": 1,
       "explicacion": "Leía al profeta Isaías, y Felipe le explicó que hablaba de Jesús (Hechos 8:28-35)."
     },
     {
       "pregunta": "¿Felipe el evangelista era uno de los Doce apóstoles?",
-      "opciones": ["No, era uno de los siete", "Sí, era hermano de Andrés", "Sí, reemplazó a Judas"],
+      "opciones": [
+        "No, era uno de los siete",
+        "Sí, era hermano de Andrés",
+        "Sí, reemplazó a Judas"
+      ],
       "correcta": 0,
       "explicacion": "Hechos lo llama «uno de los siete», elegidos para servir (Hechos 6:5; 21:8)."
     },
     {
       "pregunta": "¿A quién recibió Felipe en su casa de Cesarea?",
-      "opciones": ["A Esteban", "A Cornelio", "A Pablo y sus compañeros"],
+      "opciones": [
+        "A Esteban",
+        "A Cornelio",
+        "A Pablo y sus compañeros"
+      ],
       "correcta": 2,
       "explicacion": "Pablo y sus compañeros se quedaron muchos días en su casa (Hechos 21:8-10)."
     }
   ],
-  "estudio": ["hechos-8-12"],
+  "estudio": [
+    "hechos-8-12"
+  ],
   "buscar": "Felipe el evangelista"
 }

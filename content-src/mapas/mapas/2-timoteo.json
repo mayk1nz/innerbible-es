@@ -1,0 +1,178 @@
+{
+  "id": "2-timoteo",
+  "tipo": "libro",
+  "titulo": "2 Timoteo",
+  "subtitulo": "Termina bien la carrera",
+  "libro": "2Tim",
+  "centro": {
+    "texto": "Termina bien la carrera: Dios es fiel y su palabra no está presa",
+    "textoNino": "Sigue a Jesús hasta el final; él siempre es fiel"
+  },
+  "versiculo": {
+    "texto": "He peleado la buena batalla, he acabado la carrera, he guardado la fe.",
+    "referencia": "2 Timoteo 4:7"
+  },
+  "ramas": [
+    {
+      "titulo": "Sin vergüenza ni miedo",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Preso en Roma, Pablo escribe a Timoteo con cariño. Le recuerda su fe sincera y le pide no avergonzarse de Jesús, porque Dios da valor.",
+      "resumenNino": "Pablo le dice a Timoteo: no tengas miedo, Dios te da fuerza.",
+      "hojas": [
+        {
+          "titulo": "Pablo escribe desde la cárcel",
+          "texto": "La carta lleva el nombre de Pablo y así la recibió la tradición. Algunos estudiosos piensan en un discípulo suyo. Pablo llama a Timoteo «amado hijo».",
+          "textoNino": "Pablo quería mucho a Timoteo, como a un hijo.",
+          "referencia": "2 Timoteo 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una fe de familia",
+          "texto": "La fe de Timoteo vivió primero en su abuela Loida y en su madre Eunice. Pablo ora por él noche y día.",
+          "textoNino": "La abuela y la mamá de Timoteo le enseñaron a creer.",
+          "referencia": "2 Timoteo 1:3-5",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un espíritu de valor",
+          "texto": "Dios no nos dio un espíritu de miedo. Nos da fuerza, amor y dominio propio. Timoteo debe avivar el don que recibió.",
+          "textoNino": "Dios no nos da miedo. Nos da fuerza y amor.",
+          "referencia": "2 Timoteo 1:6-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Sé en quién he creído",
+          "texto": "Pablo sufre, pero no se avergüenza. Jesús venció a la muerte y trajo la vida. Pablo sabe en quién ha creído.",
+          "textoNino": "Pablo confiaba en Jesús, aunque estaba preso.",
+          "referencia": "2 Timoteo 1:8-12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Soldado, atleta y labrador",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Pablo usa tres imágenes: el soldado, el atleta y el labrador. Todos se esfuerzan. Así Timoteo debe pasar la fe a otros y enseñar con paciencia.",
+      "resumenNino": "Como un soldado o un atleta, sigue a Jesús con ganas.",
+      "hojas": [
+        {
+          "titulo": "Pasar la fe a otros",
+          "texto": "Lo que Timoteo aprendió debe enseñarlo a personas fieles, que a su vez enseñen a otros. Así la fe llega de mano en mano.",
+          "textoNino": "Lo que aprendes de Jesús, lo puedes enseñar a otros.",
+          "referencia": "2 Timoteo 2:1-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Él permanece fiel",
+          "texto": "Acuérdate de Jesucristo, resucitado de los muertos. La palabra de Dios no está presa. Y si somos infieles, él permanece fiel.",
+          "textoNino": "Aunque fallemos, Jesús sigue siendo fiel.",
+          "referencia": "2 Timoteo 2:8-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un obrero que no se avergüenza",
+          "texto": "Timoteo debe usar bien la palabra de verdad. Nada de peleas por palabras. El siervo del Señor es amable y corrige con dulzura.",
+          "textoNino": "Explicamos la Biblia con amor, sin pelear.",
+          "referencia": "2 Timoteo 2:14-26",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Firmes en la Escritura",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "Pablo avisa de tiempos difíciles, con gente que ama más el placer que a Dios. Timoteo debe seguir lo que aprendió de niño en las Sagradas Escrituras.",
+      "resumenNino": "Timoteo leía la Biblia desde niño. Tú también puedes.",
+      "hojas": [
+        {
+          "titulo": "Tiempos difíciles",
+          "texto": "Habrá gente egoísta, orgullosa y desagradecida, con apariencia de fe pero sin su fuerza. Pablo pide a Timoteo no seguir su camino.",
+          "textoNino": "Algunos solo aparentan amar a Dios. Nosotros lo amamos de verdad.",
+          "referencia": "2 Timoteo 3:1-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Desde niño",
+          "texto": "Timoteo vio la paciencia de Pablo en las persecuciones. Desde niño conoce las Sagradas Escrituras, que llevan a la salvación por la fe en Jesús.",
+          "textoNino": "Timoteo aprendió la Biblia desde pequeño.",
+          "referencia": "2 Timoteo 3:10-15",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Toda Escritura es inspirada",
+          "texto": "«Toda Escritura es inspirada divinamente». Sirve para enseñar, corregir y formar en el bien, para toda buena obra.",
+          "textoNino": "La Biblia viene de Dios y nos enseña a vivir.",
+          "referencia": "2 Timoteo 3:16-17",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Termina bien la carrera",
+      "capitulos": "4",
+      "color": "rose",
+      "resumen": "Pablo pide a Timoteo predicar la palabra siempre. Él sabe que su vida termina y está en paz: guardó la fe y el Señor lo espera con una corona.",
+      "resumenNino": "Pablo terminó su carrera con Jesús y recibirá un premio.",
+      "hojas": [
+        {
+          "titulo": "Predica la palabra",
+          "texto": "A tiempo y fuera de tiempo, Timoteo debe anunciar el evangelio con paciencia. Algunos buscarán solo lo que quieren oír.",
+          "textoNino": "Habla de Jesús siempre, con paciencia.",
+          "referencia": "2 Timoteo 4:1-5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La corona de justicia",
+          "texto": "Pablo mira atrás y dice: «He peleado la buena batalla». La corona no es solo para él: es para todos los que aman la venida de Jesús.",
+          "textoNino": "Dios tiene un premio para todos los que aman a Jesús.",
+          "referencia": "2 Timoteo 4:6-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Amigos que se van y vuelven",
+          "texto": "Demas lo dejó y muchos no lo ayudaron. Pero Lucas está con él, y pide a Marcos, que ahora le es útil. El Señor nunca lo dejó solo.",
+          "textoNino": "Aunque algunos amigos se fueron, Dios nunca dejó a Pablo.",
+          "referencia": "2 Timoteo 4:9-18",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "El centro de la carta es Jesús resucitado. Él venció a la muerte y sacó a la luz la vida que no se acaba. Por eso Pablo espera su final en paz. Jesús dijo: «Yo soy la resurrección y la vida».",
+    "referencias": ["2 Timoteo 1:10", "2 Timoteo 2:8", "Juan 11:25"]
+  },
+  "paraTuVida": [
+    "Da gracias a Dios por quien te enseñó la fe, y díselo a esa persona.",
+    "Lee hoy un pasaje de la Biblia con alguien más joven que tú.",
+    "Cuando tengas miedo, repite: Dios me da fuerza, amor y dominio propio."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llamaban la abuela y la madre de Timoteo?",
+      "opciones": ["Loida y Eunice", "Sara y Rebeca", "María y Marta"],
+      "correcta": 0,
+      "explicacion": "Su fe vivió primero en su abuela Loida y en su madre Eunice (2 Timoteo 1:5)."
+    },
+    {
+      "pregunta": "¿Para qué sirve la Escritura, según Pablo?",
+      "opciones": ["Solo para los maestros", "Para enseñar y corregir", "Para adivinar el futuro"],
+      "correcta": 1,
+      "explicacion": "Toda Escritura es útil para enseñar, corregir y formar en el bien (2 Timoteo 3:16)."
+    },
+    {
+      "pregunta": "¿A qué compañero pidió Pablo traer, aunque antes no quiso viajar con él?",
+      "opciones": ["Demas", "Marcos", "Alejandro"],
+      "correcta": 1,
+      "explicacion": "En Hechos 15:37-39 Pablo no quiso llevar a Marcos. Ahora dice que le es útil (2 Timoteo 4:11)."
+    }
+  ],
+  "estudio": ["2-timoteo", "tu-biblia"],
+  "conexiones": [
+    { "id": "1-timoteo", "motivo": "La primera carta de Pablo a Timoteo." },
+    { "id": "hechos", "motivo": "Allí Pablo conoce a Timoteo en Listra (Hechos 16:1-3)." }
+  ]
+}

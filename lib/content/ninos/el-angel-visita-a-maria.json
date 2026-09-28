@@ -1,0 +1,278 @@
+{
+  "id": "el-angel-visita-a-maria",
+  "titulo": "El ángel visita a María",
+  "referencia": "Lucas 1:26-38",
+  "estudio": "anuncios",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "nazaret",
+      "texto": {
+        "3-5": "En un pueblito llamado Nazaret vivía María. Un día llegó un visitante del cielo: ¡el ángel Gabriel!",
+        "6-8": "En Nazaret, un pueblo pequeño de Galilea, vivía una joven llamada María. Estaba comprometida para casarse con José, un hombre de la familia del rey David. Un día, Dios envió al ángel Gabriel a visitarla.",
+        "9-12": "Al sexto mes del embarazo de Isabel, Dios envió al ángel Gabriel a Nazaret, un pueblo pequeño de Galilea. Allí vivía María, una joven virgen comprometida con José, descendiente del rey David (Lucas 1:27). Dios eligió un lugar sencillo para empezar algo inmenso."
+      }
+    },
+    {
+      "id": "saludo",
+      "texto": {
+        "3-5": "El ángel dijo: «¡Alégrate, María! El Señor está contigo». María se sorprendió mucho.",
+        "6-8": "El ángel entró y le dijo: «¡Alégrate, favorecida de Dios! El Señor está contigo». María se quedó muy sorprendida y se preguntaba qué querría decir ese saludo. Entonces el ángel le dijo: «No tengas miedo, María. Dios te ha dado su favor».",
+        "9-12": "Gabriel la saludó: «¡Salve, muy favorecida! el Señor es contigo» (Lucas 1:28). María se turbó y pensaba qué significaba aquel saludo. El ángel la tranquilizó: «María, no temas, porque has hallado gracia cerca de Dios». La palabra «gracia» habla de un regalo que no se gana: un favor de Dios."
+      }
+    },
+    {
+      "id": "jesus",
+      "texto": {
+        "3-5": "«Vas a tener un bebé», dijo el ángel. «Se llamará Jesús. ¡Y su reino no tendrá fin!».",
+        "6-8": "El ángel le anunció: «Tendrás un hijo, y le pondrás por nombre Jesús. Será grande y lo llamarán Hijo del Altísimo. Dios le dará el trono de David, y su reino no tendrá fin».",
+        "9-12": "Gabriel le anunció que tendría un hijo y que le pondría por nombre Jesús. Ese niño sería «Hijo del Altísimo», heredero del trono de David, y «de su reino no habrá fin» (Lucas 1:33). Así, Dios cumplía la promesa que siglos antes había hecho al rey David."
+      }
+    },
+    {
+      "id": "como-sera",
+      "texto": {
+        "3-5": "María preguntó: «¿Cómo será esto?». El ángel dijo: «El Espíritu Santo lo hará. ¡Para Dios no hay nada imposible!».",
+        "6-8": "María preguntó: «¿Cómo será esto?». El ángel le explicó: «El Espíritu Santo vendrá sobre ti, y el poder de Dios te cubrirá. Por eso el niño será llamado Hijo de Dios». Además, su parienta Isabel, ya mayor, también esperaba un bebé. «¡Para Dios no hay nada imposible!».",
+        "9-12": "María preguntó con sencillez: «¿Cómo será esto?». El ángel le explicó que el Espíritu Santo vendría sobre ella, y por eso el niño sería llamado Hijo de Dios. Le contó además que Isabel, su parienta, esperaba un hijo en su vejez. Y concluyó: «Ninguna cosa es imposible para Dios» (Lucas 1:37)."
+      }
+    },
+    {
+      "id": "el-si-de-maria",
+      "texto": {
+        "3-5": "María dijo: «Sí, Dios. Aquí estoy. Que se haga lo que tú dices». Y el ángel se fue.",
+        "6-8": "María respondió: «Aquí está la sierva del Señor. Que se haga en mí lo que has dicho». María confió en Dios con todo su corazón. Luego el ángel se fue. Dios estaba preparando el regalo más grande: Jesús, que vendría a salvarnos.",
+        "9-12": "María respondió: «He aquí la sierva del Señor; hágase a mí conforme a tu palabra» (Lucas 1:38). No entendía todo, pero confió. Su «sí» abrió la puerta a la llegada de Jesús al mundo. Y el ángel partió de ella."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": {
+      "texto": "¡Para Dios no hay nada imposible!",
+      "referencia": "Lucas 1:37",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Aquí estoy, Señor: que se haga en mí lo que tú dices.",
+      "referencia": "Lucas 1:38",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Porque ninguna cosa es imposible para Dios.",
+      "referencia": "Lucas 1:37",
+      "fuente": "RV1909"
+    }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            {
+              "texto": "Un ángel visitó a María.",
+              "verdadera": true,
+              "porque": "Dios envió al ángel Gabriel."
+            },
+            {
+              "texto": "El bebé se llamaría Pedro.",
+              "verdadera": false,
+              "porque": "El ángel dijo que se llamaría Jesús."
+            },
+            {
+              "texto": "María le dijo que sí a Dios.",
+              "verdadera": true,
+              "porque": "María dijo: «Aquí estoy»."
+            }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            {
+              "texto": "El ángel se llamaba Gabriel.",
+              "verdadera": true,
+              "porque": "Lucas dice que Dios envió al ángel Gabriel."
+            },
+            {
+              "texto": "María vivía en una gran ciudad llamada Roma.",
+              "verdadera": false,
+              "porque": "Vivía en Nazaret, un pueblo pequeño de Galilea."
+            },
+            {
+              "texto": "José era de la familia del rey David.",
+              "verdadera": true,
+              "porque": "Lucas dice que José era «de la casa de David»."
+            },
+            {
+              "texto": "El ángel le dijo a María: «No tengas miedo».",
+              "verdadera": true,
+              "porque": "Le dijo: «María, no temas»."
+            },
+            {
+              "texto": "Isabel, la parienta de María, también esperaba un bebé.",
+              "verdadera": true,
+              "porque": "Isabel esperaba un hijo, aunque ya era mayor."
+            },
+            {
+              "texto": "María no quiso escuchar al ángel.",
+              "verdadera": false,
+              "porque": "María escuchó, preguntó y dijo: «Aquí está la sierva del Señor»."
+            }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            {
+              "texto": "Gabriel fue enviado a Nazaret, en Galilea.",
+              "verdadera": true,
+              "porque": "Así lo dice Lucas 1:26."
+            },
+            {
+              "texto": "María ya estaba casada y vivía con José.",
+              "verdadera": false,
+              "porque": "Estaba desposada, es decir, comprometida con José (Lucas 1:27)."
+            },
+            {
+              "texto": "El ángel dijo que el reino de Jesús no tendría fin.",
+              "verdadera": true,
+              "porque": "«De su reino no habrá fin» (Lucas 1:33)."
+            },
+            {
+              "texto": "María se turbó al oír el saludo del ángel.",
+              "verdadera": true,
+              "porque": "Lucas 1:29 dice que se turbó y pensaba qué saludo era ese."
+            },
+            {
+              "texto": "Isabel estaba en su tercer mes de embarazo.",
+              "verdadera": false,
+              "porque": "Estaba en su sexto mes (Lucas 1:36)."
+            },
+            {
+              "texto": "El niño sería llamado Hijo del Altísimo.",
+              "verdadera": true,
+              "porque": "Así lo anunció el ángel en Lucas 1:32."
+            },
+            {
+              "texto": "El ángel dijo que para Dios algunas cosas son imposibles.",
+              "verdadera": false,
+              "porque": "Dijo lo contrario: «ninguna cosa es imposible para Dios» (Lucas 1:37)."
+            },
+            {
+              "texto": "María respondió: «He aquí la sierva del Señor».",
+              "verdadera": true,
+              "porque": "Es su respuesta en Lucas 1:38."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            [
+              "María",
+              "Nazaret"
+            ],
+            [
+              "Gabriel",
+              "el ángel"
+            ],
+            [
+              "Jesús",
+              "el bebé prometido"
+            ]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            [
+              "María",
+              "la joven que dijo sí"
+            ],
+            [
+              "Gabriel",
+              "el mensajero de Dios"
+            ],
+            [
+              "José",
+              "familia de David"
+            ],
+            [
+              "Isabel",
+              "la parienta de María"
+            ],
+            [
+              "Jesús",
+              "Hijo del Altísimo"
+            ],
+            [
+              "Nazaret",
+              "pueblo de Galilea"
+            ]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            [
+              "Gabriel",
+              "«No temas»"
+            ],
+            [
+              "María",
+              "«Hágase a mí conforme a tu palabra»"
+            ],
+            [
+              "Isabel",
+              "esperaba un hijo en su vejez"
+            ],
+            [
+              "José",
+              "de la casa de David"
+            ],
+            [
+              "Nazaret",
+              "ciudad de Galilea"
+            ],
+            [
+              "sexto mes",
+              "cuando llegó el ángel"
+            ],
+            [
+              "Espíritu Santo",
+              "vendría sobre María"
+            ],
+            [
+              "Jesús",
+              "su reino no tendrá fin"
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que para Dios nada es imposible y que, como María, podemos confiar en Él y decirle «sí».",
+    "siPregunta": [
+      {
+        "pregunta": "¿Cómo puede nacer un bebé sin papá?",
+        "respuesta": "Con sencillez: «Fue un milagro de Dios. El Espíritu Santo hizo que Jesús empezara a crecer en la pancita de María, y José lo cuidó como papá». No hace falta más detalle. Católicos y evangélicos confiesan juntos este misterio."
+      },
+      {
+        "pregunta": "¿Por qué en unas iglesias se habla más de María que en otras?",
+        "respuesta": "Todos los cristianos honran a María como madre de Jesús y ejemplo de fe. Cada iglesia lo expresa a su manera. En esta historia todos vemos lo mismo: una joven que confió en Dios."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué nombre le dijo el ángel que tendría el bebé?",
+      "sentir": "María se sorprendió mucho. ¿Cómo te habrías sentido tú con la visita de un ángel?",
+      "vivir": "¿En qué cosa pequeña podemos decirle «sí» a Dios esta semana?"
+    },
+    "oracion": "Dios, gracias porque para ti nada es imposible. Ayúdanos a confiar en ti y a decirte «sí», como María. Amén.",
+    "gesto": "Cuando algo parezca difícil esta semana, díganse unos a otros: «¡Para Dios no hay nada imposible!»."
+  },
+  "estampa": "El «sí» de María"
+}

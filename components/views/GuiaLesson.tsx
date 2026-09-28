@@ -208,7 +208,7 @@ function BloqueView({ b }: { b: BloqueGuia }) {
           <p className="leading-relaxed text-ink">{b.texto}</p>
           {b.actividad && (
             <p className="mt-2 leading-relaxed text-text">
-              <span className="font-semibold text-ink">Actividad:</span> {b.actividad}
+              {b.actividad}
             </p>
           )}
         </Bloque>

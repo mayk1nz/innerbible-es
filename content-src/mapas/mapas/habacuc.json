@@ -1,0 +1,181 @@
+{
+  "id": "habacuc",
+  "tipo": "libro",
+  "titulo": "Habacuc",
+  "subtitulo": "El justo vivirá por la fe",
+  "libro": "Hab",
+  "centro": {
+    "texto": "Podemos preguntar a Dios y confiar en él aun sin entenderlo todo",
+    "textoNino": "Podemos preguntarle a Dios y confiar en él"
+  },
+  "versiculo": {
+    "texto": "He aquí se enorgullece aquel cuya alma no es derecha en él: mas el justo en su fe vivirá.",
+    "referencia": "Habacuc 2:4"
+  },
+  "ramas": [
+    {
+      "titulo": "¿Hasta cuándo?",
+      "capitulos": "1:1-4",
+      "color": "dusk",
+      "resumen": "Habacuc vive en Judá, el reino del sur, poco antes de que llegue Babilonia (c. 610–600 a.C.). Ve injusticia y se lo dice a Dios.",
+      "resumenNino": "Habacuc vio cosas malas y le preguntó a Dios por qué.",
+      "hojas": [
+        {
+          "titulo": "Un profeta que pregunta",
+          "texto": "Habacuc no esconde su queja. Le dice a Dios: «¿Hasta cuándo, oh Jehová, clamaré, y no oirás?».",
+          "textoNino": "Habacuc le preguntó a Dios: ¿hasta cuándo?",
+          "referencia": "Habacuc 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La ley se debilita",
+          "texto": "Hay violencia y peleas en Judá. Los jueces tuercen la justicia, y el malo rodea al justo.",
+          "textoNino": "Había peleas y nadie ayudaba al que era bueno.",
+          "referencia": "Habacuc 1:3-4",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Una respuesta inesperada",
+      "capitulos": "1:5-11",
+      "color": "amber",
+      "resumen": "Dios responde que ya está obrando. Usará a los caldeos, el pueblo de Babilonia, para corregir a Judá.",
+      "resumenNino": "Dios respondió: ya estoy haciendo algo.",
+      "hojas": [
+        {
+          "titulo": "No lo creeréis",
+          "texto": "Dios dice que hará una obra en sus días tan grande que, aunque se la cuenten, no la creerán.",
+          "textoNino": "Dios hace cosas que nos sorprenden.",
+          "referencia": "Habacuc 1:5",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Los caldeos",
+          "texto": "Dios levanta a los caldeos, un pueblo rápido y temible. Pero ellos dan la gloria de su fuerza a su dios, y eso los hace culpables.",
+          "textoNino": "Un pueblo fuerte llegaría a Judá.",
+          "referencia": "Habacuc 1:6-11",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Esperar en la torre",
+      "capitulos": "1:12–2:1",
+      "color": "rose",
+      "resumen": "Habacuc se sorprende más. ¿Cómo usará Dios a un pueblo más cruel? Aun así, confía en el Dios santo y espera su respuesta.",
+      "resumenNino": "Habacuc esperó con paciencia la respuesta de Dios.",
+      "hojas": [
+        {
+          "titulo": "Santo mío, mi Roca",
+          "texto": "Habacuc recuerda quién es Dios: eterno, santo y su Roca. Desde esa confianza, vuelve a preguntar por qué calla.",
+          "textoNino": "Habacuc sabía que Dios es santo y fuerte.",
+          "referencia": "Habacuc 1:12-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "En el puesto de guardia",
+          "texto": "Habacuc sube a su puesto de guardia, como un vigía. Allí espera para ver qué le responderá Dios.",
+          "textoNino": "Habacuc subió a un lugar alto a esperar.",
+          "referencia": "Habacuc 2:1",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El justo vivirá por fe",
+      "capitulos": "2:2-20",
+      "color": "olive",
+      "resumen": "Dios responde: la visión se cumplirá a su tiempo. El orgulloso caerá, pero el justo vivirá confiando en Dios.",
+      "resumenNino": "Dios dijo: el que confía en mí vivirá.",
+      "hojas": [
+        {
+          "titulo": "Escribe la visión",
+          "texto": "Dios le pide escribir la visión en tablas, bien clara. Aunque tarde, «espéralo, que sin duda vendrá».",
+          "textoNino": "Dios cumple lo que promete, aunque tarde.",
+          "referencia": "Habacuc 2:2-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El justo en su fe",
+          "texto": "El orgulloso no tiene el alma recta. Pero el justo vivirá por su fe, confiando en Dios.",
+          "textoNino": "El que confía en Dios vive de verdad.",
+          "referencia": "Habacuc 2:4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Como las aguas cubren el mar",
+          "texto": "Dios anuncia ayes contra el que roba y oprime. Y promete que la tierra se llenará del conocimiento de su gloria.",
+          "textoNino": "Un día todo el mundo conocerá a Dios.",
+          "referencia": "Habacuc 2:5-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Silencio ante Dios",
+          "texto": "Los ídolos no hablan ni tienen vida. Pero el Señor está en su santo templo. Toda la tierra calla ante él.",
+          "textoNino": "Dios está vivo; los ídolos no.",
+          "referencia": "Habacuc 2:18-20",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Me alegraré en Dios",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "El libro termina con una oración cantada. Habacuc recuerda cómo Dios salvó en el pasado, y decide alegrarse en él pase lo que pase.",
+      "resumenNino": "Habacuc cantó feliz porque confiaba en Dios.",
+      "hojas": [
+        {
+          "titulo": "Aviva tu obra",
+          "texto": "Habacuc ora: aviva tu obra en nuestros tiempos, y «en la ira acuérdate de la misericordia».",
+          "textoNino": "Habacuc le pidió a Dios que tuviera misericordia.",
+          "referencia": "Habacuc 3:1-16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Aunque la higuera no florezca",
+          "texto": "Aunque no haya fruto, ni ovejas, ni vacas, Habacuc se alegrará en Dios. El Señor es su fuerza y lo hace andar seguro como un ciervo.",
+          "textoNino": "Aunque falte todo, Dios es mi alegría.",
+          "referencia": "Habacuc 3:17-19",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pablo usa Habacuc 2:4 para explicar el evangelio: «el justo vivirá por la fe». La salvación no se gana; se recibe confiando en Jesús. Hebreos también cita a Habacuc para esperar a Cristo con fe.",
+    "referencias": ["Romanos 1:16-17", "Gálatas 3:11", "Hebreos 10:37-38"]
+  },
+  "paraTuVida": [
+    "Escribe tu pregunta más difícil y llévala a Dios en oración.",
+    "Si algo que esperas tarda, repite Habacuc 2:3.",
+    "Completa esta frase: aunque me falte…, con todo, me alegraré en Dios."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué le preguntó Habacuc a Dios al comenzar el libro?",
+      "opciones": ["¿Hasta cuándo?", "¿Dónde estás?", "¿Quién eres?"],
+      "correcta": 0,
+      "explicacion": "Habacuc dice: «¿Hasta cuándo, oh Jehová, clamaré, y no oirás?» (Habacuc 1:2)."
+    },
+    {
+      "pregunta": "Según Habacuc 2:4, ¿por qué vivirá el justo?",
+      "opciones": ["Por su fuerza", "Por su riqueza", "Por su fe"],
+      "correcta": 2,
+      "explicacion": "Dios responde: «el justo en su fe vivirá» (Habacuc 2:4)."
+    },
+    {
+      "pregunta": "¿Qué apóstol cita Habacuc 2:4 en su carta a los Romanos?",
+      "opciones": ["Pedro", "Pablo", "Juan"],
+      "correcta": 1,
+      "explicacion": "Pablo escribe: «el justo vivirá por la fe», citando a Habacuc (Romanos 1:17)."
+    }
+  ],
+  "estudio": ["habacuc"],
+  "conexiones": [
+    { "id": "romanos", "motivo": "Pablo explica el evangelio con Habacuc 2:4." },
+    { "id": "jeremias", "motivo": "Jeremías habla a Judá en los mismos años." },
+    { "id": "salmos", "motivo": "El capítulo 3 es una oración cantada, como los Salmos." }
+  ]
+}

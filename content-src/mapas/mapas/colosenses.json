@@ -1,0 +1,177 @@
+{
+  "id": "colosenses",
+  "tipo": "libro",
+  "titulo": "Colosenses",
+  "subtitulo": "Cristo es lo primero",
+  "libro": "Col",
+  "centro": {
+    "texto": "Cristo es la imagen de Dios y lo primero en todo",
+    "textoNino": "Jesús es lo más importante de todo"
+  },
+  "versiculo": {
+    "texto": "El cual es la imagen del Dios invisible, el primogénito de toda criatura.",
+    "referencia": "Colosenses 1:15"
+  },
+  "ramas": [
+    {
+      "titulo": "Cristo sobre todo",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo da gracias por una iglesia que no conoce en persona. Canta a Cristo, imagen del Dios invisible, por quien todo fue creado y reconciliado.",
+      "resumenNino": "Jesús hizo todas las cosas y nos trae la paz.",
+      "hojas": [
+        {
+          "titulo": "Fe y amor",
+          "texto": "Epafras les llevó la buena noticia. Pablo da gracias por su fe en Cristo y por su amor a todos los hermanos.",
+          "textoNino": "Pablo se alegra porque ellos aman a Jesús.",
+          "referencia": "Colosenses 1:3-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Imagen del Dios invisible",
+          "texto": "Por Cristo fueron creadas todas las cosas. Él es la cabeza de la iglesia y el primero en todo.",
+          "textoNino": "Jesús nos muestra cómo es Dios.",
+          "referencia": "Colosenses 1:15-18",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Paz por la cruz",
+          "texto": "Por la sangre de su cruz, Cristo hace la paz y reconcilia consigo todas las cosas.",
+          "textoNino": "Por la cruz, Jesús nos trae la paz con Dios.",
+          "referencia": "Colosenses 1:19-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Completos en él",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Pablo pide a los colosenses que sigan firmes en Cristo. En él vive toda la plenitud de Dios, y con él no les falta nada.",
+      "resumenNino": "Con Jesús tenemos todo lo que necesitamos.",
+      "hojas": [
+        {
+          "titulo": "Con raíces firmes",
+          "texto": "Como recibieron a Cristo, así deben andar en él: con raíces firmes y dando gracias.",
+          "textoNino": "Somos como árboles con raíces en Jesús.",
+          "referencia": "Colosenses 2:6-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Toda la plenitud",
+          "texto": "En Cristo habita toda la plenitud de Dios. Unidos a él, no les falta nada.",
+          "textoNino": "Jesús es todo lo que necesitamos.",
+          "referencia": "Colosenses 2:9-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Clavado en la cruz",
+          "texto": "Dios perdonó todos nuestros pecados. Quitó lo que había contra nosotros y lo clavó en la cruz.",
+          "textoNino": "Jesús borró nuestras faltas en la cruz.",
+          "referencia": "Colosenses 2:13-14",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Una vida escondida con Cristo",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "Resucitados con Cristo, buscamos las cosas de arriba. Nos vestimos de bondad, perdón y amor, y hacemos todo en el nombre de Jesús, también en casa.",
+      "resumenNino": "Nos vestimos de amor y hacemos todo para Jesús.",
+      "hojas": [
+        {
+          "titulo": "Las cosas de arriba",
+          "texto": "Busca las cosas de arriba, donde está Cristo. Tu vida está escondida con Cristo en Dios.",
+          "textoNino": "Pensamos en Jesús, que está en el cielo.",
+          "referencia": "Colosenses 3:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Vestidos de amor",
+          "texto": "Nos vestimos de bondad, humildad y paciencia. Perdonamos como Cristo nos perdonó y, sobre todo, nos vestimos de amor.",
+          "textoNino": "El amor es la mejor ropa que podemos ponernos.",
+          "referencia": "Colosenses 3:12-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Todo en su nombre",
+          "texto": "Todo lo que hagas, de palabra o de hecho, hazlo en el nombre del Señor Jesús, dando gracias al Padre.",
+          "textoNino": "Todo lo que hacemos, lo hacemos para Jesús.",
+          "referencia": "Colosenses 3:15-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "En casa",
+          "texto": "Pablo pide amor y respeto a esposas, esposos, hijos, padres y siervos, porque todos sirven al mismo Señor.",
+          "textoNino": "En casa nos tratamos con amor.",
+          "referencia": "Colosenses 3:18-25",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Oración y amigos",
+      "capitulos": "4",
+      "color": "dusk",
+      "resumen": "Pablo pide perseverar en la oración y hablar con gracia. Termina con saludos de sus compañeros, entre ellos Lucas, el médico amado.",
+      "resumenNino": "Pablo ora, saluda a sus amigos y se despide.",
+      "hojas": [
+        {
+          "titulo": "Perseverad en la oración",
+          "texto": "Pablo, preso, pide oración para poder anunciar el misterio de Cristo.",
+          "textoNino": "Pablo pide a sus amigos que oren por él.",
+          "referencia": "Colosenses 4:2-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Palabras con gracia",
+          "texto": "Que tu palabra sea siempre con gracia, sazonada con sal, para saber cómo responder a cada uno.",
+          "textoNino": "Hablamos con amabilidad a todos.",
+          "referencia": "Colosenses 4:5-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Los compañeros de Pablo",
+          "texto": "Tíquico y Onésimo llevan noticias. Saludan Aristarco, Marcos, Epafras, Lucas y otros amigos.",
+          "textoNino": "Pablo tiene muchos amigos que trabajan con él.",
+          "referencia": "Colosenses 4:7-14",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Colosenses canta a Cristo como imagen del Dios invisible, creador de todo y cabeza de la iglesia. En él habita toda la plenitud de Dios, y nuestra vida está escondida con él.",
+    "referencias": ["Colosenses 1:15-20", "Colosenses 2:9", "Colosenses 3:3"]
+  },
+  "paraTuVida": [
+    "Antes de empezar tu trabajo hoy, dedícalo al Señor Jesús con una oración.",
+    "Cuida cómo hablas esta semana: que tus palabras sean con gracia."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "Según Colosenses 1:15, ¿de quién es imagen Cristo?",
+      "opciones": ["De Moisés", "Del Dios invisible", "De los ángeles"],
+      "correcta": 1,
+      "explicacion": "Colosenses 1:15 dice que Cristo es la imagen del Dios invisible."
+    },
+    {
+      "pregunta": "¿Dónde clavó Dios lo que había contra nosotros?",
+      "opciones": ["En la puerta del templo", "En la cruz", "En un árbol del huerto"],
+      "correcta": 1,
+      "explicacion": "Colosenses 2:14 dice que Dios lo quitó de en medio y lo clavó en la cruz."
+    },
+    {
+      "pregunta": "¿Qué hermano de Colosas aparece también en la carta a Filemón?",
+      "opciones": ["Onésimo", "Silas", "Bernabé"],
+      "correcta": 0,
+      "explicacion": "Colosenses 4:9 nombra a Onésimo. La carta a Filemón habla de él con cariño."
+    }
+  ],
+  "estudio": ["colosenses"],
+  "conexiones": [
+    { "id": "efesios", "motivo": "Carta hermana: Cristo es la cabeza del cuerpo." },
+    { "id": "filemon", "motivo": "Onésimo, que lleva noticias a Colosas, protagoniza Filemón." }
+  ]
+}

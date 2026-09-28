@@ -1,0 +1,147 @@
+{
+  "id": "los-diez-mandamientos",
+  "titulo": "Los Diez Mandamientos",
+  "referencia": "Éxodo 20",
+  "estudio": "exodo",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-monte",
+      "texto": {
+        "3-5": "El pueblo llegó a un monte muy alto. ¡Pum, pum! Truenos. Humo. Sonaba una trompeta. ¡Dios iba a hablar!",
+        "6-8": "Después de salir de Egipto, el pueblo acampó frente al monte Sinaí. Un día hubo truenos, relámpagos y una nube espesa. El monte echaba humo y sonaba una trompeta muy fuerte. Entonces Dios habló a todo su pueblo.",
+        "9-12": "Al tercer mes de haber salido de Egipto, el pueblo acampó frente al monte Sinaí (Éxodo 19:1). Hubo truenos, relámpagos, una nube espesa y un sonido de trompeta muy fuerte. El monte humeaba. Entonces Dios habló a todo el pueblo."
+      }
+    },
+    {
+      "id": "yo-te-libere",
+      "texto": {
+        "3-5": "Dios dijo: «Yo soy tu Dios. Yo te saqué de Egipto». ¡Dios los amaba mucho!",
+        "6-8": "Lo primero que Dios dijo fue: «Yo soy el Señor tu Dios. Yo te saqué de Egipto, donde eras esclavo». Dios ya los había salvado. Ahora les regalaba diez palabras para vivir como un pueblo libre y feliz.",
+        "9-12": "Antes de pedir nada, Dios se presentó: «Yo soy el Señor tu Dios, que te saqué de Egipto» (Éxodo 20:2). Primero los liberó; después les dio estas palabras. Los mandamientos no sirven para ganarse el amor de Dios. Son el camino de un pueblo que ya es amado y libre."
+      }
+    },
+    {
+      "id": "amar-a-dios",
+      "texto": {
+        "3-5": "Unas palabras hablan de Dios: «Solo yo soy tu Dios». «Di mi nombre con cariño». «Descansa un día».",
+        "6-8": "Las primeras palabras hablan de amar a Dios. Solo Él es Dios, y nada puede ocupar su lugar. Su nombre se dice con respeto. Y un día de la semana es para descansar y recordarlo.",
+        "9-12": "Las primeras palabras hablan de amar a Dios. No tener otros dioses, no hacerse ídolos para adorarlos y no tomar su nombre en vano. También guardar un día de descanso, porque Dios mismo reposó el séptimo día después de la creación (Éxodo 20:11)."
+      }
+    },
+    {
+      "id": "amar-a-los-demas",
+      "texto": {
+        "3-5": "Otras palabras hablan de los demás: «Obedece a papá y a mamá». «No robes». «Di la verdad».",
+        "6-8": "Las otras palabras hablan de amar a los demás. Honra a tu papá y a tu mamá. Cuida la vida. Los esposos se son fieles. No robes. No mientas. No quieras quedarte con lo que es de otro.",
+        "9-12": "Las demás hablan de amar al prójimo. Honrar a padre y madre, no matar y ser fieles en el matrimonio. No robar, no dar falso testimonio y no codiciar lo que es de otro. Así Dios protege la vida, la familia, las cosas y la verdad de cada persona."
+      }
+    },
+    {
+      "id": "un-regalo",
+      "texto": {
+        "3-5": "Moisés subió al monte. Dios escribió sus palabras en piedra. ¡Son un regalo de amor!",
+        "6-8": "El pueblo tuvo miedo, pero Moisés les dijo: «No teman». Más tarde, Dios le dio a Moisés dos tablas de piedra con sus palabras. Mucho tiempo después, Jesús las resumió así: ama a Dios y ama a los demás.",
+        "9-12": "El pueblo tembló y se quedó lejos, pero Moisés les dijo: «No teman» (Éxodo 20:20). Más tarde, Dios le entregó las dos tablas de piedra. Siglos después, Jesús lo resumió en dos: amar a Dios y amar al prójimo como a uno mismo (Mateo 22:37-39)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me enseña a amar.", "referencia": "Éxodo 20:1-17", "fuente": "adaptado" },
+    "6-8": { "texto": "Ama a Dios con todo tu corazón, y a los demás como a ti mismo.", "referencia": "Mateo 22:37-39", "fuente": "adaptado" },
+    "9-12": { "texto": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de siervos. No tendrás dioses ajenos delante de mí.", "referencia": "Éxodo 20:2-3", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha bien cada frase.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Dios le habló a su pueblo desde un monte.", "verdadera": true, "porque": "Fue en el monte Sinaí." },
+            { "texto": "Dios dice: «Di mentiras».", "verdadera": false, "porque": "Dios nos pide decir siempre la verdad." },
+            { "texto": "Dios nos pide obedecer a papá y a mamá.", "verdadera": true, "porque": "Honrar a papá y a mamá es una de sus palabras." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Dios habló en el monte Sinaí.", "verdadera": true, "porque": "El pueblo acampó frente al monte y Dios les habló." },
+            { "texto": "Antes de dar sus mandamientos, Dios recordó que había liberado a su pueblo.", "verdadera": true, "porque": "Dijo: «Yo te saqué de Egipto»." },
+            { "texto": "Los mandamientos sirven para que Dios nos quiera.", "verdadera": false, "porque": "Dios ya nos ama; sus palabras nos enseñan a vivir en ese amor." },
+            { "texto": "Dios nos pide descansar un día de la semana.", "verdadera": true, "porque": "Un día es para descansar y recordar a Dios." },
+            { "texto": "Tomar algo que no es tuyo está bien si nadie te ve.", "verdadera": false, "porque": "«No robes» vale siempre, aunque nadie mire." },
+            { "texto": "Jesús resumió los mandamientos en amar a Dios y amar a los demás.", "verdadera": true, "porque": "Así lo enseñó Jesús." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Dios dio los mandamientos en el monte Sinaí.", "verdadera": true, "porque": "El pueblo acampó frente al Sinaí al tercer mes (Éxodo 19:1; 20:1)." },
+            { "texto": "Lo primero que Dios dijo fue una prohibición.", "verdadera": false, "porque": "Primero dijo: «Yo soy el Señor tu Dios, que te saqué de Egipto» (Éxodo 20:2)." },
+            { "texto": "El día de descanso recuerda que Dios reposó el séptimo día.", "verdadera": true, "porque": "Así lo explica Éxodo 20:11." },
+            { "texto": "«Honra a tu padre y a tu madre» viene con una promesa.", "verdadera": true, "porque": "«Para que tus días se alarguen en la tierra» (Éxodo 20:12)." },
+            { "texto": "Codiciar significa trabajar mucho para tener algo.", "verdadera": false, "porque": "Codiciar es desear con ansia lo que es de otro (Éxodo 20:17)." },
+            { "texto": "Al ver el humo y oír la trompeta, el pueblo corrió a subir al monte.", "verdadera": false, "porque": "Temblaron y se quedaron lejos (Éxodo 20:18)." },
+            { "texto": "Moisés le dijo al pueblo: «No teman».", "verdadera": true, "porque": "Dios no quería asustarlos, sino enseñarles a no pecar (Éxodo 20:20)." },
+            { "texto": "Jesús dijo que los mandamientos ya no importan.", "verdadera": false, "porque": "Jesús los resumió en amar a Dios y al prójimo (Mateo 22:37-40)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["Moisés", "las tablas de piedra"],
+            ["el monte", "la nube de humo"],
+            ["la trompeta", "¡tuuu!"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Moisés", "las tablas"],
+            ["el monte", "Sinaí"],
+            ["papá y mamá", "honrar"],
+            ["la verdad", "no mentir"],
+            ["lo de otro", "no robar"],
+            ["el séptimo día", "descansar"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Sinaí", "el monte"],
+            ["Egipto", "casa de esclavitud"],
+            ["ídolos", "nada en lugar de Dios"],
+            ["el nombre de Dios", "con respeto"],
+            ["séptimo día", "reposo"],
+            ["padre y madre", "honra"],
+            ["codiciar", "desear lo ajeno"],
+            ["Jesús", "ama a Dios y al prójimo"]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño entienda que los mandamientos son un regalo de un Dios que ya lo ama y le enseña a amar.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué en mi parroquia o en mi iglesia los numeran distinto?",
+        "respuesta": "Católicos y evangélicos agrupan las mismas palabras de Éxodo 20 de manera un poco diferente. El contenido es el mismo: amar a Dios y amar al prójimo. Por eso aquí no los numeramos."
+      },
+      {
+        "pregunta": "¿Qué quiere decir «no cometerás adulterio»?",
+        "respuesta": "Para los más pequeños basta con decir: «Dios pide a los esposos que se quieran y se sean fieles siempre». Es cuidar el amor de la familia."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué dijo Dios primero, antes de dar sus mandamientos?",
+      "sentir": "¿Cómo te sientes cuando alguien te dice la verdad? ¿Y cuando alguien toma tus cosas sin permiso?",
+      "vivir": "¿Qué palabra de Dios queremos practicar juntos esta semana en casa?"
+    },
+    "oracion": "Señor, gracias porque nos amas y nos enseñas el camino. Ayúdanos a amarte a ti y a amar a los demás. Amén.",
+    "gesto": "Escriban «Ama a Dios y a los demás» en un papel y pónganlo en la puerta. Cada noche, cuenten cómo lo vivieron."
+  },
+  "estampa": "Las tablas del amor"
+}

@@ -1,0 +1,232 @@
+{
+  "id": "2-cronicas",
+  "tipo": "libro",
+  "titulo": "2 Crónicas",
+  "subtitulo": "El templo y los reyes de Judá",
+  "libro": "2Chr",
+  "centro": {
+    "texto": "Cuando el pueblo busca a Dios con humildad, él escucha y perdona",
+    "textoNino": "Si buscamos a Dios y le pedimos perdón, él nos escucha"
+  },
+  "versiculo": {
+    "texto": "Si se humillare mi pueblo, sobre los cuales ni nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.",
+    "referencia": "2 Crónicas 7:14"
+  },
+  "ramas": [
+    {
+      "titulo": "Salomón y el templo",
+      "capitulos": "1–9",
+      "color": "warm",
+      "resumen": "Salomón, rey del reino todavía unido, pide sabiduría y construye el templo. Cuando termina de orar, fuego del cielo cae y la gloria de Dios llena la casa.",
+      "resumenNino": "Salomón hizo el templo, y la gloria de Dios lo llenó.",
+      "hojas": [
+        {
+          "titulo": "Sabiduría para guiar",
+          "texto": "Dios le dice a Salomón que pida lo que quiera. Salomón pide sabiduría para gobernar, y Dios se la da con muchas otras bendiciones.",
+          "textoNino": "Salomón pidió sabiduría, y Dios le dio mucho más.",
+          "referencia": "2 Crónicas 1:7-12",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Fuego del cielo",
+          "texto": "Salomón termina su oración y cae fuego del cielo sobre el altar. El pueblo se inclina y canta: «su misericordia es para siempre».",
+          "textoNino": "Bajó fuego del cielo, y todos adoraron a Dios.",
+          "referencia": "2 Crónicas 7:1-3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Si mi pueblo se humilla",
+          "texto": "Dios promete a Salomón que escuchará cuando su pueblo ore, busque su rostro y deje el mal. Él perdonará y sanará la tierra.",
+          "textoNino": "Dios prometió perdonar a su pueblo cuando le pidiera perdón.",
+          "referencia": "2 Crónicas 7:14",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El reino se divide",
+      "capitulos": "10–16",
+      "color": "amber",
+      "resumen": "Las tribus del norte se apartan y forman el reino de Israel. El libro sigue sobre todo a Judá, el reino del sur. Asa clama a Dios y Dios lo ayuda.",
+      "resumenNino": "El pueblo se partió en dos. El libro cuenta de Judá.",
+      "hojas": [
+        {
+          "titulo": "Roboam, rey de Judá (sur)",
+          "texto": "Roboam no escucha al pueblo. Las tribus del norte se separan y forman el reino de Israel. Judá queda con la familia de David.",
+          "textoNino": "Roboam no escuchó, y el pueblo se dividió.",
+          "referencia": "2 Crónicas 10:16-19",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Del norte al sur",
+          "texto": "Muchos sacerdotes y levitas del norte se van a Judá. Quieren seguir buscando al Señor en Jerusalén.",
+          "textoNino": "Algunos del norte se fueron al sur para adorar a Dios.",
+          "referencia": "2 Crónicas 11:13-17",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Asa, rey de Judá (sur)",
+          "texto": "Un ejército enorme viene contra Judá. Asa ora: para ti es lo mismo ayudar al fuerte o al débil. Dios le da la victoria.",
+          "textoNino": "Asa pidió ayuda a Dios, y Dios lo ayudó.",
+          "referencia": "2 Crónicas 14:11",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Los ojos del Señor",
+          "texto": "Un profeta le recuerda a Asa que los ojos de Dios recorren toda la tierra. Buscan a los que tienen un corazón fiel, para darles fuerza.",
+          "textoNino": "Dios mira toda la tierra para ayudar a quien lo ama.",
+          "referencia": "2 Crónicas 16:9",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Josafat, rey de Judá (sur)",
+      "capitulos": "17–20",
+      "color": "olive",
+      "resumen": "Josafat envía maestros por las ciudades con el libro de la Ley. Cuando lo rodean los enemigos, ora con todo el pueblo, y los cantores van delante.",
+      "resumenNino": "Josafat oró, y el pueblo fue cantando a Dios.",
+      "hojas": [
+        {
+          "titulo": "Maestros por todo Judá",
+          "texto": "Josafat envía jefes y levitas a enseñar. Llevan consigo el libro de la Ley y recorren todas las ciudades de Judá.",
+          "textoNino": "Josafat mandó maestros para enseñar la Palabra de Dios.",
+          "referencia": "2 Crónicas 17:7-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "No sabemos qué hacer",
+          "texto": "Ante un ejército enorme, Josafat ora con honestidad: no tenemos fuerza ni sabemos qué hacer, pero nuestros ojos están puestos en ti.",
+          "textoNino": "Josafat le dijo a Dios: «No sabemos qué hacer. Te miramos a ti».",
+          "referencia": "2 Crónicas 20:1-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La batalla es de Dios",
+          "texto": "Un profeta anuncia: no temáis, la guerra no es vuestra, sino de Dios. Los cantores salen delante alabando, y Dios salva a su pueblo.",
+          "textoNino": "Los cantores iban delante, y Dios salvó a su pueblo.",
+          "referencia": "2 Crónicas 20:15-22",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Reyes que empiezan bien",
+      "capitulos": "21–28",
+      "color": "rose",
+      "resumen": "Varios reyes de Judá empiezan bien y terminan mal. Mientras buscan a Dios, les va bien. Cuando el orgullo o los ídolos ganan, todo se tuerce.",
+      "resumenNino": "Algunos reyes amaron a Dios al principio, pero luego se alejaron.",
+      "hojas": [
+        {
+          "titulo": "Joás, rey de Judá (sur)",
+          "texto": "Joás repara el templo mientras vive el sacerdote Joiada. Cuando Joiada muere, Joás escucha malos consejos y deja la casa de Dios.",
+          "textoNino": "Joás arregló el templo, pero luego se alejó de Dios.",
+          "referencia": "2 Crónicas 24:1-18",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Uzías, rey de Judá (sur)",
+          "texto": "Dios lo hace prosperar mientras lo busca. Pero su corazón se llena de orgullo. Entra en el templo a quemar incienso, tarea de los sacerdotes, y enferma de lepra.",
+          "textoNino": "Uzías se volvió orgulloso y enfermó.",
+          "referencia": "2 Crónicas 26:3-21",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Acaz, rey de Judá (sur)",
+          "texto": "Acaz no hace lo recto como David. Adora a otros dioses por todo el país, y Judá sufre mucho.",
+          "textoNino": "Acaz no siguió a Dios, y el pueblo sufrió.",
+          "referencia": "2 Crónicas 28:1-4",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Volver al Señor",
+      "capitulos": "29–35",
+      "color": "dawn",
+      "resumen": "Ezequías abre el templo y celebra una gran Pascua. Manasés, el peor rey, se humilla y Dios lo perdona. Josías busca a Dios desde muchacho.",
+      "resumenNino": "Hasta el rey más malo pidió perdón, y Dios lo perdonó.",
+      "hojas": [
+        {
+          "titulo": "Ezequías, rey de Judá (sur)",
+          "texto": "En su primer mes como rey, Ezequías abre las puertas del templo y las repara. Invita a la Pascua también a los del norte.",
+          "textoNino": "Ezequías abrió el templo e invitó a todos a la fiesta.",
+          "referencia": "2 Crónicas 29:1–30:1",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Manasés, rey de Judá (sur)",
+          "texto": "Manasés hace mucho mal y termina preso en Babilonia. En su angustia se humilla y ora. Dios lo escucha y lo devuelve a Jerusalén.",
+          "textoNino": "Manasés pidió perdón, y Dios lo perdonó.",
+          "referencia": "2 Crónicas 33:10-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Josías, rey de Judá (sur)",
+          "texto": "Siendo muchacho, Josías empieza a buscar a Dios. Encuentran el libro de la Ley en el templo, y él lo escucha con el corazón roto.",
+          "textoNino": "Josías buscó a Dios desde que era joven.",
+          "referencia": "2 Crónicas 34:1-21",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Exilio y regreso",
+      "capitulos": "36",
+      "color": "dusk",
+      "resumen": "Dios envía mensajeros una y otra vez, porque ama a su pueblo. No escuchan, y Jerusalén cae. Pero el libro termina con una puerta abierta: Ciro deja volver.",
+      "resumenNino": "El pueblo fue llevado lejos, pero Dios lo dejó volver.",
+      "hojas": [
+        {
+          "titulo": "Dios tuvo misericordia",
+          "texto": "Dios envía mensajeros sin descanso porque tiene misericordia de su pueblo. Ellos se burlan, y Babilonia destruye Jerusalén.",
+          "textoNino": "Dios avisó muchas veces porque amaba a su pueblo.",
+          "referencia": "2 Crónicas 36:15-21",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El decreto de Ciro",
+          "texto": "Ciro, rey de Persia, anuncia que Dios le encargó reconstruir su casa en Jerusalén. Invita al pueblo a volver.",
+          "textoNino": "El rey Ciro dejó que el pueblo volviera a casa.",
+          "referencia": "2 Crónicas 36:22-23",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "El templo era el lugar donde Dios vivía en medio de su pueblo. En Jesús, la Palabra «habitó entre nosotros», y él dice: «uno mayor que el templo está aquí». Y el perdón a Manasés anuncia al Padre que corre a abrazar al hijo que vuelve.",
+    "referencias": ["Juan 1:14", "Mateo 12:6", "Lucas 15:20"]
+  },
+  "paraTuVida": [
+    "Cuando no sepas qué hacer, ora como Josafat: dile a Dios que tus ojos están puestos en él.",
+    "Si te sientes demasiado lejos de Dios, recuerda a Manasés: nunca es tarde para volver.",
+    "Canta o pon una canción de alabanza antes de enfrentar un problema difícil."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué cayó del cielo cuando Salomón terminó de orar en el templo?",
+      "opciones": ["Lluvia", "Maná", "Fuego"],
+      "correcta": 2,
+      "explicacion": "Cayó fuego del cielo y la gloria del Señor llenó la casa (2 Crónicas 7:1)."
+    },
+    {
+      "pregunta": "¿Qué rey muy malo se humilló en Babilonia y fue perdonado?",
+      "opciones": ["Manasés", "Acaz", "Uzías"],
+      "correcta": 0,
+      "explicacion": "Manasés oró en su angustia, y Dios lo escuchó y lo devolvió a Jerusalén (2 Crónicas 33:11-12)."
+    },
+    {
+      "pregunta": "Jesús dijo que en él había algo mayor que...",
+      "opciones": ["El palacio", "El templo", "El mar"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo: «uno mayor que el templo está aquí» (Mateo 12:6). En él, Dios vive entre nosotros."
+    }
+  ],
+  "estudio": ["cronicas", "salomon", "1-reyes-12-22", "2-reyes-1-14", "2-reyes-15-17", "2-reyes-18-21", "2-reyes-22-23", "2-reyes-24-25", "esdras-1-6"],
+  "conexiones": [
+    { "id": "esdras", "motivo": "Esdras empieza con el mismo decreto de Ciro." },
+    { "id": "1-reyes", "motivo": "Reyes cuenta la misma historia, también la del norte." },
+    { "id": "2-reyes", "motivo": "Allí están los reyes de Israel que Crónicas casi no nombra." }
+  ]
+}

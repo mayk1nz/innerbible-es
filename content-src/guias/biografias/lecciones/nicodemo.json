@@ -2,7 +2,11 @@
   "id": "nicodemo",
   "titulo": "Nicodemo",
   "subtitulo": "El maestro que vino de noche",
-  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Jerusalén"],
+  "etiquetas": [
+    "Siglo I",
+    "Alrededor de Jesús",
+    "Jerusalén"
+  ],
   "enUnMinuto": [
     "Nicodemo era un fariseo, maestro y jefe de su pueblo, que buscó a Jesús de noche.",
     "Jesús le habló de nacer de nuevo y del amor de Dios, que dio a su Hijo.",
@@ -78,42 +82,78 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Juan 3:1-21", "nota": "La conversación de noche" },
-        { "ref": "Juan 7:45-52", "nota": "Defiende que Jesús sea escuchado" },
-        { "ref": "Juan 19:38-42", "nota": "La sepultura de Jesús" },
-        { "ref": "Números 21:4-9", "nota": "La serpiente de metal" }
+        {
+          "ref": "Juan 3:1-21",
+          "nota": "La conversación de noche"
+        },
+        {
+          "ref": "Juan 7:45-52",
+          "nota": "Defiende que Jesús sea escuchado"
+        },
+        {
+          "ref": "Juan 19:38-42",
+          "nota": "La sepultura de Jesús"
+        },
+        {
+          "ref": "Números 21:4-9",
+          "nota": "La serpiente de metal"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Nicodemo fue a ver a Jesús de noche para hacerle preguntas. ¿Qué pregunta te gustaría hacerle tú a Jesús?",
-      "actividad": "Para papás y abuelos: Jesús respondió a Nicodemo con paciencia y le habló del amor de Dios (Juan 3:16). Ayuden al niño a aprender Juan 3:16 con su propio nombre."
+      "actividad": "Para el adulto: Jesús respondió a Nicodemo con paciencia y le habló del amor de Dios (Juan 3:16). Ayuden al niño a aprender Juan 3:16 con su propio nombre."
     },
     {
       "tipo": "oracion",
       "texto": "Padre, gracias porque amaste tanto al mundo que diste a tu Hijo. Dame una vida nueva por tu Espíritu. Quita mi miedo, para seguir a Jesús a plena luz. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Nicodemo fue a ver a Jesús de noche?",
+        "¿Qué significa para ustedes “nacer de nuevo”?",
+        "Nicodemo tardó en mostrarse. ¿Qué nos ayuda a pasar de una fe escondida a una fe visible?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿En qué momento del día fue Nicodemo a ver a Jesús?",
-      "opciones": ["Al mediodía", "De noche", "Al amanecer"],
+      "opciones": [
+        "Al mediodía",
+        "De noche",
+        "Al amanecer"
+      ],
       "correcta": 1,
       "explicacion": "Juan dice que Nicodemo «vino a Jesús de noche» (Juan 3:2)."
     },
     {
       "pregunta": "¿Qué le dijo Jesús que hacía falta para ver el reino de Dios?",
-      "opciones": ["Estudiar más la Ley", "Dar ofrendas en el templo", "Nacer de nuevo"],
+      "opciones": [
+        "Estudiar más la Ley",
+        "Dar ofrendas en el templo",
+        "Nacer de nuevo"
+      ],
       "correcta": 2,
       "explicacion": "Jesús le dijo que hay que nacer otra vez, del Espíritu (Juan 3:3-5)."
     },
     {
       "pregunta": "¿Qué imagen de Moisés usó Jesús para hablar de la cruz?",
-      "opciones": ["La serpiente de metal", "La zarza que ardía", "Las tablas de piedra"],
+      "opciones": [
+        "La serpiente de metal",
+        "La zarza que ardía",
+        "Las tablas de piedra"
+      ],
       "correcta": 0,
       "explicacion": "Como Moisés levantó la serpiente, Jesús sería levantado para dar vida (Juan 3:14; Números 21:9)."
     }
   ],
-  "estudio": ["inicio-ministerio", "pasion-y-muerte"],
+  "estudio": [
+    "inicio-ministerio",
+    "pasion-y-muerte"
+  ],
   "buscar": "Nicodemo"
 }

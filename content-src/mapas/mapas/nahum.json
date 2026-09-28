@@ -1,0 +1,158 @@
+{
+  "id": "nahum",
+  "tipo": "libro",
+  "titulo": "Nahúm",
+  "subtitulo": "El fin de Nínive",
+  "libro": "Nah",
+  "centro": {
+    "texto": "Dios es refugio del que sufre y pone fin a la opresión",
+    "textoNino": "Dios protege a los que sufren y confían en él"
+  },
+  "versiculo": {
+    "texto": "Bueno es Jehová para fortaleza en el día de la angustia; y conoce a los que en él confían.",
+    "referencia": "Nahúm 1:7"
+  },
+  "ramas": [
+    {
+      "titulo": "Nínive, otra vez",
+      "capitulos": "1:1-6",
+      "color": "dusk",
+      "resumen": "Nahúm habla a Judá, el reino del sur, que sufre bajo Asiria. Anuncia la caída de Nínive, su capital, entre c. 660 y 612 a.C.",
+      "resumenNino": "Nahúm llevó un mensaje de consuelo a Judá.",
+      "hojas": [
+        {
+          "titulo": "Un mensaje sobre Nínive",
+          "texto": "El libro se llama «Carga de Nínive». Con Jonás, la ciudad se arrepintió. Pero después Asiria volvió a la violencia y oprimió a muchos pueblos.",
+          "textoNino": "Nínive se había arrepentido, pero volvió a hacer el mal.",
+          "referencia": "Nahúm 1:1",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Tardo para la ira",
+          "texto": "El Señor es lento para enojarse y grande en poder. Tiene paciencia, pero no llama inocente al culpable.",
+          "textoNino": "Dios tiene mucha paciencia, pero es justo.",
+          "referencia": "Nahúm 1:2-6",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Refugio en la angustia",
+      "capitulos": "1:7-15",
+      "color": "amber",
+      "resumen": "Para Judá hay consuelo. Dios es un lugar seguro, conoce a los que confían en él y promete romper el yugo que los aplasta.",
+      "resumenNino": "Dios es como una casa segura en la tormenta.",
+      "hojas": [
+        {
+          "titulo": "Bueno es el Señor",
+          "texto": "En el día de la angustia, Dios es fortaleza. Conoce por nombre a los que en él confían.",
+          "textoNino": "Dios es bueno y conoce a los que confían en él.",
+          "referencia": "Nahúm 1:7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un yugo roto",
+          "texto": "Dios dice a Judá: te afligí, pero «no más te afligiré». Romperá el yugo que pesaba sobre su cuello.",
+          "textoNino": "Dios quita la carga pesada de su pueblo.",
+          "referencia": "Nahúm 1:12-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Pies que traen paz",
+          "texto": "Nahúm ve por los montes a un mensajero con buenas noticias de paz. Judá puede volver a celebrar sus fiestas.",
+          "textoNino": "Llega un mensajero corriendo con una buena noticia.",
+          "referencia": "Nahúm 1:15",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Cae la ciudad fuerte",
+      "capitulos": "2",
+      "color": "rose",
+      "resumen": "Nahúm describe el ataque contra Nínive. La ciudad parecía segura, pero nadie puede detener lo que Dios decide.",
+      "resumenNino": "La ciudad grande y orgullosa cayó.",
+      "hojas": [
+        {
+          "titulo": "La gloria de Jacob",
+          "texto": "Mientras Nínive cae, Dios promete devolver la gloria a su pueblo. Los saqueadores dañaron su viña, pero no tienen la última palabra.",
+          "textoNino": "Dios devuelve la alegría a su pueblo.",
+          "referencia": "Nahúm 2:1-2",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Parad, parad",
+          "texto": "Nínive era como un estanque lleno de agua. Ahora su gente huye, y aunque gritan «Parad, parad», nadie mira atrás.",
+          "textoNino": "La gente de Nínive salió corriendo.",
+          "referencia": "Nahúm 2:3-13",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Fin de la opresión",
+      "capitulos": "3",
+      "color": "olive",
+      "resumen": "Nínive, llena de engaño y robo, llega a su fin. Así pasó en el año 612 a.C. Para los pueblos que sufrían, fue un alivio.",
+      "resumenNino": "Se acabó el tiempo del rey que hacía sufrir a todos.",
+      "hojas": [
+        {
+          "titulo": "Una ciudad de mentira",
+          "texto": "Nínive está llena de mentira y de rapiña. Su maldad ha dañado a muchos pueblos durante años.",
+          "textoNino": "Nínive mentía y robaba a los demás.",
+          "referencia": "Nahúm 3:1-7",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Nadie es invencible",
+          "texto": "Nínive se cree más fuerte que otras ciudades caídas. Pero sus jefes desaparecen como langostas al salir el sol.",
+          "textoNino": "Ningún rey es más fuerte que Dios.",
+          "referencia": "Nahúm 3:8-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Todos aplauden",
+          "texto": "El libro termina con una pregunta: ¿a quién no alcanzó su maldad? Los pueblos que oyen la noticia baten las manos de alivio.",
+          "textoNino": "Los pueblos se alegraron: ¡ya no sufrirían más!",
+          "referencia": "Nahúm 3:18-19",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Nahúm ve «los pies del que trae buenas nuevas». Pablo usa esa imagen para los que anuncian el evangelio. La mejor noticia es Jesús: él vino y anunció la paz a los de cerca y a los de lejos.",
+    "referencias": ["Romanos 10:15", "Efesios 2:17"]
+  },
+  "paraTuVida": [
+    "En tu próxima angustia, repite Nahúm 1:7 y busca refugio en Dios.",
+    "Deja en manos de Dios una injusticia que te duele.",
+    "Lleva hoy una buena noticia a alguien que la necesita."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Sobre qué ciudad habla el libro de Nahúm?",
+      "opciones": ["Babilonia", "Jerusalén", "Nínive"],
+      "correcta": 2,
+      "explicacion": "El libro empieza así: «Carga de Nínive» (Nahúm 1:1)."
+    },
+    {
+      "pregunta": "¿Qué profeta había predicado antes en Nínive?",
+      "opciones": ["Jonás", "Elías", "Daniel"],
+      "correcta": 0,
+      "explicacion": "Más de cien años antes, Nínive se arrepintió con la predicación de Jonás (Jonás 3:5-10)."
+    },
+    {
+      "pregunta": "¿Para quiénes usa Pablo la imagen de los pies con buenas nuevas?",
+      "opciones": ["Para los soldados", "Para los que anuncian el evangelio", "Para los reyes"],
+      "correcta": 1,
+      "explicacion": "Pablo dice que son hermosos los pies de los que anuncian el evangelio de paz (Romanos 10:15)."
+    }
+  ],
+  "estudio": ["nahum"],
+  "conexiones": [
+    { "id": "jonas", "motivo": "Allí Nínive se arrepiente con la predicación de Jonás." },
+    { "id": "habacuc", "motivo": "Poco después, Babilonia ocupa el lugar de Asiria." },
+    { "id": "romanos", "motivo": "Pablo retoma los pies del que trae buenas nuevas." }
+  ]
+}

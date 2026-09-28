@@ -1,0 +1,232 @@
+{
+  "id": "daniel",
+  "tipo": "libro",
+  "titulo": "Daniel",
+  "subtitulo": "Fieles en tierra extraña",
+  "libro": "Dan",
+  "centro": {
+    "texto": "Dios gobierna la historia y su reino no tendrá fin",
+    "textoNino": "Dios cuida a los que le son fieles, aun lejos de casa"
+  },
+  "versiculo": {
+    "texto": "Y fuéle dado señorío, y gloria, y reino; y todos los pueblos, naciones y lenguas le sirvieron; su señorío, señorío eterno, que no será transitorio, y su reino que no se corromperá.",
+    "referencia": "Daniel 7:14"
+  },
+  "ramas": [
+    {
+      "titulo": "Jóvenes fieles",
+      "capitulos": "1",
+      "color": "olive",
+      "resumen": "Daniel es un joven de Judá llevado cautivo a Babilonia. Vive y habla en la corte de Babilonia y de Persia (605–c. 535 a.C.).",
+      "resumenNino": "Daniel y sus amigos fueron llevados lejos de su casa.",
+      "hojas": [
+        {
+          "titulo": "Lejos de casa",
+          "texto": "Nabucodonosor, rey de Babilonia, lleva a jóvenes de Judá a su palacio. Entre ellos están Daniel, Ananías, Misael y Azarías.",
+          "textoNino": "Un rey llevó a Daniel y a sus amigos a su palacio.",
+          "referencia": "Daniel 1:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Legumbres y agua",
+          "texto": "Daniel decide no contaminarse con la comida del rey. Pide legumbres y agua durante diez días, y se ven más sanos que los demás.",
+          "textoNino": "Daniel comió verduras y agua, y estaba muy sano.",
+          "referencia": "Daniel 1:8-16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Diez veces mejores",
+          "texto": "Dios les da sabiduría. El rey los halla diez veces mejores que todos sus sabios.",
+          "textoNino": "Dios les dio mucha sabiduría.",
+          "referencia": "Daniel 1:17-21",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El sueño de la estatua",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "El rey tiene un sueño que nadie puede explicar. Daniel y sus amigos oran, y Dios le revela el secreto.",
+      "resumenNino": "Dios le mostró a Daniel el sueño del rey.",
+      "hojas": [
+        {
+          "titulo": "Orar juntos",
+          "texto": "Daniel pide a sus amigos que oren. Dios responde, y Daniel lo alaba: él «quita reyes, y pone reyes».",
+          "textoNino": "Daniel y sus amigos oraron juntos, y Dios respondió.",
+          "referencia": "Daniel 2:17-23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una piedra que crece",
+          "texto": "Una piedra rompe una estatua de oro, plata, bronce, hierro y barro. Luego llena la tierra: es el reino eterno de Dios.",
+          "textoNino": "Una piedra pequeña se hizo una gran montaña.",
+          "referencia": "Daniel 2:31-45",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El horno y el orgullo",
+      "capitulos": "3–4",
+      "color": "warm",
+      "resumen": "Los amigos de Daniel no adoran la estatua del rey, y Dios los libra del fuego. El rey orgulloso aprende a alabar a Dios.",
+      "resumenNino": "Dios cuidó a tres amigos dentro del fuego.",
+      "hojas": [
+        {
+          "titulo": "«Y si no»",
+          "texto": "Sadrac, Mesac y Abed-nego dicen que Dios puede librarlos. «Y si no», tampoco adorarán la estatua.",
+          "textoNino": "Los tres amigos solo adoraban a Dios.",
+          "referencia": "Daniel 3:13-18",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cuatro en el fuego",
+          "texto": "El rey ve cuatro hombres paseando en medio del fuego, sin ningún daño. Salen sin que se les queme ni el cabello.",
+          "textoNino": "Salieron del fuego sin quemarse ni un pelo.",
+          "referencia": "Daniel 3:19-30",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un rey humilde",
+          "texto": "Nabucodonosor se llena de orgullo y pierde la razón por un tiempo. Cuando alza los ojos al cielo, alaba al «Rey del cielo».",
+          "textoNino": "El rey orgulloso aprendió a alabar a Dios.",
+          "referencia": "Daniel 4:28-37",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "La mano y los leones",
+      "capitulos": "5–6",
+      "color": "rose",
+      "resumen": "Babilonia cae ante medos y persas. Bajo el rey Darío, Daniel sigue orando, y Dios lo libra en el foso de los leones.",
+      "resumenNino": "Dios cerró la boca de los leones para cuidar a Daniel.",
+      "hojas": [
+        {
+          "titulo": "Escrito en la pared",
+          "texto": "En un banquete, el rey Belsasar bebe en los vasos del templo. Una mano escribe en la pared. Esa noche su reino termina.",
+          "textoNino": "Una mano escribió un mensaje en la pared.",
+          "referencia": "Daniel 5:1-31",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Tres veces al día",
+          "texto": "Una ley manda pedir solo al rey durante treinta días. Daniel abre sus ventanas hacia Jerusalén y ora como siempre.",
+          "textoNino": "Daniel siguió orando, aunque estaba prohibido.",
+          "referencia": "Daniel 6:1-10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "En el foso de los leones",
+          "texto": "Al amanecer, el rey corre al foso. Daniel está vivo: Dios envió su ángel, que cerró la boca de los leones.",
+          "textoNino": "Dios mandó un ángel y los leones no le hicieron daño.",
+          "referencia": "Daniel 6:16-23",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Visiones de reinos",
+      "capitulos": "7–8",
+      "color": "dusk",
+      "resumen": "Daniel ve bestias que salen del mar: son reinos que pasan. Hay varias maneras de entenderlas, pero todas enseñan que Dios gobierna.",
+      "resumenNino": "Daniel vio que los reinos pasan, pero Dios reina siempre.",
+      "hojas": [
+        {
+          "titulo": "Cuatro bestias",
+          "texto": "Cuatro bestias diferentes suben del mar. Luego Dios, el «Anciano de grande edad», se sienta a juzgar, y los reinos pierden su poder.",
+          "textoNino": "Daniel soñó con animales raros. Dios era más fuerte.",
+          "referencia": "Daniel 7:1-12",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Como un hijo de hombre",
+          "texto": "En las nubes viene uno «como un hijo de hombre». Recibe un reino eterno, y todos los pueblos le sirven.",
+          "textoNino": "Dios le dio a alguien un reino que nunca termina.",
+          "referencia": "Daniel 7:13-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El carnero y el macho cabrío",
+          "texto": "Daniel ve un carnero y un macho cabrío que luchan. El ángel Gabriel le explica que son reinos que vendrán.",
+          "textoNino": "Un ángel le explicó a Daniel lo que vio.",
+          "referencia": "Daniel 8:1-27",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Oración y esperanza final",
+      "capitulos": "9–12",
+      "color": "dawn",
+      "resumen": "Daniel lee a Jeremías y ora por su pueblo. Recibe visiones del futuro, con una promesa: los que duermen despertarán.",
+      "resumenNino": "Daniel oró por su pueblo, y Dios le dio esperanza.",
+      "hojas": [
+        {
+          "titulo": "Daniel ora",
+          "texto": "Daniel lee que el exilio durará setenta años. Ora con ayuno y confía, no en su justicia, sino en las «muchas miseraciones» de Dios.",
+          "textoNino": "Daniel le pidió a Dios que perdonara a su pueblo.",
+          "referencia": "Daniel 9:1-19",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Setenta semanas",
+          "texto": "Gabriel anuncia setenta semanas para quitar el pecado y traer justicia eterna. Hay varias maneras de entenderlas.",
+          "textoNino": "Dios tiene un tiempo para quitar el pecado.",
+          "referencia": "Daniel 9:20-27",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "No temas, paz a ti",
+          "texto": "Un mensajero le dice a Daniel: «no temas», porque sus palabras fueron oídas desde el primer día.",
+          "textoNino": "Dios escucha desde el primer momento en que oramos.",
+          "referencia": "Daniel 10:10-19",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Como las estrellas",
+          "texto": "Muchos que duermen despertarán para vida eterna. Los que enseñan el bien brillarán como las estrellas.",
+          "textoNino": "Los que aman a Dios brillarán como estrellas.",
+          "referencia": "Daniel 12:1-3",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús se llamaba a sí mismo «el Hijo del hombre», el título de Daniel 7. Ante el sumo sacerdote dijo que lo verían venir en las nubes del cielo. Y anunció: «el reino de Dios está cerca».",
+    "referencias": ["Mateo 26:63-64", "Marcos 1:15"]
+  },
+  "paraTuVida": [
+    "Elige un momento fijo del día para orar, como Daniel.",
+    "Si te piden algo contra Dios, di que no con respeto y valor.",
+    "Cuando las noticias den miedo, recuerda que Dios gobierna la historia."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Dónde echaron a Daniel por orar a Dios?",
+      "opciones": ["En un horno", "En el foso de los leones", "En un pozo"],
+      "correcta": 1,
+      "explicacion": "Echaron a Daniel al foso de los leones, y Dios envió su ángel (Daniel 6:16-22)."
+    },
+    {
+      "pregunta": "¿Cuántos hombres vio el rey paseando en el horno?",
+      "opciones": ["Cuatro", "Tres", "Siete"],
+      "correcta": 0,
+      "explicacion": "Echaron a tres jóvenes, pero el rey vio cuatro varones en medio del fuego (Daniel 3:24-25)."
+    },
+    {
+      "pregunta": "¿Qué título de Daniel 7 usaba Jesús para hablar de sí mismo?",
+      "opciones": ["Hijo de David", "Rey del cielo", "Hijo del hombre"],
+      "correcta": 2,
+      "explicacion": "Jesús se llamaba «el Hijo del hombre», como el que Daniel vio en las nubes (Mateo 26:64)."
+    }
+  ],
+  "estudio": ["daniel", "entre-testamentos"],
+  "conexiones": [
+    { "id": "ezequiel", "motivo": "Ezequiel también vive cautivo en Babilonia." },
+    { "id": "esdras", "motivo": "Con el rey Ciro, el pueblo vuelve a casa." },
+    { "id": "apocalipsis", "motivo": "Apocalipsis retoma muchas imágenes de Daniel." }
+  ]
+}

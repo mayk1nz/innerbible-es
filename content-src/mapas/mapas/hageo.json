@@ -1,0 +1,174 @@
+{
+  "id": "hageo",
+  "tipo": "libro",
+  "titulo": "Hageo",
+  "subtitulo": "Primero la casa de Dios",
+  "libro": "Hag",
+  "centro": {
+    "texto": "Dios quiere vivir con su pueblo y llena de gloria su casa sencilla",
+    "textoNino": "Dios dice: yo estoy con ustedes"
+  },
+  "versiculo": {
+    "texto": "La gloria de aquesta casa postrera será mayor que la de la primera, ha dicho Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos.",
+    "referencia": "Hageo 2:9"
+  },
+  "ramas": [
+    {
+      "titulo": "Casas bonitas, templo vacío",
+      "capitulos": "1:1-11",
+      "color": "amber",
+      "resumen": "Hageo habla a Judá después del regreso del exilio, en el año 520 a.C. Ya no hay rey: la tierra es parte del Imperio persa.",
+      "resumenNino": "El pueblo volvió a casa, pero dejó el templo sin terminar.",
+      "hojas": [
+        {
+          "titulo": "No es tiempo todavía",
+          "texto": "El pueblo dice que no es tiempo de reconstruir la casa de Dios. Pero cada uno arregla su propia casa con buena madera.",
+          "textoNino": "Arreglaron sus casas, pero no la casa de Dios.",
+          "referencia": "Hageo 1:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Pensad en vuestros caminos",
+          "texto": "Siembran mucho y cosechan poco. Comen y no se llenan. Dios les pide pensar bien en sus caminos.",
+          "textoNino": "Dios les pidió pensar en lo que estaban haciendo.",
+          "referencia": "Hageo 1:5-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Yo soy con vosotros",
+      "capitulos": "1:12-15",
+      "color": "warm",
+      "resumen": "Esta vez el pueblo escucha. Dios responde con una promesa y despierta el ánimo de todos.",
+      "resumenNino": "El pueblo escuchó, y Dios les dio ánimo.",
+      "hojas": [
+        {
+          "titulo": "Escuchan la voz",
+          "texto": "El gobernador Zorobabel, el sumo sacerdote Josué y todo el pueblo escuchan. Dios les dice: «Yo soy con vosotros».",
+          "textoNino": "Dios les dijo: yo estoy con ustedes.",
+          "referencia": "Hageo 1:12-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Manos a la obra",
+          "texto": "Dios despierta el espíritu de todos. El día veinticuatro de ese mismo mes, vuelven a trabajar en la casa de Dios.",
+          "textoNino": "Todos se pusieron a trabajar con alegría.",
+          "referencia": "Hageo 1:14-15",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Una gloria mayor",
+      "capitulos": "2:1-9",
+      "color": "dawn",
+      "resumen": "Los mayores recuerdan el templo de antes, y el nuevo les parece nada. Dios los anima: su Espíritu está con ellos.",
+      "resumenNino": "El templo era pequeño, pero Dios lo llenaría de gloria.",
+      "hojas": [
+        {
+          "titulo": "Esfuérzate",
+          "texto": "Dios dice a Zorobabel, a Josué y al pueblo: «esfuérzate». Su Espíritu está en medio de ellos: no teman.",
+          "textoNino": "Dios dijo: sé valiente, no tengas miedo.",
+          "referencia": "Hageo 2:1-5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Mía es la plata",
+          "texto": "Dios hará temblar las naciones y llenará esta casa de gloria. Suya es la plata y suyo el oro.",
+          "textoNino": "Todo lo que existe es de Dios.",
+          "referencia": "Hageo 2:6-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Paz en este lugar",
+          "texto": "La gloria de esta casa será mayor que la de la primera. Y en este lugar Dios dará paz.",
+          "textoNino": "Dios promete dar paz en su casa.",
+          "referencia": "Hageo 2:9",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Desde hoy, bendición",
+      "capitulos": "2:10-19",
+      "color": "olive",
+      "resumen": "Hageo explica con una pregunta a los sacerdotes que lo impuro se contagia. El pueblo necesita volver a Dios de corazón.",
+      "resumenNino": "Dios promete bendecir desde ese mismo día.",
+      "hojas": [
+        {
+          "titulo": "Una pregunta a los sacerdotes",
+          "texto": "Lo santo no se contagia con tocarlo, pero lo impuro sí. Así también el pueblo necesita un corazón limpio.",
+          "textoNino": "Dios quiere un corazón limpio.",
+          "referencia": "Hageo 2:10-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Desde este día",
+          "texto": "Desde el día en que ponen el cimiento del templo, Dios promete: «desde aqueste día daré bendición».",
+          "textoNino": "Desde ese día, Dios los bendijo.",
+          "referencia": "Hageo 2:15-19",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El anillo de sellar",
+      "capitulos": "2:20-23",
+      "color": "rose",
+      "resumen": "El último mensaje es para Zorobabel. Los reinos pasan, pero Dios cumple lo que promete a su siervo.",
+      "resumenNino": "Dios eligió a Zorobabel como algo muy valioso.",
+      "hojas": [
+        {
+          "titulo": "Los tronos tiemblan",
+          "texto": "Dios hará temblar cielos y tierra, y los tronos de los reinos caerán. Ningún poder humano es para siempre.",
+          "textoNino": "Los reyes pasan; Dios queda.",
+          "referencia": "Hageo 2:20-22",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Yo te escogí",
+          "texto": "Dios le dice a Zorobabel: te pondré «como anillo de sellar», el sello de un rey. Porque yo te escogí.",
+          "textoNino": "Dios le dijo a Zorobabel: yo te elegí.",
+          "referencia": "Hageo 2:23",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Zorobabel, el «anillo de sellar» de Dios, aparece en la familia de Jesús. Siglos después, Jesús enseña en ese templo. Y Hebreos recuerda esta profecía: Dios nos da un reino que no puede ser movido.",
+    "referencias": ["Mateo 1:12-16", "Juan 2:19-21", "Hebreos 12:26-28"]
+  },
+  "paraTuVida": [
+    "Revisa tu semana: ¿qué lugar le das a Dios en tu tiempo?",
+    "Si algo te desanima, escucha a Dios decirte: «esfuérzate».",
+    "Empieza hoy eso que dejaste para después por Dios."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué casa dejó el pueblo sin terminar?",
+      "opciones": ["El palacio del rey", "La casa de Dios", "La muralla"],
+      "correcta": 1,
+      "explicacion": "El pueblo decía que no era tiempo de reedificar la casa del Señor (Hageo 1:2-4)."
+    },
+    {
+      "pregunta": "¿Qué dijo Dios que sería Zorobabel?",
+      "opciones": ["Como un escudo", "Como una espada", "Como anillo de sellar"],
+      "correcta": 2,
+      "explicacion": "Dios le dijo: «ponerte he como anillo de sellar: porque yo te escogí» (Hageo 2:23)."
+    },
+    {
+      "pregunta": "¿En qué lista del Nuevo Testamento aparece Zorobabel?",
+      "opciones": ["En la genealogía de Jesús", "En la lista de los Doce", "En los siete diáconos"],
+      "correcta": 0,
+      "explicacion": "Mateo nombra a Zorobabel entre los antepasados de Jesús (Mateo 1:12-13)."
+    }
+  ],
+  "estudio": ["hageo", "esdras-1-6"],
+  "conexiones": [
+    { "id": "zacarias", "motivo": "Zacarías anima a reconstruir en los mismos meses." },
+    { "id": "esdras", "motivo": "Allí se cuenta cómo terminan el templo." },
+    { "id": "hebreos", "motivo": "Hebreos cita la promesa de hacer temblar cielos y tierra." }
+  ]
+}

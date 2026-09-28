@@ -1,0 +1,142 @@
+{
+  "id": "2-juan",
+  "tipo": "libro",
+  "titulo": "2 Juan",
+  "subtitulo": "Verdad y amor juntos",
+  "libro": "2John",
+  "centro": {
+    "texto": "La verdad y el amor van siempre juntos",
+    "textoNino": "Amamos a los demás y seguimos a Jesús de verdad"
+  },
+  "versiculo": {
+    "texto": "Y este es amor, que andemos según sus mandamientos. Este es el mandamiento: Que andéis en él, como vosotros habéis oído desde el principio.",
+    "referencia": "2 Juan 1:6"
+  },
+  "ramas": [
+    {
+      "titulo": "Amados en la verdad",
+      "capitulos": "1:1-3",
+      "color": "warm",
+      "resumen": "El anciano escribe a la «señora elegida» y a sus hijos. Los ama en la verdad y les desea gracia, misericordia y paz.",
+      "resumenNino": "Un amigo de Jesús escribe una carta cariñosa a una familia.",
+      "hojas": [
+        {
+          "titulo": "El anciano",
+          "texto": "El autor se llama «el anciano» y no da su nombre. La tradición lo identifica con el apóstol Juan.",
+          "textoNino": "La escribe un líder llamado «el anciano».",
+          "referencia": "2 Juan 1:1",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La señora elegida",
+          "texto": "Muchos ven en ella a una iglesia y a sus miembros; otros, a una mujer y su familia. Todos están unidos por la verdad.",
+          "textoNino": "La carta es para una familia que ama a Jesús.",
+          "referencia": "2 Juan 1:1-3",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Andar en amor",
+      "capitulos": "1:4-6",
+      "color": "amber",
+      "resumen": "El anciano se alegra porque algunos hijos andan en la verdad. Recuerda el mandamiento de siempre: amarnos unos a otros. Amar es vivir como Dios pide.",
+      "resumenNino": "El mandamiento más lindo es amarnos unos a otros.",
+      "hojas": [
+        {
+          "titulo": "Una gran alegría",
+          "texto": "Nada alegra tanto al anciano como ver que los hijos de esta familia viven en la verdad.",
+          "textoNino": "Nos alegra ver a otros seguir a Jesús.",
+          "referencia": "2 Juan 1:4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un mandamiento antiguo",
+          "texto": "No es nada nuevo: es lo que oyeron desde el principio. Que nos amemos unos a otros, y que ese amor se vea al obedecer a Dios.",
+          "textoNino": "Desde siempre, Dios nos pide amarnos.",
+          "referencia": "2 Juan 1:5-6",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Firmes ante el engaño",
+      "capitulos": "1:7-11",
+      "color": "dawn",
+      "resumen": "Algunos engañadores niegan que Jesucristo vino en carne. El anciano pide cuidar lo aprendido y no dar apoyo a quienes enseñan algo contrario a Cristo.",
+      "resumenNino": "Jesús se hizo hombre de verdad. Eso lo creemos firmes.",
+      "hojas": [
+        {
+          "titulo": "Jesús vino en carne",
+          "texto": "Dios se hizo hombre de verdad en Jesús. Quien niega esto se aparta de Cristo; quien permanece en su enseñanza tiene al Padre y al Hijo.",
+          "textoNino": "Jesús es Dios y se hizo hombre de verdad.",
+          "referencia": "2 Juan 1:7-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "No apoyar el error",
+          "texto": "No hay que dar lugar en casa a quien viene a enseñar contra Cristo. Recibirlo sería apoyar su error.",
+          "textoNino": "Cuidamos lo que escuchamos y aprendemos de Jesús.",
+          "referencia": "2 Juan 1:10-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Cara a cara",
+      "capitulos": "1:12-13",
+      "color": "olive",
+      "resumen": "El anciano tiene mucho más que decir, pero prefiere visitarlos y hablar en persona. Así su alegría será completa.",
+      "resumenNino": "Es más lindo hablar en persona que por carta.",
+      "hojas": [
+        {
+          "titulo": "Mejor en persona",
+          "texto": "No quiso escribir todo con papel y tinta. Espera ir y hablar cara a cara, para que su gozo sea cumplido.",
+          "textoNino": "Visitar a un amigo llena de alegría el corazón.",
+          "referencia": "2 Juan 1:12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Saludos de la familia",
+          "texto": "Los hijos de la hermana elegida envían saludos. La fe une a las familias y a las iglesias.",
+          "textoNino": "La familia de Dios se saluda con cariño.",
+          "referencia": "2 Juan 1:13",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "El anciano insiste: Jesucristo vino en carne. Dios se hizo hombre de verdad y habitó entre nosotros. Jesús unió amor y obediencia cuando dijo: «Si me amáis, guardad mis mandamientos».",
+    "referencias": ["2 Juan 1:7", "Juan 1:14", "Juan 14:15"]
+  },
+  "paraTuVida": [
+    "Muestra tu amor hoy con un gesto sencillo en casa.",
+    "Visita en persona a alguien a quien solo sueles escribir."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llama a sí mismo el autor de 2 Juan?",
+      "opciones": ["El anciano", "El profeta", "El rey"],
+      "correcta": 0,
+      "explicacion": "La carta empieza: «El anciano a la señora elegida» (2 Juan 1:1)."
+    },
+    {
+      "pregunta": "¿Qué mandamiento recuerda la carta?",
+      "opciones": ["Ayunar cada semana", "Amarnos unos a otros", "Viajar a Jerusalén"],
+      "correcta": 1,
+      "explicacion": "Es el mandamiento de siempre: que nos amemos unos a otros (2 Juan 1:5)."
+    },
+    {
+      "pregunta": "¿Qué libro dice que «aquel Verbo fue hecho carne»?",
+      "opciones": ["Juan", "Levítico", "Proverbios"],
+      "correcta": 0,
+      "explicacion": "Juan 1:14 lo dice. 2 Juan defiende la misma verdad: Jesús vino en carne."
+    }
+  ],
+  "estudio": ["2-juan"],
+  "conexiones": [
+    { "id": "1-juan", "motivo": "La carta larga del mismo autor: Dios es amor." },
+    { "id": "3-juan", "motivo": "Otra carta breve del anciano, a su amigo Gayo." }
+  ]
+}

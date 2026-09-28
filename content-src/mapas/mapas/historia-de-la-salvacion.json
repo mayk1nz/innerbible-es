@@ -1,0 +1,230 @@
+{
+  "id": "historia-de-la-salvacion",
+  "tipo": "tema",
+  "titulo": "La historia de la salvación",
+  "subtitulo": "Del jardín perdido a la ciudad de Dios",
+  "centro": {
+    "texto": "Dios crea, el ser humano se aleja, y Dios lo rescata en Jesús.",
+    "textoNino": "Dios nos hizo, nos busca y nos salva por amor."
+  },
+  "versiculo": {
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+    "referencia": "Juan 3:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Todo era bueno",
+      "capitulos": "",
+      "color": "warm",
+      "resumen": "Dios crea el mundo por amor y lo ve bueno en gran manera. Pone al ser humano en un huerto, cerca de él, con el árbol de la vida.",
+      "resumenNino": "Dios hizo un mundo muy bueno y vivía cerca de las personas.",
+      "hojas": [
+        {
+          "titulo": "Bueno en gran manera",
+          "texto": "Al terminar la creación, Dios mira todo lo que hizo, «y he aquí que era bueno en gran manera».",
+          "textoNino": "Dios miró todo lo que hizo y era muy bueno.",
+          "referencia": "Génesis 1:31",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "A imagen de Dios",
+          "texto": "Dios crea al ser humano, varón y mujer, a su imagen, para vivir en amistad con él.",
+          "textoNino": "Dios nos hizo para ser sus amigos.",
+          "referencia": "Génesis 1:26-28",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El árbol de la vida",
+          "texto": "En medio del huerto del Edén, Dios pone el árbol de la vida. Volverá a aparecer en la última página de la Biblia.",
+          "textoNino": "En el jardín había un árbol que daba vida.",
+          "referencia": "Génesis 2:8-9",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "La amistad se rompe",
+      "capitulos": "",
+      "color": "rose",
+      "resumen": "Adán y Eva desconfían de Dios y desobedecen. Llegan el miedo, la culpa y la muerte. Pero Dios los busca, los viste y promete una victoria.",
+      "resumenNino": "Las personas desobedecieron, pero Dios no dejó de amarlas.",
+      "hojas": [
+        {
+          "titulo": "Comieron del fruto",
+          "texto": "La mujer ve que el árbol es agradable, toma de su fruto y come. También su esposo come con ella.",
+          "textoNino": "Comieron la fruta que Dios les pidió no comer.",
+          "referencia": "Génesis 3:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "¿Dónde estás tú?",
+          "texto": "Ellos se esconden, pero Dios sale a buscarlos. Es la primera pregunta de Dios en la Biblia.",
+          "textoNino": "Dios fue a buscarlos porque los amaba.",
+          "referencia": "Génesis 3:8-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La primera promesa",
+          "texto": "Dios anuncia que un descendiente de la mujer herirá a la serpiente. Luego viste a Adán y a Eva con túnicas de pieles.",
+          "textoNino": "Dios prometió enviar a alguien para salvarnos.",
+          "referencia": "Génesis 3:15-21",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un pueblo para bendecir",
+      "capitulos": "",
+      "color": "amber",
+      "resumen": "Dios elige a Abraham para bendecir a todas las familias de la tierra. Libera a su familia de Egipto y hace pacto con ella en el Sinaí.",
+      "resumenNino": "Dios eligió una familia para bendecir a todo el mundo.",
+      "hojas": [
+        {
+          "titulo": "Bendición para todos",
+          "texto": "Dios llama a Abraham. Su plan no es solo para una familia: en él «serán benditas todas las familias de la tierra».",
+          "textoNino": "Dios quería bendecir a todas las familias del mundo.",
+          "referencia": "Génesis 12:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Os redimiré",
+          "texto": "Israel es esclavo en Egipto. Dios promete: «os redimiré con brazo extendido». Y los saca de la servidumbre.",
+          "textoNino": "Dios liberó a su pueblo de Egipto.",
+          "referencia": "Éxodo 6:6-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dios en medio de su pueblo",
+          "texto": "En el Sinaí, Dios da su Ley y pide un tabernáculo, porque quiere habitar en medio de ellos.",
+          "textoNino": "Dios quería vivir cerca de su pueblo.",
+          "referencia": "Éxodo 25:8",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Reyes, profetas y espera",
+      "capitulos": "",
+      "color": "olive",
+      "resumen": "Dios promete a David un rey eterno. El pueblo se aleja y va al exilio, pero los profetas anuncian a un Siervo que cargará el pecado de todos.",
+      "resumenNino": "Los profetas anunciaron que vendría un Salvador.",
+      "hojas": [
+        {
+          "titulo": "Un rey para siempre",
+          "texto": "Dios promete a David que su trono será estable para siempre.",
+          "textoNino": "Dios prometió un rey que nunca dejaría de reinar.",
+          "referencia": "2 Samuel 7:12-16",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El Siervo herido",
+          "texto": "Isaías anuncia a uno que sufrirá por otros: «por su llaga fuimos nosotros curados».",
+          "textoNino": "Alguien sufriría para sanarnos a todos.",
+          "referencia": "Isaías 53:4-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un pacto nuevo",
+          "texto": "Después del exilio, la esperanza sigue viva: Dios escribirá su ley en el corazón y perdonará el pecado.",
+          "textoNino": "Dios prometió cambiar los corazones.",
+          "referencia": "Jeremías 31:31-34",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Jesús nos rescata",
+      "capitulos": "",
+      "color": "dusk",
+      "resumen": "El Hijo de Dios se hace hombre. Enseña, sana y perdona. Muere en la cruz por nuestros pecados y resucita al tercer día.",
+      "resumenNino": "Jesús vino, murió por nosotros y volvió a vivir.",
+      "hojas": [
+        {
+          "titulo": "Habitó entre nosotros",
+          "texto": "El Verbo se hace carne y habita entre nosotros, lleno de gracia y de verdad.",
+          "textoNino": "Dios vino a vivir con nosotros en Jesús.",
+          "referencia": "Juan 1:14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Padre, perdónalos",
+          "texto": "En la cruz, Jesús ora por quienes lo crucifican: «Padre, perdónalos, porque no saben lo que hacen».",
+          "textoNino": "En la cruz, Jesús perdonó.",
+          "referencia": "Lucas 23:33-34",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Ha resucitado",
+          "texto": "Al tercer día, las mujeres encuentran la tumba vacía. Dos varones les dicen: «No está aquí, mas ha resucitado».",
+          "textoNino": "¡Jesús está vivo!",
+          "referencia": "Lucas 24:1-7",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Todo hecho nuevo",
+      "capitulos": "",
+      "color": "dawn",
+      "resumen": "El Espíritu Santo forma la Iglesia y la buena noticia sale a todos los pueblos. Al final, Dios vivirá con su pueblo y hará nuevas todas las cosas.",
+      "resumenNino": "Un día Dios hará todo nuevo y no habrá más tristeza.",
+      "hojas": [
+        {
+          "titulo": "El Espíritu llega",
+          "texto": "En Pentecostés, el Espíritu Santo llena a los discípulos. Pedro anuncia que la promesa es también «para todos los que están lejos».",
+          "textoNino": "El Espíritu Santo vino para ayudar a los amigos de Jesús.",
+          "referencia": "Hechos 2:1-39",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Id a todos",
+          "texto": "Jesús envía a los suyos a todos los pueblos y promete: «yo estoy con vosotros todos los días».",
+          "textoNino": "Jesús dijo: «Cuenten a todos y yo estaré con ustedes».",
+          "referencia": "Mateo 28:18-20",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Dios con los hombres",
+          "texto": "Juan ve una ciudad nueva donde Dios vive con su pueblo. Allí está otra vez el árbol de la vida. Hay varias maneras de leerlo, pero todos esperan lo mismo: Cristo vence.",
+          "textoNino": "Al final, Dios vivirá con nosotros para siempre.",
+          "referencia": "Apocalipsis 21:1–22:5",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús es el centro de esta historia. Él es el descendiente prometido, el hijo de Abraham y de David, el Siervo que carga nuestro pecado. Murió por nuestros pecados y resucitó, «conforme a las Escrituras».",
+    "referencias": ["1 Corintios 15:3-4", "Romanos 5:8"]
+  },
+  "paraTuVida": [
+    "Cuenta a alguien, en tres frases, la historia de lo que Dios hizo por ti.",
+    "Lee Juan 3:16 poniendo tu nombre donde dice «el mundo»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué pregunta le hizo Dios a Adán después de desobedecer?",
+      "opciones": ["¿Dónde estás tú?", "¿Qué comiste?", "¿Quién eres?"],
+      "correcta": 0,
+      "explicacion": "Dios llamó al hombre y le dijo: «¿Dónde estás tú?» (Génesis 3:9)."
+    },
+    {
+      "pregunta": "¿Qué árbol del Edén vuelve a aparecer en el Apocalipsis?",
+      "opciones": ["La higuera", "El árbol de la vida", "El olivo"],
+      "correcta": 1,
+      "explicacion": "En la ciudad de Dios está el árbol de la vida (Apocalipsis 22:2)."
+    },
+    {
+      "pregunta": "¿Qué promesa de Génesis 12 llega a todos los pueblos por Jesús?",
+      "opciones": ["Una tierra junto al río", "Un templo de oro", "Bendición para todas las familias"],
+      "correcta": 2,
+      "explicacion": "Pablo dice que en Abraham serán benditas todas las naciones, por la fe (Gálatas 3:8)."
+    }
+  ],
+  "estudio": ["once-eras", "genesis-1-11", "pasion-y-muerte", "resurreccion", "hechos-1-7", "conclusion"],
+  "conexiones": [
+    { "id": "pactos-de-dios", "motivo": "Los pactos son los pasos de esta misma historia." },
+    { "id": "jesus-en-toda-la-biblia", "motivo": "Mira cómo cada parte de la Biblia apunta a Jesús." },
+    { "id": "linea-del-tiempo", "motivo": "Pon fechas aproximadas a cada paso de la historia." }
+  ]
+}

@@ -2,7 +2,11 @@
   "id": "bernabe",
   "titulo": "Bernabé",
   "subtitulo": "El hijo de consolación",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Chipre, Jerusalén y Antioquía"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Chipre, Jerusalén y Antioquía"
+  ],
   "enUnMinuto": [
     "Bernabé era un levita de Chipre, generoso y lleno del Espíritu Santo.",
     "Creyó en Pablo cuando todos le tenían miedo, y viajó con él para anunciar a Jesús.",
@@ -80,46 +84,94 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 4:36-37", "nota": "El hijo de consolación" },
-        { "ref": "Hechos 9:26-28", "nota": "Presenta a Saulo" },
-        { "ref": "Hechos 11:19-30", "nota": "En Antioquía" },
-        { "ref": "Hechos 13-14", "nota": "El primer viaje" },
-        { "ref": "Hechos 15:1-39", "nota": "Jerusalén y la separación" },
-        { "ref": "Gálatas 2:1-13", "nota": "Con Pablo en Jerusalén y Antioquía" },
-        { "ref": "1 Corintios 9:6", "nota": "Trabajaba con sus manos" },
-        { "ref": "Colosenses 4:10", "nota": "Pariente de Marcos" }
+        {
+          "ref": "Hechos 4:36-37",
+          "nota": "El hijo de consolación"
+        },
+        {
+          "ref": "Hechos 9:26-28",
+          "nota": "Presenta a Saulo"
+        },
+        {
+          "ref": "Hechos 11:19-30",
+          "nota": "En Antioquía"
+        },
+        {
+          "ref": "Hechos 13-14",
+          "nota": "El primer viaje"
+        },
+        {
+          "ref": "Hechos 15:1-39",
+          "nota": "Jerusalén y la separación"
+        },
+        {
+          "ref": "Gálatas 2:1-13",
+          "nota": "Con Pablo en Jerusalén y Antioquía"
+        },
+        {
+          "ref": "1 Corintios 9:6",
+          "nota": "Trabajaba con sus manos"
+        },
+        {
+          "ref": "Colosenses 4:10",
+          "nota": "Pariente de Marcos"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Nadie quería ser amigo de Saulo, pero Bernabé sí. ¿Hay alguien en tu escuela que está solo? ¿Cómo podrías ser su amigo?",
-      "actividad": "Para papás y abuelos: Bernabé animaba a los demás (Hechos 11:23). Ayuden al niño a hacer una tarjeta con una frase de ánimo para un compañero."
+      "actividad": "Para el adulto: Bernabé animaba a los demás (Hechos 11:23). Ayuden al niño a hacer una tarjeta con una frase de ánimo para un compañero."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, hazme como Bernabé: generoso, lleno de tu Espíritu y de fe. Dame ojos para ver lo bueno en los demás, y palabras que animen. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Quién fue un Bernabé para ustedes en un momento difícil?",
+        "¿Por qué creen que Bernabé confió en Saulo cuando todos le tenían miedo?",
+        "¿Cómo podemos ser una iglesia que da segundas oportunidades?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué significa el nombre Bernabé?",
-      "opciones": ["Hijo del trueno", "Hijo de consolación", "Piedra firme"],
+      "opciones": [
+        "Hijo del trueno",
+        "Hijo de consolación",
+        "Piedra firme"
+      ],
       "correcta": 1,
       "explicacion": "Hechos 4:36 dice que Bernabé significa «Hijo de consolación»."
     },
     {
       "pregunta": "¿Por qué se separaron Pablo y Bernabé?",
-      "opciones": ["Por una discusión sobre Juan Marcos", "Porque Bernabé volvió a Jerusalén", "Por una pelea de dinero"],
+      "opciones": [
+        "Por una discusión sobre Juan Marcos",
+        "Porque Bernabé volvió a Jerusalén",
+        "Por una pelea de dinero"
+      ],
       "correcta": 0,
       "explicacion": "Bernabé quería llevar a Marcos y Pablo no, y se separaron (Hechos 15:37-39)."
     },
     {
       "pregunta": "Años después, ¿qué dijo Pablo de Marcos?",
-      "opciones": ["Que nunca volvió", "Que era mejor que Bernabé", "Que le era útil para el ministerio"],
+      "opciones": [
+        "Que nunca volvió",
+        "Que era mejor que Bernabé",
+        "Que le era útil para el ministerio"
+      ],
       "correcta": 2,
       "explicacion": "Pablo pidió a Timoteo que trajera a Marcos, porque le era útil (2 Timoteo 4:11)."
     }
   ],
-  "estudio": ["hechos-8-12", "hechos-13-14"],
+  "estudio": [
+    "hechos-8-12",
+    "hechos-13-14"
+  ],
   "buscar": "Bernabé"
 }

@@ -1,0 +1,261 @@
+{
+  "id": "lucas",
+  "tipo": "libro",
+  "titulo": "Lucas",
+  "subtitulo": "Un Salvador para todos",
+  "libro": "Luke",
+  "centro": {
+    "texto": "Jesús vino a buscar y salvar a los perdidos, sin dejar a nadie fuera",
+    "textoNino": "Jesús busca a todos, también a los que se perdieron"
+  },
+  "versiculo": {
+    "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.",
+    "referencia": "Lucas 19:10"
+  },
+  "ramas": [
+    {
+      "titulo": "Investigado con cuidado",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Lucas escribe a Teófilo después de investigarlo todo con cuidado. Cuenta los anuncios a Zacarías y a María, y el nacimiento de Jesús en Belén.",
+      "resumenNino": "Un ángel visita a María, y Jesús nace en Belén.",
+      "hojas": [
+        {
+          "titulo": "Para Teófilo",
+          "texto": "Lucas pone todo en orden para Teófilo, para que conozca la verdad de lo que le enseñaron. Continúa la historia en Hechos.",
+          "textoNino": "Lucas escribe a un amigo para contarle todo sobre Jesús.",
+          "referencia": "Lucas 1:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "María dice sí",
+          "texto": "El ángel Gabriel anuncia a María que tendrá un hijo, Jesús. Ella responde: «He aquí la sierva del Señor».",
+          "textoNino": "María cree al ángel y dice sí a Dios.",
+          "referencia": "Lucas 1:26-38",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Nace en Belén",
+          "texto": "Jesús nace, y lo acuestan en un pesebre. Un ángel anuncia a unos pastores «nuevas de gran gozo» para todo el pueblo.",
+          "textoNino": "Jesús nace en un pesebre y los pastores lo visitan.",
+          "referencia": "Lucas 2:1-20",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "A los doce años",
+          "texto": "Jesús se queda en el templo, escuchando y preguntando a los maestros. Dice que debe estar en las cosas de su Padre.",
+          "textoNino": "Jesús, de niño, aprende y pregunta en el templo.",
+          "referencia": "Lucas 2:41-52",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Buenas nuevas a los pobres",
+      "capitulos": "3–9",
+      "color": "amber",
+      "resumen": "Jesús es bautizado mientras ora. En Nazaret lee a Isaías y anuncia buenas nuevas a los pobres. Sana, perdona y deja que muchas mujeres lo sigan.",
+      "resumenNino": "Jesús trae buenas noticias a los pobres y a los enfermos.",
+      "hojas": [
+        {
+          "titulo": "En la sinagoga de Nazaret",
+          "texto": "Jesús lee al profeta Isaías y dice que hoy se cumple esa Escritura. Viene a sanar, a liberar y a dar vista a los ciegos.",
+          "textoNino": "Jesús lee la Biblia y dice que esa promesa se cumple en él.",
+          "referencia": "Lucas 4:16-21",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "La pesca milagrosa",
+          "texto": "Después de una noche sin pescar, Pedro echa la red por la palabra de Jesús. Las redes se llenan, y Jesús lo llama a seguirlo.",
+          "textoNino": "Pedro saca muchísimos peces cuando obedece a Jesús.",
+          "referencia": "Lucas 5:1-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La viuda de Naín",
+          "texto": "Jesús ve a una madre viuda que lleva a enterrar a su único hijo. Le dice «No llores» y le devuelve al joven vivo.",
+          "textoNino": "Jesús consuela a una mamá y le devuelve a su hijo.",
+          "referencia": "Lucas 7:11-17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Mujeres que lo siguen",
+          "texto": "María Magdalena, Juana, Susana y muchas otras acompañan a Jesús y lo ayudan con sus bienes.",
+          "textoNino": "Muchas mujeres acompañan y ayudan a Jesús.",
+          "referencia": "Lucas 8:1-3",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Camino a Jerusalén",
+      "capitulos": "9–19",
+      "color": "dawn",
+      "resumen": "Jesús decide ir a Jerusalén. En el camino cuenta parábolas que solo Lucas guarda, llenas de misericordia por los que están perdidos.",
+      "resumenNino": "Jesús va a Jerusalén y cuenta historias del amor de Dios.",
+      "hojas": [
+        {
+          "titulo": "El buen samaritano",
+          "texto": "Un samaritano se detiene a cuidar a un herido en el camino. Jesús dice: «Ve, y haz tú lo mismo».",
+          "textoNino": "Un hombre ayuda a un herido que no conocía.",
+          "referencia": "Lucas 10:25-37",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Marta y María",
+          "texto": "Marta se afana con muchos servicios. María se sienta a los pies de Jesús a escuchar su palabra.",
+          "textoNino": "María escucha a Jesús con atención.",
+          "referencia": "Lucas 10:38-42",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El hijo que vuelve",
+          "texto": "Un hijo lo pierde todo lejos de casa y regresa. Su padre lo ve de lejos, corre, lo abraza y hace fiesta.",
+          "textoNino": "Un papá abraza a su hijo que vuelve a casa.",
+          "referencia": "Lucas 15:11-32",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Zaqueo",
+          "texto": "Zaqueo sube a un árbol para ver a Jesús. Jesús se hospeda en su casa, y Zaqueo cambia de vida.",
+          "textoNino": "Zaqueo sube a un árbol, y Jesús va a su casa.",
+          "referencia": "Lucas 19:1-10",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "La última semana",
+      "capitulos": "19–22",
+      "color": "olive",
+      "resumen": "Jesús entra en Jerusalén y llora por la ciudad. Enseña en el templo y celebra la Pascua con sus discípulos.",
+      "resumenNino": "Jesús llega a Jerusalén y cena con sus amigos.",
+      "hojas": [
+        {
+          "titulo": "Llora por Jerusalén",
+          "texto": "Al ver la ciudad, Jesús llora por ella. Quería darle la paz, pero no reconoció el tiempo de su visita.",
+          "textoNino": "Jesús llora porque ama a la ciudad.",
+          "referencia": "Lucas 19:41-44",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La ofrenda de la viuda",
+          "texto": "Una viuda pobre echa dos monedas en el templo. Jesús dice que ella dio más que todos.",
+          "textoNino": "Una viuda da poquito, pero da todo lo que tiene.",
+          "referencia": "Lucas 21:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La Cena del Señor",
+          "texto": "Jesús parte el pan y da la copa: «haced esto en memoria de mí». Las iglesias la celebran con distintos nombres.",
+          "textoNino": "Jesús comparte el pan y pide que lo recordemos.",
+          "referencia": "Lucas 22:14-20",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "La cruz",
+      "capitulos": "22–23",
+      "color": "rose",
+      "resumen": "Jesús ora en el monte de los Olivos y es arrestado. Pedro lo niega. En la cruz, Jesús perdona y promete el paraíso a un malhechor arrepentido.",
+      "resumenNino": "En la cruz, Jesús perdona a los que le hacen daño.",
+      "hojas": [
+        {
+          "titulo": "Pedro llora",
+          "texto": "Pedro niega tres veces conocer a Jesús. El Señor lo mira, y Pedro sale y llora amargamente.",
+          "textoNino": "Pedro dice que no conoce a Jesús, y luego llora.",
+          "referencia": "Lucas 22:54-62",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Padre, perdónalos",
+          "texto": "En la cruz, Jesús ora por los que lo crucifican: «Padre, perdónalos, porque no saben lo que hacen».",
+          "textoNino": "Jesús pide a Dios que perdone a los que le hacen daño.",
+          "referencia": "Lucas 23:33-34",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Hoy, en el paraíso",
+          "texto": "Uno de los malhechores le pide que se acuerde de él. Jesús le promete: «hoy estarás conmigo en el paraíso».",
+          "textoNino": "Jesús promete el cielo a un hombre arrepentido.",
+          "referencia": "Lucas 23:39-43",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Resucitado y ascendido",
+      "capitulos": "24",
+      "color": "dusk",
+      "resumen": "Las mujeres hallan el sepulcro vacío. Jesús camina con dos discípulos hacia Emaús, se aparece a los once y sube al cielo bendiciéndolos.",
+      "resumenNino": "Jesús vive, camina con sus amigos y sube al cielo.",
+      "hojas": [
+        {
+          "titulo": "El sepulcro vacío",
+          "texto": "Unas mujeres llevan especias al sepulcro. Dos varones les dicen: «¿Por qué buscáis entre los muertos al que vive?»",
+          "textoNino": "Las mujeres oyen que Jesús está vivo.",
+          "referencia": "Lucas 24:1-12",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El camino de Emaús",
+          "texto": "Dos discípulos caminan tristes. Jesús les explica lo que las Escrituras decían de él, y lo reconocen al partir el pan.",
+          "textoNino": "Dos amigos caminan con Jesús y al final lo reconocen.",
+          "referencia": "Lucas 24:13-35",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Sube al cielo",
+          "texto": "Jesús bendice a sus discípulos cerca de Betania y es llevado al cielo. Ellos vuelven a Jerusalén con gran gozo.",
+          "textoNino": "Jesús bendice a sus amigos y sube al cielo.",
+          "referencia": "Lucas 24:50-53",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Lucas muestra a Jesús como el Salvador de todos: pobres, mujeres, extranjeros y pecadores. Vino a buscar lo perdido. En Emaús enseña que toda la Escritura habla de él.",
+    "referencias": ["Lucas 2:11", "Lucas 19:10", "Lucas 24:27"]
+  },
+  "paraTuVida": [
+    "Esta semana, acércate a alguien que se siente fuera y ofrécele tu amistad.",
+    "Lee Lucas 15 y cuenta a alguien cómo es el Padre que corre a abrazar."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿A quién dirige Lucas su Evangelio?",
+      "opciones": ["A Timoteo", "A Teófilo", "A Tito"],
+      "correcta": 1,
+      "explicacion": "Lucas 1:3 nombra a Teófilo. Hechos también se dirige a él."
+    },
+    {
+      "pregunta": "¿Qué hizo Zaqueo para ver a Jesús?",
+      "opciones": ["Subió a un árbol", "Entró en el templo", "Subió a una barca"],
+      "correcta": 0,
+      "explicacion": "Zaqueo era pequeño y subió a un árbol para verlo pasar (Lucas 19:3-4)."
+    },
+    {
+      "pregunta": "¿Qué libro sigue la historia que empieza en Lucas?",
+      "opciones": ["Juan", "Romanos", "Hechos"],
+      "correcta": 2,
+      "explicacion": "Hechos 1:1 habla de un «primer tratado» dirigido a Teófilo y sigue desde la ascensión."
+    }
+  ],
+  "estudio": [
+    "anuncios",
+    "nacimiento",
+    "inicio-ministerio",
+    "galilea-ensenanzas",
+    "galilea-milagros",
+    "camino-a-jerusalen",
+    "ultima-semana",
+    "pasion-y-muerte",
+    "resurreccion"
+  ],
+  "conexiones": [
+    { "id": "hechos", "motivo": "Lucas sigue la historia: la Iglesia nace y crece." },
+    { "id": "isaias", "motivo": "En Nazaret, Jesús lee al profeta Isaías." }
+  ]
+}

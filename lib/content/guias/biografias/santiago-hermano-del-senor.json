@@ -2,7 +2,11 @@
   "id": "santiago-hermano-del-senor",
   "titulo": "Santiago, hermano del Señor",
   "subtitulo": "Líder de la iglesia de Jerusalén",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Jerusalén"
+  ],
   "enUnMinuto": [
     "Santiago creció cerca de Jesús, pero al principio no creía en él.",
     "Después de la resurrección, Jesús se le apareció y Santiago llegó a ser un líder de la iglesia de Jerusalén.",
@@ -79,48 +83,102 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Mateo 13:55", "nota": "Entre los hermanos de Jesús" },
-        { "ref": "Juan 7:3-5", "nota": "Todavía no creían en él" },
-        { "ref": "1 Corintios 15:7", "nota": "Jesús resucitado se le aparece" },
-        { "ref": "Hechos 1:14", "nota": "En oración con la iglesia" },
-        { "ref": "Hechos 12:17", "nota": "Pedro le manda aviso" },
-        { "ref": "Hechos 15:13-21", "nota": "Habla en la reunión de Jerusalén" },
-        { "ref": "Hechos 21:17-20", "nota": "Recibe a Pablo" },
-        { "ref": "Gálatas 1:18-19", "nota": "El hermano del Señor" },
-        { "ref": "Gálatas 2:9", "nota": "Una de las columnas" },
-        { "ref": "Santiago 1:1", "nota": "El saludo de la carta" }
+        {
+          "ref": "Mateo 13:55",
+          "nota": "Entre los hermanos de Jesús"
+        },
+        {
+          "ref": "Juan 7:3-5",
+          "nota": "Todavía no creían en él"
+        },
+        {
+          "ref": "1 Corintios 15:7",
+          "nota": "Jesús resucitado se le aparece"
+        },
+        {
+          "ref": "Hechos 1:14",
+          "nota": "En oración con la iglesia"
+        },
+        {
+          "ref": "Hechos 12:17",
+          "nota": "Pedro le manda aviso"
+        },
+        {
+          "ref": "Hechos 15:13-21",
+          "nota": "Habla en la reunión de Jerusalén"
+        },
+        {
+          "ref": "Hechos 21:17-20",
+          "nota": "Recibe a Pablo"
+        },
+        {
+          "ref": "Gálatas 1:18-19",
+          "nota": "El hermano del Señor"
+        },
+        {
+          "ref": "Gálatas 2:9",
+          "nota": "Una de las columnas"
+        },
+        {
+          "ref": "Santiago 1:1",
+          "nota": "El saludo de la carta"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Santiago tardó en creer en Jesús, pero un día se encontró con él resucitado y cambió. ¿Por quién de tu familia quieres orar para que conozca a Jesús?",
-      "actividad": "Para papás y abuelos: Jesús no se olvidó de Santiago (1 Corintios 15:7). Escriban juntos el nombre de esa persona y oren por ella cada noche de esta semana."
+      "actividad": "Para el adulto: Jesús no se olvidó de Santiago (1 Corintios 15:7). Escriban juntos el nombre de esa persona y oren por ella cada noche de esta semana."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, como a Santiago, encuéntrame donde estoy. Que mi fe no se quede en palabras, sino que se vea en lo que hago. Y alcanza a los míos que todavía no creen. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que los hermanos de Jesús tardaron en creer en él?",
+        "¿Qué obras concretas muestran hoy una fe viva?",
+        "¿Cómo podemos buscar lo que nos une cuando pensamos distinto en la iglesia?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Cómo se llama Santiago en la Reina-Valera?",
-      "opciones": ["Jacobo", "Jonás", "Josías"],
+      "opciones": [
+        "Jacobo",
+        "Jonás",
+        "Josías"
+      ],
       "correcta": 0,
       "explicacion": "La Reina-Valera lo llama «Jacobo el hermano del Señor» (Gálatas 1:19)."
     },
     {
       "pregunta": "¿Qué dice Juan 7:5 de los hermanos de Jesús?",
-      "opciones": ["Que eran pescadores", "Que no creían en él", "Que vivían en Egipto"],
+      "opciones": [
+        "Que eran pescadores",
+        "Que no creían en él",
+        "Que vivían en Egipto"
+      ],
       "correcta": 1,
       "explicacion": "Durante el ministerio de Jesús, sus hermanos todavía no creían en él (Juan 7:5)."
     },
     {
       "pregunta": "¿En qué reunión habló Santiago sobre los no judíos que creían?",
-      "opciones": ["En la cena de Betania", "En el camino a Damasco", "En la reunión de Jerusalén"],
+      "opciones": [
+        "En la cena de Betania",
+        "En el camino a Damasco",
+        "En la reunión de Jerusalén"
+      ],
       "correcta": 2,
       "explicacion": "Propuso no poner cargas de más a los no judíos (Hechos 15:13-21)."
     }
   ],
-  "estudio": ["santiago", "hechos-15-18"],
+  "estudio": [
+    "santiago",
+    "hechos-15-18"
+  ],
   "buscar": "Santiago hermano del Señor"
 }

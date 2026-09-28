@@ -1,0 +1,178 @@
+{
+  "id": "ester",
+  "tipo": "libro",
+  "titulo": "Ester",
+  "subtitulo": "Valor para una hora como esta",
+  "libro": "Esth",
+  "centro": {
+    "texto": "Dios cuida a su pueblo en silencio y usa el valor de Ester",
+    "textoNino": "Dios usó a la reina Ester para salvar a su pueblo"
+  },
+  "versiculo": {
+    "texto": "Porque si absolutamente callares en este tiempo, respiro y libertación tendrán los Judíos de otra parte; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora te han hecho llegar al reino?",
+    "referencia": "Ester 4:14"
+  },
+  "ramas": [
+    {
+      "titulo": "Ester llega a reina",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "En Persia, el rey Asuero busca una nueva reina. Elige a Ester, una joven judía huérfana criada por su primo Mardoqueo. En este relato, Dios actúa en silencio.",
+      "resumenNino": "Ester, una joven huérfana, llegó a ser reina de Persia.",
+      "hojas": [
+        {
+          "titulo": "La reina Vasti",
+          "texto": "El rey Asuero da un gran banquete en Susa. La reina Vasti no quiere presentarse, y el rey decide buscar otra reina.",
+          "textoNino": "La reina Vasti no fue a la fiesta del rey.",
+          "referencia": "Ester 1:10-12",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Ester, la huérfana",
+          "texto": "Ester no tiene padre ni madre. Su primo Mardoqueo la cría como a una hija. El rey la ama y le pone la corona real.",
+          "textoNino": "Mardoqueo cuidó a Ester, y ella llegó a ser reina.",
+          "referencia": "Ester 2:5-17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Mardoqueo salva al rey",
+          "texto": "Mardoqueo descubre que dos guardias quieren matar al rey y avisa a tiempo. El hecho queda escrito en el libro del rey.",
+          "textoNino": "Mardoqueo avisó de un peligro y salvó al rey.",
+          "referencia": "Ester 2:21-23",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El plan de Amán",
+      "capitulos": "3–4",
+      "color": "amber",
+      "resumen": "Amán, el hombre más poderoso del reino, se enoja porque Mardoqueo no se inclina ante él. Convence al rey de firmar una ley contra todos los judíos.",
+      "resumenNino": "Amán quiso hacer daño a todo el pueblo judío.",
+      "hojas": [
+        {
+          "titulo": "Un hombre orgulloso",
+          "texto": "Todos se inclinan ante Amán, menos Mardoqueo. Lleno de orgullo, Amán decide destruir no solo a Mardoqueo, sino a todo su pueblo.",
+          "textoNino": "Amán se enojó porque Mardoqueo no se inclinaba ante él.",
+          "referencia": "Ester 3:1-6",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Para esta hora",
+          "texto": "Mardoqueo le pide a Ester que hable con el rey. Le dice: quizá llegaste al reino «para esta hora».",
+          "textoNino": "Mardoqueo le dijo a Ester que quizá era reina para ayudar.",
+          "referencia": "Ester 4:13-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Tres días de ayuno",
+          "texto": "Entrar sin ser llamada puede costarle la vida. Ester pide que su pueblo ayune tres días por ella, y decide ir.",
+          "textoNino": "Ester pidió a todos que oraran y ayunaran por ella.",
+          "referencia": "Ester 4:15-16",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Ester habla al rey",
+      "capitulos": "5–7",
+      "color": "olive",
+      "resumen": "Ester se presenta ante el rey y él la recibe. Una noche sin sueño cambia todo: el rey honra a Mardoqueo. En un banquete, Ester descubre el plan de Amán.",
+      "resumenNino": "Ester fue valiente y le contó al rey el plan malo.",
+      "hojas": [
+        {
+          "titulo": "El cetro de oro",
+          "texto": "Al tercer día, Ester se pone su vestido real y entra al patio. El rey extiende su cetro de oro: ella puede acercarse.",
+          "textoNino": "El rey levantó su cetro de oro y recibió a Ester.",
+          "referencia": "Ester 5:1-3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una noche sin sueño",
+          "texto": "El rey no puede dormir y pide que le lean las memorias del reino. Descubre que Mardoqueo le salvó la vida y nunca fue premiado.",
+          "textoNino": "El rey no podía dormir y recordó el favor de Mardoqueo.",
+          "referencia": "Ester 6:1-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ester descubre el plan",
+          "texto": "En el banquete, Ester pide por su vida y la de su pueblo. Señala al culpable: «este malvado Amán».",
+          "textoNino": "Ester le dijo al rey quién quería dañar a su pueblo.",
+          "referencia": "Ester 7:1-6",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Un pueblo salvado",
+      "capitulos": "8–10",
+      "color": "dawn",
+      "resumen": "Ester ruega al rey llorando. Una nueva ley permite a los judíos defenderse, y el pueblo se salva. La tristeza se vuelve alegría, y nace la fiesta de Purim.",
+      "resumenNino": "El pueblo se salvó e hizo una gran fiesta.",
+      "hojas": [
+        {
+          "titulo": "Ester intercede",
+          "texto": "Ester se echa a los pies del rey y le ruega llorando que detenga el mal contra su pueblo. El rey le permite escribir una nueva ley.",
+          "textoNino": "Ester le pidió al rey que salvara a su pueblo.",
+          "referencia": "Ester 8:3-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Luz y alegría",
+          "texto": "Donde antes había luto, ahora hay luz, alegría y banquetes. El miedo se convierte en fiesta.",
+          "textoNino": "El pueblo pasó de estar triste a estar feliz.",
+          "referencia": "Ester 8:16-17",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La fiesta de Purim",
+          "texto": "Mardoqueo manda recordar cada año estos días. En Purim se hacen regalos y se da a los pobres.",
+          "textoNino": "Cada año celebran Purim para recordar cómo Dios los salvó.",
+          "referencia": "Ester 9:20-28",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Mardoqueo busca el bien",
+          "texto": "Mardoqueo llega a ser el segundo del reino. Usa su poder para buscar el bien de su pueblo y hablar de paz.",
+          "textoNino": "Mardoqueo ayudó a su pueblo y habló de paz.",
+          "referencia": "Ester 10:3",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Ester arriesga su vida para interceder por su pueblo ante el rey. Jesús fue más lejos: dio su vida por nosotros y ahora vive para interceder ante el Padre. Él nos defiende siempre.",
+    "referencias": ["Hebreos 7:25", "Romanos 8:34"]
+  },
+  "paraTuVida": [
+    "Pregúntate: ¿dónde me ha puesto Dios «para esta hora»? ¿A quién puedo ayudar allí?",
+    "Antes de un paso difícil, pide a otros que oren por ti, como Ester.",
+    "Usa lo que tienes, poco o mucho, para buscar el bien de los demás."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Quién crió a Ester cuando se quedó sin padres?",
+      "opciones": ["El rey Asuero", "Su primo Mardoqueo", "Amán"],
+      "correcta": 1,
+      "explicacion": "Mardoqueo, primo de Ester, la crió como a una hija (Ester 2:7)."
+    },
+    {
+      "pregunta": "¿Qué hizo el rey cuando no podía dormir?",
+      "opciones": ["Pidió que le leyeran las memorias", "Dio un banquete", "Salió a pasear"],
+      "correcta": 0,
+      "explicacion": "Al leer las memorias, supo que Mardoqueo le había salvado la vida (Ester 6:1-3)."
+    },
+    {
+      "pregunta": "Ester intercedió por su pueblo. ¿Quién intercede siempre por nosotros?",
+      "opciones": ["Mardoqueo", "Los reyes", "Jesús"],
+      "correcta": 2,
+      "explicacion": "Jesús vive siempre para interceder por los que se acercan a Dios por él (Hebreos 7:25)."
+    }
+  ],
+  "estudio": ["ester"],
+  "conexiones": [
+    { "id": "esdras", "motivo": "En la misma época, otros judíos ya habían vuelto a Jerusalén." },
+    { "id": "nehemias", "motivo": "Nehemías también sirve en la corte del rey de Persia." }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": "hebreos",
+  "tipo": "libro",
+  "titulo": "Hebreos",
+  "subtitulo": "Jesús, mejor que todo",
+  "libro": "Heb",
+  "centro": {
+    "texto": "Jesús es mayor que todo: por él nos acercamos a Dios con confianza",
+    "textoNino": "Jesús es el mejor camino para llegar a Dios"
+  },
+  "versiculo": {
+    "texto": "Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro.",
+    "referencia": "Hebreos 4:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Mayor que los ángeles",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Dios habló antes por los profetas; ahora habla por su Hijo. Jesús está por encima de los ángeles, pero se hizo hermano nuestro para salvarnos.",
+      "resumenNino": "Jesús es más grande que los ángeles y es nuestro hermano.",
+      "hojas": [
+        {
+          "titulo": "Dios habla por su Hijo",
+          "texto": "El Hijo refleja la gloria de Dios y sostiene todo con su palabra. Limpió nuestros pecados y se sentó a la derecha de Dios.",
+          "textoNino": "Jesús nos muestra cómo es Dios.",
+          "referencia": "Hebreos 1:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Por encima de los ángeles",
+          "texto": "Los ángeles sirven a Dios y ayudan a los que serán salvos. Pero al Hijo, Dios le dice: «Tu trono, oh Dios, por el siglo del siglo».",
+          "textoNino": "Los ángeles adoran a Jesús, el Hijo de Dios.",
+          "referencia": "Hebreos 1:4-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un hermano que entiende",
+          "texto": "Jesús se hizo de carne y sangre como nosotros. Venció el poder de la muerte. Como sufrió la tentación, puede ayudar a los tentados.",
+          "textoNino": "Jesús sabe lo que sentimos y nos ayuda.",
+          "referencia": "Hebreos 2:14-18",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Mayor que Moisés",
+      "capitulos": "3–4",
+      "color": "amber",
+      "resumen": "Moisés fue fiel como siervo; Jesús es fiel como Hijo. El pueblo en el desierto no entró en el reposo por no creer. Hoy Dios nos invita a confiar.",
+      "resumenNino": "Jesús es el Hijo en la casa de Dios. Hoy podemos escucharlo.",
+      "hojas": [
+        {
+          "titulo": "Si oyereis hoy su voz",
+          "texto": "Los israelitas vieron las obras de Dios en el desierto, pero endurecieron su corazón. Por eso la carta pide animarse cada día mientras dure el «hoy».",
+          "textoNino": "Cuando Dios te habla, escúchalo con el corazón abierto.",
+          "referencia": "Hebreos 3:7-19",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un descanso para su pueblo",
+          "texto": "Dios ofrece un reposo mejor que la tierra que dio Josué. Entran en él los que creen.",
+          "textoNino": "Dios nos da descanso cuando confiamos en él.",
+          "referencia": "Hebreos 4:1-11",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una palabra viva",
+          "texto": "La palabra de Dios es viva y eficaz, más cortante que una espada. Llega hasta el corazón y conoce lo que pensamos.",
+          "textoNino": "La Biblia es la palabra viva de Dios.",
+          "referencia": "Hebreos 4:12-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Acércate con confianza",
+          "texto": "Jesús, nuestro gran sacerdote, fue tentado en todo, pero sin pecado. Por eso nos acercamos al trono de la gracia sin miedo.",
+          "textoNino": "Puedes hablar con Dios sin miedo, cuando quieras.",
+          "referencia": "Hebreos 4:14-16",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un sacerdote para siempre",
+      "capitulos": "5–7",
+      "color": "dawn",
+      "resumen": "Un sacerdote une a Dios con su pueblo. Jesús lo es para siempre, como Melquisedec, el rey de paz que bendijo a Abraham. Y vive siempre para rogar por nosotros.",
+      "resumenNino": "Jesús siempre ora por nosotros delante de Dios.",
+      "hojas": [
+        {
+          "titulo": "Aprendió obedeciendo",
+          "texto": "Jesús oró con lágrimas y aprendió la obediencia por lo que sufrió. Así vino a ser fuente de salvación eterna.",
+          "textoNino": "Jesús también lloró y oró a su Padre.",
+          "referencia": "Hebreos 5:7-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un ancla para el alma",
+          "texto": "Dios juró a Abraham y cumplió. Su promesa es una esperanza segura y firme, como un ancla que no se mueve.",
+          "textoNino": "La promesa de Dios es firme como un ancla.",
+          "referencia": "Hebreos 6:13-20",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Melquisedec, rey de paz",
+          "texto": "Rey de Salem y sacerdote del Dios Altísimo, bendijo a Abraham. Su nombre significa rey de justicia, y Salem, paz.",
+          "textoNino": "Melquisedec fue un rey bueno que bendijo a Abraham.",
+          "referencia": "Hebreos 7:1-3",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Vive para rogar por nosotros",
+          "texto": "Los otros sacerdotes morían y ofrecían sacrificios cada día. Jesús vive para siempre, se ofreció una sola vez y siempre ruega por nosotros.",
+          "textoNino": "Jesús vive y ora por ti ahora mismo.",
+          "referencia": "Hebreos 7:23-27",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un pacto nuevo",
+      "capitulos": "8–10",
+      "color": "olive",
+      "resumen": "Dios prometió un pacto nuevo, con su ley escrita en el corazón. Jesús lo sella con su propia sangre: un solo sacrificio que perdona para siempre.",
+      "resumenNino": "Jesús dio su vida una vez para perdonarnos para siempre.",
+      "hojas": [
+        {
+          "titulo": "La ley en el corazón",
+          "texto": "Hebreos cita la promesa de Jeremías: Dios escribirá su ley en el corazón y no recordará más los pecados.",
+          "textoNino": "Dios pone su amor dentro de nuestro corazón.",
+          "referencia": "Hebreos 8:6-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una sola vez para siempre",
+          "texto": "El sumo sacerdote entraba cada año al lugar santísimo. Jesús entró una sola vez, en el cielo mismo, y nos rescató para siempre.",
+          "textoNino": "Jesús hizo lo necesario para perdonarnos, una vez y para siempre.",
+          "referencia": "Hebreos 9:11-28",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Acerquémonos juntos",
+          "texto": "Jesús abrió un camino nuevo y vivo hacia Dios. Por eso nos acercamos con fe, mantenemos la esperanza y no dejamos de reunirnos.",
+          "textoNino": "Nos reunimos con la iglesia para animarnos unos a otros.",
+          "referencia": "Hebreos 10:19-25",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "La fe que espera",
+      "capitulos": "11",
+      "color": "rose",
+      "resumen": "La fe es confiar en lo que se espera y no se ve. Abel, Noé, Abraham, Sara, Moisés y muchos más creyeron sin ver el final.",
+      "resumenNino": "Muchos amigos de Dios confiaron en él sin ver todo.",
+      "hojas": [
+        {
+          "titulo": "¿Qué es la fe?",
+          "texto": "La fe está segura de lo que espera. Sin fe no se puede agradar a Dios, porque hay que creer que él existe y premia a quien lo busca.",
+          "textoNino": "Tener fe es confiar en Dios aunque no lo veas.",
+          "referencia": "Hebreos 11:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Abraham y Sara",
+          "texto": "Abraham salió sin saber adónde iba. Sara, ya mayor, tuvo un hijo. Esperaban una ciudad cuyo constructor es Dios.",
+          "textoNino": "Abraham y Sara confiaron en Dios y él les dio un hijo.",
+          "referencia": "Hebreos 11:8-19",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Moisés eligió a Dios",
+          "texto": "Moisés dejó los tesoros de Egipto para estar con el pueblo de Dios. Por la fe cruzaron el mar Rojo como por tierra seca.",
+          "textoNino": "Moisés confió en Dios y cruzó el mar.",
+          "referencia": "Hebreos 11:23-29",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una gran familia de fe",
+          "texto": "Rahab, Gedeón, David, Samuel y los profetas confiaron en Dios. Algunos vieron milagros; otros sufrieron. Dios preparó algo mejor para todos.",
+          "textoNino": "Muchas personas confiaron en Dios en tiempos buenos y malos.",
+          "referencia": "Hebreos 11:30-40",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Los ojos en Jesús",
+      "capitulos": "12–13",
+      "color": "dusk",
+      "resumen": "Rodeados de testigos de la fe, corremos con paciencia mirando a Jesús. Dios nos corrige como Padre. La carta termina con consejos de amor y paz.",
+      "resumenNino": "Corremos la carrera de la vida mirando a Jesús.",
+      "hojas": [
+        {
+          "titulo": "Corre mirando a Jesús",
+          "texto": "Dejamos el peso que estorba y corremos con paciencia. Jesús empieza y completa nuestra fe. Soportó la cruz por el gozo que venía.",
+          "textoNino": "Como en una carrera, miramos a Jesús para no cansarnos.",
+          "referencia": "Hebreos 12:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un Padre que corrige",
+          "texto": "Dios corrige a los que ama, como un buen padre a sus hijos. Duele por un tiempo, pero después da fruto de paz.",
+          "textoNino": "Dios nos corrige porque nos quiere, como un buen papá.",
+          "referencia": "Hebreos 12:5-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Amor en lo pequeño",
+          "texto": "La carta pide amor entre hermanos, abrir la casa y visitar a los presos. Y recuerda: «Jesucristo es el mismo ayer, y hoy, y por los siglos».",
+          "textoNino": "Jesús nunca cambia: te ama hoy y siempre.",
+          "referencia": "Hebreos 13:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una carta sin firma",
+          "texto": "La carta no dice quién la escribió. La tradición pensó en Pablo; otros, en Bernabé o Apolos. Termina con una bendición del Dios de paz.",
+          "textoNino": "No sabemos quién la escribió, pero habla de Jesús.",
+          "referencia": "Hebreos 13:20-25",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Todo en Hebreos apunta a Jesús. Es el Hijo que nos muestra al Padre, el sacerdote que nos entiende y el sacrificio que perdona para siempre. Juan el Bautista lo llamó «el Cordero de Dios».",
+    "referencias": ["Hebreos 4:15", "Hebreos 10:12", "Juan 1:29"]
+  },
+  "paraTuVida": [
+    "Cuando te sientas débil, ora con confianza: Jesús te entiende.",
+    "Esta semana, visita o llama a alguien que está solo o enfermo.",
+    "Elige a una persona de Hebreos 11 y lee su historia."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es la fe, según Hebreos 11:1?",
+      "opciones": ["Ver todo antes de creer", "Estar seguro de lo que se espera", "Saber mucho de la Biblia"],
+      "correcta": 1,
+      "explicacion": "La fe es la sustancia de lo que se espera y la demostración de lo que no se ve (Hebreos 11:1)."
+    },
+    {
+      "pregunta": "¿Con qué compara Hebreos la esperanza que Dios nos da?",
+      "opciones": ["Con un ancla", "Con una lámpara", "Con una roca"],
+      "correcta": 0,
+      "explicacion": "La esperanza es «segura y firme ancla del alma» (Hebreos 6:19)."
+    },
+    {
+      "pregunta": "¿Qué rey y sacerdote bendijo a Abraham en Génesis 14?",
+      "opciones": ["Melquisedec", "Faraón", "Abimelec"],
+      "correcta": 0,
+      "explicacion": "Génesis 14:18-20 lo cuenta. Hebreos 7 ve en él una imagen de Jesús."
+    }
+  ],
+  "estudio": ["hebreos"],
+  "conexiones": [
+    { "id": "levitico", "motivo": "Hebreos explica con Jesús los sacrificios y el sacerdocio de Levítico." },
+    { "id": "genesis", "motivo": "Allí aparecen Abel, Noé, Abraham, Sara y Melquisedec." }
+  ]
+}

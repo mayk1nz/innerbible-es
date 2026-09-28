@@ -1,0 +1,208 @@
+{
+  "id": "1-pedro",
+  "tipo": "libro",
+  "titulo": "1 Pedro",
+  "subtitulo": "Esperanza en el sufrimiento",
+  "libro": "1Pet",
+  "centro": {
+    "texto": "Aunque sufras, tienes una esperanza viva: Jesús resucitado cuida de ti",
+    "textoNino": "Aunque estés triste, Jesús vive y te cuida"
+  },
+  "versiculo": {
+    "texto": "Mas el Dios de toda gracia, que nos ha llamado a su gloria eterna por Jesucristo, después que hubiereis un poco de tiempo padecido, él mismo os perfeccione, confirme, corrobore y establezca.",
+    "referencia": "1 Pedro 5:10"
+  },
+  "ramas": [
+    {
+      "titulo": "Una esperanza viva",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pedro escribe a cristianos dispersos que sufren. Les recuerda que Dios les dio vida nueva y una herencia en el cielo. Por eso pueden alegrarse aun en la prueba.",
+      "resumenNino": "Dios nos da una esperanza que nadie nos puede quitar.",
+      "hojas": [
+        {
+          "titulo": "A los que viven lejos",
+          "texto": "Pedro escribe a creyentes esparcidos por Ponto, Galacia, Capadocia, Asia y Bitinia. La carta lleva su nombre; algunos estudiosos piensan en discípulos suyos.",
+          "textoNino": "Pedro, amigo de Jesús, escribe a cristianos que viven lejos.",
+          "referencia": "1 Pedro 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Más preciosa que el oro",
+          "texto": "Jesús resucitó, y por eso tenemos esperanza viva. Las pruebas son como el fuego que prueba el oro: muestran una fe más preciosa todavía.",
+          "textoNino": "Las cosas difíciles hacen más fuerte nuestra fe.",
+          "referencia": "1 Pedro 1:3-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Rescatados con amor",
+          "texto": "No fuimos rescatados con oro ni plata. Nos rescató Cristo, como un cordero sin mancha, con su sangre preciosa.",
+          "textoNino": "Jesús nos rescató porque nos ama.",
+          "referencia": "1 Pedro 1:18-21",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Piedras vivas",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Jesús es la piedra viva que Dios eligió. Con él, los creyentes son un pueblo de Dios y una casa espiritual. Y siguen sus pasos aun al sufrir sin culpa.",
+      "resumenNino": "Somos como piedras que forman la casa de Dios.",
+      "hojas": [
+        {
+          "titulo": "La piedra que rechazaron",
+          "texto": "Muchos rechazaron a Jesús, pero Dios lo hizo piedra principal. Sobre él se construye su casa, con nosotros como piedras vivas.",
+          "textoNino": "Jesús es la piedra más importante de la casa de Dios.",
+          "referencia": "1 Pedro 2:4-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Pueblo de Dios",
+          "texto": "Antes no eran pueblo; ahora son pueblo de Dios. Fueron llamados de las tinieblas a su luz admirable para anunciar sus maravillas.",
+          "textoNino": "Dios nos llamó de la oscuridad a su luz.",
+          "referencia": "1 Pedro 2:9-10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Sus pisadas",
+          "texto": "Cristo sufrió sin devolver insultos. Llevó nuestros pecados en la cruz, y por sus heridas fuimos sanados. Ahora es nuestro Pastor.",
+          "textoNino": "Jesús no devolvió mal por mal. Nosotros lo imitamos.",
+          "referencia": "1 Pedro 2:21-25",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Bendecir en vez de devolver",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "Pedro habla del hogar y de la vida con los demás. Pide no devolver mal por mal, sino bendecir. Y estar listos para explicar la esperanza con dulzura.",
+      "resumenNino": "Si alguien te trata mal, respóndele con bondad.",
+      "hojas": [
+        {
+          "titulo": "Belleza del corazón",
+          "texto": "Lo que más vale no es el adorno de fuera, sino un espíritu tranquilo y amable. Esposos y esposas son herederos juntos de la gracia.",
+          "textoNino": "Lo más bonito de una persona es su corazón.",
+          "referencia": "1 Pedro 3:3-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Bendecir siempre",
+          "texto": "Sean compasivos y humildes. No devuelvan mal por mal ni insulto por insulto. Bendigan, porque fueron llamados a heredar bendición.",
+          "textoNino": "Respondemos al mal con palabras buenas.",
+          "referencia": "1 Pedro 3:8-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La razón de tu esperanza",
+          "texto": "Estén siempre listos para explicar su esperanza, con dulzura y respeto. Cristo sufrió una vez por nosotros, el justo por los injustos, para llevarnos a Dios.",
+          "textoNino": "Puedes contar con cariño por qué confías en Jesús.",
+          "referencia": "1 Pedro 3:13-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un amor que cubre",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "El fin de todas las cosas se acerca. Por eso Pedro pide orar, amarse mucho y servir con los dones recibidos. Sufrir por ser cristiano no es vergüenza.",
+      "resumenNino": "Nos amamos, compartimos y usamos nuestros dones para ayudar.",
+      "hojas": [
+        {
+          "titulo": "El amor cubre",
+          "texto": "Pedro pide amor intenso entre hermanos, porque «la caridad cubrirá multitud de pecados». Y abrir la casa sin quejarse.",
+          "textoNino": "El amor sabe perdonar muchas cosas.",
+          "referencia": "1 Pedro 4:7-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dones para servir",
+          "texto": "Cada uno recibió un don de Dios. Lo usamos para servir a los demás, y así Dios es honrado en todo.",
+          "textoNino": "Dios te dio talentos para ayudar a otros.",
+          "referencia": "1 Pedro 4:10-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Sin vergüenza",
+          "texto": "Las pruebas no son algo extraño. Si alguien sufre por ser cristiano, no se avergüence: el Espíritu de Dios reposa sobre él.",
+          "textoNino": "No nos da vergüenza seguir a Jesús.",
+          "referencia": "1 Pedro 4:12-16",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El Pastor que cuida",
+      "capitulos": "5",
+      "color": "rose",
+      "resumen": "Pedro pide a los líderes cuidar al rebaño con buen ánimo, como pastores. A todos les pide humildad y confianza: Dios cuida de sus hijos y los hará firmes.",
+      "resumenNino": "Dios cuida de ti. Puedes contarle todo lo que te preocupa.",
+      "hojas": [
+        {
+          "titulo": "Pastores del rebaño",
+          "texto": "Pedro, testigo de los sufrimientos de Cristo, pide a los ancianos cuidar al rebaño con amor y ejemplo. Jesús es el Príncipe de los pastores.",
+          "textoNino": "Los líderes cuidan a la iglesia como pastores a sus ovejas.",
+          "referencia": "1 Pedro 5:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Él tiene cuidado de ti",
+          "texto": "Dios da gracia a los humildes. Puedes echar sobre él toda tu preocupación, porque él tiene cuidado de ti.",
+          "textoNino": "Dile a Dios lo que te preocupa. Él te cuida.",
+          "referencia": "1 Pedro 5:5-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Firmes en la fe",
+          "texto": "El enemigo busca hacer daño, pero se le resiste firmes en la fe. Después de un poco de sufrimiento, Dios mismo nos hará fuertes.",
+          "textoNino": "Con Dios estamos firmes aunque haya problemas.",
+          "referencia": "1 Pedro 5:8-11",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Saludos desde Babilonia",
+          "texto": "Pedro escribe con ayuda de Silvano. Envía saludos de Marcos y de la iglesia «que está en Babilonia», que muchos entienden como Roma.",
+          "textoNino": "Pedro tenía amigos que lo ayudaban, como Silvano y Marcos.",
+          "referencia": "1 Pedro 5:12-14",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pedro fue testigo del sufrimiento de Jesús. Lo ve como el Cordero sin mancha que nos rescató. Es el Siervo de Isaías: «por la herida del cual habéis sido sanados». Hoy es nuestro Pastor.",
+    "referencias": ["1 Pedro 1:18-19", "1 Pedro 2:24-25", "Juan 10:11"]
+  },
+  "paraTuVida": [
+    "Escribe en un papel lo que te preocupa y entrégaselo a Dios en oración.",
+    "Si alguien te ofende hoy, responde con una bendición.",
+    "Usa un don tuyo esta semana para servir a alguien."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Con qué compara Pedro a Jesús en 1 Pedro 1:19?",
+      "opciones": ["Con un león", "Con un cordero sin mancha", "Con un rey"],
+      "correcta": 1,
+      "explicacion": "Pedro dice que nos rescató la sangre preciosa de Cristo, «como de un cordero sin mancha»."
+    },
+    {
+      "pregunta": "¿Qué pide Pedro hacer con nuestras preocupaciones?",
+      "opciones": ["Guardarlas en secreto", "Echarlas sobre Dios", "Contarlas a todos"],
+      "correcta": 1,
+      "explicacion": "Podemos echar sobre Dios nuestra preocupación, porque él cuida de nosotros (1 Pedro 5:7)."
+    },
+    {
+      "pregunta": "¿Qué le pidió Jesús resucitado a Pedro junto al lago?",
+      "opciones": ["Apacienta mis ovejas", "Vete de aquí", "Construye un templo"],
+      "correcta": 0,
+      "explicacion": "Jesús le pidió cuidar a sus ovejas (Juan 21:15-17). Pedro pide lo mismo a los ancianos."
+    }
+  ],
+  "estudio": ["1-pedro"],
+  "conexiones": [
+    { "id": "2-pedro", "motivo": "La segunda carta de Pedro, escrita cerca del final de su vida." },
+    { "id": "isaias", "motivo": "Pedro explica la cruz con el Siervo de Isaías 53." }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "exodo",
+  "tipo": "libro",
+  "titulo": "Éxodo",
+  "subtitulo": "Dios libera a su pueblo",
+  "libro": "Exod",
+  "centro": {
+    "texto": "Dios libera a su pueblo de la esclavitud y viene a vivir con él.",
+    "textoNino": "Dios sacó a su pueblo de Egipto y se quedó con ellos."
+  },
+  "versiculo": {
+    "texto": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de siervos.",
+    "referencia": "Éxodo 20:2"
+  },
+  "ramas": [
+    {
+      "titulo": "Esclavos en Egipto",
+      "capitulos": "1–4",
+      "color": "dusk",
+      "resumen": "La familia de Jacob crece en Egipto, y un nuevo faraón la esclaviza. Dios oye su clamor, se acuerda de su pacto y llama a Moisés.",
+      "resumenNino": "Israel sufría en Egipto. Dios escuchó y llamó a Moisés.",
+      "hojas": [
+        {
+          "titulo": "Un pueblo que sufre",
+          "texto": "Los hijos de Israel se multiplican. El faraón tiene miedo y los obliga a trabajar duro haciendo ladrillos.",
+          "textoNino": "El rey de Egipto los hizo trabajar muchísimo.",
+          "referencia": "Éxodo 1:7-14",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Sacado de las aguas",
+          "texto": "Una madre esconde a su bebé en una cesta sobre el río. La hija del faraón lo encuentra y lo llama Moisés.",
+          "textoNino": "Moisés bebé flotó en una cesta y una princesa lo cuidó.",
+          "referencia": "Éxodo 2:1-10",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La zarza que arde",
+          "texto": "En el monte Horeb, Dios habla a Moisés desde una zarza que no se consume. Le revela su nombre: «YO SOY EL QUE SOY».",
+          "textoNino": "Dios habló a Moisés desde un arbusto con fuego.",
+          "referencia": "Éxodo 3:1-15",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Plagas y Pascua",
+      "capitulos": "5–13",
+      "color": "rose",
+      "resumen": "Moisés pide: «Deja ir a mi pueblo». El faraón se niega una y otra vez. Tras las plagas llega la noche de la Pascua, y Israel sale libre.",
+      "resumenNino": "El rey no quería dejarlos ir. Dios mostró su poder.",
+      "hojas": [
+        {
+          "titulo": "Deja ir a mi pueblo",
+          "texto": "Moisés y Aarón llevan el mensaje de Dios al faraón. Él responde con más trabajo para los esclavos.",
+          "textoNino": "Moisés le pidió al rey: «Deja ir a mi pueblo».",
+          "referencia": "Éxodo 5:1-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Las plagas",
+          "texto": "Agua, ranas, insectos, granizo y oscuridad: cada plaga muestra que el Señor es más fuerte que los dioses de Egipto.",
+          "textoNino": "Dios envió señales grandes, pero el rey no escuchó.",
+          "referencia": "Éxodo 7:14–10:29",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La sangre en las puertas",
+          "texto": "Cada familia come un cordero y marca su puerta con la sangre. Dios promete: «veré la sangre, y pasaré de vosotros».",
+          "textoNino": "Las familias comieron un cordero y Dios las protegió.",
+          "referencia": "Éxodo 12:1-28",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El mar y el desierto",
+      "capitulos": "14–18",
+      "color": "dawn",
+      "resumen": "Dios abre el mar y su pueblo pasa en seco. En el desierto les da pan del cielo y agua de la roca, aunque ellos se quejan.",
+      "resumenNino": "Dios abrió el mar y dio comida y agua en el desierto.",
+      "hojas": [
+        {
+          "titulo": "El mar se abre",
+          "texto": "El ejército del faraón los persigue. Moisés dice: «Jehová peleará por vosotros». Un viento divide las aguas e Israel cruza en seco.",
+          "textoNino": "Dios hizo un camino seco en medio del mar.",
+          "referencia": "Éxodo 14:10-31",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Pan del cielo",
+          "texto": "El pueblo tiene hambre y se queja. Dios hace llover maná cada mañana, justo lo que cada familia necesita para el día.",
+          "textoNino": "Cada mañana Dios mandaba pan del cielo.",
+          "referencia": "Éxodo 16",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Agua de la roca",
+          "texto": "En Refidim no hay agua. Dios manda a Moisés golpear la peña, y de ella sale agua para todos.",
+          "textoNino": "De una roca salió agua para todo el pueblo.",
+          "referencia": "Éxodo 17:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El consejo de Jetro",
+          "texto": "Moisés juzga solo al pueblo de la mañana a la tarde. Su suegro le aconseja repartir el trabajo con hombres de confianza.",
+          "textoNino": "Jetro le dijo a Moisés: pide ayuda a otros.",
+          "referencia": "Éxodo 18:13-27",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "La Ley en el Sinaí",
+      "capitulos": "19–24",
+      "color": "amber",
+      "resumen": "En el monte Sinaí, Dios hace pacto con Israel. Le da los Diez Mandamientos y leyes para vivir como su pueblo. El pueblo promete obedecer.",
+      "resumenNino": "En un monte, Dios le dio a su pueblo diez mandamientos.",
+      "hojas": [
+        {
+          "titulo": "Mi especial tesoro",
+          "texto": "Dios recuerda cómo los trajo «sobre alas de águilas». Los llama a ser su «especial tesoro» y un reino de sacerdotes.",
+          "textoNino": "Dios dijo: «Ustedes son mi tesoro especial».",
+          "referencia": "Éxodo 19:3-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Los Diez Mandamientos",
+          "texto": "Dios da diez palabras: amarlo solo a él y tratar bien al prójimo. Las iglesias las numeran algo distinto, pero el texto es el mismo.",
+          "textoNino": "Diez reglas para amar a Dios y a los demás.",
+          "referencia": "Éxodo 20:1-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La sangre de la alianza",
+          "texto": "Moisés lee el libro de la alianza y el pueblo responde: «Haremos todas las cosas». Con sangre se sella el pacto.",
+          "textoNino": "El pueblo prometió seguir a Dios.",
+          "referencia": "Éxodo 24:3-8",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Una casa para Dios",
+      "capitulos": "25–31",
+      "color": "olive",
+      "resumen": "Dios pide un santuario portátil, el tabernáculo, porque quiere habitar en medio de su pueblo. También elige a Aarón y a sus hijos como sacerdotes.",
+      "resumenNino": "Dios pidió una tienda especial para estar con su pueblo.",
+      "hojas": [
+        {
+          "titulo": "Yo habitaré entre ellos",
+          "texto": "Dios da el modelo del tabernáculo con un propósito claro: «yo habitaré entre ellos».",
+          "textoNino": "Dios quería vivir cerca de su pueblo.",
+          "referencia": "Éxodo 25:1-9",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El arca del testimonio",
+          "texto": "Es un cofre cubierto de oro con dos querubines. Dentro van las tablas de la Ley, y desde allí Dios promete hablar con Moisés.",
+          "textoNino": "Una caja de oro guardaba las tablas de Dios.",
+          "referencia": "Éxodo 25:10-22",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Sacerdotes para el pueblo",
+          "texto": "Aarón lleva en su ropa los nombres de las doce tribus. Así presenta al pueblo delante de Dios.",
+          "textoNino": "Aarón oraba a Dios por todo el pueblo.",
+          "referencia": "Éxodo 28:1-12",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Caída, perdón y gloria",
+      "capitulos": "32–40",
+      "color": "warm",
+      "resumen": "Mientras Moisés está en el monte, el pueblo hace un becerro de oro. Moisés ruega por ellos y Dios perdona. Al final, su gloria llena el tabernáculo.",
+      "resumenNino": "El pueblo falló, pero Dios los perdonó y se quedó con ellos.",
+      "hojas": [
+        {
+          "titulo": "El becerro de oro",
+          "texto": "Cansados de esperar, piden a Aarón otros dioses. Con sus joyas hacen un becerro y le dan la gloria que es de Dios.",
+          "textoNino": "Hicieron un ídolo de oro y se olvidaron de Dios.",
+          "referencia": "Éxodo 32:1-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Moisés intercede",
+          "texto": "Moisés ruega a Dios que perdone al pueblo. Dios responde: «Mi rostro irá contigo, y te haré descansar».",
+          "textoNino": "Moisés pidió perdón por el pueblo y Dios lo escuchó.",
+          "referencia": "Éxodo 32:30–33:17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Misericordioso y piadoso",
+          "texto": "Dios pasa delante de Moisés y proclama quién es: misericordioso, tardo para la ira, grande en benignidad y verdad.",
+          "textoNino": "Dios le dijo a Moisés: «Yo soy bueno y perdono».",
+          "referencia": "Éxodo 34:5-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La gloria llena la casa",
+          "texto": "Terminan el tabernáculo tal como Dios lo pidió. Una nube lo cubre, y la gloria del Señor lo llena.",
+          "textoNino": "Una nube bajó y Dios llenó su tienda.",
+          "referencia": "Éxodo 40:33-38",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pablo llama a Cristo «nuestra pascua»: como el cordero de Egipto, él se entregó por nosotros. Jesús dice que él es el pan del cielo. Y Juan dice que el Verbo «habitó entre nosotros», como Dios en el tabernáculo.",
+    "referencias": ["1 Corintios 5:7", "Juan 6:32-35", "Juan 1:14"]
+  },
+  "paraTuVida": [
+    "Nombra algo de lo que Dios ya te libró y dale gracias hoy.",
+    "Cuando te toque esperar, pide ayuda a Dios en vez de buscar otros «dioses»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Desde dónde habló Dios a Moisés en el monte Horeb?",
+      "opciones": ["Desde una nube", "Desde una zarza", "Desde una roca"],
+      "correcta": 1,
+      "explicacion": "Dios le habló desde una zarza que ardía sin consumirse (Éxodo 3:2-4)."
+    },
+    {
+      "pregunta": "¿Qué comía el pueblo cada mañana en el desierto?",
+      "opciones": ["Maná", "Pescado", "Uvas"],
+      "correcta": 0,
+      "explicacion": "Dios hizo llover pan del cielo, el maná, para cada día (Éxodo 16:4)."
+    },
+    {
+      "pregunta": "¿A quién llama Pablo «nuestra pascua»?",
+      "opciones": ["A Moisés", "Al cordero de Egipto", "A Cristo"],
+      "correcta": 2,
+      "explicacion": "Pablo escribe que Cristo, nuestra pascua, fue sacrificado por nosotros (1 Corintios 5:7)."
+    }
+  ],
+  "estudio": ["exodo"],
+  "conexiones": [
+    { "id": "levitico", "motivo": "Al pie del Sinaí, Dios enseña cómo acercarse a él." },
+    { "id": "pactos-de-dios", "motivo": "El pacto del Sinaí es uno de los grandes pactos." },
+    { "id": "genesis", "motivo": "Dios se acuerda de su pacto con Abraham, Isaac y Jacob." }
+  ]
+}

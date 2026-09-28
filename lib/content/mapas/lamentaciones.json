@@ -1,0 +1,174 @@
+{
+  "id": "lamentaciones",
+  "tipo": "libro",
+  "titulo": "Lamentaciones",
+  "subtitulo": "Llorar con esperanza",
+  "libro": "Lam",
+  "centro": {
+    "texto": "En medio de las ruinas, el amor de Dios es nuevo cada mañana",
+    "textoNino": "Aun cuando lloramos, Dios nos ama cada mañana"
+  },
+  "versiculo": {
+    "texto": "Es por la misericordia de Jehová que no somos consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+    "referencia": "Lamentaciones 3:22-23"
+  },
+  "ramas": [
+    {
+      "titulo": "La ciudad sola",
+      "capitulos": "1",
+      "color": "dusk",
+      "resumen": "Judá ha caído ante Babilonia (c. 586 a.C.). Estos cinco poemas lloran por Jerusalén. La tradición los atribuye a Jeremías; el libro no da autor.",
+      "resumenNino": "Jerusalén quedó triste y vacía, y el pueblo lloró.",
+      "hojas": [
+        {
+          "titulo": "Como una viuda",
+          "texto": "La ciudad antes llena de gente está sola. Llora de noche y no tiene quien la consuele.",
+          "textoNino": "La ciudad estaba sola y lloraba.",
+          "referencia": "Lamentaciones 1:1-6",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "¿Hay dolor como el mío?",
+          "texto": "Jerusalén pregunta a los que pasan si hay «dolor como mi dolor». Reconoce que se alejó de Dios.",
+          "textoNino": "El pueblo dijo: nos alejamos de Dios.",
+          "referencia": "Lamentaciones 1:12-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Derrama tu corazón",
+      "capitulos": "2",
+      "color": "rose",
+      "resumen": "El poeta mira el templo en ruinas y a los niños que sufren. No esconde el dolor: lo lleva ante el Señor.",
+      "resumenNino": "Podemos contarle a Dios lo que nos duele.",
+      "hojas": [
+        {
+          "titulo": "Ojos cansados de llorar",
+          "texto": "El poeta llora tanto que se le cansan los ojos. Le duele ver sufrir a los pequeños en las calles.",
+          "textoNino": "El poeta lloró por los niños de su ciudad.",
+          "referencia": "Lamentaciones 2:11-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Llorar también es orar",
+          "texto": "Invita a levantarse de noche y derramar el corazón «como agua» ante el Señor, con las manos alzadas.",
+          "textoNino": "Llorar delante de Dios también es orar.",
+          "referencia": "Lamentaciones 2:18-19",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Nuevas cada mañana",
+      "capitulos": "3",
+      "color": "amber",
+      "resumen": "En el centro del libro, el poeta se siente a oscuras. Entonces recuerda quién es Dios, y vuelve la esperanza.",
+      "resumenNino": "En la tristeza, el poeta recordó que Dios es bueno.",
+      "hojas": [
+        {
+          "titulo": "Recordar para esperar",
+          "texto": "El poeta trae algo a su memoria. La misericordia de Dios no se acaba: es nueva cada mañana.",
+          "textoNino": "Cada mañana Dios nos ama de nuevo.",
+          "referencia": "Lamentaciones 3:21-24",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "No rechaza para siempre",
+          "texto": "El Señor no desecha para siempre. Si aflige, también se compadece, porque no le gusta hacer sufrir.",
+          "textoNino": "Dios no nos deja para siempre.",
+          "referencia": "Lamentaciones 3:31-33",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Dios dijo: No temas",
+          "texto": "Desde lo más hondo, el poeta invocó a Dios. El Señor se acercó y le dijo: «No temas».",
+          "textoNino": "Dios se acercó y le dijo: no tengas miedo.",
+          "referencia": "Lamentaciones 3:40-58",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El oro se oscureció",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "El cuarto poema compara el antes y el después. Lo que brillaba como oro quedó sin brillo. Pero el castigo tiene un final.",
+      "resumenNino": "Todo quedó triste, pero el dolor iba a terminar.",
+      "hojas": [
+        {
+          "titulo": "Antes y después",
+          "texto": "Las piedras del santuario están tiradas en las calles. El pueblo que valía como oro fino parece ahora barro.",
+          "textoNino": "Lo que era bonito quedó roto.",
+          "referencia": "Lamentaciones 4:1-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cumplido es tu castigo",
+          "texto": "El poema termina con una promesa para Sion: el castigo se cumplió, y no durará para siempre.",
+          "textoNino": "Dios dijo: el castigo ya terminó.",
+          "referencia": "Lamentaciones 4:21-22",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Renueva nuestros días",
+      "capitulos": "5",
+      "color": "dawn",
+      "resumen": "El último poema es una oración de todo el pueblo. Piden a Dios que mire su dolor y los haga volver a él.",
+      "resumenNino": "Todo el pueblo le pidió a Dios: ayúdanos a volver.",
+      "hojas": [
+        {
+          "titulo": "Acuérdate de nosotros",
+          "texto": "El pueblo le pide a Dios que recuerde lo que les pasó. Cuentan su hambre, su cansancio y su tristeza.",
+          "textoNino": "El pueblo le contó a Dios lo que sufría.",
+          "referencia": "Lamentaciones 5:1-18",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Vuélvenos a ti",
+          "texto": "Confiesan que Dios reina para siempre. Y le ruegan: «Vuélvenos, oh Jehová, a ti, y nos volveremos».",
+          "textoNino": "Le pidieron a Dios: haz que volvamos a ti.",
+          "referencia": "Lamentaciones 5:19-22",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús también lloró por Jerusalén al acercarse a ella. Él conoce nuestro dolor desde dentro. Y el amor fiel de Dios, nuevo cada mañana, se ve completo en Jesús, que consuela a los que lloran.",
+    "referencias": ["Lucas 19:41-44", "Mateo 5:4", "2 Corintios 1:3-4"]
+  },
+  "paraTuVida": [
+    "Si estás triste, dile a Dios con sinceridad lo que sientes.",
+    "Mañana al despertar, da gracias por una misericordia nueva.",
+    "Acompaña a alguien que llora, sin prisa y sin sermones."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "Según Lamentaciones 3, ¿cada cuánto son nuevas las misericordias de Dios?",
+      "opciones": ["Cada año", "Cada sábado", "Cada mañana"],
+      "correcta": 2,
+      "explicacion": "El poeta dice: «Nuevas son cada mañana; grande es tu fidelidad» (Lamentaciones 3:23)."
+    },
+    {
+      "pregunta": "¿Por qué ciudad lloran los poemas de Lamentaciones?",
+      "opciones": ["Nínive", "Jerusalén", "Babilonia"],
+      "correcta": 1,
+      "explicacion": "Los cinco poemas lloran por Jerusalén, destruida por Babilonia (Lamentaciones 1:1-7)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús al ver Jerusalén de cerca?",
+      "opciones": ["Lloró por ella", "Se fue lejos", "Cantó un salmo"],
+      "correcta": 0,
+      "explicacion": "Como el poeta de Lamentaciones, Jesús lloró por Jerusalén (Lucas 19:41)."
+    }
+  ],
+  "estudio": ["lamentaciones", "2-reyes-24-25"],
+  "conexiones": [
+    { "id": "jeremias", "motivo": "Jeremías anunció y vio la caída de Jerusalén." },
+    { "id": "salmos", "motivo": "Los Salmos también enseñan a orar con lágrimas." },
+    { "id": "esdras", "motivo": "Allí el pueblo vuelve y reconstruye el templo." }
+  ]
+}

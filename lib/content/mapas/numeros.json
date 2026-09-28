@@ -1,0 +1,215 @@
+{
+  "id": "numeros",
+  "tipo": "libro",
+  "titulo": "Números",
+  "subtitulo": "Cuarenta años en el desierto",
+  "libro": "Num",
+  "centro": {
+    "texto": "Dios guía a su pueblo por el desierto y cumple su promesa.",
+    "textoNino": "Dios cuidó a su pueblo cuarenta años en el desierto."
+  },
+  "versiculo": {
+    "texto": "Jehová te bendiga, y te guarde: Haga resplandecer Jehová su rostro sobre ti, y haya de ti misericordia: Jehová alce a ti su rostro, y ponga en ti paz.",
+    "referencia": "Números 6:24-26"
+  },
+  "ramas": [
+    {
+      "titulo": "Listos en el Sinaí",
+      "capitulos": "1–10",
+      "color": "olive",
+      "resumen": "Israel se prepara para el viaje. Cuentan a las familias, ordenan el campamento alrededor del tabernáculo y siguen a la nube de Dios.",
+      "resumenNino": "El pueblo se preparó para viajar con Dios en medio.",
+      "hojas": [
+        {
+          "titulo": "Un pueblo contado",
+          "texto": "Moisés cuenta a los hombres de cada tribu. De ahí viene el nombre del libro: Números.",
+          "textoNino": "Moisés contó a las familias de Israel.",
+          "referencia": "Números 1:1-3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dios en el centro",
+          "texto": "Las doce tribus acampan en orden, cada una con su bandera. En medio de todas está el tabernáculo.",
+          "textoNino": "Las tiendas rodeaban la casa de Dios.",
+          "referencia": "Números 2:1-2",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Jehová te bendiga",
+          "texto": "Dios da a los sacerdotes una bendición para su pueblo. Pide que su rostro resplandezca sobre ellos y les dé paz.",
+          "textoNino": "Dios enseñó una bendición: «Jehová te bendiga, y te guarde».",
+          "referencia": "Números 6:22-27",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La nube que guía",
+          "texto": "Cuando la nube se alza, el pueblo camina. Cuando se detiene, acampan. Dios marca el paso de cada día.",
+          "textoNino": "Una nube les mostraba cuándo caminar y cuándo parar.",
+          "referencia": "Números 9:15-23",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Miedo en la frontera",
+      "capitulos": "11–14",
+      "color": "rose",
+      "resumen": "En el camino, el pueblo se queja. Doce espías exploran Canaán y diez siembran miedo. Por no confiar, esa generación vagará cuarenta años.",
+      "resumenNino": "El pueblo tuvo miedo y no quiso entrar en la tierra.",
+      "hojas": [
+        {
+          "titulo": "Queremos carne",
+          "texto": "Extrañan el pescado y los melones de Egipto. Moisés se agota. Dios responde: «¿Hase acortado la mano de Jehová?», y envía codornices.",
+          "textoNino": "Se quejaron de la comida, pero Dios les dio más.",
+          "referencia": "Números 11:4-23",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Los doce espías",
+          "texto": "Traen frutos enormes de una tierra que fluye leche y miel. Pero diez dicen: «No podremos». El pueblo llora toda la noche.",
+          "textoNino": "Diez espías dijeron: «Son gigantes, no podemos».",
+          "referencia": "Números 13:17–14:4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Josué y Caleb",
+          "texto": "Solo dos espías confían: «Si Jehová se agradare de nosotros, él nos meterá en esta tierra». Ellos serán los que entren.",
+          "textoNino": "Josué y Caleb dijeron: «Dios está con nosotros».",
+          "referencia": "Números 14:6-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cuarenta años",
+          "texto": "Moisés ruega y Dios perdona. Pero esa generación no entrará: sus hijos crecerán en el desierto durante cuarenta años.",
+          "textoNino": "Tuvieron que esperar cuarenta años para entrar.",
+          "referencia": "Números 14:13-35",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Rebeldías en el desierto",
+      "capitulos": "15–20",
+      "color": "dusk",
+      "resumen": "Algunos se rebelan contra Moisés y Aarón, y Dios confirma a quiénes eligió. Hasta Moisés falla en Cades. Mueren María y Aarón.",
+      "resumenNino": "Hubo peleas y tristezas, pero Dios siguió guiando.",
+      "hojas": [
+        {
+          "titulo": "La rebelión de Coré",
+          "texto": "Coré y otros líderes desafían a Moisés y a Aarón. Dios interviene y muestra que ellos no se eligieron solos.",
+          "textoNino": "Algunos no querían a Moisés como líder.",
+          "referencia": "Números 16:1-35",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La vara que florece",
+          "texto": "Cada tribu deja una vara ante el tabernáculo. A la mañana, la de Aarón ha brotado, echado flores y dado almendras.",
+          "textoNino": "Un palo seco dio flores y almendras en una noche.",
+          "referencia": "Números 17:1-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Moisés golpea la roca",
+          "texto": "Dios le dice que hable a la peña. Moisés, enojado, la golpea dos veces. Sale agua, pero él no entrará en la tierra.",
+          "textoNino": "Moisés se enojó y no hizo lo que Dios dijo.",
+          "referencia": "Números 20:1-13",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Camino a Moab",
+      "capitulos": "21–25",
+      "color": "amber",
+      "resumen": "Israel avanza hacia el Jordán. Dios sana a los mordidos por serpientes. El rey de Moab paga a Balaam para maldecir a Israel, pero Dios lo convierte en bendición.",
+      "resumenNino": "Dios protegió a su pueblo y cambió una maldición en bendición.",
+      "hojas": [
+        {
+          "titulo": "La serpiente de bronce",
+          "texto": "Serpientes muerden al pueblo, que se ha quejado otra vez. Moisés alza una serpiente de metal en un asta. Quien la mira, vive.",
+          "textoNino": "Quien miraba la serpiente de metal se curaba.",
+          "referencia": "Números 21:4-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Balaam y su asna",
+          "texto": "Balaam va a maldecir a Israel. Su asna ve al ángel del Señor en el camino, y Dios le abre la boca para hablar.",
+          "textoNino": "¡Una burrita habló para detener a Balaam!",
+          "referencia": "Números 22:21-35",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Estrella de Jacob",
+          "texto": "En vez de maldecir, Balaam bendice tres veces. Dice que Dios no miente y anuncia que «saldrá ESTRELLA de Jacob».",
+          "textoNino": "Balaam anunció una estrella que saldría de Israel.",
+          "referencia": "Números 23–24",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Una nueva generación",
+      "capitulos": "26–36",
+      "color": "warm",
+      "resumen": "Un nuevo censo muestra a los hijos, listos para entrar. Dios nombra a Josué como sucesor de Moisés y da leyes para la vida en la tierra.",
+      "resumenNino": "Los hijos crecieron y Josué fue el nuevo guía.",
+      "hojas": [
+        {
+          "titulo": "Las hijas de Zelofehad",
+          "texto": "Cinco hermanas piden la herencia de su padre, que murió sin hijos varones. Dios responde: «Bien dicen», y les da su parte.",
+          "textoNino": "Cinco hermanas pidieron su parte y Dios les dio la razón.",
+          "referencia": "Números 27:1-11",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Josué, el nuevo guía",
+          "texto": "Moisés pide un pastor para el pueblo. Dios elige a Josué, «varón en el cual hay espíritu», y Moisés pone su mano sobre él.",
+          "textoNino": "Dios eligió a Josué para guiar al pueblo.",
+          "referencia": "Números 27:15-23",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Ciudades de refugio",
+          "texto": "Dios manda apartar seis ciudades. Allí puede huir quien hirió a alguien sin querer, y quedar a salvo hasta el juicio.",
+          "textoNino": "Había ciudades donde uno podía estar seguro.",
+          "referencia": "Números 35:9-15",
+          "tipo": "lugar"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús dice: «como Moisés levantó la serpiente en el desierto», así él será levantado en la cruz. Quien lo mira con fe recibe vida. Pablo añade que la roca que daba agua «era Cristo».",
+    "referencias": ["Juan 3:14-15", "1 Corintios 10:4"]
+  },
+  "paraTuVida": [
+    "Cuando algo te dé miedo, recuerda lo que Dios ya hizo por ti, como Josué y Caleb.",
+    "Bendice hoy a alguien de tu familia con Números 6:24-26."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos espías confiaron en que Dios les daría la tierra?",
+      "opciones": ["Dos", "Diez", "Doce"],
+      "correcta": 0,
+      "explicacion": "Solo Josué y Caleb animaron al pueblo a confiar en Dios (Números 14:6-9)."
+    },
+    {
+      "pregunta": "¿Qué hizo la vara de Aarón en una noche?",
+      "opciones": ["Se quebró", "Se volvió serpiente", "Floreció y dio almendras"],
+      "correcta": 2,
+      "explicacion": "La vara de Aarón brotó, echó flores y produjo almendras (Números 17:8)."
+    },
+    {
+      "pregunta": "¿Con qué comparó Jesús su muerte en la cruz?",
+      "opciones": ["Con el maná", "Con la serpiente levantada", "Con la nube"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo que sería levantado como Moisés levantó la serpiente en el desierto (Juan 3:14)."
+    }
+  ],
+  "estudio": ["numeros"],
+  "conexiones": [
+    { "id": "deuteronomio", "motivo": "En los campos de Moab, Moisés habla a la nueva generación." },
+    { "id": "josue", "motivo": "Josué y Caleb por fin entran en la tierra." },
+    { "id": "levitico", "motivo": "El viaje empieza donde terminan las leyes del Sinaí." }
+  ]
+}

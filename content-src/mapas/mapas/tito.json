@@ -1,0 +1,164 @@
+{
+  "id": "tito",
+  "tipo": "libro",
+  "titulo": "Tito",
+  "subtitulo": "Una fe que hace el bien",
+  "libro": "Titus",
+  "centro": {
+    "texto": "Dios nos salva por misericordia, y su gracia nos enseña a hacer el bien",
+    "textoNino": "Dios nos salva por amor y nos enseña a hacer el bien"
+  },
+  "versiculo": {
+    "texto": "No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;",
+    "referencia": "Tito 3:5"
+  },
+  "ramas": [
+    {
+      "titulo": "Orden en Creta",
+      "capitulos": "1:1-9",
+      "color": "warm",
+      "resumen": "Pablo dejó a Tito en la isla de Creta para ordenar las iglesias. Le pide poner ancianos honrados en cada ciudad.",
+      "resumenNino": "Tito cuidaba las iglesias de una isla llamada Creta.",
+      "hojas": [
+        {
+          "titulo": "Dios no miente",
+          "texto": "Pablo escribe por la esperanza de la vida eterna. Dios, que no puede mentir, la prometió antes de los tiempos.",
+          "textoNino": "Dios siempre cumple lo que promete.",
+          "referencia": "Tito 1:2-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Tito, hijo en la fe",
+          "texto": "Pablo llama a Tito «verdadero hijo en la común fe». La carta lleva el nombre de Pablo, y así la recibió la tradición; algunos estudiosos piensan en un discípulo suyo.",
+          "textoNino": "Pablo quería a Tito como a un hijo.",
+          "referencia": "Tito 1:4-5",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Líderes de buen corazón",
+          "texto": "Deben ser de buena fama, hospitalarios y amigos del bien. Nada de enojo fácil ni amor al dinero. Y firmes en la palabra fiel.",
+          "textoNino": "Los líderes deben ser amables y amar a Dios.",
+          "referencia": "Tito 1:6-9",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Hechos que hablan",
+      "capitulos": "1:10-16",
+      "color": "amber",
+      "resumen": "En Creta hay quienes enseñan cosas que confunden, por ganar dinero. Dicen conocer a Dios, pero sus hechos lo niegan. Tito debe corregirlos para que sanen en la fe.",
+      "resumenNino": "No basta con decir que amamos a Dios; hay que mostrarlo.",
+      "hojas": [
+        {
+          "titulo": "Corregir para sanar",
+          "texto": "Algunos trastornan familias enteras con enseñanzas por dinero. Tito los corrige con firmeza, no para humillarlos, sino para que estén sanos en la fe.",
+          "textoNino": "Corregimos a otros con amor, para ayudarlos.",
+          "referencia": "Tito 1:10-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dicen, pero no hacen",
+          "texto": "Para los de corazón limpio, todo es limpio. Pero hay quienes dicen conocer a Dios y con sus hechos lo niegan.",
+          "textoNino": "Lo que hacemos muestra si amamos a Dios.",
+          "referencia": "Tito 1:15-16",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Una fe para cada edad",
+      "capitulos": "2",
+      "color": "dawn",
+      "resumen": "Pablo da consejos a mayores, jóvenes y siervos. Todos pueden adornar el evangelio con su vida. La gracia de Dios nos enseña a vivir bien mientras esperamos a Jesús.",
+      "resumenNino": "Abuelos, papás, jóvenes y niños: todos podemos mostrar a Jesús.",
+      "hojas": [
+        {
+          "titulo": "Mayores que enseñan",
+          "texto": "Los hombres mayores son sobrios y pacientes. Las mujeres mayores enseñan lo bueno a las más jóvenes y les ayudan a amar a su familia.",
+          "textoNino": "Los abuelos nos enseñan a amar a Dios y a la familia.",
+          "referencia": "Tito 2:2-5",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Jóvenes y ejemplo",
+          "texto": "Tito anima a los jóvenes a tener dominio propio. Y él mismo es ejemplo de buenas obras y de palabra sana.",
+          "textoNino": "Tito era un buen ejemplo para los jóvenes.",
+          "referencia": "Tito 2:6-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La gracia que enseña",
+          "texto": "La gracia de Dios apareció para salvar a todos. Nos enseña a vivir con justicia mientras esperamos la venida de Jesús, que se dio por nosotros.",
+          "textoNino": "Dios nos regala su amor y nos enseña a vivir.",
+          "referencia": "Tito 2:11-14",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Salvados para hacer el bien",
+      "capitulos": "3",
+      "color": "olive",
+      "resumen": "Pablo pide ser amables con todos y evitar peleas. Antes también vivíamos lejos de Dios, pero él nos salvó por su misericordia. Ahora hacemos el bien.",
+      "resumenNino": "Dios nos salvó porque es bueno, no porque fuéramos perfectos.",
+      "hojas": [
+        {
+          "titulo": "Amables con todos",
+          "texto": "Los creyentes obedecen a las autoridades y están listos para hacer el bien. No hablan mal de nadie y tratan a todos con bondad.",
+          "textoNino": "Tratamos bien a todos, también a quien no conocemos.",
+          "referencia": "Tito 3:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Por su misericordia",
+          "texto": "No nos salvó por lo que hicimos. Dios mostró su bondad y su amor, nos hizo nacer de nuevo y derramó el Espíritu Santo.",
+          "textoNino": "Dios nos salvó por amor y nos dio su Espíritu.",
+          "referencia": "Tito 3:3-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Que no les falte nada",
+          "texto": "Pablo espera a Tito en Nicópolis para el invierno. Le pide ayudar a Zenas y a Apolos para que no les falte nada.",
+          "textoNino": "Ayudamos a los que sirven a Dios con lo que necesitan.",
+          "referencia": "Tito 3:12-15",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pablo espera la manifestación «del gran Dios y Salvador nuestro Jesucristo». Jesús se entregó para limpiarnos y hacernos su pueblo. Todo es regalo: nos salvó por su gracia, no por nuestras obras.",
+    "referencias": ["Tito 2:13-14", "Efesios 2:8-9"]
+  },
+  "paraTuVida": [
+    "Esta semana, haz un bien concreto a alguien sin que te lo pida.",
+    "Si hablas de alguien que no está presente, di solo lo bueno.",
+    "Da gracias a Dios: te salvó por amor, no por tus méritos."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En qué isla dejó Pablo a Tito?",
+      "opciones": ["Chipre", "Creta", "Patmos"],
+      "correcta": 1,
+      "explicacion": "Pablo dejó a Tito en Creta para ordenar las iglesias (Tito 1:5)."
+    },
+    {
+      "pregunta": "Según Tito 3:5, ¿por qué nos salvó Dios?",
+      "opciones": ["Por su misericordia", "Por nuestras buenas obras", "Por nuestra familia"],
+      "correcta": 0,
+      "explicacion": "Tito 3:5 dice que Dios no nos salvó por nuestras obras, sino por su misericordia."
+    },
+    {
+      "pregunta": "¿A qué otro ayudante escribió Pablo cartas sobre cómo cuidar la iglesia?",
+      "opciones": ["Timoteo", "Onésimo", "Demas"],
+      "correcta": 0,
+      "explicacion": "Pablo escribió 1 y 2 Timoteo. Junto con Tito, se las llama cartas pastorales."
+    }
+  ],
+  "estudio": ["tito"],
+  "conexiones": [
+    { "id": "1-timoteo", "motivo": "Consejos parecidos para cuidar la iglesia." },
+    { "id": "efesios", "motivo": "También enseña que somos salvados por gracia." }
+  ]
+}

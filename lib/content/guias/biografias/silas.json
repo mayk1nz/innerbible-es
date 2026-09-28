@@ -2,7 +2,11 @@
   "id": "silas",
   "titulo": "Silas",
   "subtitulo": "Compañero de Pablo, cantando en la cárcel",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén, Macedonia y Corinto"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Jerusalén, Macedonia y Corinto"
+  ],
   "enUnMinuto": [
     "Silas era un líder y profeta de la iglesia de Jerusalén.",
     "Pablo lo eligió como compañero para su segundo viaje.",
@@ -78,46 +82,94 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 15:22-35", "nota": "Enviado a Antioquía" },
-        { "ref": "Hechos 15:40-41", "nota": "Compañero de Pablo" },
-        { "ref": "Hechos 16:16-40", "nota": "Presos y cantando en Filipos" },
-        { "ref": "Hechos 17:1-15", "nota": "Tesalónica y Berea" },
-        { "ref": "Hechos 18:5", "nota": "Llega a Corinto" },
-        { "ref": "2 Corintios 1:19", "nota": "Predicó a Jesús en Corinto" },
-        { "ref": "1 Tesalonicenses 1:1", "nota": "Coautor de la carta" },
-        { "ref": "1 Pedro 5:12", "nota": "El hermano fiel" }
+        {
+          "ref": "Hechos 15:22-35",
+          "nota": "Enviado a Antioquía"
+        },
+        {
+          "ref": "Hechos 15:40-41",
+          "nota": "Compañero de Pablo"
+        },
+        {
+          "ref": "Hechos 16:16-40",
+          "nota": "Presos y cantando en Filipos"
+        },
+        {
+          "ref": "Hechos 17:1-15",
+          "nota": "Tesalónica y Berea"
+        },
+        {
+          "ref": "Hechos 18:5",
+          "nota": "Llega a Corinto"
+        },
+        {
+          "ref": "2 Corintios 1:19",
+          "nota": "Predicó a Jesús en Corinto"
+        },
+        {
+          "ref": "1 Tesalonicenses 1:1",
+          "nota": "Coautor de la carta"
+        },
+        {
+          "ref": "1 Pedro 5:12",
+          "nota": "El hermano fiel"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Pablo y Silas estaban en la cárcel, pero cantaban a Dios a medianoche. ¿Qué canción le cantas tú a Dios?",
-      "actividad": "Para papás y abuelos: Dios estuvo con Pablo y Silas en la cárcel (Hechos 16:25-26). Canten juntos una alabanza y hablen de un momento en que Dios los ayudó."
+      "actividad": "Para el adulto: Dios estuvo con Pablo y Silas en la cárcel (Hechos 16:25-26). Canten juntos una alabanza y hablen de un momento en que Dios los ayudó."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, en mis noches oscuras, pon un canto en mi boca. Hazme un compañero fiel, como Silas. Y que otros vean a Jesús en la forma en que enfrento las pruebas. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Cómo es posible cantar a Dios en medio del dolor?",
+        "¿Qué pensaría el carcelero al oír a Pablo y Silas cantar?",
+        "Silas no buscó el primer lugar. ¿Qué nos enseña sobre servir en equipo?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué hacían Pablo y Silas a medianoche en la cárcel?",
-      "opciones": ["Dormían", "Oraban y cantaban himnos", "Intentaban escapar"],
+      "opciones": [
+        "Dormían",
+        "Oraban y cantaban himnos",
+        "Intentaban escapar"
+      ],
       "correcta": 1,
       "explicacion": "Oraban y cantaban himnos, y los otros presos los oían (Hechos 16:25)."
     },
     {
       "pregunta": "¿Con qué otro nombre aparece Silas en las cartas?",
-      "opciones": ["Silvano", "Simeón", "Sóstenes"],
+      "opciones": [
+        "Silvano",
+        "Simeón",
+        "Sóstenes"
+      ],
       "correcta": 0,
       "explicacion": "Las cartas usan su nombre latino, Silvano (1 Tesalonicenses 1:1)."
     },
     {
       "pregunta": "¿Quién creyó en Jesús después del terremoto en Filipos?",
-      "opciones": ["El magistrado", "Lidia", "El carcelero y su familia"],
+      "opciones": [
+        "El magistrado",
+        "Lidia",
+        "El carcelero y su familia"
+      ],
       "correcta": 2,
       "explicacion": "El carcelero preguntó cómo ser salvo y creyó con toda su casa (Hechos 16:30-34)."
     }
   ],
-  "estudio": ["hechos-15-18", "1-tesalonicenses"],
+  "estudio": [
+    "hechos-15-18",
+    "1-tesalonicenses"
+  ],
   "buscar": "Silas"
 }

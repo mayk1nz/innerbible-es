@@ -1,0 +1,190 @@
+{
+  "id": "joel",
+  "tipo": "libro",
+  "titulo": "Joel",
+  "subtitulo": "El Espíritu para todos",
+  "libro": "Joel",
+  "centro": {
+    "texto": "Después de la ruina, Dios devuelve lo perdido y derrama su Espíritu",
+    "textoNino": "Dios nos devuelve lo perdido y nos da su Espíritu"
+  },
+  "versiculo": {
+    "texto": "Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros viejos soñarán sueños, y vuestros mancebos verán visiones.",
+    "referencia": "Joel 2:28"
+  },
+  "ramas": [
+    {
+      "titulo": "Un ejército de langostas",
+      "capitulos": "1:1-12",
+      "color": "olive",
+      "resumen": "Joel habla a Judá, el reino del sur, y a Jerusalén. No nombra a ningún rey: unos lo sitúan c. 835 a.C.; otros, después del exilio.",
+      "resumenNino": "Joel habló a la gente de Jerusalén.",
+      "hojas": [
+        {
+          "titulo": "Cuéntenlo a sus hijos",
+          "texto": "Una plaga de langostas lo devora todo. Joel pide a los ancianos que lo cuenten a sus hijos, y ellos a los suyos.",
+          "textoNino": "Muchas langostas se comieron todas las plantas.",
+          "referencia": "Joel 1:1-4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Campos tristes",
+          "texto": "La vid y la higuera se secan. No hay trigo, ni vino, ni aceite. Hasta la alegría se seca.",
+          "textoNino": "No quedó fruta ni trigo en los campos.",
+          "referencia": "Joel 1:5-12",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El día del Señor",
+      "capitulos": "1:13–2:11",
+      "color": "dusk",
+      "resumen": "Joel ve en la plaga un aviso: se acerca el día del Señor. Llama a todos a reunirse en la casa de Dios.",
+      "resumenNino": "Joel dijo: vengan todos a orar a Dios.",
+      "hojas": [
+        {
+          "titulo": "Ayuno y clamor",
+          "texto": "Joel llama a los sacerdotes y a todo el pueblo. Deben ayunar, reunirse en la casa de Dios y clamar a él.",
+          "textoNino": "Todos fueron al templo a pedir ayuda a Dios.",
+          "referencia": "Joel 1:13-20",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Suena la trompeta",
+          "texto": "Una trompeta suena en Sion. Joel describe las langostas como un ejército que avanza. ¿Quién podrá soportar ese día?",
+          "textoNino": "Sonó una trompeta para avisar al pueblo.",
+          "referencia": "Joel 2:1-11",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Rasguen el corazón",
+      "capitulos": "2:12-17",
+      "color": "rose",
+      "resumen": "Aun ahora hay tiempo. Dios no pide ropa rota, sino un corazón que vuelve a él. Porque él es clemente y lleno de misericordia.",
+      "resumenNino": "Dios quiere que volvamos a él de corazón.",
+      "hojas": [
+        {
+          "titulo": "Volved con todo el corazón",
+          "texto": "Dios dice: «lacerad vuestro corazón, y no vuestros vestidos». Él es tardo para la ira y grande en misericordia.",
+          "textoNino": "A Dios le importa lo que hay en tu corazón.",
+          "referencia": "Joel 2:12-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Todos juntos",
+          "texto": "Todos se reúnen a orar: ancianos, niños, bebés y hasta los novios. Los sacerdotes lloran y piden: perdona a tu pueblo.",
+          "textoNino": "Grandes y pequeños oraron juntos.",
+          "referencia": "Joel 2:15-17",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Lo que comió la langosta",
+      "capitulos": "2:18-27",
+      "color": "amber",
+      "resumen": "Dios responde con ternura. Promete lluvia, trigo, vino y aceite. Lo perdido no queda perdido para siempre.",
+      "resumenNino": "Dios devolvió la comida y la alegría.",
+      "hojas": [
+        {
+          "titulo": "Tierra, no temas",
+          "texto": "Dios le habla a la tierra y a los animales: «no temas». Promete lluvia a su tiempo y campos verdes otra vez.",
+          "textoNino": "Dios mandó lluvia, y los campos se pusieron verdes.",
+          "referencia": "Joel 2:18-24",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Los años perdidos",
+          "texto": "Dios dice: «os restituiré los años que comió la oruga». Su pueblo comerá, alabará y no será avergonzado.",
+          "textoNino": "Dios devuelve lo que perdimos.",
+          "referencia": "Joel 2:25-27",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El Espíritu para todos",
+      "capitulos": "2:28-32",
+      "color": "warm",
+      "resumen": "Viene una promesa mayor: el Espíritu de Dios para toda clase de personas. En algunas Biblias, esta parte es el capítulo 3.",
+      "resumenNino": "Dios dará su Espíritu a grandes y pequeños.",
+      "hojas": [
+        {
+          "titulo": "Sobre toda carne",
+          "texto": "Dios derramará su Espíritu sobre hijos e hijas, jóvenes y ancianos, siervos y siervas. Nadie queda fuera.",
+          "textoNino": "El Espíritu de Dios es para niños, jóvenes y abuelos.",
+          "referencia": "Joel 2:28-29",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Todo el que invoque",
+          "texto": "Habrá señales en el cielo y en la tierra. Pero cualquiera que invoque el nombre del Señor «será salvo».",
+          "textoNino": "Todo el que llama a Dios es salvado.",
+          "referencia": "Joel 2:30-32",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios vive en Sion",
+      "capitulos": "3:1-21",
+      "color": "dawn",
+      "resumen": "Al final, Dios juzga a los pueblos que dañaron a su pueblo. Y promete vivir en medio de ellos, con agua y abundancia.",
+      "resumenNino": "Dios vivirá para siempre con su pueblo.",
+      "hojas": [
+        {
+          "titulo": "El valle de la decisión",
+          "texto": "Dios reúne a las naciones en un valle para juzgarlas. Él defiende a los que fueron esparcidos y maltratados.",
+          "textoNino": "Dios defiende a los que sufrieron.",
+          "referencia": "Joel 3:1-15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una fuente que da vida",
+          "texto": "El Señor será la esperanza de su pueblo. Los montes darán vino, y de su casa saldrá una fuente.",
+          "textoNino": "De la casa de Dios salía agua fresca.",
+          "referencia": "Joel 3:16-21",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "En Pentecostés, el Espíritu Santo llena a los discípulos. Pedro explica: «esto es lo que fue dicho por el profeta Joel». Jesús resucitado derrama el Espíritu prometido. Y Pablo repite: todo el que invoque al Señor será salvo.",
+    "referencias": ["Hechos 2:16-21", "Hechos 2:33", "Romanos 10:13"]
+  },
+  "paraTuVida": [
+    "Piensa en algo que perdiste y entrégaselo hoy a Dios en oración.",
+    "Pide al Espíritu Santo que te guíe esta semana.",
+    "Cuenta a un niño de tu familia algo bueno que Dios hizo."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué plaga arrasó los campos en tiempos de Joel?",
+      "opciones": ["Ranas", "Granizo", "Langostas"],
+      "correcta": 2,
+      "explicacion": "La oruga, la langosta y otros insectos devoraron los campos de Judá (Joel 1:4)."
+    },
+    {
+      "pregunta": "¿Qué pide Dios rasgar en lugar de la ropa?",
+      "opciones": ["El corazón", "Las cortinas", "Los rollos"],
+      "correcta": 0,
+      "explicacion": "Dios dice: «lacerad vuestro corazón, y no vuestros vestidos» (Joel 2:13)."
+    },
+    {
+      "pregunta": "¿Quién citó a Joel el día de Pentecostés?",
+      "opciones": ["Pablo", "Pedro", "Juan el Bautista"],
+      "correcta": 1,
+      "explicacion": "Pedro explicó que se cumplía la promesa del Espíritu anunciada por Joel (Hechos 2:14-17)."
+    }
+  ],
+  "estudio": ["joel"],
+  "conexiones": [
+    { "id": "hechos", "motivo": "En Pentecostés se cumple la promesa del Espíritu." },
+    { "id": "amos", "motivo": "Amós también habla del día del Señor." },
+    { "id": "romanos", "motivo": "Pablo cita a Joel: todo el que invoque será salvo." }
+  ]
+}

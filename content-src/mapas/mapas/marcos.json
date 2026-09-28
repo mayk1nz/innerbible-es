@@ -1,0 +1,259 @@
+{
+  "id": "marcos",
+  "tipo": "libro",
+  "titulo": "Marcos",
+  "subtitulo": "Jesús, el Hijo de Dios que sirve",
+  "libro": "Mark",
+  "centro": {
+    "texto": "Jesús es el Hijo de Dios que vino a servir y dar su vida",
+    "textoNino": "Jesús vino a ayudarnos y a dar su vida por amor"
+  },
+  "versiculo": {
+    "texto": "Porque el Hijo del hombre tampoco vino para ser servido, mas para servir, y dar su vida en rescate por muchos.",
+    "referencia": "Marcos 10:45"
+  },
+  "ramas": [
+    {
+      "titulo": "Comienza la buena noticia",
+      "capitulos": "1–3",
+      "color": "warm",
+      "resumen": "Marcos va directo a la acción y no cuenta el nacimiento. Juan prepara el camino, Jesús es bautizado y empieza a sanar y a llamar discípulos.",
+      "resumenNino": "Jesús empieza su trabajo y llama a sus primeros amigos.",
+      "hojas": [
+        {
+          "titulo": "Un Evangelio con prisa",
+          "texto": "Es el Evangelio más breve. Usa mucho la palabra «luego», y todo avanza rápido. La tradición lo atribuye a Juan Marcos, compañero de Pedro.",
+          "textoNino": "Marcos cuenta la historia de Jesús muy rápido.",
+          "referencia": "Marcos 1:9-20",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El bautismo en el Jordán",
+          "texto": "Juan bautiza a Jesús. El Espíritu desciende como paloma y una voz del cielo dice: «Tú eres mi Hijo amado».",
+          "textoNino": "Dios Padre dice que Jesús es su Hijo amado.",
+          "referencia": "Marcos 1:9-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Pescadores que lo siguen",
+          "texto": "Junto al mar de Galilea, Jesús llama a Simón, Andrés, Santiago y Juan. Ellos dejan las redes y lo siguen.",
+          "textoNino": "Unos pescadores dejan sus redes para seguir a Jesús.",
+          "referencia": "Marcos 1:16-20",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Por el techo",
+          "texto": "Cuatro hombres abren el techo y bajan a un paralítico ante Jesús. Jesús perdona sus pecados y lo sana.",
+          "textoNino": "Unos amigos llevan a un enfermo a Jesús por el techo.",
+          "referencia": "Marcos 2:1-12",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Poder sobre todo",
+      "capitulos": "4–7",
+      "color": "amber",
+      "resumen": "Jesús enseña con parábolas y muestra su poder sobre el mar, la enfermedad y la muerte. Marcos explica costumbres judías a lectores de otras tierras.",
+      "resumenNino": "Jesús calma el mar y sana a muchas personas.",
+      "hojas": [
+        {
+          "titulo": "¿Quién es este?",
+          "texto": "Una tormenta llena de agua la barca. Jesús calma el viento, y los discípulos se preguntan quién es él.",
+          "textoNino": "Jesús manda al viento que se calme.",
+          "referencia": "Marcos 4:35-41",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La hija de Jairo",
+          "texto": "Jairo pide ayuda por su hija. En el camino, una mujer enferma toca la ropa de Jesús y sana. Luego Jesús levanta a la niña.",
+          "textoNino": "Jesús toma de la mano a una niña, y ella vuelve a vivir.",
+          "referencia": "Marcos 5:21-43",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cinco panes y dos peces",
+          "texto": "Jesús ve a la gente como ovejas sin pastor. Con cinco panes y dos peces, da de comer a cinco mil hombres.",
+          "textoNino": "Jesús alimenta a mucha gente con poca comida.",
+          "referencia": "Marcos 6:30-44",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Para lectores de lejos",
+          "texto": "Marcos explica costumbres judías, como lavarse las manos antes de comer. Parece escribir para creyentes que no eran judíos.",
+          "textoNino": "Marcos explica las cosas para que todos entiendan.",
+          "referencia": "Marcos 7:1-4",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El Mesías que sirve",
+      "capitulos": "8–10",
+      "color": "dawn",
+      "resumen": "Pedro reconoce que Jesús es el Cristo. Jesús anuncia tres veces que sufrirá y resucitará, y enseña que el más grande es el que sirve.",
+      "resumenNino": "Jesús enseña que el más grande es el que ayuda a los demás.",
+      "hojas": [
+        {
+          "titulo": "Tú eres el Cristo",
+          "texto": "Cerca de Cesarea de Filipo, Pedro dice que Jesús es el Cristo. Jesús anuncia que el Hijo del hombre padecerá y resucitará.",
+          "textoNino": "Pedro dice que Jesús es el Salvador prometido.",
+          "referencia": "Marcos 8:27-31",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Brilla en el monte",
+          "texto": "En un monte alto, Jesús brilla ante Pedro, Santiago y Juan. Una voz dice: «Este es mi Hijo amado: a él oid».",
+          "textoNino": "Jesús brilla con una luz muy blanca en un monte.",
+          "referencia": "Marcos 9:2-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Jesús y los niños",
+          "texto": "Jesús se enoja cuando alejan a los niños. Los toma en sus brazos y los bendice.",
+          "textoNino": "Jesús abraza a los niños y los bendice.",
+          "referencia": "Marcos 10:13-16",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Bartimeo ve",
+          "texto": "Un ciego grita: «Jesús, Hijo de David, ten misericordia de mí». Jesús lo sana, y él lo sigue por el camino.",
+          "textoNino": "Un ciego llama a Jesús, y Jesús le devuelve la vista.",
+          "referencia": "Marcos 10:46-52",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "En Jerusalén",
+      "capitulos": "11–13",
+      "color": "olive",
+      "resumen": "Jesús entra en Jerusalén y limpia el templo. Responde preguntas difíciles, alaba la ofrenda de una viuda pobre y habla del futuro.",
+      "resumenNino": "Jesús llega a Jerusalén y enseña en el templo.",
+      "hojas": [
+        {
+          "titulo": "Hosanna",
+          "texto": "Jesús entra en Jerusalén montado en un pollino. La gente tiende mantos y ramas en el camino y lo aclama.",
+          "textoNino": "La gente recibe a Jesús con ramas y alegría.",
+          "referencia": "Marcos 11:1-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Casa de oración",
+          "texto": "Jesús echa del templo a los que venden y compran. Recuerda que la casa de Dios es casa de oración para todos los pueblos.",
+          "textoNino": "Jesús dice que el templo es para orar.",
+          "referencia": "Marcos 11:15-17",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "La ofrenda de la viuda",
+          "texto": "Una viuda pobre echa dos monedas pequeñas en el arca del templo. Jesús dice que dio más que todos, porque dio todo lo que tenía.",
+          "textoNino": "Una viuda da poquito, pero da con todo el corazón.",
+          "referencia": "Marcos 12:41-44",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "La pasión",
+      "capitulos": "14–15",
+      "color": "rose",
+      "resumen": "Una mujer unge a Jesús en Betania. Jesús cena con los doce y ora en Getsemaní. Lo arrestan, lo condenan y muere en la cruz.",
+      "resumenNino": "Jesús ora, lo arrestan y da su vida en la cruz.",
+      "hojas": [
+        {
+          "titulo": "Perfume en Betania",
+          "texto": "Una mujer derrama sobre Jesús un perfume muy caro. Él defiende su gesto y dice que se contará en todo el mundo.",
+          "textoNino": "Una mujer regala a Jesús un perfume muy caro.",
+          "referencia": "Marcos 14:3-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Getsemaní",
+          "texto": "Jesús ora con angustia y llama a Dios «Abba, Padre». Acepta la voluntad del Padre, mientras sus amigos se duermen.",
+          "textoNino": "Jesús ora en un huerto y confía en su Padre.",
+          "referencia": "Marcos 14:32-42",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "El Hijo de Dios",
+          "texto": "Al ver cómo muere Jesús, el centurión dice: «Verdaderamente este hombre era el Hijo de Dios». El libro empezó con ese mismo título.",
+          "textoNino": "Un soldado dice que Jesús es el Hijo de Dios.",
+          "referencia": "Marcos 15:33-39",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "¡Ha resucitado!",
+      "capitulos": "16",
+      "color": "dusk",
+      "resumen": "Unas mujeres encuentran el sepulcro vacío. Un joven vestido de blanco les anuncia que Jesús ha resucitado y que los espera en Galilea.",
+      "resumenNino": "¡Jesús vive! Las mujeres encuentran la tumba vacía.",
+      "hojas": [
+        {
+          "titulo": "El sepulcro vacío",
+          "texto": "María Magdalena y otras mujeres llevan perfumes al sepulcro. La piedra está quitada y Jesús no está allí.",
+          "textoNino": "La piedra se movió y la tumba está vacía.",
+          "referencia": "Marcos 16:1-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Y a Pedro",
+          "texto": "El mensaje es para los discípulos «y a Pedro», el que lo había negado. Jesús no se olvida de él.",
+          "textoNino": "Jesús manda un mensaje especial a Pedro, que estaba triste.",
+          "referencia": "Marcos 16:7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Id por todo el mundo",
+          "texto": "Jesús envía a los once a anunciar el evangelio a toda criatura. Ellos salen a predicar, y el Señor obra con ellos.",
+          "textoNino": "Jesús envía a sus amigos a contar la buena noticia.",
+          "referencia": "Marcos 16:15-20",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Marcos presenta a Jesús como el Hijo de Dios que sirve. No vino a ser servido, sino a dar su vida en rescate por muchos. En la cruz, un centurión reconoce quién es.",
+    "referencias": ["Marcos 1:1", "Marcos 10:45", "Marcos 15:39"]
+  },
+  "paraTuVida": [
+    "Lee Marcos entero en una tarde: es el Evangelio más corto.",
+    "Esta semana, sirve a alguien sin esperar nada a cambio, como Jesús.",
+    "Si fallaste como Pedro, recuerda que Jesús te sigue llamando por tu nombre."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo llevan los amigos al paralítico hasta Jesús?",
+      "opciones": ["Por la ventana", "Por el techo", "Por la puerta"],
+      "correcta": 1,
+      "explicacion": "Marcos 2:4 cuenta que abrieron el techo y bajaron la camilla del paralítico."
+    },
+    {
+      "pregunta": "¿Qué palabra repite mucho Marcos?",
+      "opciones": ["Luego", "Aleluya", "Selah"],
+      "correcta": 0,
+      "explicacion": "Marcos usa mucho «luego». Su relato pasa rápido de una escena a otra."
+    },
+    {
+      "pregunta": "Según Marcos 10:45, ¿a qué vino Jesús?",
+      "opciones": ["A ser servido", "A servir y dar su vida", "A gobernar en Roma"],
+      "correcta": 1,
+      "explicacion": "Jesús vino a servir y a dar su vida en rescate por muchos."
+    }
+  ],
+  "estudio": [
+    "inicio-ministerio",
+    "galilea-milagros",
+    "camino-a-jerusalen",
+    "ultima-semana",
+    "pasion-y-muerte",
+    "resurreccion"
+  ],
+  "conexiones": [
+    { "id": "lucas", "motivo": "Lucas cuenta la misma vida de Jesús con más detalles." },
+    { "id": "1-pedro", "motivo": "Pedro llama a Marcos «mi hijo» en su primera carta." }
+  ]
+}

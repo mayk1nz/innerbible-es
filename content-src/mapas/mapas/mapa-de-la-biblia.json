@@ -1,0 +1,228 @@
+{
+  "id": "mapa-de-la-biblia",
+  "tipo": "tema",
+  "titulo": "La Biblia en un mapa",
+  "subtitulo": "Dos Testamentos, una sola historia",
+  "centro": {
+    "texto": "La Biblia es una biblioteca de muchos libros que cuenta una sola historia.",
+    "textoNino": "La Biblia tiene muchos libros y una sola historia de amor."
+  },
+  "versiculo": {
+    "texto": "Dios, habiendo hablado muchas veces y en muchas maneras en otro tiempo a los padres por los profetas, En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo:",
+    "referencia": "Hebreos 1:1-2"
+  },
+  "ramas": [
+    {
+      "titulo": "Una biblioteca",
+      "capitulos": "",
+      "color": "warm",
+      "resumen": "La Biblia no es un solo libro, sino muchos. Se escribió durante siglos, en tres idiomas, por personas muy distintas. Todos los cristianos comparten 66 libros.",
+      "resumenNino": "La Biblia es como una biblioteca con muchos libros.",
+      "hojas": [
+        {
+          "titulo": "Muchas maneras, un Dios",
+          "texto": "Dios habló «muchas veces y en muchas maneras»: por relatos, leyes, cantos, profetas y cartas.",
+          "textoNino": "Dios habló de muchas maneras.",
+          "referencia": "Hebreos 1:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Personas guiadas por Dios",
+          "texto": "Los que escribieron eran personas reales. Pedro dice que hablaron «inspirados del Espíritu Santo».",
+          "textoNino": "Dios ayudó a las personas que la escribieron.",
+          "referencia": "2 Pedro 1:20-21",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Escrita con cuidado",
+          "texto": "Lucas cuenta que investigó todo con diligencia antes de escribir su Evangelio por orden.",
+          "textoNino": "Lucas preguntó y buscó bien antes de escribir.",
+          "referencia": "Lucas 1:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Tres idiomas",
+          "texto": "El Antiguo Testamento se escribió en hebreo, con algunas partes en arameo, como en Daniel. El Nuevo, en griego.",
+          "textoNino": "Se escribió en hebreo, arameo y griego.",
+          "referencia": "Daniel 2:4",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El Antiguo Testamento",
+      "capitulos": "",
+      "color": "amber",
+      "resumen": "Son 39 libros en las Biblias evangélicas. Las Biblias católicas incluyen siete libros más; las evangélicas, no. Cuentan la creación, la historia de Israel y las promesas de Dios.",
+      "resumenNino": "La primera parte cuenta todo lo que pasó antes de Jesús.",
+      "hojas": [
+        {
+          "titulo": "Los comienzos",
+          "texto": "Dios crea el mundo, el ser humano se aleja, y Dios llama a Abraham para bendecir a todas las familias.",
+          "textoNino": "Dios hizo el mundo y eligió a Abraham.",
+          "referencia": "Génesis 12:1-3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un pueblo y un pacto",
+          "texto": "Dios libera a Israel de Egipto y hace pacto con él en el Sinaí.",
+          "textoNino": "Dios sacó a su pueblo de Egipto.",
+          "referencia": "Éxodo 19:3-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Reyes y profetas",
+          "texto": "Dios promete a David un reino para siempre. Los profetas llaman al pueblo a volver y anuncian a un rey que traerá paz.",
+          "textoNino": "Los profetas anunciaron que vendría un rey bueno.",
+          "referencia": "Isaías 9:6-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una espera",
+          "texto": "Malaquías, el último de los doce profetas menores, anuncia un mensajero que preparará el camino del Señor.",
+          "textoNino": "Al final, todos esperaban al que Dios enviaría.",
+          "referencia": "Malaquías 3:1",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El Nuevo Testamento",
+      "capitulos": "",
+      "color": "dawn",
+      "resumen": "Son 27 libros, escritos en griego en el primer siglo. Cuentan la vida de Jesús, el nacimiento de la Iglesia y cómo seguirlo hasta que vuelva.",
+      "resumenNino": "La segunda parte cuenta la vida de Jesús y de sus amigos.",
+      "hojas": [
+        {
+          "titulo": "Los Evangelios",
+          "texto": "Cuatro libros cuentan lo que Jesús hizo y enseñó, su muerte y su resurrección. Se escribieron para que creamos y tengamos vida.",
+          "textoNino": "Cuatro libros cuentan la vida de Jesús.",
+          "referencia": "Juan 20:30-31",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La Iglesia nace",
+          "texto": "Hechos cuenta cómo el Espíritu Santo llena a los discípulos y la buena noticia sale de Jerusalén hasta Roma.",
+          "textoNino": "Los amigos de Jesús contaron a todos la buena noticia.",
+          "referencia": "Hechos 1:8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cartas a las iglesias",
+          "texto": "Pablo y otros apóstoles escriben cartas para animar y enseñar. Las iglesias las leen en voz alta y se las pasan unas a otras.",
+          "textoNino": "Escribieron cartas para ayudar a los cristianos.",
+          "referencia": "Colosenses 4:16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Todo hecho nuevo",
+          "texto": "El último libro mira hacia el final: Dios limpiará toda lágrima y hará «nuevas todas las cosas».",
+          "textoNino": "Al final, Dios hará todo nuevo y no habrá más llanto.",
+          "referencia": "Apocalipsis 21:1-5",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Jesús en el centro",
+      "capitulos": "",
+      "color": "rose",
+      "resumen": "Las dos partes se unen en Jesús. El Antiguo Testamento prepara su llegada y el Nuevo muestra que en él se cumplen las promesas.",
+      "resumenNino": "Toda la Biblia nos habla de Jesús.",
+      "hojas": [
+        {
+          "titulo": "Desde Moisés",
+          "texto": "Después de resucitar, Jesús explica a dos discípulos lo que decían de él Moisés y todos los profetas.",
+          "textoNino": "Jesús mostró que toda la Biblia habla de él.",
+          "referencia": "Lucas 24:25-27",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "No vino a abrogar",
+          "texto": "Jesús dice que no vino a abrogar la ley ni los profetas, «sino a cumplir».",
+          "textoNino": "Jesús cumplió todo lo que Dios había prometido.",
+          "referencia": "Mateo 5:17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dan testimonio de mí",
+          "texto": "Jesús dice de las Escrituras: «ellas son las que dan testimonio de mí».",
+          "textoNino": "La Biblia nos ayuda a conocer a Jesús.",
+          "referencia": "Juan 5:39",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Para qué nos la dio",
+      "capitulos": "",
+      "color": "olive",
+      "resumen": "Dios nos dio su palabra para conocerlo, tener esperanza y aprender a vivir. Se lee despacio, con otros, pidiendo entenderla.",
+      "resumenNino": "Dios nos dio la Biblia para conocerlo y vivir bien.",
+      "hojas": [
+        {
+          "titulo": "Útil para la vida",
+          "texto": "Pablo le escribe a Timoteo que toda Escritura es inspirada por Dios y útil para enseñar y corregir.",
+          "textoNino": "La Biblia nos enseña a vivir bien.",
+          "referencia": "2 Timoteo 3:14-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Para tener esperanza",
+          "texto": "Lo que se escribió antes nos enseña hoy. Con la consolación de las Escrituras, tenemos esperanza.",
+          "textoNino": "La Biblia nos da esperanza cuando estamos tristes.",
+          "referencia": "Romanos 15:4",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Leer y entender",
+          "texto": "En tiempos de Nehemías, leen la ley en voz alta y explican el sentido para que todos entiendan.",
+          "textoNino": "Leían juntos y se ayudaban a entender.",
+          "referencia": "Nehemías 8:1-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Permanece para siempre",
+          "texto": "La hierba se seca y la flor se cae, pero la palabra de Dios permanece para siempre.",
+          "textoNino": "Las flores se secan, pero la palabra de Dios dura siempre.",
+          "referencia": "Isaías 40:8",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús es la clave de toda la Biblia. Él mismo explicó lo que Moisés y los profetas decían de él. Juan lo llama el Verbo, la Palabra de Dios hecha hombre.",
+    "referencias": ["Lucas 24:27", "Juan 1:1", "Juan 1:14"]
+  },
+  "paraTuVida": [
+    "Elige un Evangelio y lee un capítulo cada día esta semana.",
+    "Antes de leer, pide a Dios en una frase que te ayude a entender."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos libros comparten todas las Biblias cristianas?",
+      "opciones": ["39", "66", "27"],
+      "correcta": 1,
+      "explicacion": "Son 66 libros comunes: 39 del Antiguo Testamento y 27 del Nuevo."
+    },
+    {
+      "pregunta": "¿En qué idioma se escribió el Nuevo Testamento?",
+      "opciones": ["En griego", "En latín", "En hebreo"],
+      "correcta": 0,
+      "explicacion": "El Nuevo Testamento se escribió en griego, el idioma común de aquella época."
+    },
+    {
+      "pregunta": "¿Qué explicó Jesús a los discípulos en el camino, según Lucas 24?",
+      "opciones": ["Cómo pescar", "La historia de Roma", "Lo que las Escrituras decían de él"],
+      "correcta": 2,
+      "explicacion": "Comenzando desde Moisés y los profetas, les declaró lo que de él decían (Lucas 24:27)."
+    }
+  ],
+  "estudio": ["comienza-aqui", "once-eras", "tu-biblia", "antiguo-y-nuevo"],
+  "conexiones": [
+    { "id": "tipos-de-libros", "motivo": "Mira cómo se agrupan los 66 libros." },
+    { "id": "linea-del-tiempo", "motivo": "Recorre la historia de la Biblia en once eras." },
+    { "id": "jesus-en-toda-la-biblia", "motivo": "Descubre a Jesús de Génesis a Apocalipsis." }
+  ]
+}

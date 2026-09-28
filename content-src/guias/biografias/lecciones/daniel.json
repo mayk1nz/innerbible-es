@@ -1,0 +1,130 @@
+{
+  "id": "daniel",
+  "titulo": "Daniel",
+  "subtitulo": "Fiel a Dios en Babilonia",
+  "etiquetas": ["Antiguo Testamento", "Exilio y regreso", "Babilonia"],
+  "enUnMinuto": [
+    "Daniel es llevado joven a Babilonia, lejos de su tierra, para servir en el palacio del rey.",
+    "Allí sigue fiel a Dios: cuida lo que come, ora tres veces al día y explica sueños que nadie entiende.",
+    "Echado al foso de los leones por orar, Dios lo protege, y le muestra visiones del reino que no tendrá fin."
+  ],
+  "versiculo": {
+    "texto": "Y Daniel propuso en su corazón de no contaminarse en la ración de la comida del rey, ni en el vino de su beber: pidió por tanto al príncipe de los eunucos de no contaminarse.",
+    "referencia": "Daniel 1:8"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Daniel quiere decir «Dios es mi juez». En Babilonia le pusieron otro nombre: Beltsasar (Daniel 1:7).",
+        "Era un joven de Judá, de familia noble, llevado a Babilonia en el 605 a.C. Vivió allí casi setenta años, hasta los primeros años del rey persa Ciro (Daniel 1:21; 10:1).",
+        "Sus compañeros eran Ananías, Misael y Azarías, a quienes llamaron Sadrac, Mesac y Abed-nego."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Lejos de casa. Nabucodonosor se lleva a jóvenes de Judá para educarlos en su corte. Entre ellos está Daniel (Daniel 1:1-7).",
+        "Fiel en lo pequeño. Daniel decide no comer la comida del rey. Pide una prueba de diez días con legumbres y agua, y se ven más sanos (Daniel 1:8-16).",
+        "Un sueño imposible. El rey exige que le digan su sueño y lo expliquen. Daniel pide a sus amigos orar, y Dios le revela el secreto (Daniel 2:17-23).",
+        "«Hay un Dios en los cielos». Daniel no se lleva la gloria. Explica que Dios levantará un reino que durará para siempre (Daniel 2:27-45).",
+        "Amigos fieles. Sus tres compañeros no adoran la estatua de oro. Echados al horno, Dios los libra del fuego (Daniel 3).",
+        "La escritura en la pared. En un banquete, una mano escribe en la pared. Daniel lee el mensaje: el reino de Belsasar ha llegado a su fin (Daniel 5).",
+        "Ora como siempre. Una nueva ley prohíbe orar a otro que no sea el rey. Daniel abre su ventana hacia Jerusalén y ora tres veces al día (Daniel 6:6-10).",
+        "En el foso de los leones. Lo echan al foso. Al amanecer, el rey corre a buscarlo, y Daniel está sano: Dios cerró la boca de los leones (Daniel 6:16-23).",
+        "Una oración humilde. Daniel lee a Jeremías, ayuna y confiesa su pecado y el de su pueblo. Confía en la misericordia de Dios (Daniel 9:1-19).",
+        "Visiones del futuro. Ve a uno «como un hijo de hombre» que recibe un reino eterno (Daniel 7:13-14). Al final, Dios le promete descanso y resurrección (Daniel 12:13)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Daniel vio a uno «como un hijo de hombre» que recibía un reino eterno. Jesús se llamó a sí mismo «el Hijo del hombre». Ante el sumo sacerdote, citó esta visión: veréis al Hijo del hombre viniendo en las nubes del cielo (Marcos 14:62). El reino que Daniel anunció, que nunca será destruido, es el reino de Jesús."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "La fidelidad se decide antes de la prueba. Daniel «propuso en su corazón» ser fiel. Esta semana: decide de antemano cómo actuarás ante una tentación que conoces.",
+        "La oración es un hábito, no solo una emergencia. Daniel oraba tres veces al día «como lo solía hacer antes». Esta semana: fija tres momentos de oración cada día.",
+        "Se puede servir bien en un lugar difícil. Daniel trabajó con honradez para reyes que no conocían a Dios. Esta semana: haz tu trabajo con excelencia, como para Dios."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Daniel vivió casi toda su vida lejos de casa, en una cultura que no conocía a Dios. Aun así, no perdió su fe ni su amabilidad. ¿Dónde te sientes tú como «en Babilonia»? Allí también puedes ser fiel."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Ezequiel vivió en la misma época. Nombra a Daniel como ejemplo de justicia y de sabiduría (Ezequiel 14:14; 28:3).",
+        "Jesús lo llamó «Daniel profeta» (Mateo 24:15)."
+      ],
+      "tradicion": [
+        "Una antigua tradición sitúa la tumba de Daniel en Susa, en el actual Irán, donde todavía se visita."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Las Biblias católicas incluyen en Daniel partes escritas en griego. Son el canto de los tres jóvenes (capítulo 3), la historia de Susana (13) y la de Bel y el dragón (14). Las Biblias evangélicas no las incluyen. También se discute la fecha en que se escribió el libro."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Daniel 1", "nota": "Fiel en la corte del rey" },
+        { "ref": "Daniel 2", "nota": "El sueño de la estatua" },
+        { "ref": "Daniel 5", "nota": "La escritura en la pared" },
+        { "ref": "Daniel 6", "nota": "El foso de los leones" },
+        { "ref": "Daniel 7:9-14", "nota": "El Hijo del hombre" },
+        { "ref": "Daniel 9:1-19", "nota": "Su oración por el pueblo" },
+        { "ref": "Hebreos 11:33", "nota": "«Taparon las bocas de leones»" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Daniel siguió orando aunque el rey lo había prohibido. Dios cerró la boca de los leones. ¿Cuándo oras tú durante el día?",
+      "actividad": "Para el adulto: Daniel oraba tres veces al día (Daniel 6:10). Elijan tres momentos del día para orar juntos esta semana: al levantarse, al comer y al dormir."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero proponer en mi corazón serte fiel. Enséñame a orar cada día, aunque sea difícil. Gracias porque tu reino no tendrá fin y porque Jesús reina para siempre. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué cosas hacía Daniel para mantener su fe lejos de su tierra?",
+        "Daniel sirvió a reyes paganos con honradez. ¿Cómo vivimos nuestra fe en el trabajo?",
+        "En su oración, Daniel dice «hemos pecado» y se incluye a sí mismo. ¿Qué nos enseña eso?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué comieron Daniel y sus amigos durante la prueba de diez días?",
+      "opciones": ["La comida del rey", "Legumbres y agua", "Pan y miel"],
+      "correcta": 1,
+      "explicacion": "Pidieron legumbres y agua, y al final se veían más sanos que los demás (Daniel 1:12-16)."
+    },
+    {
+      "pregunta": "¿Por qué echaron a Daniel al foso de los leones?",
+      "opciones": ["Porque robó al rey", "Porque huyó de Babilonia", "Porque siguió orando a Dios"],
+      "correcta": 2,
+      "explicacion": "Una ley prohibía orar a otro que no fuera el rey, y Daniel siguió orando (Daniel 6:7-10)."
+    },
+    {
+      "pregunta": "¿Qué título de la visión de Daniel usó Jesús para sí mismo?",
+      "opciones": ["El Hijo del hombre", "El Anciano de días", "El rey de Babilonia"],
+      "correcta": 0,
+      "explicacion": "Jesús se llamó «el Hijo del hombre» y citó Daniel 7 ante el sumo sacerdote (Marcos 14:62)."
+    }
+  ],
+  "estudio": ["daniel"],
+  "buscar": "Daniel"
+}

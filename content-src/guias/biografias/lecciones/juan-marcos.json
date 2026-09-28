@@ -2,7 +2,11 @@
   "id": "juan-marcos",
   "titulo": "Juan Marcos",
   "subtitulo": "El que volvió a ser útil",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén, Chipre y Roma"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Jerusalén, Chipre y Roma"
+  ],
   "enUnMinuto": [
     "Juan Marcos era un joven de Jerusalén, en cuya casa oraba la iglesia.",
     "Acompañó a Pablo y a Bernabé en su primer viaje, pero se volvió a mitad de camino.",
@@ -79,46 +83,94 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 12:12-17", "nota": "La casa de su madre" },
-        { "ref": "Hechos 12:25", "nota": "Se une a Bernabé y Saulo" },
-        { "ref": "Hechos 13:5-13", "nota": "El primer viaje" },
-        { "ref": "Hechos 15:36-39", "nota": "La discusión por Marcos" },
-        { "ref": "Colosenses 4:10", "nota": "Pariente de Bernabé" },
-        { "ref": "Filemón 1:24", "nota": "Colaborador de Pablo" },
-        { "ref": "2 Timoteo 4:11", "nota": "Útil para el ministerio" },
-        { "ref": "1 Pedro 5:13", "nota": "Como un hijo para Pedro" }
+        {
+          "ref": "Hechos 12:12-17",
+          "nota": "La casa de su madre"
+        },
+        {
+          "ref": "Hechos 12:25",
+          "nota": "Se une a Bernabé y Saulo"
+        },
+        {
+          "ref": "Hechos 13:5-13",
+          "nota": "El primer viaje"
+        },
+        {
+          "ref": "Hechos 15:36-39",
+          "nota": "La discusión por Marcos"
+        },
+        {
+          "ref": "Colosenses 4:10",
+          "nota": "Pariente de Bernabé"
+        },
+        {
+          "ref": "Filemón 1:24",
+          "nota": "Colaborador de Pablo"
+        },
+        {
+          "ref": "2 Timoteo 4:11",
+          "nota": "Útil para el ministerio"
+        },
+        {
+          "ref": "1 Pedro 5:13",
+          "nota": "Como un hijo para Pedro"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Marcos se cansó y se volvió a casa, pero después le dieron otra oportunidad. ¿Alguna vez dejaste algo sin terminar? ¿Lo quieres intentar otra vez?",
-      "actividad": "Para papás y abuelos: Pablo dijo al final que Marcos era útil (2 Timoteo 4:11). Elijan juntos una tarea pequeña que el niño dejó a medias y termínenla."
+      "actividad": "Para el adulto: Pablo dijo al final que Marcos era útil (2 Timoteo 4:11). Elijan juntos una tarea pequeña que el niño dejó a medias y termínenla."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, gracias porque no me descartas cuando fallo. Dame otra oportunidad para servirte, y hazme útil en tus manos. Ayúdame a dar a otros la misma gracia. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Marcos se volvió a casa en el primer viaje?",
+        "¿Quién tenía razón, Pablo o Bernabé? ¿Pueden los dos tener parte de razón?",
+        "¿Qué necesita alguien que falló para volver a sentirse útil?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué pasaba en la casa de la madre de Marcos?",
-      "opciones": ["La iglesia se reunía a orar", "Se vendía pescado", "Vivía el sumo sacerdote"],
+      "opciones": [
+        "La iglesia se reunía a orar",
+        "Se vendía pescado",
+        "Vivía el sumo sacerdote"
+      ],
       "correcta": 0,
       "explicacion": "Muchos estaban allí orando cuando Pedro salió de la cárcel (Hechos 12:12)."
     },
     {
       "pregunta": "¿Dónde dejó Marcos a Pablo y a Bernabé en el primer viaje?",
-      "opciones": ["En Roma", "En Atenas", "En Perge"],
+      "opciones": [
+        "En Roma",
+        "En Atenas",
+        "En Perge"
+      ],
       "correcta": 2,
       "explicacion": "En Perge, Marcos se apartó de ellos y volvió a Jerusalén (Hechos 13:13)."
     },
     {
       "pregunta": "¿Qué apóstol llama a Marcos «mi hijo» en una carta?",
-      "opciones": ["Juan", "Pedro", "Santiago"],
+      "opciones": [
+        "Juan",
+        "Pedro",
+        "Santiago"
+      ],
       "correcta": 1,
       "explicacion": "Pedro envía saludos de «Marcos mi hijo» (1 Pedro 5:13)."
     }
   ],
-  "estudio": ["hechos-13-14", "2-timoteo"],
+  "estudio": [
+    "hechos-13-14",
+    "2-timoteo"
+  ],
   "buscar": "Juan Marcos"
 }

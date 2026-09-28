@@ -1,0 +1,202 @@
+{
+  "id": "amos",
+  "tipo": "libro",
+  "titulo": "Amós",
+  "subtitulo": "Justicia para el pobre",
+  "libro": "Amos",
+  "centro": {
+    "texto": "Dios ama la justicia y defiende al pobre",
+    "textoNino": "Dios quiere que tratemos bien a los pobres"
+  },
+  "versiculo": {
+    "texto": "Antes corra el juicio como las aguas, y la justicia como impetuoso arroyo.",
+    "referencia": "Amós 5:24"
+  },
+  "ramas": [
+    {
+      "titulo": "Un pastor enviado",
+      "capitulos": "1–2",
+      "color": "olive",
+      "resumen": "Amós, un pastor de Judá, habla a Israel, el reino del norte, en tiempos del rey Jeroboam II (c. 760 a.C.). Hay riqueza, pero en pocas manos.",
+      "resumenNino": "Dios envió a un pastor a hablar a Israel.",
+      "hojas": [
+        {
+          "titulo": "Entre los pastores de Tecoa",
+          "texto": "Amós cuida ganado en Tecoa, un pueblo de Judá. No es profeta de oficio, pero Dios lo envía al norte.",
+          "textoNino": "Amós cuidaba animales cuando Dios lo llamó.",
+          "referencia": "Amós 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Por tres pecados, y cuatro",
+          "texto": "Amós empieza por los pueblos vecinos: Damasco, Gaza, Tiro, Edom, Amón y Moab. Dios ha visto su crueldad. Después nombra a Judá.",
+          "textoNino": "Dios ve lo malo que hacen todos los pueblos.",
+          "referencia": "Amós 1:3–2:5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un par de zapatos",
+          "texto": "Por fin llega a Israel. Allí venden al justo por dinero y al pobre «por un par de zapatos».",
+          "textoNino": "Algunos trataban muy mal a los pobres.",
+          "referencia": "Amós 2:6-8",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Escuchen esta palabra",
+      "capitulos": "3–4",
+      "color": "amber",
+      "resumen": "Dios eligió a Israel con amor, y por eso le pide más. Los ricos de Samaria viven bien mientras oprimen al pobre.",
+      "resumenNino": "Dios quiere que su pueblo comparta con los pobres.",
+      "hojas": [
+        {
+          "titulo": "Dios avisa antes",
+          "texto": "El Señor no hace nada sin revelarlo antes a sus profetas. Avisar es una forma de amar.",
+          "textoNino": "Dios avisa antes, porque nos quiere.",
+          "referencia": "Amós 3:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Lujo en Samaria",
+          "texto": "En el monte de Samaria, algunos piden más vino mientras quebrantan a los necesitados. Dios lo ve todo.",
+          "textoNino": "Algunos ricos no ayudaban a los pobres.",
+          "referencia": "Amós 4:1-3",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Y no se volvieron",
+          "texto": "Dios envió hambre, sequía y plagas para que el pueblo volviera. Cinco veces repite con tristeza: «no os tornasteis a mí».",
+          "textoNino": "Dios llamó muchas veces a su pueblo.",
+          "referencia": "Amós 4:6-13",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Buscadme, y viviréis",
+      "capitulos": "5–6",
+      "color": "dawn",
+      "resumen": "En Betel hay fiestas y cantos, pero en los tribunales se compra la justicia. Dios no quiere cantos sin justicia.",
+      "resumenNino": "Dios quiere que seamos justos, no solo que cantemos.",
+      "hojas": [
+        {
+          "titulo": "Buscad lo bueno",
+          "texto": "Dios invita: «Buscadme, y viviréis». Pide odiar el mal, amar el bien y hacer justicia en la puerta de la ciudad.",
+          "textoNino": "Busca a Dios y ama lo que es bueno.",
+          "referencia": "Amós 5:4-15",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Como un río",
+          "texto": "Dios no quiere fiestas mientras se oprime al débil. Quiere que la justicia corra como un arroyo que nunca se seca.",
+          "textoNino": "La justicia debe correr como un río.",
+          "referencia": "Amós 5:21-24",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Camas de marfil",
+          "texto": "Algunos duermen en camas de marfil y comen lo mejor. No les duele el sufrimiento de su pueblo.",
+          "textoNino": "Algunos tenían mucho y no se preocupaban por nadie.",
+          "referencia": "Amós 6:1-7",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Visiones de Amós",
+      "capitulos": "7:1–9:10",
+      "color": "rose",
+      "resumen": "Dios le muestra a Amós lo que viene. Amós ruega por su pueblo, y Dios lo escucha. Pero muchos no quieren oír.",
+      "resumenNino": "Amós oró por su pueblo, y Dios lo escuchó.",
+      "hojas": [
+        {
+          "titulo": "Perdona ahora",
+          "texto": "Amós ve langostas y fuego. Ruega por su pueblo: «perdona ahora», «cesa ahora». Y las dos veces Dios detiene el castigo.",
+          "textoNino": "Amós pidió perdón por su pueblo, y Dios lo oyó.",
+          "referencia": "Amós 7:1-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una plomada de albañil",
+          "texto": "Dios pone una plomada, la cuerda que muestra si un muro está recto. Su pueblo ya no está derecho.",
+          "textoNino": "Dios usa una cuerda para ver si algo está derecho.",
+          "referencia": "Amós 7:7-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "No soy profeta",
+          "texto": "El sacerdote Amasías echa a Amós de Betel. Amós responde: «No soy profeta». Solo obedece a Dios, que lo llamó desde el ganado.",
+          "textoNino": "Amós dijo: yo solo obedezco a Dios.",
+          "referencia": "Amós 7:10-17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Hambre de la palabra",
+          "texto": "Vendrán días de hambre, pero no de pan: hambre de oír la palabra de Dios.",
+          "textoNino": "Necesitamos la palabra de Dios como el pan.",
+          "referencia": "Amós 8:11-12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "La casa de David",
+      "capitulos": "9:11-15",
+      "color": "warm",
+      "resumen": "El libro no termina en ruinas. Dios promete levantar la casa de David y plantar a su pueblo para siempre.",
+      "resumenNino": "Dios promete arreglar todo lo que se rompió.",
+      "hojas": [
+        {
+          "titulo": "Levantaré lo caído",
+          "texto": "Dios dice: «yo levantaré el tabernáculo de David, caído». Reparará sus grietas y lo edificará como antes.",
+          "textoNino": "Dios levantará lo que se cayó.",
+          "referencia": "Amós 9:11-12",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Nunca más arrancados",
+          "texto": "El pueblo volverá a construir ciudades, plantar viñas y comer de sus huertos. Dios lo plantará, y nunca más será arrancado.",
+          "textoNino": "El pueblo volverá a plantar y a comer feliz.",
+          "referencia": "Amós 9:13-15",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "El ángel anuncia a María que Jesús recibirá «el trono de David su padre». En Hechos, Santiago cita a Amós: Dios levanta la casa caída de David para que todos los pueblos busquen al Señor.",
+    "referencias": ["Lucas 1:32-33", "Hechos 15:13-17"]
+  },
+  "paraTuVida": [
+    "Esta semana, ayuda a alguien que no puede devolverte el favor.",
+    "Revisa si en tu trabajo o tu casa tratas a todos con justicia.",
+    "Antes de cantar a Dios, pídele un corazón justo y compasivo."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué oficio tenía Amós antes de ser enviado por Dios?",
+      "opciones": ["Pescador", "Pastor de ganado", "Sacerdote"],
+      "correcta": 1,
+      "explicacion": "Amós era de los pastores de Tecoa, y Dios lo tomó de detrás del ganado (Amós 1:1; 7:15)."
+    },
+    {
+      "pregunta": "¿Cómo quiere Dios que corra la justicia, según Amós 5:24?",
+      "opciones": ["Como las aguas", "Como el viento", "Como el fuego"],
+      "correcta": 0,
+      "explicacion": "Amós dice: corra el juicio como las aguas, y la justicia como arroyo (Amós 5:24)."
+    },
+    {
+      "pregunta": "¿Quién citó a Amós en la reunión de Jerusalén, en Hechos 15?",
+      "opciones": ["Pedro", "Pablo", "Santiago"],
+      "correcta": 2,
+      "explicacion": "Santiago citó Amós 9:11: Dios levanta la casa caída de David (Hechos 15:13-17)."
+    }
+  ],
+  "estudio": ["amos", "2-reyes-1-14"],
+  "conexiones": [
+    { "id": "oseas", "motivo": "Oseas habla al mismo reino del norte, poco después." },
+    { "id": "miqueas", "motivo": "Miqueas también defiende a los pobres." },
+    { "id": "santiago", "motivo": "Santiago pide una fe que cuida al pobre." }
+  ]
+}

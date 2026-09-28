@@ -1,0 +1,200 @@
+{
+  "id": "2-corintios",
+  "tipo": "libro",
+  "titulo": "2 Corintios",
+  "subtitulo": "Fuerza en la debilidad",
+  "libro": "2Cor",
+  "centro": {
+    "texto": "El poder de Dios brilla en nuestra debilidad",
+    "textoNino": "Aunque seamos débiles, Dios nos hace fuertes"
+  },
+  "versiculo": {
+    "texto": "Y me ha dicho: Bástate mi gracia; porque mi potencia en la flaqueza se perfecciona. Por tanto, de buena gana me gloriaré más bien en mis flaquezas, porque habite en mí la potencia de Cristo.",
+    "referencia": "2 Corintios 12:9"
+  },
+  "ramas": [
+    {
+      "titulo": "Consuelo en la prueba",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Pablo ha pasado grandes peligros en Asia. Bendice al Dios de toda consolación y explica por qué cambió sus planes de viaje.",
+      "resumenNino": "Dios nos consuela cuando estamos tristes.",
+      "hojas": [
+        {
+          "titulo": "El Dios que consuela",
+          "texto": "Dios nos consuela en todas nuestras tribulaciones. Así podemos consolar a otros que sufren.",
+          "textoNino": "Dios nos consuela para que consolemos a otros.",
+          "referencia": "2 Corintios 1:3-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Perdonar y consolar",
+          "texto": "Pablo pide perdonar y consolar al que causó tristeza, para que no se hunda en una tristeza demasiado grande.",
+          "textoNino": "Perdonamos y abrazamos al que se arrepiente.",
+          "referencia": "2 Corintios 2:5-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un tesoro frágil",
+      "capitulos": "3–5",
+      "color": "amber",
+      "resumen": "Pablo describe su servicio: una luz de Dios guardada en vidas frágiles. En Cristo somos nueva criatura y llevamos un mensaje de reconciliación.",
+      "resumenNino": "Somos como vasijas de barro con un tesoro dentro.",
+      "hojas": [
+        {
+          "titulo": "Cartas vivas",
+          "texto": "Los corintios son una carta de Cristo, escrita no con tinta, sino con el Espíritu del Dios vivo, en el corazón.",
+          "textoNino": "Nuestra vida es como una carta que habla de Jesús.",
+          "referencia": "2 Corintios 3:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Vasos de barro",
+          "texto": "Somos frágiles como vasijas de barro, pero llevamos un tesoro. Estamos en apuros, pero no desesperamos.",
+          "textoNino": "Somos frágiles, pero Dios pone un tesoro en nosotros.",
+          "referencia": "2 Corintios 4:7-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Nueva criatura",
+          "texto": "Si alguno está en Cristo, es nueva criatura: las cosas viejas pasaron y todo es hecho nuevo.",
+          "textoNino": "Con Jesús, todo empieza de nuevo.",
+          "referencia": "2 Corintios 5:17",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "En paz con Dios",
+          "texto": "Dios estaba en Cristo reconciliando al mundo consigo. Ahora nos confía el mensaje de la reconciliación.",
+          "textoNino": "Por Jesús somos amigos de Dios otra vez.",
+          "referencia": "2 Corintios 5:18-21",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un corazón abierto",
+      "capitulos": "6–7",
+      "color": "dawn",
+      "resumen": "Pablo abre su corazón a los corintios. Cuenta cómo Tito le trajo buenas noticias y cómo su carta los llevó a volver a Dios.",
+      "resumenNino": "Pablo se alegra porque sus amigos vuelven a Dios.",
+      "hojas": [
+        {
+          "titulo": "Hoy es el día",
+          "texto": "Pablo recuerda que este es el tiempo aceptable. Ahora es el día de salvación.",
+          "textoNino": "Hoy es un buen día para acercarte a Dios.",
+          "referencia": "2 Corintios 6:1-2",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La llegada de Tito",
+          "texto": "En Macedonia, Pablo está afligido. Dios, que consuela a los humildes, lo consuela con la llegada de Tito.",
+          "textoNino": "Un amigo llega con buenas noticias para Pablo.",
+          "referencia": "2 Corintios 7:5-7",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una tristeza que sana",
+          "texto": "La tristeza que viene de Dios lleva al arrepentimiento y a la salvación. Después no deja pesar.",
+          "textoNino": "Cuando nos arrepentimos, Dios nos devuelve la alegría.",
+          "referencia": "2 Corintios 7:8-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Dar con alegría",
+      "capitulos": "8–9",
+      "color": "olive",
+      "resumen": "Pablo organiza una ofrenda para los hermanos de Jerusalén. Pone como ejemplo a las iglesias de Macedonia y, sobre todo, a Jesús.",
+      "resumenNino": "Dios ama al que da con alegría.",
+      "hojas": [
+        {
+          "titulo": "Generosos en la pobreza",
+          "texto": "Las iglesias de Macedonia, aun siendo pobres y en medio de pruebas, dan con gozo y más allá de sus fuerzas.",
+          "textoNino": "Unos hermanos pobres comparten con alegría.",
+          "referencia": "2 Corintios 8:1-5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Se hizo pobre",
+          "texto": "Jesús, siendo rico, se hizo pobre por amor a nosotros, para que fuéramos enriquecidos con su pobreza.",
+          "textoNino": "Jesús lo dio todo por amor a nosotros.",
+          "referencia": "2 Corintios 8:9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El dador alegre",
+          "texto": "Cada uno dé como decidió en su corazón, no con tristeza ni por obligación, porque Dios ama al dador alegre.",
+          "textoNino": "Damos con alegría, porque Dios nos da mucho.",
+          "referencia": "2 Corintios 9:6-8",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Fuerte en la debilidad",
+      "capitulos": "10–13",
+      "color": "dusk",
+      "resumen": "Algunos critican a Pablo. Él responde con humildad, cuenta lo que ha sufrido por el evangelio y descubre que la gracia de Dios le basta.",
+      "resumenNino": "Cuando Pablo se siente débil, Dios le da su fuerza.",
+      "hojas": [
+        {
+          "titulo": "Lo que sufrió",
+          "texto": "Pablo pasó cárceles, naufragios, peligros, hambre y frío. Además, cada día lleva en el corazón a todas las iglesias.",
+          "textoNino": "Pablo pasó muchas dificultades por amor a Jesús.",
+          "referencia": "2 Corintios 11:23-28",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Bástate mi gracia",
+          "texto": "Pablo pide tres veces que Dios le quite un aguijón en su cuerpo. Dios le responde que su gracia le basta.",
+          "textoNino": "Dios le dice a Pablo: «Bástate mi gracia».",
+          "referencia": "2 Corintios 12:7-10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La bendición final",
+          "texto": "Pablo se despide con una bendición: la gracia de Jesucristo, el amor de Dios y la comunión del Espíritu Santo.",
+          "textoNino": "Pablo bendice a sus amigos en el nombre de Dios.",
+          "referencia": "2 Corintios 13:11-13",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "En Cristo se cumplen todas las promesas de Dios. Siendo rico, se hizo pobre por nosotros, y por él Dios nos reconcilia consigo.",
+    "referencias": ["2 Corintios 1:20", "2 Corintios 5:19", "2 Corintios 8:9"]
+  },
+  "paraTuVida": [
+    "Esta semana, consuela a alguien que sufre, como Dios te consoló a ti.",
+    "Cuando te sientas débil, ora con 2 Corintios 12:9."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En qué dice Pablo que llevamos el tesoro?",
+      "opciones": ["En cofres de oro", "En vasos de barro", "En el templo"],
+      "correcta": 1,
+      "explicacion": "2 Corintios 4:7: llevamos el tesoro en vasos de barro, para que el poder sea de Dios."
+    },
+    {
+      "pregunta": "¿Qué le respondió Dios a Pablo sobre su aguijón?",
+      "opciones": ["Te lo quitaré mañana", "Bástate mi gracia", "Espera un año"],
+      "correcta": 1,
+      "explicacion": "Dios le dijo que su gracia le bastaba y que su poder se muestra en la debilidad (2 Corintios 12:9)."
+    },
+    {
+      "pregunta": "Tito trae buenas noticias a Pablo. ¿Qué carta lleva su nombre?",
+      "opciones": ["Tito", "Filemón", "Judas"],
+      "correcta": 0,
+      "explicacion": "La carta a Tito está dirigida a este mismo colaborador de Pablo (Tito 1:4)."
+    }
+  ],
+  "estudio": ["2-corintios"],
+  "conexiones": [
+    { "id": "1-corintios", "motivo": "La primera carta de Pablo a esta misma iglesia." },
+    { "id": "tito", "motivo": "Tito, que consuela a Pablo aquí, recibe su propia carta." }
+  ]
+}

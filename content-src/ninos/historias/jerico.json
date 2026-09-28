@@ -1,0 +1,137 @@
+{
+  "id": "jerico",
+  "titulo": "Las murallas de Jericó",
+  "referencia": "Josué 6",
+  "estudio": "josue",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "ciudad-cerrada",
+      "texto": {
+        "3-5": "Jericó era una ciudad con murallas altas, ¡altísimas! Sus puertas estaban cerradas. Nadie entraba. Nadie salía.",
+        "6-8": "El pueblo de Dios ya estaba cerca de la tierra prometida. Pero frente a ellos estaba Jericó, una ciudad con murallas enormes. Las puertas estaban bien cerradas: nadie entraba ni salía.",
+        "9-12": "Después de cruzar el Jordán, Israel llegó frente a Jericó. La ciudad «estaba cerrada, bien cerrada»: nadie entraba ni salía (Josué 6:1). Sus murallas parecían imposibles de vencer. Pero el Señor le dijo a Josué: «Yo he entregado en tu mano a Jericó»."
+      }
+    },
+    {
+      "id": "el-plan",
+      "texto": {
+        "3-5": "Dios le dijo a Josué: «Caminen alrededor de la ciudad. Toquen las trompetas». ¡Qué plan tan raro!",
+        "6-8": "Dios le dijo a Josué: «Te he entregado Jericó». Y le dio un plan muy raro. Los soldados y siete sacerdotes con trompetas de cuerno de carnero caminarían alrededor de la ciudad. También llevarían el arca del pacto.",
+        "9-12": "El plan de Dios no parecía una estrategia de guerra. Durante seis días darían una vuelta a la ciudad. Siete sacerdotes irían delante del arca del pacto, tocando trompetas de cuerno de carnero. El séptimo día darían siete vueltas, y al sonar la trompeta, todos gritarían."
+      }
+    },
+    {
+      "id": "silencio",
+      "texto": {
+        "3-5": "Un día, una vuelta. Pasos y trompetas: ¡tuuu, tuuu! Pero nadie hablaba. ¡Shhh!",
+        "6-8": "Josué les dijo: «No griten ni digan una palabra hasta que yo les avise». Durante seis días dieron una vuelta cada día. Solo se oían los pasos y las trompetas. Luego volvían al campamento.",
+        "9-12": "Josué ordenó silencio: «No griten, ni se oiga su voz, hasta el día que yo les diga» (Josué 6:10). Seis días seguidos marcharon alrededor de Jericó y regresaron al campamento. Obedecer sin ver resultados también era un acto de fe."
+      }
+    },
+    {
+      "id": "la-muralla-cae",
+      "texto": {
+        "3-5": "El séptimo día dieron siete vueltas. ¡Tuuu! Todos gritaron. ¡Y las murallas cayeron! ¡Pum!",
+        "6-8": "El séptimo día se levantaron de madrugada y dieron siete vueltas. Los sacerdotes tocaron las trompetas, y Josué dijo: «¡Griten, que el Señor les ha entregado la ciudad!». Todo el pueblo gritó… ¡y la muralla se derrumbó!",
+        "9-12": "El séptimo día madrugaron y dieron siete vueltas. Cuando los sacerdotes tocaron por séptima vez, Josué gritó: «¡Griten, porque el Señor les ha entregado la ciudad!». El pueblo gritó con fuerza, y la muralla cayó (Josué 6:20). Hebreos lo explica: «Por fe cayeron los muros de Jericó»."
+      }
+    },
+    {
+      "id": "rahab",
+      "texto": {
+        "3-5": "Rahab y su familia estaban a salvo. ¡Dios cumplió lo que dijo!",
+        "6-8": "Una mujer de Jericó, llamada Rahab, había ayudado a dos espías de Israel. Por eso, Josué cuidó que ella y toda su familia salieran a salvo. El Señor estaba con Josué, y todos oyeron hablar de lo que Dios había hecho.",
+        "9-12": "Rahab, una mujer de Jericó, había escondido a los espías de Israel y confiado en el Dios de ellos. Josué cumplió la promesa que le habían hecho: ella y toda su familia fueron rescatadas (Josué 6:25). El Señor estaba con Josué, y su fama se extendió por toda la tierra."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios cumple lo que dice.", "referencia": "Josué 6:2", "fuente": "adaptado" },
+    "6-8": { "texto": "Mira: yo te he entregado la ciudad. Confía en mí.", "referencia": "Josué 6:2", "fuente": "adaptado" },
+    "9-12": { "texto": "Por fe cayeron los muros de Jericó con rodearlos siete días.", "referencia": "Hebreos 11:30", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia de Jericó en orden.",
+      "niveles": {
+        "3-5": {
+          "items": ["Las murallas están cerradas", "Caminan y tocan las trompetas", "¡Las murallas caen!"]
+        },
+        "6-8": {
+          "items": [
+            "Jericó está bien cerrada",
+            "Dios le da un plan a Josué",
+            "Seis días dan una vuelta en silencio",
+            "El séptimo día dan siete vueltas",
+            "Gritan y la muralla cae"
+          ]
+        },
+        "9-12": {
+          "items": [
+            "El Señor dice: «Yo he entregado Jericó»",
+            "Josué ordena silencio total",
+            "Marchan seis días, una vuelta cada día",
+            "El séptimo día madrugan y dan siete vueltas",
+            "Suenan las trompetas, el pueblo grita y cae la muralla",
+            "Rahab y su familia son rescatadas"
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de Jericó? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué tocaban los sacerdotes?", "opciones": ["Trompetas", "Tambores"], "correcta": 0 },
+            { "texto": "¿Cuántas vueltas dieron el último día?", "opciones": ["Una", "Siete"], "correcta": 1 },
+            { "texto": "¿Qué pasó con las murallas?", "opciones": ["Se cayeron", "Crecieron"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Quién guiaba al pueblo en Jericó?", "opciones": ["Moisés", "Josué", "David"], "correcta": 1 },
+            { "texto": "¿De qué eran las trompetas?", "opciones": ["De cuerno de carnero", "De oro", "De madera"], "correcta": 0 },
+            { "texto": "¿Cuántos días marcharon en total?", "opciones": ["Tres", "Siete", "Cuarenta"], "correcta": 1 },
+            { "texto": "¿Qué no podían hacer mientras caminaban?", "opciones": ["Hablar ni gritar", "Comer", "Mirar la muralla"], "correcta": 0, "explicacion": "Josué les pidió silencio hasta el último día." },
+            { "texto": "¿Quiénes salieron a salvo de Jericó?", "opciones": ["El rey y sus soldados", "Rahab y su familia", "Nadie"], "correcta": 1, "explicacion": "Rahab había ayudado a los espías de Israel." }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "Además de las trompetas, ¿qué llevaban en la marcha?", "opciones": ["El arca del pacto", "Carros de guerra", "Escaleras", "Arietes"], "correcta": 0, "explicacion": "El arca recordaba que Dios iba con su pueblo (Josué 6:6)." },
+            { "texto": "Contando los siete días, ¿cuántas vueltas dieron en total?", "opciones": ["7", "13", "14", "49"], "correcta": 1, "explicacion": "Seis días una vuelta, y el séptimo, siete: 13 vueltas." },
+            { "texto": "¿Por qué el pueblo debía callar?", "opciones": ["Para no despertar al rey", "Para obedecer a Josué hasta la señal", "Porque tenían miedo", "Porque era de noche"], "correcta": 1, "explicacion": "Josué 6:10: gritarían solo cuando él lo dijera." },
+            { "texto": "¿Por qué fue rescatada Rahab?", "opciones": ["Porque era rica", "Porque abrió las puertas", "Porque escondió a los espías y confió en Dios", "Porque era de Israel"], "correcta": 2, "explicacion": "Josué 6:25." },
+            { "texto": "Según Hebreos 11:30, ¿cómo cayeron los muros?", "opciones": ["Por fe", "Por la fuerza de los soldados", "Por un viento fuerte", "Por casualidad"], "correcta": 0 },
+            { "texto": "¿Quién le dio el plan a Josué?", "opciones": ["Rahab", "Los espías", "El Señor", "Los sacerdotes"], "correcta": 2, "explicacion": "Josué 6:2-5." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño aprenda a confiar en Dios y a obedecerle, aun cuando su camino no parece el más lógico.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Qué pasó con la gente de Jericó?",
+        "respuesta": "La Biblia cuenta que hubo una batalla y la ciudad fue destruida. A los pequeños basta decirles que fue algo muy triste. Dios salvó a Rahab y a su familia, que confiaron en Él. Jesús nos enseña a amar incluso a los enemigos."
+      },
+      {
+        "pregunta": "¿Por qué tenían que dar tantas vueltas?",
+        "respuesta": "Dios quería que el pueblo aprendiera que la victoria venía de Él y no de sus armas. Caminar en silencio, día tras día, fue un ejercicio de paciencia y confianza."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántas vueltas dieron el séptimo día, y qué pasó al final?",
+      "sentir": "¿Cómo crees que se sentía el pueblo caminando en silencio sin ver ningún cambio? ¿Alguna vez esperaste mucho por algo?",
+      "vivir": "¿Qué «muralla» o dificultad queremos poner esta semana en las manos de Dios?"
+    },
+    "oracion": "Señor, gracias porque vas delante de nosotros. Ayúdanos a confiar en ti y a obedecerte con paciencia. Amén.",
+    "gesto": "Den juntos siete vueltas alrededor de la mesa, en silencio. Al final, digan en voz alta: «¡Dios cumple lo que promete!»."
+  },
+  "estampa": "La trompeta de Jericó"
+}

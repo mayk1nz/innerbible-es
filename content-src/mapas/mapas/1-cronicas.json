@@ -1,0 +1,202 @@
+{
+  "id": "1-cronicas",
+  "tipo": "libro",
+  "titulo": "1 Crónicas",
+  "subtitulo": "La familia de David y la adoración",
+  "libro": "1Chr",
+  "centro": {
+    "texto": "Dios guarda la familia de David y llama a adorarlo con alegría",
+    "textoNino": "Dios cuidó la familia de David y ama la alabanza"
+  },
+  "versiculo": {
+    "texto": "Celebrad a Jehová, porque es bueno; porque su misericordia es eterna.",
+    "referencia": "1 Crónicas 16:34"
+  },
+  "ramas": [
+    {
+      "titulo": "Una familia desde Adán",
+      "capitulos": "1–9",
+      "color": "warm",
+      "resumen": "El libro empieza con listas de nombres, desde Adán hasta los que vuelven del exilio. Para el pueblo que regresa, dicen: no están solos, tienen historia y Dios los recuerda.",
+      "resumenNino": "Dios conoce el nombre de cada persona de su pueblo.",
+      "hojas": [
+        {
+          "titulo": "De Adán a Noé",
+          "texto": "La primera lista empieza con Adán, Set y Enós. Toda la historia de la humanidad cabe en la mirada de Dios.",
+          "textoNino": "La lista empieza con Adán, el primer hombre.",
+          "referencia": "1 Crónicas 1:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Los hijos de David",
+          "texto": "El libro se detiene en la tribu de Judá y en la familia de David. De esa familia vendrán los reyes.",
+          "textoNino": "Aquí están los nombres de los hijos de David.",
+          "referencia": "1 Crónicas 3:1-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La oración de Jabes",
+          "texto": "Entre tantos nombres aparece una oración. Jabes pide a Dios su bendición y su protección, y Dios le concede lo que pide.",
+          "textoNino": "Jabes le pidió a Dios que lo cuidara, y Dios lo escuchó.",
+          "referencia": "1 Crónicas 4:9-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "De vuelta en Jerusalén",
+          "texto": "Las listas terminan con los que vuelven a vivir en Jerusalén después del exilio en Babilonia.",
+          "textoNino": "Muchas familias volvieron a vivir a Jerusalén.",
+          "referencia": "1 Crónicas 9:1-3",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "David, rey de todo Israel",
+      "capitulos": "10–12",
+      "color": "amber",
+      "resumen": "Saúl muere porque no buscó a Dios. Todas las tribus van a Hebrón y hacen rey a David. Hombres valientes lo acompañan con un solo corazón.",
+      "resumenNino": "Todo el pueblo eligió a David como rey.",
+      "hojas": [
+        {
+          "titulo": "Saúl no consultó a Dios",
+          "texto": "El libro resume la vida de Saúl en una frase: no guardó la palabra de Dios ni lo buscó. Por eso el reino pasa a David.",
+          "textoNino": "Saúl no buscó a Dios, y el reino pasó a David.",
+          "referencia": "1 Crónicas 10:13-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "David, rey del reino unido",
+          "texto": "Todo Israel se reúne en Hebrón. Los ancianos ungen a David como rey de todas las tribus, antes de que el reino se divida.",
+          "textoNino": "Todas las tribus dijeron: «David es nuestro rey».",
+          "referencia": "1 Crónicas 11:1-3",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Agua de Belén",
+          "texto": "Tres valientes arriesgan la vida para traerle agua del pozo de Belén. David no la bebe: la derrama como ofrenda al Señor.",
+          "textoNino": "David no bebió el agua. Se la ofreció a Dios.",
+          "referencia": "1 Crónicas 11:15-19",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El arca llega a Jerusalén",
+      "capitulos": "13–16",
+      "color": "olive",
+      "resumen": "David quiere que Dios esté en el centro de la vida del pueblo. Lleva el arca a Jerusalén con música y nombra cantores para alabar a Dios cada día.",
+      "resumenNino": "David llevó el cofre de Dios a Jerusalén con música.",
+      "hojas": [
+        {
+          "titulo": "Música y alegría",
+          "texto": "El arca del pacto entra en Jerusalén con trompetas, címbalos, arpas y gritos de júbilo. Todo el pueblo celebra.",
+          "textoNino": "Todos cantaron y tocaron instrumentos de alegría.",
+          "referencia": "1 Crónicas 15:25-28",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un canto de gratitud",
+          "texto": "David entrega a Asaf un canto para alabar a Dios. Recuerda sus maravillas y repite: su misericordia es eterna.",
+          "textoNino": "David escribió una canción para dar gracias a Dios.",
+          "referencia": "1 Crónicas 16:7-36",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "La promesa a David",
+      "capitulos": "17–21",
+      "color": "rose",
+      "resumen": "David quiere construir una casa para Dios. Dios le responde con una promesa: un hijo suyo reinará para siempre. Más tarde, David peca y Dios le muestra el lugar del templo.",
+      "resumenNino": "Dios prometió que un hijo de David reinaría para siempre.",
+      "hojas": [
+        {
+          "titulo": "Un trono para siempre",
+          "texto": "Dios promete levantar a un hijo de David. Su trono será firme para siempre, y Dios será para él como un padre.",
+          "textoNino": "Dios dijo: «Tu familia tendrá un rey para siempre».",
+          "referencia": "1 Crónicas 17:11-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La era de Ornán",
+          "texto": "David peca al contar al pueblo y pide perdón. Compra la era de Ornán, levanta un altar, y Dios responde con fuego del cielo.",
+          "textoNino": "David pidió perdón y construyó un altar a Dios.",
+          "referencia": "1 Crónicas 21:18-27",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Preparando el templo",
+      "capitulos": "22–29",
+      "color": "dusk",
+      "resumen": "David no construye el templo, pero lo prepara todo: materiales, planos, sacerdotes y cantores. Anima a Salomón y bendice a Dios con todo el pueblo.",
+      "resumenNino": "David preparó todo para que Salomón hiciera el templo.",
+      "hojas": [
+        {
+          "titulo": "Esfuérzate, Salomón",
+          "texto": "David junta oro, plata, bronce y madera. Le pide a su hijo que obedezca a Dios y le dice: no temas ni desmayes.",
+          "textoNino": "David le dijo a Salomón: «Sé valiente».",
+          "referencia": "1 Crónicas 22:5-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cantores para Dios",
+          "texto": "David aparta familias de músicos para alabar a Dios con arpas, salterios y címbalos.",
+          "textoNino": "Había músicos que cantaban a Dios todos los días.",
+          "referencia": "1 Crónicas 25:1",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ofrendas de corazón",
+          "texto": "Los jefes y el pueblo dan con generosidad para el templo. Nadie los obliga: dan con alegría y de todo corazón.",
+          "textoNino": "Todos dieron para el templo con alegría.",
+          "referencia": "1 Crónicas 29:6-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Todo es tuyo",
+          "texto": "David bendice a Dios delante de todos. Reconoce que nada es suyo: «lo recibido de tu mano te damos».",
+          "textoNino": "David dijo: «Todo lo que tenemos es de Dios».",
+          "referencia": "1 Crónicas 29:10-14",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Las listas de familias preparan otra lista: la de Jesús, «hijo de David, hijo de Abraham». Lucas la lleva hasta Adán. Y la promesa de un trono firme para siempre se cumple en el reino de Jesús, que no tendrá fin.",
+    "referencias": ["Mateo 1:1", "Lucas 3:23-38", "Lucas 1:32-33"]
+  },
+  "paraTuVida": [
+    "Escribe los nombres de quienes te hablaron de Dios y da gracias por ellos.",
+    "Da algo esta semana con alegría, recordando que todo lo recibiste de Dios.",
+    "Canta o lee en voz alta un salmo de gratitud."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Con quién empieza la gran lista de nombres de 1 Crónicas?",
+      "opciones": ["Con Abraham", "Con David", "Con Adán"],
+      "correcta": 2,
+      "explicacion": "La primera palabra del libro es el nombre de Adán (1 Crónicas 1:1)."
+    },
+    {
+      "pregunta": "¿Qué hizo David con el agua que le trajeron de Belén?",
+      "opciones": ["La derramó como ofrenda a Dios", "La bebió con alegría", "Se la dio a Saúl"],
+      "correcta": 0,
+      "explicacion": "Sus valientes arriesgaron la vida por ella. David no quiso beberla y la ofreció al Señor (1 Crónicas 11:18-19)."
+    },
+    {
+      "pregunta": "¿Qué dice el ángel sobre el reino de Jesús, Hijo de David?",
+      "opciones": ["Que durará cien años", "Que no tendrá fin", "Que será solo en Belén"],
+      "correcta": 1,
+      "explicacion": "Dios prometió a David un trono firme para siempre (1 Crónicas 17:14). El reino de Jesús no tendrá fin (Lucas 1:33)."
+    }
+  ],
+  "estudio": ["cronicas", "2-samuel"],
+  "conexiones": [
+    { "id": "2-samuel", "motivo": "Samuel cuenta el reinado de David con otros detalles." },
+    { "id": "2-cronicas", "motivo": "Salomón construye el templo que David preparó." },
+    { "id": "salmos", "motivo": "Los cantores de David, como Asaf, firman muchos salmos." }
+  ]
+}

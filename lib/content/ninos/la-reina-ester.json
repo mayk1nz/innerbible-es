@@ -1,0 +1,140 @@
+{
+  "id": "la-reina-ester",
+  "titulo": "La reina Ester",
+  "referencia": "Ester 4",
+  "estudio": "ester",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "ester-reina",
+      "texto": {
+        "3-5": "Ester era una joven buena. Su primo Mardoqueo la cuidaba. ¡Un día, el rey la eligió como reina!",
+        "6-8": "Ester era una joven judía que vivía en Persia. Sus papás habían muerto, y su primo Mardoqueo la cuidó como a una hija. Un día, el rey Asuero la eligió como reina. Pero en el palacio nadie sabía que Ester era judía.",
+        "9-12": "Ester, también llamada Hadasa, era huérfana y fue criada por su primo Mardoqueo (Ester 2:7). El rey Asuero, que gobernaba desde la India hasta Etiopía, la eligió como reina. Siguiendo el consejo de Mardoqueo, Ester no contó a nadie que era judía."
+      }
+    },
+    {
+      "id": "plan-malo",
+      "texto": {
+        "3-5": "Amán era un hombre muy orgulloso. Se enojó mucho. ¡Y quiso hacerle daño al pueblo de Ester!",
+        "6-8": "En el palacio había un hombre muy orgulloso llamado Amán. Se enojó porque Mardoqueo no se inclinaba ante él. Entonces convenció al rey de firmar una ley terrible contra todo el pueblo judío. Mardoqueo y los judíos lloraban y ayunaban.",
+        "9-12": "Amán, el hombre más poderoso después del rey, se llenó de ira porque Mardoqueo no se arrodillaba ante él (Ester 3:5). Por venganza, consiguió del rey un decreto para destruir a todos los judíos del reino. Al saberlo, Mardoqueo se vistió de luto y clamó por la ciudad."
+      }
+    },
+    {
+      "id": "quien-sabe",
+      "texto": {
+        "3-5": "Mardoqueo le dijo: «Ester, habla con el rey». Pero Ester tenía miedo. ¡Nadie podía ir al rey sin ser llamado!",
+        "6-8": "Mardoqueo le pidió a Ester: «Ve al rey y pide por tu pueblo». Ester tenía miedo. Había una ley: nadie podía entrar sin ser llamado, salvo si el rey extendía su cetro de oro. Mardoqueo respondió: «¿Y quién sabe si llegaste a ser reina para un momento como este?».",
+        "9-12": "Mardoqueo le pidió a Ester que suplicara al rey por su pueblo. Pero había una ley: quien entraba al patio del rey sin ser llamado arriesgaba la vida. Solo se salvaba si el rey le extendía el cetro de oro. Mardoqueo le respondió: «¿Y quién sabe si para esta hora te han hecho llegar al reino?» (Ester 4:14)."
+      }
+    },
+    {
+      "id": "valor",
+      "texto": {
+        "3-5": "Ester dijo: «Ayunen por mí tres días». Luego se puso su vestido de reina. ¡Y fue a ver al rey! El rey la recibió: ¡extendió su cetro de oro!",
+        "6-8": "Ester le mandó decir a Mardoqueo: «Reúne a los judíos y ayunen por mí tres días. Yo también ayunaré, y después iré al rey». Al tercer día, se puso su vestido real y entró al patio. El rey la vio, le extendió el cetro de oro y le preguntó: «¿Qué deseas, reina Ester?».",
+        "9-12": "Ester decidió ser valiente. Pidió a los judíos de la ciudad que ayunaran por ella tres días. Luego dijo: «Entraré al rey, aunque no sea conforme a la ley; y si perezco, que perezca» (Ester 4:16). Al tercer día, vestida de reina, entró al patio. El rey le extendió el cetro de oro, y Ester tocó su punta."
+      }
+    },
+    {
+      "id": "pueblo-salvado",
+      "texto": {
+        "3-5": "Ester le contó al rey el plan malo de Amán. ¡El rey ayudó al pueblo de Ester! Y hubo mucha alegría.",
+        "6-8": "Ester invitó al rey y a Amán a dos banquetes. En el segundo, le dijo al rey: «Por favor, salva mi vida y la de mi pueblo». Le contó que Amán quería destruirlos. El rey escuchó a Ester y dio una nueva orden para que los judíos pudieran defenderse. ¡Su pueblo fue salvado!",
+        "9-12": "Ester fue prudente: invitó al rey y a Amán a dos banquetes. En el segundo, habló: «Séame dada mi vida por mi petición, y mi pueblo por mi demanda» (Ester 7:3). Descubrió el plan de Amán, y el rey permitió una nueva orden para proteger a los judíos. Aquel día, los judíos «tuvieron luz y alegría, y gozo y honra» (Ester 8:16)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Cuando tengo miedo, confío en Dios.", "referencia": "Salmos 56:3", "fuente": "adaptado" },
+    "6-8": { "texto": "¿Quién sabe si llegaste a ser reina para un momento como este?", "referencia": "Ester 4:14", "fuente": "adaptado" },
+    "9-12": { "texto": "En el día que temo, yo en ti confío.", "referencia": "Salmos 56:3", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Qué recuerdas de la reina Ester? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Quién era Ester?", "opciones": ["Una reina valiente", "Una pastora"], "correcta": 0 },
+            { "texto": "¿Qué le extendió el rey a Ester?", "opciones": ["Una canasta", "Su cetro de oro"], "correcta": 1 },
+            { "texto": "¿Ester ayudó a su pueblo?", "opciones": ["¡Sí!", "No"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Quién cuidó a Ester como a una hija?", "opciones": ["Amán", "Mardoqueo", "El rey"], "correcta": 1 },
+            { "texto": "¿Por qué se enojó Amán?", "opciones": ["Porque Mardoqueo no se inclinaba ante él", "Porque perdió su anillo", "Porque no lo invitaron a comer"], "correcta": 0 },
+            { "texto": "¿Por qué Ester tenía miedo de ir al rey?", "opciones": ["Porque el palacio estaba lejos", "Porque no sabía hablar", "Porque nadie podía entrar sin ser llamado"], "correcta": 2 },
+            { "texto": "¿Qué pidió Ester a su pueblo antes de ir?", "opciones": ["Que ayunaran tres días", "Que prepararan una fiesta", "Que se escondieran"], "correcta": 0 },
+            { "texto": "¿Qué pasó al final?", "opciones": ["El pueblo tuvo que huir", "El pueblo de Ester fue salvado", "Ester dejó de ser reina"], "correcta": 1 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Qué otro nombre tenía Ester?", "opciones": ["Hadasa", "Rut", "Débora", "Miriam"], "correcta": 0, "explicacion": "Ester 2:7 la llama Hadasa." },
+            { "texto": "¿Qué hizo Mardoqueo al saber del decreto?", "opciones": ["Huyó del reino", "Se vistió de luto y clamó", "Fue a pelear", "Se quedó callado"], "correcta": 1 },
+            { "texto": "¿Qué le dijo Mardoqueo a Ester?", "opciones": ["«Escóndete en el palacio»", "«Olvida a tu pueblo»", "«¿Quién sabe si para esta hora te han hecho llegar al reino?»", "«Huye a Jerusalén»"], "correcta": 2 },
+            { "texto": "¿Cuántos días ayunaron por Ester?", "opciones": ["Uno", "Siete", "Cuarenta", "Tres"], "correcta": 3 },
+            { "texto": "¿En qué momento pidió Ester por su pueblo?", "opciones": ["En el segundo banquete", "Al entrar al patio", "En una carta", "Nunca lo pidió"], "correcta": 0, "explicacion": "Primero invitó al rey y a Amán; en el segundo banquete habló (Ester 7:1-3)." },
+            { "texto": "¿Qué permitió la nueva orden del rey?", "opciones": ["Que Amán gobernara", "Que los judíos se defendieran", "Que Ester volviera a su casa", "Que se cerrara el palacio"], "correcta": 1 }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
+      "niveles": {
+        "3-5": {
+          "pares": [["Ester", "la corona"], ["el rey", "el cetro de oro"], ["Mardoqueo", "el primo que la cuidó"]]
+        },
+        "6-8": {
+          "pares": [
+            ["Ester", "la reina valiente"],
+            ["Mardoqueo", "el primo sabio"],
+            ["Asuero", "el rey de Persia"],
+            ["Amán", "el hombre orgulloso"],
+            ["el ayuno", "tres días"],
+            ["el banquete", "el pedido de Ester"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Mardoqueo", "«¿Quién sabe si para esta hora…?»"],
+            ["Ester", "«Si perezco, que perezca»"],
+            ["Asuero", "«¿Cuál es tu petición?»"],
+            ["Hadasa", "el otro nombre de Ester"],
+            ["Susa", "la capital del reino"],
+            ["Hatac", "el mensajero de Ester"],
+            ["el cetro de oro", "Ester tocó su punta"],
+            ["tres días", "el ayuno por Ester"]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios le da valor para hacer lo correcto y ayudar a otros, aunque sienta miedo.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Qué le pasó a Amán?",
+        "respuesta": "La Biblia cuenta que el rey lo castigó por su plan. Con los pequeños basta decir: «El plan malo de Amán no funcionó». Subraya lo central: Ester usó su lugar para proteger a su pueblo."
+      },
+      {
+        "pregunta": "¿Ester oró a Dios? ¿Por qué casi no se nombra a Dios?",
+        "respuesta": "Ester pidió a su pueblo que ayunara con ella, una forma de buscar a Dios. Las Biblias católicas incluyen además una oración de Ester, de las partes griegas del libro. En todas, Dios cuida a su pueblo aunque no se le vea."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo el rey cuando vio a Ester en el patio?",
+      "sentir": "Ester tuvo miedo, pero fue valiente. ¿Cuándo sentiste miedo de hacer algo bueno?",
+      "vivir": "¿A quién podemos ayudar o defender esta semana, como Ester ayudó a su pueblo?"
+    },
+    "oracion": "Señor, cuando tengamos miedo, danos el valor de Ester para hacer lo correcto y ayudar a los demás. Amén.",
+    "gesto": "Esta semana, busquen a alguien que necesite que otro hable por él (un compañero solo, un vecino) y ayúdenlo juntos."
+  },
+  "estampa": "El cetro de oro de Ester"
+}

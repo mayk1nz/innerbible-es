@@ -1,0 +1,204 @@
+{
+  "id": "miqueas",
+  "tipo": "libro",
+  "titulo": "Miqueas",
+  "subtitulo": "Lo que Dios pide de ti",
+  "libro": "Mic",
+  "centro": {
+    "texto": "Dios pide justicia y misericordia, y promete un pastor nacido en Belén",
+    "textoNino": "Dios quiere que seamos justos, buenos y humildes"
+  },
+  "versiculo": {
+    "texto": "Oh hombre, él te ha declarado qué sea lo bueno, y qué pida de ti Jehová: solamente hacer juicio, y amar misericordia, y humillarte para andar con tu Dios.",
+    "referencia": "Miqueas 6:8"
+  },
+  "ramas": [
+    {
+      "titulo": "Un profeta del campo",
+      "capitulos": "1",
+      "color": "olive",
+      "resumen": "Miqueas, de un pueblo del campo de Judá, habla a Samaria y a Jerusalén. Son los días de los reyes Jotam, Acaz y Ezequías (c. 735–700 a.C.).",
+      "resumenNino": "Miqueas era un hombre del campo que habló de parte de Dios.",
+      "hojas": [
+        {
+          "titulo": "Miqueas de Moreset",
+          "texto": "Miqueas no vive en la capital, sino en Moreset, un pueblo pequeño. Conoce de cerca el sufrimiento de la gente sencilla.",
+          "textoNino": "Miqueas conocía a la gente pobre del campo.",
+          "referencia": "Miqueas 1:1",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Samaria caerá",
+          "texto": "Miqueas anuncia que Samaria, capital del reino del norte, quedará en ruinas por sus ídolos. Poco después, Asiria la conquista.",
+          "textoNino": "Miqueas avisó que una ciudad caería.",
+          "referencia": "Miqueas 1:2-7",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Pecados de los poderosos",
+      "capitulos": "2–3",
+      "color": "rose",
+      "resumen": "Algunos ricos roban casas y campos. Hay jueces que cobran y profetas que hablan por dinero. Pero Dios también promete reunir a su rebaño.",
+      "resumenNino": "Algunos poderosos quitaban las casas a los pobres.",
+      "hojas": [
+        {
+          "titulo": "Planes de noche",
+          "texto": "Algunos planean el mal en la cama y lo hacen al amanecer. Codician campos y casas, y se los quitan a las familias.",
+          "textoNino": "Algunos quitaban las casas a otras familias.",
+          "referencia": "Miqueas 2:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un rebaño reunido",
+          "texto": "Aun así, Dios promete reunir a los que quedan de su pueblo, como ovejas en su redil. Él irá delante de ellos.",
+          "textoNino": "Dios junta a su pueblo como un pastor a sus ovejas.",
+          "referencia": "Miqueas 2:12-13",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Sion arada como campo",
+          "texto": "Miqueas avisa que Jerusalén será arada como un campo. Un siglo después recuerdan que el rey Ezequías escuchó y buscó a Dios.",
+          "textoNino": "El rey escuchó el aviso y oró a Dios.",
+          "referencia": "Miqueas 3:8-12",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Espadas en azadones",
+      "capitulos": "4",
+      "color": "dawn",
+      "resumen": "El juicio no es la última palabra. Miqueas ve pueblos de toda la tierra que suben al monte de Dios para aprender la paz.",
+      "resumenNino": "Un día todos vivirán en paz.",
+      "hojas": [
+        {
+          "titulo": "Al monte de Dios",
+          "texto": "Muchos pueblos dicen: «Venid, y subamos al monte de Jehová». Quieren aprender los caminos de Dios.",
+          "textoNino": "Gente de todo el mundo va a aprender de Dios.",
+          "referencia": "Miqueas 4:1-2",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Bajo su vid y su higuera",
+          "texto": "Convierten espadas en azadones y lanzas en hoces. Nadie se prepara para la guerra. Cada uno descansa sin miedo bajo su vid.",
+          "textoNino": "Las espadas se convierten en herramientas para el campo.",
+          "referencia": "Miqueas 4:3-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Dios reúne a los cojos",
+          "texto": "Dios promete reunir a los que cojean y a los que fueron echados. De los débiles hará un pueblo fuerte.",
+          "textoNino": "Dios cuida a los débiles y los hace fuertes.",
+          "referencia": "Miqueas 4:6-7",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Belén, la pequeña",
+      "capitulos": "5",
+      "color": "amber",
+      "resumen": "Miqueas mira hacia un pueblo pequeño. De Belén saldrá el que gobernará al pueblo de Dios y traerá la paz.",
+      "resumenNino": "En el pueblito de Belén nacerá un gran rey.",
+      "hojas": [
+        {
+          "titulo": "De ti saldrá",
+          "texto": "Belén Efrata es pequeña entre los pueblos de Judá. Pero de allí saldrá el Señor de Israel, y su origen es desde el principio.",
+          "textoNino": "Belén era pequeña, pero allí nacería el rey.",
+          "referencia": "Miqueas 5:2",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Éste será nuestra paz",
+          "texto": "Será un pastor que cuida con la fuerza de Dios. Su grandeza llegará hasta los fines de la tierra. Miqueas dice: «éste será nuestra paz».",
+          "textoNino": "Ese rey será un pastor y traerá paz.",
+          "referencia": "Miqueas 5:4-5",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Lo que Dios pide",
+      "capitulos": "6",
+      "color": "warm",
+      "resumen": "Dios llama a su pueblo como a un juicio. Le recuerda todo lo que hizo por él y le dice qué es lo bueno.",
+      "resumenNino": "Dios nos dice qué es lo bueno.",
+      "hojas": [
+        {
+          "titulo": "¿Qué te he hecho?",
+          "texto": "Dios pregunta con dolor: «Pueblo mío, ¿qué te he hecho?». Recuerda que los sacó de Egipto con Moisés, Aarón y María.",
+          "textoNino": "Dios recordó todo lo bueno que hizo por su pueblo.",
+          "referencia": "Miqueas 6:1-5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Justicia, misericordia, humildad",
+          "texto": "El pueblo pregunta qué ofrenda agradará a Dios. La respuesta es sencilla: hacer justicia, amar la misericordia y andar humildemente con Dios.",
+          "textoNino": "Sé justo, sé bueno y camina con Dios.",
+          "referencia": "Miqueas 6:6-8",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué Dios como tú?",
+      "capitulos": "7",
+      "color": "dusk",
+      "resumen": "Miqueas está triste por su pueblo, pero espera en Dios. El libro termina con un canto al Dios que perdona.",
+      "resumenNino": "Dios perdona y tira nuestros pecados al mar.",
+      "hojas": [
+        {
+          "titulo": "Aunque caí, me levantaré",
+          "texto": "Miqueas dice: «esperaré al Dios de mi salud». Aunque caiga o esté en tinieblas, el Señor será su luz.",
+          "textoNino": "Si me caigo, Dios me ayuda a levantarme.",
+          "referencia": "Miqueas 7:7-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "En lo profundo del mar",
+          "texto": "Dios perdona la maldad porque ama la misericordia. Echa todos nuestros pecados en lo profundo del mar.",
+          "textoNino": "Dios tira nuestros pecados al fondo del mar.",
+          "referencia": "Miqueas 7:18-20",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Unos sabios de Oriente buscan al rey recién nacido. Los sacerdotes y escribas responden con Miqueas 5:2: nacerá en Belén. Allí nace Jesús, de la familia de David. Él es el pastor que trae la paz.",
+    "referencias": ["Mateo 2:1-6", "Lucas 2:4-7", "Juan 10:11"]
+  },
+  "paraTuVida": [
+    "Aprende de memoria Miqueas 6:8 y repítelo cada mañana esta semana.",
+    "Haz un gesto de justicia o de misericordia con alguien concreto.",
+    "Si una culpa te pesa, recuerda: Dios la echó al fondo del mar."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En qué pueblo pequeño nacería el que gobernaría a Israel?",
+      "opciones": ["Nazaret", "Jericó", "Belén"],
+      "correcta": 2,
+      "explicacion": "Miqueas anuncia: de Belén Efrata saldrá el que será Señor en Israel (Miqueas 5:2)."
+    },
+    {
+      "pregunta": "¿En qué convertirán los pueblos sus espadas, según Miqueas 4?",
+      "opciones": ["En azadones", "En coronas", "En escudos"],
+      "correcta": 0,
+      "explicacion": "Martillarán sus espadas para azadones y ya no aprenderán la guerra (Miqueas 4:3)."
+    },
+    {
+      "pregunta": "¿Quiénes buscaron al niño Jesús y oyeron la profecía de Belén?",
+      "opciones": ["Unos pastores", "Unos sabios de Oriente", "Unos soldados romanos"],
+      "correcta": 1,
+      "explicacion": "Los sabios preguntaron por el rey, y les citaron a Miqueas: nacerá en Belén (Mateo 2:1-6)."
+    }
+  ],
+  "estudio": ["miqueas", "2-reyes-18-21"],
+  "conexiones": [
+    { "id": "isaias", "motivo": "Isaías profetiza en los mismos años y en la misma ciudad." },
+    { "id": "amos", "motivo": "Amós también defiende a los pobres." },
+    { "id": "mateo", "motivo": "Mateo cita a Miqueas cuando nace Jesús en Belén." }
+  ]
+}

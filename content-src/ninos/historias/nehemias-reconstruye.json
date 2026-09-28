@@ -1,0 +1,110 @@
+{
+  "id": "nehemias-reconstruye",
+  "titulo": "Nehemías reconstruye la muralla",
+  "referencia": "Nehemías 2",
+  "estudio": "nehemias",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "noticia-triste",
+      "texto": {
+        "3-5": "Nehemías servía al rey. Un día oyó algo triste: ¡la muralla de Jerusalén estaba rota! Nehemías lloró. Y habló con Dios.",
+        "6-8": "Nehemías vivía en Susa, lejos de su tierra, y le servía el vino al rey Artajerjes. Un día le contaron que la muralla de Jerusalén estaba derribada y sus puertas, quemadas. Nehemías se sentó y lloró. Durante varios días ayunó y oró al Dios de los cielos.",
+        "9-12": "Nehemías era el copero del rey Artajerjes, en Susa: le servía el vino, un puesto de mucha confianza (Nehemías 1:11). Supo que el muro de Jerusalén seguía derribado y sus puertas, quemadas. Entonces se sentó a llorar. Durante varios días ayunó y oró «delante del Dios de los cielos» (Nehemías 1:4)."
+      }
+    },
+    {
+      "id": "el-rey-pregunta",
+      "texto": {
+        "3-5": "El rey le preguntó: «¿Por qué estás triste?». Nehemías oró a Dios. Luego pidió: «¡Déjame ir a arreglar la muralla!».",
+        "6-8": "Un día, mientras servía el vino, el rey le preguntó: «¿Por qué está triste tu cara?». Nehemías tuvo mucho miedo, pero primero oró a Dios. Luego dijo: «Envíame a Jerusalén para reconstruir la ciudad». ¡El rey dijo que sí! Y le dio cartas y madera para el trabajo.",
+        "9-12": "El rey notó su tristeza: «¿Por qué está triste tu rostro, pues no estás enfermo?» (Nehemías 2:2). Nehemías sintió gran temor, y antes de responder, oró al Dios de los cielos. Luego pidió permiso para ir a reedificar la ciudad, además de cartas y madera. El rey se lo concedió, y Nehemías reconoció en ello «la benéfica mano» de Dios."
+      }
+    },
+    {
+      "id": "de-noche",
+      "texto": {
+        "3-5": "Nehemías llegó a Jerusalén. De noche, montado en su animal, miró la muralla rota. ¡Había mucho trabajo!",
+        "6-8": "Nehemías llegó a Jerusalén con soldados del rey. Tres días después, salió de noche con unos pocos hombres a ver los muros. Iba montado en su animal, pero en un lugar había tantos escombros que no pudo pasar. Todavía no le había contado a nadie su plan.",
+        "9-12": "Después de tres días en Jerusalén, Nehemías salió de noche con unos pocos hombres. No había contado a nadie lo que Dios había puesto en su corazón (Nehemías 2:12). Recorrió los muros derribados y las puertas quemadas; en un lugar, su cabalgadura no pudo pasar. Antes de hablar, quiso conocer bien el problema."
+      }
+    },
+    {
+      "id": "levantemonos",
+      "texto": {
+        "3-5": "Nehemías dijo: «¡Vamos a construir!». Unos hombres se burlaron. Pero Nehemías dijo: «Dios nos ayudará». ¡Toc, toc! ¡Pum, pum!",
+        "6-8": "Nehemías reunió al pueblo: «Vengan, reconstruyamos el muro de Jerusalén». Les contó cómo Dios lo había ayudado, y todos respondieron: «¡Levantémonos y edifiquemos!». Algunos vecinos, como Sanbalat y Tobías, se burlaron de ellos. Pero Nehemías contestó: «El Dios de los cielos nos dará éxito».",
+        "9-12": "Nehemías reunió a los líderes: «Venid, y edifiquemos el muro de Jerusalem» (Nehemías 2:17). Al oír cómo Dios lo había ayudado, respondieron: «Levantémonos, y edifiquemos». Sanbalat, Tobías y Gesem se burlaron y los acusaron de rebelarse contra el rey. Nehemías respondió con firmeza: «El Dios de los cielos, él nos prosperará» (Nehemías 2:20)."
+      }
+    },
+    {
+      "id": "cincuenta-y-dos-dias",
+      "texto": {
+        "3-5": "Todos trabajaron juntos: papás, hijos y vecinos. ¡En 52 días la muralla quedó lista! Dios los había ayudado.",
+        "6-8": "Cada familia reparó un pedazo del muro. Trabajaron con muchas ganas, aunque algunos seguían molestando. ¡En solo 52 días el muro quedó terminado! Hasta los que se burlaban entendieron que Dios los había ayudado. Juntos, y con Dios, lograron algo grande.",
+        "9-12": "El capítulo 3 de Nehemías nombra a decenas de grupos que repararon cada uno su tramo. ¡Hasta las hijas de Salum ayudaron (Nehemías 3:12)! «El pueblo tuvo ánimo para obrar» (Nehemías 4:6). El muro se terminó en cincuenta y dos días. Hasta sus enemigos «conocieron que por nuestro Dios había sido hecha esta obra» (Nehemías 6:16)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Juntos y con Dios, construimos!", "referencia": "Nehemías 2:18", "fuente": "adaptado" },
+    "6-8": { "texto": "El Dios de los cielos nos ayudará: ¡levantémonos y construyamos!", "referencia": "Nehemías 2:20", "fuente": "adaptado" },
+    "9-12": { "texto": "Edificamos pues el muro, y toda la muralla fue junta hasta su mitad: y el pueblo tuvo ánimo para obrar.", "referencia": "Nehemías 4:6", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca en la sopa de letras las palabras de la historia de Nehemías.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["MURO", "REY", "DIOS"], "diagonales": false, "seed": 2918 },
+        "6-8": { "tamano": 6, "palabras": ["MURO", "PUERTA", "PIEDRA", "ORAR"], "diagonales": false, "seed": 4471 },
+        "9-12": { "tamano": 10, "palabras": ["NEHEMIAS", "MURALLA", "JERUSALEN", "PUERTAS", "ARTAJERJES", "ORACION", "COPERO", "CARTAS"], "diagonales": true, "seed": 90213 }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "Ordena lo que hizo Nehemías, del primero al último.",
+      "niveles": {
+        "3-5": {
+          "items": ["Nehemías escucha una noticia triste.", "Nehemías habla con el rey.", "Todos construyen el muro juntos."]
+        },
+        "6-8": {
+          "items": [
+            "Nehemías llora por la muralla rota.",
+            "Nehemías ora y le habla al rey.",
+            "El rey le da cartas y madera.",
+            "De noche, Nehemías revisa los muros.",
+            "El pueblo termina el muro en 52 días."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Hanani trae noticias de Jerusalén.",
+            "Nehemías ayuna y ora por varios días.",
+            "El rey nota su rostro triste.",
+            "Nehemías recorre los muros de noche.",
+            "El pueblo dice: «Levantémonos, y edifiquemos».",
+            "El muro se termina en cincuenta y dos días."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios nos ayuda a reparar lo que está roto. Juntos, orando y trabajando, podemos lograr cosas grandes.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué se burlaban de ellos?",
+        "respuesta": "Puedes decir: «A veces, cuando hacemos algo bueno, otros se burlan. Nehemías no se rindió: confió en Dios y siguió trabajando con su pueblo»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo Nehemías antes de responderle al rey?",
+      "sentir": "Nehemías lloró por su ciudad. ¿Qué cosas te ponen triste a ti? ¿Qué podemos hacer con esa tristeza?",
+      "vivir": "¿Qué podemos arreglar o construir juntos esta semana en casa o en el barrio?"
+    },
+    "oracion": "Señor, cuando algo esté roto, ayúdanos a orar primero y a trabajar juntos para repararlo. Amén.",
+    "gesto": "Escojan algo de la casa para reparar u ordenar en equipo y, antes de empezar, hagan una oración corta como Nehemías."
+  },
+  "estampa": "La muralla de los 52 días"
+}

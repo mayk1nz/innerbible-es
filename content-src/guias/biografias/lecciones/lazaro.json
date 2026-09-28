@@ -2,7 +2,11 @@
   "id": "lazaro",
   "titulo": "Lázaro de Betania",
   "subtitulo": "El amigo de Jesús",
-  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Betania, cerca de Jerusalén"],
+  "etiquetas": [
+    "Siglo I",
+    "Alrededor de Jesús",
+    "Betania, cerca de Jerusalén"
+  ],
   "enUnMinuto": [
     "Lázaro vivía en Betania con sus hermanas, Marta y María, y era amigo de Jesús.",
     "Cayó enfermo y murió, y Jesús lloró junto a su tumba.",
@@ -80,44 +84,86 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Juan 11:1-16", "nota": "La enfermedad de Lázaro" },
-        { "ref": "Juan 11:17-44", "nota": "Jesús lo vuelve a la vida" },
-        { "ref": "Juan 11:45-57", "nota": "La reacción de las autoridades" },
-        { "ref": "Juan 12:1-11", "nota": "La cena en Betania" },
-        { "ref": "Juan 12:17-19", "nota": "La gente hablaba de él" },
-        { "ref": "Lucas 10:38-42", "nota": "La casa de Marta y María" }
+        {
+          "ref": "Juan 11:1-16",
+          "nota": "La enfermedad de Lázaro"
+        },
+        {
+          "ref": "Juan 11:17-44",
+          "nota": "Jesús lo vuelve a la vida"
+        },
+        {
+          "ref": "Juan 11:45-57",
+          "nota": "La reacción de las autoridades"
+        },
+        {
+          "ref": "Juan 12:1-11",
+          "nota": "La cena en Betania"
+        },
+        {
+          "ref": "Juan 12:17-19",
+          "nota": "La gente hablaba de él"
+        },
+        {
+          "ref": "Lucas 10:38-42",
+          "nota": "La casa de Marta y María"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Jesús lloró cuando su amigo Lázaro murió. ¿Sabías que Jesús también está contigo cuando estás triste?",
-      "actividad": "Para papás y abuelos: Jesús lloró con sus amigos y luego devolvió la vida a Lázaro (Juan 11:35, 43). Pregunten al niño qué lo pone triste y oren juntos por eso."
+      "actividad": "Para el adulto: Jesús lloró con sus amigos y luego devolvió la vida a Lázaro (Juan 11:35, 43). Pregunten al niño qué lo pone triste y oren juntos por eso."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, amigo de Lázaro, gracias porque lloras conmigo. Tú eres la resurrección y la vida. Llama por su nombre lo que en mí está muerto, y dame vida nueva. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué nos dice de Jesús que llorara, aun sabiendo que iba a devolver la vida a Lázaro?",
+        "¿Han vivido alguna vez un “retraso” de Dios que después entendieron?",
+        "Lázaro no dijo nada, y muchos creyeron por él. ¿Cómo habla nuestra vida sin palabras?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Cómo se llamaban las hermanas de Lázaro?",
-      "opciones": ["Marta y María", "Ana y Elisabet", "Lidia y Priscila"],
+      "opciones": [
+        "Marta y María",
+        "Ana y Elisabet",
+        "Lidia y Priscila"
+      ],
       "correcta": 0,
       "explicacion": "Lázaro vivía en Betania con sus hermanas Marta y María (Juan 11:1)."
     },
     {
       "pregunta": "¿Cuántos días llevaba Lázaro en el sepulcro cuando llegó Jesús?",
-      "opciones": ["Un día", "Tres días", "Cuatro días"],
+      "opciones": [
+        "Un día",
+        "Tres días",
+        "Cuatro días"
+      ],
       "correcta": 2,
       "explicacion": "Jesús halló que Lázaro llevaba ya cuatro días en el sepulcro (Juan 11:17)."
     },
     {
       "pregunta": "¿Qué pasó en Jerusalén pocos días después de la cena en Betania?",
-      "opciones": ["Lázaro fue elegido apóstol", "La gente recibió a Jesús con ramos de palmas", "Marta se fue a vivir a Galilea"],
+      "opciones": [
+        "Lázaro fue elegido apóstol",
+        "La gente recibió a Jesús con ramos de palmas",
+        "Marta se fue a vivir a Galilea"
+      ],
       "correcta": 1,
       "explicacion": "Muchos salieron con palmas a recibir a Jesús, porque habían oído lo de Lázaro (Juan 12:12-18)."
     }
   ],
-  "estudio": ["camino-a-jerusalen", "ultima-semana"],
+  "estudio": [
+    "camino-a-jerusalen",
+    "ultima-semana"
+  ],
   "buscar": "Lázaro"
 }

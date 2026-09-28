@@ -1,0 +1,231 @@
+{
+  "id": "1-timoteo",
+  "tipo": "libro",
+  "titulo": "1 Timoteo",
+  "subtitulo": "Cuidar la familia de Dios",
+  "libro": "1Tim",
+  "centro": {
+    "texto": "Jesús vino a salvar a los pecadores; su iglesia vive como una familia",
+    "textoNino": "Jesús vino a salvarnos, y en su iglesia somos familia"
+  },
+  "versiculo": {
+    "texto": "Palabra fiel y digna de ser recibida de todos: que Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales yo soy el primero.",
+    "referencia": "1 Timoteo 1:15"
+  },
+  "ramas": [
+    {
+      "titulo": "Salvado por misericordia",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo deja a Timoteo en Éfeso para frenar enseñanzas confusas. Le recuerda que el fin de todo es el amor. Y cuenta cómo Jesús lo perdonó.",
+      "resumenNino": "Pablo cuenta que Jesús lo perdonó y cambió su vida.",
+      "hojas": [
+        {
+          "titulo": "Una carta para Timoteo",
+          "texto": "Pablo deja a Timoteo en Éfeso para cuidar la iglesia. La carta lleva el nombre de Pablo y así la recibió la tradición. Algunos estudiosos piensan en un discípulo suyo.",
+          "textoNino": "Pablo escribe a su amigo Timoteo, un joven pastor.",
+          "referencia": "1 Timoteo 1:1-4",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El fin es el amor",
+          "texto": "Algunos discuten sin fin sobre fábulas y genealogías. Pablo va a lo esencial: amor de corazón limpio, buena conciencia y fe sincera.",
+          "textoNino": "Lo más importante es amar con un corazón limpio.",
+          "referencia": "1 Timoteo 1:5-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El primero de los pecadores",
+          "texto": "Pablo antes perseguía a los cristianos. Jesús tuvo misericordia de él. Si perdonó a Pablo, puede perdonar a cualquiera.",
+          "textoNino": "Pablo hizo cosas malas, pero Jesús lo perdonó.",
+          "referencia": "1 Timoteo 1:12-17",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Orar por todos",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Pablo pide oraciones por todas las personas, también por los gobernantes. Dios quiere que todos se salven y conozcan la verdad.",
+      "resumenNino": "Oramos por todos, porque Dios ama a todas las personas.",
+      "hojas": [
+        {
+          "titulo": "Oraciones por todos",
+          "texto": "Peticiones y acciones de gracias por reyes y autoridades. Así podemos vivir en paz y con respeto.",
+          "textoNino": "Podemos orar por nuestros líderes y vecinos.",
+          "referencia": "1 Timoteo 2:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un solo mediador",
+          "texto": "Hay un Dios y un mediador, el que nos une con él: Jesucristo hombre. Se dio a sí mismo como rescate por todos.",
+          "textoNino": "Jesús nos une con Dios. Dio su vida por todos.",
+          "referencia": "1 Timoteo 2:4-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Orar sin pelear",
+          "texto": "Pablo quiere que los hombres oren sin enojo ni peleas. Y que las mujeres brillen más por sus buenas obras que por sus joyas.",
+          "textoNino": "Oramos en paz y hacemos buenas obras.",
+          "referencia": "1 Timoteo 2:8-10",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Líderes que sirven",
+      "capitulos": "3",
+      "color": "dawn",
+      "resumen": "Pablo describe a los que sirven en la iglesia: honrados, amables y firmes en la fe. Las iglesias organizan este servicio de distintas maneras.",
+      "resumenNino": "Los líderes de la iglesia deben ser buenos y amables.",
+      "hojas": [
+        {
+          "titulo": "Cómo es un buen líder",
+          "texto": "Quien cuida la iglesia debe tener buena fama, dominio propio y una casa en orden. Abre su puerta a otros y sabe enseñar. No es violento ni ama el dinero.",
+          "textoNino": "Un buen líder es amable, paciente y cuida a su familia.",
+          "referencia": "1 Timoteo 3:1-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Diáconos de confianza",
+          "texto": "Los diáconos sirven a la iglesia. Deben ser honestos, de una sola palabra y con la conciencia limpia.",
+          "textoNino": "Los diáconos ayudan en la iglesia con honestidad.",
+          "referencia": "1 Timoteo 3:8-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El gran misterio",
+          "texto": "La iglesia es «columna y apoyo de la verdad». Y su centro es Jesús: Dios se mostró en carne, fue anunciado a las naciones y recibido en gloria.",
+          "textoNino": "La iglesia es la familia de Dios, y Jesús es su centro.",
+          "referencia": "1 Timoteo 3:15-16",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Ejemplo para todos",
+      "capitulos": "4",
+      "color": "olive",
+      "resumen": "Pablo recuerda que todo lo que Dios creó es bueno y se recibe dando gracias. Anima a Timoteo a ejercitarse en la fe y a ser ejemplo, aunque es joven.",
+      "resumenNino": "Aunque seas pequeño, puedes ser ejemplo de amor y de fe.",
+      "hojas": [
+        {
+          "titulo": "Todo lo creado es bueno",
+          "texto": "Nada de lo que Dios hizo es malo en sí. Se recibe con gratitud, con la palabra de Dios y la oración.",
+          "textoNino": "Damos gracias a Dios por la comida y por todo.",
+          "referencia": "1 Timoteo 4:4-5",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Entrenar el corazón",
+          "texto": "El ejercicio del cuerpo sirve para poco. La piedad, que es vivir cerca de Dios, sirve para todo: ahora y en la vida que viene.",
+          "textoNino": "Así como entrenas el cuerpo, entrena tu amor por Dios.",
+          "referencia": "1 Timoteo 4:7-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Joven y ejemplo",
+          "texto": "«Ninguno tenga en poco tu juventud». Timoteo puede ser ejemplo en palabra, conducta, amor, fe y pureza. Lee, enseña y cuida el don recibido.",
+          "textoNino": "Los niños también pueden ser un buen ejemplo.",
+          "referencia": "1 Timoteo 4:12-16",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Cuidar a la familia",
+      "capitulos": "5",
+      "color": "rose",
+      "resumen": "La iglesia es como una familia. Pablo enseña a tratar a mayores y jóvenes con respeto, a cuidar a las viudas y a honrar a los que enseñan.",
+      "resumenNino": "En la iglesia nos cuidamos como en una familia.",
+      "hojas": [
+        {
+          "titulo": "Como padres y hermanos",
+          "texto": "Al mayor, trátalo como a un padre. A los jóvenes, como a hermanos. A las mujeres mayores, como a madres; a las jóvenes, como a hermanas.",
+          "textoNino": "Trata a todos como a tu propia familia.",
+          "referencia": "1 Timoteo 5:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Cuidar a las viudas",
+          "texto": "La iglesia ayuda a las viudas que están solas. Y cada familia cuida a los suyos: es una forma de agradar a Dios.",
+          "textoNino": "Ayudamos a quien está solo y cuidamos a los nuestros.",
+          "referencia": "1 Timoteo 5:3-16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Honrar a los que enseñan",
+          "texto": "Los ancianos que guían bien merecen doble honra, sobre todo los que enseñan. «Digno es el obrero de su jornal».",
+          "textoNino": "Damos gracias a quienes nos enseñan de Dios.",
+          "referencia": "1 Timoteo 5:17-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Contentos con Dios",
+      "capitulos": "6",
+      "color": "dusk",
+      "resumen": "La verdadera ganancia es vivir cerca de Dios con lo necesario. Pablo avisa del amor al dinero y pide a Timoteo pelear la buena batalla de la fe.",
+      "resumenNino": "Estar cerca de Dios vale más que todo el dinero.",
+      "hojas": [
+        {
+          "titulo": "Contentos con lo necesario",
+          "texto": "Nada trajimos al mundo y nada nos llevaremos. Con comida y ropa, estamos contentos. El amor al dinero trae muchos dolores.",
+          "textoNino": "Con lo que tenemos y con Dios, estamos felices.",
+          "referencia": "1 Timoteo 6:6-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La buena batalla de la fe",
+          "texto": "Timoteo debe huir del mal y buscar la justicia, la fe, el amor y la paciencia. Jesús, Rey de reyes, volverá a su tiempo.",
+          "textoNino": "Timoteo debía seguir firme en la fe, sin rendirse.",
+          "referencia": "1 Timoteo 6:11-16",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Ricos en buenas obras",
+          "texto": "Los ricos no deben poner su esperanza en el dinero, sino en Dios, que nos da todo. Que sean generosos y compartan.",
+          "textoNino": "Quien tiene mucho puede compartir con alegría.",
+          "referencia": "1 Timoteo 6:17-19",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pablo lo resume en una frase: Jesús vino al mundo a salvar a los pecadores. Él nos une con Dios y se entregó como rescate por todos. Así cumplió lo que dijo: vino a buscar y salvar lo perdido.",
+    "referencias": ["1 Timoteo 1:15", "1 Timoteo 2:5-6", "Lucas 19:10"]
+  },
+  "paraTuVida": [
+    "Esta semana, ora por una autoridad de tu ciudad o de tu país.",
+    "Piensa en alguien mayor de tu iglesia y visítalo o llámalo.",
+    "Cuando desees más cosas, da gracias por lo que ya tienes."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿En qué ciudad dejó Pablo a Timoteo?",
+      "opciones": ["Roma", "Éfeso", "Jerusalén"],
+      "correcta": 1,
+      "explicacion": "Pablo le pidió quedarse en Éfeso para cuidar la iglesia (1 Timoteo 1:3)."
+    },
+    {
+      "pregunta": "Según Pablo, ¿qué es la raíz de todos los males?",
+      "opciones": ["La pobreza", "El amor al dinero", "La juventud"],
+      "correcta": 1,
+      "explicacion": "Pablo escribe que el amor al dinero es la raíz de todos los males (1 Timoteo 6:10)."
+    },
+    {
+      "pregunta": "Según 2 Timoteo, ¿quiénes enseñaron la fe a Timoteo en su casa?",
+      "opciones": ["Su abuela y su madre", "Su padre y su tío", "Pedro y Juan"],
+      "correcta": 0,
+      "explicacion": "La fe vivió primero en su abuela Loida y en su madre Eunice (2 Timoteo 1:5)."
+    }
+  ],
+  "estudio": ["1-timoteo"],
+  "conexiones": [
+    { "id": "tito", "motivo": "Otra carta de Pablo sobre cómo cuidar la iglesia." },
+    { "id": "2-timoteo", "motivo": "La última carta de Pablo a su amigo Timoteo." }
+  ]
+}

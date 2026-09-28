@@ -1,0 +1,157 @@
+{
+  "id": "filemon",
+  "tipo": "libro",
+  "titulo": "Filemón",
+  "subtitulo": "Recíbelo como a un hermano",
+  "libro": "Phlm",
+  "centro": {
+    "texto": "En Cristo, Onésimo vuelve a casa no como esclavo, sino como hermano",
+    "textoNino": "Jesús nos hace hermanos a todos, sin importar quién seas"
+  },
+  "versiculo": {
+    "texto": "No ya como siervo, antes más que siervo, como hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor.",
+    "referencia": "Filemón 1:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Una iglesia en casa",
+      "capitulos": "1:1-7",
+      "color": "warm",
+      "resumen": "Pablo, preso por Jesús, escribe a su amigo Filemón. En su casa se reúne la iglesia. Pablo da gracias porque su amor alegra a los creyentes.",
+      "resumenNino": "Filemón abría su casa para que la iglesia se reuniera.",
+      "hojas": [
+        {
+          "titulo": "Prisionero de Jesucristo",
+          "texto": "Pablo no se presenta como apóstol, sino como «prisionero de Jesucristo». Escribe con Timoteo a Filemón, a Apia, a Arquipo y a la iglesia de su casa.",
+          "textoNino": "Pablo estaba preso, pero seguía escribiendo a sus amigos.",
+          "referencia": "Filemón 1:1-3",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un amor que da alivio",
+          "texto": "Pablo ora por Filemón y se alegra de su fe y su amor. Gracias a él, los creyentes han encontrado alivio y alegría.",
+          "textoNino": "Filemón ayudaba a los demás y los ponía contentos.",
+          "referencia": "Filemón 1:4-7",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un ruego por amor",
+      "capitulos": "1:8-16",
+      "color": "amber",
+      "resumen": "Pablo podría mandar, pero prefiere pedir por amor. Pide por Onésimo, que dejó a Filemón y conoció a Cristo junto a Pablo. Ahora vuelve como hermano.",
+      "resumenNino": "Pablo le pide a Filemón que reciba a Onésimo con amor.",
+      "hojas": [
+        {
+          "titulo": "Pedir, no mandar",
+          "texto": "Pablo tiene autoridad para dar órdenes. Pero elige rogar por amor, como anciano y preso.",
+          "textoNino": "Pablo pidió las cosas con amor, sin gritar ni mandar.",
+          "referencia": "Filemón 1:8-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Onésimo, el útil",
+          "texto": "Onésimo significa «útil». Antes no fue útil a Filemón; ahora lo es para los dos. Pablo lo llama su hijo y lo envía de vuelta.",
+          "textoNino": "Onésimo cambió y ahora ayudaba a todos.",
+          "referencia": "Filemón 1:10-12",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un hermano amado",
+          "texto": "Onésimo era esclavo de Filemón y se había ido. Quizá se apartó por un tiempo para volver para siempre, ahora como hermano amado.",
+          "textoNino": "Ahora Onésimo y Filemón eran hermanos en Jesús.",
+          "referencia": "Filemón 1:15-16",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Ponlo a mi cuenta",
+      "capitulos": "1:17-21",
+      "color": "dawn",
+      "resumen": "Pablo pide recibir a Onésimo como si fuera él mismo. Si le debe algo, Pablo lo pagará. Confía en que Filemón hará aún más de lo pedido.",
+      "resumenNino": "Pablo dijo: si Onésimo te debe algo, yo lo pago.",
+      "hojas": [
+        {
+          "titulo": "Recíbelo como a mí",
+          "texto": "Pablo se pone del lado de Onésimo. Pide a Filemón que lo reciba con el mismo cariño con que recibiría al apóstol.",
+          "textoNino": "Recibe a los demás como recibirías a un gran amigo.",
+          "referencia": "Filemón 1:17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Yo lo pagaré",
+          "texto": "«Ponlo a mi cuenta», escribe Pablo de su puño y letra. Carga con la deuda de otro, como Jesús cargó con la nuestra.",
+          "textoNino": "Pablo pagó por su amigo, como Jesús hizo por nosotros.",
+          "referencia": "Filemón 1:18-19",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Aún más de lo que pido",
+          "texto": "Pablo confía en que Filemón obedecerá y hará más de lo que le pide. El perdón abre la puerta a más amor.",
+          "textoNino": "Cuando perdonamos, siempre podemos dar un poco más.",
+          "referencia": "Filemón 1:20-21",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Saludos de amigos",
+      "capitulos": "1:22-25",
+      "color": "olive",
+      "resumen": "Pablo espera salir pronto de la cárcel y pide que le preparen alojamiento. Envía saludos de sus compañeros y bendice a todos con la gracia de Jesús.",
+      "resumenNino": "Pablo esperaba visitar pronto a Filemón y a su iglesia.",
+      "hojas": [
+        {
+          "titulo": "Prepárame alojamiento",
+          "texto": "Pablo cree que las oraciones de la iglesia serán escuchadas. Espera visitar a Filemón en persona.",
+          "textoNino": "Pablo confiaba en que Dios escucha las oraciones.",
+          "referencia": "Filemón 1:22",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Compañeros de camino",
+          "texto": "Saludan Epafras, Marcos, Aristarco, Demas y Lucas. La carta termina con la gracia de Jesús sobre todos.",
+          "textoNino": "Pablo tenía muchos amigos que servían a Jesús.",
+          "referencia": "Filemón 1:23-25",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Pablo hace por Onésimo lo que Jesús hizo por nosotros: toma su deuda y pide que lo reciban. Gracias a Jesús, Dios nos recibe como hijos. En él ya no importa si eres siervo o libre: todos somos uno.",
+    "referencias": ["Filemón 1:18", "Gálatas 3:28"]
+  },
+  "paraTuVida": [
+    "Piensa en alguien que te falló y da hoy un paso para recibirlo.",
+    "Si puedes ayudar a reconciliar a dos personas, ofrece tu ayuda con cariño.",
+    "Abre tu casa esta semana a alguien de tu iglesia."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Por quién le pide Pablo a Filemón que lo reciba?",
+      "opciones": ["Onésimo", "Timoteo", "Lucas"],
+      "correcta": 0,
+      "explicacion": "Pablo ruega por Onésimo, su hijo en la fe (Filemón 1:10)."
+    },
+    {
+      "pregunta": "¿Qué dice Pablo sobre lo que Onésimo pudiera deber?",
+      "opciones": ["Que lo pague trabajando", "Que lo ponga a su cuenta", "Que lo eche de casa"],
+      "correcta": 1,
+      "explicacion": "Pablo escribe: «ponlo a mi cuenta» (Filemón 1:18). Él mismo lo pagará."
+    },
+    {
+      "pregunta": "¿En qué otra carta aparece Onésimo como hermano fiel?",
+      "opciones": ["Colosenses", "Hebreos", "Santiago"],
+      "correcta": 0,
+      "explicacion": "Colosenses 4:9 lo llama «amado y fiel hermano»."
+    }
+  ],
+  "estudio": ["filemon"],
+  "conexiones": [
+    { "id": "colosenses", "motivo": "Onésimo aparece también en esta carta, enviada a la misma ciudad." },
+    { "id": "galatas", "motivo": "En Cristo no hay siervo ni libre: todos somos uno." }
+  ]
+}

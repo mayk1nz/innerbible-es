@@ -1,0 +1,144 @@
+{
+  "id": "el-padre-que-abraza",
+  "titulo": "El padre que corre a abrazar",
+  "referencia": "Lucas 15:11-32",
+  "estudio": "camino-a-jerusalen",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "se-va-lejos",
+      "texto": {
+        "3-5": "Un papá tenía dos hijos. El menor dijo: «Dame mi parte del dinero». Y se fue muy lejos.",
+        "6-8": "Jesús contó otra historia: «Un hombre tenía dos hijos». El menor le dijo: «Padre, dame la parte de la herencia que me toca». El padre repartió sus bienes. Pocos días después, el hijo menor juntó todo y se fue a un país lejano.",
+        "9-12": "Un padre tenía dos hijos. El menor le pidió su parte de la herencia en vida del padre, algo muy doloroso en aquella cultura. El padre la repartió. Pocos días después, el joven lo juntó todo y partió a una provincia apartada (Lucas 15:13)."
+      }
+    },
+    {
+      "id": "lo-pierde-todo",
+      "texto": {
+        "3-5": "Allá gastó todo su dinero. Luego no tenía ni para comer. ¡Qué hambre y qué tristeza!",
+        "6-8": "Allá malgastó todo su dinero. Después hubo una gran hambre en aquel país, y él no tenía nada. Consiguió un trabajo cuidando cerdos. Tenía tanta hambre que deseaba comer lo que comían los cerdos, pero nadie le daba nada.",
+        "9-12": "Allí desperdició su herencia «viviendo perdidamente». Cuando se le acabó todo, llegó una gran hambre a esa tierra. Terminó cuidando cerdos, un trabajo humillante para un judío. Deseaba llenarse con las algarrobas de los cerdos, pero nadie se las daba."
+      }
+    },
+    {
+      "id": "vuelve-a-casa",
+      "texto": {
+        "3-5": "El hijo pensó: «Voy a volver con mi papá. Le pediré perdón». Y se puso en camino.",
+        "6-8": "Entonces pensó: «En casa de mi padre sobra el pan, y yo aquí me muero de hambre». Decidió volver y decirle: «Padre, he pecado contra el cielo y contra ti». Pensaba pedirle que lo tratara como a un trabajador más. Y se puso en camino.",
+        "9-12": "Entonces «volvió en sí» (Lucas 15:17): recordó que en casa de su padre hasta los jornaleros tenían pan de sobra. Preparó sus palabras: «Padre, he pecado contra el cielo y contra ti; ya no soy digno de ser llamado tu hijo». Pensaba pedir que lo trataran como a un jornalero más. Y emprendió el regreso."
+      }
+    },
+    {
+      "id": "el-abrazo",
+      "texto": {
+        "3-5": "¡El papá lo vio de lejos! Corrió, lo abrazó y lo besó. ¡Y preparó una gran fiesta!",
+        "6-8": "Todavía estaba lejos cuando su padre lo vio. Sintió compasión, corrió hacia él, lo abrazó y lo besó. El hijo empezó a decir: «Padre, he pecado…». Pero el padre llamó a sus sirvientes: «¡Traigan la mejor ropa, un anillo y sandalias! ¡Hagamos fiesta!».",
+        "9-12": "Cuando aún estaba lejos, su padre lo vio, «fue movido a misericordia, y corrió» (Lucas 15:20). En aquella cultura no era común que un padre respetable corriera así, pero este padre corrió. Lo abrazó y lo besó antes de escuchar su disculpa. Luego pidió el mejor vestido, un anillo y calzado: volvía como hijo, no como sirviente."
+      }
+    },
+    {
+      "id": "el-hermano-mayor",
+      "texto": {
+        "3-5": "El hermano mayor se enojó. El papá salió a buscarlo: «Hijo, tú siempre estás conmigo. ¡Ven a la fiesta!».",
+        "6-8": "El hermano mayor volvió del campo, oyó la música y se enojó; no quería entrar. Su padre salió a rogarle: «Hijo, tú siempre estás conmigo, y todo lo mío es tuyo. Pero había que alegrarse: tu hermano estaba perdido y ha sido encontrado».",
+        "9-12": "El hermano mayor, al volver del campo, oyó la música y se enojó: él siempre había obedecido. También a él el padre salió a buscarlo: «Hijo, tú siempre estás conmigo, y todas mis cosas son tuyas» (Lucas 15:31). Jesús no cuenta si entró a la fiesta. El final queda abierto, como una invitación para cada uno de nosotros."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me espera y me abraza.", "referencia": "Lucas 15:20", "fuente": "adaptado" },
+    "6-8": { "texto": "Cuando todavía estaba lejos, su padre lo vio, sintió compasión, corrió y lo abrazó.", "referencia": "Lucas 15:20", "fuente": "adaptado" },
+    "9-12": { "texto": "Y levantándose, vino a su padre. Y como aun estuviese lejos, violo su padre, y fue movido a misericordia, y corrió, y echose sobre su cuello, y besole.", "referencia": "Lucas 15:20", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "El papá corrió a abrazar a su hijo.", "verdadera": true, "porque": "Lo vio de lejos, corrió y lo abrazó." },
+            { "texto": "El papá se enojó y cerró la puerta.", "verdadera": false, "porque": "El papá lo abrazó e hizo una fiesta." },
+            { "texto": "Dios nos ama como ese papá.", "verdadera": true, "porque": "Jesús contó esta historia para mostrarnos el amor de Dios." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "El papá tenía dos hijos.", "verdadera": true, "porque": "Un hijo menor y un hijo mayor." },
+            { "texto": "El hijo menor ahorró todo su dinero.", "verdadera": false, "porque": "Lo malgastó todo en un país lejano." },
+            { "texto": "El hijo terminó cuidando cerdos.", "verdadera": true, "porque": "Tenía tanta hambre que deseaba comer lo que comían los cerdos." },
+            { "texto": "El papá esperó sentado a que el hijo le pidiera perdón.", "verdadera": false, "porque": "El papá corrió hacia él y lo abrazó primero." },
+            { "texto": "El papá le dio ropa nueva, un anillo y sandalias.", "verdadera": true, "porque": "Así mostró que seguía siendo su hijo." },
+            { "texto": "El papá no quería al hermano mayor.", "verdadera": false, "porque": "También salió a buscarlo: «Todo lo mío es tuyo»." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "El hijo menor pidió su herencia en vida del padre.", "verdadera": true, "porque": "«Padre, dame la parte de la hacienda que me pertenece» (Lucas 15:12)." },
+            { "texto": "El hijo se fue a una provincia cercana.", "verdadera": false, "porque": "Partió «lejos a una provincia apartada» (Lucas 15:13)." },
+            { "texto": "Durante la hambre, alguien le daba algarrobas.", "verdadera": false, "porque": "«Nadie se las daba» (Lucas 15:16)." },
+            { "texto": "El hijo «volvió en sí» antes de regresar.", "verdadera": true, "porque": "Recordó la casa de su padre y decidió volver (Lucas 15:17)." },
+            { "texto": "El padre lo vio cuando aún estaba lejos.", "verdadera": true, "porque": "Lo vio, se compadeció y corrió (Lucas 15:20)." },
+            { "texto": "El padre lo hizo jornalero, como el hijo pidió.", "verdadera": false, "porque": "Le dio el mejor vestido, anillo y calzado: lo recibió como hijo (Lucas 15:22)." },
+            { "texto": "El hermano mayor se alegró y entró enseguida.", "verdadera": false, "porque": "Se enojó y no quería entrar (Lucas 15:28)." },
+            { "texto": "Jesús no cuenta si el hermano mayor entró a la fiesta.", "verdadera": true, "porque": "El final queda abierto, como una invitación (Lucas 15:32)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "Ordena la historia del hijo que volvió a casa.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "El hijo se va lejos.",
+            "El hijo vuelve a casa.",
+            "¡El papá lo abraza!"
+          ]
+        },
+        "6-8": {
+          "items": [
+            "El hijo menor pide su herencia.",
+            "Malgasta todo en un país lejano.",
+            "Cuida cerdos y tiene mucha hambre.",
+            "Decide volver con su padre.",
+            "El padre corre a abrazarlo."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "El menor pide su parte de la hacienda.",
+            "Desperdicia todo viviendo perdidamente.",
+            "Cuida cerdos durante una gran hambre.",
+            "Vuelve en sí y emprende el regreso.",
+            "El padre corre, lo abraza y hace fiesta.",
+            "El padre sale a buscar al hermano mayor."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que el amor de Dios Padre siempre lo espera, lo perdona y lo recibe con los brazos abiertos.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Si me equivoco mucho, Dios me sigue queriendo?",
+        "respuesta": "«Sí. Como el papá de la historia, Dios siempre te espera con los brazos abiertos. Pedir perdón es volver a casa». Puedes contarle también cómo tú lo perdonas y lo sigues amando."
+      },
+      {
+        "pregunta": "¿Por qué se enojó el hermano mayor?",
+        "respuesta": "Sintió que no era justo. Es normal sentir celos a veces. Pero el padre también salió a buscarlo: Dios ama a los dos hermanos, al que se fue y al que se quedó."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo el papá cuando vio a su hijo que volvía de lejos?",
+      "sentir": "¿Cómo crees que se sintió el hijo cuando su papá lo abrazó en vez de regañarlo?",
+      "vivir": "¿A quién necesitamos perdonar o pedirle perdón esta semana? ¿Cómo podemos darle un abrazo de paz?"
+    },
+    "oracion": "Padre bueno, gracias porque siempre me esperas y me abrazas. Enséñame a perdonar como tú me perdonas. Amén.",
+    "gesto": "Esta semana, cuando alguien pida perdón en casa, respondan con un abrazo y digan: «Te perdono. ¡Qué bueno que volviste!»."
+  },
+  "estampa": "El abrazo del padre"
+}

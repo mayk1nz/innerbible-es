@@ -1,0 +1,216 @@
+{
+  "id": "proverbios",
+  "tipo": "libro",
+  "titulo": "Proverbios",
+  "subtitulo": "Sabiduría para cada día",
+  "libro": "Prov",
+  "centro": {
+    "texto": "La verdadera sabiduría empieza con respetar a Dios y se vive cada día",
+    "textoNino": "Ser sabio es amar a Dios y hacer el bien"
+  },
+  "versiculo": {
+    "texto": "Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+    "referencia": "Proverbios 3:5-6"
+  },
+  "ramas": [
+    {
+      "titulo": "El camino de la sabiduría",
+      "capitulos": "1–9",
+      "color": "warm",
+      "resumen": "Un padre aconseja a su hijo. La sabiduría es como una mujer que llama en la calle e invita a su casa. Todo empieza con el temor del Señor.",
+      "resumenNino": "Un papá le enseña a su hijo a ser sabio.",
+      "hojas": [
+        {
+          "titulo": "El principio de todo",
+          "texto": "«El principio de la sabiduría es el temor de Jehová». Temer a Dios es respetarlo y confiar en él, como un hijo en su padre.",
+          "textoNino": "Ser sabio empieza por amar y respetar a Dios.",
+          "referencia": "Proverbios 1:7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Fíate de Dios",
+          "texto": "No te apoyes solo en lo que tú entiendes. Confía en Dios de todo corazón, y él enderezará tus caminos.",
+          "textoNino": "Confía en Dios con todo tu corazón.",
+          "referencia": "Proverbios 3:5-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Guarda tu corazón",
+          "texto": "Cuida lo que dejas entrar en tu corazón más que cualquier tesoro, porque de él mana la vida.",
+          "textoNino": "Cuida tu corazón, porque de él sale todo lo que haces.",
+          "referencia": "Proverbios 4:23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Aprende de la hormiga",
+          "texto": "La hormiga no tiene jefe, pero guarda comida en verano. El perezoso puede aprender de ella a trabajar a tiempo.",
+          "textoNino": "La hormiga trabaja y guarda comida. ¡Qué sabia!",
+          "referencia": "Proverbios 6:6-8",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Proverbios de Salomón",
+      "capitulos": "10–22",
+      "color": "amber",
+      "resumen": "Cientos de frases cortas comparan al sabio con el necio. Hablan de palabras, trabajo, dinero, amistad y familia. Cada una se puede aprender de memoria.",
+      "resumenNino": "Frases cortas para vivir bien cada día.",
+      "hojas": [
+        {
+          "titulo": "Una respuesta suave",
+          "texto": "«La blanda respuesta quita la ira». Una palabra dura enciende la pelea; una palabra amable la apaga.",
+          "textoNino": "Hablar con calma ayuda a que no haya peleas.",
+          "referencia": "Proverbios 15:1",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Tus planes en sus manos",
+          "texto": "Pon tus obras en manos de Dios. Tú haces planes, pero él guía tus pasos.",
+          "textoNino": "Cuéntale a Dios tus planes, y él te guiará.",
+          "referencia": "Proverbios 16:3-9",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El amigo verdadero",
+          "texto": "«En todo tiempo ama el amigo». Un buen amigo está contigo en los días buenos y en los difíciles.",
+          "textoNino": "Un buen amigo te quiere siempre.",
+          "referencia": "Proverbios 17:17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un corazón alegre",
+          "texto": "Un corazón alegre hace bien a todo el cuerpo. El espíritu triste, en cambio, seca por dentro.",
+          "textoNino": "Estar alegre le hace bien a tu cuerpo.",
+          "referencia": "Proverbios 17:22",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Palabras de los sabios",
+      "capitulos": "22–24",
+      "color": "olive",
+      "resumen": "Una colección de «palabras de los sabios» pide oír con atención. Defiende al pobre, enseña a no alegrarse del mal ajeno y avisa del peligro de la pereza.",
+      "resumenNino": "Consejos para ser justo y buena persona.",
+      "hojas": [
+        {
+          "titulo": "No robes al pobre",
+          "texto": "No te aproveches del pobre porque no puede defenderse. Dios mismo defiende su causa.",
+          "textoNino": "Dios cuida a los pobres. Nosotros también debemos cuidarlos.",
+          "referencia": "Proverbios 22:22-23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Cuando cae tu enemigo",
+          "texto": "Si a quien te hizo daño le va mal, no te alegres. El corazón sabio no celebra la caída de nadie.",
+          "textoNino": "No te alegres cuando a otro le va mal.",
+          "referencia": "Proverbios 24:17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La viña del perezoso",
+          "texto": "El sabio pasa junto a una viña llena de espinas y con el muro caído. Aprende la lección: un poco de sueño, y llega la pobreza.",
+          "textoNino": "El huerto del perezoso se llenó de espinas.",
+          "referencia": "Proverbios 24:30-34",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Copiados en tiempos de Ezequías",
+      "capitulos": "25–29",
+      "color": "rose",
+      "resumen": "Más proverbios de Salomón, copiados por los hombres del rey Ezequías. Enseñan a tratar bien incluso al enemigo, a tener buenos amigos y a confesar los pecados.",
+      "resumenNino": "Más consejos sabios, copiados siglos después.",
+      "hojas": [
+        {
+          "titulo": "Dale de comer",
+          "texto": "Si quien te odia tiene hambre, dale pan; si tiene sed, dale agua. El Señor te lo pagará.",
+          "textoNino": "Sé bueno incluso con quien no es bueno contigo.",
+          "referencia": "Proverbios 25:21-22",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Hierro con hierro",
+          "texto": "Como el hierro afila al hierro, un amigo ayuda a otro a ser mejor.",
+          "textoNino": "Los buenos amigos nos ayudan a ser mejores.",
+          "referencia": "Proverbios 27:17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Confesar trae misericordia",
+          "texto": "El que esconde sus pecados no prospera. El que los confiesa y los deja alcanza misericordia.",
+          "textoNino": "Si decimos la verdad y pedimos perdón, Dios nos perdona.",
+          "referencia": "Proverbios 28:13",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Agur y la mujer fuerte",
+      "capitulos": "30–31",
+      "color": "dawn",
+      "resumen": "Agur pide a Dios lo justo para vivir. La madre de Lemuel le enseña a defender al pobre. El libro termina con el retrato de una mujer fuerte que teme al Señor.",
+      "resumenNino": "Una mamá sabia y una mujer trabajadora nos enseñan.",
+      "hojas": [
+        {
+          "titulo": "Ni pobreza ni riquezas",
+          "texto": "Agur ora: no me des pobreza ni riquezas, solo el pan que necesito. Así no me olvidaré de ti.",
+          "textoNino": "Agur pidió a Dios solo lo que necesitaba.",
+          "referencia": "Proverbios 30:8-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Habla por quien no puede",
+          "texto": "La madre del rey Lemuel le aconseja: abre tu boca por el que no tiene voz y defiende al pobre.",
+          "textoNino": "Defiende a quien no puede defenderse.",
+          "referencia": "Proverbios 31:1-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La mujer fuerte",
+          "texto": "Trabaja, cuida a su familia, ayuda al pobre y habla con sabiduría. Su belleza mayor es que teme al Señor.",
+          "textoNino": "Una mujer buena y trabajadora que ama a Dios.",
+          "referencia": "Proverbios 31:10-31",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús dice que en él hay «más que Salomón». Pablo enseña que Cristo es nuestra sabiduría y que en él están todos los tesoros de sabiduría. Muchos cristianos ven en la Sabiduría de Proverbios 8 un anuncio de Jesús.",
+    "referencias": ["Mateo 12:42", "1 Corintios 1:30", "Colosenses 2:3"]
+  },
+  "paraTuVida": [
+    "Lee cada día el capítulo de Proverbios que coincide con la fecha del mes.",
+    "Hoy, cuando alguien te hable con enojo, responde con suavidad.",
+    "Pon por escrito un plan importante y entrégaselo a Dios en oración."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué animal pone Proverbios como ejemplo de trabajo?",
+      "opciones": ["El león", "La hormiga", "El águila"],
+      "correcta": 1,
+      "explicacion": "«Ve a la hormiga, oh perezoso»: ella prepara su comida a tiempo (Proverbios 6:6-8)."
+    },
+    {
+      "pregunta": "Según Proverbios, ¿qué quita la ira?",
+      "opciones": ["Una respuesta suave", "Un regalo caro", "El silencio de un mes"],
+      "correcta": 0,
+      "explicacion": "«La blanda respuesta quita la ira: mas la palabra áspera hace subir el furor» (Proverbios 15:1)."
+    },
+    {
+      "pregunta": "Según Pablo, ¿quién nos ha sido hecho sabiduría de Dios?",
+      "opciones": ["Salomón", "Moisés", "Cristo Jesús"],
+      "correcta": 2,
+      "explicacion": "Pablo dice que Cristo Jesús nos ha sido hecho por Dios sabiduría (1 Corintios 1:30)."
+    }
+  ],
+  "estudio": ["proverbios"],
+  "conexiones": [
+    { "id": "eclesiastes", "motivo": "Otro libro de sabiduría, con preguntas más hondas." },
+    { "id": "santiago", "motivo": "Santiago también da sabiduría práctica para cada día." },
+    { "id": "1-reyes", "motivo": "Allí Salomón pide sabiduría a Dios." }
+  ]
+}

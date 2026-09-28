@@ -1,0 +1,209 @@
+{
+  "id": "eclesiastes",
+  "tipo": "libro",
+  "titulo": "Eclesiastés",
+  "subtitulo": "¿Qué da sentido a la vida?",
+  "libro": "Eccl",
+  "centro": {
+    "texto": "Sin Dios todo se escapa como humo; con él, la vida es un regalo",
+    "textoNino": "Las cosas pasan, pero Dios da sentido a la vida"
+  },
+  "versiculo": {
+    "texto": "El fin de todo el discurso oído es este: Teme a Dios, y guarda sus mandamientos; porque esto es el todo del hombre.",
+    "referencia": "Eclesiastés 12:13"
+  },
+  "ramas": [
+    {
+      "titulo": "Todo es humo",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "El Predicador busca el sentido de la vida «debajo del sol». Prueba el placer, el trabajo y la riqueza. Todo le parece vanidad: humo que se escapa de las manos.",
+      "resumenNino": "Un rey probó muchas cosas, pero nada lo llenaba.",
+      "hojas": [
+        {
+          "titulo": "Vanidad de vanidades",
+          "texto": "El libro empieza con un suspiro: todo es vanidad, como un soplo. La tradición identifica al Predicador con Salomón; muchos estudiosos piensan que se escribió después.",
+          "textoNino": "Todo pasa rápido, como el humo.",
+          "referencia": "Eclesiastés 1:1-2",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Nada nuevo bajo el sol",
+          "texto": "El sol sale y se pone, el viento va y viene. Lo que fue, eso será. Nada de este mundo puede llenar el corazón.",
+          "textoNino": "Las cosas se repiten y no nos llenan del todo.",
+          "referencia": "Eclesiastés 1:9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Lo probó todo",
+          "texto": "Construye casas, planta viñas, junta oro y se da todos los gustos. Al final mira todo y dice: no hay provecho debajo del sol.",
+          "textoNino": "Tuvo de todo, y aun así no era feliz.",
+          "referencia": "Eclesiastés 2:1-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un regalo de Dios",
+          "texto": "Comer, beber y disfrutar del trabajo es bueno cuando se recibe de la mano de Dios.",
+          "textoNino": "La comida y el trabajo son regalos de Dios.",
+          "referencia": "Eclesiastés 2:24-25",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un tiempo para todo",
+      "capitulos": "3–4",
+      "color": "amber",
+      "resumen": "Hay tiempo de nacer y de morir, de llorar y de reír. Dios hace todo hermoso en su tiempo. Y es mejor caminar acompañado que solo.",
+      "resumenNino": "Hay un tiempo para cada cosa, y es mejor estar juntos.",
+      "hojas": [
+        {
+          "titulo": "Cada cosa a su tiempo",
+          "texto": "Tiempo de plantar y de cosechar, de llorar y de reír, de callar y de hablar. La vida tiene estaciones.",
+          "textoNino": "Hay tiempo para llorar y tiempo para reír.",
+          "referencia": "Eclesiastés 3:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Hermoso en su tiempo",
+          "texto": "Dios hace todo hermoso a su tiempo. Nosotros no entendemos toda su obra, pero podemos confiar en él.",
+          "textoNino": "Dios hace todo bonito en el momento justo.",
+          "referencia": "Eclesiastés 3:11",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Mejor dos que uno",
+          "texto": "Si uno cae, el otro lo levanta. «Cordón de tres dobleces no presto se rompe».",
+          "textoNino": "Con un amigo, es más fácil levantarse.",
+          "referencia": "Eclesiastés 4:9-12",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Consejos para vivir bien",
+      "capitulos": "5–8",
+      "color": "olive",
+      "resumen": "El Predicador da consejos prácticos. Habla poco delante de Dios y escucha más. El dinero no llena. Hay días buenos y días malos, y los dos vienen de la mano de Dios.",
+      "resumenNino": "Escucha a Dios y no pongas tu corazón en el dinero.",
+      "hojas": [
+        {
+          "titulo": "Pocas palabras",
+          "texto": "Cuando vayas a la casa de Dios, acércate más para oír que para hablar. Dios está en el cielo: que tus palabras sean pocas.",
+          "textoNino": "Delante de Dios, escucha más y habla menos.",
+          "referencia": "Eclesiastés 5:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El dinero no sacia",
+          "texto": "Quien ama el dinero nunca tiene suficiente. Siempre quiere más, y aun así no está satisfecho.",
+          "textoNino": "Tener más cosas no nos hace más felices.",
+          "referencia": "Eclesiastés 5:10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Días buenos, días malos",
+          "texto": "En el día bueno, disfruta. En el día malo, piensa. Dios está detrás de los dos.",
+          "textoNino": "En los días buenos y en los malos, Dios está.",
+          "referencia": "Eclesiastés 7:14",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Disfruta lo que Dios da",
+      "capitulos": "9–11",
+      "color": "rose",
+      "resumen": "La vida es corta, así que hay que vivirla bien. Come tu pan con alegría, trabaja con ganas y comparte con generosidad. Alégrate, joven, sabiendo que Dios lo ve todo.",
+      "resumenNino": "Disfruta la vida, trabaja con ganas y comparte.",
+      "hojas": [
+        {
+          "titulo": "Come tu pan con gozo",
+          "texto": "Disfruta de la comida y de tu familia. Todo lo que hagas, hazlo con todas tus fuerzas.",
+          "textoNino": "Haz todo con alegría y con todas tus fuerzas.",
+          "referencia": "Eclesiastés 9:7-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Pan sobre las aguas",
+          "texto": "«Echa tu pan sobre las aguas; que después de muchos días lo hallarás». Da con generosidad, aunque no veas el fruto enseguida.",
+          "textoNino": "Comparte, aunque no veas enseguida el resultado.",
+          "referencia": "Eclesiastés 11:1",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Alégrate, joven",
+          "texto": "Disfruta tu juventud y sigue los deseos de tu corazón. Pero recuerda que un día darás cuentas a Dios.",
+          "textoNino": "Los niños y jóvenes pueden disfrutar y amar a Dios.",
+          "referencia": "Eclesiastés 11:9",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Acuérdate de tu Creador",
+      "capitulos": "12",
+      "color": "dawn",
+      "resumen": "El libro termina con una llamada: acuérdate de Dios desde joven, antes de que llegue la vejez. La conclusión de todo es temer a Dios y guardar sus mandamientos.",
+      "resumenNino": "Acuérdate de Dios desde pequeño.",
+      "hojas": [
+        {
+          "titulo": "Desde la juventud",
+          "texto": "«Acuérdate de tu Criador en los días de tu juventud», antes de que lleguen los años difíciles.",
+          "textoNino": "Ama a Dios desde que eres niño.",
+          "referencia": "Eclesiastés 12:1",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El espíritu vuelve a Dios",
+          "texto": "Al final de la vida, el cuerpo vuelve al polvo y el espíritu vuelve a Dios, que lo dio.",
+          "textoNino": "Nuestra vida viene de Dios.",
+          "referencia": "Eclesiastés 12:7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La conclusión",
+          "texto": "Después de todas sus preguntas, el Predicador llega a esto: teme a Dios y guarda sus mandamientos. Eso es todo el ser humano.",
+          "textoNino": "Lo más importante es amar a Dios y obedecerle.",
+          "referencia": "Eclesiastés 12:13-14",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Eclesiastés muestra que todo «debajo del sol» se escapa como humo. Jesús vino para darnos vida en abundancia. Por eso Pablo puede decir que nuestro trabajo en el Señor «no es vano». Y Jesús nos invita a guardar tesoros en el cielo.",
+    "referencias": ["Juan 10:10", "1 Corintios 15:58", "Mateo 6:19-21"]
+  },
+  "paraTuVida": [
+    "Escribe tres regalos sencillos de hoy, como la comida o un amigo, y da gracias a Dios.",
+    "Antes de orar, guarda un minuto de silencio para escuchar.",
+    "Busca a un amigo para caminar juntos en la fe: mejor dos que uno."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "Según Eclesiastés, ¿para qué hay un tiempo?",
+      "opciones": ["Solo para trabajar", "Para todas las cosas", "Solo para descansar"],
+      "correcta": 1,
+      "explicacion": "«Para todas las cosas hay sazón»: tiempo de llorar, de reír, de callar y de hablar (Eclesiastés 3:1-8)."
+    },
+    {
+      "pregunta": "¿Qué dice el Predicador que es la conclusión de todo?",
+      "opciones": ["Teme a Dios y guarda sus mandamientos", "Junta muchas riquezas", "Come y bebe, que mañana moriremos"],
+      "correcta": 0,
+      "explicacion": "Al final de todas sus preguntas, llega a esto: temer a Dios y obedecerle (Eclesiastés 12:13)."
+    },
+    {
+      "pregunta": "¿Qué dice Pablo del trabajo que hacemos en el Señor?",
+      "opciones": ["Que es humo", "Que se olvida pronto", "Que no es vano"],
+      "correcta": 2,
+      "explicacion": "Lo que se hace para el Señor no se pierde: «vuestro trabajo en el Señor no es vano» (1 Corintios 15:58)."
+    }
+  ],
+  "estudio": ["eclesiastes"],
+  "conexiones": [
+    { "id": "proverbios", "motivo": "Proverbios también enseña a vivir con sabiduría." },
+    { "id": "job", "motivo": "Job hace preguntas igual de hondas sobre la vida." },
+    { "id": "cantares", "motivo": "El Estudio lee juntos los tres libros unidos a Salomón." }
+  ]
+}

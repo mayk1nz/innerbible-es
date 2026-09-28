@@ -1,0 +1,140 @@
+{
+  "id": "gedeon",
+  "titulo": "Gedeón y los 300",
+  "referencia": "Jueces 7",
+  "estudio": "jueces",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-lagar",
+      "texto": {
+        "3-5": "Gedeón se escondía para trabajar. Tenía miedo. Un ángel le dijo: «¡Dios está contigo, valiente!»",
+        "6-8": "Los madianitas llegaban como langostas y se llevaban las cosechas de Israel. Por miedo, Gedeón sacudía su trigo escondido en un lagar de uvas. Allí se le apareció un ángel: «El Señor está contigo, hombre valiente». Gedeón respondió: «¿Yo? ¡Si soy el más pequeño de mi familia!»",
+        "9-12": "Durante siete años, los madianitas saquearon las cosechas de Israel. Gedeón sacudía el trigo escondido en un lagar. Allí el ángel del Señor le dijo: «El Señor está contigo, hombre valiente» (Jueces 6:12). Gedeón se sentía el menor de una familia pobre. Dios le respondió: «Yo estaré contigo»."
+      }
+    },
+    {
+      "id": "el-vellon",
+      "texto": {
+        "3-5": "Gedeón puso lana en el suelo. «Dios, ¿me ayudarás?». ¡En la mañana, la lana estaba mojadita! Dios fue paciente.",
+        "6-8": "Gedeón le pidió a Dios una señal. Puso lana en el suelo y dijo: «Si mañana solo la lana está mojada, sabré que me ayudarás». ¡Así pasó! Luego pidió lo contrario, y Dios, con paciencia, también lo hizo.",
+        "9-12": "Gedeón pidió una señal: puso un vellón de lana en la era. Al amanecer, la lana estaba empapada y el suelo seco; ¡exprimió un tazón de agua! Luego pidió lo contrario, y así sucedió (Jueces 6:36-40). Dios tuvo paciencia con sus dudas."
+      }
+    },
+    {
+      "id": "trescientos",
+      "texto": {
+        "3-5": "Dios le dijo: «Tienes demasiados soldados». Se quedaron solo trescientos. ¡Poquitos! Pero Dios estaba con ellos.",
+        "6-8": "Se juntaron treinta y dos mil soldados. Pero Dios dijo: «Son demasiados; luego dirán que ganaron por su fuerza». Primero se fueron los que tenían miedo. Después, Dios los probó junto al agua. ¡Solo quedaron trescientos!",
+        "9-12": "Se reunieron treinta y dos mil hombres. Pero Dios dijo que eran demasiados: así nadie podría presumir «mi mano me ha salvado» (Jueces 7:2). Veintidós mil que tenían miedo regresaron a casa. Junto al agua, Dios apartó a trescientos que bebieron llevándose el agua a la boca con la mano."
+      }
+    },
+    {
+      "id": "el-sueno",
+      "texto": {
+        "3-5": "De noche, Gedeón bajó a escuchar a los enemigos. Uno contó un sueño: ¡un pan que rodaba y tumbaba una tienda! Gedeón dio gracias a Dios.",
+        "6-8": "Esa noche, Dios le dijo a Gedeón que bajara con su criado a escuchar al enemigo. Un soldado contaba un sueño: un pan de cebada rodaba y tumbaba una tienda. Su compañero dijo: «¡Dios le ha dado la victoria a Gedeón!». Gedeón adoró a Dios y se llenó de valor.",
+        "9-12": "Esa noche, Dios le dio ánimo: «Si tienes miedo, baja con tu criado al campamento» (Jueces 7:10). Gedeón escuchó a un soldado contar un sueño: un pan de cebada rodaba y derribaba una tienda. Su compañero lo entendió: Dios entregaría el campamento a Gedeón. Entonces Gedeón adoró."
+      }
+    },
+    {
+      "id": "antorchas",
+      "texto": {
+        "3-5": "Trescientos soldados con trompetas y cántaros. ¡Tuuu! ¡Crash! ¡Luces! Los enemigos huyeron. ¡Dios salvó a su pueblo!",
+        "6-8": "Gedeón formó tres grupos. Cada uno llevaba una trompeta y un cántaro con una antorcha adentro. A la señal, tocaron las trompetas, rompieron los cántaros y gritaron: «¡Por el Señor y por Gedeón!». Nadie se movió de su lugar, pero el enemigo se confundió y huyó. ¡Israel era libre!",
+        "9-12": "Gedeón dividió a los trescientos en tres grupos, con trompetas y cántaros vacíos que escondían antorchas encendidas. Cerca de la medianoche tocaron, rompieron los cántaros y gritaron: «¡La espada del Señor y de Gedeón!» (Jueces 7:20). Se quedaron quietos en su lugar, y el enorme ejército huyó confundido. La victoria fue de Dios."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Dios está conmigo!", "referencia": "Jueces 6:12", "fuente": "adaptado" },
+    "6-8": { "texto": "No tengas miedo: yo estaré contigo.", "referencia": "Jueces 6:16", "fuente": "adaptado" },
+    "9-12": { "texto": "Y el ángel de Jehová se le apareció, y díjole: Jehová es contigo, varón esforzado.", "referencia": "Jueces 6:12", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de Gedeón.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["Gedeón", "la antorcha"],
+            ["la lana", "el rocío"],
+            ["la trompeta", "¡tuuu!"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Gedeón", "el lagar"],
+            ["la lana", "el rocío"],
+            ["300", "soldados"],
+            ["el cántaro", "la antorcha"],
+            ["el sueño", "el pan de cebada"],
+            ["el ángel", "«¡Valiente!»"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Gedeón", "el menor de su familia"],
+            ["el vellón", "la señal"],
+            ["32.000", "demasiados"],
+            ["300", "bebieron con la mano"],
+            ["el sueño", "el pan de cebada"],
+            ["los cántaros", "las antorchas"],
+            ["los madianitas", "como langostas"],
+            ["el grito", "«¡La espada del Señor!»"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "Pon en orden la historia de Gedeón.",
+      "niveles": {
+        "3-5": {
+          "items": ["Un ángel visita a Gedeón", "Quedan trescientos soldados", "¡Trompetas y luces!"]
+        },
+        "6-8": {
+          "items": [
+            "El ángel llama valiente a Gedeón",
+            "La lana amanece mojada",
+            "Solo quedan trescientos",
+            "Gedeón escucha el sueño del pan",
+            "Rompen los cántaros y brillan las antorchas"
+          ]
+        },
+        "9-12": {
+          "items": [
+            "El ángel encuentra a Gedeón en el lagar",
+            "La señal del vellón de lana",
+            "Veintidós mil regresan a casa",
+            "Quedan trescientos junto al agua",
+            "Gedeón oye el sueño del pan de cebada",
+            "Cántaros rotos, antorchas y trompetas"
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios usa a personas pequeñas y con miedo, y que la fuerza viene de estar con Él.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Está bien pedirle señales a Dios?",
+        "respuesta": "Gedeón dudaba y Dios fue paciente con él. Podemos contarle a Dios nuestras dudas con sinceridad. Pero lo más importante es su promesa: «Yo estaré contigo»."
+      },
+      {
+        "pregunta": "¿Hubo una guerra?",
+        "respuesta": "Sí: Israel era atacado y le robaban la comida. Pero la Biblia subraya que los trescientos no pelearon. Se quedaron en su lugar y el enemigo huyó. Fue Dios quien los liberó."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué llevaba en las manos cada soldado de Gedeón?",
+      "sentir": "Gedeón se sentía pequeño y con miedo. ¿Cuándo te sientes tú así? ¿Qué crees que Dios te diría en ese momento?",
+      "vivir": "Esta semana, ¿qué cosa difícil podemos hacer confiando en que Dios está con nosotros?"
+    },
+    "oracion": "Señor, a veces nos sentimos pequeños y con miedo. Gracias porque estás con nosotros. Danos tu valor. Amén.",
+    "gesto": "Cada mañana de esta semana, antes de salir de casa, díganse unos a otros: «¡El Señor está contigo, valiente!»."
+  },
+  "estampa": "La antorcha de Gedeón"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "genealogia-de-jesus",
+  "titulo": "Las mujeres en la genealogía de Jesús",
+  "subtitulo": "Tamar, Rahab, Rut, Betsabé y María",
+  "etiquetas": ["Del Génesis a los evangelios", "Mateo 1", "gracia", "familia"],
+  "enUnMinuto": [
+    "Mateo abre su Evangelio con la lista de los antepasados de Jesús, casi toda de hombres.",
+    "En ella nombra a cinco mujeres: Tamar, Rahab, Rut, la mujer de Urías y María.",
+    "Sus historias, algunas muy difíciles, muestran que Dios trae a Jesús por caminos de gracia."
+  ],
+  "versiculo": {
+    "texto": "Y Salmón engendró de Rachâb a Booz, y Booz engendró de Ruth a Obed: y Obed engendró a Jessé:",
+    "referencia": "Mateo 1:5"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Sus nombres",
+      "parrafos": [
+        "Tamar, Rahab, Rut, Betsabé y María. Mateo nombra a cinco mujeres en una lista casi toda de hombres (Mateo 1:3-16). A Betsabé no la llama por su nombre: dice «la que fue mujer de Urías»."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "En tiempos de Jesús, las genealogías se escribían casi siempre por los padres. Mateo sigue esa costumbre, pero la rompe cinco veces. Entre nombres de padres e hijos aparecen cinco mujeres. Ninguna tuvo una historia sencilla.",
+        "Tamar enviudó dos veces en la familia de Judá. Judá le prometió casarla con su hijo menor, pero no cumplió. Entonces ella se hizo pasar por otra mujer y quedó embarazada de Judá. Cuando todo se supo, Judá reconoció: «Más justa es que yo» (Génesis 38:26). De Tamar nació Fares, antepasado de David.",
+        "Rahab vivía en Jericó, y el texto la llama «ramera» sin rodeos. Escondió a los espías de Israel. Creía que su Dios es Dios «arriba en los cielos y abajo en la tierra» (Josué 2:11). Fue salvada con toda su familia. Mateo dice que fue madre de Booz.",
+        "Rut era moabita, de un pueblo extranjero. Viuda y pobre, eligió quedarse con su suegra Noemí y con el Dios de Israel. En Belén se casó con Booz, y fue bisabuela del rey David (Rut 4:17).",
+        "Betsabé era esposa de Urías. El rey David la mandó traer, y después hizo morir a su marido. Dios envió al profeta Natán, y David reconoció su pecado. Más tarde nació Salomón, a quien el Señor amó (2 Samuel 12:24).",
+        "Al final aparece María, «de la cual nació Jesús, el cual es llamado el Cristo» (Mateo 1:16). Aquí Mateo cambia la fórmula de toda la lista. Ya no dice que alguien engendró a Jesús: dice que nació de María. Y enseguida cuenta que el niño venía del Espíritu Santo (Mateo 1:18-20)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que tienen en común",
+      "parrafos": [
+        "Estas mujeres no son un catálogo de perfección. En sus historias hay viudez, extranjería, injusticia y pecado, propio y ajeno. Tamar luchó por su lugar en la familia. Rahab y Rut eligieron al Dios de Israel. Betsabé sufrió las consecuencias del pecado de un rey, y el profeta culpó a David (2 Samuel 12:7-9). María creyó a la palabra de Dios."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ellas",
+      "tono": "navy",
+      "texto": "Dios no escondió estas historias: las puso en la familia de su Hijo. Así muestra que Jesús vino a una humanidad real, con heridas y pecados. Las extranjeras Rahab y Rut anuncian que el Mesías es para todos los pueblos. Y la lista termina en María y en Jesús, el que «salvará a su pueblo de sus pecados» (Mateo 1:21)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si tu familia tiene historias que duelen o avergüenzan, Dios no se aleja de ella. Puede escribir gracia en medio de lo roto. Si vienes “de afuera”, Jesús tiene lugar para ti en su familia. Para los hombres: Judá y David tuvieron que reconocer su pecado, y allí empezó la restauración. Y para los jóvenes: tu pasado familiar no decide tu futuro con Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Mateo 1:1-17", "nota": "La genealogía de Jesús." },
+        { "ref": "Génesis 38", "nota": "Tamar y Judá." },
+        { "ref": "Josué 2", "nota": "Rahab y los espías." },
+        { "ref": "Rut 4:13-17", "nota": "Rut, Booz y el nacimiento de Obed." },
+        { "ref": "2 Samuel 11:1-12:25", "nota": "David, Betsabé y el profeta Natán." },
+        { "ref": "Mateo 1:18-25", "nota": "El nacimiento de Jesús, hijo de María." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, gracias porque en la familia de Jesús hay lugar para historias rotas como la mía. Sana las heridas de mi familia. Perdona mis pecados y los de los míos. Y escribe tu gracia en nuestra historia. En el nombre de Jesús, amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿conoces algo de la historia de tus abuelos o bisabuelos? ¿Qué te gustaría saber?",
+        "¿Por qué crees que Mateo incluyó a estas cinco mujeres en la genealogía de Jesús?",
+        "Dos de ellas eran extranjeras. ¿Qué nos dice esto sobre las personas que Jesús vino a buscar?",
+        "¿Cómo puede Dios traer bendición a una familia con historias difíciles?",
+        "Dinámica: dibujen juntos un árbol. En cada rama, escriban el nombre de alguien que les pasó la fe, y den gracias por esas personas.",
+        "Para cerrar: lean Mateo 1:18-21 y oren por las familias heridas."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "En la Biblia hay una lista de la familia de Jesús: sus abuelos, bisabuelos y muchos más. ¡Hay cinco mujeres! Algunas venían de otros pueblos y tuvieron vidas difíciles. Dios las amó a todas. ¿Quiénes forman tu familia?",
+      "actividad": "Dibujen un árbol familiar con sus abuelos, padres y hermanos. Para memorizar: «él salvará a su pueblo de sus pecados» (Mateo 1:21)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Nota para quien guía: estas historias incluyen engaño, prostitución y el pecado de un rey. Con niños, basta decir que eran mujeres con historias difíciles. Dios las amó y las puso en la familia de Jesús."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántas mujeres nombra Mateo en la genealogía de Jesús?",
+      "opciones": ["Tres", "Cinco", "Doce"],
+      "correcta": 1,
+      "explicacion": "Tamar, Rahab, Rut, la mujer de Urías y María (Mateo 1:3-16)."
+    },
+    {
+      "pregunta": "¿Cómo llama Mateo a Betsabé en la genealogía?",
+      "opciones": ["La que fue mujer de Urías", "La reina de Israel", "La madre de Natán"],
+      "correcta": 0,
+      "explicacion": "Mateo no usa su nombre: dice «la que fue mujer de Urías» (Mateo 1:6)."
+    },
+    {
+      "pregunta": "¿Qué mujer extranjera de la genealogía fue bisabuela del rey David?",
+      "opciones": ["Tamar", "María", "Rut"],
+      "correcta": 2,
+      "explicacion": "Rut, la moabita, fue madre de Obed, el abuelo de David (Rut 4:17)."
+    }
+  ],
+  "estudio": ["anuncios"],
+  "buscar": "Mateo 1:1-17"
+}

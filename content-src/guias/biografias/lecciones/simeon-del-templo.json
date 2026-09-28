@@ -2,7 +2,11 @@
   "id": "simeon-del-templo",
   "titulo": "Simeón",
   "subtitulo": "El anciano que tomó al niño en brazos",
-  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Templo de Jerusalén"],
+  "etiquetas": [
+    "Siglo I",
+    "Alrededor de Jesús",
+    "Templo de Jerusalén"
+  ],
   "enUnMinuto": [
     "Simeón era un hombre justo de Jerusalén que esperaba la ayuda de Dios para su pueblo.",
     "El Espíritu Santo le prometió que no moriría sin ver al Mesías.",
@@ -77,43 +81,81 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Lucas 2:22-24", "nota": "La presentación de Jesús en el templo" },
-        { "ref": "Lucas 2:25-35", "nota": "Toda su historia" },
-        { "ref": "Lucas 2:36-38", "nota": "Ana, la profetisa" },
-        { "ref": "Levítico 12:6-8", "nota": "La ofrenda de los pobres" },
-        { "ref": "Isaías 49:6", "nota": "Luz para las naciones" }
+        {
+          "ref": "Lucas 2:22-24",
+          "nota": "La presentación de Jesús en el templo"
+        },
+        {
+          "ref": "Lucas 2:25-35",
+          "nota": "Toda su historia"
+        },
+        {
+          "ref": "Lucas 2:36-38",
+          "nota": "Ana, la profetisa"
+        },
+        {
+          "ref": "Levítico 12:6-8",
+          "nota": "La ofrenda de los pobres"
+        },
+        {
+          "ref": "Isaías 49:6",
+          "nota": "Luz para las naciones"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Simeón esperó mucho tiempo para ver a Jesús. ¡Y un día lo tuvo en sus brazos! ¿Qué le dirías tú a Jesús si lo vieras?",
-      "actividad": "Para papás y abuelos: Simeón dio gracias porque vio al Salvador (Lucas 2:30). Pidan al niño que diga en voz alta una cosa por la que agradece a Jesús hoy."
+      "actividad": "Para el adulto: Simeón dio gracias porque vio al Salvador (Lucas 2:30). Pidan al niño que diga en voz alta una cosa por la que agradece a Jesús hoy."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, como Simeón, quiero esperar en ti con paciencia. Guía mis pasos por tu Espíritu. Abre mis ojos para ver a Jesús en lo sencillo. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué promesa de Dios les ha costado más esperar?",
+        "Simeón reconoció al Salvador en un bebé pobre. ¿Dónde nos cuesta reconocer a Jesús hoy?",
+        "¿Qué nos enseña que su oración se rece cada noche en tantas iglesias?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Dónde tomó Simeón al niño Jesús en brazos?",
-      "opciones": ["En Belén", "En Nazaret", "En el templo de Jerusalén"],
+      "opciones": [
+        "En Belén",
+        "En Nazaret",
+        "En el templo de Jerusalén"
+      ],
       "correcta": 2,
       "explicacion": "José y María llevaron a Jesús al templo para presentarlo a Dios (Lucas 2:27-28)."
     },
     {
       "pregunta": "¿Qué le había prometido el Espíritu Santo a Simeón?",
-      "opciones": ["Que no moriría sin ver al Cristo", "Que sería sacerdote del templo", "Que tendría un hijo profeta"],
+      "opciones": [
+        "Que no moriría sin ver al Cristo",
+        "Que sería sacerdote del templo",
+        "Que tendría un hijo profeta"
+      ],
       "correcta": 0,
       "explicacion": "El Espíritu le dijo que vería al Cristo del Señor antes de morir (Lucas 2:26)."
     },
     {
       "pregunta": "Simeón llama a Jesús «luz» de las naciones. ¿Qué profeta lo había anunciado?",
-      "opciones": ["Jonás", "Isaías", "Amós"],
+      "opciones": [
+        "Jonás",
+        "Isaías",
+        "Amós"
+      ],
       "correcta": 1,
       "explicacion": "Isaías habló del siervo de Dios como luz de las gentes (Isaías 49:6)."
     }
   ],
-  "estudio": ["nacimiento"],
+  "estudio": [
+    "nacimiento"
+  ],
   "buscar": "Lucas 2:25-35"
 }

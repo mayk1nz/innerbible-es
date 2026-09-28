@@ -1,0 +1,232 @@
+{
+  "id": "2-samuel",
+  "tipo": "libro",
+  "titulo": "2 Samuel",
+  "subtitulo": "El reinado de David",
+  "libro": "2Sam",
+  "centro": {
+    "texto": "Dios promete a David un reino eterno y lo levanta cuando cae",
+    "textoNino": "Dios hizo rey a David y lo perdonó"
+  },
+  "versiculo": {
+    "texto": "Y será afirmada tu casa y tu reino para siempre delante de tu rostro; y tu trono será estable eternalmente.",
+    "referencia": "2 Samuel 7:16"
+  },
+  "ramas": [
+    {
+      "titulo": "David llega al trono",
+      "capitulos": "1–5",
+      "color": "warm",
+      "resumen": "David llora a Saúl y a Jonatán. Primero reina sobre Judá, en Hebrón. Después todas las tribus lo reconocen, y él hace de Jerusalén su capital.",
+      "resumenNino": "David fue rey de todo el pueblo y vivió en Jerusalén.",
+      "hojas": [
+        {
+          "titulo": "El canto por Saúl y Jonatán",
+          "texto": "David no celebra la muerte de Saúl. Compone un canto triste por él y por su amigo Jonatán.",
+          "textoNino": "David lloró por su amigo Jonatán y por el rey Saúl.",
+          "referencia": "2 Samuel 1:17-27",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Rey en Hebrón",
+          "texto": "David le pregunta a Dios adónde ir. Sube a Hebrón, y los hombres de Judá lo ungen como rey.",
+          "textoNino": "David le preguntó a Dios qué hacer, y le hizo caso.",
+          "referencia": "2 Samuel 2:1-4",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Jerusalén, la ciudad de David",
+          "texto": "Todas las tribus de Israel lo reconocen como rey. David toma Jerusalén, y Dios está con él.",
+          "textoNino": "David hizo de Jerusalén la ciudad del rey.",
+          "referencia": "2 Samuel 5:1-10",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El arca y la promesa",
+      "capitulos": "6–7",
+      "color": "amber",
+      "resumen": "David lleva el arca a Jerusalén con música y alegría. Quiere construir una casa para Dios, pero Dios le promete algo mayor: una familia real para siempre.",
+      "resumenNino": "Dios le prometió a David que su familia reinaría para siempre.",
+      "hojas": [
+        {
+          "titulo": "David danza de alegría",
+          "texto": "El arca del pacto entra en Jerusalén con gritos de júbilo y trompetas. David danza con todas sus fuerzas delante del Señor.",
+          "textoNino": "David bailó de alegría delante de Dios.",
+          "referencia": "2 Samuel 6:12-15",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una casa para siempre",
+          "texto": "Por medio del profeta Natán, Dios promete a David un hijo que reinará. Su casa y su reino serán firmes para siempre.",
+          "textoNino": "Dios prometió que un hijo de David sería rey para siempre.",
+          "referencia": "2 Samuel 7:11-16",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "¿Quién soy yo?",
+          "texto": "David se sienta delante del Señor, asombrado. Da gracias porque todo es regalo de Dios, no mérito suyo.",
+          "textoNino": "David le dio gracias a Dios por tanto amor.",
+          "referencia": "2 Samuel 7:18-29",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Un rey justo y bondadoso",
+      "capitulos": "8–10",
+      "color": "olive",
+      "resumen": "Dios da victorias a David, y él gobierna con justicia. Busca a alguien de la familia de Saúl para mostrarle bondad por amor a Jonatán.",
+      "resumenNino": "David fue bueno con el hijo de su amigo Jonatán.",
+      "hojas": [
+        {
+          "titulo": "Justicia para todos",
+          "texto": "David reina sobre todo Israel y hace derecho y justicia a todo su pueblo.",
+          "textoNino": "David trataba a su pueblo con justicia.",
+          "referencia": "2 Samuel 8:15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Mefiboset en la mesa",
+          "texto": "Mefiboset, hijo de Jonatán, no puede caminar. David le devuelve las tierras de su familia y lo sienta siempre a la mesa del rey.",
+          "textoNino": "David invitó a Mefiboset a comer siempre en su mesa.",
+          "referencia": "2 Samuel 9",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "El pecado y el perdón",
+      "capitulos": "11–12",
+      "color": "rose",
+      "resumen": "David toma a Betsabé, la esposa de Urías, y luego provoca la muerte de Urías. Dios envía a Natán. David reconoce su pecado y recibe perdón.",
+      "resumenNino": "David hizo algo muy malo. Se arrepintió, y Dios lo perdonó.",
+      "hojas": [
+        {
+          "titulo": "David cae",
+          "texto": "El rey se queda en casa mientras su ejército está en la guerra. Toma a Betsabé y trata de ocultarlo. Esto desagrada a Dios.",
+          "textoNino": "David hizo algo malo y quiso esconderlo.",
+          "referencia": "2 Samuel 11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "«Tú eres aquel hombre»",
+          "texto": "Natán le cuenta la historia de un rico que roba la única oveja de un pobre. David se indigna. Natán le dice: «Tú eres aquel hombre».",
+          "textoNino": "El profeta Natán le contó un cuento para que viera su error.",
+          "referencia": "2 Samuel 12:1-7",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Pequé contra el Señor",
+          "texto": "David no se justifica: «Pequé contra Jehová». Natán le anuncia el perdón de Dios. El Salmo 51 recuerda esta oración.",
+          "textoNino": "David pidió perdón, y Dios lo perdonó.",
+          "referencia": "2 Samuel 12:13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Nace Salomón",
+          "texto": "Dios consuela a David y a Betsabé con otro hijo, Salomón. Dios lo ama y le da un nombre especial: Jedidías.",
+          "textoNino": "Dios les dio un hijo llamado Salomón.",
+          "referencia": "2 Samuel 12:24-25",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Dolor en la familia",
+      "capitulos": "13–20",
+      "color": "dawn",
+      "resumen": "El pecado deja heridas en la familia de David. Su hijo Absalón se rebela y David huye de Jerusalén. Absalón muere, y David lo llora amargamente.",
+      "resumenNino": "Absalón, hijo de David, se rebeló. David sufrió mucho.",
+      "hojas": [
+        {
+          "titulo": "Absalón se rebela",
+          "texto": "Absalón se gana el corazón del pueblo con palabras bonitas. Luego se proclama rey en Hebrón, y David tiene que huir.",
+          "textoNino": "Absalón quiso quitarle el trono a su papá.",
+          "referencia": "2 Samuel 15:1-14",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Llorando por el monte",
+          "texto": "David sube el monte de los Olivos llorando, descalzo y con la cabeza cubierta. Aun así, se pone en manos de Dios.",
+          "textoNino": "David se fue llorando, pero confiaba en Dios.",
+          "referencia": "2 Samuel 15:25-30",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "¡Hijo mío, Absalón!",
+          "texto": "Cuando le dan la noticia de la muerte de Absalón, David llora por su hijo. Su amor de padre sigue vivo.",
+          "textoNino": "David lloró mucho por su hijo.",
+          "referencia": "2 Samuel 18:33",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Las últimas palabras de David",
+      "capitulos": "21–24",
+      "color": "dusk",
+      "resumen": "Al final de su vida, David canta a Dios, su roca y su libertador. Recuerda el pacto eterno. Compra una era y levanta allí un altar al Señor.",
+      "resumenNino": "David terminó su vida cantando a Dios, su roca.",
+      "hojas": [
+        {
+          "titulo": "El Señor es mi roca",
+          "texto": "David canta a Dios, que lo libró de todos sus enemigos: «Jehová es mi roca, y mi fortaleza, y mi libertador».",
+          "textoNino": "David cantó que Dios es fuerte como una roca.",
+          "referencia": "2 Samuel 22:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un pacto que no se rompe",
+          "texto": "En sus últimas palabras, David recuerda que Dios hizo con él un pacto eterno y bien ordenado.",
+          "textoNino": "David sabía que Dios cumple lo que promete.",
+          "referencia": "2 Samuel 23:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La era de Arauna",
+          "texto": "David compra la era de Arauna para hacer un altar. No quiere ofrecer a Dios algo que no le cueste nada.",
+          "textoNino": "David le dio a Dios lo mejor, aunque le costara.",
+          "referencia": "2 Samuel 24:18-25",
+          "tipo": "lugar"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Dios promete a David un hijo cuyo reino no tendrá fin. El Nuevo Testamento ve esa promesa cumplida en Jesús, el Hijo de David. El ángel anuncia a María que Jesús recibirá «el trono de David su padre».",
+    "referencias": ["Lucas 1:32-33", "Mateo 1:1", "Hechos 2:30"]
+  },
+  "paraTuVida": [
+    "Si fallaste, no te escondas: di con sencillez «Pequé» y recibe el perdón de Dios.",
+    "Sé bondadoso esta semana con alguien que no puede devolverte el favor, como David con Mefiboset.",
+    "Da gracias a Dios por tres regalos que no ganaste por tus méritos."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué ciudad hizo David su capital?",
+      "opciones": ["Hebrón", "Jerusalén", "Belén"],
+      "correcta": 1,
+      "explicacion": "David reinó primero en Hebrón. Después tomó Jerusalén y la hizo su ciudad (2 Samuel 5:1-10)."
+    },
+    {
+      "pregunta": "¿Qué profeta ayudó a David a reconocer su pecado?",
+      "opciones": ["Natán", "Samuel", "Elías"],
+      "correcta": 0,
+      "explicacion": "Natán le contó la historia de la oveja del pobre y le dijo: «Tú eres aquel hombre» (2 Samuel 12:1-7)."
+    },
+    {
+      "pregunta": "¿Qué promesa hecha a David se cumple en Jesús?",
+      "opciones": ["Que construiría un templo", "Que viviría cien años", "Que su reino no tendría fin"],
+      "correcta": 2,
+      "explicacion": "Dios prometió a David un reino eterno (2 Samuel 7:16). El ángel dice que el reino de Jesús no tendrá fin (Lucas 1:33)."
+    }
+  ],
+  "estudio": ["2-samuel"],
+  "conexiones": [
+    { "id": "1-reyes", "motivo": "Salomón, el hijo de David, hereda el trono." },
+    { "id": "1-cronicas", "motivo": "Crónicas vuelve a contar el reinado de David." },
+    { "id": "salmos", "motivo": "En el Salmo 51, David pide perdón a Dios." }
+  ]
+}

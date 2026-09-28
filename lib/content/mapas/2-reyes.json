@@ -1,0 +1,240 @@
+{
+  "id": "2-reyes",
+  "tipo": "libro",
+  "titulo": "2 Reyes",
+  "subtitulo": "De Eliseo al exilio en Babilonia",
+  "libro": "2Kgs",
+  "centro": {
+    "texto": "Dios llama una y otra vez a volver; al final, los dos reinos caen",
+    "textoNino": "Dios avisó muchas veces a su pueblo con amor"
+  },
+  "versiculo": {
+    "texto": "Y él le dijo: No hayas miedo: porque más son los que están con nosotros que los que están con ellos.",
+    "referencia": "2 Reyes 6:16"
+  },
+  "ramas": [
+    {
+      "titulo": "Eliseo recibe el manto",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Elías sube al cielo en un torbellino. Su ayudante Eliseo recoge su manto y sigue su misión. Dios no deja a su pueblo sin profeta.",
+      "resumenNino": "Elías subió al cielo, y Eliseo siguió su trabajo.",
+      "hojas": [
+        {
+          "titulo": "Un carro de fuego",
+          "texto": "Eliseo no quiere separarse de Elías y le pide una doble porción de su espíritu. Un carro de fuego los separa, y Elías sube en un torbellino.",
+          "textoNino": "Elías subió al cielo en un torbellino.",
+          "referencia": "2 Reyes 2:1-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "¿Dónde está el Dios de Elías?",
+          "texto": "Eliseo toma el manto de Elías y golpea las aguas del Jordán. Las aguas se abren: Dios está también con él.",
+          "textoNino": "Eliseo tomó el manto de Elías, y Dios estuvo con él.",
+          "referencia": "2 Reyes 2:12-14",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Los milagros de Eliseo",
+      "capitulos": "3–8",
+      "color": "amber",
+      "resumen": "Eliseo ayuda a gente sencilla y también a extranjeros. Una viuda, una mujer de Sunem y un general sirio conocen el poder y la bondad de Dios.",
+      "resumenNino": "Dios hizo muchos milagros por medio de Eliseo.",
+      "hojas": [
+        {
+          "titulo": "El aceite de la viuda",
+          "texto": "Una viuda va a perder a sus hijos por una deuda. Solo tiene un poco de aceite. Dios lo multiplica hasta llenar todas las vasijas.",
+          "textoNino": "El aceite de la viuda llenó muchas vasijas.",
+          "referencia": "2 Reyes 4:1-7",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El hijo de la sunamita",
+          "texto": "Una mujer de Sunem prepara un cuarto para Eliseo. Dios le da un hijo. Cuando el niño muere, Eliseo ora y Dios le devuelve la vida.",
+          "textoNino": "Eliseo oró, y el niño volvió a vivir.",
+          "referencia": "2 Reyes 4:8-37",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Naamán en el Jordán",
+          "texto": "Naamán, general de Siria, está enfermo de lepra. Una niña israelita le habla de Eliseo. Se baña siete veces en el Jordán y queda sano.",
+          "textoNino": "Naamán se bañó siete veces en el río y quedó sano.",
+          "referencia": "2 Reyes 5:1-14",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El monte lleno de fuego",
+          "texto": "Un ejército rodea la ciudad y el criado de Eliseo tiene miedo. Eliseo ora, y el criado ve el monte lleno de caballos y carros de fuego.",
+          "textoNino": "Dios mostró que su ejército del cielo cuidaba a Eliseo.",
+          "referencia": "2 Reyes 6:15-17",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Reyes del norte y sur",
+      "capitulos": "9–14",
+      "color": "olive",
+      "resumen": "En el norte, Jehú acaba con el culto a Baal, pero no vuelve del todo a Dios. En el sur, un niño escondido en el templo llega a ser rey.",
+      "resumenNino": "Un niño de siete años llegó a ser rey de Judá.",
+      "hojas": [
+        {
+          "titulo": "Jehú, rey de Israel (norte)",
+          "texto": "Eliseo envía a ungir a Jehú. Jehú acaba con el culto a Baal en el norte, pero no sigue a Dios de todo corazón.",
+          "textoNino": "Jehú quitó a Baal, pero no amó a Dios del todo.",
+          "referencia": "2 Reyes 10:28-31",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Joás, rey de Judá (sur)",
+          "texto": "De bebé, Joás se salva escondido seis años en el templo. Empieza a reinar a los siete años y manda reparar la casa de Dios.",
+          "textoNino": "Joás se escondió en el templo y luego lo arregló.",
+          "referencia": "2 Reyes 11:1–12:15",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Jeroboam II, rey de Israel (norte)",
+          "texto": "El norte recupera sus fronteras, como Dios había dicho por medio del profeta Jonás. Es el mismo Jonás que irá a Nínive.",
+          "textoNino": "Dios habló por el profeta Jonás.",
+          "referencia": "2 Reyes 14:23-25",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Cae Samaria, el norte",
+      "capitulos": "15–17",
+      "color": "rose",
+      "resumen": "Los reyes del norte se suceden entre golpes y traiciones. Asiria conquista Samaria y se lleva al pueblo. El libro explica por qué: dejaron a Dios.",
+      "resumenNino": "El reino del norte se alejó de Dios y fue llevado lejos.",
+      "hojas": [
+        {
+          "titulo": "Oseas, último rey de Israel (norte)",
+          "texto": "En el noveno año de Oseas, el rey de Asiria toma Samaria. Lleva a los israelitas del norte a vivir en tierras lejanas.",
+          "textoNino": "Un rey enemigo se llevó al pueblo del norte.",
+          "referencia": "2 Reyes 17:1-6",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Dios avisó muchas veces",
+          "texto": "Por medio de sus profetas, Dios les decía: «Volveos de vuestros malos caminos». No escucharon, y siguieron a otros dioses.",
+          "textoNino": "Dios les pidió muchas veces que volvieran, pero no quisieron.",
+          "referencia": "2 Reyes 17:7-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Ezequías confía, Manasés se aleja",
+      "capitulos": "18–21",
+      "color": "dawn",
+      "resumen": "Ezequías pone su esperanza en Dios, y Dios libra a Jerusalén del ejército asirio. Pero su hijo Manasés hace más mal que nadie.",
+      "resumenNino": "Ezequías oró, y Dios salvó la ciudad.",
+      "hojas": [
+        {
+          "titulo": "Ezequías, rey de Judá (sur)",
+          "texto": "Ezequías quita los ídolos y pone su esperanza en el Señor. Ningún otro rey de Judá confía como él.",
+          "textoNino": "Ezequías confió en Dios de todo corazón.",
+          "referencia": "2 Reyes 18:1-7",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Una carta ante Dios",
+          "texto": "Senaquerib, rey de Asiria, envía una carta amenazante. Ezequías la extiende delante del Señor y ora. Dios responde por el profeta Isaías.",
+          "textoNino": "Ezequías le mostró a Dios la carta y oró.",
+          "referencia": "2 Reyes 19:14-20",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Quince años más",
+          "texto": "Ezequías cae enfermo de muerte y ora llorando. Dios ve sus lágrimas y le añade quince años de vida.",
+          "textoNino": "Ezequías estaba enfermo, oró, y Dios lo sanó.",
+          "referencia": "2 Reyes 20:1-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Manasés, rey de Judá (sur)",
+          "texto": "Manasés reina cincuenta y cinco años y llena el país de ídolos, incluso dentro del templo. El pueblo no escucha a Dios.",
+          "textoNino": "Manasés puso ídolos en el templo de Dios.",
+          "referencia": "2 Reyes 21:1-9",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Josías y el exilio",
+      "capitulos": "22–25",
+      "color": "dusk",
+      "resumen": "Josías encuentra el libro de la Ley y vuelve a Dios de todo corazón. Aun así, Babilonia destruye Jerusalén. Al final, una luz: el rey Joaquín es liberado.",
+      "resumenNino": "Josías amó la Palabra de Dios. Luego el pueblo fue llevado a Babilonia.",
+      "hojas": [
+        {
+          "titulo": "Josías, rey de Judá (sur)",
+          "texto": "Josías empieza a reinar con ocho años. Al reparar el templo, encuentran el libro de la Ley. Al oírlo, el rey rompe sus vestidos.",
+          "textoNino": "Josías encontró el libro de Dios y lo escuchó.",
+          "referencia": "2 Reyes 22:1-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un pacto y una Pascua",
+          "texto": "Josías lee el libro a todo el pueblo y renueva el pacto con Dios. Celebran la Pascua como no se hacía desde hacía siglos.",
+          "textoNino": "El pueblo prometió seguir a Dios e hizo una gran fiesta.",
+          "referencia": "2 Reyes 23:1-23",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cae Jerusalén",
+          "texto": "El ejército de Nabucodonosor quema el templo y derriba los muros. Gran parte del pueblo va cautivo a Babilonia.",
+          "textoNino": "El pueblo de Judá tuvo que irse lejos, a Babilonia.",
+          "referencia": "2 Reyes 25:8-12",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Joaquín, rey de Judá (sur)",
+          "texto": "Tras treinta y siete años preso, Joaquín sale de la cárcel y come a la mesa del rey de Babilonia. La familia de David sigue viva.",
+          "textoNino": "Al final, el rey Joaquín salió de la cárcel.",
+          "referencia": "2 Reyes 25:27-30",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús recuerda a Naamán: Dios sanó a un extranjero. Juan el Bautista viene con el espíritu de Elías para preparar el camino. Y la familia de David, que sobrevive en Babilonia, llega hasta Jesús.",
+    "referencias": ["Lucas 4:27", "Lucas 1:17", "Mateo 1:11-12"]
+  },
+  "paraTuVida": [
+    "Cuando tengas miedo, pide como Eliseo que Dios abra tus ojos para ver que está contigo.",
+    "Pon tu preocupación delante de Dios, como Ezequías con su carta.",
+    "Lee hoy un capítulo de la Biblia y deja que te cambie, como a Josías."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántas veces se bañó Naamán en el río Jordán?",
+      "opciones": ["Tres veces", "Siete veces", "Una vez"],
+      "correcta": 1,
+      "explicacion": "Naamán obedeció la palabra de Eliseo y se bañó siete veces. Quedó sano (2 Reyes 5:14)."
+    },
+    {
+      "pregunta": "¿Qué encontraron en el templo en tiempos del rey Josías?",
+      "opciones": ["El libro de la Ley", "El arca perdida", "Un tesoro de oro"],
+      "correcta": 0,
+      "explicacion": "El sumo sacerdote Hilcías encontró el libro de la Ley al reparar el templo (2 Reyes 22:8)."
+    },
+    {
+      "pregunta": "¿Qué extranjero sanado por Eliseo recordó Jesús en Nazaret?",
+      "opciones": ["Nabucodonosor", "La reina de Sabá", "Naamán el sirio"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo que en tiempos de Eliseo solo Naamán el sirio fue limpiado (Lucas 4:27)."
+    }
+  ],
+  "estudio": ["2-reyes-1-14", "2-reyes-15-17", "2-reyes-18-21", "2-reyes-22-23", "2-reyes-24-25"],
+  "conexiones": [
+    { "id": "2-cronicas", "motivo": "Crónicas cuenta los mismos reyes de Judá con otros detalles." },
+    { "id": "isaias", "motivo": "Isaías acompaña al rey Ezequías en sus crisis." },
+    { "id": "jeremias", "motivo": "Jeremías vive la caída de Jerusalén." },
+    { "id": "jonas", "motivo": "El profeta Jonás aparece en tiempos de Jeroboam II." }
+  ]
+}

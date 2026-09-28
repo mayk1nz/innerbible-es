@@ -2,7 +2,11 @@
   "id": "cornelio",
   "titulo": "Cornelio",
   "subtitulo": "El centurión romano que abrió la puerta",
-  "etiquetas": ["Siglo I", "La Iglesia naciente", "Cesarea"],
+  "etiquetas": [
+    "Siglo I",
+    "La Iglesia naciente",
+    "Cesarea"
+  ],
   "enUnMinuto": [
     "Cornelio era un oficial del ejército romano que amaba a Dios, oraba y ayudaba a los pobres.",
     "Dios le mandó llamar a Pedro, y a Pedro le enseñó que no debía llamar impuro a nadie.",
@@ -78,44 +82,85 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Hechos 10:1-8", "nota": "La visión de Cornelio" },
-        { "ref": "Hechos 10:9-23", "nota": "La visión de Pedro" },
-        { "ref": "Hechos 10:24-48", "nota": "Pedro en casa de Cornelio" },
-        { "ref": "Hechos 11:1-18", "nota": "Pedro lo cuenta en Jerusalén" },
-        { "ref": "Hechos 15:7-9", "nota": "Pedro lo recuerda en la reunión" },
-        { "ref": "Hechos 1:8", "nota": "Hasta lo último de la tierra" }
+        {
+          "ref": "Hechos 10:1-8",
+          "nota": "La visión de Cornelio"
+        },
+        {
+          "ref": "Hechos 10:9-23",
+          "nota": "La visión de Pedro"
+        },
+        {
+          "ref": "Hechos 10:24-48",
+          "nota": "Pedro en casa de Cornelio"
+        },
+        {
+          "ref": "Hechos 11:1-18",
+          "nota": "Pedro lo cuenta en Jerusalén"
+        },
+        {
+          "ref": "Hechos 15:7-9",
+          "nota": "Pedro lo recuerda en la reunión"
+        },
+        {
+          "ref": "Hechos 1:8",
+          "nota": "Hasta lo último de la tierra"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Cornelio era un soldado romano que amaba a Dios. Dios le mostró que Jesús es para todos. ¿Hay algún niño diferente a ti con quien puedas jugar esta semana?",
-      "actividad": "Para papás y abuelos: Dios no hace diferencias entre personas (Hechos 10:34). Dibujen juntos niños de muchos países alrededor de Jesús."
+      "actividad": "Para el adulto: Dios no hace diferencias entre personas (Hechos 10:34). Dibujen juntos niños de muchos países alrededor de Jesús."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, gracias porque tu amor es para todas las naciones. Oye mis oraciones como oíste las de Cornelio. Quita de mi corazón toda barrera contra otros. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué barreras invisibles existen hoy entre grupos de personas en nuestra iglesia o ciudad?",
+        "Pedro tuvo que cambiar su forma de pensar. ¿Qué nos cuesta cambiar a nosotros?",
+        "¿Qué nos enseña Cornelio sobre buscar a Dios con sinceridad?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué trabajo tenía Cornelio?",
-      "opciones": ["Pescador en Jope", "Centurión del ejército romano", "Sacerdote del templo"],
+      "opciones": [
+        "Pescador en Jope",
+        "Centurión del ejército romano",
+        "Sacerdote del templo"
+      ],
       "correcta": 1,
       "explicacion": "Era centurión de la compañía llamada la Italiana, en Cesarea (Hechos 10:1)."
     },
     {
       "pregunta": "¿Qué le dijo la voz a Pedro en su visión?",
-      "opciones": ["Lo que Dios limpió, no lo llames común", "Vuelve a Jerusalén", "Escribe una carta a Cornelio"],
+      "opciones": [
+        "Lo que Dios limpió, no lo llames común",
+        "Vuelve a Jerusalén",
+        "Escribe una carta a Cornelio"
+      ],
       "correcta": 0,
       "explicacion": "Dios le enseñó a no llamar impuro a nadie (Hechos 10:15, 28)."
     },
     {
       "pregunta": "¿Qué mandó Jesús que llegó a cumplirse en casa de Cornelio?",
-      "opciones": ["Que los discípulos ayunaran", "Que construyeran un templo", "Ser testigos hasta lo último de la tierra"],
+      "opciones": [
+        "Que los discípulos ayunaran",
+        "Que construyeran un templo",
+        "Ser testigos hasta lo último de la tierra"
+      ],
       "correcta": 2,
       "explicacion": "Jesús mandó ser sus testigos en todo el mundo (Hechos 1:8), también entre los no judíos."
     }
   ],
-  "estudio": ["hechos-8-12"],
+  "estudio": [
+    "hechos-8-12"
+  ],
   "buscar": "Cornelio"
 }

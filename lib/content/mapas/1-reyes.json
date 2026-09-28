@@ -1,0 +1,239 @@
+{
+  "id": "1-reyes",
+  "tipo": "libro",
+  "titulo": "1 Reyes",
+  "subtitulo": "Un templo, un reino dividido y Elías",
+  "libro": "1Kgs",
+  "centro": {
+    "texto": "Cuando el rey se aparta de Dios, el reino se rompe; Dios sigue hablando",
+    "textoNino": "Dios cuida a su pueblo aunque sus reyes fallen"
+  },
+  "versiculo": {
+    "texto": "Y viéndolo todo el pueblo, cayeron sobre sus rostros, y dijeron: ¡Jehová es el Dios! ¡Jehová es el Dios!",
+    "referencia": "1 Reyes 18:39"
+  },
+  "ramas": [
+    {
+      "titulo": "Salomón pide sabiduría",
+      "capitulos": "1–4",
+      "color": "warm",
+      "resumen": "David deja el trono a su hijo Salomón. Dios le dice a Salomón que pida lo que quiera. Él pide un corazón sabio para guiar al pueblo.",
+      "resumenNino": "Salomón le pidió a Dios sabiduría, y Dios se la dio.",
+      "hojas": [
+        {
+          "titulo": "Salomón, rey de todo Israel",
+          "texto": "Antes de morir, David hace ungir a Salomón como rey del reino todavía unido. El pueblo lo celebra con flautas y gran alegría.",
+          "textoNino": "David eligió a su hijo Salomón para ser el nuevo rey.",
+          "referencia": "1 Reyes 1:28-40",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Pide lo que quieras",
+          "texto": "En Gabaón, Dios se le aparece en sueños. Salomón no pide riquezas ni una vida larga, sino un corazón que sepa escuchar y juzgar bien.",
+          "textoNino": "Salomón no pidió dinero. Pidió saber hacer el bien.",
+          "referencia": "1 Reyes 3:5-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Las dos madres",
+          "texto": "Dos mujeres dicen ser la madre del mismo bebé. Salomón descubre a la verdadera madre por su amor: prefiere perder al niño antes que verlo sufrir.",
+          "textoNino": "Salomón supo quién era la mamá de verdad por su amor.",
+          "referencia": "1 Reyes 3:16-28",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Una casa para Dios",
+      "capitulos": "5–8",
+      "color": "amber",
+      "resumen": "Salomón construye el templo en Jerusalén durante siete años. El día de la dedicación, una nube llena la casa. Salomón ora por su pueblo.",
+      "resumenNino": "Salomón construyó un templo hermoso para adorar a Dios.",
+      "hojas": [
+        {
+          "titulo": "Siete años de obra",
+          "texto": "Con cedros del Líbano, piedra y oro, Salomón edifica la casa del Señor. La obra dura siete años.",
+          "textoNino": "Trabajaron siete años para hacer el templo.",
+          "referencia": "1 Reyes 6",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "La nube llena el templo",
+          "texto": "Los sacerdotes colocan el arca en su lugar. Entonces una nube llena la casa: la gloria del Señor está allí.",
+          "textoNino": "Una nube llenó el templo: Dios estaba allí.",
+          "referencia": "1 Reyes 8:10-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La oración de Salomón",
+          "texto": "Salomón extiende las manos al cielo. Sabe que ni los cielos pueden contener a Dios. Le pide que escuche siempre a quien ore hacia esa casa.",
+          "textoNino": "Salomón pidió a Dios que escuchara siempre a su pueblo.",
+          "referencia": "1 Reyes 8:22-30",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Gloria y caída de Salomón",
+      "capitulos": "9–11",
+      "color": "olive",
+      "resumen": "La fama de Salomón llega lejos. Pero en su vejez, sus muchas esposas extranjeras lo llevan a otros dioses. Dios anuncia que el reino se dividirá.",
+      "resumenNino": "Salomón era famoso, pero se alejó de Dios.",
+      "hojas": [
+        {
+          "titulo": "La reina de Sabá",
+          "texto": "Una reina viene de lejos a probar a Salomón con preguntas. Queda asombrada de su sabiduría y alaba al Dios de Israel.",
+          "textoNino": "Una reina vino de muy lejos para oír a Salomón.",
+          "referencia": "1 Reyes 10:1-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un corazón dividido",
+          "texto": "Ya anciano, Salomón deja que otros dioses le roben el corazón. Por amor a David, Dios no le quita todo el reino a su familia.",
+          "textoNino": "Salomón dejó de amar a Dios con todo su corazón.",
+          "referencia": "1 Reyes 11:1-13",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Dos reinos, norte y sur",
+      "capitulos": "12–16",
+      "color": "rose",
+      "resumen": "El reino se parte en dos. Al norte queda Israel, con diez tribus; al sur, Judá, con Jerusalén. Los reyes del norte cambian una y otra vez.",
+      "resumenNino": "El pueblo se dividió en dos reinos: Israel y Judá.",
+      "hojas": [
+        {
+          "titulo": "Roboam, rey de Judá (sur)",
+          "texto": "El hijo de Salomón no escucha a los ancianos y habla con dureza al pueblo. Las tribus del norte se separan. Solo Judá sigue a Roboam.",
+          "textoNino": "Roboam habló con dureza, y muchos se fueron.",
+          "referencia": "1 Reyes 12:1-20",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Jeroboam, rey de Israel (norte)",
+          "texto": "Para que su pueblo no suba a Jerusalén, Jeroboam hace dos becerros de oro en Betel y Dan. Así lleva al norte lejos de Dios.",
+          "textoNino": "Jeroboam hizo becerros de oro para que la gente los adorara.",
+          "referencia": "1 Reyes 12:25-33",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Asa, rey de Judá (sur)",
+          "texto": "Asa hace lo recto ante Dios, como su antepasado David. Quita los ídolos del país y sigue al Señor toda su vida.",
+          "textoNino": "Asa quitó los ídolos y siguió a Dios.",
+          "referencia": "1 Reyes 15:9-15",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Omri, rey de Israel (norte)",
+          "texto": "Omri compra un monte y construye allí Samaria. Esa ciudad será la capital del reino del norte.",
+          "textoNino": "Omri construyó la ciudad de Samaria.",
+          "referencia": "1 Reyes 16:23-24",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "Elías frente a Acab",
+      "capitulos": "17–19",
+      "color": "dawn",
+      "resumen": "Acab, rey de Israel (norte), sirve a Baal con su esposa Jezabel. Dios envía al profeta Elías. En el monte Carmelo, Dios muestra quién es el verdadero Dios.",
+      "resumenNino": "Elías mostró a todos que el Señor es el Dios verdadero.",
+      "hojas": [
+        {
+          "titulo": "Harina y aceite sin fin",
+          "texto": "Durante la sequía, Dios alimenta a Elías junto a un arroyo. Luego una viuda de Sarepta comparte su último pan, y su harina y su aceite no se acaban.",
+          "textoNino": "Dios dio comida a Elías y a una viuda pobre.",
+          "referencia": "1 Reyes 17:1-16",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Fuego en el Carmelo",
+          "texto": "Elías reta a los profetas de Baal. Ellos gritan todo el día y nadie responde. Elías ora, y el fuego de Dios cae sobre el altar.",
+          "textoNino": "Elías oró, y Dios mandó fuego del cielo.",
+          "referencia": "1 Reyes 18:20-39",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Un silbo apacible",
+          "texto": "Elías huye cansado y con miedo. Dios le da comida y descanso. En el monte Horeb le habla, no en el fuego, sino en un silbo suave.",
+          "textoNino": "Elías estaba triste, y Dios le habló con voz suave.",
+          "referencia": "1 Reyes 19:1-18",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Los últimos días de Acab",
+      "capitulos": "20–22",
+      "color": "dusk",
+      "resumen": "Acab y Jezabel roban la viña de Nabot, y Elías los confronta. Un profeta valiente dice la verdad aunque moleste. Acab muere en batalla.",
+      "resumenNino": "Dios defendió a Nabot, un hombre pobre y justo.",
+      "hojas": [
+        {
+          "titulo": "La viña de Nabot",
+          "texto": "Acab, rey de Israel (norte), quiere la viña de Nabot. Jezabel trama una acusación falsa y se la quitan. Dios envía a Elías a denunciar el abuso.",
+          "textoNino": "El rey le quitó su huerto a Nabot, y Dios no lo aprobó.",
+          "referencia": "1 Reyes 21:1-19",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Acab se humilla",
+          "texto": "Al oír el mensaje, Acab se viste de luto y ayuna. Dios ve que se humilla y retrasa el castigo.",
+          "textoNino": "Acab se arrepintió un poco, y Dios tuvo compasión.",
+          "referencia": "1 Reyes 21:27-29",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Micaías dice la verdad",
+          "texto": "Cuatrocientos profetas le dicen a Acab lo que quiere oír. Solo Micaías anuncia lo que Dios dice, aunque lo envían a la cárcel.",
+          "textoNino": "Micaías dijo la verdad, aunque al rey no le gustó.",
+          "referencia": "1 Reyes 22:1-28",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Josafat, rey de Judá (sur)",
+          "texto": "Mientras tanto, en el sur, Josafat sigue el camino de su padre Asa. Hace lo recto ante el Señor.",
+          "textoNino": "Josafat, rey de Judá, hizo lo bueno ante Dios.",
+          "referencia": "1 Reyes 22:41-43",
+          "tipo": "persona"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Salomón fue sabio, pero Jesús dice que en él hay «más que Salomón». El templo era el lugar de la presencia de Dios; Jesús llama templo a su propio cuerpo. Y recuerda a la viuda de Sarepta: Dios ama también a los de fuera.",
+    "referencias": ["Mateo 12:42", "Juan 2:19-21", "Lucas 4:25-26"]
+  },
+  "paraTuVida": [
+    "Pide hoy a Dios sabiduría para una decisión concreta, como Salomón.",
+    "Cuando estés agotado, come, descansa y escucha: Dios también habla en voz suave.",
+    "Di la verdad con amor, aunque no sea lo que otros quieren oír."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué le pidió Salomón a Dios?",
+      "opciones": ["Muchas riquezas", "Un corazón sabio", "Vencer a sus enemigos"],
+      "correcta": 1,
+      "explicacion": "Salomón pidió un corazón que supiera escuchar y juzgar bien a su pueblo (1 Reyes 3:9)."
+    },
+    {
+      "pregunta": "Después de Salomón, ¿cómo se llamaba el reino del sur?",
+      "opciones": ["Judá", "Samaria", "Israel"],
+      "correcta": 0,
+      "explicacion": "El norte se llamó Israel; el sur, con Jerusalén, se llamó Judá (1 Reyes 12:16-20)."
+    },
+    {
+      "pregunta": "¿A qué viuda recordó Jesús cuando habló de Elías en Nazaret?",
+      "opciones": ["A la viuda de Naín", "A Rut", "A la viuda de Sarepta"],
+      "correcta": 2,
+      "explicacion": "Jesús recordó que Elías fue enviado a una viuda de Sarepta, fuera de Israel (Lucas 4:25-26)."
+    }
+  ],
+  "estudio": ["salomon", "1-reyes-12-22"],
+  "conexiones": [
+    { "id": "2-reyes", "motivo": "Eliseo recibe el manto de Elías y la historia sigue." },
+    { "id": "2-cronicas", "motivo": "Crónicas cuenta otra vez a Salomón y a los reyes de Judá." },
+    { "id": "proverbios", "motivo": "Muchos proverbios llevan el nombre de Salomón." }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "genesis",
+  "tipo": "libro",
+  "titulo": "Génesis",
+  "subtitulo": "El libro de los comienzos",
+  "libro": "Gen",
+  "centro": {
+    "texto": "Dios crea todo bueno y no abandona a quienes se alejan de él.",
+    "textoNino": "Dios hizo todo con amor y siempre nos busca."
+  },
+  "versiculo": {
+    "texto": "Y bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra.",
+    "referencia": "Génesis 12:3"
+  },
+  "ramas": [
+    {
+      "titulo": "Dios crea el mundo",
+      "capitulos": "1–2",
+      "color": "warm",
+      "resumen": "Con su palabra, Dios ordena el universo y lo llena de vida. Forma al hombre y a la mujer a su imagen y les confía la tierra.",
+      "resumenNino": "Dios hizo la luz, el mar, los animales y las personas.",
+      "hojas": [
+        {
+          "titulo": "Seis días y un descanso",
+          "texto": "Día tras día, Dios separa la luz de las tinieblas y llena la tierra de vida. Todo es «bueno en gran manera». El séptimo día descansa.",
+          "textoNino": "Dios hizo todo en seis días. El séptimo descansó.",
+          "referencia": "Génesis 1:1–2:3",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Hechos a su imagen",
+          "texto": "Dios crea al ser humano, varón y mujer, a su imagen. Lo bendice y le encarga cuidar la tierra.",
+          "textoNino": "Dios nos hizo parecidos a él para ser sus amigos.",
+          "referencia": "Génesis 1:26-28",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El huerto del Edén",
+          "texto": "Dios planta un huerto y pone allí al hombre para que lo cuide. Le da una compañera, Eva, y viven en paz.",
+          "textoNino": "Adán y Eva vivían en un jardín precioso con Dios.",
+          "referencia": "Génesis 2:8-25",
+          "tipo": "lugar"
+        }
+      ]
+    },
+    {
+      "titulo": "El pecado entra",
+      "capitulos": "3–5",
+      "color": "rose",
+      "resumen": "Adán y Eva desconfían de Dios y desobedecen. La amistad con Dios se rompe y el mal se extiende. Pero Dios sale a buscarlos y promete una victoria.",
+      "resumenNino": "Adán y Eva desobedecieron, pero Dios no dejó de amarlos.",
+      "hojas": [
+        {
+          "titulo": "¿Dónde estás tú?",
+          "texto": "La serpiente siembra la duda y comen del árbol prohibido. Llegan la vergüenza y el miedo. Aun así, Dios llama al hombre por su nombre.",
+          "textoNino": "Comieron la fruta prohibida. Dios fue a buscarlos.",
+          "referencia": "Génesis 3:1-13",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Una promesa de victoria",
+          "texto": "Dios anuncia que un descendiente de la mujer herirá a la serpiente en la cabeza. Muchos cristianos ven aquí el primer anuncio del Salvador.",
+          "textoNino": "Dios prometió que un día vendría alguien a salvarnos.",
+          "referencia": "Génesis 3:15",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Caín y Abel",
+          "texto": "La envidia vence a Caín y hace daño a su hermano Abel. Dios le había advertido antes, y después lo sigue protegiendo.",
+          "textoNino": "Caín tuvo envidia de su hermano. Dios le habló con amor.",
+          "referencia": "Génesis 4:1-16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Enoc camina con Dios",
+          "texto": "En una larga lista de familias aparece Enoc. De él se dice algo precioso: caminó con Dios.",
+          "textoNino": "Enoc fue amigo de Dios toda su vida.",
+          "referencia": "Génesis 5:21-24",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Noé y el diluvio",
+      "capitulos": "6–11",
+      "color": "dawn",
+      "resumen": "El mal llena la tierra, pero Noé halla gracia ante Dios. Dios lo salva en el arca con su familia y los animales. Luego hace un pacto con toda la tierra.",
+      "resumenNino": "Noé hizo un barco enorme y Dios lo cuidó en el diluvio.",
+      "hojas": [
+        {
+          "titulo": "El arca",
+          "texto": "Noé construye el arca como Dios le indica. Entra con su familia y con parejas de animales, y Dios cierra la puerta.",
+          "textoNino": "Noé hizo el arca porque confió en Dios.",
+          "referencia": "Génesis 6:9–7:16",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El arco en las nubes",
+          "texto": "Al bajar las aguas, Dios promete no volver a destruir la tierra con un diluvio. Pone su arco en las nubes como señal.",
+          "textoNino": "El arco iris nos dice que Dios cumple sus promesas.",
+          "referencia": "Génesis 9:8-17",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La torre de Babel",
+          "texto": "Los hombres quieren una torre que llegue al cielo para hacerse un nombre. Dios confunde su lengua y los dispersa por la tierra.",
+          "textoNino": "Quisieron hacer una torre hasta el cielo sin Dios.",
+          "referencia": "Génesis 11:1-9",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Abraham, amigo de Dios",
+      "capitulos": "12–25",
+      "color": "amber",
+      "resumen": "Dios llama a Abraham a dejar su tierra. Le promete una familia, una tierra y bendición para todos los pueblos. Abraham cree y camina con él.",
+      "resumenNino": "Dios le prometió a Abraham una familia grande como las estrellas.",
+      "hojas": [
+        {
+          "titulo": "El llamado",
+          "texto": "Dios le dice a Abram: «Vete de tu tierra». Ya mayor, él sale hacia Canaán, confiando solo en la palabra de Dios.",
+          "textoNino": "Abraham dejó su casa porque Dios se lo pidió.",
+          "referencia": "Génesis 12:1-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cuenta las estrellas",
+          "texto": "Dios lleva a Abram afuera de noche y le muestra el cielo. Así será su familia. Abram cree, y Dios se lo cuenta por justicia.",
+          "textoNino": "Dios le dijo: «Cuenta las estrellas». Abraham le creyó.",
+          "referencia": "Génesis 15:1-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El hijo de la promesa",
+          "texto": "Sara y Abraham son muy ancianos. Aun así, Dios cumple su palabra y nace Isaac.",
+          "textoNino": "Dios les dio un bebé cuando ya eran abuelitos.",
+          "referencia": "Génesis 21:1-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "En el monte Moriah",
+          "texto": "Dios prueba la fe de Abraham y detiene su mano. Él mismo provee un carnero en lugar de Isaac.",
+          "textoNino": "Dios cuidó de Isaac y dio un carnero en su lugar.",
+          "referencia": "Génesis 22:1-19",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Isaac y Jacob",
+      "capitulos": "25–36",
+      "color": "olive",
+      "resumen": "La promesa pasa a Isaac y luego a Jacob, un hombre astuto. Dios lo encuentra en el camino, lo cambia y le da un nombre nuevo: Israel.",
+      "resumenNino": "Jacob hizo cosas mal, pero Dios lo cambió y le dio un nombre nuevo.",
+      "hojas": [
+        {
+          "titulo": "Dos hermanos rivales",
+          "texto": "Jacob compra la primogenitura de Esaú por un guiso. Después engaña a su padre para recibir la bendición y tiene que huir.",
+          "textoNino": "Jacob engañó a su hermano y tuvo que irse lejos.",
+          "referencia": "Génesis 25:19–27:45",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La escalera de Betel",
+          "texto": "Solo y en camino, Jacob sueña con una escalera entre la tierra y el cielo. Dios le dice: «yo soy contigo».",
+          "textoNino": "Jacob soñó con una escalera que llegaba al cielo.",
+          "referencia": "Génesis 28:10-22",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Un nombre nuevo",
+          "texto": "Jacob lucha toda la noche y pide ser bendecido. Recibe el nombre de Israel. Al día siguiente, Esaú corre a abrazarlo.",
+          "textoNino": "Dios llamó a Jacob «Israel» y él hizo las paces con su hermano.",
+          "referencia": "Génesis 32:24–33:4",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "José en Egipto",
+      "capitulos": "37–50",
+      "color": "dusk",
+      "resumen": "Sus hermanos venden a José. Pasa por la esclavitud y la cárcel, pero Dios lo levanta en Egipto. Allí perdona y salva a su familia del hambre.",
+      "resumenNino": "Los hermanos de José fueron malos con él, pero José los perdonó.",
+      "hojas": [
+        {
+          "titulo": "Vendido por envidia",
+          "texto": "José es el hijo preferido de Jacob y cuenta sus sueños. Sus hermanos, celosos, lo venden a unos mercaderes que van a Egipto.",
+          "textoNino": "Sus hermanos tuvieron celos y lo vendieron.",
+          "referencia": "Génesis 37",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "De la cárcel al palacio",
+          "texto": "José sigue fiel aunque lo tratan injustamente. Dios le da a entender los sueños del faraón, y Egipto se prepara para siete años de hambre.",
+          "textoNino": "Dios ayudó a José a entender los sueños del rey.",
+          "referencia": "Génesis 39–41",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Yo soy José",
+          "texto": "Sus hermanos llegan a pedir alimento. José se da a conocer llorando, los abraza y pide que traigan a toda la familia a Egipto.",
+          "textoNino": "José abrazó a sus hermanos y los perdonó.",
+          "referencia": "Génesis 45:1-15",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dios lo encaminó a bien",
+          "texto": "Jacob bendice a sus doce hijos y muere. José tranquiliza a sus hermanos: «Dios lo encaminó a bien». La historia sigue en Éxodo.",
+          "textoNino": "Dios sacó algo bueno aun de lo malo.",
+          "referencia": "Génesis 49–50",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Génesis anuncia a Jesús desde el principio. Él es el descendiente de la mujer que vence al mal. En él se cumple la bendición para todas las familias. En Moriah, Dios provee un carnero; Juan llama a Jesús «el Cordero de Dios».",
+    "referencias": ["Gálatas 4:4", "Gálatas 3:8", "Juan 1:29"]
+  },
+  "paraTuVida": [
+    "Cuando te equivoques, no te escondas: Dios te sigue buscando, como buscó a Adán.",
+    "Piensa en alguien a quien te cuesta perdonar y ora hoy por esa persona, como José."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué señal puso Dios en las nubes después del diluvio?",
+      "opciones": ["Una estrella", "Un arco", "Una paloma"],
+      "correcta": 1,
+      "explicacion": "Dios dijo: «Mi arco pondré en las nubes» como señal de su pacto (Génesis 9:13)."
+    },
+    {
+      "pregunta": "¿Qué nombre nuevo recibió Jacob?",
+      "opciones": ["Israel", "Abraham", "Moisés"],
+      "correcta": 0,
+      "explicacion": "Después de luchar toda la noche, Jacob recibe el nombre de Israel (Génesis 32:28)."
+    },
+    {
+      "pregunta": "¿Qué promesa de Génesis 12:3 se cumple en Jesús?",
+      "opciones": ["Una tierra junto al mar", "Un reino en Egipto", "Bendición para todas las familias"],
+      "correcta": 2,
+      "explicacion": "Pablo dice que la bendición prometida a Abraham llega a todos los pueblos por la fe (Gálatas 3:8)."
+    }
+  ],
+  "estudio": ["genesis-1-11", "genesis-12-50"],
+  "conexiones": [
+    { "id": "exodo", "motivo": "La familia de Jacob crece en Egipto; allí empieza el Éxodo." },
+    { "id": "pactos-de-dios", "motivo": "Los pactos con Noé y con Abraham abren la historia." },
+    { "id": "jesus-en-toda-la-biblia", "motivo": "La promesa de Génesis 3:15 es la primera de muchas." }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "id": "mateo",
+  "tipo": "libro",
+  "titulo": "Mateo",
+  "subtitulo": "El Rey prometido está con nosotros",
+  "libro": "Matt",
+  "centro": {
+    "texto": "Jesús es el Rey prometido a Israel y Dios con nosotros",
+    "textoNino": "Jesús es el Rey que Dios prometió, y siempre está con nosotros"
+  },
+  "versiculo": {
+    "texto": "He aquí la virgen concebirá y parirá un hijo, y llamarás su nombre Emmanuel, que declarado, es: Con nosotros Dios.",
+    "referencia": "Mateo 1:23"
+  },
+  "ramas": [
+    {
+      "titulo": "El Rey prometido",
+      "capitulos": "1–4",
+      "color": "warm",
+      "resumen": "Mateo escribe pensando en lectores que conocen a los profetas. Muestra que Jesús es hijo de David y de Abraham, y que cumple lo prometido.",
+      "resumenNino": "Jesús nace en Belén, como Dios lo había prometido.",
+      "hojas": [
+        {
+          "titulo": "Hijo de David y de Abraham",
+          "texto": "Mateo abre con la familia de Jesús. Así muestra que él es el heredero de las promesas hechas a Abraham y a David.",
+          "textoNino": "Jesús viene de la familia del rey David.",
+          "referencia": "Mateo 1:1-17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Para que se cumpliese",
+          "texto": "Mateo repite que algo pasó «para que se cumpliese» lo dicho por los profetas. Así nos ayuda a ver a Jesús en las Escrituras.",
+          "textoNino": "Dios cumple lo que promete.",
+          "referencia": "Mateo 1:22-23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Los magos y la estrella",
+          "texto": "Unos magos de Oriente siguen una estrella y adoran al niño. Después, José huye con María y Jesús a Egipto para protegerlo.",
+          "textoNino": "Unos sabios siguen una estrella para adorar a Jesús.",
+          "referencia": "Mateo 2:1-15",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Bautismo y desierto",
+          "texto": "Juan bautiza a Jesús en el Jordán y una voz habla desde el cielo. En el desierto, Jesús vence la tentación con la Palabra de Dios.",
+          "textoNino": "Jesús dice no a la tentación con la Palabra de Dios.",
+          "referencia": "Mateo 3:13–4:11",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "El Sermón del monte",
+      "capitulos": "5–7",
+      "color": "amber",
+      "resumen": "Jesús sube a un monte y enseña cómo es la vida en el reino de los cielos. Es el primero de cinco grandes discursos que Mateo reúne.",
+      "resumenNino": "Jesús enseña en un monte cómo vivir con Dios.",
+      "hojas": [
+        {
+          "titulo": "Las bienaventuranzas",
+          "texto": "Jesús llama dichosos a los pobres en espíritu, a los que lloran y a los que hacen la paz. Dios los consuela y los llama sus hijos.",
+          "textoNino": "Jesús dice quiénes son felices de verdad.",
+          "referencia": "Mateo 5:1-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El Padre nuestro",
+          "texto": "Jesús enseña a orar al Padre con confianza. Le pedimos que venga su reino, el pan de cada día y el perdón.",
+          "textoNino": "Jesús nos enseña a hablar con Dios como Padre.",
+          "referencia": "Mateo 6:9-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La casa sobre la roca",
+          "texto": "Quien oye las palabras de Jesús y las pone en práctica es como el que edifica su casa sobre la roca.",
+          "textoNino": "Escuchar a Jesús y obedecerlo nos hace firmes.",
+          "referencia": "Mateo 7:24-27",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Milagros y discípulos",
+      "capitulos": "8–12",
+      "color": "dawn",
+      "resumen": "Jesús sana enfermos, calma el mar y llama a gente sencilla. Envía a sus doce apóstoles y ofrece descanso a los cansados.",
+      "resumenNino": "Jesús sana a muchos y elige a doce amigos.",
+      "hojas": [
+        {
+          "titulo": "Calma la tempestad",
+          "texto": "En la barca, los discípulos tienen miedo de morir. Jesús reprende al viento y al mar, y viene una gran calma.",
+          "textoNino": "Jesús calma el viento y las olas.",
+          "referencia": "Mateo 8:23-27",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Jesús llama a Mateo",
+          "texto": "Jesús llama a Mateo, un cobrador de impuestos, y come con pecadores. La tradición atribuye este Evangelio a Mateo.",
+          "textoNino": "Jesús invita a Mateo a seguirlo.",
+          "referencia": "Mateo 9:9-13",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Los doce enviados",
+          "texto": "Jesús da poder a doce apóstoles y los envía a anunciar que el reino de los cielos se ha acercado.",
+          "textoNino": "Jesús envía a sus amigos a contar la buena noticia.",
+          "referencia": "Mateo 10:1-15",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Venid a mí",
+          "texto": "Jesús invita a los cansados y cargados. Promete descanso a quien aprende de él, que es manso y humilde.",
+          "textoNino": "Jesús nos da descanso cuando estamos cansados.",
+          "referencia": "Mateo 11:28-30",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Parábolas y el Mesías",
+      "capitulos": "13–18",
+      "color": "olive",
+      "resumen": "Jesús cuenta parábolas sobre el reino y camina sobre el agua. Pedro confiesa que Jesús es el Cristo, y Jesús enseña a perdonar sin contar.",
+      "resumenNino": "Jesús cuenta historias y Pedro dice quién es él.",
+      "hojas": [
+        {
+          "titulo": "El sembrador",
+          "texto": "La semilla es la palabra del reino. Da mucho fruto en quien la oye y la entiende.",
+          "textoNino": "La Palabra de Dios crece en un corazón abierto.",
+          "referencia": "Mateo 13:1-23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Camina sobre el agua",
+          "texto": "De noche, Jesús camina sobre el mar. Pedro sale a su encuentro, duda y se hunde, pero Jesús lo sostiene.",
+          "textoNino": "Jesús toma la mano de Pedro en el agua.",
+          "referencia": "Mateo 14:22-33",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Tú eres el Cristo",
+          "texto": "Pedro confiesa que Jesús es el Cristo, el Hijo de Dios. Desde entonces, Jesús anuncia que sufrirá, morirá y resucitará.",
+          "textoNino": "Pedro dice que Jesús es el Hijo de Dios.",
+          "referencia": "Mateo 16:13-21",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Perdonar sin contar",
+          "texto": "Pedro pregunta si basta perdonar siete veces. Jesús responde «hasta setenta veces siete» y cuenta la historia de un siervo que no perdonó.",
+          "textoNino": "Jesús nos pide perdonar siempre.",
+          "referencia": "Mateo 18:21-35",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Camino a la cruz",
+      "capitulos": "19–25",
+      "color": "rose",
+      "resumen": "Jesús bendice a los niños y entra en Jerusalén como un rey humilde. Enseña el mayor mandamiento y habla de su regreso.",
+      "resumenNino": "Jesús entra en Jerusalén y la gente lo alaba.",
+      "hojas": [
+        {
+          "titulo": "Dejad a los niños",
+          "texto": "Los discípulos quieren alejar a los niños. Jesús los recibe, pone las manos sobre ellos y dice que de ellos es el reino.",
+          "textoNino": "Jesús recibe y bendice a los niños.",
+          "referencia": "Mateo 19:13-15",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Hosanna al Hijo de David",
+          "texto": "Jesús entra en Jerusalén montado en un asna, como anunció el profeta. La gente tiende mantos en el camino y lo aclama.",
+          "textoNino": "La gente grita «Hosanna» y alaba a Jesús.",
+          "referencia": "Mateo 21:1-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El gran mandamiento",
+          "texto": "Ama a Dios con todo tu corazón y a tu prójimo como a ti mismo. De estos dos mandamientos depende toda la ley.",
+          "textoNino": "Ama a Dios y ama a los demás.",
+          "referencia": "Mateo 22:34-40",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "A mí lo hicisteis",
+          "texto": "Cuando el Rey vuelva, recordará lo que hicimos por el hambriento, el enfermo o el preso. Lo que hacemos por ellos, lo hacemos por él.",
+          "textoNino": "Ayudar a otros es como ayudar a Jesús.",
+          "referencia": "Mateo 25:31-46",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Muerte, vida y envío",
+      "capitulos": "26–28",
+      "color": "dusk",
+      "resumen": "Jesús cena con sus discípulos, muere en la cruz y resucita al tercer día. Luego los envía a todas las naciones y promete estar siempre con ellos.",
+      "resumenNino": "Jesús muere por nosotros, vuelve a vivir y nos acompaña siempre.",
+      "hojas": [
+        {
+          "titulo": "La última cena",
+          "texto": "Jesús toma el pan y la copa y los da a sus discípulos. Las iglesias celebran esta Cena del Señor con distintos nombres.",
+          "textoNino": "Jesús comparte el pan y la copa con sus amigos.",
+          "referencia": "Mateo 26:26-29",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "La cruz",
+          "texto": "Jesús es crucificado entre dos ladrones. Al morir, el velo del templo se rasga y un centurión reconoce que era Hijo de Dios.",
+          "textoNino": "Jesús da su vida en la cruz por amor.",
+          "referencia": "Mateo 27:32-54",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "¡Ha resucitado!",
+          "texto": "Al amanecer, un ángel dice a las mujeres que Jesús no está allí, porque ha resucitado. Jesús mismo sale a su encuentro.",
+          "textoNino": "Jesús vive. Las mujeres corren a contarlo.",
+          "referencia": "Mateo 28:1-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Id a todas las naciones",
+          "texto": "Jesús envía a los once a hacer discípulos en todas las naciones. Y promete: «yo estoy con vosotros todos los días».",
+          "textoNino": "Jesús promete estar con nosotros siempre.",
+          "referencia": "Mateo 28:16-20",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Mateo muestra a Jesús como el Rey, hijo de David, que cumple las promesas de los profetas. Su nombre es Emmanuel, «Con nosotros Dios», y el libro termina con la misma promesa: estará con los suyos siempre.",
+    "referencias": ["Mateo 1:23", "Mateo 16:16", "Mateo 28:20"]
+  },
+  "paraTuVida": [
+    "Lee el Sermón del monte esta semana, un capítulo por día (Mateo 5–7).",
+    "Cuando te sientas solo, repite: «yo estoy con vosotros todos los días».",
+    "Piensa en alguien que necesita tu perdón y da hoy un primer paso."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué significa el nombre Emmanuel?",
+      "opciones": ["Dios salva", "Con nosotros Dios", "Hijo de David"],
+      "correcta": 1,
+      "explicacion": "Mateo 1:23 lo explica: Emmanuel quiere decir «Con nosotros Dios»."
+    },
+    {
+      "pregunta": "¿Dónde enseña Jesús las bienaventuranzas en Mateo?",
+      "opciones": ["En un monte", "En una barca", "En el templo"],
+      "correcta": 0,
+      "explicacion": "Mateo 5:1 dice que Jesús subió al monte y desde allí enseñó."
+    },
+    {
+      "pregunta": "¿Qué promete Jesús al final de Mateo?",
+      "opciones": ["Volver en tres días", "Estar con nosotros siempre", "Construir un templo nuevo"],
+      "correcta": 1,
+      "explicacion": "En Mateo 28:20 Jesús promete estar con los suyos todos los días. Así se cumple su nombre, Emmanuel."
+    }
+  ],
+  "estudio": [
+    "anuncios",
+    "nacimiento",
+    "inicio-ministerio",
+    "galilea-ensenanzas",
+    "galilea-milagros",
+    "camino-a-jerusalen",
+    "ultima-semana",
+    "pasion-y-muerte",
+    "resurreccion"
+  ],
+  "conexiones": [
+    { "id": "marcos", "motivo": "Marcos cuenta la misma historia, más breve y con prisa." },
+    { "id": "isaias", "motivo": "Mateo cita varias veces al profeta Isaías." }
+  ]
+}

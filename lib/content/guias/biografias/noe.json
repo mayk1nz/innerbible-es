@@ -2,7 +2,11 @@
   "id": "noe",
   "titulo": "Noé",
   "subtitulo": "El que construyó el arca",
-  "etiquetas": ["Los orígenes", "Antiguo Testamento", "Del arca a los montes"],
+  "etiquetas": [
+    "Los orígenes",
+    "Antiguo Testamento",
+    "Del arca a los montes"
+  ],
   "enUnMinuto": [
     "En un mundo lleno de violencia, Noé caminaba con Dios.",
     "Dios le pidió construir un arca para salvar a su familia y a los animales del gran diluvio.",
@@ -79,46 +83,93 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Génesis 5:28-32", "nota": "Su nacimiento" },
-        { "ref": "Génesis 6:5-22", "nota": "Dios le pide construir el arca" },
-        { "ref": "Génesis 7", "nota": "El diluvio" },
-        { "ref": "Génesis 8", "nota": "Las aguas bajan" },
-        { "ref": "Génesis 9:1-17", "nota": "El pacto y el arco iris" },
-        { "ref": "Hebreos 11:7", "nota": "Por la fe, Noé" },
-        { "ref": "Mateo 24:37-39", "nota": "Como en los días de Noé" },
-        { "ref": "1 Pedro 3:20-21", "nota": "El arca y el bautismo" }
+        {
+          "ref": "Génesis 5:28-32",
+          "nota": "Su nacimiento"
+        },
+        {
+          "ref": "Génesis 6:5-22",
+          "nota": "Dios le pide construir el arca"
+        },
+        {
+          "ref": "Génesis 7",
+          "nota": "El diluvio"
+        },
+        {
+          "ref": "Génesis 8",
+          "nota": "Las aguas bajan"
+        },
+        {
+          "ref": "Génesis 9:1-17",
+          "nota": "El pacto y el arco iris"
+        },
+        {
+          "ref": "Hebreos 11:7",
+          "nota": "Por la fe, Noé"
+        },
+        {
+          "ref": "Mateo 24:37-39",
+          "nota": "Como en los días de Noé"
+        },
+        {
+          "ref": "1 Pedro 3:20-21",
+          "nota": "El arca y el bautismo"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Noé construyó un barco enorme y Dios cuidó a su familia y a los animales. ¿Qué animal te gustaría haber visto en el arca?",
-      "actividad": "Para papás y abuelos: el arco iris es la señal de que Dios cumple sus promesas (Génesis 9:13). Dibujen juntos un arco iris y escriban: “Dios cumple”."
+      "actividad": "Para el adulto: el arco iris es la señal de que Dios cumple sus promesas (Génesis 9:13). Dibujen juntos un arco iris y escriban: “Dios cumple”."
     },
     {
       "tipo": "oracion",
       "texto": "Señor, como Noé, quiero caminar contigo. Gracias por tu gracia, que llega antes que mi obediencia. Cuando lleguen las tormentas, sé mi refugio. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué significa “caminar con Dios” en un mundo difícil?",
+        "Noé obedeció sin ver la lluvia. ¿Qué les ha pedido Dios que todavía no entienden?",
+        "¿Qué nos enseña que la Biblia muestre también las fallas de Noé?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Qué trajo la paloma a Noé en su segundo vuelo?",
-      "opciones": ["Una rama de palmera", "Una hoja de olivo", "Una piedra"],
+      "opciones": [
+        "Una rama de palmera",
+        "Una hoja de olivo",
+        "Una piedra"
+      ],
       "correcta": 1,
       "explicacion": "La paloma volvió con una hoja de olivo en el pico (Génesis 8:11)."
     },
     {
       "pregunta": "¿Cuántas personas se salvaron en el arca?",
-      "opciones": ["Ocho", "Doce", "Tres"],
+      "opciones": [
+        "Ocho",
+        "Doce",
+        "Tres"
+      ],
       "correcta": 0,
       "explicacion": "Pedro dice que fueron ocho personas (1 Pedro 3:20)."
     },
     {
       "pregunta": "¿Con qué comparó Jesús los días de Noé?",
-      "opciones": ["Con la fiesta de la Pascua", "Con el bautismo de Juan", "Con su venida"],
+      "opciones": [
+        "Con la fiesta de la Pascua",
+        "Con el bautismo de Juan",
+        "Con su venida"
+      ],
       "correcta": 2,
       "explicacion": "Jesús dijo: «como los días de Noé, así será la venida del Hijo del hombre» (Mateo 24:37)."
     }
   ],
-  "estudio": ["genesis-1-11"],
+  "estudio": [
+    "genesis-1-11"
+  ],
   "buscar": "Noé"
 }

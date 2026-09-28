@@ -1,0 +1,266 @@
+{
+  "id": "juan",
+  "tipo": "libro",
+  "titulo": "Juan",
+  "subtitulo": "Para que creas y tengas vida",
+  "libro": "John",
+  "centro": {
+    "texto": "Jesús es el Hijo de Dios, y quien cree en él tiene vida",
+    "textoNino": "Jesús es el Hijo de Dios y nos da vida"
+  },
+  "versiculo": {
+    "texto": "Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre.",
+    "referencia": "Juan 20:31"
+  },
+  "ramas": [
+    {
+      "titulo": "El Verbo se hizo carne",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Juan empieza antes de la creación. El Verbo estaba con Dios, era Dios y se hizo hombre. Juan el Bautista lo presenta como el Cordero de Dios.",
+      "resumenNino": "Jesús estaba con Dios desde siempre y vino a vivir con nosotros.",
+      "hojas": [
+        {
+          "titulo": "En el principio",
+          "texto": "El Verbo es la luz verdadera que alumbra a todos. A los que lo reciben, les da poder de ser hijos de Dios.",
+          "textoNino": "Jesús es la luz que Dios nos manda.",
+          "referencia": "Juan 1:1-13",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Habitó entre nosotros",
+          "texto": "Dios no se queda lejos. El Verbo «fue hecho carne, y habitó entre nosotros», lleno de gracia y de verdad.",
+          "textoNino": "Dios se hizo hombre para estar cerca de nosotros.",
+          "referencia": "Juan 1:14-18",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El Cordero de Dios",
+          "texto": "Juan el Bautista ve venir a Jesús y dice: «He aquí el Cordero de Dios, que quita el pecado del mundo».",
+          "textoNino": "Juan dice que Jesús viene a quitar el pecado.",
+          "referencia": "Juan 1:29-34",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Ven y ve",
+          "texto": "Andrés, Pedro, Felipe y Natanael conocen a Jesús. Uno invita al otro a venir y ver.",
+          "textoNino": "Unos amigos se invitan a conocer a Jesús.",
+          "referencia": "Juan 1:35-51",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Señales y encuentros",
+      "capitulos": "2–6",
+      "color": "amber",
+      "resumen": "Juan escoge algunas señales de Jesús para que creamos. Jesús cambia el agua en vino, habla de nacer de nuevo y ofrece agua viva y pan de vida.",
+      "resumenNino": "Jesús hace milagros y habla con personas que lo buscan.",
+      "hojas": [
+        {
+          "titulo": "La boda en Caná",
+          "texto": "En una boda se acaba el vino. María dice a los sirvientes «Haced todo lo que os dijere», y Jesús cambia el agua en vino.",
+          "textoNino": "En una fiesta, Jesús cambia el agua en vino.",
+          "referencia": "Juan 2:1-11",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Nicodemo de noche",
+          "texto": "Un fariseo principal visita a Jesús de noche. Jesús le habla de nacer de nuevo y del amor de Dios por el mundo.",
+          "textoNino": "Jesús le dice a Nicodemo cuánto nos ama Dios.",
+          "referencia": "Juan 3:1-16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "La mujer samaritana",
+          "texto": "Junto a un pozo, Jesús pide agua a una samaritana y le ofrece agua viva. Ella corre a contarlo en su pueblo.",
+          "textoNino": "Jesús habla con una mujer junto a un pozo.",
+          "referencia": "Juan 4:1-42",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El pan de vida",
+          "texto": "Jesús da de comer a unos cinco mil. Después dice: «Yo soy el pan de vida».",
+          "textoNino": "Jesús da pan a mucha gente y dice que él es el pan de vida.",
+          "referencia": "Juan 6:1-35",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Luz y vida",
+      "capitulos": "7–12",
+      "color": "dawn",
+      "resumen": "En las fiestas de Jerusalén, Jesús dice quién es: la luz del mundo, el buen pastor, la resurrección y la vida. Muchos creen y otros lo rechazan.",
+      "resumenNino": "Jesús dice que es la luz y el buen pastor.",
+      "hojas": [
+        {
+          "titulo": "Luz para un ciego",
+          "texto": "Jesús dice: «luz soy del mundo». Luego da la vista a un hombre que era ciego desde que nació.",
+          "textoNino": "Jesús ayuda a ver a un hombre ciego.",
+          "referencia": "Juan 9:1-38",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El buen pastor",
+          "texto": "Jesús es el buen pastor. Conoce a sus ovejas por su nombre y da su vida por ellas.",
+          "textoNino": "Jesús nos cuida como un pastor a sus ovejas.",
+          "referencia": "Juan 10:1-18",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Lázaro, ven fuera",
+          "texto": "Jesús llora ante la tumba de su amigo. Dice «Yo soy la resurrección y la vida» y llama a Lázaro fuera del sepulcro.",
+          "textoNino": "Jesús llora por su amigo Lázaro y le devuelve la vida.",
+          "referencia": "Juan 11:1-44",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Con sus amigos",
+      "capitulos": "13–17",
+      "color": "olive",
+      "resumen": "En la última noche, Jesús lava los pies a sus discípulos. Les habla del Padre, del Espíritu Santo y del amor, y ora por ellos.",
+      "resumenNino": "Jesús lava los pies de sus amigos y ora por ellos.",
+      "hojas": [
+        {
+          "titulo": "Lava los pies",
+          "texto": "Jesús se ciñe una toalla y lava los pies de sus discípulos. Les pide que se sirvan así unos a otros.",
+          "textoNino": "Jesús lava los pies de sus amigos para enseñarles a servir.",
+          "referencia": "Juan 13:1-17",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Camino, verdad y vida",
+          "texto": "Jesús va a preparar lugar para los suyos. Dice: «Yo soy el camino, y la verdad, y la vida».",
+          "textoNino": "Jesús es el camino para llegar al Padre.",
+          "referencia": "Juan 14:1-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La vid y las ramas",
+          "texto": "Unidos a Jesús, como ramas a la vid, damos fruto. Su mandamiento es amarnos como él nos amó.",
+          "textoNino": "Si seguimos unidos a Jesús, damos fruto.",
+          "referencia": "Juan 15:1-17",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Que todos sean uno",
+          "texto": "Jesús ora al Padre por los que creerán en él. Pide que todos sean uno, para que el mundo crea.",
+          "textoNino": "Jesús ora para que sus amigos estén unidos.",
+          "referencia": "Juan 17:20-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Consumado es",
+      "capitulos": "18–19",
+      "color": "rose",
+      "resumen": "Jesús es arrestado en un huerto y llevado ante Pilato. Muere en la cruz después de decir «Consumado es». José de Arimatea y Nicodemo lo sepultan.",
+      "resumenNino": "Jesús da su vida en la cruz por amor a todos.",
+      "hojas": [
+        {
+          "titulo": "Ante Pilato",
+          "texto": "Pilato interroga a Jesús. Jesús le responde que su reino no es de este mundo.",
+          "textoNino": "Jesús dice que su reino no es como los de la tierra.",
+          "referencia": "Juan 18:28-40",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Al pie de la cruz",
+          "texto": "Junto a la cruz están María, su madre, y el discípulo al que Jesús amaba. Jesús los confía el uno al otro.",
+          "textoNino": "Jesús cuida de su mamá desde la cruz.",
+          "referencia": "Juan 19:25-27",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Consumado es",
+          "texto": "Jesús dice «Consumado es», inclina la cabeza y entrega el espíritu. Ha terminado la obra que el Padre le dio.",
+          "textoNino": "Jesús termina su obra de amor en la cruz.",
+          "referencia": "Juan 19:28-30",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "¡Resucitó!",
+      "capitulos": "20–21",
+      "color": "dusk",
+      "resumen": "María Magdalena encuentra a Jesús vivo. Tomás lo ve y cree. Junto al mar, Jesús prepara el desayuno y confía a Pedro sus ovejas.",
+      "resumenNino": "Jesús vive y desayuna con sus amigos junto al mar.",
+      "hojas": [
+        {
+          "titulo": "María Magdalena",
+          "texto": "Llorando junto al sepulcro, María oye su nombre y reconoce a Jesús. Él la envía a avisar a los discípulos.",
+          "textoNino": "Jesús llama a María por su nombre.",
+          "referencia": "Juan 20:11-18",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Tomás cree",
+          "texto": "Tomás no cree hasta ver. Jesús le muestra sus manos, y Tomás dice: «¡Señor mío, y Dios mío!»",
+          "textoNino": "Tomás ve a Jesús y cree en él.",
+          "referencia": "Juan 20:24-29",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Por qué se escribió",
+          "texto": "Juan escogió estas señales para que creamos que Jesús es el Hijo de Dios y tengamos vida. La tradición atribuye este Evangelio al apóstol Juan.",
+          "textoNino": "Juan escribió para que creamos en Jesús.",
+          "referencia": "Juan 20:30-31",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "¿Me amas?",
+          "texto": "Junto al mar, Jesús pregunta tres veces a Pedro si lo ama. Y le confía: «Apacienta mis ovejas».",
+          "textoNino": "Jesús perdona a Pedro y le da una tarea.",
+          "referencia": "Juan 21:15-19",
+          "tipo": "evento"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Juan muestra a Jesús como el Verbo eterno que se hizo hombre. Sus palabras «Yo soy» dicen quién es: pan, luz, pastor, camino y vida. Todo está escrito para que creamos en él.",
+    "referencias": ["Juan 1:14", "Juan 14:6", "Juan 20:31"]
+  },
+  "paraTuVida": [
+    "Cada día de esta semana, lee un «Yo soy» de Jesús y ora con él.",
+    "Haz en casa un servicio humilde, como Jesús al lavar los pies."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Dónde hizo Jesús su primera señal?",
+      "opciones": ["En Caná", "En Belén", "En Roma"],
+      "correcta": 0,
+      "explicacion": "Juan 2:11 dice que Jesús hizo en Caná de Galilea el principio de sus señales."
+    },
+    {
+      "pregunta": "¿Qué le dijo Tomás a Jesús al verlo resucitado?",
+      "opciones": ["Maestro, sálvame", "¡Señor mío, y Dios mío!", "Aléjate de mí"],
+      "correcta": 1,
+      "explicacion": "Tomás vio las manos de Jesús y lo reconoció como su Señor y su Dios (Juan 20:28)."
+    },
+    {
+      "pregunta": "¿Con qué palabras empiezan Juan y Génesis?",
+      "opciones": ["Había una vez", "En el principio", "Oíd, cielos"],
+      "correcta": 1,
+      "explicacion": "Génesis 1:1 y Juan 1:1 empiezan igual: «En el principio»."
+    }
+  ],
+  "estudio": [
+    "el-verbo",
+    "inicio-ministerio",
+    "galilea-milagros",
+    "camino-a-jerusalen",
+    "ultima-semana",
+    "pasion-y-muerte",
+    "resurreccion"
+  ],
+  "conexiones": [
+    { "id": "genesis", "motivo": "Juan empieza como Génesis: «En el principio»." },
+    { "id": "1-juan", "motivo": "Las cartas de Juan hablan de la misma luz y el mismo amor." }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "galatas",
+  "tipo": "libro",
+  "titulo": "Gálatas",
+  "subtitulo": "Libres por la gracia",
+  "libro": "Gal",
+  "centro": {
+    "texto": "En Cristo somos hijos de Dios, libres para amar",
+    "textoNino": "Jesús nos hace hijos de Dios, libres para amar"
+  },
+  "versiculo": {
+    "texto": "Estad, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez a ser presos en el yugo de servidumbre.",
+    "referencia": "Gálatas 5:1"
+  },
+  "ramas": [
+    {
+      "titulo": "Un solo evangelio",
+      "capitulos": "1",
+      "color": "warm",
+      "resumen": "Pablo escribe con urgencia a las iglesias de Galacia, que dudan del mensaje que recibieron. Les cuenta cómo Dios lo llamó por su gracia.",
+      "resumenNino": "Pablo escribe a sus amigos para que no se confundan.",
+      "hojas": [
+        {
+          "titulo": "Una carta urgente",
+          "texto": "Pablo se sorprende de que se alejen tan pronto de la gracia de Cristo. Les recuerda que no hay otro evangelio.",
+          "textoNino": "Pablo pide a sus amigos que sigan fieles a Jesús.",
+          "referencia": "Gálatas 1:6-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Llamado por su gracia",
+          "texto": "Pablo perseguía a la iglesia. Dios le reveló a su Hijo para que lo anunciara a los que no son judíos.",
+          "textoNino": "Dios cambió a Pablo y lo envió a contar de Jesús.",
+          "referencia": "Gálatas 1:13-17",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Juntos a la mesa",
+      "capitulos": "2",
+      "color": "amber",
+      "resumen": "Los apóstoles de Jerusalén dan la mano a Pablo y a Bernabé. En Antioquía, Pablo defiende que judíos y no judíos coman juntos en Cristo.",
+      "resumenNino": "Con Jesús, todos pueden sentarse juntos a la mesa.",
+      "hojas": [
+        {
+          "titulo": "La mano de comunión",
+          "texto": "Santiago, Pedro y Juan dan la mano a Pablo y a Bernabé en señal de comunión. Solo les piden acordarse de los pobres.",
+          "textoNino": "Los apóstoles se dan la mano como hermanos.",
+          "referencia": "Gálatas 2:9-10",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cara a cara en Antioquía",
+          "texto": "Pedro deja de comer con los no judíos. Pablo le habla de frente: todos somos justificados por la fe en Cristo.",
+          "textoNino": "Pablo pide que todos coman juntos, sin dejar a nadie fuera.",
+          "referencia": "Gálatas 2:11-16",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Cristo vive en mí",
+          "texto": "Pablo dice que vive por la fe en el Hijo de Dios, que lo amó y se entregó por él.",
+          "textoNino": "Jesús me ama y vive en mi corazón.",
+          "referencia": "Gálatas 2:20",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Hijos por la fe",
+      "capitulos": "3–4",
+      "color": "dawn",
+      "resumen": "Abraham creyó y fue bendecido. La ley guió al pueblo como un maestro hasta Cristo. Ahora todos, por la fe, somos hijos de Dios.",
+      "resumenNino": "Por Jesús somos hijos de Dios y lo llamamos Padre.",
+      "hojas": [
+        {
+          "titulo": "Como Abraham",
+          "texto": "Abraham creyó a Dios. Por medio de él, Dios prometió bendecir a todas las naciones.",
+          "textoNino": "Abraham confió en Dios, y Dios lo bendijo.",
+          "referencia": "Gálatas 3:6-9",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Todos uno en Cristo",
+          "texto": "Ya no hay judío ni griego, siervo ni libre, varón ni mujer: todos somos uno en Cristo Jesús.",
+          "textoNino": "En Jesús todos somos una sola familia.",
+          "referencia": "Gálatas 3:26-29",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Abba, Padre",
+          "texto": "Dios envió a su Hijo y a su Espíritu. Ya no somos siervos, sino hijos y herederos.",
+          "textoNino": "Podemos llamar a Dios «Papá».",
+          "referencia": "Gálatas 4:4-7",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Libres para servir",
+      "capitulos": "5",
+      "color": "olive",
+      "resumen": "Cristo nos hizo libres. Esa libertad no es para hacer lo que queramos, sino para servirnos por amor. El Espíritu produce su fruto en nosotros.",
+      "resumenNino": "El Espíritu Santo nos ayuda a ser buenos y amables.",
+      "hojas": [
+        {
+          "titulo": "La fe que ama",
+          "texto": "En Cristo, lo que vale es «la fe que obra por la caridad». La fe viva se nota en el amor.",
+          "textoNino": "Creer en Jesús se nota cuando amamos.",
+          "referencia": "Gálatas 5:6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Servíos por amor",
+          "texto": "Toda la ley se cumple en una sola palabra: amarás a tu prójimo como a ti mismo.",
+          "textoNino": "Ser libre es poder ayudar a los demás.",
+          "referencia": "Gálatas 5:13-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "El fruto del Espíritu",
+          "texto": "Amor, gozo, paz, paciencia, bondad, fe, mansedumbre y dominio propio crecen donde vive el Espíritu.",
+          "textoNino": "El Espíritu hace crecer en nosotros amor, alegría y paz.",
+          "referencia": "Gálatas 5:22-23",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Llevar las cargas",
+      "capitulos": "6",
+      "color": "dusk",
+      "resumen": "Pablo termina con consejos prácticos: levantar al que cae, llevar las cargas de otros y no cansarse de hacer el bien.",
+      "resumenNino": "Ayudamos a otros a llevar lo que les pesa.",
+      "hojas": [
+        {
+          "titulo": "Las cargas de otros",
+          "texto": "Si alguien cae, ayúdalo a levantarse con mansedumbre. Llevar las cargas de otros cumple la ley de Cristo.",
+          "textoNino": "Ayudamos a los demás cuando algo les pesa.",
+          "referencia": "Gálatas 6:1-2",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Lo que siembras",
+          "texto": "Lo que uno siembra, eso cosecha. No nos cansemos de hacer el bien a todos.",
+          "textoNino": "Sembramos bondad y cosechamos bondad.",
+          "referencia": "Gálatas 6:7-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Una nueva criatura",
+          "texto": "Pablo solo se gloría en la cruz de Cristo. Lo que importa es ser una nueva criatura.",
+          "textoNino": "Jesús nos hace nuevos por dentro.",
+          "referencia": "Gálatas 6:14-15",
+          "tipo": "ensenanza"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús se entregó por nosotros y nos da su Espíritu para que llamemos a Dios «Abba, Padre». Por la fe en él somos hijos, y esa fe se muestra en el amor.",
+    "referencias": ["Gálatas 2:20", "Gálatas 4:4-6", "Gálatas 5:6"]
+  },
+  "paraTuVida": [
+    "Esta semana, ayuda a alguien a llevar una carga concreta.",
+    "Elige un fruto del Espíritu y pide a Dios que crezca en ti."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo clama el Espíritu en nuestros corazones, según Gálatas 4:6?",
+      "opciones": ["Abba, Padre", "Rey eterno", "Santo Dios"],
+      "correcta": 0,
+      "explicacion": "Dios envió el Espíritu de su Hijo, que clama «Abba, Padre». Somos sus hijos."
+    },
+    {
+      "pregunta": "¿Cuál de estos es fruto del Espíritu?",
+      "opciones": ["La envidia", "El gozo", "El orgullo"],
+      "correcta": 1,
+      "explicacion": "Gálatas 5:22 nombra el gozo junto al amor, la paz y la bondad."
+    },
+    {
+      "pregunta": "¿Qué personaje de Génesis pone Pablo como ejemplo de fe?",
+      "opciones": ["Abraham", "Noé", "José"],
+      "correcta": 0,
+      "explicacion": "Gálatas 3:6 recuerda que Abraham creyó a Dios, como cuenta Génesis 15:6."
+    }
+  ],
+  "estudio": ["galatas"],
+  "conexiones": [
+    { "id": "romanos", "motivo": "Romanos explica el mismo tema con más calma." },
+    { "id": "hechos", "motivo": "Hechos 15 cuenta el concilio de Jerusalén." }
+  ]
+}

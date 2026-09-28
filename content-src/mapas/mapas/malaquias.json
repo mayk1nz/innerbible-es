@@ -1,0 +1,204 @@
+{
+  "id": "malaquias",
+  "tipo": "libro",
+  "titulo": "Malaquías",
+  "subtitulo": "El Señor vendrá a su templo",
+  "libro": "Mal",
+  "centro": {
+    "texto": "Dios no cambia: sigue amando a su pueblo y vendrá a él",
+    "textoNino": "Dios nos ama siempre y vendrá a nosotros"
+  },
+  "versiculo": {
+    "texto": "Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salud: y saldréis, y saltaréis como becerros de la manada.",
+    "referencia": "Malaquías 4:2"
+  },
+  "ramas": [
+    {
+      "titulo": "¿En qué nos amaste?",
+      "capitulos": "1:1-5",
+      "color": "rose",
+      "resumen": "Malaquías habla a Judá después del regreso del exilio (c. 430 a.C.). El templo está en pie, pero el entusiasmo se apagó.",
+      "resumenNino": "El pueblo estaba cansado y dudaba del amor de Dios.",
+      "hojas": [
+        {
+          "titulo": "Yo os he amado",
+          "texto": "Dios empieza con una declaración: «Yo os he amado». El pueblo responde con frialdad: «¿En qué nos amaste?».",
+          "textoNino": "Dios dijo: yo los amo. El pueblo dudó.",
+          "referencia": "Malaquías 1:1-2",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un libro en diálogo",
+          "texto": "Malaquías escribe como una conversación. Dios habla, el pueblo pregunta y Dios responde con paciencia.",
+          "textoNino": "Dios y su pueblo conversan en este libro.",
+          "referencia": "Malaquías 1:2-5",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Lo mejor para Dios",
+      "capitulos": "1:6–2:9",
+      "color": "amber",
+      "resumen": "Los sacerdotes ofrecen a Dios lo que sobra. Dios les recuerda que su nombre es grande en todo el mundo.",
+      "resumenNino": "Dios merece lo mejor, no lo que sobra.",
+      "hojas": [
+        {
+          "titulo": "Animales enfermos",
+          "texto": "En el altar ofrecen animales ciegos, cojos o enfermos. Dios pregunta: ¿se los darían así al gobernador?",
+          "textoNino": "Le daban a Dios lo peor que tenían.",
+          "referencia": "Malaquías 1:6-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Grande entre las naciones",
+          "texto": "Desde donde nace el sol hasta donde se pone, el nombre de Dios es grande entre los pueblos.",
+          "textoNino": "En todo el mundo se conoce el nombre de Dios.",
+          "referencia": "Malaquías 1:11-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un pacto de vida y paz",
+          "texto": "Dios recuerda a los primeros sacerdotes: enseñaban la verdad y andaban en paz. El sacerdote es mensajero de Dios.",
+          "textoNino": "Los sacerdotes debían enseñar la verdad de Dios.",
+          "referencia": "Malaquías 2:1-9",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Fieles unos a otros",
+      "capitulos": "2:10-16",
+      "color": "olive",
+      "resumen": "También hay heridas en las familias. Algunos abandonan a la esposa de su juventud. Dios pide no ser desleales.",
+      "resumenNino": "Dios quiere que las familias se cuiden.",
+      "hojas": [
+        {
+          "titulo": "Un mismo padre",
+          "texto": "Malaquías pregunta: «¿No tenemos todos un mismo padre?». Si Dios nos creó a todos, no debemos despreciar al hermano.",
+          "textoNino": "Todos somos hermanos porque Dios nos creó.",
+          "referencia": "Malaquías 2:10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "La esposa de tu juventud",
+          "texto": "Dios es testigo del pacto entre esposo y esposa. Pide cuidar ese amor y no ser desleales.",
+          "textoNino": "Dios quiere que los esposos se amen siempre.",
+          "referencia": "Malaquías 2:13-16",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El mensajero y el fuego",
+      "capitulos": "2:17–3:7",
+      "color": "dusk",
+      "resumen": "Algunos dicen que Dios no hace justicia. Dios responde que enviará a su mensajero y vendrá él mismo a su templo.",
+      "resumenNino": "Dios enviará un mensajero antes de venir.",
+      "hojas": [
+        {
+          "titulo": "Yo envío mi mensajero",
+          "texto": "Dios anuncia: «yo envío mi mensajero», que preparará el camino. Después vendrá a su templo el Señor que buscan.",
+          "textoNino": "Un mensajero prepara el camino para Dios.",
+          "referencia": "Malaquías 3:1",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Como fuego que limpia",
+          "texto": "El Señor será como fuego que afina la plata. No viene a destruir su obra, sino a purificarla.",
+          "textoNino": "Dios limpia nuestro corazón como se limpia la plata.",
+          "referencia": "Malaquías 3:2-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Yo no me mudo",
+          "texto": "Dios no cambia; por eso su pueblo no ha sido consumido. Les dice: «Tornaos a mí, y yo me tornaré a vosotros».",
+          "textoNino": "Dios no cambia: siempre nos espera.",
+          "referencia": "Malaquías 3:6-7",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Un libro de memoria",
+      "capitulos": "3:8-18",
+      "color": "warm",
+      "resumen": "Dios pide traer los diezmos a su casa y confiar en él. Y escucha a los que lo respetan y hablan de él entre sí.",
+      "resumenNino": "Dios escribe en un libro el nombre de los que lo aman.",
+      "hojas": [
+        {
+          "titulo": "Alimento en mi casa",
+          "texto": "Dios pide traer los diezmos para que haya alimento en su casa. Invita a confiar en su cuidado.",
+          "textoNino": "Dios nos invita a compartir y confiar en él.",
+          "referencia": "Malaquías 3:8-12",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Especial tesoro",
+          "texto": "Los que temen a Dios hablan entre sí, y él los escucha. Sus nombres quedan en un libro, y serán su «especial tesoro».",
+          "textoNino": "Para Dios eres un tesoro especial.",
+          "referencia": "Malaquías 3:16-18",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El Sol de justicia",
+      "capitulos": "4",
+      "color": "dawn",
+      "resumen": "Malaquías habla del día del Señor. Para los que aman a Dios será un amanecer. Y antes, Dios enviará al profeta Elías.",
+      "resumenNino": "Dios promete un amanecer lleno de alegría.",
+      "hojas": [
+        {
+          "titulo": "Saltaréis como becerros",
+          "texto": "Para los que honran a Dios nacerá el Sol de justicia, que trae salud. Saltarán de alegría como becerros sueltos.",
+          "textoNino": "Saltarán de alegría como terneros felices.",
+          "referencia": "Malaquías 4:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El profeta Elías",
+          "texto": "Dios enviará a Elías antes del gran día. Él volverá el corazón de los padres a los hijos, y el de los hijos a los padres.",
+          "textoNino": "Dios unirá a papás e hijos otra vez.",
+          "referencia": "Malaquías 4:4-6",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús dice que Juan el Bautista es el mensajero de Malaquías 3:1. El ángel anuncia que Juan vendrá «con el espíritu y virtud de Elías». Detrás de Juan llega Jesús, el Señor que viene a su templo.",
+    "referencias": ["Mateo 11:10-14", "Lucas 1:16-17"]
+  },
+  "paraTuVida": [
+    "Dale a Dios lo mejor de tu día, no el tiempo que sobra.",
+    "Busca reconciliarte con un padre, un hijo o un hermano.",
+    "Habla de Dios con un amigo esta semana: él escucha."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué dice Dios al comenzar el libro de Malaquías?",
+      "opciones": ["Yo os he amado", "Yo os castigaré", "Yo me iré lejos"],
+      "correcta": 0,
+      "explicacion": "Malaquías empieza con el amor de Dios: «Yo os he amado» (Malaquías 1:2)."
+    },
+    {
+      "pregunta": "¿A qué profeta promete enviar Dios antes del gran día?",
+      "opciones": ["Moisés", "Isaías", "Elías"],
+      "correcta": 2,
+      "explicacion": "Dios dice: «yo os envío a Elías el profeta» (Malaquías 4:5)."
+    },
+    {
+      "pregunta": "¿Quién es el mensajero de Malaquías 3:1, según Jesús?",
+      "opciones": ["Pedro", "Juan el Bautista", "Pablo"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo que Juan el Bautista es el mensajero que prepara el camino (Mateo 11:10)."
+    }
+  ],
+  "estudio": ["malaquias", "nehemias"],
+  "conexiones": [
+    { "id": "nehemias", "motivo": "Nehemías vive en la misma época y enfrenta problemas parecidos." },
+    { "id": "lucas", "motivo": "Juan el Bautista viene con el espíritu de Elías." },
+    { "id": "mateo", "motivo": "Jesús explica quién es el mensajero de Malaquías." }
+  ]
+}

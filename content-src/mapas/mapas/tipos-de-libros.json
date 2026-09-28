@@ -1,0 +1,237 @@
+{
+  "id": "tipos-de-libros",
+  "tipo": "tema",
+  "titulo": "Los tipos de libros",
+  "subtitulo": "Ley, historia, poesía, profetas, evangelios y cartas",
+  "centro": {
+    "texto": "Los 66 libros comunes son de distintos tipos: historia, poesía, profecía y cartas.",
+    "textoNino": "La Biblia tiene historias, canciones, profecías y cartas."
+  },
+  "versiculo": {
+    "texto": "Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza.",
+    "referencia": "Romanos 15:4"
+  },
+  "ramas": [
+    {
+      "titulo": "La Ley",
+      "capitulos": "",
+      "color": "warm",
+      "resumen": "Son los cinco primeros libros, de Génesis a Deuteronomio, también llamados Pentateuco. Cuentan los comienzos y el pacto de Dios con Israel. La tradición los atribuye a Moisés.",
+      "resumenNino": "Los cinco primeros libros cuentan cómo empezó todo.",
+      "hojas": [
+        {
+          "titulo": "Génesis",
+          "texto": "El libro de los comienzos: la creación, la caída, Noé y la familia de Abraham.",
+          "textoNino": "Cuenta cómo Dios hizo el mundo.",
+          "referencia": "Génesis 1:1",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Éxodo, Levítico y Números",
+          "texto": "Dios libera a Israel de Egipto, le da su Ley en el Sinaí y lo guía cuarenta años por el desierto.",
+          "textoNino": "Dios sacó a su pueblo de Egipto y lo cuidó en el desierto.",
+          "referencia": "Éxodo 20:1-17",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Deuteronomio",
+          "texto": "Antes de morir, Moisés repite la Ley a la nueva generación y la llama a amar a Dios.",
+          "textoNino": "Moisés se despide y dice: ama a Dios.",
+          "referencia": "Deuteronomio 6:4-5",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Los libros de historia",
+      "capitulos": "",
+      "color": "amber",
+      "resumen": "Doce libros, de Josué a Ester, cuentan la vida de Israel hasta el regreso del exilio. Las Biblias católicas incluyen siete libros más en el Antiguo Testamento; las evangélicas, no.",
+      "resumenNino": "Doce libros cuentan la historia del pueblo de Dios.",
+      "hojas": [
+        {
+          "titulo": "Josué, Jueces y Rut",
+          "texto": "Israel entra en la tierra, cae y se levanta con los jueces. Rut muestra la fidelidad de Dios en una familia.",
+          "textoNino": "El pueblo llega a la tierra que Dios prometió.",
+          "referencia": "Josué 21:43",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Samuel, Reyes y Crónicas",
+          "texto": "Seis libros cuentan el tiempo de los reyes, desde Saúl y David hasta la caída de Jerusalén.",
+          "textoNino": "Cuentan la historia de los reyes, como David.",
+          "referencia": "2 Samuel 7:16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Esdras, Nehemías y Ester",
+          "texto": "El pueblo vuelve del exilio, reconstruye el templo y los muros, y Dios lo protege aun lejos de casa.",
+          "textoNino": "El pueblo vuelve a casa y arregla la ciudad.",
+          "referencia": "Nehemías 8:1-8",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Poesía y sabiduría",
+      "capitulos": "",
+      "color": "dawn",
+      "resumen": "Cinco libros escritos en forma de poesía. Enseñan a orar, a sufrir con fe, a vivir con sabiduría y a celebrar el amor.",
+      "resumenNino": "Cinco libros con canciones, oraciones y buenos consejos.",
+      "hojas": [
+        {
+          "titulo": "Job",
+          "texto": "Un hombre justo sufre y pregunta por qué. En medio del dolor dice: «Yo sé que mi Redentor vive».",
+          "textoNino": "Job sufrió mucho, pero siguió confiando en Dios.",
+          "referencia": "Job 19:25",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Salmos",
+          "texto": "Ciento cincuenta oraciones y cantos para toda situación: alegría, miedo, culpa, gratitud y esperanza.",
+          "textoNino": "Canciones para hablar con Dios.",
+          "referencia": "Salmos 23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Proverbios",
+          "texto": "Frases cortas para la vida diaria. Todo empieza aquí: «El principio de la sabiduría es el temor de Jehová».",
+          "textoNino": "Buenos consejos para cada día.",
+          "referencia": "Proverbios 1:7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Eclesiastés y Cantares",
+          "texto": "Eclesiastés busca el sentido de la vida bajo el sol. Cantares celebra el amor entre un hombre y una mujer.",
+          "textoNino": "Hay un tiempo para todo, y el amor es un regalo.",
+          "referencia": "Eclesiastés 3:1-8",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Los profetas",
+      "capitulos": "",
+      "color": "olive",
+      "resumen": "Diecisiete libros llevan el mensaje de Dios a su pueblo. Llaman a volver a él, denuncian la injusticia y anuncian un futuro de esperanza.",
+      "resumenNino": "Los profetas llevaban mensajes de Dios al pueblo.",
+      "hojas": [
+        {
+          "titulo": "Los profetas mayores",
+          "texto": "Isaías, Jeremías, Lamentaciones, Ezequiel y Daniel. Se llaman mayores por ser más largos.",
+          "textoNino": "Cinco libros largos de profetas.",
+          "referencia": "Isaías 6:8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Los profetas menores",
+          "texto": "Doce libros cortos, de Oseas a Malaquías. Son menores por su tamaño, no por su importancia.",
+          "textoNino": "Doce libros cortos, pero muy importantes.",
+          "referencia": "Miqueas 6:8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un pacto nuevo",
+          "texto": "Los profetas miran más allá de su tiempo. Jeremías anuncia que Dios hará un pacto nuevo con su pueblo.",
+          "textoNino": "Anunciaron que Dios haría algo nuevo.",
+          "referencia": "Jeremías 31:31-34",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelios y Hechos",
+      "capitulos": "",
+      "color": "rose",
+      "resumen": "Cinco libros de historia en el Nuevo Testamento. Los cuatro Evangelios cuentan la vida de Jesús; Hechos, los primeros pasos de la Iglesia.",
+      "resumenNino": "Cinco libros cuentan de Jesús y de sus amigos.",
+      "hojas": [
+        {
+          "titulo": "Mateo, Marcos y Lucas",
+          "texto": "Estos tres Evangelios se parecen mucho y a veces cuentan los mismos hechos. Cada uno tiene su propia mirada.",
+          "textoNino": "Tres libros cuentan la vida de Jesús.",
+          "referencia": "Lucas 1:1-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Juan",
+          "texto": "El cuarto Evangelio cuenta otras señales y conversaciones de Jesús. Se escribió «para que creáis que Jesús es el Cristo».",
+          "textoNino": "Juan escribió para que creamos en Jesús.",
+          "referencia": "Juan 20:30-31",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Hechos",
+          "texto": "Lucas sigue la historia: el Espíritu Santo llega, y la buena noticia va de Jerusalén hasta Roma.",
+          "textoNino": "La buena noticia llegó a muchos países.",
+          "referencia": "Hechos 1:8",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Cartas y Apocalipsis",
+      "capitulos": "",
+      "color": "dusk",
+      "resumen": "Veintiuna cartas enseñan y animan a las primeras iglesias. El Apocalipsis cierra la Biblia con la victoria de Cristo.",
+      "resumenNino": "Cartas para los cristianos y un libro sobre el final.",
+      "hojas": [
+        {
+          "titulo": "Las cartas de Pablo",
+          "texto": "Trece cartas, de Romanos a Filemón. Algunas van a iglesias y otras a personas, como Timoteo o Tito.",
+          "textoNino": "Pablo escribió trece cartas.",
+          "referencia": "2 Tesalonicenses 3:17",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Otras cartas",
+          "texto": "Hebreos, Santiago, las cartas de Pedro y de Juan, y Judas. Hebreos no dice quién la escribió.",
+          "textoNino": "Otros apóstoles también escribieron cartas.",
+          "referencia": "Santiago 1:22",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Apocalipsis",
+          "texto": "Un libro lleno de visiones y símbolos. Hay varias maneras de leerlo, pero todos comparten su mensaje: Cristo vence.",
+          "textoNino": "Un libro de visiones: Jesús gana al final.",
+          "referencia": "Apocalipsis 21:1-5",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús dijo que de él hablaban la ley de Moisés, los profetas y los salmos. Cada tipo de libro lo muestra a su manera. La historia lo prepara, la poesía lo canta, los profetas lo anuncian y las cartas lo explican.",
+    "referencias": ["Lucas 24:44"]
+  },
+  "paraTuVida": [
+    "Esta semana lee un poco de tres tipos distintos: un salmo, un capítulo de un Evangelio y una carta corta.",
+    "Antes de leer un libro, pregúntate qué tipo es: así lo entenderás mejor."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos libros forman la Ley o Pentateuco?",
+      "opciones": ["Cinco", "Doce", "Cuatro"],
+      "correcta": 0,
+      "explicacion": "La Ley son los cinco primeros libros, de Génesis a Deuteronomio."
+    },
+    {
+      "pregunta": "¿Por qué se llaman «menores» doce profetas?",
+      "opciones": ["Porque eran jóvenes", "Porque importan menos", "Porque sus libros son cortos"],
+      "correcta": 2,
+      "explicacion": "Se llaman menores por el tamaño de sus libros, no por su importancia."
+    },
+    {
+      "pregunta": "¿Qué tres partes nombró Jesús al hablar de las Escrituras?",
+      "opciones": ["Cartas, visiones y cantos", "La ley, los profetas y los salmos", "Reyes, jueces y apóstoles"],
+      "correcta": 1,
+      "explicacion": "Jesús habló de lo escrito de él en la ley, los profetas y los salmos (Lucas 24:44)."
+    }
+  ],
+  "estudio": ["tu-biblia", "como-usar", "once-eras"],
+  "conexiones": [
+    { "id": "mapa-de-la-biblia", "motivo": "Mira la Biblia entera en un solo mapa." },
+    { "id": "genesis", "motivo": "Empieza por el primer libro de la Ley." },
+    { "id": "linea-del-tiempo", "motivo": "Ubica cada libro en la historia." }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "isaias",
+  "tipo": "libro",
+  "titulo": "Isaías",
+  "subtitulo": "El Santo que viene a salvar",
+  "libro": "Isa",
+  "centro": {
+    "texto": "Dios es santo, corrige a su pueblo y viene él mismo a salvarlo",
+    "textoNino": "Dios es santo y viene a salvarnos con amor"
+  },
+  "versiculo": {
+    "texto": "Mas él herido fue por nuestras rebeliones, molido por nuestros pecados: el castigo de nuestra paz sobre él; y por su llaga fuimos nosotros curados.",
+    "referencia": "Isaías 53:5"
+  },
+  "ramas": [
+    {
+      "titulo": "Santo, santo, santo",
+      "capitulos": "1–6",
+      "color": "warm",
+      "resumen": "Isaías habla a Judá, el reino del sur, en Jerusalén. Es la época de los reyes Uzías, Jotam, Acaz y Ezequías (c. 740–680 a.C.).",
+      "resumenNino": "Isaías vivía en Jerusalén y hablaba de parte de Dios.",
+      "hojas": [
+        {
+          "titulo": "Blancos como la nieve",
+          "texto": "El pueblo se alejó de Dios y hay injusticia. Aun así, Dios invita a volver: los pecados rojos quedarán «como la nieve».",
+          "textoNino": "Dios quiere limpiar nuestro corazón, blanco como la nieve.",
+          "referencia": "Isaías 1:16-20",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El canto de la viña",
+          "texto": "Dios cuida una viña con amor, pero da uvas malas. La viña es su pueblo: Dios esperaba justicia y encontró clamor.",
+          "textoNino": "Dios cuidó a su pueblo como a un huerto de uvas.",
+          "referencia": "Isaías 5:1-7",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Isaías ve al Señor",
+          "texto": "En el templo, Isaías ve al Señor en su trono. Siente su pecado, y Dios lo limpia. Entonces responde: «Heme aquí, envíame a mí».",
+          "textoNino": "Isaías vio a Dios y le dijo: «envíame a mí».",
+          "referencia": "Isaías 6:1-8",
+          "tipo": "evento"
+        }
+      ]
+    },
+    {
+      "titulo": "Un niño nos es nacido",
+      "capitulos": "7–12",
+      "color": "amber",
+      "resumen": "El rey Acaz tiene miedo de sus vecinos. Isaías le pide confiar en Dios y anuncia un niño que traerá paz para siempre.",
+      "resumenNino": "Dios promete un niño que será un rey de paz.",
+      "hojas": [
+        {
+          "titulo": "La señal de Emanuel",
+          "texto": "Dios da una señal: la virgen tendrá un hijo, y lo llamarán Emanuel, que quiere decir «Dios con nosotros».",
+          "textoNino": "Un bebé llamado Emanuel: Dios con nosotros.",
+          "referencia": "Isaías 7:10-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El Príncipe de paz",
+          "texto": "Un niño reinará en el trono de David. Sus nombres dicen quién es: Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.",
+          "textoNino": "Un niño será rey y traerá paz a todos.",
+          "referencia": "Isaías 9:1-7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El lobo con el cordero",
+          "texto": "De la familia de Isaí, el padre de David, saldrá un rey justo. En su reino, el lobo vivirá con el cordero.",
+          "textoNino": "Un día el lobo y el corderito serán amigos.",
+          "referencia": "Isaías 11:1-10",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios cuida a las naciones",
+      "capitulos": "13–27",
+      "color": "dawn",
+      "resumen": "Isaías habla a los pueblos vecinos, desde Babilonia hasta Egipto. Dios juzga el orgullo de todos, pero sueña con bendecir a todos.",
+      "resumenNino": "Dios ve a todos los pueblos y quiere bendecirlos.",
+      "hojas": [
+        {
+          "titulo": "Mensajes a los pueblos",
+          "texto": "Babilonia, Moab, Damasco, Egipto y Tiro reciben palabra de Dios. Ningún imperio es más grande que el Señor.",
+          "textoNino": "Dios es más grande que todos los reyes.",
+          "referencia": "Isaías 13–23",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Egipto y Asiria bendecidos",
+          "texto": "Isaías ve un camino de Egipto a Asiria. Los antiguos enemigos adoran juntos, y Dios los llama «pueblo mío» y «obra de mis manos».",
+          "textoNino": "Pueblos enemigos adoran juntos a Dios.",
+          "referencia": "Isaías 19:23-25",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Un banquete sin lágrimas",
+          "texto": "Dios prepara un banquete para todos los pueblos en su monte. Destruirá la muerte y enjugará «toda lágrima de todos los rostros».",
+          "textoNino": "Dios secará todas nuestras lágrimas.",
+          "referencia": "Isaías 25:6-9",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Confiar cuando llega Asiria",
+      "capitulos": "28–39",
+      "color": "olive",
+      "resumen": "Judá busca ayuda en Egipto contra Asiria. Isaías dice que la fuerza está en confiar en Dios. El rey Ezequías ora, y Dios responde.",
+      "resumenNino": "El rey Ezequías oró, y Dios cuidó la ciudad.",
+      "hojas": [
+        {
+          "titulo": "Una piedra firme",
+          "texto": "Dios pone en Sion una piedra de esquina, probada y firme. Quien confía en ella no tiene que correr con miedo.",
+          "textoNino": "Dios es firme como una roca.",
+          "referencia": "Isaías 28:16",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "El desierto florece",
+          "texto": "El desierto se llenará de flores. Los ciegos verán, los sordos oirán y el cojo saltará como un ciervo.",
+          "textoNino": "Los ciegos verán y los cojos saltarán.",
+          "referencia": "Isaías 35:1-10",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Ezequías ora",
+          "texto": "El rey de Asiria rodea Jerusalén y se burla de Dios. Ezequías extiende la carta ante el Señor y ora. Dios libra la ciudad.",
+          "textoNino": "El rey oró en el templo, y Dios lo ayudó.",
+          "referencia": "Isaías 37:14-37",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Quince años más",
+          "texto": "Ezequías se enferma y llora ante Dios. El Señor le dice: «Tu oración he oído», y le da quince años más de vida.",
+          "textoNino": "Dios escuchó al rey enfermo y lo sanó.",
+          "referencia": "Isaías 38:1-8",
+          "tipo": "persona"
+        }
+      ]
+    },
+    {
+      "titulo": "Consolaos, pueblo mío",
+      "capitulos": "40–55",
+      "color": "rose",
+      "resumen": "Estos capítulos miran al exilio en Babilonia, más de cien años después. Dios consuela a su pueblo y promete un nuevo regreso a casa.",
+      "resumenNino": "Dios consuela a su pueblo lejos de casa.",
+      "hojas": [
+        {
+          "titulo": "Nuevas fuerzas",
+          "texto": "La hierba se seca, pero la palabra de Dios permanece. Los que esperan en él levantan alas como águilas.",
+          "textoNino": "Dios nos da fuerzas para volar como águilas.",
+          "referencia": "Isaías 40:1-31",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Ciro, el rey persa",
+          "texto": "Dios nombra a Ciro, un rey extranjero. Él mandará reconstruir Jerusalén y el templo. Dios guía la historia.",
+          "textoNino": "Dios usó a un rey para que su pueblo volviera.",
+          "referencia": "Isaías 44:24–45:7",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "El siervo que sufre",
+          "texto": "El siervo del Señor es despreciado y herido. Carga el pecado de todos y calla «como cordero». Por su herida somos sanados.",
+          "textoNino": "El siervo de Dios sufrió para salvarnos.",
+          "referencia": "Isaías 52:13–53:12",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Venid a las aguas",
+          "texto": "Dios invita a todos los sedientos a comer y beber gratis. Su perdón es grande, y su palabra no vuelve vacía.",
+          "textoNino": "Dios nos invita a su mesa, gratis.",
+          "referencia": "Isaías 55:1-11",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Nuevos cielos y tierra",
+      "capitulos": "56–66",
+      "color": "dusk",
+      "resumen": "Dios abre su casa a todos los pueblos. Anuncia buenas noticias a los que sufren y promete un mundo nuevo.",
+      "resumenNino": "Dios hará todo nuevo y lleno de alegría.",
+      "hojas": [
+        {
+          "titulo": "Casa de oración",
+          "texto": "Los extranjeros que aman a Dios también son bienvenidos. Su casa será «casa de oración» para todos los pueblos.",
+          "textoNino": "En la casa de Dios hay lugar para todos.",
+          "referencia": "Isaías 56:1-8",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Buenas nuevas",
+          "texto": "El Espíritu del Señor unge a un enviado. Viene a sanar a los quebrantados de corazón y a dar libertad a los cautivos.",
+          "textoNino": "Dios envía a alguien a sanar corazones tristes.",
+          "referencia": "Isaías 61:1-3",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Todo nuevo",
+          "texto": "Dios crea «nuevos cielos y nueva tierra». Ya no habrá llanto. Consolará a su pueblo como una madre consuela a su hijo.",
+          "textoNino": "Dios hará un mundo nuevo sin llanto.",
+          "referencia": "Isaías 65:17–66:13",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Mateo ve en Jesús al Emanuel, «Dios con nosotros». En Nazaret, Jesús lee Isaías 61 y dice que se cumple ese día. Felipe explica Isaías 53 a un etíope: el cordero que calla es Jesús.",
+    "referencias": ["Mateo 1:22-23", "Lucas 4:16-21", "Hechos 8:32-35"]
+  },
+  "paraTuVida": [
+    "Lee Isaías 53 despacio y pon tu nombre donde dice «nosotros».",
+    "Cuando estés cansado, repite Isaías 40:31 y espera en Dios.",
+    "Como Isaías, dile hoy a Dios: «Heme aquí, envíame a mí»."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Qué cantaban los serafines que vio Isaías?",
+      "opciones": ["Aleluya, amén", "Santo, santo, santo", "Gloria a Dios"],
+      "correcta": 1,
+      "explicacion": "Isaías oyó «Santo, santo, santo» cuando vio al Señor en el templo (Isaías 6:3)."
+    },
+    {
+      "pregunta": "¿Qué nombre tendría el hijo de la virgen?",
+      "opciones": ["Emanuel", "Ezequías", "Isaí"],
+      "correcta": 0,
+      "explicacion": "Emanuel quiere decir «Dios con nosotros» (Isaías 7:14; Mateo 1:23)."
+    },
+    {
+      "pregunta": "¿Qué capítulo de Isaías leyó Jesús en la sinagoga de Nazaret?",
+      "opciones": ["Isaías 6", "Isaías 40", "Isaías 61"],
+      "correcta": 2,
+      "explicacion": "Jesús leyó Isaías 61 y dijo: hoy se cumple esta Escritura (Lucas 4:16-21)."
+    }
+  ],
+  "estudio": ["isaias", "2-reyes-18-21"],
+  "conexiones": [
+    { "id": "miqueas", "motivo": "Miqueas profetiza en los mismos años y anuncia Belén." },
+    { "id": "2-reyes", "motivo": "Allí se cuenta la historia de Ezequías y Asiria." },
+    { "id": "lucas", "motivo": "Jesús lee Isaías 61 en Nazaret." }
+  ]
+}

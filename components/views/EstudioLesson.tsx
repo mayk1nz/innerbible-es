@@ -1,4 +1,4 @@
-﻿'use client'
+'use client'
 
 import Link from 'next/link'
 import { useEffect, useState, type ReactNode } from 'react'
@@ -303,7 +303,7 @@ function Completo({ l }: { l: Leccion }) {
       <Bloque icon="gift" title="Para los niños">
         <p className="leading-relaxed text-ink">{l.ninos.pregunta}</p>
         <p className="mt-2 leading-relaxed text-text">
-          <span className="font-semibold text-ink">Actividad:</span> {l.ninos.actividad}
+          {l.ninos.actividad}
         </p>
       </Bloque>
 

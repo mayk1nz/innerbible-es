@@ -2,7 +2,11 @@
   "id": "jose-de-arimatea",
   "titulo": "José de Arimatea",
   "subtitulo": "El que dio su sepulcro a Jesús",
-  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Jerusalén"],
+  "etiquetas": [
+    "Siglo I",
+    "Alrededor de Jesús",
+    "Jerusalén"
+  ],
   "enUnMinuto": [
     "José de Arimatea era un hombre rico y miembro del consejo de los jefes de su pueblo.",
     "Seguía a Jesús en secreto, pero el día de la cruz se llenó de valor.",
@@ -78,43 +82,82 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Mateo 27:57-61", "nota": "El rico que pidió el cuerpo" },
-        { "ref": "Marcos 15:42-47", "nota": "Entró con valentía a Pilato" },
-        { "ref": "Lucas 23:50-56", "nota": "Bueno y justo" },
-        { "ref": "Juan 19:38-42", "nota": "Con Nicodemo, en el huerto" },
-        { "ref": "Isaías 53:9", "nota": "Con los ricos en su muerte" }
+        {
+          "ref": "Mateo 27:57-61",
+          "nota": "El rico que pidió el cuerpo"
+        },
+        {
+          "ref": "Marcos 15:42-47",
+          "nota": "Entró con valentía a Pilato"
+        },
+        {
+          "ref": "Lucas 23:50-56",
+          "nota": "Bueno y justo"
+        },
+        {
+          "ref": "Juan 19:38-42",
+          "nota": "Con Nicodemo, en el huerto"
+        },
+        {
+          "ref": "Isaías 53:9",
+          "nota": "Con los ricos en su muerte"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "José le prestó a Jesús su tumba nueva. ¡Y Jesús se la devolvió vacía, porque resucitó! ¿Qué te gustaría regalarle tú a Jesús?",
-      "actividad": "Para papás y abuelos: José tuvo valor para ayudar a Jesús (Marcos 15:43). Hagan juntos una piedra de papel que se mueve y cuenten que Jesús resucitó."
+      "actividad": "Para el adulto: José tuvo valor para ayudar a Jesús (Marcos 15:43). Hagan juntos una piedra de papel que se mueve y cuenten que Jesús resucitó."
     },
     {
       "tipo": "oracion",
       "texto": "Señor Jesús, como José de Arimatea, no quiero seguirte a escondidas. Dame valor para mostrar que te amo. Recibe lo mejor que tengo, y llénalo de tu vida. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué le pudo costar a José pedir el cuerpo de Jesús?",
+        "¿Conocen a alguien que sigue a Jesús en secreto? ¿Cómo podríamos animarlo?",
+        "¿Qué “sepulcro nuevo” podríamos poner hoy al servicio de Jesús?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿Dónde puso José el cuerpo de Jesús?",
-      "opciones": ["En la tumba de su familia en Galilea", "En su propio sepulcro nuevo", "En una cueva del desierto"],
+      "opciones": [
+        "En la tumba de su familia en Galilea",
+        "En su propio sepulcro nuevo",
+        "En una cueva del desierto"
+      ],
       "correcta": 1,
       "explicacion": "José lo puso en su sepulcro nuevo, cavado en la roca (Mateo 27:60)."
     },
     {
       "pregunta": "¿Por qué José seguía a Jesús en secreto al principio?",
-      "opciones": ["Por miedo a las autoridades", "Porque vivía lejos", "Porque Jesús se lo pidió"],
+      "opciones": [
+        "Por miedo a las autoridades",
+        "Porque vivía lejos",
+        "Porque Jesús se lo pidió"
+      ],
       "correcta": 0,
       "explicacion": "Juan dice que era discípulo en secreto, por miedo (Juan 19:38)."
     },
     {
       "pregunta": "¿Qué profeta anunció que el Siervo estaría con los ricos en su muerte?",
-      "opciones": ["Jeremías", "Malaquías", "Isaías"],
+      "opciones": [
+        "Jeremías",
+        "Malaquías",
+        "Isaías"
+      ],
       "correcta": 2,
       "explicacion": "Isaías 53:9 lo anunció, y se cumplió en la tumba de José."
     }
   ],
-  "estudio": ["pasion-y-muerte", "resurreccion"],
+  "estudio": [
+    "pasion-y-muerte",
+    "resurreccion"
+  ],
   "buscar": "José de Arimatea"
 }

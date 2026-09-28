@@ -2,7 +2,11 @@
   "id": "adan",
   "titulo": "Adán",
   "subtitulo": "El primer hombre",
-  "etiquetas": ["Los orígenes", "Antiguo Testamento", "El huerto del Edén"],
+  "etiquetas": [
+    "Los orígenes",
+    "Antiguo Testamento",
+    "El huerto del Edén"
+  ],
   "enUnMinuto": [
     "Dios formó a Adán del polvo de la tierra y le dio vida con su aliento.",
     "Lo puso en un huerto hermoso, le dio a Eva por compañera y una sola regla, pero Adán desobedeció.",
@@ -79,47 +83,97 @@
       "tipo": "referencias",
       "titulo": "¿Dónde aparece en la Biblia?",
       "items": [
-        { "ref": "Génesis 1:26-31", "nota": "Creados a imagen de Dios" },
-        { "ref": "Génesis 2:4-25", "nota": "El huerto y la mujer" },
-        { "ref": "Génesis 3", "nota": "La caída y la promesa" },
-        { "ref": "Génesis 4:1-2", "nota": "Caín y Abel" },
-        { "ref": "Génesis 5:1-5", "nota": "Sus descendientes y su muerte" },
-        { "ref": "Lucas 3:38", "nota": "En la lista de antepasados de Jesús" },
-        { "ref": "Romanos 5:12-19", "nota": "Adán y Cristo" },
-        { "ref": "1 Corintios 15:20-22", "nota": "En Cristo todos vivirán" },
-        { "ref": "1 Corintios 15:45-49", "nota": "El primer y el último Adán" }
+        {
+          "ref": "Génesis 1:26-31",
+          "nota": "Creados a imagen de Dios"
+        },
+        {
+          "ref": "Génesis 2:4-25",
+          "nota": "El huerto y la mujer"
+        },
+        {
+          "ref": "Génesis 3",
+          "nota": "La caída y la promesa"
+        },
+        {
+          "ref": "Génesis 4:1-2",
+          "nota": "Caín y Abel"
+        },
+        {
+          "ref": "Génesis 5:1-5",
+          "nota": "Sus descendientes y su muerte"
+        },
+        {
+          "ref": "Lucas 3:38",
+          "nota": "En la lista de antepasados de Jesús"
+        },
+        {
+          "ref": "Romanos 5:12-19",
+          "nota": "Adán y Cristo"
+        },
+        {
+          "ref": "1 Corintios 15:20-22",
+          "nota": "En Cristo todos vivirán"
+        },
+        {
+          "ref": "1 Corintios 15:45-49",
+          "nota": "El primer y el último Adán"
+        }
       ]
     },
     {
       "tipo": "ninos",
       "texto": "Dios le pidió a Adán poner nombre a todos los animales. ¿Qué nombre le pondrías tú a un animal nuevo?",
-      "actividad": "Para papás y abuelos: Dios creó todo y dijo que era muy bueno (Génesis 1:31). Salgan juntos y den gracias a Dios por tres animales o plantas que vean."
+      "actividad": "Para el adulto: Dios creó todo y dijo que era muy bueno (Génesis 1:31). Salgan juntos y den gracias a Dios por tres animales o plantas que vean."
     },
     {
       "tipo": "oracion",
       "texto": "Dios Creador, gracias por darme vida con tu aliento. Cuando me esconda, búscame. Cuando falle, cúbreme con tu gracia. Gracias por Jesús, que me da vida nueva. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Dios buscó a Adán con una pregunta y no con un castigo?",
+        "¿En qué se parece hoy nuestra tendencia a culpar a otros?",
+        "¿Qué significa para ustedes que Jesús sea el “último Adán”?"
+      ]
     }
   ],
   "quiz": [
     {
       "pregunta": "¿De qué formó Dios a Adán?",
-      "opciones": ["Del agua del río", "Del polvo de la tierra", "De una costilla"],
+      "opciones": [
+        "Del agua del río",
+        "Del polvo de la tierra",
+        "De una costilla"
+      ],
       "correcta": 1,
       "explicacion": "Dios formó al hombre del polvo de la tierra y le dio aliento de vida (Génesis 2:7)."
     },
     {
       "pregunta": "¿Qué pregunta le hizo Dios a Adán cuando se escondió?",
-      "opciones": ["¿Dónde estás tú?", "¿Quién eres tú?", "¿Por qué lloras?"],
+      "opciones": [
+        "¿Dónde estás tú?",
+        "¿Quién eres tú?",
+        "¿Por qué lloras?"
+      ],
       "correcta": 0,
       "explicacion": "Dios llamó a Adán y le preguntó: «¿Dónde estás tú?» (Génesis 3:9)."
     },
     {
       "pregunta": "¿A quién llama Pablo el “último Adán”?",
-      "opciones": ["A Noé", "A Abraham", "A Jesucristo"],
+      "opciones": [
+        "A Noé",
+        "A Abraham",
+        "A Jesucristo"
+      ],
       "correcta": 2,
       "explicacion": "Por Adán vino la muerte; por Cristo, el último Adán, viene la vida (1 Corintios 15:45)."
     }
   ],
-  "estudio": ["genesis-1-11"],
+  "estudio": [
+    "genesis-1-11"
+  ],
   "buscar": "Adán"
 }

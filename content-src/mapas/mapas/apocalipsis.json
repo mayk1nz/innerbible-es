@@ -1,0 +1,266 @@
+{
+  "id": "apocalipsis",
+  "tipo": "libro",
+  "titulo": "Apocalipsis",
+  "subtitulo": "El Cordero vence",
+  "libro": "Rev",
+  "centro": {
+    "texto": "El Cordero vence al mal, y Dios hace nuevas todas las cosas",
+    "textoNino": "Jesús gana, y Dios hará todo nuevo y bonito"
+  },
+  "versiculo": {
+    "texto": "Y limpiará Dios toda lágrima de los ojos de ellos; y la muerte no será más; y no habrá más llanto, ni clamor, ni dolor: porque las primeras cosas son pasadas.",
+    "referencia": "Apocalipsis 21:4"
+  },
+  "ramas": [
+    {
+      "titulo": "Jesús entre sus iglesias",
+      "capitulos": "1–3",
+      "color": "warm",
+      "resumen": "Desde la isla de Patmos, Juan ve a Jesús resucitado, lleno de luz. Jesús envía cartas a siete iglesias: las anima, las corrige y les promete premio.",
+      "resumenNino": "Jesús vivo le habla a Juan y manda cartas a siete iglesias.",
+      "hojas": [
+        {
+          "titulo": "Un libro de visiones",
+          "texto": "Juan cuenta lo que vio en visiones llenas de símbolos. Hay varias maneras de leerlo; todas coinciden en que Cristo vence.",
+          "textoNino": "Juan vio cosas maravillosas que Dios le mostró.",
+          "referencia": "Apocalipsis 1:1-3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Juan en Patmos",
+          "texto": "Juan está en la isla de Patmos por anunciar a Jesús. La tradición lo identifica con el apóstol Juan; otros, con otro Juan. Jesús le dice: «No temas».",
+          "textoNino": "Jesús le dijo a Juan: No tengas miedo.",
+          "referencia": "Apocalipsis 1:9-18",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Cartas a siete iglesias",
+          "texto": "Jesús conoce a cada iglesia. A Éfeso le pide volver a su primer amor; a Esmirna, ser fiel. Y promete premio al que venza.",
+          "textoNino": "Jesús conoce a su iglesia y la anima a amarlo.",
+          "referencia": "Apocalipsis 2–3",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Estoy a la puerta",
+          "texto": "«He aquí, yo estoy a la puerta y llamo». Jesús no fuerza la puerta: espera que le abramos para cenar con nosotros.",
+          "textoNino": "Jesús toca a tu puerta porque quiere ser tu amigo.",
+          "referencia": "Apocalipsis 3:20",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El trono y el Cordero",
+      "capitulos": "4–5",
+      "color": "amber",
+      "resumen": "Una puerta se abre en el cielo. Todos adoran a Dios en su trono. Solo el Cordero, Jesús, puede abrir el libro sellado, porque dio su vida.",
+      "resumenNino": "En el cielo todos cantan a Dios y a Jesús, el Cordero.",
+      "hojas": [
+        {
+          "titulo": "Santo, santo, santo",
+          "texto": "Juan ve el trono de Dios rodeado de un arco como esmeralda. Día y noche, el cielo canta: santo, santo, santo.",
+          "textoNino": "En el cielo cantan: Dios es santo, santo, santo.",
+          "referencia": "Apocalipsis 4",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "El León es un Cordero",
+          "texto": "Nadie puede abrir el libro, y Juan llora. Le anuncian al León de Judá, y aparece un Cordero que había sido sacrificado. Es Jesús.",
+          "textoNino": "Jesús es fuerte como un león y manso como un cordero.",
+          "referencia": "Apocalipsis 5:1-7",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Un canto nuevo",
+          "texto": "El Cordero rescató con su sangre a gente de toda lengua, pueblo y nación. Millones de ángeles y toda criatura lo alaban.",
+          "textoNino": "Gente de todos los países canta a Jesús.",
+          "referencia": "Apocalipsis 5:8-14",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Dios cuida a los suyos",
+      "capitulos": "6–11",
+      "color": "dawn",
+      "resumen": "El Cordero abre los sellos y suenan trompetas: el mundo sufre, pero Dios pone su sello en los suyos. Al final, el reino del mundo pasa a ser de Cristo.",
+      "resumenNino": "Aunque pasen cosas difíciles, Dios protege a sus hijos.",
+      "hojas": [
+        {
+          "titulo": "Marcados por Dios",
+          "texto": "Antes de cualquier daño, un ángel pone el sello de Dios en la frente de sus siervos. Son suyos y él los guarda.",
+          "textoNino": "Dios pone una marca de amor en los suyos.",
+          "referencia": "Apocalipsis 7:1-4",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Una multitud de todos los pueblos",
+          "texto": "Juan ve una multitud que nadie puede contar, de toda nación y lengua. Ya no tendrán hambre ni sed, y Dios secará sus lágrimas.",
+          "textoNino": "Muchísima gente de todo el mundo está feliz con Dios.",
+          "referencia": "Apocalipsis 7:9-17",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Oraciones que suben",
+          "texto": "Las oraciones de los santos suben ante Dios como incienso. En medio de la tormenta, el cielo escucha.",
+          "textoNino": "Tus oraciones llegan hasta Dios.",
+          "referencia": "Apocalipsis 8:3-4",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Reinará para siempre",
+          "texto": "Suena la séptima trompeta y el cielo anuncia una noticia. Los reinos del mundo son de nuestro Señor y de su Cristo, que reinará para siempre.",
+          "textoNino": "Jesús será el rey de todo el mundo para siempre.",
+          "referencia": "Apocalipsis 11:15",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "El mal no gana",
+      "capitulos": "12–14",
+      "color": "olive",
+      "resumen": "Juan ve la lucha entre el bien y el mal con imágenes fuertes. El enemigo es vencido en el cielo. Los fieles lo vencen por la sangre del Cordero.",
+      "resumenNino": "El mal parece fuerte, pero Jesús es mucho más fuerte.",
+      "hojas": [
+        {
+          "titulo": "El enemigo es vencido",
+          "texto": "Miguel y sus ángeles vencen al diablo, «la serpiente antigua», y lo echan del cielo. El cielo celebra: ha llegado la salvación de nuestro Dios.",
+          "textoNino": "Los ángeles de Dios ganan la batalla contra el mal.",
+          "referencia": "Apocalipsis 12:7-12",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Vencieron por el Cordero",
+          "texto": "Los creyentes vencen al acusador por la sangre del Cordero y por su testimonio. Su fuerza no está en ellos, sino en Jesús.",
+          "textoNino": "Ganamos gracias a Jesús, no por nuestra fuerza.",
+          "referencia": "Apocalipsis 12:11",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La paciencia de los santos",
+          "texto": "En tiempos de engaño y presión, Juan pide oír bien. «Aquí está la paciencia y la fe de los santos».",
+          "textoNino": "Cuando es difícil, seguimos confiando en Jesús.",
+          "referencia": "Apocalipsis 13:9-10",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Dichosos en el Señor",
+          "texto": "Una voz del cielo dice que los que mueren en el Señor son dichosos. Descansan de sus trabajos, y sus obras los acompañan.",
+          "textoNino": "Los que aman a Jesús descansan con él.",
+          "referencia": "Apocalipsis 14:13",
+          "tipo": "promesa"
+        }
+      ]
+    },
+    {
+      "titulo": "Cristo vence",
+      "capitulos": "15–20",
+      "color": "rose",
+      "resumen": "Los vencedores cantan a Dios. Babilonia, la ciudad orgullosa, cae. El cielo celebra las bodas del Cordero, y Jesús, Fiel y Verdadero, vence al mal para siempre.",
+      "resumenNino": "Jesús gana contra todo lo malo. ¡En el cielo hay una gran fiesta!",
+      "hojas": [
+        {
+          "titulo": "Cae la ciudad orgullosa",
+          "texto": "Babilonia se creía reina para siempre, llena de lujo e injusticia. Dios la juzga. La voz del cielo dice a su pueblo: «Salid de ella».",
+          "textoNino": "El orgullo no dura. Dios cuida a su pueblo.",
+          "referencia": "Apocalipsis 18:1-8",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Las bodas del Cordero",
+          "texto": "El cielo canta aleluya porque Dios reina. Llega la gran fiesta: las bodas del Cordero con su pueblo, vestido de lino blanco.",
+          "textoNino": "¡Jesús invita a todos a una gran fiesta!",
+          "referencia": "Apocalipsis 19:6-9",
+          "tipo": "evento"
+        },
+        {
+          "titulo": "Fiel y Verdadero",
+          "texto": "Jesús aparece en un caballo blanco. Se llama Fiel y Verdadero, el Verbo de Dios, Rey de reyes y Señor de señores.",
+          "textoNino": "Jesús es el Rey de reyes.",
+          "referencia": "Apocalipsis 19:11-16",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Los mil años",
+          "texto": "Juan ve al diablo atado y a los fieles reinando con Cristo mil años. Hay varias maneras de leer los mil años; todas celebran que Cristo vence.",
+          "textoNino": "Jesús reina con los que lo aman.",
+          "referencia": "Apocalipsis 20:1-6",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Todo nuevo",
+      "capitulos": "21–22",
+      "color": "dusk",
+      "resumen": "Dios hace un cielo nuevo y una tierra nueva. Vive con su pueblo en la nueva Jerusalén, sin lágrimas ni muerte. El libro termina con una oración: «Ven, Señor Jesús».",
+      "resumenNino": "Dios hará todo nuevo. ¡No habrá más tristeza ni dolor!",
+      "hojas": [
+        {
+          "titulo": "Dios con nosotros",
+          "texto": "Dios pone su casa entre los hombres. Secará toda lágrima y no habrá más muerte ni dolor. «He aquí, yo hago nuevas todas las cosas».",
+          "textoNino": "Dios vivirá con nosotros y secará nuestras lágrimas.",
+          "referencia": "Apocalipsis 21:1-5",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La ciudad de luz",
+          "texto": "La nueva Jerusalén brilla con la gloria de Dios. Sus puertas nunca se cierran y el Cordero es su lámpara.",
+          "textoNino": "La ciudad de Dios brilla y siempre está abierta.",
+          "referencia": "Apocalipsis 21:10-27",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "El árbol de la vida",
+          "texto": "Un río de agua de vida sale del trono. A su orilla está el árbol de la vida, cuyas hojas sanan a las naciones.",
+          "textoNino": "Hay un río limpio y un árbol que da fruto siempre.",
+          "referencia": "Apocalipsis 22:1-5",
+          "tipo": "lugar"
+        },
+        {
+          "titulo": "Ven, Señor Jesús",
+          "texto": "Jesús dice: «Ciertamente, vengo en breve». Y la Iglesia responde con deseo: «Amén, sea así. Ven, Señor Jesús».",
+          "textoNino": "Jesús dice: vengo pronto. Y nosotros le decimos: ¡ven!",
+          "referencia": "Apocalipsis 22:16-21",
+          "tipo": "promesa"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Jesús es el centro de cada visión. Es el Cordero que dio su vida y ahora comparte el trono de Dios. Es el primero y el último, y dice: «No temas». Al final, vive con su pueblo para siempre.",
+    "referencias": ["Apocalipsis 1:17-18", "Apocalipsis 5:6-9", "Juan 1:29"]
+  },
+  "paraTuVida": [
+    "Cuando algo te dé miedo, recuerda que Jesús te dice: «No temas».",
+    "Esta noche, termina tu oración diciendo: «Ven, Señor Jesús».",
+    "Piensa en alguien que llora y acompáñalo con esperanza."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Quién puede abrir el libro sellado en Apocalipsis 5?",
+      "opciones": ["Un ángel fuerte", "El Cordero", "Juan"],
+      "correcta": 1,
+      "explicacion": "Solo el Cordero, Jesús, es digno de abrir el libro (Apocalipsis 5:5-9)."
+    },
+    {
+      "pregunta": "¿Qué dice Dios que hará con nuestras lágrimas?",
+      "opciones": ["Guardarlas", "Limpiarlas todas", "Olvidarlas"],
+      "correcta": 1,
+      "explicacion": "Dios limpiará toda lágrima de los ojos de su pueblo (Apocalipsis 21:4)."
+    },
+    {
+      "pregunta": "¿Qué árbol del Edén vuelve a aparecer en Apocalipsis 22?",
+      "opciones": ["El árbol de la vida", "El olivo", "La higuera"],
+      "correcta": 0,
+      "explicacion": "El árbol de la vida estaba en el Edén (Génesis 2:9). Al final vuelve a estar al alcance de todos."
+    }
+  ],
+  "estudio": ["apocalipsis", "conclusion"],
+  "conexiones": [
+    { "id": "genesis", "motivo": "La Biblia empieza en un huerto y termina junto al árbol de la vida." },
+    { "id": "daniel", "motivo": "Daniel también usa visiones y símbolos para hablar del reino de Dios." }
+  ]
+}

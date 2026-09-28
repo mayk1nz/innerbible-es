@@ -1,0 +1,222 @@
+{
+  "id": "deuteronomio",
+  "tipo": "libro",
+  "titulo": "Deuteronomio",
+  "subtitulo": "Moisés se despide del pueblo",
+  "libro": "Deut",
+  "centro": {
+    "texto": "Moisés recuerda el camino y llama al pueblo a amar a Dios.",
+    "textoNino": "Moisés dijo: ama a Dios con todo tu corazón."
+  },
+  "versiculo": {
+    "texto": "Oye, Israel: Jehová nuestro Dios, Jehová uno es: Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todo tu poder.",
+    "referencia": "Deuteronomio 6:4-5"
+  },
+  "ramas": [
+    {
+      "titulo": "Recordar el camino",
+      "capitulos": "1–4",
+      "color": "dawn",
+      "resumen": "En los campos de Moab, Moisés habla a los hijos de los que salieron de Egipto. Les cuenta el viaje para que no olviden lo que Dios hizo.",
+      "resumenNino": "Moisés contó todo lo que Dios hizo en el camino.",
+      "hojas": [
+        {
+          "titulo": "Como un padre a su hijo",
+          "texto": "Moisés recuerda que Dios los llevó por el desierto «como trae el hombre a su hijo».",
+          "textoNino": "Dios los cargó como un papá carga a su hijo.",
+          "referencia": "Deuteronomio 1:29-33",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Nada te ha faltado",
+          "texto": "Cuarenta años en el desierto, y Dios estuvo con ellos. Moisés lo resume así: «ninguna cosa te ha faltado».",
+          "textoNino": "En cuarenta años no les faltó nada.",
+          "referencia": "Deuteronomio 2:7",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "No te olvides",
+          "texto": "Moisés pide guardar en el corazón lo que vieron sus ojos, y contarlo a los hijos y a los nietos.",
+          "textoNino": "Cuéntales a tus hijos lo que Dios hizo.",
+          "referencia": "Deuteronomio 4:9-10",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El gran mandamiento",
+      "capitulos": "5–11",
+      "color": "amber",
+      "resumen": "Moisés repite los Diez Mandamientos y da el centro de todo: amar a Dios con todo el corazón. Dios los eligió por amor, no por ser más grandes.",
+      "resumenNino": "Lo más importante es amar a Dios con todo el corazón.",
+      "hojas": [
+        {
+          "titulo": "Los Diez Mandamientos",
+          "texto": "Moisés repite las palabras que Dios dio en Horeb. Empiezan recordando quién los sacó de Egipto.",
+          "textoNino": "Moisés repitió las diez reglas de Dios.",
+          "referencia": "Deuteronomio 5:1-21",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Oye, Israel",
+          "texto": "Dios es uno. Hay que amarlo con todo el corazón, el alma y las fuerzas, y hablar de él en casa y en el camino.",
+          "textoNino": "Ama a Dios y habla de él en casa.",
+          "referencia": "Deuteronomio 6:4-9",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Elegidos por amor",
+          "texto": "Israel era el más pequeño de los pueblos. Dios no lo eligió por su tamaño, sino «porque Jehová os amó».",
+          "textoNino": "Dios los eligió porque los amaba.",
+          "referencia": "Deuteronomio 7:6-8",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "No solo de pan",
+          "texto": "El maná enseñó que el hombre no vive solo del pan, sino de toda palabra que sale de la boca de Dios.",
+          "textoNino": "Necesitamos pan y también la palabra de Dios.",
+          "referencia": "Deuteronomio 8:2-3",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Leyes para la tierra",
+      "capitulos": "12–26",
+      "color": "olive",
+      "resumen": "Moisés da leyes para la vida en Canaán. Enseñan dónde adorar, cómo celebrar, cómo juzgar con justicia y cómo cuidar al que no tiene.",
+      "resumenNino": "Dios les enseñó a vivir con justicia y a ayudar a otros.",
+      "hojas": [
+        {
+          "titulo": "Abre tu mano",
+          "texto": "Cada siete años se perdonan las deudas. Y siempre: «Abrirás tu mano a tu hermano, a tu pobre».",
+          "textoNino": "Comparte con quien no tiene.",
+          "referencia": "Deuteronomio 15:1-11",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Un profeta como Moisés",
+          "texto": "Moisés anuncia que Dios levantará otro profeta de entre el pueblo, como él. Dice: «a él oiréis».",
+          "textoNino": "Dios prometió enviar otro profeta como Moisés.",
+          "referencia": "Deuteronomio 18:15-19",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La gavilla olvidada",
+          "texto": "Si al cosechar olvidas una gavilla en el campo, déjala. Es para el extranjero, el huérfano y la viuda.",
+          "textoNino": "Lo que quedaba en el campo era para quien tenía hambre.",
+          "referencia": "Deuteronomio 24:19-22",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "Escoge la vida",
+      "capitulos": "27–30",
+      "color": "rose",
+      "resumen": "Moisés pone delante del pueblo dos caminos: la bendición y la maldición. Los invita a escoger la vida, amando a Dios y escuchando su voz.",
+      "resumenNino": "Moisés dijo: elige el camino bueno, el de Dios.",
+      "hojas": [
+        {
+          "titulo": "Bendiciones",
+          "texto": "Si el pueblo escucha la voz de Dios, las bendiciones lo alcanzarán. Estará bendito en la ciudad, en el campo, al entrar y al salir.",
+          "textoNino": "Dios quería llenar de cosas buenas a su pueblo.",
+          "referencia": "Deuteronomio 28:1-14",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Volver al Señor",
+          "texto": "Aun si se alejan y terminan lejos, Dios promete recogerlos cuando vuelvan a él de corazón.",
+          "textoNino": "Si se alejaban, Dios los recibiría otra vez.",
+          "referencia": "Deuteronomio 30:1-6",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "La palabra está cerca",
+          "texto": "La palabra de Dios no está lejos ni escondida. Moisés dice: «muy cerca de ti está la palabra, en tu boca y en tu corazón».",
+          "textoNino": "La palabra de Dios está cerca, en tu corazón.",
+          "referencia": "Deuteronomio 30:11-14",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Escoge pues la vida",
+          "texto": "Moisés pone delante la vida y la muerte. Su consejo es claro: «escoge pues la vida», amando a Dios.",
+          "textoNino": "Moisés dijo: «Escoge la vida».",
+          "referencia": "Deuteronomio 30:15-20",
+          "tipo": "ensenanza"
+        }
+      ]
+    },
+    {
+      "titulo": "El adiós de Moisés",
+      "capitulos": "31–34",
+      "color": "dusk",
+      "resumen": "Moisés anima a Josué, canta un cántico y bendice a las tribus. Desde el monte Nebo ve la tierra prometida y muere. Dios mismo lo sepulta.",
+      "resumenNino": "Moisés vio la tierra desde un monte y se despidió.",
+      "hojas": [
+        {
+          "titulo": "Esfuérzate y anímate",
+          "texto": "Moisés dice a Josué frente a todos: Dios va delante de ti y «no te dejará, ni te desamparará».",
+          "textoNino": "Moisés le dijo a Josué: «No tengas miedo».",
+          "referencia": "Deuteronomio 31:7-8",
+          "tipo": "persona"
+        },
+        {
+          "titulo": "Él es la Roca",
+          "texto": "El cántico de Moisés alaba a Dios, justo y fiel, aunque el pueblo le falle.",
+          "textoNino": "Moisés cantó que Dios es fuerte como una roca.",
+          "referencia": "Deuteronomio 32:1-6",
+          "tipo": "ensenanza"
+        },
+        {
+          "titulo": "Los brazos eternos",
+          "texto": "Moisés bendice a cada tribu. Termina diciendo: «El eterno Dios es tu refugio, y acá abajo los brazos eternos».",
+          "textoNino": "Dios nos sostiene con sus brazos.",
+          "referencia": "Deuteronomio 33:26-29",
+          "tipo": "promesa"
+        },
+        {
+          "titulo": "Desde el monte Nebo",
+          "texto": "Dios muestra a Moisés toda la tierra prometida. Moisés muere allí, y nunca más se levanta un profeta como él.",
+          "textoNino": "Moisés vio la tierra prometida desde lo alto.",
+          "referencia": "Deuteronomio 34",
+          "tipo": "lugar"
+        }
+      ]
+    }
+  ],
+  "cristo": {
+    "texto": "Moisés anuncia un profeta como él, y Pedro enseña que es Jesús. En el desierto, Jesús vence la tentación con palabras de Deuteronomio. Y cuando le preguntan por el mandamiento principal, responde con el «Oye, Israel».",
+    "referencias": ["Hechos 3:22", "Mateo 4:4", "Mateo 22:37-38"]
+  },
+  "paraTuVida": [
+    "Cuenta esta semana a alguien de tu familia algo que Dios hizo por ti.",
+    "Aprende de memoria Deuteronomio 6:5 y repítelo al levantarte y al acostarte."
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Desde qué monte vio Moisés la tierra prometida?",
+      "opciones": ["Sinaí", "Nebo", "Carmelo"],
+      "correcta": 1,
+      "explicacion": "Moisés subió al monte Nebo, y Dios le mostró toda la tierra (Deuteronomio 34:1-4)."
+    },
+    {
+      "pregunta": "¿Por qué eligió Dios a Israel, según Moisés?",
+      "opciones": ["Porque era grande", "Porque era fuerte", "Porque lo amaba"],
+      "correcta": 2,
+      "explicacion": "Israel era pequeño; Dios lo eligió «porque Jehová os amó» (Deuteronomio 7:7-8)."
+    },
+    {
+      "pregunta": "¿Con qué libro respondió Jesús al tentador en el desierto?",
+      "opciones": ["Deuteronomio", "Génesis", "Salmos"],
+      "correcta": 0,
+      "explicacion": "«No con solo el pan vivirá el hombre» viene de Deuteronomio 8:3 (Mateo 4:4)."
+    }
+  ],
+  "estudio": ["deuteronomio"],
+  "conexiones": [
+    { "id": "josue", "motivo": "Josué toma el relevo y el pueblo cruza el Jordán." },
+    { "id": "numeros", "motivo": "Moisés recuerda los cuarenta años del desierto." },
+    { "id": "pactos-de-dios", "motivo": "Moisés renueva el pacto del Sinaí en Moab." }
+  ]
+}
