@@ -148,8 +148,12 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         opensTomorrow={nextInPlan && nextStatus === 'tomorrow' ? next?.title ?? null : null}
       />
 
-      <ReflectionBox lessonKey={key} existing={s.reflections[key]} />
-      <SharedReflections lessonKey={key} mine={s.reflections[key]} myPosts={s.posts} myName={s.session?.name ?? 'Tú'} />
+      {!lesson.ninos && (
+        <>
+          <ReflectionBox lessonKey={key} existing={s.reflections[key]} />
+          <SharedReflections lessonKey={key} mine={s.reflections[key]} myPosts={s.posts} myName={s.session?.name ?? 'Tú'} />
+        </>
+      )}
 
       <nav aria-label="Otras lecciones" className="mt-10 grid grid-cols-2 gap-3">
         {prev ? (
@@ -394,7 +398,7 @@ function ReflectionBox({ lessonKey: key, existing }: { lessonKey: string; existi
       <h2 id="reflexion-titulo" className="font-serif text-[22px] font-semibold text-ink">
         Tu reflexión
       </h2>
-      <p className="mt-1 text-[15.5px] leading-snug text-muted">¿Qué entendiste de este resumen? ¿Qué te habló al corazón?</p>
+      <p className="mt-1 text-[15.5px] leading-snug text-muted">¿Qué entendiste de esta lección? ¿Qué te habló al corazón?</p>
       <form onSubmit={submit} className="mt-3.5 rounded-3xl border border-line bg-surface p-4">
         <label htmlFor="reflexion" className="sr-only">
           Tu reflexión
