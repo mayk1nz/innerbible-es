@@ -278,5 +278,9 @@
     "oracion": "Señor, gracias porque estás con nosotros en todo lugar, de día y de noche. Cuídanos a donde vayamos. Amén.",
     "gesto": "Busquen una piedra bonita y escriban o dibujen en ella «Dios está aquí». Pónganla junto a la cama del niño."
   },
-  "estampa": "La escalera de Betel"
+  "estampa": "La escalera de Betel",
+  "imagen": {
+    "src": "/ninos/la-escalera-de-jacob.webp",
+    "alt": "La escalera de Jacob"
+  }
 }

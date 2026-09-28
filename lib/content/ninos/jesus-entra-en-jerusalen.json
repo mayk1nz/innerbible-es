@@ -279,5 +279,9 @@
     "oracion": "¡Hosanna, Jesús! Tú eres nuestro Rey humilde y bueno. Entra en nuestra casa y en nuestro corazón. Amén.",
     "gesto": "Hagan juntos ramas de papel o cartón y hagan un pequeño desfile en casa cantando: «¡Hosanna! ¡Bendito el que viene!»."
   },
-  "estampa": "Las ramas del Hosanna"
+  "estampa": "Las ramas del Hosanna",
+  "imagen": {
+    "src": "/ninos/jesus-entra-en-jerusalen.webp",
+    "alt": "Jesús entra en Jerusalén"
+  }
 }

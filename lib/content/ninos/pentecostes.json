@@ -217,5 +217,9 @@
     "oracion": "Espíritu Santo, ven a nuestro corazón. Danos valor y alegría para contar a todos las maravillas de Dios. Amén.",
     "gesto": "Aprendan a decir «Dios te ama» en otro idioma, o en lengua de señas, y díganselo a alguien esta semana."
   },
-  "estampa": "Las lenguas como de fuego"
+  "estampa": "Las lenguas como de fuego",
+  "imagen": {
+    "src": "/ninos/pentecostes.webp",
+    "alt": "Pentecostés: llega el Espíritu Santo"
+  }
 }

@@ -224,5 +224,9 @@
     "oracion": "Señor, gracias porque siempre nos escuchas. Te contamos lo que sentimos y confiamos en tu amor. Amén.",
     "gesto": "Hagan una «cajita de oración»: escriban peticiones en papelitos y, cuando Dios responda, agreguen un «¡gracias!»."
   },
-  "estampa": "La túnica de Samuel"
+  "estampa": "La túnica de Samuel",
+  "imagen": {
+    "src": "/ninos/ana-ora.webp",
+    "alt": "Ana ora y Dios escucha"
+  }
 }

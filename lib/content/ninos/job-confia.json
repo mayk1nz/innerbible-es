@@ -281,5 +281,9 @@
     "oracion": "Señor, en los días felices y en los días tristes, confiamos en ti. Ayúdanos a acompañar a quien sufre. Amén.",
     "gesto": "Esta semana, hagan juntos una tarjeta o una llamada para alguien enfermo o triste, y díganle: «Estamos contigo»."
   },
-  "estampa": "El corazón confiado de Job"
+  "estampa": "El corazón confiado de Job",
+  "imagen": {
+    "src": "/ninos/job-confia.webp",
+    "alt": "Job confía en Dios"
+  }
 }

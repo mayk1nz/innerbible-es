@@ -274,5 +274,9 @@
     "oracion": "Señor, gracias porque nos amas y nos enseñas el camino. Ayúdanos a amarte a ti y a amar a los demás. Amén.",
     "gesto": "Escriban «Ama a Dios y a los demás» en un papel y pónganlo en la puerta. Cada noche, cuenten cómo lo vivieron."
   },
-  "estampa": "Las tablas del amor"
+  "estampa": "Las tablas del amor",
+  "imagen": {
+    "src": "/ninos/los-diez-mandamientos.webp",
+    "alt": "Los Diez Mandamientos"
+  }
 }

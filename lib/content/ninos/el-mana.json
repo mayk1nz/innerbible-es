@@ -282,5 +282,9 @@
     "oracion": "Señor, gracias por el pan de cada día. Enséñanos a confiar en ti y a compartir lo que tenemos. Amén.",
     "gesto": "Antes de cada comida de esta semana, cada uno dice una cosa por la que da gracias a Dios."
   },
-  "estampa": "El pan del cielo"
+  "estampa": "El pan del cielo",
+  "imagen": {
+    "src": "/ninos/el-mana.webp",
+    "alt": "Pan del cielo: el maná"
+  }
 }

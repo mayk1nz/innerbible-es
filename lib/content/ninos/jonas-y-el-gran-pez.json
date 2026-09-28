@@ -228,5 +228,9 @@
     "oracion": "Señor, gracias por darnos otra oportunidad cuando nos equivocamos. Enséñanos a amar a todos como tú los amas. Amén.",
     "gesto": "Esta semana, si alguien se equivoca con ustedes, díganle: «Te doy otra oportunidad», y perdónenlo con un gesto amable."
   },
-  "estampa": "El gran pez de Jonás"
+  "estampa": "El gran pez de Jonás",
+  "imagen": {
+    "src": "/ninos/jonas-y-el-gran-pez.webp",
+    "alt": "Jonás y el gran pez"
+  }
 }

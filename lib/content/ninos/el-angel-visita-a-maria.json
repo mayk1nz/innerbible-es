@@ -274,5 +274,9 @@
     "oracion": "Dios, gracias porque para ti nada es imposible. Ayúdanos a confiar en ti y a decirte «sí», como María. Amén.",
     "gesto": "Cuando algo parezca difícil esta semana, díganse unos a otros: «¡Para Dios no hay nada imposible!»."
   },
-  "estampa": "El «sí» de María"
+  "estampa": "El «sí» de María",
+  "imagen": {
+    "src": "/ninos/el-angel-visita-a-maria.webp",
+    "alt": "El ángel visita a María"
+  }
 }

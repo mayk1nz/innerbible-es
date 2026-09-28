@@ -224,5 +224,9 @@
     "oracion": "Jesús, dame ojos para ver a quien sufre y un corazón para ayudar, como el buen samaritano. Amén.",
     "gesto": "Esta semana, cada uno hace una buena acción por alguien que no es de su grupo de amigos. Luego la cuentan en la cena."
   },
-  "estampa": "El corazón del buen samaritano"
+  "estampa": "El corazón del buen samaritano",
+  "imagen": {
+    "src": "/ninos/el-buen-samaritano.webp",
+    "alt": "El buen samaritano"
+  }
 }

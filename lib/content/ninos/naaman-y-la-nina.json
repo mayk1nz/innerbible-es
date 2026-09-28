@@ -228,5 +228,9 @@
     "oracion": "Señor, gracias porque cuidas de los grandes y de los pequeños. Danos la fe valiente de la niña y un corazón humilde para obedecerte. Amén.",
     "gesto": "Esta semana, si alguien está triste o enfermo, háganle un dibujo y oren por él, como la niña valiente."
   },
-  "estampa": "La niña valiente"
+  "estampa": "La niña valiente",
+  "imagen": {
+    "src": "/ninos/naaman-y-la-nina.webp",
+    "alt": "Naamán y la niña valiente"
+  }
 }

@@ -288,5 +288,9 @@
     "oracion": "Buen Pastor, gracias porque me conoces y siempre me buscas. Llévame cerca de tu corazón. Amén.",
     "gesto": "Escondan un peluche o una figura de oveja. Al encontrarla, digan juntos: «¡Dios me busca y se alegra conmigo!»."
   },
-  "estampa": "La ovejita en los hombros"
+  "estampa": "La ovejita en los hombros",
+  "imagen": {
+    "src": "/ninos/la-oveja-perdida.webp",
+    "alt": "La oveja perdida"
+  }
 }

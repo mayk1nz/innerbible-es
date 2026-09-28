@@ -268,5 +268,9 @@
     "oracion": "Señor, aunque sea de noche o tenga miedo, quiero cantarte y confiar en ti. Gracias porque nunca me dejas solo. Amén.",
     "gesto": "Elijan una canción de alabanza para la familia. Cántenla juntos esta semana, sobre todo en un momento difícil o antes de dormir."
   },
-  "estampa": "La canción de medianoche"
+  "estampa": "La canción de medianoche",
+  "imagen": {
+    "src": "/ninos/pablo-y-silas.webp",
+    "alt": "Pablo y Silas cantan en la cárcel"
+  }
 }

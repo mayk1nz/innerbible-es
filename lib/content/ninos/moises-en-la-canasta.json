@@ -203,5 +203,9 @@
     "oracion": "Señor, gracias porque nos cuidas desde que somos pequeños. Ayúdanos a proteger a los demás, como la hermana de Moisés. Amén.",
     "gesto": "Esta semana, que cada uno ayude a cuidar a alguien más pequeño: un hermanito, un primo o una mascota."
   },
-  "estampa": "La canasta de Moisés"
+  "estampa": "La canasta de Moisés",
+  "imagen": {
+    "src": "/ninos/moises-en-la-canasta.webp",
+    "alt": "Moisés en la canasta"
+  }
 }

@@ -220,5 +220,9 @@
     "oracion": "Señor, quita de nuestro corazón la envidia. Ayúdanos a alegrarnos por los demás y a confiar en ti cuando algo sale mal. Amén.",
     "gesto": "Cada noche, cada uno cuente algo bueno que le pasó a otra persona de la familia. ¡Y celébrenlo juntos!"
   },
-  "estampa": "La túnica de colores"
+  "estampa": "La túnica de colores",
+  "imagen": {
+    "src": "/ninos/la-tunica-de-jose.webp",
+    "alt": "José y su túnica de colores"
+  }
 }

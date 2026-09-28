@@ -278,5 +278,9 @@
     "oracion": "Padre del cielo, ayúdanos a crecer como Jesús: en sabiduría, en estatura y en amor por ti y por los demás. Amén.",
     "gesto": "Esta semana, armen una «caja de preguntas» sobre Dios. Cada uno pone una pregunta, y el domingo las conversan juntos."
   },
-  "estampa": "Jesús en el templo"
+  "estampa": "Jesús en el templo",
+  "imagen": {
+    "src": "/ninos/jesus-en-el-templo.webp",
+    "alt": "Jesús, a los 12 años, en el templo"
+  }
 }

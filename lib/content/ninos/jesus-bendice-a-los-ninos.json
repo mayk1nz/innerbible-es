@@ -274,5 +274,9 @@
     "oracion": "Jesús, gracias porque me quieres cerca de ti. Tómame en tus brazos y bendice a mi familia. Amén.",
     "gesto": "Cada noche de esta semana, pongan la mano sobre la cabeza de su hijo y díganle: «Que Jesús te bendiga. Eres muy amado»."
   },
-  "estampa": "Los brazos abiertos de Jesús"
+  "estampa": "Los brazos abiertos de Jesús",
+  "imagen": {
+    "src": "/ninos/jesus-bendice-a-los-ninos.webp",
+    "alt": "Jesús bendice a los niños"
+  }
 }

@@ -276,5 +276,9 @@
     "oracion": "Gracias, Dios, porque nos cuidas y siempre cumples tus promesas. Ayúdanos a cumplir las nuestras. Amén.",
     "gesto": "Esta semana, cada vez que vean un arcoíris (o dibujen uno), digan juntos: «Dios cumple sus promesas»."
   },
-  "estampa": "El arcoíris de la promesa"
+  "estampa": "El arcoíris de la promesa",
+  "imagen": {
+    "src": "/ninos/noe-y-el-arca.webp",
+    "alt": "Noé y el arca"
+  }
 }

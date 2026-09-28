@@ -340,5 +340,9 @@
     "oracion": "Señor, danos un corazón sabio que sepa escuchar y elegir lo bueno. Ayúdanos a usar tu sabiduría para cuidar a los demás. Amén.",
     "gesto": "Esta semana, antes de resolver una pelea entre hermanos o amigos, hagan una pausa y oren: «Señor, danos sabiduría»."
   },
-  "estampa": "La corona sabia de Salomón"
+  "estampa": "La corona sabia de Salomón",
+  "imagen": {
+    "src": "/ninos/salomon-pide-sabiduria.webp",
+    "alt": "Salomón pide sabiduría"
+  }
 }

@@ -234,5 +234,9 @@
     "oracion": "Dios de amor, gracias porque un día harás nuevas todas las cosas y secarás nuestras lágrimas. Llénanos de esperanza. Amén.",
     "gesto": "Dibujen juntos cómo imaginan la ciudad nueva llena de luz. Pónganlo en un lugar visible para recordar que Dios cumple sus promesas."
   },
-  "estampa": "La ciudad llena de luz"
+  "estampa": "La ciudad llena de luz",
+  "imagen": {
+    "src": "/ninos/cielo-nuevo.webp",
+    "alt": "Un cielo nuevo y una tierra nueva"
+  }
 }

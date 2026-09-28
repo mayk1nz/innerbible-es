@@ -203,5 +203,9 @@
     "oracion": "Señor, a veces tenemos miedos grandes como gigantes. Danos la confianza de David y recuérdanos que tú estás con nosotros. Amén.",
     "gesto": "Esta semana, escriban o dibujen su «gigante» en una piedra lisa y oren juntos por él cada noche."
   },
-  "estampa": "La honda de David"
+  "estampa": "La honda de David",
+  "imagen": {
+    "src": "/ninos/david-y-goliat.webp",
+    "alt": "David y Goliat"
+  }
 }

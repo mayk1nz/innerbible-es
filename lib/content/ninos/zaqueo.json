@@ -159,5 +159,9 @@
     "oracion": "Jesús, gracias porque me buscas y me llamas por mi nombre. Cambia mi corazón para que sepa compartir. Amén.",
     "gesto": "Elijan juntos algo que puedan compartir esta semana, como un juguete, ropa o comida, y llévenlo a alguien que lo necesite."
   },
-  "estampa": "El árbol de Zaqueo"
+  "estampa": "El árbol de Zaqueo",
+  "imagen": {
+    "src": "/ninos/zaqueo.webp",
+    "alt": "Zaqueo baja del árbol"
+  }
 }

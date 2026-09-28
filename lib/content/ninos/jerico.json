@@ -271,5 +271,9 @@
     "oracion": "Señor, gracias porque vas delante de nosotros. Ayúdanos a confiar en ti y a obedecerte con paciencia. Amén.",
     "gesto": "Den juntos siete vueltas alrededor de la mesa, en silencio. Al final, digan en voz alta: «¡Dios cumple lo que promete!»."
   },
-  "estampa": "La trompeta de Jericó"
+  "estampa": "La trompeta de Jericó",
+  "imagen": {
+    "src": "/ninos/jerico.webp",
+    "alt": "Las murallas de Jericó"
+  }
 }

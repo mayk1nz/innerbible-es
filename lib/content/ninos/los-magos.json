@@ -274,5 +274,9 @@
     "oracion": "Jesús, como los magos, queremos buscarte y darte lo mejor que tenemos. Guíanos siempre por tu camino. Amén.",
     "gesto": "Esta semana, recorten una estrella de papel y pónganla en la puerta. Cada vez que la vean, den gracias porque Dios nos guía."
   },
-  "estampa": "La estrella que guía"
+  "estampa": "La estrella que guía",
+  "imagen": {
+    "src": "/ninos/los-magos.webp",
+    "alt": "Los magos siguen la estrella"
+  }
 }

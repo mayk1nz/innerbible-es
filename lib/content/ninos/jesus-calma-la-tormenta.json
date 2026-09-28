@@ -288,5 +288,9 @@
     "oracion": "Jesús, cuando tengamos miedo, recuérdanos que estás con nosotros. Calma nuestro corazón con tu paz. Amén.",
     "gesto": "Esta semana, cuando alguien tenga miedo o esté nervioso, respiren hondo juntos y digan: «Jesús está en mi barca»."
   },
-  "estampa": "La calma después del viento"
+  "estampa": "La calma después del viento",
+  "imagen": {
+    "src": "/ninos/jesus-calma-la-tormenta.webp",
+    "alt": "Jesús calma la tormenta"
+  }
 }

@@ -349,5 +349,9 @@
     "oracion": "Jesús, gracias porque te importan nuestras fiestas y nuestros problemas. Ayúdanos a hacer todo lo que tú nos digas. Amén.",
     "gesto": "Esta semana, cuando algo les falte o les preocupe, cuéntenselo juntos a Jesús, como María: «Mira, Jesús, esto nos falta»."
   },
-  "estampa": "Las seis tinajas de Caná"
+  "estampa": "Las seis tinajas de Caná",
+  "imagen": {
+    "src": "/ninos/agua-en-vino.webp",
+    "alt": "Agua hecha vino en Caná"
+  }
 }

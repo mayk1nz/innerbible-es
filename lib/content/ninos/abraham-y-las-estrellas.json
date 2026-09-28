@@ -320,5 +320,9 @@
     "oracion": "Señor, tú conoces cada estrella y nos conoces a nosotros. Ayúdanos a confiar en ti, aun cuando tengamos que esperar. Amén.",
     "gesto": "Una noche despejada, salgan a mirar el cielo e intenten contar estrellas. Digan juntos: «Dios cumple lo que promete»."
   },
-  "estampa": "Las estrellas de Abraham"
+  "estampa": "Las estrellas de Abraham",
+  "imagen": {
+    "src": "/ninos/abraham-y-las-estrellas.webp",
+    "alt": "Abraham cuenta las estrellas"
+  }
 }

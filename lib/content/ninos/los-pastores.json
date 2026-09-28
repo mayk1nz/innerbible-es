@@ -167,5 +167,9 @@
     "oracion": "Gracias, Dios, por la buena noticia de Jesús. Llena nuestra casa de tu paz y ayúdanos a compartir tu alegría. Amén.",
     "gesto": "Esta semana, salúdense cada mañana con un «¡Paz en la tierra!» y compartan una buena noticia con alguien."
   },
-  "estampa": "La noche de los ángeles"
+  "estampa": "La noche de los ángeles",
+  "imagen": {
+    "src": "/ninos/los-pastores.webp",
+    "alt": "Los pastores y los ángeles"
+  }
 }

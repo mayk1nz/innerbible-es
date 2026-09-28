@@ -221,5 +221,9 @@
     "oracion": "Señor, gracias porque nos perdonas en Jesús. Danos un corazón como el de José, para perdonar y abrazar a nuestra familia. Amén.",
     "gesto": "Esta semana, cuando haya una pelea en casa, terminen con un abrazo y la frase: «Te perdono, como Dios me perdona»."
   },
-  "estampa": "El abrazo de José"
+  "estampa": "El abrazo de José",
+  "imagen": {
+    "src": "/ninos/jose-perdona.webp",
+    "alt": "José perdona a sus hermanos"
+  }
 }

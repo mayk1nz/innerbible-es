@@ -320,5 +320,9 @@
     "oracion": "Señor, cuando tengamos miedo, danos el valor de Ester para hacer lo correcto y ayudar a los demás. Amén.",
     "gesto": "Esta semana, busquen a alguien que necesite que otro hable por él (un compañero solo, un vecino) y ayúdenlo juntos."
   },
-  "estampa": "El cetro de oro de Ester"
+  "estampa": "El cetro de oro de Ester",
+  "imagen": {
+    "src": "/ninos/la-reina-ester.webp",
+    "alt": "La reina Ester"
+  }
 }

@@ -230,5 +230,9 @@
     "oracion": "Señor, gracias por los amigos fieles. Ayúdanos a ser buenos amigos y a cuidar a quien está triste o solo. Amén.",
     "gesto": "Esta semana, visiten o llamen a alguien mayor de la familia o del barrio, como Rut cuidó a Noemí."
   },
-  "estampa": "La espiga de Rut"
+  "estampa": "La espiga de Rut",
+  "imagen": {
+    "src": "/ninos/rut-la-amiga-fiel.webp",
+    "alt": "Rut, la amiga fiel"
+  }
 }

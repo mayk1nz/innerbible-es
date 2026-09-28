@@ -44,9 +44,19 @@ export function modernize(text, firstOfChapter) {
 fs.mkdirSync(OUT, { recursive: true })
 let verses = 0
 let bytes = 0
+/** Typing errors of the source dataset, checked against the 1909 printing: "<id> <ch>:<v>" → [wrong, right]. */
+const TYPOS = {
+  '2Chr 7:14': ['sobre los cuales ni nombre', 'sobre los cuales mi nombre'],
+}
+
 src.books.forEach((book, i) => {
   const id = IDS[i]
-  const capitulos = book.chapters.map((ch) => ch.verses.map((v, j) => modernize(v.text, j === 0)))
+  const capitulos = book.chapters.map((ch, c) =>
+    ch.verses.map((v, j) => {
+      const fix = TYPOS[`${id} ${c + 1}:${j + 1}`]
+      return modernize(fix ? v.text.replace(fix[0], fix[1]) : v.text, j === 0)
+    }),
+  )
   verses += capitulos.reduce((n, c) => n + c.length, 0)
   const json = JSON.stringify({ id, capitulos })
   bytes += json.length

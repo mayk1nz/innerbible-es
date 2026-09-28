@@ -267,5 +267,9 @@
     "oracion": "Señor, gracias porque siempre nos escuchas. Ayúdanos a hablar contigo cada día y a confiar en ti cuando tengamos miedo. Amén.",
     "gesto": "Elijan tres momentos del día (al despertar, al comer y al dormir) para decir juntos una oración cortita, como Daniel."
   },
-  "estampa": "La ventana abierta de Daniel"
+  "estampa": "La ventana abierta de Daniel",
+  "imagen": {
+    "src": "/ninos/daniel-y-los-leones.webp",
+    "alt": "Daniel y los leones"
+  }
 }

@@ -215,5 +215,9 @@
     "oracion": "Gracias, Señor, por la luz, el agua, las plantas, los animales y nuestra familia. Ayúdanos a cuidar todo lo que creaste. Amén.",
     "gesto": "Salgan juntos a mirar el cielo o una planta. Cada uno diga una cosa creada por Dios por la que da gracias."
   },
-  "estampa": "La luz del primer día"
+  "estampa": "La luz del primer día",
+  "imagen": {
+    "src": "/ninos/dios-crea-el-mundo.webp",
+    "alt": "Dios crea el mundo"
+  }
 }

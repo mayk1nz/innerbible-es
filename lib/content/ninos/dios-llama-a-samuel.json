@@ -271,5 +271,9 @@
     "oracion": "Señor, tú conoces mi nombre. Habla, que te quiero escuchar. Ayúdame a obedecerte y a decir siempre la verdad. Amén.",
     "gesto": "Antes de dormir, dejen solo una lamparita encendida y hagan un minuto de silencio. Luego digan: «Habla, Señor, que te escucho»."
   },
-  "estampa": "La lámpara de Samuel"
+  "estampa": "La lámpara de Samuel",
+  "imagen": {
+    "src": "/ninos/dios-llama-a-samuel.webp",
+    "alt": "«Habla, Señor»: Dios llama a Samuel"
+  }
 }

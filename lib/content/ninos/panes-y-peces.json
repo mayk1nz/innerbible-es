@@ -288,5 +288,9 @@
     "oracion": "Jesús, gracias por la comida de cada día. Te damos lo poco que tenemos: úsalo para bendecir a otros. Amén.",
     "gesto": "Antes de cada comida de esta semana, den gracias como Jesús y compartan algo de su merienda con alguien."
   },
-  "estampa": "Los cinco panes y los dos peces"
+  "estampa": "Los cinco panes y los dos peces",
+  "imagen": {
+    "src": "/ninos/panes-y-peces.webp",
+    "alt": "El niño de los panes y los peces"
+  }
 }

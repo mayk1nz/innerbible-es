@@ -230,5 +230,9 @@
     "oracion": "Señor, para ti nada es difícil. Gracias por las alegrías que nos regalas. Ayúdanos a confiar en tus promesas. Amén.",
     "gesto": "Preparen juntos una merienda sencilla y compártanla con alguien. Recuerden que Dios convirtió la espera de Sara en alegría."
   },
-  "estampa": "La risa de Sara"
+  "estampa": "La risa de Sara",
+  "imagen": {
+    "src": "/ninos/nace-isaac.webp",
+    "alt": "Sara ríe: nace Isaac"
+  }
 }

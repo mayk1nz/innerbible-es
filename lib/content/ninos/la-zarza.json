@@ -274,5 +274,9 @@
     "oracion": "Señor, gracias porque ves y escuchas a los que sufren. Cuando algo nos parezca difícil, recuérdanos que tú estás con nosotros. Amén.",
     "gesto": "Antes de algo difícil esta semana (un examen, una visita al médico), díganse al oído: «Dios está conmigo»."
   },
-  "estampa": "La zarza que no se quemaba"
+  "estampa": "La zarza que no se quemaba",
+  "imagen": {
+    "src": "/ninos/la-zarza.webp",
+    "alt": "La zarza que ardía"
+  }
 }

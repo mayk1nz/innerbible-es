@@ -155,5 +155,9 @@
     "oracion": "Señor, cuando algo esté roto, ayúdanos a orar primero y a trabajar juntos para repararlo. Amén.",
     "gesto": "Escojan algo de la casa para reparar u ordenar en equipo y, antes de empezar, hagan una oración corta como Nehemías."
   },
-  "estampa": "La muralla de los 52 días"
+  "estampa": "La muralla de los 52 días",
+  "imagen": {
+    "src": "/ninos/nehemias-reconstruye.webp",
+    "alt": "Nehemías reconstruye la muralla"
+  }
 }

@@ -224,5 +224,9 @@
     "oracion": "Señor Jesús, gracias por dar tu vida por amor. ¡Tú estás vivo! Llena nuestra casa de tu alegría y de tu paz. Amén.",
     "gesto": "El domingo, al despertar, saluden a cada uno de la familia diciendo: «¡Jesús está vivo!». Pueden responder: «¡Verdaderamente, está vivo!»."
   },
-  "estampa": "La tumba vacía"
+  "estampa": "La tumba vacía",
+  "imagen": {
+    "src": "/ninos/la-cruz-y-la-tumba-vacia.webp",
+    "alt": "La cruz y la tumba vacía"
+  }
 }

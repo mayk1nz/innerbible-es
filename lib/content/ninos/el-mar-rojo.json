@@ -230,5 +230,9 @@
     "oracion": "Señor, tú abres caminos donde no los vemos. Cuando tengamos miedo, ayúdanos a confiar en ti. Amén.",
     "gesto": "Esta semana, cuando alguien tenga miedo (a la oscuridad, a un examen), repitan juntos: «No tengas miedo: Dios te cuida»."
   },
-  "estampa": "El camino en medio del mar"
+  "estampa": "El camino en medio del mar",
+  "imagen": {
+    "src": "/ninos/el-mar-rojo.webp",
+    "alt": "El paso del mar Rojo"
+  }
 }

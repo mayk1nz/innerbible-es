@@ -274,5 +274,9 @@
     "oracion": "Padre bueno, gracias porque amas a Jesús y, por él, nos llamas hijos amados. Que tu Espíritu nos acompañe siempre. Amén.",
     "gesto": "Esta semana, antes de dormir, díganle a cada niño: «Eres hijo amado de Dios». Luego él se lo dice a otro de la familia."
   },
-  "estampa": "La paloma y la voz del cielo"
+  "estampa": "La paloma y la voz del cielo",
+  "imagen": {
+    "src": "/ninos/el-bautismo-de-jesus.webp",
+    "alt": "El bautismo de Jesús"
+  }
 }

@@ -230,5 +230,9 @@
     "oracion": "Señor, líbranos del orgullo. Enséñanos a trabajar juntos, a escucharnos y a ponerte a ti primero. Amén.",
     "gesto": "Construyan juntos una torre de bloques o cajas. Al poner cada pieza, digan algo bueno de otra persona de la familia."
   },
-  "estampa": "El ladrillo de Babel"
+  "estampa": "El ladrillo de Babel",
+  "imagen": {
+    "src": "/ninos/la-torre-de-babel.webp",
+    "alt": "La torre de Babel"
+  }
 }

@@ -323,5 +323,9 @@
     "oracion": "Jesús, tú nos amaste hasta el fin y tomaste la toalla para servir. Dame un corazón humilde para ayudar a los demás. Amén.",
     "gesto": "Una noche de esta semana, lávense las manos unos a otros y séquenlas con una toalla. Digan: «Te sirvo porque te amo»."
   },
-  "estampa": "La toalla del servicio"
+  "estampa": "La toalla del servicio",
+  "imagen": {
+    "src": "/ninos/jesus-lava-los-pies.webp",
+    "alt": "La última cena: Jesús lava los pies"
+  }
 }

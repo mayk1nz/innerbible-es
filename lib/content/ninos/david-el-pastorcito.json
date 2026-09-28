@@ -279,5 +279,9 @@
     "oracion": "Señor, gracias porque miras nuestro corazón y nos amas como somos. Ayúdanos a tener un corazón bueno como el de David. Amén.",
     "gesto": "Esta semana, cada noche, digan una cualidad del corazón de alguien de la familia: «Me gusta que eres generoso…»."
   },
-  "estampa": "El arpa del pastorcito"
+  "estampa": "El arpa del pastorcito",
+  "imagen": {
+    "src": "/ninos/david-el-pastorcito.webp",
+    "alt": "David, el pastorcito"
+  }
 }

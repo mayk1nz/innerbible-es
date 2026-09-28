@@ -203,5 +203,9 @@
     "oracion": "Señor, gracias por el pan de cada día. Enséñanos a confiar en ti y a compartir lo que tenemos, aunque sea poco. Amén.",
     "gesto": "Esta semana, preparen juntos pan o galletas y compártanlos con un vecino, como la viuda compartió con Elías."
   },
-  "estampa": "La tinaja que no se vaciaba"
+  "estampa": "La tinaja que no se vaciaba",
+  "imagen": {
+    "src": "/ninos/elias-y-la-viuda.webp",
+    "alt": "Elías y la viuda de Sarepta"
+  }
 }

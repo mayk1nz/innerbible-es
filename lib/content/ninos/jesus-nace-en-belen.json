@@ -332,5 +332,9 @@
     "oracion": "Jesús, gracias por venir al mundo como un bebé pequeño. Queremos hacerte lugar en nuestro corazón y en nuestra casa. Amén.",
     "gesto": "Esta semana, armen juntos un pequeño pesebre o dibujen uno, y cada noche den gracias por el regalo de Jesús."
   },
-  "estampa": "El pesebre de Belén"
+  "estampa": "El pesebre de Belén",
+  "imagen": {
+    "src": "/ninos/jesus-nace-en-belen.webp",
+    "alt": "Jesús nace en Belén"
+  }
 }

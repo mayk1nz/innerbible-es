@@ -279,5 +279,9 @@
     "oracion": "Señor Jesús, quiero escuchar tus palabras y hacer lo que dices. Sé tú la roca de nuestra familia. Amén.",
     "gesto": "Construyan juntos una torre con bloques, vasos o libros: una sobre una base firme y otra sobre un cojín. ¿Cuál aguanta más?"
   },
-  "estampa": "La casa firme sobre la roca"
+  "estampa": "La casa firme sobre la roca",
+  "imagen": {
+    "src": "/ninos/la-casa-sobre-la-roca.webp",
+    "alt": "La casa sobre la roca"
+  }
 }

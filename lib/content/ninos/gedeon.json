@@ -203,5 +203,9 @@
     "oracion": "Señor, a veces nos sentimos pequeños y con miedo. Gracias porque estás con nosotros. Danos tu valor. Amén.",
     "gesto": "Cada mañana de esta semana, antes de salir de casa, díganse unos a otros: «¡El Señor está contigo, valiente!»."
   },
-  "estampa": "La antorcha de Gedeón"
+  "estampa": "La antorcha de Gedeón",
+  "imagen": {
+    "src": "/ninos/gedeon.webp",
+    "alt": "Gedeón y los 300"
+  }
 }

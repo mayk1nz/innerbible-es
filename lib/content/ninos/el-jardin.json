@@ -230,5 +230,9 @@
     "oracion": "Señor, gracias porque siempre nos buscas y nos perdonas. Ayúdanos a decir la verdad y a pedir perdón cuando nos equivocamos. Amén.",
     "gesto": "Inventen una señal secreta de familia, como tocarse la nariz, que signifique «lo siento, te perdono». Úsenla esta semana."
   },
-  "estampa": "Las túnicas del cuidado de Dios"
+  "estampa": "Las túnicas del cuidado de Dios",
+  "imagen": {
+    "src": "/ninos/el-jardin.webp",
+    "alt": "El jardín y la primera desobediencia"
+  }
 }

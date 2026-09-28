@@ -159,5 +159,9 @@
     "oracion": "Jesús, aunque estemos cansados, queremos confiar en tu palabra. Enséñanos a seguirte y a llevar tu amor a otros. Amén.",
     "gesto": "Esta semana, cuando algo cueste, repitan juntos: «Porque tú lo dices, Jesús, lo haré»."
   },
-  "estampa": "La red llena de peces"
+  "estampa": "La red llena de peces",
+  "imagen": {
+    "src": "/ninos/pescadores-de-personas.webp",
+    "alt": "Pescadores de personas"
+  }
 }
