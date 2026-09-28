@@ -62,7 +62,7 @@
   "resumen": [
     {
       "subtitulo": "Rey de todo Israel",
-      "texto": "David llora a Saúl y a Jonatán con un canto. Los hombres de Judá lo ungen rey en Hebrón. Siete años y medio después, todas las tribus lo reconocen como rey. David conquista la fortaleza de Sión, «la ciudad de David». Desde entonces, Jerusalén es la capital."
+      "texto": "David llora a Saúl y a Jonatán con un canto. Los hombres de Judá lo ungen rey en Hebrón. Siete años y medio después, todas las tribus lo reconocen como rey. David conquista la fortaleza de Sion, «la ciudad de David». Desde entonces, Jerusalén es la capital."
     },
     {
       "subtitulo": "El arca llega a Jerusalén",
@@ -129,7 +129,7 @@
       "pregunta": "¿Qué ciudad conquistó David para reinar desde allí sobre todo Israel?",
       "opciones": ["Belén", "Jerusalén", "Hebrón"],
       "correcta": 1,
-      "explicacion": "David tomó la fortaleza de Sión, que se llamó la ciudad de David (2 Samuel 5:7).",
+      "explicacion": "David tomó la fortaleza de Sion, que se llamó la ciudad de David (2 Samuel 5:7).",
       "nivel": "facil"
     },
     {

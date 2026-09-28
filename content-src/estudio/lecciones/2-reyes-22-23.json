@@ -3,12 +3,12 @@
   "orden": 34,
   "seccion": "reino-dividido",
   "formato": "completo",
-  "titulo": "Josías encuentra el libro de la Ley",
+  "titulo": "Josías y el libro de la Ley",
   "pasajes": ["2Kgs.22.1-2Kgs.23.30", "2Chr.34.1-2Chr.35.27"],
   "libros": [],
 
   "enUnMinuto": [
-    "Josías, rey de Judá desde niño, encuentra en el templo el libro de la Ley olvidado.",
+    "Josías reina en Judá desde niño; mientras reparan el templo, aparece el libro de la Ley olvidado.",
     "Llora por el pecado de su pueblo, renueva el pacto y celebra una Pascua como ninguna.",
     "Dios revela que su palabra renueva a su pueblo y que escucha al corazón humilde."
   ],
@@ -29,7 +29,7 @@
   "lugar": { "nombre": "Jerusalén, en el reino de Judá", "mapa": "reino-dividido" },
 
   "personajes": [
-    { "id": "josias", "nombre": "Josías", "linea": "Rey a los ocho años; halla la Ley y renueva el pacto." },
+    { "id": "josias", "nombre": "Josías", "linea": "Rey a los ocho años; escucha la Ley y renueva el pacto." },
     { "id": "manases", "nombre": "Manasés", "linea": "Abuelo de Josías; el mal que sembró todavía pesa sobre Judá." },
     { "id": "jeremias", "nombre": "Jeremías", "linea": "Joven profeta en tiempos de Josías; compone lamentos por su muerte." },
     { "id": "moises", "nombre": "Moisés", "linea": "Por él, Dios dio la Ley que Josías vuelve a leer." },

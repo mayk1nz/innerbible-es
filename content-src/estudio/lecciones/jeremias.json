@@ -116,7 +116,7 @@
   "quiz": [
     {
       "pregunta": "¿Qué le respondió Jeremías a Dios cuando lo llamó?",
-      "opciones": ["Que era un niño", "Que era muy viejo", "Que no quería ir"],
+      "opciones": ["Que era un niño", "Que era muy viejo", "Que estaba enfermo"],
       "correcta": 0,
       "explicacion": "Jeremías dijo: «no sé hablar, porque soy niño», y Dios le dijo que no temiera (Jeremías 1:6-8).",
       "nivel": "facil"

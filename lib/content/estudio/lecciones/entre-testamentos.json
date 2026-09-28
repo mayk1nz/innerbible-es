@@ -107,7 +107,7 @@
   "quiz": [
     {
       "pregunta": "¿Qué fiesta se celebraba cuando Jesús caminaba por el pórtico de Salomón?",
-      "opciones": ["La fiesta de la Dedicación", "La Pascua", "Pentecostés"],
+      "opciones": ["La fiesta de la Dedicación", "La fiesta de la Pascua", "La fiesta de Pentecostés"],
       "correcta": 0,
       "explicacion": "Era invierno y se celebraba la fiesta de la Dedicación (Juan 10:22-23).",
       "nivel": "facil"

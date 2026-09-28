@@ -93,7 +93,7 @@
 
   "mundo": "Egipto vive su época de mayor poder, con faraones que levantan grandes templos. La Biblia no dice el nombre del faraón del éxodo. Por eso los estudiosos proponen distintos reyes.",
 
-  "antes": "La familia de Jacob se estableció en Egipto. José murió y pidió que un día llevaran sus huesos a Canaán.",
+  "antes": "Job aprendió a confiar en Dios en medio del dolor. En Egipto, la familia de Jacob seguía creciendo.",
   "despues": "Al pie del Sinaí, Dios enseña a su pueblo cómo acercarse a él: son las leyes de Levítico.",
 
   "conexiones": [
@@ -119,8 +119,8 @@
 
   "quiz": [
     {
-      "pregunta": "¿Desde dónde le habló Dios a Moisés en el monte Horeb?",
-      "opciones": ["Desde una nube oscura", "Desde una zarza que ardía", "Desde el río de Egipto"],
+      "pregunta": "¿Desde dónde llamó Dios a Moisés cuando cuidaba ovejas en Horeb?",
+      "opciones": ["Desde un pozo de Madián", "Desde una zarza que ardía", "Desde el río de Egipto"],
       "correcta": 1,
       "explicacion": "La zarza ardía en fuego, pero no se consumía (Éxodo 3:2).",
       "nivel": "facil"

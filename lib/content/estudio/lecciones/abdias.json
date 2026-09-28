@@ -108,7 +108,7 @@
     },
     {
       "pregunta": "¿De quién descendía el pueblo de Edom?",
-      "opciones": ["De Abraham", "De José", "De Esaú"],
+      "opciones": ["De Lot", "De José", "De Esaú"],
       "correcta": 2,
       "explicacion": "Edom venía de Esaú, hermano de Jacob; por eso Abdías habla de «tu hermano Jacob».",
       "nivel": "media"

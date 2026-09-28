@@ -230,7 +230,7 @@
     }
   ],
   "cristo": {
-    "texto": "Mateo muestra a Jesús como el Rey, hijo de David, que cumple las promesas de los profetas. Su nombre es Emmanuel, «Con nosotros Dios», y el libro termina con la misma promesa: estará con los suyos siempre.",
+    "texto": "Mateo muestra a Jesús como el Rey, hijo de David, que cumple las promesas de los profetas. Su nombre es Emanuel, «Con nosotros Dios», y el libro termina con la misma promesa: estará con los suyos siempre.",
     "referencias": ["Mateo 1:23", "Mateo 16:16", "Mateo 28:20"]
   },
   "paraTuVida": [
@@ -240,10 +240,10 @@
   ],
   "preguntas": [
     {
-      "pregunta": "¿Qué significa el nombre Emmanuel?",
+      "pregunta": "¿Qué significa el nombre Emanuel?",
       "opciones": ["Dios salva", "Con nosotros Dios", "Hijo de David"],
       "correcta": 1,
-      "explicacion": "Mateo 1:23 lo explica: Emmanuel quiere decir «Con nosotros Dios»."
+      "explicacion": "Mateo 1:23 lo explica: Emanuel quiere decir «Con nosotros Dios»."
     },
     {
       "pregunta": "¿Dónde enseña Jesús las bienaventuranzas en Mateo?",
@@ -255,7 +255,7 @@
       "pregunta": "¿Qué promete Jesús al final de Mateo?",
       "opciones": ["Volver en tres días", "Estar con nosotros siempre", "Construir un templo nuevo"],
       "correcta": 1,
-      "explicacion": "En Mateo 28:20 Jesús promete estar con los suyos todos los días. Así se cumple su nombre, Emmanuel."
+      "explicacion": "En Mateo 28:20 Jesús promete estar con los suyos todos los días. Así se cumple su nombre, Emanuel."
     }
   ],
   "estudio": [

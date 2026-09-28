@@ -90,7 +90,7 @@
   "mundo": "Roma gobierna casi todo el mar Mediterráneo bajo el emperador Tiberio. La crucifixión es su castigo para esclavos y rebeldes. Jerusalén está llena de peregrinos que celebran la Pascua.",
 
   "antes": "Jesús entró en Jerusalén, enseñó en el templo y celebró la última cena con sus discípulos.",
-  "despues": "Al tercer día, unas mujeres encuentran el sepulcro vacío: ¡Jesús ha resucitado!",
+  "despues": "El domingo, muy de mañana, la piedra del sepulcro está quitada. ¡Jesús vive!",
 
   "conexiones": [
     { "ref": "Salmos 22:1", "motivo": "Jesús ora en la cruz con las palabras de este salmo." },
@@ -122,7 +122,7 @@
       "nivel": "facil"
     },
     {
-      "pregunta": "¿Quién llevó la cruz de Jesús por el camino?",
+      "pregunta": "¿A quién obligaron los soldados a llevar la cruz de Jesús?",
       "opciones": ["Pedro, el pescador", "Simón de Cirene", "José de Arimatea"],
       "correcta": 1,
       "explicacion": "Los soldados obligaron a Simón de Cirene, que venía del campo, a llevarla (Marcos 15:21).",

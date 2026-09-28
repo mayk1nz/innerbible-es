@@ -108,7 +108,7 @@
 
   "quiz": [
     {
-      "pregunta": "¿Qué oración enseñó Jesús a sus discípulos en el sermón del monte?",
+      "pregunta": "¿Qué oración enseñó Jesús a sus discípulos en el Sermón del monte?",
       "opciones": ["El Padrenuestro", "El Salmo 23", "El canto de María"],
       "correcta": 0,
       "explicacion": "Empieza así: «Padre nuestro que estás en los cielos» (Mateo 6:9).",

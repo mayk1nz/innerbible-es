@@ -853,7 +853,7 @@
   {
     "id": "josias",
     "nombre": "Josías",
-    "linea": "Rey joven que halló la Ley y renovó el pacto.",
+    "linea": "Rey joven que escuchó la Ley hallada y renovó el pacto.",
     "lecciones": [
       "1-reyes-12-22",
       "2-reyes-18-21",
@@ -1763,7 +1763,7 @@
   },
   {
     "id": "demetrio-hermano",
-    "nombre": "Demetrio",
+    "nombre": "Demetrio, el hermano",
     "linea": "Hermano de quien todos daban buen testimonio (3 Juan 1:12).",
     "lecciones": [
       "3-juan"
@@ -2045,7 +2045,7 @@
   },
   {
     "id": "demetrio",
-    "nombre": "Demetrio",
+    "nombre": "Demetrio, el platero",
     "linea": "Platero de Éfeso que alborotó la ciudad por la diosa Diana.",
     "lecciones": [
       "hechos-18-20"
@@ -2062,9 +2062,9 @@
   },
   {
     "id": "josue-sumo-sacerdote",
-    "nombre": "Josué (Jesúa), sumo sacerdote",
+    "nombre": "Josué, sumo sacerdote",
     "rv1909": "Jesuá / Josué",
-    "linea": "Sumo sacerdote del regreso; reconstruye el templo con Zorobabel.",
+    "linea": "Sumo sacerdote del regreso; en Esdras, algunas Biblias lo llaman Jesúa.",
     "lecciones": [
       "esdras-1-6",
       "hageo",

@@ -46,7 +46,7 @@
     { "id": "david", "nombre": "David", "linea": "Rey según Dios; Crónicas destaca cómo prepara el templo." },
     { "id": "salomon", "nombre": "Salomón", "linea": "Construye el templo; Dios promete escuchar allí a su pueblo." },
     { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá que purifica el templo y celebra la Pascua." },
-    { "id": "josias", "nombre": "Josías", "linea": "Rey que encuentra el libro de la Ley y renueva el pacto." },
+    { "id": "josias", "nombre": "Josías", "linea": "Rey que escucha el libro de la Ley y renueva el pacto." },
     { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Destruye Jerusalén y lleva al pueblo a Babilonia." },
     { "id": "zorobabel", "nombre": "Zorobabel", "linea": "Aparece en la lista de la familia de David, después del exilio." }
   ],
@@ -79,7 +79,7 @@
     },
     {
       "subtitulo": "Reyes que buscan a Dios",
-      "texto": "El relato sigue solo a los reyes de Judá, de la familia de David. Cuando un rey busca a Dios, hay bendición. Cuando lo abandona, llega la ruina. Ezequías purifica el templo y celebra la Pascua. Josías encuentra el libro de la Ley. Incluso Manasés se humilla, y Dios lo escucha."
+      "texto": "El relato sigue solo a los reyes de Judá, de la familia de David. Cuando un rey busca a Dios, hay bendición. Cuando lo abandona, llega la ruina. Ezequías purifica el templo y celebra la Pascua. En tiempos de Josías aparece el libro de la Ley. Incluso Manasés se humilla, y Dios lo escucha."
     },
     {
       "subtitulo": "Un final abierto",

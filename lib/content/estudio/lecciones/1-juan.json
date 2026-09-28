@@ -125,7 +125,7 @@
     },
     {
       "pregunta": "Según Juan, ¿qué hace Dios si confesamos nuestros pecados?",
-      "opciones": ["Nos castiga", "Nos perdona y nos limpia", "Nos ignora"],
+      "opciones": ["Nos castiga con dureza", "Nos perdona y nos limpia", "Se aleja de nosotros"],
       "correcta": 1,
       "explicacion": "Dios es fiel y justo para perdonarnos y limpiarnos de toda maldad (1 Juan 1:9).",
       "nivel": "media"

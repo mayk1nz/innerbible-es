@@ -147,8 +147,8 @@
       "resumenNino": "Los profetas contaron cosas de Jesús antes de que naciera.",
       "hojas": [
         {
-          "titulo": "Emmanuel",
-          "texto": "Isaías anuncia que la virgen tendrá un hijo llamado Emmanuel. Mateo explica: «Con nosotros Dios» (Mateo 1:23).",
+          "titulo": "Emanuel",
+          "texto": "Isaías anuncia que la virgen tendrá un hijo llamado Emanuel. Mateo explica: «Con nosotros Dios» (Mateo 1:23).",
           "textoNino": "Jesús es Dios con nosotros.",
           "referencia": "Isaías 7:14",
           "tipo": "promesa"
@@ -216,10 +216,10 @@
       "explicacion": "Miqueas 5:2 nombra a Belén, y Mateo 2:5-6 lo recuerda cuando nace Jesús."
     },
     {
-      "pregunta": "¿Qué significa el nombre Emmanuel?",
+      "pregunta": "¿Qué significa el nombre Emanuel?",
       "opciones": ["Rey de paz", "Con nosotros Dios", "Hijo de David"],
       "correcta": 1,
-      "explicacion": "Mateo 1:23 lo explica: Emmanuel quiere decir «Con nosotros Dios»."
+      "explicacion": "Mateo 1:23 lo explica: Emanuel quiere decir «Con nosotros Dios»."
     },
     {
       "pregunta": "¿A qué imagen del desierto comparó Jesús su cruz?",

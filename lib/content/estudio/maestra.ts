@@ -319,7 +319,7 @@ export const ESTUDIO_LECCIONES: EstudioEntrada[] = [
   {
     "id": "2-reyes-22-23",
     "seccion": "reino-dividido",
-    "titulo": "Josías encuentra el libro de la Ley",
+    "titulo": "Josías y el libro de la Ley",
     "rotulo": "2 Reyes 22–23 + 2 Crónicas 34–35",
     "fecha": "c. 640–609 a.C."
   },
@@ -461,7 +461,7 @@ export const ESTUDIO_LECCIONES: EstudioEntrada[] = [
     "seccion": "jesus",
     "titulo": "Nace Jesús en Belén",
     "rotulo": "Lucas 2 + Mateo 2",
-    "fecha": "c. 6–4 a.C.; en el templo, a los 12 años"
+    "fecha": "c. 6–4 a.C. (nacimiento) a c. 8 d.C. (Jesús en el templo)"
   },
   {
     "id": "inicio-ministerio",

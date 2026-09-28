@@ -868,7 +868,7 @@
       "id": "2-reyes-22-23",
       "orden": 34,
       "seccion": "reino-dividido",
-      "titulo": "Josías encuentra el libro de la Ley",
+      "titulo": "Josías y el libro de la Ley",
       "rotulo": "2 Reyes 22–23 + 2 Crónicas 34–35",
       "formato": "completo",
       "pasajes": [
@@ -1137,7 +1137,7 @@
         "desde": -520,
         "hasta": -480,
         "certeza": "aprox",
-        "nota": "Los capítulos 1–8 tienen fechas exactas (520–518 a.C.). Los capítulos 9–14 son posteriores."
+        "nota": "Los capítulos 1–8 tienen fechas exactas (520–518 a.C.). Muchos estudiosos fechan los capítulos 9–14 algo después."
       },
       "fechaDe": "escritura",
       "anterior": "hageo",
@@ -1344,7 +1344,7 @@
       ],
       "libros": [],
       "fecha": {
-        "texto": "c. 6–4 a.C.; en el templo, a los 12 años",
+        "texto": "c. 6–4 a.C. (nacimiento) a c. 8 d.C. (Jesús en el templo)",
         "desde": -6,
         "hasta": 8,
         "certeza": "aprox",

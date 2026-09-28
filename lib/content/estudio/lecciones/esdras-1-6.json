@@ -46,7 +46,8 @@
     { "id": "zorobabel", "nombre": "Zorobabel", "linea": "De la familia de David; guía el regreso y la obra." },
     { "id": "jeremias", "nombre": "Jeremías", "linea": "Había anunciado que el destierro terminaría; ahora se cumple." },
     { "id": "hageo", "nombre": "Hageo", "linea": "Profeta que anima al pueblo a retomar la construcción." },
-    { "id": "zacarias-profeta", "nombre": "Zacarías", "linea": "Profeta que, junto con Hageo, anima a los constructores." }
+    { "id": "zacarias-profeta", "nombre": "Zacarías", "linea": "Profeta que, junto con Hageo, anima a los constructores." },
+    { "id": "josue-sumo-sacerdote", "nombre": "Josué, el sumo sacerdote", "linea": "Guía el regreso con Zorobabel; algunas Biblias lo llaman Jesúa." }
   ],
 
   "eventos": [
@@ -65,7 +66,7 @@
     },
     {
       "subtitulo": "Camino a casa",
-      "texto": "Un grupo decide volver. Lo guían Zorobabel, de la familia de David, y el sacerdote Jesúa. Son más de cuarenta y dos mil personas. Llevan ofrendas para la obra. Al llegar, cada familia vuelve a su ciudad. Volver es un paso de fe: la tierra está en ruinas."
+      "texto": "Un grupo decide volver. Lo guían Zorobabel, de la familia de David, y el sumo sacerdote Josué. Son más de cuarenta y dos mil personas. Llevan ofrendas para la obra. Al llegar, cada familia vuelve a su ciudad. Volver es un paso de fe: la tierra está en ruinas."
     },
     {
       "subtitulo": "Llanto y alegría",
@@ -77,7 +78,7 @@
     },
     {
       "subtitulo": "Dos profetas animan",
-      "texto": "Dios envía a Hageo y a Zacarías. Sus palabras despiertan al pueblo, y Zorobabel y Jesúa vuelven a construir. Un gobernador persa pregunta quién les dio permiso. Escriben al rey Darío, y en los archivos aparece el decreto de Ciro. Darío ordena ayudarles con dinero del rey."
+      "texto": "Dios envía a Hageo y a Zacarías. Sus palabras despiertan al pueblo, y Zorobabel y el sumo sacerdote Josué vuelven a construir. Un gobernador persa pregunta quién les dio permiso. Escriben al rey Darío, y en los archivos aparece el decreto de Ciro. Darío ordena ayudarles con dinero del rey."
     },
     {
       "subtitulo": "Una casa llena de gozo",
@@ -128,7 +129,7 @@
       "pregunta": "¿Qué profetas animaron al pueblo a terminar el templo?",
       "opciones": ["Elías y Eliseo", "Isaías y Miqueas", "Hageo y Zacarías"],
       "correcta": 2,
-      "explicacion": "Con sus palabras, Zorobabel y Jesúa volvieron a construir (Esdras 5:1-2).",
+      "explicacion": "Con su ánimo, Zorobabel y el sumo sacerdote Josué volvieron a construir (Esdras 5:1-2).",
       "nivel": "media"
     },
     {
