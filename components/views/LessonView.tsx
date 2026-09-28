@@ -6,6 +6,7 @@ import { AudioPlayer } from '../AudioPlayer'
 import { EstudioLesson } from './EstudioLesson'
 import { GuiaLesson } from './GuiaLesson'
 import { MindMapView } from './MindMapView'
+import { NinosStory } from '../ninos/NinosStory'
 import { ReadingDay } from './ReadingDay'
 import { AudioPromo, LockedProduct } from '../cards'
 import { Icon, type IconName } from '../icons'
@@ -120,6 +121,8 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
 
       {lesson.lectura ? (
         <ReadingDay dia={lesson.lectura} />
+      ) : lesson.ninos ? (
+        <NinosStory id={lesson.id} scale={s.fontScale} />
       ) : lesson.mapa ? (
         <MindMapView mapId={lesson.id} scale={s.fontScale} />
       ) : lesson.guia ? (

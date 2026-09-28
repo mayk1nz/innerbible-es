@@ -3,6 +3,7 @@ import { PLAN_TITLES, type PlanId } from './content/plans/titles'
 import { ESTUDIO_ERAS, ESTUDIO_LECCIONES } from './content/estudio/maestra'
 import { GUIA_SECCIONES } from './content/guias'
 import { MAPAS_SECCIONES } from './content/mapas'
+import { NINOS_SECCIONES } from './content/ninos'
 import { PLAN_365, type DiaPlan365 } from './content/plan365'
 import { COMIENZA_AQUI, GENESIS } from './content/sample'
 import { slugify } from './text'
@@ -58,6 +59,8 @@ export interface Lesson {
   guia?: string
   /** Mapas Mentales: the lesson is a mind map (lib/content/mapas/<id>.json). */
   mapa?: boolean
+  /** Rincón de los niños: the lesson is a story with games (lib/content/ninos/<id>.json). */
+  ninos?: boolean
 }
 
 export interface Section {
@@ -369,12 +372,16 @@ export const PRODUCTS: Product[] = [
   {
     id: 'actividades-ninos',
     title: 'Actividades Bíblicas para Niños',
-    short: 'Para aprender la Biblia en familia.',
-    description: 'Actividades para que los más pequeños conozcan las historias bíblicas jugando.',
+    short: '52 historias de la Biblia, una por semana, con juegos y hojas para imprimir.',
+    description: 'El Rincón de los niños: 52 historias de la Biblia en orden, contadas para cada edad (3–5, 6–8 y 9–12 años). Cada una se escucha en voz alta, tiene un juego en el celular, un versículo para guardar en el corazón, una hoja para imprimir y una guía para papás y abuelos.',
     kind: 'guia',
     offer: 'front',
     cover: { ...OLIVE, lines: ['Actividades', 'bíblicas'], highlight: 'Niños', icon: 'gift' },
-    sections: pendingGuide(),
+    sections: NINOS_SECCIONES.map((sec) => ({
+      id: sec.id,
+      title: sec.titulo,
+      lessons: sec.historias.map((h) => ({ id: h.id, title: h.titulo, rotulo: h.referencia, format: 'texto' as const, ninos: true })),
+    })),
   },
   {
     id: 'milagros-jesus',

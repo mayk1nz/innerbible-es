@@ -108,3 +108,12 @@ button:not(:disabled) {
 @media (prefers-reduced-motion: reduce) {
   .animate-rise, .animate-pop { animation: none; }
 }
+
+/* Printing (the children's activity sheets): only the sheet, on white paper. */
+@media print {
+  @page { margin: 12mm; }
+  body { background: #fff !important; }
+  nav, .no-print, [aria-label="Reproduciendo"] { display: none !important; }
+  main { padding: 0 !important; max-width: none !important; }
+  .print-sheet * { color: #000 !important; }
+}

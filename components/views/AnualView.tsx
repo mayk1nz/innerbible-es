@@ -1,4 +1,4 @@
-﻿'use client'
+'use client'
 
 import Link from 'next/link'
 import { useState } from 'react'
@@ -55,7 +55,7 @@ export function AnualBar() {
   }
 
   return (
-    <div className="mb-4 flex items-center gap-2 rounded-2xl bg-primary py-2 pl-3 pr-1.5 text-white shadow-card">
+    <div className="no-print mb-4 flex items-center gap-2 rounded-2xl bg-primary py-2 pl-3 pr-1.5 text-white shadow-card">
       <Icon name="sparkles" className="size-5 shrink-0 text-gold-bright" />
       <Link href="/anual" className="min-w-0 flex-1 text-[14px] leading-snug">
         <strong className="font-semibold">Todo {APP.name}</strong> por {formatUsd(ANUAL.price)} al año ·{' '}
