@@ -6,7 +6,7 @@ import { ProductTile } from '../cards'
 import { Icon } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { EmptyState, SearchInput, SectionTitle } from '../ui'
-import { OFFERS, PRODUCTS, type OfferId } from '@/lib/catalog'
+import { OFFERS, PRODUCTS, type OfferId, type Product } from '@/lib/catalog'
 import { lessonHref, lessonKey, searchLessons } from '@/lib/progress'
 import { useAppState } from '@/lib/store'
 
@@ -21,6 +21,16 @@ const GUIDE_GROUP: Record<OfferId, string> = {
   upsell2: 'Incluido en Palabras del Señor',
 }
 
+/**
+ * The study AI is a premium tool, not one more gift: it sits on the Recorridos shelf,
+ * right after the Estudio Cronológico it serves.
+ */
+function withTools(recorridos: Product[]): Product[] {
+  const tools = PRODUCTS.filter((p) => p.kind === 'herramienta')
+  const at = recorridos.findIndex((p) => p.id === 'cronologico') + 1
+  return [...recorridos.slice(0, at), ...tools, ...recorridos.slice(at)]
+}
+
 export function LibraryView() {
   const s = useAppState()
   const [query, setQuery] = useState('')
@@ -29,8 +39,8 @@ export function LibraryView() {
   const [tab, setTab] = useState<Tab>(() => (new URLSearchParams(window.location.search).get('tab') === 'guias' ? 'guias' : 'recorridos'))
   const hits = useMemo(() => searchLessons(query, s.owned), [query, s.owned])
   const searching = query.trim().length >= 2
-  const recorridos = PRODUCTS.filter((p) => p.kind === 'recorrido')
-  const groups = OFFERS.map((o) => ({ offer: o, products: PRODUCTS.filter((p) => p.kind !== 'recorrido' && p.offer === o.id) })).filter(
+  const recorridos = withTools(PRODUCTS.filter((p) => p.kind === 'recorrido'))
+  const groups = OFFERS.map((o) => ({ offer: o, products: PRODUCTS.filter((p) => p.kind !== 'recorrido' && p.kind !== 'herramienta' && p.offer === o.id) })).filter(
     (g) => g.products.length > 0,
   )
 
@@ -80,20 +90,6 @@ export function LibraryView() {
             <span className="min-w-0 flex-1">
               <span className="block font-serif text-[18px] font-semibold text-ink">La Biblia completa</span>
               <span className="block text-[14px] text-muted">Los 66 libros para leer aquí, con letra grande</span>
-            </span>
-            <Icon name="chevronRight" className="size-5 text-muted" />
-          </Link>
-
-          <Link
-            href="/estudio"
-            className="mt-3 flex items-center gap-3.5 rounded-3xl border border-line bg-surface p-4 shadow-card transition hover:bg-surface-hover active:scale-[0.99]"
-          >
-            <span aria-hidden className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-gold-bright">
-              <Icon name="sparkles" className="size-6" />
-            </span>
-            <span className="min-w-0 flex-1">
-              <span className="block font-serif text-[18px] font-semibold text-ink">Tu Guía de Estudio</span>
-              <span className="block text-[14px] text-muted">Escribe un pasaje, un personaje o un tema</span>
             </span>
             <Icon name="chevronRight" className="size-5 text-muted" />
           </Link>

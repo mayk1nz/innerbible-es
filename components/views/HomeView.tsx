@@ -118,7 +118,8 @@ export function HomeView() {
   // stays short however much the member owns.
   const hero = recorridos.find((p) => p.id === target?.product.id) ?? recorridos[0]
   const otherRecorridos = recorridos.filter((p) => p !== hero)
-  const guides = PRODUCTS.filter((p) => p.kind !== 'recorrido' && isOwned(p, s.owned))
+  // The study AI has its own card above; the shelf keeps the guides and gifts.
+  const guides = PRODUCTS.filter((p) => p.kind !== 'recorrido' && p.kind !== 'herramienta' && isOwned(p, s.owned))
   const pending = OFFERS.filter((o) => o.id !== 'front' && !s.owned.includes(o.id))
 
   return (

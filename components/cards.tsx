@@ -47,7 +47,7 @@ export function ProductTile({ product, state }: { product: Product; state: AppSt
   const owned = isOwned(product, state.owned)
   const progress = productProgress(product, state.completed)
   return (
-    <Link href={`/modulo/${product.id}`} className="flex flex-col overflow-hidden rounded-2xl border border-line bg-surface shadow-card transition hover:-translate-y-0.5">
+    <Link href={owned && product.href ? product.href : `/modulo/${product.id}`} className="flex flex-col overflow-hidden rounded-2xl border border-line bg-surface shadow-card transition hover:-translate-y-0.5">
       <span className="relative block">
         <Cover cover={product.cover} size="tile" locked={!owned} />
         {!owned && product.offer !== 'front' && (

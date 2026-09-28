@@ -1,4 +1,4 @@
-﻿'use client'
+'use client'
 
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
@@ -28,7 +28,7 @@ export function ModuleView({ productId }: { productId: string }) {
   )
 }
 
-// â”€â”€â”€ Products with tabs (Palabras del SeÃ±or: the guide + its 90-day plans) â”€â”€â”€â”€
+// ─── Products with tabs (Palabras del Señor: the guide + its 90-day plans) ────
 
 function TabbedModule({ product, completed, lastLesson }: { product: Product; completed: AppState['completed']; lastLesson: string | null }) {
   // Open on the tab of the lesson read last, if it belongs to this product.
@@ -62,7 +62,7 @@ function TabbedModule({ product, completed, lastLesson }: { product: Product; co
             >
               <span className="text-[15px] font-semibold leading-tight">{sec.tab ?? sec.title}</span>
               <span className={`mt-0.5 text-[12.5px] ${active ? 'text-white/75' : 'text-muted'}`}>
-                {sec.plan ? `Plan de ${sec.lessons.length} dÃ­as` : 'La guÃ­a'}
+                {sec.plan ? `Plan de ${sec.lessons.length} días` : 'La guía'}
               </span>
             </button>
           )
@@ -100,7 +100,7 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
         {section.plan && <p className="mt-1 text-[15.5px] leading-snug text-muted">{section.plan.goal}</p>}
         <div className="mt-4 flex items-baseline justify-between gap-3">
           <p className="text-[15.5px] text-text">
-            <strong className="text-ink">{done}</strong> de {total} dÃ­as
+            <strong className="text-ink">{done}</strong> de {total} días
           </p>
           <p className="font-serif text-[24px] font-semibold tabular-nums text-ink">{pct}%</p>
         </div>
@@ -110,23 +110,23 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
         {!current ? (
           <p className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-success-soft p-3 text-[15.5px] font-semibold text-success">
             <Icon name="trophy" className="size-5" />
-            Â¡Completaste los {total} dÃ­as!
+            ¡Completaste los {total} días!
           </p>
         ) : current.status === 'open' ? (
           <Link href={lessonHref(product.id, current.lesson.id)} className={`${buttonClass.primary} mt-4`}>
-            {done ? `Hacer el DÃ­a ${current.n}` : 'Empezar el DÃ­a 1'}
+            {done ? `Hacer el Día ${current.n}` : 'Empezar el Día 1'}
             {current.lesson.subtitle ? `: ${current.lesson.subtitle}` : ''}
             <Icon name="arrowRight" className="size-5 shrink-0 text-gold-bright" />
           </Link>
         ) : (
           <p className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-gold-soft/60 p-3 text-center text-[15.5px] font-medium text-ink">
             <Icon name="check" className="size-5 shrink-0 text-success" strokeWidth={2.6} />
-            DÃ­a de hoy completado. El DÃ­a {current.n} se abre maÃ±ana.
+            Día de hoy completado. El Día {current.n} se abre mañana.
           </p>
         )}
       </div>
 
-      <ol className="mt-5 grid grid-cols-6 gap-2" aria-label={`DÃ­as de ${section.title}`}>
+      <ol className="mt-5 grid grid-cols-6 gap-2" aria-label={`Días de ${section.title}`}>
         {section.lessons.map((lesson, i) => {
           const status = planDayStatus(product.id, section, lesson.id, completed, today) ?? 'open'
           const n = i + 1
@@ -135,7 +135,7 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
               <li key={lesson.id}>
                 <Link
                   href={lessonHref(product.id, lesson.id)}
-                  aria-label={`DÃ­a ${n}${status === 'done' ? ', completado' : ', disponible'}`}
+                  aria-label={`Día ${n}${status === 'done' ? ', completado' : ', disponible'}`}
                   className={`grid aspect-square place-items-center rounded-xl text-[14px] font-semibold tabular-nums transition ${
                     status === 'done' ? 'bg-success text-white' : 'bg-primary text-white ring-2 ring-gold-bright ring-offset-2 ring-offset-bg'
                   }`}
@@ -148,7 +148,7 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
           return (
             <li key={lesson.id}>
               <span
-                aria-label={`DÃ­a ${n}, ${status === 'tomorrow' ? 'se abre maÃ±ana' : 'bloqueado'}`}
+                aria-label={`Día ${n}, ${status === 'tomorrow' ? 'se abre mañana' : 'bloqueado'}`}
                 className="grid aspect-square place-items-center rounded-xl border border-line-soft bg-surface text-[13.5px] tabular-nums text-muted"
               >
                 {n}
@@ -157,7 +157,7 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
           )
         })}
       </ol>
-      <p className="mt-3 text-center text-[14px] text-muted">Un dÃ­a a la vez: cada dÃ­a se abre al dÃ­a siguiente de completar el anterior.</p>
+      <p className="mt-3 text-center text-[14px] text-muted">Un día a la vez: cada día se abre al día siguiente de completar el anterior.</p>
     </>
   )
 }
@@ -179,7 +179,7 @@ function ToolProduct({ product }: { product: Product }) {
           ) : (
             <p className="mt-5 flex items-center gap-2 rounded-2xl bg-gold-soft/60 p-4 text-[15.5px] text-ink">
               <Icon name="clock" className="size-5 shrink-0 text-gold" />
-              Estamos preparando esta herramienta. Muy pronto la encontrarÃ¡s aquÃ­.
+              Estamos preparando esta herramienta. Muy pronto la encontrarás aquí.
             </p>
           )}
         </div>
@@ -205,7 +205,7 @@ function LinkProduct({ product }: { product: Product }) {
               Entrar al grupo
             </a>
           ) : (
-            <p className="mt-5 rounded-2xl bg-gold-soft/60 p-4 text-[15.5px] text-ink">El enlace del grupo aparecerÃ¡ aquÃ­ muy pronto.</p>
+            <p className="mt-5 rounded-2xl bg-gold-soft/60 p-4 text-[15.5px] text-ink">El enlace del grupo aparecerá aquí muy pronto.</p>
           )}
         </div>
       </div>
@@ -222,7 +222,7 @@ function LessonRow({ product, lesson, n, done }: { product: Product; lesson: Les
         type="button"
         onClick={() => toggleLesson(key)}
         aria-pressed={done}
-        aria-label={done ? `Desmarcar Â«${lesson.title}Â»` : `Marcar Â«${lesson.title}Â» como leÃ­da`}
+        aria-label={done ? `Desmarcar «${lesson.title}»` : `Marcar «${lesson.title}» como leída`}
         className="grid w-14 shrink-0 place-items-center border-r border-line-soft transition hover:bg-surface-hover"
       >
         <span className={`grid size-7 place-items-center rounded-full border-2 transition ${done ? 'animate-pop border-success bg-success text-white' : 'border-[#b9a57c] bg-surface-2'}`}>
@@ -239,6 +239,25 @@ function LessonRow({ product, lesson, n, done }: { product: Product; lesson: Les
         <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
       </Link>
     </li>
+  )
+}
+
+/** Inside the Estudio Cronológico: the way into the study AI that comes with it. */
+function StudyGuideCard() {
+  return (
+    <Link
+      href="/estudio"
+      className="mt-3 flex items-center gap-3.5 rounded-3xl bg-primary p-4 text-white shadow-card transition hover:brightness-110 active:scale-[0.99]"
+    >
+      <span className="grid size-12 shrink-0 place-items-center rounded-2xl bg-white/10 text-gold-bright">
+        <Icon name="sparkles" className="size-6" />
+      </span>
+      <span className="min-w-0 flex-1">
+        <span className="block font-serif text-[17px] font-semibold leading-snug">Tu Guía de Estudio con IA</span>
+        <span className="mt-0.5 block text-[14px] leading-snug text-white/75">Escribe un pasaje, un personaje o un tema y ve todos los pasajes conectados, en orden.</span>
+      </span>
+      <Icon name="chevronRight" className="size-5 shrink-0 text-gold-bright" />
+    </Link>
   )
 }
 
@@ -273,7 +292,7 @@ function ModuleContent({ product, completed }: { product: Product; completed: Ap
       <div className="rounded-3xl border border-line bg-surface p-5 shadow-card">
         <div className="flex items-baseline justify-between gap-3">
           <p className="text-[15.5px] text-text">
-            <strong className="text-ink">{progress.done}</strong> de {plural(progress.total, 'lecciÃ³n', 'lecciones')}
+            <strong className="text-ink">{progress.done}</strong> de {plural(progress.total, 'lección', 'lecciones')}
           </p>
           <p className="font-serif text-[26px] font-semibold tabular-nums text-ink">{progress.pct}%</p>
         </div>
@@ -288,21 +307,23 @@ function ModuleContent({ product, completed }: { product: Product; completed: Ap
         ) : (
           <p className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-success-soft p-3 text-[15.5px] font-semibold text-success">
             <Icon name="trophy" className="size-5" />
-            Â¡Completaste este recorrido!
+            ¡Completaste este recorrido!
           </p>
         )}
       </div>
 
+      {product.id === 'cronologico' && <StudyGuideCard />}
+
       {progress.total > 8 && (
         <div className="mt-5">
-          <SearchInput value={query} onChange={setQuery} placeholder="Â¿QuÃ© estÃ¡s buscando?" label={`Buscar en ${product.title}`} />
+          <SearchInput value={query} onChange={setQuery} placeholder="¿Qué estás buscando?" label={`Buscar en ${product.title}`} />
         </div>
       )}
 
       <div className="mt-3">
         {nothingFound && (
           <div className="mt-4">
-            <EmptyState icon="search" title="Sin resultados" text="Prueba con otro nombre o revisa la ortografÃ­a." />
+            <EmptyState icon="search" title="Sin resultados" text="Prueba con otro nombre o revisa la ortografía." />
           </div>
         )}
         {visible.map(({ section, lessons }) => {
