@@ -9,6 +9,7 @@ import { MindMapView } from './MindMapView'
 import { NinosStory } from '../ninos/NinosStory'
 import { ReadingDay } from './ReadingDay'
 import { AudioPromo, LockedProduct } from '../cards'
+import { ListeningDay } from '../ListeningDay'
 import { Icon, type IconName } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { Avatar, FontScaleControl, buttonClass } from '../ui'
@@ -119,7 +120,9 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         </div>
       )}
 
-      {lesson.lectura ? (
+      {lesson.escucha ? (
+        <ListeningDay product={product} ids={lesson.escucha} repaso={Boolean(lesson.subtitle?.startsWith('Repaso'))} />
+      ) : lesson.lectura ? (
         <ReadingDay dia={lesson.lectura} />
       ) : lesson.ninos ? (
         <NinosStory id={lesson.id} scale={s.fontScale} />
@@ -390,7 +393,7 @@ function tabPosition(product: Product, section: Section, lessonId: string): stri
   const group = product.sections.filter((sec) => sec.tab === section.tab).flatMap((sec) => sec.lessons)
   if (group.length < 2) return null
   const n = group.findIndex((l) => l.id === lessonId) + 1
-  return `${product.id === 'hacedores' ? 'Situación' : 'Lección'} ${n} de ${group.length}`
+  return `${product.id === 'hacedores' ? 'Situación' : product.id === 'cronologico-audio' ? 'Audio' : 'Lección'} ${n} de ${group.length}`
 }
 
 /** Guides about personal struggles: reflections stay private unless the member chooses to share. */

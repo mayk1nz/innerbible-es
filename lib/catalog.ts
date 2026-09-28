@@ -61,6 +61,8 @@ export interface Lesson {
   mapa?: boolean
   /** Rincón de los niños: the lesson is a story with games (lib/content/ninos/<id>.json). */
   ninos?: boolean
+  /** Listening plan day: the audios of this product to play that day, in order. */
+  escucha?: string[]
 }
 
 export interface Section {
@@ -241,6 +243,61 @@ const OLIVE = { from: '#28291a', to: '#0b0c07', glow: 'rgba(214, 220, 140, 0.32)
 const ROSE = { from: '#35211f', to: '#100908', glow: 'rgba(255, 170, 150, 0.32)' }
 const DUSK = { from: '#2a2233', to: '#0d0a12', glow: 'rgba(210, 180, 255, 0.30)' }
 
+/** The Resumen en Audio, in order (the "Audios" tab). */
+const AUDIO_SECTIONS: Section[] = [
+  { id: 'introduccion', title: 'Introducción', lessons: audioLessons('cronologico-audio', ['Comienza aquí', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?']) },
+  { id: 'antiguo-testamento', title: 'Antiguo Testamento', lessons: audioLessons('cronologico-audio', OLD_TESTAMENT) },
+  { id: 'nuevo-testamento', title: 'Nuevo Testamento', lessons: audioLessons('cronologico-audio', NEW_TESTAMENT) },
+  { id: 'conclusion', title: 'Conclusión', lessons: audioLessons('cronologico-audio', ['Conclusión: del Génesis al Apocalipsis']) },
+].map((sec) => ({ ...sec, tab: 'Audios' }))
+
+/**
+ * The full listening plan of the upsell: every audio, in order, in 30, 60 or 90 days, one
+ * day at a time. With more days than audios (90), one audio a day plus review days spread
+ * evenly, each replaying the audios heard since the last review.
+ */
+function fullListeningPlan(days: number): Section {
+  const audios = AUDIO_SECTIONS.flatMap((sec) => sec.lessons)
+  const name = (l: Lesson) => l.title.split(':')[0]
+  const span = (list: Lesson[]) => (list.length === 1 ? name(list[0]) : `${name(list[0])} → ${name(list[list.length - 1])}`)
+  const plan: { audios: Lesson[]; repaso: boolean }[] = []
+  if (days <= audios.length) {
+    const base = Math.floor(audios.length / days)
+    const extra = audios.length % days
+    let at = 0
+    for (let i = 0; i < days; i++) plan.push({ audios: audios.slice(at, (at += base + (i < extra ? 1 : 0))), repaso: false })
+  } else {
+    const reviews = days - audios.length
+    let since: Lesson[] = []
+    let done = 0
+    audios.forEach((a, i) => {
+      plan.push({ audios: [a], repaso: false })
+      since.push(a)
+      // A review after every stretch of listening, evenly spread over the plan.
+      if (done < reviews && Math.floor(((i + 1) * reviews) / audios.length) > done) {
+        plan.push({ audios: since, repaso: true })
+        since = []
+        done++
+      }
+    })
+  }
+  const lessons: Lesson[] = plan.map((d, i) => ({
+    id: `escucha-${days}-dia-${i + 1}`,
+    title: `Día ${i + 1}`,
+    subtitle: d.repaso ? `Repaso: ${span(d.audios)}` : span(d.audios),
+    format: 'audio' as const,
+    escucha: d.audios.map((l) => l.id),
+  }))
+  const perDay = days <= audios.length ? `unos ${Math.round(audios.length / days)} por día` : 'uno por día, con días de repaso'
+  return {
+    id: `plan-${days}`,
+    title: `Plan de escucha en ${days} días`,
+    tab: `${days} días`,
+    plan: { goal: `Los ${audios.length} audios, de Génesis al Apocalipsis, en ${days} días: ${perDay}.` },
+    lessons,
+  }
+}
+
 export const PRODUCTS: Product[] = [
   {
     id: 'cronologico',
@@ -272,12 +329,8 @@ export const PRODUCTS: Product[] = [
     kind: 'recorrido',
     offer: 'upsell1',
     cover: { ...AMBER, lines: ['Resumen', 'Cronológico', 'en'], highlight: 'Audio', icon: 'headphones' },
-    sections: [
-      { id: 'introduccion', title: 'Introducción', lessons: audioLessons('cronologico-audio', ['Comienza aquí', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?']) },
-      { id: 'antiguo-testamento', title: 'Antiguo Testamento', lessons: audioLessons('cronologico-audio', OLD_TESTAMENT) },
-      { id: 'nuevo-testamento', title: 'Nuevo Testamento', lessons: audioLessons('cronologico-audio', NEW_TESTAMENT) },
-      { id: 'conclusion', title: 'Conclusión', lessons: audioLessons('cronologico-audio', ['Conclusión: del Génesis al Apocalipsis']) },
-    ],
+    tabs: true,
+    sections: [...AUDIO_SECTIONS, ...[30, 60, 90].map((days) => fullListeningPlan(days))],
   },
   {
     id: 'hacedores',

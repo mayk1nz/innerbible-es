@@ -78,7 +78,7 @@ function TabbedModule({ product, completed, lastLesson }: { product: Product; co
             >
               <span className="text-[15px] font-semibold leading-tight">{g.label}</span>
               <span className={`mt-0.5 text-[12.5px] ${active ? 'text-white/75' : 'text-muted'}`}>
-                {first.plan ? `Plan de ${first.lessons.length} días` : count > 1 ? `${count} situaciones` : 'La guía'}
+                {first.plan ? `Plan de ${first.lessons.length} días` : count > 1 ? `${count} ${first.lessons[0]?.format === 'audio' ? 'audios' : 'situaciones'}` : 'La guía'}
               </span>
             </button>
           )
@@ -112,10 +112,11 @@ function GuideParts({ product, sections, completed }: { product: Product; sectio
   const numbers = useMemo(() => new Map(sections.flatMap((sec) => sec.lessons).map((l, i) => [l.id, i + 1])), [sections])
   const visible = sections.map((sec) => ({ sec, lessons: q ? sec.lessons.filter((l) => normalize(l.title).includes(q)) : sec.lessons }))
   const nothing = q.length > 0 && visible.every((v) => v.lessons.length === 0)
+  const audio = sections[0]?.lessons[0]?.format === 'audio'
 
   return (
     <>
-      <SearchInput value={query} onChange={setQuery} placeholder="¿Qué estás viviendo? Ej.: perdón, deudas" label="Buscar una situación" />
+      <SearchInput value={query} onChange={setQuery} placeholder={audio ? "Busca un libro, como «Rut»" : "¿Qué estás viviendo? Ej.: perdón, deudas"} label={audio ? "Buscar un audio" : "Buscar una situación"} />
       {nothing && (
         <div className="mt-4">
           <EmptyState icon="search" title="Sin resultados" text="Prueba con otra palabra, como «miedo», «familia» o «trabajo»." />

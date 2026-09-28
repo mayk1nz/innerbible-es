@@ -3,7 +3,7 @@ import { productById, type OfferId } from './catalog'
 /** Audio lessons of the Resumen en Audio (one section, or all). */
 function audioCount(sectionId?: string): number {
   const sections = productById('cronologico-audio')?.sections ?? []
-  return sections.filter((s) => !sectionId || s.id === sectionId).flatMap((s) => s.lessons).length
+  return sections.filter((s) => !sectionId || s.id === sectionId).flatMap((s) => s.lessons).filter((l) => l.audioSrc).length
 }
 
 // The in-app offers for what a member has not bought yet: 50% off for life during the
