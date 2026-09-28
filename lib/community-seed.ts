@@ -1,4 +1,4 @@
-// Demo community shown while the app has no backend. Every name and text here is
+﻿// Demo community shown while the app has no backend. Every name and text here is
 // invented — nothing comes from real members of any app. Replaced by the database.
 
 export interface SeedComment {
@@ -36,7 +36,7 @@ export const SEED_POSTS: SeedPost[] = [
     text: 'Terminé Génesis hoy. Leerlo en orden cambia todo: la promesa a Abraham se entiende de otra forma.',
     ageMin: 42,
     likes: 12,
-    lessonKey: 'cronologico/genesis',
+    lessonKey: 'cronologico/genesis-12-50',
     comments: [{ author: 'Javier Herrera', text: 'Amén. A mí me pasó lo mismo con Éxodo.', ageMin: 20 }],
   },
   {
@@ -101,7 +101,7 @@ export const SEED_MEMBERS: SeedMember[] = [
 ]
 
 export const SEED_REFLECTIONS: Record<string, SeedReflection[]> = {
-  'cronologico/genesis': [
+  'cronologico/genesis-12-50': [
     { author: 'Carmen Ríos', text: 'Nunca había visto que la promesa a Abraham ya apuntaba a Jesús. Leerlo en orden me ayudó mucho.', ageMin: 180 },
     { author: 'Andrés Morales', text: 'La historia de José me tocó hoy. Lo que parecía el final era parte del plan.', ageMin: 1300 },
   ],

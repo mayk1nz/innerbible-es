@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import Link from 'next/link'
 import { useState } from 'react'
@@ -94,14 +94,14 @@ export function AnualView() {
   const { owned, session } = useAppState()
   const everything = hasEverything(owned)
   const rows = [
-    { label: 'Resumen Cronológico de la Biblia + 8 regalos', price: ANUAL.monthly.front },
+    { label: 'Estudio Cronológico de la Biblia + 8 regalos', price: ANUAL.monthly.front },
     { label: 'Resumen Cronológico en Audio', price: ANUAL.monthly.upsell1 },
     { label: 'Palabras del Señor + Tu Consejero Bíblico', price: ANUAL.monthly.upsell2 },
   ]
   const gifts = PRODUCTS.filter((p) => p.offer === 'front' && p.id !== 'cronologico')
   const groups = [
     {
-      title: 'Resumen Cronológico de la Biblia',
+      title: 'Estudio Cronológico de la Biblia',
       items: [
         'Los 66 libros de la Biblia en el orden en que sucedieron los acontecimientos',
         'Cada resumen con fecha aproximada, autor, personajes, versículo clave y explicación clara',
@@ -150,7 +150,7 @@ export function AnualView() {
           </li>
         </ul>
         <p className="mt-3 rounded-2xl bg-gold-soft/60 px-4 py-3 text-[14.5px] leading-snug text-ink">
-          Es menos de lo que pagarías en {FRONT_MONTHS} meses solo del Resumen Cronológico.
+          Es menos de lo que pagarías en {FRONT_MONTHS} meses solo del Estudio Cronológico.
         </p>
       </section>
 

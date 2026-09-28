@@ -94,6 +94,39 @@ function clampScale(n: number): number {
   return Math.round(Math.min(FONT_SCALE_MAX, Math.max(FONT_SCALE_MIN, n)) * 10) / 10
 }
 
+// The chronological product became the Estudio Cronológico (90 lessons, new ids for some):
+// progress saved under an old lesson id moves to the lesson that now tells that part.
+const RENAMED: Record<string, string> = {
+  'linea-de-tiempo': 'once-eras',
+  'por-que-la-biblia-se-divide-en-antiguo-y-nuevo-testamento': 'antiguo-y-nuevo',
+  genesis: 'genesis-1-11',
+  '1-cronicas': 'cronicas',
+  'cantares-de-salomon': 'cantares',
+  '1-reyes-1-11': 'salomon',
+  '2-cronicas-1-9': 'salomon',
+  esdras: 'esdras-1-6',
+  'lucas-1-2': 'anuncios',
+  'mateo-1-2': 'nacimiento',
+  'marcos-1': 'inicio-ministerio',
+  'juan-1': 'el-verbo',
+  'el-ministerio-de-jesus-una-armonia-de-los-evangelios': 'galilea-ensenanzas',
+  'hechos-de-los-apostoles': 'hechos-1-7',
+}
+
+function migrateKey(key: string): string {
+  const [product, lesson] = key.split('/')
+  return product === 'cronologico' && lesson && RENAMED[lesson] ? `cronologico/${RENAMED[lesson]}` : key
+}
+
+function migrateRecord<T>(rec: Record<string, T>): Record<string, T> {
+  const out: Record<string, T> = {}
+  for (const [k, v] of Object.entries(rec)) {
+    const nk = migrateKey(k)
+    if (!(nk in out)) out[nk] = v
+  }
+  return out
+}
+
 function sanitize(raw: unknown): AppState {
   if (!isRecord(raw) || raw.v !== 1) return DEFAULT_STATE
   const sess = raw.session
@@ -105,13 +138,13 @@ function sanitize(raw: unknown): AppState {
     session,
     // Only a cache: AppShell refreshes it from the server (/api/auth/me) on every visit.
     owned: Array.isArray(raw.owned) ? raw.owned.filter((o): o is OfferId => OFFER_IDS.includes(o as OfferId)) : [],
-    completed: isRecord(raw.completed) ? (raw.completed as AppState['completed']) : {},
-    reflections: isRecord(raw.reflections) ? (raw.reflections as AppState['reflections']) : {},
-    posts: Array.isArray(raw.posts) ? (raw.posts as UserPost[]) : [],
+    completed: isRecord(raw.completed) ? migrateRecord(raw.completed as AppState['completed']) : {},
+    reflections: isRecord(raw.reflections) ? migrateRecord(raw.reflections as AppState['reflections']) : {},
+    posts: Array.isArray(raw.posts) ? (raw.posts as UserPost[]).map((p) => (p.lessonKey ? { ...p, lessonKey: migrateKey(p.lessonKey) } : p)) : [],
     likes: isRecord(raw.likes) ? (raw.likes as AppState['likes']) : {},
     comments: isRecord(raw.comments) ? (raw.comments as AppState['comments']) : {},
     points: Array.isArray(raw.points) ? (raw.points as PointEvent[]) : [],
-    lastLesson: typeof raw.lastLesson === 'string' ? raw.lastLesson : null,
+    lastLesson: typeof raw.lastLesson === 'string' ? migrateKey(raw.lastLesson) : null,
     fontScale: typeof raw.fontScale === 'number' ? clampScale(raw.fontScale) : 1,
     audioPos: isRecord(raw.audioPos) ? (raw.audioPos as AppState['audioPos']) : {},
     theme: raw.theme === 'dark' ? 'dark' : 'light',

@@ -1,0 +1,137 @@
+{
+  "id": "genesis-12-50",
+  "orden": 7,
+  "seccion": "patriarcas",
+  "formato": "completo",
+  "titulo": "Dios llama a Abraham y a su familia",
+  "pasajes": ["Gen.12.1-Gen.50.26"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Dios llama a Abraham a dejar su tierra y le promete una familia, una tierra y una bendición.",
+    "La promesa pasa a Isaac, a Jacob y a sus doce hijos, entre errores, peleas y reconciliaciones.",
+    "Dios revela que cumple su palabra y que puede convertir en bien aun el mal que otros hacen."
+  ],
+
+  "versiculo": {
+    "texto": "Y bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra.",
+    "referencia": "Génesis 12:3",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 2100–1800 a.C.",
+    "desde": -2091,
+    "hasta": -1805,
+    "certeza": "debatida",
+    "nota": "Cálculo tradicional a partir de 1 Reyes 6:1 y Éxodo 12:40. Otros cálculos sitúan a los patriarcas hasta dos siglos después."
+  },
+
+  "lugar": { "nombre": "Canaán y Egipto", "mapa": "patriarcas" },
+
+  "personajes": [
+    { "id": "abraham", "nombre": "Abraham", "linea": "Deja su tierra por la palabra de Dios; padre de la fe." },
+    { "id": "sara", "nombre": "Sara", "linea": "Esposa de Abraham; ríe de duda y después, de alegría." },
+    { "id": "isaac", "nombre": "Isaac", "linea": "El hijo prometido; Dios lo libra en el monte Moriah." },
+    { "id": "rebeca", "nombre": "Rebeca", "linea": "Esposa de Isaac; deja su casa para unirse a la promesa." },
+    { "id": "jacob", "nombre": "Jacob (Israel)", "linea": "Astuto y luchador; Dios lo transforma y lo llama Israel." },
+    { "id": "jose-patriarca", "nombre": "José", "linea": "Vendido por sus hermanos, llega a gobernar Egipto y los perdona." },
+    { "id": "juda-patriarca", "nombre": "Judá", "linea": "Propone vender a José; años después se ofrece por Benjamín." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios llama a Abram y le promete bendición", "ref": "Génesis 12:1-3" },
+    { "texto": "Abram cree a Dios y Dios hace pacto", "ref": "Génesis 15:1-21" },
+    { "texto": "Nace Isaac, el hijo prometido", "ref": "Génesis 21:1-7" },
+    { "texto": "En Moriah, Dios provee un carnero en lugar de Isaac", "ref": "Génesis 22:1-14" },
+    { "texto": "Jacob lucha toda la noche y recibe el nombre Israel", "ref": "Génesis 32:24-30" },
+    { "texto": "José se da a conocer y perdona a sus hermanos", "ref": "Génesis 45:1-15" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un llamado y una promesa",
+      "texto": "Abram vive en Harán con su familia. Un día Dios le habla: «Vete de tu tierra». Le promete hacer de él una gran nación y bendecir por él a todas las familias. Abram tiene setenta y cinco años y no tiene hijos. Aun así, obedece y camina hacia Canaán."
+    },
+    {
+      "subtitulo": "Esperar cuando cuesta creer",
+      "texto": "El hijo no llega. Dios le dice que mire las estrellas: así será su descendencia. Abram cree, y Dios se lo cuenta por justicia. Tras diez años en Canaán, Sarai le da a Abram su sierva Agar, y nace Ismael. Dios cambia el nombre de Abram por Abraham, «padre de muchedumbre». Por fin, cuando Abraham tiene cien años, nace Isaac."
+    },
+    {
+      "subtitulo": "Dios proveerá",
+      "texto": "Llega la prueba más difícil. Dios le pide a Abraham ofrecer a Isaac en el monte Moriah. Abraham obedece. En el camino, Isaac pregunta dónde está el cordero. Su padre responde que Dios lo proveerá. Entonces el ángel del Señor detiene su mano y aparece un carnero. Isaac vive, y la promesa sigue."
+    },
+    {
+      "subtitulo": "Jacob, el luchador",
+      "texto": "Isaac se casa con Rebeca y tienen mellizos: Esaú y Jacob. Jacob compra la primogenitura de su hermano por un plato de lentejas. Después engaña a su padre para quedarse con la bendición. Tiene que huir. En Betel, Dios le muestra en sueños una escalera al cielo y le promete: «no te dejaré»."
+    },
+    {
+      "subtitulo": "Una familia herida",
+      "texto": "Jacob trabaja años para su tío Labán y se casa con Lea y con Raquel. Tiene doce hijos. Una noche lucha hasta el alba y recibe un nombre nuevo: Israel. Jacob prefiere a José y le regala una ropa de colores. Sus hermanos, llenos de envidia, lo venden por veinte piezas de plata."
+    },
+    {
+      "subtitulo": "Dios lo encaminó a bien",
+      "texto": "En Egipto, José sirve con honradez, pero acaba en la cárcel sin culpa. Dios le da a entender los sueños del faraón, y José llega a gobernar Egipto. Cuando llega el hambre, sus hermanos vienen a comprar trigo. José llora, se da a conocer y los perdona. Dios convirtió el mal en bien."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "La promesa de bendecir a todas las familias se cumple en Jesús, descendiente de Abraham. En Moriah, Dios dio un carnero en lugar de Isaac. Siglos después, Juan el Bautista presenta a Jesús como «el Cordero de Dios». Y José, rechazado por los suyos, salva a muchos: es un anticipo de Jesús.",
+    "refs": ["Gálatas 3:16", "Juan 1:29"]
+  },
+
+  "mundo": "Las grandes pirámides de Egipto ya tenían varios siglos. En Mesopotamia, ciudades como Ur tenían escritura, escuelas y comercio. Abraham salió de esa tierra rica para seguir a Dios.",
+
+  "antes": "Dios creó todo bueno, pero el pecado se extendió. Después de Babel, los pueblos quedaron dispersos por la tierra.",
+  "despues": "La familia de Jacob crece en Egipto hasta ser un pueblo. Allí terminará en esclavitud, y Dios llamará a Moisés.",
+
+  "conexiones": [
+    { "ref": "Gálatas 3:8", "motivo": "Pablo ve en esta promesa la buena noticia para todos los pueblos." },
+    { "ref": "Romanos 4:3", "motivo": "Abraham creyó a Dios, y eso le fue contado por justicia." },
+    { "ref": "Juan 1:29", "motivo": "El cordero que Dios provee en Moriah apunta a Jesús." },
+    { "ref": "Romanos 8:28", "motivo": "Como con José, Dios dispone todas las cosas para bien de los que le aman." }
+  ],
+
+  "glosario": ["pacto", "primogenitura", "bendicion", "faraon"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, copia una promesa de Dios y léela cada mañana, aunque todavía no veas su cumplimiento.",
+    "pregunta": "¿Qué herida de tu historia puedes poner en manos de Dios, como hizo José?"
+  },
+
+  "meditar": "Señor, como a Abraham, enséñame a confiar en tus promesas. Como a José, dame un corazón que perdona. Tú puedes convertir mi dolor en bien. Amén.",
+
+  "ninos": {
+    "pregunta": "Abraham salió de su casa sin saber adónde iba. ¿Por qué crees que confió en Dios?",
+    "actividad": "Dibuja un cielo lleno de estrellas y escribe en ellas los nombres de tu familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué le pidió Dios a Abram en Génesis 12?",
+      "opciones": ["Construir un arca grande", "Dejar su tierra y su parentela", "Quedarse a vivir en Harán"],
+      "correcta": 1,
+      "explicacion": "Dios le dijo: «Vete de tu tierra», y le prometió bendecirlo (Génesis 12:1-3).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué nombre nuevo recibió Jacob después de luchar toda la noche?",
+      "opciones": ["Israel", "Abraham", "Judá"],
+      "correcta": 0,
+      "explicacion": "En Génesis 32:28 recibe el nombre Israel. Sus hijos darán nombre a las tribus.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿A quién llama Juan el Bautista «el Cordero de Dios»?",
+      "opciones": ["A Isaac", "A Jesús", "A José"],
+      "correcta": 1,
+      "explicacion": "Como el carnero que Dios dio en Moriah, Jesús es el Cordero que Dios provee (Juan 1:29).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Gen.12", "Gen.15", "Gen.22", "Gen.28", "Gen.37", "Gen.45", "Gen.50"], "minutos": 30 },
+
+  "temas": ["fe", "promesa", "pacto", "perdon", "providencia"],
+  "cadenas": ["la-promesa-a-abraham", "el-cordero"]
+}

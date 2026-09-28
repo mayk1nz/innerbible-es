@@ -1,5 +1,6 @@
 import type { IconName } from '@/components/icons'
 import { PLAN_TITLES, type PlanId } from './content/plans/titles'
+import { ESTUDIO_ERAS, ESTUDIO_LECCIONES } from './content/estudio/maestra'
 import { COMIENZA_AQUI, GENESIS } from './content/sample'
 import { slugify } from './text'
 
@@ -42,6 +43,10 @@ export interface Lesson {
   content?: LessonContent
   /** Plans: the text lives in lib/content/plans and loads only when the day is opened. */
   plan?: { id: PlanId; day: number }
+  /** Estudio Cronológico: what is read in the lesson ("Génesis 12–50"). */
+  rotulo?: string
+  /** Estudio Cronológico: the lesson lives in lib/content/estudio (loaded when opened). */
+  estudio?: boolean
 }
 
 export interface Section {
@@ -153,7 +158,6 @@ function yearPlan(): Section[] {
 
 // ─── Chronological order (as listed in the reference app) ──────────
 
-const INTRO = ['Comienza aquí', 'Línea de tiempo', '¿Por qué la Biblia se divide en Antiguo y Nuevo Testamento?']
 
 const OLD_TESTAMENT = [
   'Génesis', 'Job', 'Éxodo', 'Levítico', 'Números', 'Deuteronomio', 'Josué', 'Jueces', 'Rut',
@@ -188,17 +192,25 @@ const DUSK = { from: '#2a2233', to: '#0d0a12', glow: 'rgba(210, 180, 255, 0.30)'
 export const PRODUCTS: Product[] = [
   {
     id: 'cronologico',
-    title: 'Resumen Cronológico de la Biblia',
-    short: 'Los 66 libros en el orden en que sucedieron los acontecimientos, de forma visual y sencilla.',
-    description: 'Recorre toda la historia bíblica en orden cronológico, desde la creación hasta la promesa de un cielo nuevo y una tierra nueva. Cada resumen trae la fecha aproximada, el autor, los personajes, un versículo clave y una explicación clara y fiel al texto.',
+    title: 'Estudio Cronológico de la Biblia',
+    short: 'Toda la historia de la Biblia en el orden en que sucedió: 90 lecciones claras, de la creación al Apocalipsis.',
+    description:
+      'Los 66 libros de la Biblia contados como una sola historia, en el orden en que sucedieron. Cada lección se lee en 1 minuto o como estudio completo: personajes, fechas, lo que pasó, dónde aparece Jesús, qué significa para tu vida, un repaso de 3 preguntas y los pasajes para leer en la Biblia.',
     kind: 'recorrido',
     offer: 'front',
-    cover: { ...WARM, lines: ['Resumen', 'Cronológico', 'de la'], highlight: 'Biblia', icon: 'book' },
-    sections: [
-      { id: 'introduccion', title: 'Introducción', lessons: lessons(INTRO, 'texto') },
-      { id: 'antiguo-testamento', title: 'Antiguo Testamento', lessons: lessons(['Índice del Antiguo Testamento', ...OLD_TESTAMENT], 'texto') },
-      { id: 'nuevo-testamento', title: 'Nuevo Testamento', lessons: lessons(['Índice del Nuevo Testamento', ...NEW_TESTAMENT], 'texto') },
-    ],
+    cover: { ...WARM, lines: ['Estudio', 'Cronológico', 'de la'], highlight: 'Biblia', icon: 'book' },
+    // Eras and lessons come from the master table (content-src/estudio/maestra.json).
+    sections: ESTUDIO_ERAS.map((era) => ({
+      id: era.id,
+      title: era.titulo,
+      lessons: ESTUDIO_LECCIONES.filter((l) => l.seccion === era.id).map((l) => ({
+        id: l.id,
+        title: l.titulo,
+        rotulo: l.rotulo,
+        format: 'texto' as const,
+        estudio: true,
+      })),
+    })).filter((s) => s.lessons.length > 0),
   },
   {
     id: 'cronologico-audio',
@@ -356,9 +368,9 @@ export const PRODUCTS: Product[] = [
 export const OFFERS: Offer[] = [
   {
     id: 'front',
-    title: 'Resumen Cronológico de la Biblia',
+    title: 'Estudio Cronológico de la Biblia',
     short: 'tu compra',
-    pitch: 'Los 66 libros en orden cronológico y 8 regalos especiales.',
+    pitch: 'Toda la Biblia como una sola historia, en 90 lecciones, y 8 regalos especiales.',
     productId: 'cronologico',
   },
   {

@@ -226,7 +226,10 @@ function LessonRow({ product, lesson, n, done }: { product: Product; lesson: Les
       </button>
       <Link href={lessonHref(product.id, lesson.id)} className="flex min-h-16 min-w-0 flex-1 items-center gap-3 px-4 py-3 transition hover:bg-surface-hover">
         <span className="w-7 shrink-0 text-[13px] font-semibold tabular-nums text-muted">{String(n).padStart(2, '0')}</span>
-        <span className={`min-w-0 flex-1 font-serif text-[16.5px] leading-snug ${done ? 'text-muted' : 'text-ink'}`}>{lesson.title}</span>
+        <span className="min-w-0 flex-1">
+          <span className={`block font-serif text-[16.5px] leading-snug ${done ? 'text-muted' : 'text-ink'}`}>{lesson.title}</span>
+          {lesson.rotulo && <span className="mt-0.5 block text-[13.5px] leading-snug text-muted">{lesson.rotulo}</span>}
+        </span>
         {lesson.format === 'audio' && <Icon name="headphones" className="size-4.5 shrink-0 text-gold" label="Audio" />}
         <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
       </Link>

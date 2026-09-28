@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "adan",
+    "nombre": "Adán",
+    "rv1909": "Adam",
+    "linea": "El primer hombre, formado por Dios del polvo.",
+    "lecciones": [
+      "genesis-1-11",
+      "inicio-ministerio",
+      "1-corintios",
+      "romanos",
+      "1-timoteo",
+      "judas"
+    ]
+  },
+  {
+    "id": "eva",
+    "nombre": "Eva",
+    "linea": "La primera mujer, madre de todos los que viven.",
+    "lecciones": [
+      "genesis-1-11",
+      "2-corintios",
+      "1-timoteo"
+    ]
+  },
+  {
+    "id": "cain",
+    "nombre": "Caín",
+    "linea": "Hijo de Adán y Eva; mató por envidia a su hermano.",
+    "lecciones": [
+      "genesis-1-11",
+      "hebreos",
+      "judas",
+      "1-juan"
+    ]
+  },
+  {
+    "id": "abel",
+    "nombre": "Abel",
+    "linea": "Hijo de Adán; ofreció a Dios lo mejor, con fe.",
+    "lecciones": [
+      "genesis-1-11",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "hebreos",
+      "1-juan"
+    ]
+  },
+  {
+    "id": "enoc",
+    "nombre": "Enoc",
+    "rv1909": "Enoch",
+    "linea": "Caminó con Dios, y Dios se lo llevó.",
+    "lecciones": [
+      "genesis-1-11",
+      "hebreos",
+      "judas"
+    ]
+  },
+  {
+    "id": "noe",
+    "nombre": "Noé",
+    "linea": "Hombre justo que construyó el arca por orden de Dios.",
+    "lecciones": [
+      "genesis-1-11",
+      "isaias",
+      "ezequiel",
+      "cronicas",
+      "inicio-ministerio",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "1-pedro",
+      "2-pedro",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "abraham",
+    "nombre": "Abraham",
+    "rv1909": "Abram / Abraham",
+    "linea": "Padre de la fe; Dios le prometió bendecir a todos por él.",
+    "lecciones": [
+      "genesis-1-11",
+      "genesis-12-50",
+      "exodo",
+      "levitico",
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "2-samuel",
+      "salmos",
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "isaias",
+      "miqueas",
+      "2-reyes-18-21",
+      "jeremias",
+      "ezequiel",
+      "nehemias",
+      "cronicas",
+      "anuncios",
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "hechos-1-7",
+      "santiago",
+      "hechos-13-14",
+      "galatas",
+      "2-corintios",
+      "romanos",
+      "1-pedro",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "sara",
+    "nombre": "Sara",
+    "rv1909": "Sarai / Sara",
+    "linea": "Esposa de Abraham; tuvo a Isaac en su vejez.",
+    "lecciones": [
+      "genesis-1-11",
+      "genesis-12-50",
+      "isaias",
+      "romanos",
+      "1-pedro",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "agar",
+    "nombre": "Agar",
+    "linea": "Sierva egipcia de Sara, madre de Ismael; Dios la vio.",
+    "lecciones": [
+      "genesis-12-50",
+      "galatas"
+    ]
+  },
+  {
+    "id": "ismael",
+    "nombre": "Ismael",
+    "linea": "Hijo de Abraham y Agar; Dios también lo bendijo.",
+    "lecciones": [
+      "genesis-12-50"
+    ]
+  },
+  {
+    "id": "lot",
+    "nombre": "Lot",
+    "linea": "Sobrino de Abraham; salió de Sodoma antes de su destrucción.",
+    "lecciones": [
+      "genesis-1-11",
+      "genesis-12-50",
+      "deuteronomio",
+      "salmos",
+      "camino-a-jerusalen",
+      "2-pedro"
+    ]
+  },
+  {
+    "id": "melquisedec",
+    "nombre": "Melquisedec",
+    "rv1909": "Melchîsedec",
+    "linea": "Rey y sacerdote que bendijo a Abraham; figura de Cristo.",
+    "lecciones": [
+      "genesis-12-50",
+      "salmos",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "isaac",
+    "nombre": "Isaac",
+    "linea": "Hijo de la promesa, nacido de Abraham y Sara.",
+    "lecciones": [
+      "genesis-12-50",
+      "exodo",
+      "levitico",
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "2-samuel",
+      "salmos",
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "amos",
+      "2-reyes-18-21",
+      "jeremias",
+      "cronicas",
+      "anuncios",
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "hechos-1-7",
+      "santiago",
+      "galatas",
+      "romanos",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "rebeca",
+    "nombre": "Rebeca",
+    "linea": "Esposa de Isaac y madre de Esaú y Jacob.",
+    "lecciones": [
+      "genesis-12-50",
+      "romanos"
+    ]
+  },
+  {
+    "id": "esau",
+    "nombre": "Esaú",
+    "linea": "Hijo mayor de Isaac; vendió su primogenitura por un guiso.",
+    "lecciones": [
+      "genesis-12-50",
+      "deuteronomio",
+      "josue",
+      "jeremias",
+      "abdias",
+      "cronicas",
+      "malaquias",
+      "romanos",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "jacob",
+    "nombre": "Jacob (Israel)",
+    "linea": "Nieto de Abraham; Dios le dio el nombre de Israel.",
+    "lecciones": [
+      "genesis-12-50",
+      "exodo",
+      "anuncios",
+      "inicio-ministerio",
+      "hechos-1-7",
+      "romanos",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "raquel",
+    "nombre": "Raquel",
+    "rv1909": "Rachêl",
+    "linea": "Esposa amada de Jacob, madre de José y Benjamín.",
+    "lecciones": [
+      "genesis-12-50",
+      "rut",
+      "1-samuel",
+      "jeremias",
+      "nacimiento"
+    ]
+  },
+  {
+    "id": "lea",
+    "nombre": "Lea",
+    "linea": "Primera esposa de Jacob, madre de Judá y de Leví.",
+    "lecciones": [
+      "genesis-12-50",
+      "rut"
+    ]
+  },
+  {
+    "id": "jose-patriarca",
+    "nombre": "José, hijo de Jacob",
+    "linea": "Vendido por sus hermanos, Dios lo usó para salvar a muchos.",
+    "lecciones": [
+      "genesis-12-50",
+      "exodo",
+      "hechos-1-7",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "juda-patriarca",
+    "nombre": "Judá, hijo de Jacob",
+    "linea": "Hijo de Jacob; de su familia vendrían David y Jesús.",
+    "lecciones": [
+      "genesis-12-50"
+    ]
+  },
+  {
+    "id": "job",
+    "nombre": "Job",
+    "linea": "Hombre justo que sufrió mucho y siguió buscando a Dios.",
+    "lecciones": [
+      "job",
+      "ezequiel",
+      "santiago"
+    ]
+  },
+  {
+    "id": "moises",
+    "nombre": "Moisés",
+    "linea": "Llamado por Dios a sacar a Israel de Egipto; recibió la Ley.",
+    "lecciones": [
+      "exodo",
+      "levitico",
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "jueces",
+      "1-samuel",
+      "2-samuel",
+      "salmos",
+      "salomon",
+      "2-reyes-1-14",
+      "isaias",
+      "2-reyes-18-21",
+      "2-reyes-22-23",
+      "daniel",
+      "esdras-1-6",
+      "nehemias",
+      "cronicas",
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "resurreccion",
+      "hechos-1-7",
+      "hechos-15-18",
+      "1-corintios",
+      "2-corintios",
+      "romanos",
+      "hechos-21-28",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "aaron",
+    "nombre": "Aarón",
+    "linea": "Hermano de Moisés y primer sumo sacerdote de Israel.",
+    "lecciones": [
+      "exodo",
+      "levitico",
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "jueces",
+      "1-samuel",
+      "2-samuel",
+      "salmos",
+      "1-reyes-12-22",
+      "2-reyes-15-17",
+      "miqueas",
+      "2-reyes-18-21",
+      "2-reyes-22-23",
+      "esdras-7-10",
+      "nehemias",
+      "cronicas",
+      "anuncios",
+      "hechos-1-7",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "maria-hermana-de-moises",
+    "nombre": "María, hermana de Moisés",
+    "linea": "Profetisa que cantó a Dios tras cruzar el mar.",
+    "lecciones": [
+      "exodo",
+      "numeros",
+      "deuteronomio",
+      "miqueas"
+    ]
+  },
+  {
+    "id": "jetro",
+    "nombre": "Jetro",
+    "rv1909": "Jethro",
+    "linea": "Sacerdote de Madián, suegro y sabio consejero de Moisés.",
+    "lecciones": [
+      "exodo"
+    ]
+  },
+  {
+    "id": "balaam",
+    "nombre": "Balaam",
+    "linea": "Adivino pagado para maldecir a Israel; Dios lo hizo bendecir.",
+    "lecciones": [
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "miqueas",
+      "nehemias",
+      "2-pedro",
+      "judas",
+      "apocalipsis"
+    ]
+  },
+  {
+    "id": "josue",
+    "nombre": "Josué",
+    "linea": "Sucesor de Moisés; guió a Israel a la tierra prometida.",
+    "lecciones": [
+      "exodo",
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "jueces"
+    ]
+  },
+  {
+    "id": "caleb",
+    "nombre": "Caleb",
+    "linea": "Espía fiel que confió en Dios cuando otros temieron.",
+    "lecciones": [
+      "numeros",
+      "deuteronomio",
+      "josue",
+      "jueces"
+    ]
+  },
+  {
+    "id": "rahab",
+    "nombre": "Rahab",
+    "linea": "Mujer de Jericó que escondió a los espías y fue salvada.",
+    "lecciones": [
+      "josue",
+      "anuncios",
+      "santiago",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "debora",
+    "nombre": "Débora",
+    "linea": "Profetisa y jueza que guió a Israel a la victoria.",
+    "lecciones": [
+      "jueces"
+    ]
+  },
+  {
+    "id": "gedeon",
+    "nombre": "Gedeón",
+    "linea": "Juez temeroso a quien Dios hizo valiente con solo trescientos hombres.",
+    "lecciones": [
+      "jueces",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "sanson",
+    "nombre": "Sansón",
+    "rv1909": "Samsón",
+    "linea": "Juez de gran fuerza, con grandes caídas y un final de fe.",
+    "lecciones": [
+      "jueces",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "rut",
+    "nombre": "Rut",
+    "rv1909": "Ruth",
+    "linea": "Moabita fiel a Noemí; bisabuela del rey David.",
+    "lecciones": [
+      "rut",
+      "anuncios"
+    ]
+  },
+  {
+    "id": "noemi",
+    "nombre": "Noemí",
+    "rv1909": "Noemi",
+    "linea": "Suegra de Rut; pasó de la amargura a la alegría.",
+    "lecciones": [
+      "rut"
+    ]
+  },
+  {
+    "id": "booz",
+    "nombre": "Booz",
+    "linea": "Hombre bondadoso de Belén que rescató a Rut y a Noemí.",
+    "lecciones": [
+      "rut",
+      "cronicas",
+      "anuncios",
+      "inicio-ministerio"
+    ]
+  },
+  {
+    "id": "ana-madre-de-samuel",
+    "nombre": "Ana, madre de Samuel",
+    "linea": "Mujer que oró con lágrimas y Dios le dio un hijo.",
+    "lecciones": [
+      "1-samuel"
+    ]
+  },
+  {
+    "id": "eli",
+    "nombre": "Elí",
+    "rv1909": "Eli",
+    "linea": "Sacerdote anciano de Silo que crió al niño Samuel.",
+    "lecciones": [
+      "1-samuel",
+      "salomon"
+    ]
+  },
+  {
+    "id": "samuel",
+    "nombre": "Samuel",
+    "linea": "Profeta y último juez; ungió a Saúl y a David.",
+    "lecciones": [
+      "1-samuel",
+      "2-samuel",
+      "salmos",
+      "2-reyes-22-23",
+      "jeremias",
+      "cronicas",
+      "hechos-1-7",
+      "hechos-13-14",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "saul",
+    "nombre": "Saúl",
+    "linea": "Primer rey de Israel; empezó bien pero desobedeció a Dios.",
+    "lecciones": [
+      "1-samuel",
+      "2-samuel",
+      "salmos",
+      "cronicas",
+      "hechos-13-14"
+    ]
+  },
+  {
+    "id": "jonatan",
+    "nombre": "Jonatán",
+    "rv1909": "Jonathán",
+    "linea": "Hijo de Saúl y amigo fiel de David.",
+    "lecciones": [
+      "1-samuel",
+      "2-samuel"
+    ]
+  },
+  {
+    "id": "goliat",
+    "nombre": "Goliat",
+    "rv1909": "Goliath",
+    "linea": "Gigante filisteo vencido por David con una piedra.",
+    "lecciones": [
+      "1-samuel",
+      "2-samuel"
+    ]
+  },
+  {
+    "id": "david",
+    "nombre": "David",
+    "linea": "Pastor y rey; Dios le prometió un reino que no acabaría.",
+    "lecciones": [
+      "rut",
+      "1-samuel",
+      "2-samuel",
+      "salmos",
+      "salomon",
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "amos",
+      "2-reyes-15-17",
+      "isaias",
+      "2-reyes-18-21",
+      "2-reyes-22-23",
+      "jeremias",
+      "ezequiel",
+      "zacarias",
+      "esdras-7-10",
+      "nehemias",
+      "cronicas",
+      "anuncios",
+      "nacimiento",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "hechos-1-7",
+      "hechos-13-14",
+      "romanos",
+      "hebreos",
+      "apocalipsis"
+    ]
+  },
+  {
+    "id": "betsabe",
+    "nombre": "Betsabé",
+    "rv1909": "Bath-sheba",
+    "linea": "Esposa de Urías y luego de David; madre de Salomón.",
+    "lecciones": [
+      "2-samuel",
+      "salomon",
+      "anuncios"
+    ]
+  },
+  {
+    "id": "natan",
+    "nombre": "Natán",
+    "rv1909": "Nathán",
+    "linea": "Profeta que llevó a David la promesa y la corrección de Dios.",
+    "lecciones": [
+      "2-samuel",
+      "salomon"
+    ]
+  },
+  {
+    "id": "absalon",
+    "nombre": "Absalón",
+    "rv1909": "Absalom",
+    "linea": "Hijo de David que se rebeló contra su padre.",
+    "lecciones": [
+      "2-samuel",
+      "salmos",
+      "salomon",
+      "1-reyes-12-22",
+      "cronicas"
+    ]
+  },
+  {
+    "id": "salomon",
+    "nombre": "Salomón",
+    "linea": "Hijo de David; pidió sabiduría y construyó el templo.",
+    "lecciones": [
+      "2-samuel",
+      "salmos",
+      "salomon",
+      "proverbios",
+      "cantares",
+      "1-reyes-12-22",
+      "2-reyes-18-21",
+      "2-reyes-22-23",
+      "jeremias",
+      "2-reyes-24-25",
+      "esdras-1-6",
+      "nehemias",
+      "cronicas",
+      "entre-testamentos",
+      "anuncios",
+      "galilea-ensenanzas",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "roboam",
+    "nombre": "Roboam",
+    "linea": "Hijo de Salomón; su dureza dividió el reino.",
+    "lecciones": [
+      "salomon",
+      "1-reyes-12-22",
+      "cronicas",
+      "anuncios"
+    ]
+  },
+  {
+    "id": "jeroboam",
+    "nombre": "Jeroboam",
+    "linea": "Primer rey del norte; hizo becerros de oro para el pueblo.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-15-17"
+    ]
+  },
+  {
+    "id": "acab",
+    "nombre": "Acab",
+    "rv1909": "Achâb",
+    "linea": "Rey de Israel que siguió a Baal por influencia de Jezabel.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "miqueas",
+      "2-reyes-18-21",
+      "jeremias"
+    ]
+  },
+  {
+    "id": "jezabel",
+    "nombre": "Jezabel",
+    "linea": "Reina que persiguió a los profetas y promovió a Baal.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-1-14"
+    ]
+  },
+  {
+    "id": "elias",
+    "nombre": "Elías",
+    "linea": "Profeta valiente del Carmelo; Dios le habló en un silbo apacible.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "malaquias",
+      "anuncios",
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "pasion-y-muerte",
+      "santiago",
+      "romanos"
+    ]
+  },
+  {
+    "id": "eliseo",
+    "nombre": "Eliseo",
+    "linea": "Profeta sucesor de Elías, conocido por sus milagros de bondad.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "inicio-ministerio"
+    ]
+  },
+  {
+    "id": "naaman",
+    "nombre": "Naamán",
+    "linea": "General sirio sanado de lepra al obedecer a Dios.",
+    "lecciones": [
+      "2-reyes-1-14",
+      "inicio-ministerio"
+    ]
+  },
+  {
+    "id": "jehu",
+    "nombre": "Jehú",
+    "linea": "Rey de Israel que acabó con la casa de Acab.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-1-14",
+      "oseas",
+      "2-reyes-15-17"
+    ]
+  },
+  {
+    "id": "jonas",
+    "nombre": "Jonás",
+    "linea": "Profeta que huyó de Dios y luego predicó en Nínive.",
+    "lecciones": [
+      "2-reyes-1-14",
+      "jonas",
+      "galilea-milagros",
+      "camino-a-jerusalen"
+    ]
+  },
+  {
+    "id": "amos",
+    "nombre": "Amós",
+    "linea": "Pastor y profeta que pidió justicia para los pobres.",
+    "lecciones": [
+      "amos"
+    ]
+  },
+  {
+    "id": "oseas",
+    "nombre": "Oseas",
+    "linea": "Profeta cuyo matrimonio mostró el amor fiel de Dios.",
+    "lecciones": [
+      "oseas",
+      "romanos"
+    ]
+  },
+  {
+    "id": "joel",
+    "nombre": "Joel",
+    "linea": "Profeta que anunció el Espíritu derramado sobre todos.",
+    "lecciones": [
+      "joel",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "isaias",
+    "nombre": "Isaías",
+    "linea": "Gran profeta de Jerusalén que anunció al Mesías siervo.",
+    "lecciones": [
+      "2-reyes-15-17",
+      "isaias",
+      "2-reyes-18-21",
+      "inicio-ministerio",
+      "galilea-ensenanzas",
+      "galilea-milagros",
+      "ultima-semana",
+      "hechos-8-12",
+      "romanos",
+      "hechos-21-28"
+    ]
+  },
+  {
+    "id": "miqueas",
+    "nombre": "Miqueas",
+    "linea": "Profeta que anunció que el Mesías nacería en Belén.",
+    "lecciones": [
+      "miqueas",
+      "jeremias"
+    ]
+  },
+  {
+    "id": "ezequias",
+    "nombre": "Ezequías",
+    "rv1909": "Ezechîas",
+    "linea": "Rey de Judá que confió en Dios ante Asiria.",
+    "lecciones": [
+      "proverbios",
+      "oseas",
+      "2-reyes-15-17",
+      "isaias",
+      "miqueas",
+      "2-reyes-18-21",
+      "sofonias",
+      "jeremias",
+      "cronicas",
+      "anuncios"
+    ]
+  },
+  {
+    "id": "senaquerib",
+    "nombre": "Senaquerib",
+    "rv1909": "Sennachêrib",
+    "linea": "Rey de Asiria que rodeó Jerusalén y tuvo que retirarse.",
+    "lecciones": [
+      "isaias",
+      "2-reyes-18-21"
+    ]
+  },
+  {
+    "id": "manases",
+    "nombre": "Manasés, rey de Judá",
+    "linea": "Rey muy malo de Judá que al final se humilló ante Dios.",
+    "lecciones": [
+      "2-reyes-18-21",
+      "2-reyes-22-23",
+      "jeremias",
+      "2-reyes-24-25"
+    ]
+  },
+  {
+    "id": "nahum",
+    "nombre": "Nahúm",
+    "linea": "Profeta que anunció la caída de Nínive.",
+    "lecciones": [
+      "nahum"
+    ]
+  },
+  {
+    "id": "josias",
+    "nombre": "Josías",
+    "linea": "Rey joven que halló la Ley y renovó el pacto.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-18-21",
+      "2-reyes-22-23",
+      "sofonias",
+      "jeremias",
+      "2-reyes-24-25",
+      "cronicas",
+      "anuncios"
+    ]
+  },
+  {
+    "id": "sofonias",
+    "nombre": "Sofonías",
+    "linea": "Profeta que anunció el día del Señor y su alegría final.",
+    "lecciones": [
+      "sofonias"
+    ]
+  },
+  {
+    "id": "jeremias",
+    "nombre": "Jeremías",
+    "linea": "Profeta que lloró por Jerusalén y anunció un pacto nuevo.",
+    "lecciones": [
+      "2-reyes-22-23",
+      "jeremias",
+      "2-reyes-24-25",
+      "daniel",
+      "esdras-1-6",
+      "nacimiento",
+      "galilea-milagros",
+      "pasion-y-muerte"
+    ]
+  },
+  {
+    "id": "baruc",
+    "nombre": "Baruc",
+    "rv1909": "Baruch",
+    "linea": "Secretario fiel que escribió las palabras de Jeremías.",
+    "lecciones": [
+      "jeremias",
+      "nehemias"
+    ]
+  },
+  {
+    "id": "habacuc",
+    "nombre": "Habacuc",
+    "linea": "Profeta que preguntó a Dios por el mal y aprendió a confiar.",
+    "lecciones": [
+      "habacuc"
+    ]
+  },
+  {
+    "id": "nabucodonosor",
+    "nombre": "Nabucodonosor",
+    "linea": "Rey de Babilonia que destruyó Jerusalén y conoció al Dios de Daniel.",
+    "lecciones": [
+      "jeremias",
+      "2-reyes-24-25",
+      "ezequiel",
+      "daniel",
+      "esdras-1-6",
+      "ester",
+      "nehemias",
+      "cronicas"
+    ]
+  },
+  {
+    "id": "abdias",
+    "nombre": "Abdías",
+    "linea": "Profeta que habló contra Edom por su crueldad con Judá.",
+    "lecciones": [
+      "abdias"
+    ]
+  },
+  {
+    "id": "ezequiel",
+    "nombre": "Ezequiel",
+    "linea": "Sacerdote y profeta en el exilio; vio los huesos secos revivir.",
+    "lecciones": [
+      "ezequiel"
+    ]
+  },
+  {
+    "id": "daniel",
+    "nombre": "Daniel",
+    "linea": "Joven cautivo en Babilonia que fue fiel a Dios toda su vida.",
+    "lecciones": [
+      "ezequiel",
+      "daniel",
+      "ultima-semana"
+    ]
+  },
+  {
+    "id": "amigos-de-daniel",
+    "nombre": "Sadrac, Mesac y Abed-nego",
+    "rv1909": "Sadrach, Mesach y Abed-nego",
+    "linea": "Amigos de Daniel que no adoraron la estatua del rey.",
+    "lecciones": [
+      "daniel"
+    ]
+  },
+  {
+    "id": "ciro",
+    "nombre": "Ciro",
+    "linea": "Rey de Persia que dejó volver a los judíos a su tierra.",
+    "lecciones": [
+      "isaias",
+      "daniel",
+      "esdras-1-6"
+    ]
+  },
+  {
+    "id": "zorobabel",
+    "nombre": "Zorobabel",
+    "linea": "Descendiente de David; guió el regreso y la reconstrucción del templo.",
+    "lecciones": [
+      "esdras-1-6",
+      "hageo",
+      "zacarias",
+      "nehemias",
+      "cronicas",
+      "anuncios",
+      "inicio-ministerio"
+    ]
+  },
+  {
+    "id": "hageo",
+    "nombre": "Hageo",
+    "rv1909": "Haggeo",
+    "linea": "Profeta que animó a terminar la casa de Dios.",
+    "lecciones": [
+      "esdras-1-6",
+      "hageo"
+    ]
+  },
+  {
+    "id": "zacarias-profeta",
+    "nombre": "Zacarías, el profeta",
+    "linea": "Profeta del regreso que anunció al Rey humilde sobre un asno.",
+    "lecciones": [
+      "esdras-1-6",
+      "zacarias"
+    ]
+  },
+  {
+    "id": "ester",
+    "nombre": "Ester",
+    "rv1909": "Esther",
+    "linea": "Joven judía hecha reina que arriesgó su vida por su pueblo.",
+    "lecciones": [
+      "ester"
+    ]
+  },
+  {
+    "id": "mardoqueo",
+    "nombre": "Mardoqueo",
+    "rv1909": "Mardochêo",
+    "linea": "Primo de Ester que la crió y la animó a actuar.",
+    "lecciones": [
+      "ester"
+    ]
+  },
+  {
+    "id": "aman",
+    "nombre": "Amán",
+    "linea": "Alto oficial persa que quiso destruir a los judíos.",
+    "lecciones": [
+      "ester"
+    ]
+  },
+  {
+    "id": "asuero",
+    "nombre": "Asuero",
+    "rv1909": "Assuero",
+    "linea": "Rey de Persia, esposo de la reina Ester.",
+    "lecciones": [
+      "esdras-1-6",
+      "ester"
+    ]
+  },
+  {
+    "id": "esdras",
+    "nombre": "Esdras",
+    "linea": "Sacerdote y maestro que enseñó la Ley al pueblo que volvió.",
+    "lecciones": [
+      "esdras-7-10",
+      "nehemias"
+    ]
+  },
+  {
+    "id": "nehemias",
+    "nombre": "Nehemías",
+    "linea": "Copero del rey que volvió para reconstruir los muros de Jerusalén.",
+    "lecciones": [
+      "esdras-1-6",
+      "nehemias"
+    ]
+  },
+  {
+    "id": "malaquias",
+    "nombre": "Malaquías",
+    "linea": "Último profeta del Antiguo Testamento; anunció al mensajero.",
+    "lecciones": [
+      "malaquias"
+    ]
+  },
+  {
+    "id": "jesus",
+    "nombre": "Jesús",
+    "linea": "El Hijo de Dios hecho hombre, el Mesías prometido y Salvador.",
+    "lecciones": [
+      "el-verbo",
+      "anuncios",
+      "nacimiento",
+      "inicio-ministerio",
+      "galilea-ensenanzas",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "pasion-y-muerte",
+      "resurreccion",
+      "hechos-1-7",
+      "hechos-8-12",
+      "santiago",
+      "hechos-13-14",
+      "galatas",
+      "hechos-15-18",
+      "1-tesalonicenses",
+      "2-tesalonicenses",
+      "hechos-18-20",
+      "1-corintios",
+      "2-corintios",
+      "romanos",
+      "hechos-21-28",
+      "efesios",
+      "colosenses",
+      "filemon",
+      "filipenses",
+      "1-timoteo",
+      "tito",
+      "1-pedro",
+      "2-timoteo",
+      "2-pedro",
+      "hebreos",
+      "judas",
+      "1-juan",
+      "2-juan",
+      "apocalipsis"
+    ]
+  },
+  {
+    "id": "maria-madre-de-jesus",
+    "nombre": "María, madre de Jesús",
+    "linea": "Joven de Nazaret que dijo sí a Dios; madre de Jesús.",
+    "lecciones": [
+      "anuncios",
+      "nacimiento",
+      "inicio-ministerio",
+      "galilea-milagros",
+      "pasion-y-muerte",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "jose-de-nazaret",
+    "nombre": "José de Nazaret",
+    "linea": "Carpintero justo, esposo de María, que cuidó a Jesús.",
+    "lecciones": [
+      "anuncios",
+      "nacimiento",
+      "inicio-ministerio"
+    ]
+  },
+  {
+    "id": "zacarias-sacerdote",
+    "nombre": "Zacarías, padre de Juan",
+    "linea": "Sacerdote anciano, padre de Juan el Bautista.",
+    "lecciones": [
+      "anuncios"
+    ]
+  },
+  {
+    "id": "elisabet",
+    "nombre": "Elisabet",
+    "linea": "Madre de Juan el Bautista y pariente de María.",
+    "lecciones": [
+      "anuncios"
+    ]
+  },
+  {
+    "id": "juan-el-bautista",
+    "nombre": "Juan el Bautista",
+    "linea": "Profeta que preparó el camino de Jesús y lo bautizó.",
+    "lecciones": [
+      "el-verbo",
+      "anuncios",
+      "inicio-ministerio",
+      "galilea-ensenanzas",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "hechos-1-7",
+      "hechos-8-12",
+      "hechos-13-14",
+      "hechos-18-20"
+    ]
+  },
+  {
+    "id": "simeon",
+    "nombre": "Simeón",
+    "linea": "Anciano de Jerusalén que reconoció en el niño al Salvador.",
+    "lecciones": [
+      "nacimiento"
+    ]
+  },
+  {
+    "id": "ana-profetisa",
+    "nombre": "Ana, la profetisa",
+    "linea": "Viuda anciana que servía en el templo y habló del niño.",
+    "lecciones": [
+      "nacimiento"
+    ]
+  },
+  {
+    "id": "herodes-el-grande",
+    "nombre": "Herodes el Grande",
+    "linea": "Rey de Judea que quiso matar al niño Jesús.",
+    "lecciones": [
+      "anuncios",
+      "nacimiento"
+    ]
+  },
+  {
+    "id": "herodes-antipas",
+    "nombre": "Herodes Antipas",
+    "linea": "Gobernante de Galilea que mató a Juan y vio a Jesús.",
+    "lecciones": [
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "pasion-y-muerte",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "pedro",
+    "nombre": "Pedro (Simón)",
+    "linea": "Pescador llamado por Jesús; negó a Jesús y fue restaurado.",
+    "lecciones": [
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "pasion-y-muerte",
+      "resurreccion",
+      "hechos-1-7",
+      "hechos-8-12",
+      "galatas",
+      "hechos-15-18",
+      "1-corintios",
+      "1-pedro",
+      "2-pedro"
+    ]
+  },
+  {
+    "id": "andres",
+    "nombre": "Andrés",
+    "linea": "Pescador, hermano de Pedro; llevó a su hermano a Jesús.",
+    "lecciones": [
+      "inicio-ministerio",
+      "galilea-milagros",
+      "ultima-semana",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "santiago-de-zebedeo",
+    "nombre": "Santiago, hijo de Zebedeo",
+    "rv1909": "Jacobo",
+    "linea": "Pescador y apóstol, hermano de Juan; primer apóstol mártir.",
+    "lecciones": [
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "pasion-y-muerte",
+      "hechos-1-7",
+      "hechos-8-12"
+    ]
+  },
+  {
+    "id": "juan-apostol",
+    "nombre": "Juan, hijo de Zebedeo",
+    "linea": "Apóstol cercano a Jesús; la tradición le atribuye un Evangelio y cartas.",
+    "lecciones": [
+      "el-verbo",
+      "inicio-ministerio",
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "pasion-y-muerte",
+      "resurreccion",
+      "hechos-1-7",
+      "hechos-8-12",
+      "galatas",
+      "1-juan",
+      "2-juan",
+      "3-juan",
+      "apocalipsis"
+    ]
+  },
+  {
+    "id": "felipe-apostol",
+    "nombre": "Felipe, el apóstol",
+    "linea": "Apóstol de Betsaida que llevó a Natanael a Jesús.",
+    "lecciones": [
+      "inicio-ministerio",
+      "galilea-milagros",
+      "ultima-semana",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "natanael",
+    "nombre": "Natanael (Bartolomé)",
+    "linea": "Israelita sin engaño a quien Jesús vio bajo la higuera.",
+    "lecciones": [
+      "inicio-ministerio",
+      "galilea-milagros",
+      "resurreccion",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "mateo",
+    "nombre": "Mateo (Leví)",
+    "linea": "Cobrador de impuestos que dejó todo para seguir a Jesús.",
+    "lecciones": [
+      "galilea-milagros",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "tomas",
+    "nombre": "Tomás",
+    "linea": "Apóstol que dudó y luego dijo: «¡Señor mío, y Dios mío!».",
+    "lecciones": [
+      "galilea-milagros",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "resurreccion",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "judas-iscariote",
+    "nombre": "Judas Iscariote",
+    "linea": "Uno de los Doce; entregó a Jesús por treinta piezas de plata.",
+    "lecciones": [
+      "galilea-milagros",
+      "ultima-semana",
+      "pasion-y-muerte",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "maria-magdalena",
+    "nombre": "María Magdalena",
+    "linea": "Discípula liberada por Jesús; primera en verlo resucitado.",
+    "lecciones": [
+      "galilea-milagros",
+      "pasion-y-muerte",
+      "resurreccion"
+    ]
+  },
+  {
+    "id": "marta",
+    "nombre": "Marta",
+    "linea": "Hermana de María y de Lázaro; amiga de Jesús en Betania.",
+    "lecciones": [
+      "camino-a-jerusalen",
+      "ultima-semana"
+    ]
+  },
+  {
+    "id": "maria-de-betania",
+    "nombre": "María de Betania",
+    "linea": "Hermana de Marta; escuchó a Jesús y lo ungió con perfume.",
+    "lecciones": [
+      "camino-a-jerusalen",
+      "ultima-semana"
+    ]
+  },
+  {
+    "id": "lazaro",
+    "nombre": "Lázaro de Betania",
+    "linea": "Amigo de Jesús a quien Él resucitó después de cuatro días.",
+    "lecciones": [
+      "camino-a-jerusalen",
+      "ultima-semana"
+    ]
+  },
+  {
+    "id": "nicodemo",
+    "nombre": "Nicodemo",
+    "linea": "Fariseo que buscó a Jesús de noche y luego lo sepultó.",
+    "lecciones": [
+      "inicio-ministerio",
+      "camino-a-jerusalen",
+      "pasion-y-muerte"
+    ]
+  },
+  {
+    "id": "zaqueo",
+    "nombre": "Zaqueo",
+    "linea": "Jefe de cobradores que cambió de vida al recibir a Jesús.",
+    "lecciones": [
+      "camino-a-jerusalen"
+    ]
+  },
+  {
+    "id": "caifas",
+    "nombre": "Caifás",
+    "linea": "Sumo sacerdote que presidió el juicio contra Jesús.",
+    "lecciones": [
+      "inicio-ministerio",
+      "camino-a-jerusalen",
+      "ultima-semana",
+      "pasion-y-muerte",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "anas",
+    "nombre": "Anás",
+    "linea": "Antiguo sumo sacerdote, suegro de Caifás; interrogó a Jesús.",
+    "lecciones": [
+      "inicio-ministerio",
+      "pasion-y-muerte",
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "poncio-pilato",
+    "nombre": "Poncio Pilato",
+    "linea": "Gobernador romano de Judea que condenó a Jesús a la cruz.",
+    "lecciones": [
+      "inicio-ministerio",
+      "camino-a-jerusalen",
+      "pasion-y-muerte",
+      "hechos-1-7",
+      "hechos-13-14",
+      "1-timoteo"
+    ]
+  },
+  {
+    "id": "barrabas",
+    "nombre": "Barrabás",
+    "linea": "Preso liberado en lugar de Jesús.",
+    "lecciones": [
+      "pasion-y-muerte"
+    ]
+  },
+  {
+    "id": "simon-de-cirene",
+    "nombre": "Simón de Cirene",
+    "linea": "Hombre obligado a llevar la cruz de Jesús.",
+    "lecciones": [
+      "pasion-y-muerte"
+    ]
+  },
+  {
+    "id": "jose-de-arimatea",
+    "nombre": "José de Arimatea",
+    "linea": "Discípulo rico que pidió el cuerpo de Jesús y lo sepultó.",
+    "lecciones": [
+      "pasion-y-muerte"
+    ]
+  },
+  {
+    "id": "cleofas",
+    "nombre": "Cleofas",
+    "linea": "Discípulo que caminó con Jesús resucitado hacia Emaús.",
+    "lecciones": [
+      "resurreccion"
+    ]
+  },
+  {
+    "id": "matias",
+    "nombre": "Matías",
+    "linea": "Discípulo elegido para ocupar el lugar de Judas entre los Doce.",
+    "lecciones": [
+      "hechos-1-7"
+    ]
+  },
+  {
+    "id": "esteban",
+    "nombre": "Esteban",
+    "linea": "Servidor lleno del Espíritu; primer mártir, perdonó a sus verdugos.",
+    "lecciones": [
+      "hechos-1-7",
+      "hechos-8-12",
+      "hechos-21-28"
+    ]
+  },
+  {
+    "id": "felipe-evangelista",
+    "nombre": "Felipe, el evangelista",
+    "linea": "Servidor que anunció a Jesús en Samaria y al etíope.",
+    "lecciones": [
+      "hechos-1-7",
+      "hechos-8-12",
+      "hechos-21-28"
+    ]
+  },
+  {
+    "id": "cornelio",
+    "nombre": "Cornelio",
+    "linea": "Centurión romano, primer no judío bautizado por Pedro.",
+    "lecciones": [
+      "hechos-8-12"
+    ]
+  },
+  {
+    "id": "ananias-de-damasco",
+    "nombre": "Ananías de Damasco",
+    "linea": "Discípulo que, con miedo pero obediente, recibió a Saulo.",
+    "lecciones": [
+      "hechos-8-12",
+      "hechos-21-28"
+    ]
+  },
+  {
+    "id": "pablo",
+    "nombre": "Pablo (Saulo)",
+    "linea": "Perseguidor transformado por Jesús; apóstol de los no judíos.",
+    "lecciones": [
+      "hechos-1-7",
+      "hechos-8-12",
+      "hechos-13-14",
+      "galatas",
+      "hechos-15-18",
+      "1-tesalonicenses",
+      "2-tesalonicenses",
+      "hechos-18-20",
+      "1-corintios",
+      "2-corintios",
+      "romanos",
+      "hechos-21-28",
+      "efesios",
+      "colosenses",
+      "filemon",
+      "filipenses",
+      "1-timoteo",
+      "tito",
+      "2-timoteo",
+      "2-pedro"
+    ]
+  },
+  {
+    "id": "bernabe",
+    "nombre": "Bernabé",
+    "linea": "Hombre generoso que animaba a todos; compañero de Pablo.",
+    "lecciones": [
+      "hechos-1-7",
+      "hechos-8-12",
+      "hechos-13-14",
+      "galatas",
+      "hechos-15-18",
+      "1-corintios",
+      "colosenses"
+    ]
+  },
+  {
+    "id": "santiago-hermano-del-senor",
+    "nombre": "Santiago, «hermano del Señor»",
+    "rv1909": "Jacobo",
+    "linea": "Líder de la iglesia de Jerusalén; la tradición le atribuye una carta.",
+    "lecciones": [
+      "galilea-milagros",
+      "hechos-8-12",
+      "santiago",
+      "galatas",
+      "hechos-15-18",
+      "1-corintios",
+      "hechos-21-28",
+      "judas"
+    ]
+  },
+  {
+    "id": "silas",
+    "nombre": "Silas (Silvano)",
+    "linea": "Compañero de Pablo; cantó con él en la cárcel de Filipos.",
+    "lecciones": [
+      "hechos-15-18",
+      "1-tesalonicenses",
+      "2-tesalonicenses",
+      "2-corintios",
+      "1-pedro"
+    ]
+  },
+  {
+    "id": "timoteo",
+    "nombre": "Timoteo",
+    "linea": "Joven discípulo, hijo espiritual de Pablo y pastor en Éfeso.",
+    "lecciones": [
+      "hechos-15-18",
+      "1-tesalonicenses",
+      "2-tesalonicenses",
+      "hechos-18-20",
+      "1-corintios",
+      "2-corintios",
+      "romanos",
+      "colosenses",
+      "filemon",
+      "filipenses",
+      "1-timoteo",
+      "2-timoteo",
+      "hebreos"
+    ]
+  },
+  {
+    "id": "lidia",
+    "nombre": "Lidia",
+    "linea": "Comerciante de púrpura en Filipos; abrió su corazón y su casa.",
+    "lecciones": [
+      "hechos-15-18"
+    ]
+  },
+  {
+    "id": "priscila-y-aquila",
+    "nombre": "Priscila y Aquila",
+    "linea": "Matrimonio que trabajó con Pablo y enseñó a Apolos.",
+    "lecciones": [
+      "hechos-15-18",
+      "hechos-18-20",
+      "1-corintios",
+      "romanos",
+      "2-timoteo"
+    ]
+  },
+  {
+    "id": "apolos",
+    "nombre": "Apolos",
+    "linea": "Predicador elocuente de Alejandría que regó lo que Pablo plantó.",
+    "lecciones": [
+      "hechos-18-20",
+      "1-corintios",
+      "tito"
+    ]
+  },
+  {
+    "id": "lucas",
+    "nombre": "Lucas",
+    "linea": "Médico y compañero de Pablo; la tradición le atribuye Lucas y Hechos.",
+    "lecciones": [
+      "colosenses",
+      "filemon",
+      "2-timoteo"
+    ]
+  },
+  {
+    "id": "juan-marcos",
+    "nombre": "Juan Marcos",
+    "linea": "Joven que falló a Pablo y luego le fue muy útil.",
+    "lecciones": [
+      "hechos-8-12",
+      "hechos-13-14",
+      "hechos-15-18",
+      "colosenses",
+      "filemon",
+      "1-pedro",
+      "2-timoteo"
+    ]
+  },
+  {
+    "id": "tito",
+    "nombre": "Tito",
+    "linea": "Colaborador de Pablo que organizó las iglesias de Creta.",
+    "lecciones": [
+      "galatas",
+      "2-corintios",
+      "tito",
+      "2-timoteo"
+    ]
+  },
+  {
+    "id": "filemon",
+    "nombre": "Filemón",
+    "linea": "Cristiano de Colosas a quien Pablo pidió recibir a Onésimo.",
+    "lecciones": [
+      "filemon"
+    ]
+  },
+  {
+    "id": "onesimo",
+    "nombre": "Onésimo",
+    "linea": "Esclavo que huyó, conoció a Cristo y volvió como hermano.",
+    "lecciones": [
+      "colosenses",
+      "filemon"
+    ]
+  },
+  {
+    "id": "epafrodito",
+    "nombre": "Epafrodito",
+    "linea": "Mensajero de los filipenses que casi murió sirviendo a Pablo.",
+    "lecciones": [
+      "filipenses"
+    ]
+  },
+  {
+    "id": "gamaliel",
+    "nombre": "Gamaliel",
+    "linea": "Maestro fariseo respetado que aconsejó prudencia con los apóstoles.",
+    "lecciones": [
+      "hechos-1-7",
+      "hechos-21-28"
+    ]
+  },
+  {
+    "id": "judas-hermano-de-santiago",
+    "nombre": "Judas, hermano de Santiago",
+    "linea": "Autor de una carta breve; se llama «hermano de Jacobo».",
+    "lecciones": [
+      "judas"
+    ]
+  },
+  {
+    "id": "juan-de-patmos",
+    "nombre": "Juan en Patmos",
+    "linea": "Siervo de Dios que recibió las visiones del Apocalipsis en Patmos.",
+    "lecciones": [
+      "apocalipsis"
+    ]
+  }
+]

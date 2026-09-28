@@ -1,0 +1,2190 @@
+{
+  "version": 1,
+  "fuentes": [
+    "Texto y versificación: Reina-Valera 1909 (dominio público; CrossWire/eBible, JSON scrollmapper).",
+    "Fechas: cronología tradicional con grado de certeza; contrastada con Theographic Bible Metadata (CC BY-SA 4.0), sin copiar sus datos."
+  ],
+  "eras": [
+    {
+      "id": "introduccion",
+      "tipo": "marco",
+      "titulo": "Introducción",
+      "fechas": null,
+      "desde": null,
+      "hasta": null,
+      "frase": "Antes de empezar: cómo leer la Biblia como una sola historia de amor."
+    },
+    {
+      "id": "comienzos",
+      "tipo": "era",
+      "titulo": "Los comienzos",
+      "fechas": "Sin fecha",
+      "desde": null,
+      "hasta": null,
+      "frase": "Dios crea todo bueno, el pecado lo rompe y Dios promete un rescate."
+    },
+    {
+      "id": "patriarcas",
+      "tipo": "era",
+      "titulo": "Los patriarcas",
+      "fechas": "c. 2100–1800 a.C.",
+      "desde": -2091,
+      "hasta": -1805,
+      "frase": "Dios elige a la familia de Abraham para bendecir a todos los pueblos."
+    },
+    {
+      "id": "exodo",
+      "tipo": "era",
+      "titulo": "Éxodo y desierto",
+      "fechas": "c. 1526–1406 a.C. (debatida)",
+      "desde": -1526,
+      "hasta": -1406,
+      "frase": "Dios libera a Israel de Egipto, le da su Ley y camina con él."
+    },
+    {
+      "id": "conquista",
+      "tipo": "era",
+      "titulo": "Conquista y jueces",
+      "fechas": "c. 1406–1050 a.C.",
+      "desde": -1406,
+      "hasta": -1050,
+      "frase": "Israel entra en la tierra, olvida a Dios y Dios lo vuelve a levantar."
+    },
+    {
+      "id": "reino-unido",
+      "tipo": "era",
+      "titulo": "El reino unido",
+      "fechas": "c. 1050–930 a.C.",
+      "desde": -1100,
+      "hasta": -930,
+      "frase": "Saúl, David y Salomón reinan; Dios promete un rey eterno de David."
+    },
+    {
+      "id": "reino-dividido",
+      "tipo": "era",
+      "titulo": "El reino dividido",
+      "fechas": "930–586 a.C.",
+      "desde": -930,
+      "hasta": -586,
+      "frase": "El reino se parte en dos y los profetas llaman al pueblo a volver."
+    },
+    {
+      "id": "exilio",
+      "tipo": "era",
+      "titulo": "El exilio",
+      "fechas": "605–538 a.C.",
+      "desde": -605,
+      "hasta": -538,
+      "frase": "Lejos de su tierra, el pueblo descubre que Dios sigue con ellos."
+    },
+    {
+      "id": "regreso",
+      "tipo": "era",
+      "titulo": "El regreso",
+      "fechas": "538–c. 430 a.C.",
+      "desde": -538,
+      "hasta": -400,
+      "frase": "El pueblo vuelve, reconstruye el templo y los muros, y espera al Mesías."
+    },
+    {
+      "id": "entre-testamentos",
+      "tipo": "era",
+      "titulo": "Entre los Testamentos",
+      "fechas": "c. 430–5 a.C.",
+      "desde": -430,
+      "hasta": -5,
+      "frase": "Persas, griegos y romanos gobiernan mientras el pueblo espera la promesa."
+    },
+    {
+      "id": "jesus",
+      "tipo": "era",
+      "titulo": "Jesús",
+      "fechas": "c. 6 a.C.–30/33 d.C.",
+      "desde": -7,
+      "hasta": 33,
+      "frase": "Dios se hace hombre en Jesús, que muere por amor y resucita."
+    },
+    {
+      "id": "iglesia",
+      "tipo": "era",
+      "titulo": "La Iglesia",
+      "fechas": "c. 30–95 d.C.",
+      "desde": 30,
+      "hasta": 96,
+      "frase": "El Espíritu Santo forma la Iglesia y la buena noticia llega a todos."
+    },
+    {
+      "id": "conclusion",
+      "tipo": "marco",
+      "titulo": "Conclusión",
+      "fechas": null,
+      "desde": null,
+      "hasta": null,
+      "frase": "Del jardín perdido a la ciudad de Dios: una sola historia de amor."
+    }
+  ],
+  "lecciones": [
+    {
+      "id": "comienza-aqui",
+      "orden": 1,
+      "seccion": "introduccion",
+      "titulo": "Comienza aquí",
+      "rotulo": "Lucas 24:13-35",
+      "formato": "marco",
+      "pasajes": [
+        "Luke.24.13-Luke.24.35"
+      ],
+      "libros": [],
+      "fecha": null,
+      "fechaDe": null,
+      "anterior": null,
+      "siguiente": "como-usar"
+    },
+    {
+      "id": "como-usar",
+      "orden": 2,
+      "seccion": "introduccion",
+      "titulo": "Cómo usar este estudio",
+      "rotulo": "Salmos 119:105-112",
+      "formato": "marco",
+      "pasajes": [
+        "Ps.119.105-Ps.119.112"
+      ],
+      "libros": [],
+      "fecha": null,
+      "fechaDe": null,
+      "anterior": "comienza-aqui",
+      "siguiente": "once-eras"
+    },
+    {
+      "id": "once-eras",
+      "orden": 3,
+      "seccion": "introduccion",
+      "titulo": "La gran historia en once eras",
+      "rotulo": "Hechos 7:1-53",
+      "formato": "marco",
+      "pasajes": [
+        "Acts.7.1-Acts.7.53"
+      ],
+      "libros": [],
+      "fecha": null,
+      "fechaDe": null,
+      "anterior": "como-usar",
+      "siguiente": "antiguo-y-nuevo"
+    },
+    {
+      "id": "antiguo-y-nuevo",
+      "orden": 4,
+      "seccion": "introduccion",
+      "titulo": "¿Por qué Antiguo y Nuevo Testamento?",
+      "rotulo": "Jeremías 31:31-34 + Lucas 22:14-20",
+      "formato": "marco",
+      "pasajes": [
+        "Jer.31.31-Jer.31.34",
+        "Luke.22.14-Luke.22.20"
+      ],
+      "libros": [],
+      "fecha": null,
+      "fechaDe": null,
+      "anterior": "once-eras",
+      "siguiente": "tu-biblia"
+    },
+    {
+      "id": "tu-biblia",
+      "orden": 5,
+      "seccion": "introduccion",
+      "titulo": "Tu Biblia: católica y evangélica",
+      "rotulo": "2 Timoteo 3:14-17",
+      "formato": "marco",
+      "pasajes": [
+        "2Tim.3.14-2Tim.3.17"
+      ],
+      "libros": [],
+      "fecha": null,
+      "fechaDe": null,
+      "anterior": "antiguo-y-nuevo",
+      "siguiente": "genesis-1-11"
+    },
+    {
+      "id": "genesis-1-11",
+      "orden": 6,
+      "seccion": "comienzos",
+      "titulo": "En el principio",
+      "rotulo": "Génesis 1–11",
+      "formato": "completo",
+      "pasajes": [
+        "Gen.1.1-Gen.11.32"
+      ],
+      "libros": [
+        "Gen"
+      ],
+      "fecha": {
+        "texto": "Sin fecha: la Biblia no la da",
+        "desde": null,
+        "hasta": null,
+        "certeza": "incierta",
+        "nota": "Algunos calcularon fechas con las edades de las genealogías, pero la Biblia no fecha la creación ni el diluvio."
+      },
+      "fechaDe": "hechos",
+      "anterior": "tu-biblia",
+      "siguiente": "genesis-12-50"
+    },
+    {
+      "id": "genesis-12-50",
+      "orden": 7,
+      "seccion": "patriarcas",
+      "titulo": "Dios llama a Abraham y a su familia",
+      "rotulo": "Génesis 12–50",
+      "formato": "completo",
+      "pasajes": [
+        "Gen.12.1-Gen.50.26"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 2100–1800 a.C.",
+        "desde": -2091,
+        "hasta": -1805,
+        "certeza": "debatida",
+        "nota": "Cálculo tradicional a partir de 1 Reyes 6:1 y Éxodo 12:40. Otros cálculos sitúan a los patriarcas hasta dos siglos después."
+      },
+      "fechaDe": "hechos",
+      "anterior": "genesis-1-11",
+      "siguiente": "job"
+    },
+    {
+      "id": "job",
+      "orden": 8,
+      "seccion": "patriarcas",
+      "titulo": "Job: fe en medio del dolor",
+      "rotulo": "Job 1–42",
+      "formato": "completo",
+      "pasajes": [
+        "Job.1.1-Job.42.17"
+      ],
+      "libros": [
+        "Job"
+      ],
+      "fecha": {
+        "texto": "Época de los patriarcas (fecha incierta)",
+        "desde": -2100,
+        "hasta": -1800,
+        "certeza": "incierta",
+        "nota": "La Biblia no dice cuándo vivió Job. Sus costumbres recuerdan a los patriarcas. Tampoco se sabe cuándo se escribió."
+      },
+      "fechaDe": "hechos",
+      "anterior": "genesis-12-50",
+      "siguiente": "exodo"
+    },
+    {
+      "id": "exodo",
+      "orden": 9,
+      "seccion": "exodo",
+      "titulo": "Dios libera a su pueblo de Egipto",
+      "rotulo": "Éxodo 1–40",
+      "formato": "completo",
+      "pasajes": [
+        "Exod.1.1-Exod.40.38"
+      ],
+      "libros": [
+        "Exod"
+      ],
+      "fecha": {
+        "texto": "Salida de Egipto: c. 1446 o c. 1270 a.C.",
+        "desde": -1526,
+        "hasta": -1445,
+        "certeza": "debatida",
+        "nota": "Hay dos fechas principales para el éxodo: c. 1446 a.C. (según 1 Reyes 6:1) y c. 1270 a.C. Ordenamos con la primera."
+      },
+      "fechaDe": "hechos",
+      "anterior": "job",
+      "siguiente": "levitico"
+    },
+    {
+      "id": "levitico",
+      "orden": 10,
+      "seccion": "exodo",
+      "titulo": "Un Dios santo vive entre su pueblo",
+      "rotulo": "Levítico 1–27",
+      "formato": "completo",
+      "pasajes": [
+        "Lev.1.1-Lev.27.34"
+      ],
+      "libros": [
+        "Lev"
+      ],
+      "fecha": {
+        "texto": "c. 1445 a.C., al pie del Sinaí",
+        "desde": -1445,
+        "hasta": -1445,
+        "certeza": "debatida",
+        "nota": "Depende de la fecha del éxodo: c. 1446 o c. 1270 a.C."
+      },
+      "fechaDe": "hechos",
+      "anterior": "exodo",
+      "siguiente": "numeros"
+    },
+    {
+      "id": "numeros",
+      "orden": 11,
+      "seccion": "exodo",
+      "titulo": "Cuarenta años en el desierto",
+      "rotulo": "Números 1–36 + Salmo 90",
+      "formato": "completo",
+      "pasajes": [
+        "Num.1.1-Num.36.13",
+        "Ps.90.1-Ps.90.17"
+      ],
+      "libros": [
+        "Num"
+      ],
+      "fecha": {
+        "texto": "c. 1445–1406 a.C.",
+        "desde": -1445,
+        "hasta": -1406,
+        "certeza": "debatida",
+        "nota": "Depende de la fecha del éxodo. El Salmo 90 se presenta como oración de Moisés."
+      },
+      "fechaDe": "hechos",
+      "anterior": "levitico",
+      "siguiente": "deuteronomio"
+    },
+    {
+      "id": "deuteronomio",
+      "orden": 12,
+      "seccion": "exodo",
+      "titulo": "Moisés se despide del pueblo",
+      "rotulo": "Deuteronomio 1–34",
+      "formato": "completo",
+      "pasajes": [
+        "Deut.1.1-Deut.34.12"
+      ],
+      "libros": [
+        "Deut"
+      ],
+      "fecha": {
+        "texto": "c. 1406 a.C., al final del desierto",
+        "desde": -1406,
+        "hasta": -1406,
+        "certeza": "debatida",
+        "nota": "Depende de la fecha del éxodo: con la fecha tardía, c. 1230 a.C."
+      },
+      "fechaDe": "hechos",
+      "anterior": "numeros",
+      "siguiente": "josue"
+    },
+    {
+      "id": "josue",
+      "orden": 13,
+      "seccion": "conquista",
+      "titulo": "Israel entra en la tierra prometida",
+      "rotulo": "Josué 1–24",
+      "formato": "completo",
+      "pasajes": [
+        "Josh.1.1-Josh.24.33"
+      ],
+      "libros": [
+        "Josh"
+      ],
+      "fecha": {
+        "texto": "c. 1406–1375 a.C.",
+        "desde": -1406,
+        "hasta": -1375,
+        "certeza": "debatida",
+        "nota": "Con la fecha tardía del éxodo, la entrada en Canaán sería c. 1230–1200 a.C."
+      },
+      "fechaDe": "hechos",
+      "anterior": "deuteronomio",
+      "siguiente": "jueces"
+    },
+    {
+      "id": "jueces",
+      "orden": 14,
+      "seccion": "conquista",
+      "titulo": "Caer y levantarse: el tiempo de los jueces",
+      "rotulo": "Jueces 1–21",
+      "formato": "completo",
+      "pasajes": [
+        "Judg.1.1-Judg.21.25"
+      ],
+      "libros": [
+        "Judg"
+      ],
+      "fecha": {
+        "texto": "c. 1375–1050 a.C.",
+        "desde": -1375,
+        "hasta": -1050,
+        "certeza": "debatida",
+        "nota": "Algunos jueces gobernaron al mismo tiempo en distintas regiones. Por eso los años no se suman."
+      },
+      "fechaDe": "hechos",
+      "anterior": "josue",
+      "siguiente": "rut"
+    },
+    {
+      "id": "rut",
+      "orden": 15,
+      "seccion": "conquista",
+      "titulo": "Rut: amor fiel en tiempos difíciles",
+      "rotulo": "Rut 1–4",
+      "formato": "completo",
+      "pasajes": [
+        "Ruth.1.1-Ruth.4.22"
+      ],
+      "libros": [
+        "Ruth"
+      ],
+      "fecha": {
+        "texto": "c. 1100 a.C., en tiempos de los jueces",
+        "desde": -1150,
+        "hasta": -1100,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "jueces",
+      "siguiente": "1-samuel"
+    },
+    {
+      "id": "1-samuel",
+      "orden": 16,
+      "seccion": "reino-unido",
+      "titulo": "Samuel, Saúl y el joven David",
+      "rotulo": "1 Samuel 1–31",
+      "formato": "completo",
+      "pasajes": [
+        "1Sam.1.1-1Sam.31.13"
+      ],
+      "libros": [
+        "1Sam"
+      ],
+      "fecha": {
+        "texto": "c. 1100–1010 a.C.",
+        "desde": -1100,
+        "hasta": -1010,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "rut",
+      "siguiente": "2-samuel"
+    },
+    {
+      "id": "2-samuel",
+      "orden": 17,
+      "seccion": "reino-unido",
+      "titulo": "David, rey según el corazón de Dios",
+      "rotulo": "2 Samuel 1–24 + 1 Crónicas 10–29",
+      "formato": "completo",
+      "pasajes": [
+        "2Sam.1.1-2Sam.24.25",
+        "1Chr.10.1-1Chr.29.30"
+      ],
+      "libros": [
+        "2Sam"
+      ],
+      "fecha": {
+        "texto": "c. 1010–970 a.C.",
+        "desde": -1010,
+        "hasta": -970,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "1-samuel",
+      "siguiente": "salmos"
+    },
+    {
+      "id": "salmos",
+      "orden": 18,
+      "seccion": "reino-unido",
+      "titulo": "Salmos: oraciones para toda la vida",
+      "rotulo": "Salmos 1–150",
+      "formato": "completo",
+      "pasajes": [
+        "Ps.1.1-Ps.150.6"
+      ],
+      "libros": [
+        "Ps"
+      ],
+      "fecha": {
+        "texto": "Sobre todo en tiempos de David, c. 1000 a.C.",
+        "desde": -1010,
+        "hasta": -970,
+        "certeza": "aprox",
+        "nota": "Los salmos se escribieron durante siglos: desde Moisés (c. 1400 a.C.) hasta después del exilio (c. 450 a.C.)."
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-samuel",
+      "siguiente": "salomon"
+    },
+    {
+      "id": "salomon",
+      "orden": 19,
+      "seccion": "reino-unido",
+      "titulo": "Salomón: sabiduría y un templo para Dios",
+      "rotulo": "1 Reyes 1–11 + 2 Crónicas 1–9",
+      "formato": "completo",
+      "pasajes": [
+        "1Kgs.1.1-1Kgs.11.43",
+        "2Chr.1.1-2Chr.9.31"
+      ],
+      "libros": [
+        "1Kgs"
+      ],
+      "fecha": {
+        "texto": "c. 970–930 a.C.",
+        "desde": -970,
+        "hasta": -930,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "salmos",
+      "siguiente": "proverbios"
+    },
+    {
+      "id": "proverbios",
+      "orden": 20,
+      "seccion": "reino-unido",
+      "titulo": "Proverbios: sabiduría para cada día",
+      "rotulo": "Proverbios 1–31",
+      "formato": "completo",
+      "pasajes": [
+        "Prov.1.1-Prov.31.31"
+      ],
+      "libros": [
+        "Prov"
+      ],
+      "fecha": {
+        "texto": "c. 970–930 a.C., con Salomón",
+        "desde": -970,
+        "hasta": -930,
+        "certeza": "aprox",
+        "nota": "La colección creció después: los hombres de Ezequías copiaron más proverbios (Proverbios 25:1), c. 700 a.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "salomon",
+      "siguiente": "cantares"
+    },
+    {
+      "id": "cantares",
+      "orden": 21,
+      "seccion": "reino-unido",
+      "titulo": "Cantares: el regalo del amor",
+      "rotulo": "Cantares 1–8",
+      "formato": "completo",
+      "pasajes": [
+        "Song.1.1-Song.8.14"
+      ],
+      "libros": [
+        "Song"
+      ],
+      "fecha": {
+        "texto": "c. 960 a.C., tiempos de Salomón",
+        "desde": -965,
+        "hasta": -950,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "proverbios",
+      "siguiente": "eclesiastes"
+    },
+    {
+      "id": "eclesiastes",
+      "orden": 22,
+      "seccion": "reino-unido",
+      "titulo": "Eclesiastés: ¿qué da sentido a la vida?",
+      "rotulo": "Eclesiastés 1–12",
+      "formato": "completo",
+      "pasajes": [
+        "Eccl.1.1-Eccl.12.14"
+      ],
+      "libros": [
+        "Eccl"
+      ],
+      "fecha": {
+        "texto": "c. 935 a.C., según la tradición",
+        "desde": -940,
+        "hasta": -930,
+        "certeza": "debatida",
+        "nota": "La tradición lo atribuye a Salomón en su vejez. Muchos estudiosos piensan que se escribió siglos después."
+      },
+      "fechaDe": "escritura",
+      "anterior": "cantares",
+      "siguiente": "1-reyes-12-22"
+    },
+    {
+      "id": "1-reyes-12-22",
+      "orden": 23,
+      "seccion": "reino-dividido",
+      "titulo": "El reino se divide y Elías habla",
+      "rotulo": "1 Reyes 12–22 + 2 Crónicas 10–20",
+      "formato": "completo",
+      "pasajes": [
+        "1Kgs.12.1-1Kgs.22.53",
+        "2Chr.10.1-2Chr.20.37"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 930–850 a.C.",
+        "desde": -930,
+        "hasta": -850,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "eclesiastes",
+      "siguiente": "joel"
+    },
+    {
+      "id": "joel",
+      "orden": 24,
+      "seccion": "reino-dividido",
+      "titulo": "Joel: el Espíritu para todos",
+      "rotulo": "Joel 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "Joel.1.1-Joel.3.21"
+      ],
+      "libros": [
+        "Joel"
+      ],
+      "fecha": {
+        "texto": "Fecha incierta (quizás c. 835 a.C.)",
+        "desde": -835,
+        "hasta": -800,
+        "certeza": "incierta",
+        "nota": "Joel no nombra a ningún rey. Unos lo sitúan en el siglo IX a.C.; otros, después del exilio."
+      },
+      "fechaDe": "escritura",
+      "anterior": "1-reyes-12-22",
+      "siguiente": "2-reyes-1-14"
+    },
+    {
+      "id": "2-reyes-1-14",
+      "orden": 25,
+      "seccion": "reino-dividido",
+      "titulo": "Eliseo y los reyes de Israel y Judá",
+      "rotulo": "2 Reyes 1–14 + 2 Crónicas 21–25",
+      "formato": "completo",
+      "pasajes": [
+        "2Kgs.1.1-2Kgs.14.29",
+        "2Chr.21.1-2Chr.25.28"
+      ],
+      "libros": [
+        "2Kgs"
+      ],
+      "fecha": {
+        "texto": "c. 850–790 a.C.",
+        "desde": -850,
+        "hasta": -790,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "joel",
+      "siguiente": "jonas"
+    },
+    {
+      "id": "jonas",
+      "orden": 26,
+      "seccion": "reino-dividido",
+      "titulo": "Jonás: Dios ama también a Nínive",
+      "rotulo": "Jonás 1–4",
+      "formato": "completo",
+      "pasajes": [
+        "Jonah.1.1-Jonah.4.11"
+      ],
+      "libros": [
+        "Jonah"
+      ],
+      "fecha": {
+        "texto": "c. 780–760 a.C.",
+        "desde": -780,
+        "hasta": -760,
+        "certeza": "aprox",
+        "nota": "Jonás vivió en tiempos de Jeroboam II (2 Reyes 14:25). No se sabe cuándo se escribió el libro."
+      },
+      "fechaDe": "hechos",
+      "anterior": "2-reyes-1-14",
+      "siguiente": "amos"
+    },
+    {
+      "id": "amos",
+      "orden": 27,
+      "seccion": "reino-dividido",
+      "titulo": "Amós: justicia para el pobre",
+      "rotulo": "Amós 1–9",
+      "formato": "completo",
+      "pasajes": [
+        "Amos.1.1-Amos.9.15"
+      ],
+      "libros": [
+        "Amos"
+      ],
+      "fecha": {
+        "texto": "c. 760 a.C.",
+        "desde": -765,
+        "hasta": -755,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "jonas",
+      "siguiente": "oseas"
+    },
+    {
+      "id": "oseas",
+      "orden": 28,
+      "seccion": "reino-dividido",
+      "titulo": "Oseas: un amor que no se rinde",
+      "rotulo": "Oseas 1–14",
+      "formato": "completo",
+      "pasajes": [
+        "Hos.1.1-Hos.14.9"
+      ],
+      "libros": [
+        "Hos"
+      ],
+      "fecha": {
+        "texto": "c. 755–715 a.C.",
+        "desde": -755,
+        "hasta": -715,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "amos",
+      "siguiente": "2-reyes-15-17"
+    },
+    {
+      "id": "2-reyes-15-17",
+      "orden": 29,
+      "seccion": "reino-dividido",
+      "titulo": "Cae Samaria, el reino del norte",
+      "rotulo": "2 Reyes 15–17 + 2 Crónicas 26–28",
+      "formato": "completo",
+      "pasajes": [
+        "2Kgs.15.1-2Kgs.17.41",
+        "2Chr.26.1-2Chr.28.27"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 750–722 a.C.",
+        "desde": -750,
+        "hasta": -722,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "oseas",
+      "siguiente": "isaias"
+    },
+    {
+      "id": "isaias",
+      "orden": 30,
+      "seccion": "reino-dividido",
+      "titulo": "Isaías: el Santo que viene a salvar",
+      "rotulo": "Isaías 1–66",
+      "formato": "completo",
+      "pasajes": [
+        "Isa.1.1-Isa.66.24"
+      ],
+      "libros": [
+        "Isa"
+      ],
+      "fecha": {
+        "texto": "c. 740–680 a.C.",
+        "desde": -740,
+        "hasta": -680,
+        "certeza": "aprox",
+        "nota": "Los capítulos 40–66 miran hacia el exilio y el regreso, más de cien años después."
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-reyes-15-17",
+      "siguiente": "miqueas"
+    },
+    {
+      "id": "miqueas",
+      "orden": 31,
+      "seccion": "reino-dividido",
+      "titulo": "Miqueas: lo que Dios pide de ti",
+      "rotulo": "Miqueas 1–7",
+      "formato": "completo",
+      "pasajes": [
+        "Mic.1.1-Mic.7.20"
+      ],
+      "libros": [
+        "Mic"
+      ],
+      "fecha": {
+        "texto": "c. 735–700 a.C.",
+        "desde": -735,
+        "hasta": -700,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "isaias",
+      "siguiente": "2-reyes-18-21"
+    },
+    {
+      "id": "2-reyes-18-21",
+      "orden": 32,
+      "seccion": "reino-dividido",
+      "titulo": "Ezequías confía; Manasés se aleja",
+      "rotulo": "2 Reyes 18–21 + 2 Crónicas 29–33",
+      "formato": "completo",
+      "pasajes": [
+        "2Kgs.18.1-2Kgs.21.26",
+        "2Chr.29.1-2Chr.33.25"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 715–640 a.C.",
+        "desde": -715,
+        "hasta": -640,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "miqueas",
+      "siguiente": "nahum"
+    },
+    {
+      "id": "nahum",
+      "orden": 33,
+      "seccion": "reino-dividido",
+      "titulo": "Nahúm: el fin de Nínive",
+      "rotulo": "Nahúm 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "Nah.1.1-Nah.3.19"
+      ],
+      "libros": [
+        "Nah"
+      ],
+      "fecha": {
+        "texto": "c. 660–612 a.C.",
+        "desde": -660,
+        "hasta": -612,
+        "certeza": "aprox",
+        "nota": "Nínive cayó en el año 612 a.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-reyes-18-21",
+      "siguiente": "2-reyes-22-23"
+    },
+    {
+      "id": "2-reyes-22-23",
+      "orden": 34,
+      "seccion": "reino-dividido",
+      "titulo": "Josías encuentra el libro de la Ley",
+      "rotulo": "2 Reyes 22–23 + 2 Crónicas 34–35",
+      "formato": "completo",
+      "pasajes": [
+        "2Kgs.22.1-2Kgs.23.30",
+        "2Chr.34.1-2Chr.35.27"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 640–609 a.C.",
+        "desde": -640,
+        "hasta": -609,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "nahum",
+      "siguiente": "sofonias"
+    },
+    {
+      "id": "sofonias",
+      "orden": 35,
+      "seccion": "reino-dividido",
+      "titulo": "Sofonías: el día del Señor",
+      "rotulo": "Sofonías 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "Zeph.1.1-Zeph.3.20"
+      ],
+      "libros": [
+        "Zeph"
+      ],
+      "fecha": {
+        "texto": "c. 630 a.C., en tiempos de Josías",
+        "desde": -635,
+        "hasta": -625,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-reyes-22-23",
+      "siguiente": "jeremias"
+    },
+    {
+      "id": "jeremias",
+      "orden": 36,
+      "seccion": "reino-dividido",
+      "titulo": "Jeremías: lágrimas y un pacto nuevo",
+      "rotulo": "Jeremías 1–52",
+      "formato": "completo",
+      "pasajes": [
+        "Jer.1.1-Jer.52.34"
+      ],
+      "libros": [
+        "Jer"
+      ],
+      "fecha": {
+        "texto": "c. 627–580 a.C.",
+        "desde": -627,
+        "hasta": -580,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "sofonias",
+      "siguiente": "habacuc"
+    },
+    {
+      "id": "habacuc",
+      "orden": 37,
+      "seccion": "reino-dividido",
+      "titulo": "Habacuc: el justo vivirá por la fe",
+      "rotulo": "Habacuc 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "Hab.1.1-Hab.3.19"
+      ],
+      "libros": [
+        "Hab"
+      ],
+      "fecha": {
+        "texto": "c. 610–600 a.C.",
+        "desde": -610,
+        "hasta": -600,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "jeremias",
+      "siguiente": "2-reyes-24-25"
+    },
+    {
+      "id": "2-reyes-24-25",
+      "orden": 38,
+      "seccion": "reino-dividido",
+      "titulo": "Cae Jerusalén y el pueblo va cautivo",
+      "rotulo": "2 Reyes 23:31–25:30 + 2 Crónicas 36",
+      "formato": "completo",
+      "pasajes": [
+        "2Kgs.23.31-2Kgs.25.30",
+        "2Chr.36.1-2Chr.36.21"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "609–586 a.C.",
+        "desde": -609,
+        "hasta": -586,
+        "certeza": "aprox",
+        "nota": "Babilonia llevó cautivos en tres grupos: 605, 597 y 586 a.C."
+      },
+      "fechaDe": "hechos",
+      "anterior": "habacuc",
+      "siguiente": "lamentaciones"
+    },
+    {
+      "id": "lamentaciones",
+      "orden": 39,
+      "seccion": "reino-dividido",
+      "titulo": "Lamentaciones: llorar con esperanza",
+      "rotulo": "Lamentaciones 1–5",
+      "formato": "completo",
+      "pasajes": [
+        "Lam.1.1-Lam.5.22"
+      ],
+      "libros": [
+        "Lam"
+      ],
+      "fecha": {
+        "texto": "c. 586 a.C.",
+        "desde": -586,
+        "hasta": -585,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-reyes-24-25",
+      "siguiente": "abdias"
+    },
+    {
+      "id": "abdias",
+      "orden": 40,
+      "seccion": "exilio",
+      "titulo": "Abdías: Dios ve la injusticia",
+      "rotulo": "Abdías 1",
+      "formato": "breve",
+      "pasajes": [
+        "Obad.1.1-Obad.1.21"
+      ],
+      "libros": [
+        "Obad"
+      ],
+      "fecha": {
+        "texto": "c. 586 a.C.",
+        "desde": -586,
+        "hasta": -580,
+        "certeza": "debatida",
+        "nota": "La mayoría lo une a la caída de Jerusalén. Otros lo sitúan en el siglo IX a.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "lamentaciones",
+      "siguiente": "ezequiel"
+    },
+    {
+      "id": "ezequiel",
+      "orden": 41,
+      "seccion": "exilio",
+      "titulo": "Ezequiel: Dios da un corazón nuevo",
+      "rotulo": "Ezequiel 1–48",
+      "formato": "completo",
+      "pasajes": [
+        "Ezek.1.1-Ezek.48.35"
+      ],
+      "libros": [
+        "Ezek"
+      ],
+      "fecha": {
+        "texto": "593–571 a.C.",
+        "desde": -593,
+        "hasta": -571,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "abdias",
+      "siguiente": "daniel"
+    },
+    {
+      "id": "daniel",
+      "orden": 42,
+      "seccion": "exilio",
+      "titulo": "Daniel: fieles en tierra extraña",
+      "rotulo": "Daniel 1–12",
+      "formato": "completo",
+      "pasajes": [
+        "Dan.1.1-Dan.12.13"
+      ],
+      "libros": [
+        "Dan"
+      ],
+      "fecha": {
+        "texto": "605–c. 535 a.C.",
+        "desde": -605,
+        "hasta": -535,
+        "certeza": "aprox",
+        "nota": "Son las fechas de los hechos. La fecha en que se escribió el libro se discute."
+      },
+      "fechaDe": "hechos",
+      "anterior": "ezequiel",
+      "siguiente": "esdras-1-6"
+    },
+    {
+      "id": "esdras-1-6",
+      "orden": 43,
+      "seccion": "regreso",
+      "titulo": "Vuelven a casa y reconstruyen el templo",
+      "rotulo": "Esdras 1–6 + 2 Crónicas 36:22-23",
+      "formato": "completo",
+      "pasajes": [
+        "2Chr.36.22-2Chr.36.23",
+        "Ezra.1.1-Ezra.6.22"
+      ],
+      "libros": [
+        "Ezra"
+      ],
+      "fecha": {
+        "texto": "538–516 a.C.",
+        "desde": -538,
+        "hasta": -516,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "daniel",
+      "siguiente": "hageo"
+    },
+    {
+      "id": "hageo",
+      "orden": 44,
+      "seccion": "regreso",
+      "titulo": "Hageo: primero la casa de Dios",
+      "rotulo": "Hageo 1–2",
+      "formato": "breve",
+      "pasajes": [
+        "Hag.1.1-Hag.2.23"
+      ],
+      "libros": [
+        "Hag"
+      ],
+      "fecha": {
+        "texto": "520 a.C.",
+        "desde": -520,
+        "hasta": -520,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "esdras-1-6",
+      "siguiente": "zacarias"
+    },
+    {
+      "id": "zacarias",
+      "orden": 45,
+      "seccion": "regreso",
+      "titulo": "Zacarías: tu Rey viene a ti",
+      "rotulo": "Zacarías 1–14",
+      "formato": "completo",
+      "pasajes": [
+        "Zech.1.1-Zech.14.21"
+      ],
+      "libros": [
+        "Zech"
+      ],
+      "fecha": {
+        "texto": "520–c. 480 a.C.",
+        "desde": -520,
+        "hasta": -480,
+        "certeza": "aprox",
+        "nota": "Los capítulos 1–8 tienen fechas exactas (520–518 a.C.). Los capítulos 9–14 son posteriores."
+      },
+      "fechaDe": "escritura",
+      "anterior": "hageo",
+      "siguiente": "ester"
+    },
+    {
+      "id": "ester",
+      "orden": 46,
+      "seccion": "regreso",
+      "titulo": "Ester: valor para salvar a su pueblo",
+      "rotulo": "Ester 1–10",
+      "formato": "completo",
+      "pasajes": [
+        "Esth.1.1-Esth.10.3"
+      ],
+      "libros": [
+        "Esth"
+      ],
+      "fecha": {
+        "texto": "c. 483–473 a.C.",
+        "desde": -483,
+        "hasta": -473,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "zacarias",
+      "siguiente": "esdras-7-10"
+    },
+    {
+      "id": "esdras-7-10",
+      "orden": 47,
+      "seccion": "regreso",
+      "titulo": "Esdras enseña la Ley de Dios",
+      "rotulo": "Esdras 7–10",
+      "formato": "completo",
+      "pasajes": [
+        "Ezra.7.1-Ezra.10.44"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "458 a.C.",
+        "desde": -458,
+        "hasta": -457,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "ester",
+      "siguiente": "nehemias"
+    },
+    {
+      "id": "nehemias",
+      "orden": 48,
+      "seccion": "regreso",
+      "titulo": "Nehemías levanta los muros",
+      "rotulo": "Nehemías 1–13",
+      "formato": "completo",
+      "pasajes": [
+        "Neh.1.1-Neh.13.31"
+      ],
+      "libros": [
+        "Neh"
+      ],
+      "fecha": {
+        "texto": "445–c. 430 a.C.",
+        "desde": -445,
+        "hasta": -430,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "esdras-7-10",
+      "siguiente": "cronicas"
+    },
+    {
+      "id": "cronicas",
+      "orden": 49,
+      "seccion": "regreso",
+      "titulo": "Crónicas: la historia contada otra vez",
+      "rotulo": "1 Crónicas 1–9 (+ todo 1 y 2 Crónicas)",
+      "formato": "completo",
+      "pasajes": [
+        "1Chr.1.1-1Chr.9.44"
+      ],
+      "libros": [
+        "1Chr",
+        "2Chr"
+      ],
+      "fecha": {
+        "texto": "Escrito c. 450–400 a.C.",
+        "desde": -450,
+        "hasta": -400,
+        "certeza": "aprox",
+        "nota": "Cuenta desde Adán hasta el decreto de Ciro. Se escribió para quienes volvieron del exilio."
+      },
+      "fechaDe": "escritura",
+      "anterior": "nehemias",
+      "siguiente": "malaquias"
+    },
+    {
+      "id": "malaquias",
+      "orden": 50,
+      "seccion": "regreso",
+      "titulo": "Malaquías: el Señor vendrá a su templo",
+      "rotulo": "Malaquías 1–4",
+      "formato": "completo",
+      "pasajes": [
+        "Mal.1.1-Mal.4.6"
+      ],
+      "libros": [
+        "Mal"
+      ],
+      "fecha": {
+        "texto": "c. 430 a.C.",
+        "desde": -435,
+        "hasta": -425,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "cronicas",
+      "siguiente": "entre-testamentos"
+    },
+    {
+      "id": "entre-testamentos",
+      "orden": 51,
+      "seccion": "entre-testamentos",
+      "titulo": "Entre los dos Testamentos",
+      "rotulo": "Daniel 11:1-35 + Juan 10:22-23",
+      "formato": "completo",
+      "pasajes": [
+        "Dan.11.1-Dan.11.35",
+        "John.10.22-John.10.23"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 430–5 a.C.",
+        "desde": -430,
+        "hasta": -5,
+        "certeza": "aprox",
+        "nota": "Persas, griegos, macabeos y romanos gobernaron la tierra de Israel en estos siglos."
+      },
+      "fechaDe": "hechos",
+      "anterior": "malaquias",
+      "siguiente": "el-verbo"
+    },
+    {
+      "id": "el-verbo",
+      "orden": 52,
+      "seccion": "jesus",
+      "titulo": "El Verbo, antes de todo",
+      "rotulo": "Juan 1:1-18",
+      "formato": "completo",
+      "pasajes": [
+        "John.1.1-John.1.18"
+      ],
+      "libros": [
+        "John"
+      ],
+      "fecha": {
+        "texto": "Antes del principio",
+        "desde": null,
+        "hasta": null,
+        "certeza": "incierta",
+        "nota": "Juan habla del Hijo antes de la creación. No hay fecha: es la eternidad de Dios."
+      },
+      "fechaDe": "hechos",
+      "anterior": "entre-testamentos",
+      "siguiente": "anuncios"
+    },
+    {
+      "id": "anuncios",
+      "orden": 53,
+      "seccion": "jesus",
+      "titulo": "Dos anuncios: Juan y Jesús",
+      "rotulo": "Lucas 1 + Mateo 1",
+      "formato": "completo",
+      "pasajes": [
+        "Luke.1.1-Luke.1.80",
+        "Matt.1.1-Matt.1.25"
+      ],
+      "libros": [
+        "Luke",
+        "Matt"
+      ],
+      "fecha": {
+        "texto": "c. 7–5 a.C.",
+        "desde": -7,
+        "hasta": -5,
+        "certeza": "aprox",
+        "nota": "Herodes el Grande murió c. 4 a.C.; por eso Jesús nació unos años antes del año 1."
+      },
+      "fechaDe": "hechos",
+      "anterior": "el-verbo",
+      "siguiente": "nacimiento"
+    },
+    {
+      "id": "nacimiento",
+      "orden": 54,
+      "seccion": "jesus",
+      "titulo": "Nace Jesús en Belén",
+      "rotulo": "Lucas 2 + Mateo 2",
+      "formato": "completo",
+      "pasajes": [
+        "Luke.2.1-Luke.2.52",
+        "Matt.2.1-Matt.2.23"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 6–4 a.C.; en el templo, a los 12 años",
+        "desde": -6,
+        "hasta": 8,
+        "certeza": "aprox",
+        "nota": "El calendario que usamos hoy se calculó siglos después, con un pequeño error de unos años."
+      },
+      "fechaDe": "hechos",
+      "anterior": "anuncios",
+      "siguiente": "inicio-ministerio"
+    },
+    {
+      "id": "inicio-ministerio",
+      "orden": 55,
+      "seccion": "jesus",
+      "titulo": "Jesús comienza su misión",
+      "rotulo": "Mateo 3–4 + Marcos 1 + Lucas 3–4 + Juan 1:19–4:54",
+      "formato": "completo",
+      "pasajes": [
+        "Matt.3.1-Matt.4.25",
+        "Mark.1.1-Mark.1.45",
+        "Luke.3.1-Luke.4.44",
+        "John.1.19-John.4.54"
+      ],
+      "libros": [
+        "Mark"
+      ],
+      "fecha": {
+        "texto": "c. 27–28 d.C.",
+        "desde": 27,
+        "hasta": 28,
+        "certeza": "aprox",
+        "nota": "Lucas 3:1 fecha el comienzo en el año 15 de Tiberio, c. 28 d.C."
+      },
+      "fechaDe": "hechos",
+      "anterior": "nacimiento",
+      "siguiente": "galilea-ensenanzas"
+    },
+    {
+      "id": "galilea-ensenanzas",
+      "orden": 56,
+      "seccion": "jesus",
+      "titulo": "Lo que Jesús enseñó en Galilea",
+      "rotulo": "Mateo 5–7 + Mateo 13 + Lucas 6:17-49",
+      "formato": "completo",
+      "pasajes": [
+        "Matt.5.1-Matt.7.29",
+        "Matt.13.1-Matt.13.52",
+        "Luke.6.17-Luke.6.49"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 28–29 d.C.",
+        "desde": 28,
+        "hasta": 29,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "inicio-ministerio",
+      "siguiente": "galilea-milagros"
+    },
+    {
+      "id": "galilea-milagros",
+      "orden": 57,
+      "seccion": "jesus",
+      "titulo": "Milagros en Galilea y los Doce",
+      "rotulo": "Mateo 8–18 + Marcos 2–9 + Lucas 5–9 + Juan 5–6",
+      "formato": "completo",
+      "pasajes": [
+        "Matt.8.1-Matt.12.50",
+        "Matt.13.53-Matt.18.35",
+        "Mark.2.1-Mark.9.50",
+        "Luke.5.1-Luke.6.16",
+        "Luke.7.1-Luke.9.50",
+        "John.5.1-John.6.71"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 28–29 d.C.",
+        "desde": 28,
+        "hasta": 29,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "galilea-ensenanzas",
+      "siguiente": "camino-a-jerusalen"
+    },
+    {
+      "id": "camino-a-jerusalen",
+      "orden": 58,
+      "seccion": "jesus",
+      "titulo": "Camino a Jerusalén",
+      "rotulo": "Lucas 9:51–19:27 + Juan 7–11 + Mateo 19–20 + Marcos 10",
+      "formato": "completo",
+      "pasajes": [
+        "Luke.9.51-Luke.19.27",
+        "John.7.1-John.11.57",
+        "Matt.19.1-Matt.20.34",
+        "Mark.10.1-Mark.10.52"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 29–30 d.C.",
+        "desde": 29,
+        "hasta": 30,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "galilea-milagros",
+      "siguiente": "ultima-semana"
+    },
+    {
+      "id": "ultima-semana",
+      "orden": 59,
+      "seccion": "jesus",
+      "titulo": "La última semana y la última cena",
+      "rotulo": "Mateo 21–26 + Marcos 11–14 + Lucas 19–22 + Juan 12–17",
+      "formato": "completo",
+      "pasajes": [
+        "Matt.21.1-Matt.26.35",
+        "Mark.11.1-Mark.14.31",
+        "Luke.19.28-Luke.22.38",
+        "John.12.1-John.17.26"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 30 o 33 d.C.",
+        "desde": 30,
+        "hasta": 33,
+        "certeza": "debatida",
+        "nota": "Los estudiosos proponen el año 30 o el 33 d.C. Los dos años encajan con la Pascua judía."
+      },
+      "fechaDe": "hechos",
+      "anterior": "camino-a-jerusalen",
+      "siguiente": "pasion-y-muerte"
+    },
+    {
+      "id": "pasion-y-muerte",
+      "orden": 60,
+      "seccion": "jesus",
+      "titulo": "Pasión y muerte de Jesús",
+      "rotulo": "Mateo 26–27 + Marcos 14–15 + Lucas 22–23 + Juan 18–19",
+      "formato": "completo",
+      "pasajes": [
+        "Matt.26.36-Matt.27.66",
+        "Mark.14.32-Mark.15.47",
+        "Luke.22.39-Luke.23.56",
+        "John.18.1-John.19.42"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 30 o 33 d.C., en la Pascua",
+        "desde": 30,
+        "hasta": 33,
+        "certeza": "debatida",
+        "nota": "Los estudiosos proponen el año 30 o el 33 d.C. Los dos años encajan con la Pascua judía."
+      },
+      "fechaDe": "hechos",
+      "anterior": "ultima-semana",
+      "siguiente": "resurreccion"
+    },
+    {
+      "id": "resurreccion",
+      "orden": 61,
+      "seccion": "jesus",
+      "titulo": "¡Resucitó! Apariciones y ascensión",
+      "rotulo": "Mateo 28 + Marcos 16 + Lucas 24 + Juan 20–21 + Hechos 1:1-11",
+      "formato": "completo",
+      "pasajes": [
+        "Matt.28.1-Matt.28.20",
+        "Mark.16.1-Mark.16.20",
+        "Luke.24.1-Luke.24.53",
+        "John.20.1-John.21.25",
+        "Acts.1.1-Acts.1.11"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 30 o 33 d.C., cuarenta días",
+        "desde": 30,
+        "hasta": 33,
+        "certeza": "debatida",
+        "nota": "Mismo año que la Pascua de la cruz. Jesús se aparece durante cuarenta días (Hechos 1:3)."
+      },
+      "fechaDe": "hechos",
+      "anterior": "pasion-y-muerte",
+      "siguiente": "hechos-1-7"
+    },
+    {
+      "id": "hechos-1-7",
+      "orden": 62,
+      "seccion": "iglesia",
+      "titulo": "Nace la Iglesia en Jerusalén",
+      "rotulo": "Hechos 1–7",
+      "formato": "completo",
+      "pasajes": [
+        "Acts.1.1-Acts.7.60"
+      ],
+      "libros": [
+        "Acts"
+      ],
+      "fecha": {
+        "texto": "c. 30–35 d.C.",
+        "desde": 30,
+        "hasta": 35,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "resurreccion",
+      "siguiente": "hechos-8-12"
+    },
+    {
+      "id": "hechos-8-12",
+      "orden": 63,
+      "seccion": "iglesia",
+      "titulo": "La buena noticia sale de Jerusalén",
+      "rotulo": "Hechos 8–12",
+      "formato": "completo",
+      "pasajes": [
+        "Acts.8.1-Acts.12.25"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 35–44 d.C.",
+        "desde": 35,
+        "hasta": 44,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "hechos-1-7",
+      "siguiente": "santiago"
+    },
+    {
+      "id": "santiago",
+      "orden": 64,
+      "seccion": "iglesia",
+      "titulo": "Santiago: una fe que se ve",
+      "rotulo": "Santiago 1–5",
+      "formato": "completo",
+      "pasajes": [
+        "Jas.1.1-Jas.5.20"
+      ],
+      "libros": [
+        "Jas"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 45–49 d.C.",
+        "desde": 45,
+        "hasta": 49,
+        "certeza": "debatida",
+        "nota": "Muchos la ven como una de las primeras cartas. Otros la sitúan hacia el año 60 d.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "hechos-8-12",
+      "siguiente": "hechos-13-14"
+    },
+    {
+      "id": "hechos-13-14",
+      "orden": 65,
+      "seccion": "iglesia",
+      "titulo": "Primer viaje de Pablo y Bernabé",
+      "rotulo": "Hechos 13–14",
+      "formato": "completo",
+      "pasajes": [
+        "Acts.13.1-Acts.14.28"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 46–48 d.C.",
+        "desde": 46,
+        "hasta": 48,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "santiago",
+      "siguiente": "galatas"
+    },
+    {
+      "id": "galatas",
+      "orden": 66,
+      "seccion": "iglesia",
+      "titulo": "Gálatas: libres por la gracia",
+      "rotulo": "Gálatas 1–6",
+      "formato": "completo",
+      "pasajes": [
+        "Gal.1.1-Gal.6.18"
+      ],
+      "libros": [
+        "Gal"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 48–49 d.C.",
+        "desde": 48,
+        "hasta": 49,
+        "certeza": "debatida",
+        "nota": "Unos la fechan antes del concilio de Jerusalén (c. 49 d.C.); otros, hacia el año 55 d.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "hechos-13-14",
+      "siguiente": "hechos-15-18"
+    },
+    {
+      "id": "hechos-15-18",
+      "orden": 67,
+      "seccion": "iglesia",
+      "titulo": "El concilio y el segundo viaje",
+      "rotulo": "Hechos 15:1–18:22",
+      "formato": "completo",
+      "pasajes": [
+        "Acts.15.1-Acts.18.22"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 49–52 d.C.",
+        "desde": 49,
+        "hasta": 52,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "galatas",
+      "siguiente": "1-tesalonicenses"
+    },
+    {
+      "id": "1-tesalonicenses",
+      "orden": 68,
+      "seccion": "iglesia",
+      "titulo": "1 Tesalonicenses: esperanza en su venida",
+      "rotulo": "1 Tesalonicenses 1–5",
+      "formato": "completo",
+      "pasajes": [
+        "1Thess.1.1-1Thess.5.28"
+      ],
+      "libros": [
+        "1Thess"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 50–51 d.C.",
+        "desde": 50,
+        "hasta": 51,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "hechos-15-18",
+      "siguiente": "2-tesalonicenses"
+    },
+    {
+      "id": "2-tesalonicenses",
+      "orden": 69,
+      "seccion": "iglesia",
+      "titulo": "2 Tesalonicenses: firmes mientras esperamos",
+      "rotulo": "2 Tesalonicenses 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "2Thess.1.1-2Thess.3.18"
+      ],
+      "libros": [
+        "2Thess"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 51 d.C.",
+        "desde": 51,
+        "hasta": 52,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "1-tesalonicenses",
+      "siguiente": "hechos-18-20"
+    },
+    {
+      "id": "hechos-18-20",
+      "orden": 70,
+      "seccion": "iglesia",
+      "titulo": "Tercer viaje: Pablo en Éfeso",
+      "rotulo": "Hechos 18:23–20:38",
+      "formato": "completo",
+      "pasajes": [
+        "Acts.18.23-Acts.20.38"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 53–57 d.C.",
+        "desde": 53,
+        "hasta": 57,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "2-tesalonicenses",
+      "siguiente": "1-corintios"
+    },
+    {
+      "id": "1-corintios",
+      "orden": 71,
+      "seccion": "iglesia",
+      "titulo": "1 Corintios: el camino del amor",
+      "rotulo": "1 Corintios 1–16",
+      "formato": "completo",
+      "pasajes": [
+        "1Cor.1.1-1Cor.16.24"
+      ],
+      "libros": [
+        "1Cor"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 54–55 d.C.",
+        "desde": 54,
+        "hasta": 55,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "hechos-18-20",
+      "siguiente": "2-corintios"
+    },
+    {
+      "id": "2-corintios",
+      "orden": 72,
+      "seccion": "iglesia",
+      "titulo": "2 Corintios: fuerza en la debilidad",
+      "rotulo": "2 Corintios 1–13",
+      "formato": "completo",
+      "pasajes": [
+        "2Cor.1.1-2Cor.13.14"
+      ],
+      "libros": [
+        "2Cor"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 55–56 d.C.",
+        "desde": 55,
+        "hasta": 56,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "1-corintios",
+      "siguiente": "romanos"
+    },
+    {
+      "id": "romanos",
+      "orden": 73,
+      "seccion": "iglesia",
+      "titulo": "Romanos: la buena noticia para todos",
+      "rotulo": "Romanos 1–16",
+      "formato": "completo",
+      "pasajes": [
+        "Rom.1.1-Rom.16.27"
+      ],
+      "libros": [
+        "Rom"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 57 d.C.",
+        "desde": 57,
+        "hasta": 57,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-corintios",
+      "siguiente": "hechos-21-28"
+    },
+    {
+      "id": "hechos-21-28",
+      "orden": 74,
+      "seccion": "iglesia",
+      "titulo": "Pablo, preso, llega a Roma",
+      "rotulo": "Hechos 21–28",
+      "formato": "completo",
+      "pasajes": [
+        "Acts.21.1-Acts.28.31"
+      ],
+      "libros": [],
+      "fecha": {
+        "texto": "c. 57–62 d.C.",
+        "desde": 57,
+        "hasta": 62,
+        "certeza": "aprox"
+      },
+      "fechaDe": "hechos",
+      "anterior": "romanos",
+      "siguiente": "efesios"
+    },
+    {
+      "id": "efesios",
+      "orden": 75,
+      "seccion": "iglesia",
+      "titulo": "Efesios: un solo cuerpo en Cristo",
+      "rotulo": "Efesios 1–6",
+      "formato": "completo",
+      "pasajes": [
+        "Eph.1.1-Eph.6.24"
+      ],
+      "libros": [
+        "Eph"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 60–62 d.C.",
+        "desde": 60,
+        "hasta": 62,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "hechos-21-28",
+      "siguiente": "colosenses"
+    },
+    {
+      "id": "colosenses",
+      "orden": 76,
+      "seccion": "iglesia",
+      "titulo": "Colosenses: Cristo es lo primero",
+      "rotulo": "Colosenses 1–4",
+      "formato": "completo",
+      "pasajes": [
+        "Col.1.1-Col.4.18"
+      ],
+      "libros": [
+        "Col"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 60–62 d.C.",
+        "desde": 60,
+        "hasta": 62,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "efesios",
+      "siguiente": "filemon"
+    },
+    {
+      "id": "filemon",
+      "orden": 77,
+      "seccion": "iglesia",
+      "titulo": "Filemón: recíbelo como a un hermano",
+      "rotulo": "Filemón 1",
+      "formato": "breve",
+      "pasajes": [
+        "Phlm.1.1-Phlm.1.25"
+      ],
+      "libros": [
+        "Phlm"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 60–62 d.C.",
+        "desde": 60,
+        "hasta": 62,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "colosenses",
+      "siguiente": "filipenses"
+    },
+    {
+      "id": "filipenses",
+      "orden": 78,
+      "seccion": "iglesia",
+      "titulo": "Filipenses: alegría en toda situación",
+      "rotulo": "Filipenses 1–4",
+      "formato": "completo",
+      "pasajes": [
+        "Phil.1.1-Phil.4.23"
+      ],
+      "libros": [
+        "Phil"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 61–62 d.C.",
+        "desde": 61,
+        "hasta": 62,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "filemon",
+      "siguiente": "1-timoteo"
+    },
+    {
+      "id": "1-timoteo",
+      "orden": 79,
+      "seccion": "iglesia",
+      "titulo": "1 Timoteo: cuidar la familia de Dios",
+      "rotulo": "1 Timoteo 1–6",
+      "formato": "completo",
+      "pasajes": [
+        "1Tim.1.1-1Tim.6.21"
+      ],
+      "libros": [
+        "1Tim"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 62–64 d.C.",
+        "desde": 62,
+        "hasta": 64,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "filipenses",
+      "siguiente": "tito"
+    },
+    {
+      "id": "tito",
+      "orden": 80,
+      "seccion": "iglesia",
+      "titulo": "Tito: una fe que hace el bien",
+      "rotulo": "Tito 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "Titus.1.1-Titus.3.15"
+      ],
+      "libros": [
+        "Titus"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 62–64 d.C.",
+        "desde": 62,
+        "hasta": 64,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "1-timoteo",
+      "siguiente": "1-pedro"
+    },
+    {
+      "id": "1-pedro",
+      "orden": 81,
+      "seccion": "iglesia",
+      "titulo": "1 Pedro: esperanza en el sufrimiento",
+      "rotulo": "1 Pedro 1–5",
+      "formato": "completo",
+      "pasajes": [
+        "1Pet.1.1-1Pet.5.14"
+      ],
+      "libros": [
+        "1Pet"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 62–64 d.C.",
+        "desde": 62,
+        "hasta": 64,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "tito",
+      "siguiente": "2-timoteo"
+    },
+    {
+      "id": "2-timoteo",
+      "orden": 82,
+      "seccion": "iglesia",
+      "titulo": "2 Timoteo: termina bien la carrera",
+      "rotulo": "2 Timoteo 1–4",
+      "formato": "completo",
+      "pasajes": [
+        "2Tim.1.1-2Tim.4.22"
+      ],
+      "libros": [
+        "2Tim"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 64–67 d.C.",
+        "desde": 64,
+        "hasta": 67,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "1-pedro",
+      "siguiente": "2-pedro"
+    },
+    {
+      "id": "2-pedro",
+      "orden": 83,
+      "seccion": "iglesia",
+      "titulo": "2 Pedro: crecer y no olvidar",
+      "rotulo": "2 Pedro 1–3",
+      "formato": "breve",
+      "pasajes": [
+        "2Pet.1.1-2Pet.3.18"
+      ],
+      "libros": [
+        "2Pet"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 65–67 d.C.",
+        "desde": 65,
+        "hasta": 67,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-timoteo",
+      "siguiente": "hebreos"
+    },
+    {
+      "id": "hebreos",
+      "orden": 84,
+      "seccion": "iglesia",
+      "titulo": "Hebreos: Jesús, mejor que todo",
+      "rotulo": "Hebreos 1–13",
+      "formato": "completo",
+      "pasajes": [
+        "Heb.1.1-Heb.13.25"
+      ],
+      "libros": [
+        "Heb"
+      ],
+      "fecha": {
+        "texto": "Escrita antes del año 70 d.C.",
+        "desde": 60,
+        "hasta": 69,
+        "certeza": "aprox",
+        "nota": "Habla del culto del templo como algo que aún existe. El templo fue destruido en el año 70 d.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-pedro",
+      "siguiente": "judas"
+    },
+    {
+      "id": "judas",
+      "orden": 85,
+      "seccion": "iglesia",
+      "titulo": "Judas: cuida la fe que recibiste",
+      "rotulo": "Judas 1",
+      "formato": "breve",
+      "pasajes": [
+        "Jude.1.1-Jude.1.25"
+      ],
+      "libros": [
+        "Jude"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 65–80 d.C.",
+        "desde": 65,
+        "hasta": 80,
+        "certeza": "debatida",
+        "nota": "La carta no trae fecha. Las propuestas van del año 65 al 80 d.C."
+      },
+      "fechaDe": "escritura",
+      "anterior": "hebreos",
+      "siguiente": "1-juan"
+    },
+    {
+      "id": "1-juan",
+      "orden": 86,
+      "seccion": "iglesia",
+      "titulo": "1 Juan: Dios es amor",
+      "rotulo": "1 Juan 1–5",
+      "formato": "completo",
+      "pasajes": [
+        "1John.1.1-1John.5.21"
+      ],
+      "libros": [
+        "1John"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 85–95 d.C.",
+        "desde": 85,
+        "hasta": 95,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "judas",
+      "siguiente": "2-juan"
+    },
+    {
+      "id": "2-juan",
+      "orden": 87,
+      "seccion": "iglesia",
+      "titulo": "2 Juan: verdad y amor juntos",
+      "rotulo": "2 Juan 1",
+      "formato": "breve",
+      "pasajes": [
+        "2John.1.1-2John.1.13"
+      ],
+      "libros": [
+        "2John"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 85–95 d.C.",
+        "desde": 85,
+        "hasta": 95,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "1-juan",
+      "siguiente": "3-juan"
+    },
+    {
+      "id": "3-juan",
+      "orden": 88,
+      "seccion": "iglesia",
+      "titulo": "3 Juan: abre tu casa a los hermanos",
+      "rotulo": "3 Juan 1",
+      "formato": "breve",
+      "pasajes": [
+        "3John.1.1-3John.1.14"
+      ],
+      "libros": [
+        "3John"
+      ],
+      "fecha": {
+        "texto": "Escrita c. 85–95 d.C.",
+        "desde": 85,
+        "hasta": 95,
+        "certeza": "aprox"
+      },
+      "fechaDe": "escritura",
+      "anterior": "2-juan",
+      "siguiente": "apocalipsis"
+    },
+    {
+      "id": "apocalipsis",
+      "orden": 89,
+      "seccion": "iglesia",
+      "titulo": "Apocalipsis: el Cordero vence",
+      "rotulo": "Apocalipsis 1–22",
+      "formato": "completo",
+      "pasajes": [
+        "Rev.1.1-Rev.22.21"
+      ],
+      "libros": [
+        "Rev"
+      ],
+      "fecha": {
+        "texto": "Escrito c. 95 d.C.",
+        "desde": 95,
+        "hasta": 96,
+        "certeza": "debatida",
+        "nota": "Es la fecha más aceptada. Algunos proponen c. 68 d.C., antes de la caída del templo."
+      },
+      "fechaDe": "escritura",
+      "anterior": "3-juan",
+      "siguiente": "conclusion"
+    },
+    {
+      "id": "conclusion",
+      "orden": 90,
+      "seccion": "conclusion",
+      "titulo": "Del Génesis al Apocalipsis",
+      "rotulo": "Génesis 3:15 + Apocalipsis 22:1-5",
+      "formato": "marco",
+      "pasajes": [
+        "Gen.3.15-Gen.3.15",
+        "Rev.22.1-Rev.22.5"
+      ],
+      "libros": [],
+      "fecha": null,
+      "fechaDe": null,
+      "anterior": "apocalipsis",
+      "siguiente": null
+    }
+  ]
+}

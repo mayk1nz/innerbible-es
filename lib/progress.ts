@@ -140,7 +140,7 @@ export function searchLessons(query: string, owned: readonly OfferId[], limit = 
   const hits: SearchHit[] = []
   for (const product of PRODUCTS) {
     for (const lesson of allLessons(product)) {
-      if (normalize(lesson.title).includes(q) || normalize(product.title).includes(q)) {
+      if (normalize(lesson.title).includes(q) || normalize(lesson.rotulo ?? '').includes(q) || normalize(product.title).includes(q)) {
         hits.push({ product, lesson, owned: isOwned(product, owned) })
         if (hits.length >= limit) return hits
       }

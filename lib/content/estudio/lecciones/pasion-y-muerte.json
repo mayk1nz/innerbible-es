@@ -1,0 +1,146 @@
+{
+  "id": "pasion-y-muerte",
+  "orden": 60,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Pasión y muerte de Jesús",
+  "pasajes": ["Matt.26.36-Matt.27.66", "Mark.14.32-Mark.15.47", "Luke.22.39-Luke.23.56", "John.18.1-John.19.42"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Jesús ora en Getsemaní, es arrestado, lo juzgan sin culpa y lo crucifican en el Gólgota.",
+    "En la cruz perdona, cuida de su madre y entrega su vida en manos del Padre.",
+    "Dios revela aquí su amor más grande: Jesús carga nuestro pecado para darnos vida."
+  ],
+
+  "versiculo": {
+    "texto": "Y Jesús decía: Padre, perdónalos, porque no saben lo que hacen. Y partiendo sus vestidos, echaron suertes.",
+    "referencia": "Lucas 23:34",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 30 o 33 d.C., en la Pascua",
+    "desde": 30,
+    "hasta": 33,
+    "certeza": "debatida",
+    "nota": "Los estudiosos proponen el año 30 o el 33 d.C. Los dos años encajan con la Pascua judía."
+  },
+
+  "lugar": { "nombre": "Jerusalén: Getsemaní y el Gólgota", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "Ora, calla ante sus acusadores y da su vida por amor." },
+    { "id": "judas-iscariote", "nombre": "Judas Iscariote", "linea": "Lo entrega con un beso; después, desesperado, devuelve la plata." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "Promete seguirlo hasta la muerte, lo niega tres veces y llora." },
+    { "id": "caifas", "nombre": "Caifás", "linea": "Sumo sacerdote que dirige el juicio de noche contra Jesús." },
+    { "id": "poncio-pilato", "nombre": "Poncio Pilato", "linea": "Gobernador romano; no halla culpa en Jesús, pero lo entrega." },
+    { "id": "maria-madre-de-jesus", "nombre": "María", "linea": "Está junto a la cruz; Jesús la confía al discípulo amado." },
+    { "id": "jose-de-arimatea", "nombre": "José de Arimatea", "linea": "Discípulo en secreto que pide el cuerpo y lo sepulta." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús ora en Getsemaní y es arrestado", "ref": "Mateo 26:36-56" },
+    { "texto": "Pedro niega a Jesús tres veces", "ref": "Lucas 22:54-62" },
+    { "texto": "Pilato entrega a Jesús para ser crucificado", "ref": "Juan 19:1-16" },
+    { "texto": "Jesús es crucificado entre dos malhechores", "ref": "Lucas 23:32-43" },
+    { "texto": "Jesús muere y el velo del templo se rasga", "ref": "Mateo 27:45-56" },
+    { "texto": "José de Arimatea y Nicodemo sepultan a Jesús", "ref": "Juan 19:38-42" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una noche de oración",
+      "texto": "Después de la cena, Jesús va al huerto de Getsemaní. Siente una tristeza muy grande y ora: «no como yo quiero, sino como tú». Sus amigos se duermen. Llega Judas con gente armada y lo besa para señalarlo. Pedro hiere a un siervo con la espada, pero Jesús lo sana."
+    },
+    {
+      "subtitulo": "Juzgado de noche",
+      "texto": "Lo llevan ante Anás y después ante Caifás y el Sanedrín. Buscan testigos, pero sus palabras no concuerdan. Jesús calla. Cuando le preguntan si es el Cristo, responde: «Yo soy». Lo acusan de blasfemia. En el patio, Pedro niega tres veces conocerlo. Canta el gallo, Jesús lo mira y Pedro llora."
+    },
+    {
+      "subtitulo": "Ante Pilato",
+      "texto": "Al amanecer lo entregan a Pilato, el gobernador romano. Pilato no le halla ningún crimen y lo envía a Herodes, que se burla de él. La multitud pide que suelten a Barrabás. Los soldados azotan a Jesús y le ponen una corona de espinas. Pilato se lava las manos y lo entrega."
+    },
+    {
+      "subtitulo": "Camino al Gólgota",
+      "texto": "Jesús sale cargando su cruz. Los soldados obligan a Simón de Cirene a llevarla. Muchas mujeres lloran por él. En el Gólgota lo crucifican entre dos malhechores. Encima ponen un letrero: «Rey de los Judíos». Jesús ora: «Padre, perdónalos». A uno de los malhechores, arrepentido, le promete el paraíso."
+    },
+    {
+      "subtitulo": "Consumado es",
+      "texto": "Junto a la cruz está María, su madre. Jesús la confía al discípulo que él amaba. Desde el mediodía hasta las tres, hay tinieblas. Jesús clama con el Salmo 22: «Dios mío, Dios mío». Dice: «Consumado es», y entrega su espíritu al Padre. El velo del templo se rasga en dos."
+    },
+    {
+      "subtitulo": "Sepultado en un huerto",
+      "texto": "Un soldado le abre el costado con una lanza, y sale sangre y agua. José de Arimatea pide el cuerpo a Pilato. Con Nicodemo lo envuelve en lienzos con especias. Lo ponen en un sepulcro nuevo, en un huerto. Las mujeres miran dónde queda. Llega el sábado, y todo queda en silencio."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Matt", "texto": "Cuenta el terremoto, las piedras partidas y la guardia que sella el sepulcro. Muestra cómo se cumplen las Escrituras." },
+    { "libro": "Mark", "texto": "Es el relato más breve e intenso. Un centurión romano dice: «Verdaderamente este hombre era el Hijo de Dios»." },
+    { "libro": "Luke", "texto": "Solo Lucas cuenta el «Padre, perdónalos», la promesa al malhechor y «en tus manos encomiendo mi espíritu»." },
+    { "libro": "John", "texto": "Lo cuenta un testigo, el discípulo amado. Recuerda a María junto a la cruz, el «Consumado es» y el costado abierto." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Aquí se cumple lo que anunciaba Isaías 53: el siervo herido por nuestras rebeliones. Como al cordero de la Pascua, no le quiebran ningún hueso. Pedro lo explica así: Jesús llevó nuestros pecados en su cuerpo sobre el madero. La cruz muestra hasta dónde llega el amor de Dios por cada persona.",
+    "refs": ["1 Pedro 2:24", "Romanos 5:8"]
+  },
+
+  "mundo": "Roma gobierna casi todo el mar Mediterráneo bajo el emperador Tiberio. La crucifixión es su castigo para esclavos y rebeldes. Jerusalén está llena de peregrinos que celebran la Pascua.",
+
+  "antes": "Jesús entró en Jerusalén, enseñó en el templo y celebró la última cena con sus discípulos.",
+  "despues": "Al tercer día, unas mujeres encuentran el sepulcro vacío: ¡Jesús ha resucitado!",
+
+  "conexiones": [
+    { "ref": "Salmos 22:1", "motivo": "Jesús ora en la cruz con las palabras de este salmo." },
+    { "ref": "Isaías 53:12", "motivo": "El siervo fue contado con los malhechores y oró por los culpables." },
+    { "ref": "Éxodo 12:46", "motivo": "Al cordero de la Pascua no se le quebraba ningún hueso." },
+    { "ref": "Hechos 7:60", "motivo": "Esteban muere perdonando a quienes lo apedrean, como su Señor." }
+  ],
+
+  "glosario": ["getsemani", "sanedrin", "golgota", "crucifixion", "velo-del-templo"],
+
+  "paraTuVida": {
+    "aplicacion": "Hoy piensa en alguien que te hirió y pide a Dios fuerzas para perdonarlo, como Jesús en la cruz.",
+    "pregunta": "¿Qué significa para ti que Jesús diera su vida por ti?"
+  },
+
+  "meditar": "Señor Jesús, gracias por amarme hasta la cruz. Cuando falle como Pedro, mírame con tu misericordia. Enséñame a perdonar como tú perdonaste. Amén.",
+
+  "ninos": {
+    "pregunta": "Jesús perdonó incluso a quienes le hacían daño. ¿A quién puedes perdonar tú hoy?",
+    "actividad": "Dibuja una cruz y, alrededor, corazones con los nombres de personas que Jesús ama."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Dónde oró Jesús antes de ser arrestado?",
+      "opciones": ["En el huerto de Getsemaní", "En el templo de Jerusalén", "En la casa de Pilato"],
+      "correcta": 0,
+      "explicacion": "En Getsemaní oró: «no como yo quiero, sino como tú» (Mateo 26:39).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Quién llevó la cruz de Jesús por el camino?",
+      "opciones": ["Pedro, el pescador", "Simón de Cirene", "José de Arimatea"],
+      "correcta": 1,
+      "explicacion": "Los soldados obligaron a Simón de Cirene, que venía del campo, a llevarla (Marcos 15:21).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué salmo recuerda Jesús al clamar «Dios mío, Dios mío»?",
+      "opciones": ["El Salmo 23", "El Salmo 1", "El Salmo 22"],
+      "correcta": 2,
+      "explicacion": "El Salmo 22 empieza con ese clamor y termina con esperanza y alabanza.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Luke.22", "Luke.23", "John.19"], "minutos": 20 },
+
+  "notaEcumenica": "Católicos y evangélicos confiesan juntos que Cristo murió por nuestros pecados. Muchas comunidades meditan el Viernes Santo las «siete palabras» de Jesús en la cruz.",
+
+  "temas": ["cruz", "perdon", "amor-de-dios", "cordero", "sufrimiento", "profecia-cumplida"],
+  "cadenas": ["el-cordero", "el-siervo-sufriente"]
+}
