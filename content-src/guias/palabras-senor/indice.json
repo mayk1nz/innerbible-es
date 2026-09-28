@@ -1,0 +1,521 @@
+{
+  "guia": "palabras-senor",
+  "secciones": [
+    {
+      "id": "comienza-aqui",
+      "titulo": "Comienza aquí",
+      "lecciones": [
+        {
+          "id": "como-usar-esta-guia",
+          "titulo": "Cómo usar esta guía",
+          "subtitulo": "Siete pasos para vivir la Palabra"
+        }
+      ]
+    },
+    {
+      "id": "perdon-y-heridas",
+      "titulo": "Perdón y heridas",
+      "lecciones": [
+        {
+          "id": "no-puedo-perdonar-a-quien-me-hirio",
+          "titulo": "Cuando no puedo perdonar a quien me hirió"
+        },
+        {
+          "id": "no-logro-perdonarme-a-mi-mismo",
+          "titulo": "Cuando no logro perdonarme a mí mismo"
+        },
+        {
+          "id": "me-piden-perdon-y-no-se-si-creerles",
+          "titulo": "Cuando me piden perdón y no sé si creerles"
+        },
+        {
+          "id": "necesito-pedir-perdon",
+          "titulo": "Cuando necesito pedir perdón"
+        },
+        {
+          "id": "el-rencor-vuelve-una-y-otra-vez",
+          "titulo": "Cuando el rencor vuelve una y otra vez"
+        },
+        {
+          "id": "me-traiciona-alguien-cercano",
+          "titulo": "Cuando me traiciona alguien cercano"
+        },
+        {
+          "id": "cargo-heridas-de-mi-infancia",
+          "titulo": "Cuando cargo heridas de mi infancia"
+        },
+        {
+          "id": "me-hirieron-en-la-iglesia",
+          "titulo": "Cuando me hirieron en la iglesia"
+        }
+      ]
+    },
+    {
+      "id": "emociones",
+      "titulo": "Emociones",
+      "lecciones": [
+        {
+          "id": "la-ira-me-domina",
+          "titulo": "Cuando la ira me domina"
+        },
+        {
+          "id": "la-ansiedad-no-me-deja-en-paz",
+          "titulo": "Cuando la ansiedad no me deja en paz"
+        },
+        {
+          "id": "vivo-con-miedo",
+          "titulo": "Cuando vivo con miedo"
+        },
+        {
+          "id": "la-tristeza-no-se-va",
+          "titulo": "Cuando la tristeza no se va"
+        },
+        {
+          "id": "creo-que-tengo-depresion",
+          "titulo": "Cuando creo que tengo depresión"
+        },
+        {
+          "id": "estoy-agotado-por-dentro",
+          "titulo": "Cuando estoy agotado por dentro"
+        },
+        {
+          "id": "siento-envidia",
+          "titulo": "Cuando siento envidia"
+        },
+        {
+          "id": "los-celos-me-quitan-la-paz",
+          "titulo": "Cuando los celos me quitan la paz"
+        }
+      ]
+    },
+    {
+      "id": "identidad",
+      "titulo": "Identidad y autoestima",
+      "lecciones": [
+        {
+          "id": "no-me-gusta-quien-soy",
+          "titulo": "Cuando no me gusta quien soy"
+        },
+        {
+          "id": "me-siento-incapaz",
+          "titulo": "Cuando me siento incapaz"
+        },
+        {
+          "id": "me-comparo-con-los-demas",
+          "titulo": "Cuando me comparo con los demás"
+        },
+        {
+          "id": "me-rechazan-o-me-abandonan",
+          "titulo": "Cuando me rechazan o me abandonan"
+        },
+        {
+          "id": "cometo-el-mismo-error-otra-vez",
+          "titulo": "Cuando cometo el mismo error otra vez"
+        },
+        {
+          "id": "me-siento-vacio",
+          "titulo": "Cuando me siento vacío"
+        },
+        {
+          "id": "me-siento-solo",
+          "titulo": "Cuando me siento solo"
+        },
+        {
+          "id": "necesito-que-todos-me-aprueben",
+          "titulo": "Cuando necesito que todos me aprueben"
+        }
+      ]
+    },
+    {
+      "id": "pareja",
+      "titulo": "Matrimonio y pareja",
+      "lecciones": [
+        {
+          "id": "peleamos-todo-el-tiempo",
+          "titulo": "Cuando peleamos todo el tiempo"
+        },
+        {
+          "id": "el-amor-parece-enfriarse",
+          "titulo": "Cuando el amor parece enfriarse"
+        },
+        {
+          "id": "mi-pareja-no-comparte-mi-fe",
+          "titulo": "Cuando mi pareja no comparte mi fe"
+        },
+        {
+          "id": "hubo-infidelidad",
+          "titulo": "Cuando hubo infidelidad"
+        },
+        {
+          "id": "el-dinero-nos-divide",
+          "titulo": "Cuando el dinero nos divide"
+        },
+        {
+          "id": "busco-pareja-y-quiero-elegir-bien",
+          "titulo": "Cuando busco pareja y quiero elegir bien"
+        },
+        {
+          "id": "estoy-soltero-y-espero",
+          "titulo": "Cuando estoy soltero y espero"
+        },
+        {
+          "id": "la-tentacion-amenaza-mi-matrimonio",
+          "titulo": "Cuando la tentación amenaza mi matrimonio"
+        }
+      ]
+    },
+    {
+      "id": "familia",
+      "titulo": "Hijos y familia",
+      "lecciones": [
+        {
+          "id": "mi-hijo-se-aleja-o-se-rebela",
+          "titulo": "Cuando mi hijo se aleja o se rebela"
+        },
+        {
+          "id": "quiero-ensenar-la-fe-a-mis-hijos",
+          "titulo": "Cuando quiero enseñar la fe a mis hijos"
+        },
+        {
+          "id": "mis-padres-son-dificiles",
+          "titulo": "Cuando mis padres son difíciles"
+        },
+        {
+          "id": "mi-familia-no-entiende-mi-fe",
+          "titulo": "Cuando mi familia no entiende mi fe"
+        },
+        {
+          "id": "hay-peleas-constantes-en-casa",
+          "titulo": "Cuando hay peleas constantes en casa"
+        },
+        {
+          "id": "necesito-poner-limites",
+          "titulo": "Cuando necesito poner límites"
+        },
+        {
+          "id": "cuido-a-mis-padres-ancianos",
+          "titulo": "Cuando cuido a mis padres ancianos"
+        },
+        {
+          "id": "vivo-lejos-de-mi-familia",
+          "titulo": "Cuando vivo lejos de mi familia"
+        }
+      ]
+    },
+    {
+      "id": "amistades",
+      "titulo": "Amistades y convivencia",
+      "lecciones": [
+        {
+          "id": "una-amistad-me-aleja-de-dios",
+          "titulo": "Cuando una amistad me aleja de Dios"
+        },
+        {
+          "id": "tengo-que-confrontar-a-alguien",
+          "titulo": "Cuando tengo que confrontar a alguien"
+        },
+        {
+          "id": "siento-que-me-utilizan",
+          "titulo": "Cuando siento que me utilizan"
+        },
+        {
+          "id": "hablan-mal-de-mi",
+          "titulo": "Cuando hablan mal de mí"
+        },
+        {
+          "id": "soy-yo-quien-habla-mal-de-otros",
+          "titulo": "Cuando soy yo quien habla mal de otros"
+        },
+        {
+          "id": "convivo-con-alguien-dificil",
+          "titulo": "Cuando convivo con alguien difícil"
+        },
+        {
+          "id": "me-cuesta-hacer-amigos",
+          "titulo": "Cuando me cuesta hacer amigos"
+        },
+        {
+          "id": "las-redes-sociales-me-roban-la-paz",
+          "titulo": "Cuando las redes sociales me roban la paz"
+        }
+      ]
+    },
+    {
+      "id": "trabajo",
+      "titulo": "Trabajo y propósito",
+      "lecciones": [
+        {
+          "id": "odio-mi-trabajo",
+          "titulo": "Cuando odio mi trabajo"
+        },
+        {
+          "id": "mi-jefe-es-injusto",
+          "titulo": "Cuando mi jefe es injusto"
+        },
+        {
+          "id": "pierdo-el-trabajo",
+          "titulo": "Cuando pierdo el trabajo"
+        },
+        {
+          "id": "fracaso-en-lo-que-emprendo",
+          "titulo": "Cuando fracaso en lo que emprendo"
+        },
+        {
+          "id": "no-se-cual-es-mi-proposito",
+          "titulo": "Cuando no sé cuál es mi propósito"
+        },
+        {
+          "id": "me-siento-estancado",
+          "titulo": "Cuando me siento estancado"
+        },
+        {
+          "id": "tengo-miedo-de-volver-a-intentarlo",
+          "titulo": "Cuando tengo miedo de volver a intentarlo"
+        },
+        {
+          "id": "me-piden-hacer-algo-incorrecto",
+          "titulo": "Cuando me piden hacer algo incorrecto"
+        }
+      ]
+    },
+    {
+      "id": "dinero",
+      "titulo": "Dinero y provisión",
+      "lecciones": [
+        {
+          "id": "el-dinero-no-alcanza",
+          "titulo": "Cuando el dinero no alcanza"
+        },
+        {
+          "id": "vivo-endeudado",
+          "titulo": "Cuando vivo endeudado"
+        },
+        {
+          "id": "temo-por-mi-futuro-economico",
+          "titulo": "Cuando temo por mi futuro económico"
+        },
+        {
+          "id": "me-va-bien-y-me-alejo-de-dios",
+          "titulo": "Cuando me va bien y me alejo de Dios"
+        },
+        {
+          "id": "no-se-administrar-lo-que-tengo",
+          "titulo": "Cuando no sé administrar lo que tengo"
+        },
+        {
+          "id": "quiero-dar-pero-tengo-poco",
+          "titulo": "Cuando quiero dar pero tengo poco"
+        },
+        {
+          "id": "me-tienta-el-dinero-facil",
+          "titulo": "Cuando me tienta el dinero fácil"
+        },
+        {
+          "id": "nunca-me-parece-suficiente",
+          "titulo": "Cuando nunca me parece suficiente"
+        }
+      ]
+    },
+    {
+      "id": "decisiones",
+      "titulo": "Decisiones y dirección",
+      "lecciones": [
+        {
+          "id": "tengo-que-tomar-una-decision-importante",
+          "titulo": "Cuando tengo que tomar una decisión importante"
+        },
+        {
+          "id": "no-se-que-camino-elegir",
+          "titulo": "Cuando no sé qué camino elegir"
+        },
+        {
+          "id": "una-puerta-se-cierra",
+          "titulo": "Cuando una puerta se cierra"
+        },
+        {
+          "id": "me-toca-esperar",
+          "titulo": "Cuando me toca esperar"
+        },
+        {
+          "id": "pienso-en-mudarme-o-emigrar",
+          "titulo": "Cuando pienso en mudarme o emigrar"
+        },
+        {
+          "id": "quiero-empezar-algo-nuevo",
+          "titulo": "Cuando quiero empezar algo nuevo"
+        },
+        {
+          "id": "recibo-consejos-que-se-contradicen",
+          "titulo": "Cuando recibo consejos que se contradicen"
+        },
+        {
+          "id": "me-presionan-para-decidir-ya",
+          "titulo": "Cuando me presionan para decidir ya"
+        }
+      ]
+    },
+    {
+      "id": "fe",
+      "titulo": "Fe y vida espiritual",
+      "lecciones": [
+        {
+          "id": "oro-y-parece-que-dios-no-responde",
+          "titulo": "Cuando oro y parece que Dios no responde"
+        },
+        {
+          "id": "mi-fe-esta-debil",
+          "titulo": "Cuando mi fe está débil"
+        },
+        {
+          "id": "me-siento-lejos-de-dios",
+          "titulo": "Cuando me siento lejos de Dios"
+        },
+        {
+          "id": "solo-oro-en-los-problemas",
+          "titulo": "Cuando solo oro en los problemas"
+        },
+        {
+          "id": "tengo-dudas-sobre-dios",
+          "titulo": "Cuando tengo dudas sobre Dios"
+        },
+        {
+          "id": "no-tengo-tiempo-para-dios",
+          "titulo": "Cuando no tengo tiempo para Dios"
+        },
+        {
+          "id": "me-cuesta-leer-la-biblia",
+          "titulo": "Cuando me cuesta leer la Biblia"
+        },
+        {
+          "id": "me-canso-del-camino-cristiano",
+          "titulo": "Cuando me canso del camino cristiano"
+        }
+      ]
+    },
+    {
+      "id": "tentacion",
+      "titulo": "Tentación y hábitos",
+      "lecciones": [
+        {
+          "id": "lucho-con-un-pecado-oculto",
+          "titulo": "Cuando lucho con un pecado oculto"
+        },
+        {
+          "id": "caigo-siempre-en-la-misma-tentacion",
+          "titulo": "Cuando caigo siempre en la misma tentación"
+        },
+        {
+          "id": "me-siento-sucio-por-dentro",
+          "titulo": "Cuando me siento sucio por dentro"
+        },
+        {
+          "id": "justifico-lo-que-se-que-esta-mal",
+          "titulo": "Cuando justifico lo que sé que está mal"
+        },
+        {
+          "id": "una-adiccion-me-domina",
+          "titulo": "Cuando una adicción me domina"
+        },
+        {
+          "id": "pierdo-el-control-con-la-comida-o-las",
+          "titulo": "Cuando pierdo el control con la comida o las compras"
+        },
+        {
+          "id": "la-pereza-me-gana",
+          "titulo": "Cuando la pereza me gana"
+        },
+        {
+          "id": "me-descubro-mintiendo",
+          "titulo": "Cuando me descubro mintiendo"
+        }
+      ]
+    },
+    {
+      "id": "dolor",
+      "titulo": "Dolor, enfermedad y pérdida",
+      "lecciones": [
+        {
+          "id": "muere-alguien-que-amo",
+          "titulo": "Cuando muere alguien que amo"
+        },
+        {
+          "id": "estoy-enfermo-hace-mucho-tiempo",
+          "titulo": "Cuando estoy enfermo hace mucho tiempo"
+        },
+        {
+          "id": "alguien-que-amo-esta-enfermo",
+          "titulo": "Cuando alguien que amo está enfermo"
+        },
+        {
+          "id": "perdi-un-embarazo",
+          "titulo": "Cuando perdí un embarazo"
+        },
+        {
+          "id": "envejezco-y-me-siento-inutil",
+          "titulo": "Cuando envejezco y me siento inútil"
+        },
+        {
+          "id": "sufro-una-injusticia",
+          "titulo": "Cuando sufro una injusticia"
+        },
+        {
+          "id": "sufro-y-no-entiendo-por-que",
+          "titulo": "Cuando sufro y no entiendo por qué"
+        },
+        {
+          "id": "pienso-que-ya-no-hay-salida",
+          "titulo": "Cuando pienso que ya no hay salida"
+        }
+      ]
+    },
+    {
+      "id": "hacedor",
+      "titulo": "Vivir como hacedor de la Palabra",
+      "lecciones": [
+        {
+          "id": "se-lo-correcto-pero-no-lo-hago",
+          "titulo": "Cuando sé lo correcto pero no lo hago"
+        },
+        {
+          "id": "sigo-actuando-como-antes",
+          "titulo": "Cuando sigo actuando como antes"
+        },
+        {
+          "id": "me-siento-hipocrita",
+          "titulo": "Cuando me siento hipócrita"
+        },
+        {
+          "id": "se-burlan-de-mi-fe",
+          "titulo": "Cuando se burlan de mi fe"
+        },
+        {
+          "id": "me-da-verguenza-mi-fe",
+          "titulo": "Cuando me da vergüenza mi fe"
+        },
+        {
+          "id": "quiero-servir-y-no-se-como",
+          "titulo": "Cuando quiero servir y no sé cómo"
+        },
+        {
+          "id": "quiero-hablar-de-jesus-sin-pelear",
+          "titulo": "Cuando quiero hablar de Jesús sin pelear"
+        },
+        {
+          "id": "quiero-una-fe-verdadera",
+          "titulo": "Cuando quiero una fe verdadera"
+        }
+      ]
+    },
+    {
+      "id": "cierre",
+      "titulo": "Cierre",
+      "lecciones": [
+        {
+          "id": "hacedores-de-la-palabra",
+          "titulo": "Hacedores de la Palabra",
+          "subtitulo": "Quien oye entiende; quien practica se transforma"
+        }
+      ]
+    }
+  ]
+}

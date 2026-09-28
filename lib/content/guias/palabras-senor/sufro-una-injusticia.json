@@ -1,0 +1,97 @@
+{
+  "id": "sufro-una-injusticia",
+  "titulo": "Cuando sufro una injusticia",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Injusticia", "Venganza"],
+  "enUnMinuto": [
+    "Dios ve lo que te hicieron y hará justicia a los que claman a Él, aunque parezca tardar.",
+    "Entregar la causa a Dios no es cruzarse de brazos: la venganza es suya, y la justicia se busca por caminos rectos.",
+    "Primer paso: dile a Dios lo que sientes y ordena los hechos."
+  ],
+  "versiculo": {
+    "texto": "¿Y Dios no hará justicia a sus escogidos, que claman a él día y noche, aunque sea longánime acerca de ellos?",
+    "referencia": "Lucas 18:7"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "A doña Rosario le quitaron su terreno con papeles falsos. El juicio lleva cuatro años. Cada vez que ve en la calle al hombre que la engañó, le hierve la sangre y piensa en vengarse."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios hará justicia a los que claman a Él día y noche, aunque parezca tardar (Lucas 18:7). La venganza le toca a Dios (Romanos 12:19). A nosotros nos toca buscar la justicia sin volvernos injustos."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores comunes. Uno es la venganza: devolver el golpe, hablar mal, desear el mal. Eso nos convierte en lo mismo que nos hirió.",
+        "El otro es creer que el cristiano debe callarse ante cualquier abuso. Eso tampoco es bíblico. Pablo reclamó sus derechos cuando lo encarcelaron sin juicio (Hechos 16:37). Y en otro juicio apeló al César (Hechos 25:11)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia distingue entre vengarse y buscar justicia. La venganza es de Dios. La justicia se busca por caminos rectos: la verdad, la ley y los jueces. También con personas que defienden al débil (Proverbios 31:8-9).",
+        "Jesús contó de una viuda que pedía justicia a un juez injusto, sin cansarse (Lucas 18:1-5). Y Él mismo, cuando sufría, no amenazaba: entregaba su causa al que juzga con justicia (1 Pedro 2:23). Mientras esperas, encomienda tu camino al Señor (Salmo 37:5-6).",
+        "José sufrió años de injusticia. Al final pudo decir a sus hermanos que ellos pensaron mal, pero Dios lo encaminó a bien (Génesis 50:20). Eso no hace bueno el mal. Muestra que Dios tiene la última palabra."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe los hechos con fechas y guarda documentos, fotos y mensajes.",
+        "Busca asesoría legal; en muchos lugares hay defensorías y abogados gratuitos (Proverbios 31:8-9).",
+        "Cuando sientas deseos de venganza, díselo a Dios con honestidad, como en los salmos (Salmo 37:1-7).",
+        "Ora por quien te hizo daño, aunque sea con pocas palabras (Mateo 5:44).",
+        "Rodéate de personas que den buen consejo y no alimenten el rencor."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Busco justicia, o busco que el otro sufra?",
+        "¿Estoy usando caminos rectos, o me tienta hacer trampa también?",
+        "¿Qué parte de esta carga necesito entregarle hoy a Dios?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy escribe una carta a Dios. Cuéntale la injusticia con todos los detalles y lo que sientes. Termínala con esta frase: “Pongo mi causa en tus manos”. Guárdala y vuelve a leerla cuando llegue la rabia. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José fue vendido por sus hermanos y encarcelado por una mentira, sin haber hecho nada malo. Lee su ficha «José» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la injusticia es violencia, abuso o amenaza, tu seguridad va primero. Busca hoy a alguien de confianza y denuncia ante las autoridades. En peligro, llama al número de emergencias. Perdonar no significa quedarte en peligro, y poner límites también es bíblico."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Pedro 2:21-23", "nota": "Jesús pone su causa en manos del Padre." },
+        { "ref": "Salmo 37:1-7", "nota": "Encomienda al Señor tu camino." },
+        { "ref": "Lucas 18:1-8", "nota": "La viuda que pedía justicia." },
+        { "ref": "Génesis 50:15-21", "nota": "José ve la mano de Dios." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú ves lo que me hicieron. Me duele y me enoja. Guárdame de la venganza y dame valor para buscar justicia por caminos rectos. Pongo mi causa en tus manos. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50", "1-pedro"],
+  "buscar": "justicia"
+}

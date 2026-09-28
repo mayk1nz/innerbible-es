@@ -1,0 +1,93 @@
+{
+  "id": "oro-y-parece-que-dios-no-responde",
+  "titulo": "Cuando oro y parece que Dios no responde",
+  "etiquetas": ["Fe y vida espiritual", "Oración", "Silencio de Dios"],
+  "enUnMinuto": [
+    "La Biblia está llena de personas que oraron y sintieron silencio, como David en el Salmo 13.",
+    "El silencio de Dios no es su ausencia: puedes decirle con honestidad lo que sientes y seguir confiando.",
+    "Primer paso: ora hoy con tus propias palabras, aunque sean una queja."
+  ],
+  "versiculo": {
+    "texto": "Mas yo en tu misericordia he confiado: alegraráse mi corazón en tu salud.",
+    "referencia": "Salmos 13:5"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hace un año que Gloria ora para que su esposo consiga un trabajo estable en Medellín. Ora en la mañana, ora en la misa del domingo, hace promesas. Nada cambia. Una vecina le dijo que quizás le falta fe, y eso la hirió todavía más."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Puedes preguntarle a Dios hasta cuándo, y seguir confiando en su amor. Así oró David: empezó con una queja y terminó cantando (Salmo 13:1-6)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es pensar que Dios no responde porque no oramos lo suficiente o porque nos falta fe. La oración no es una máquina en la que más palabras dan más resultados. Jesús enseñó que no somos oídos por hablar mucho, porque el Padre ya sabe lo que necesitamos (Mateo 6:7-8).",
+        "Otro error es dejar de orar por cansancio o por enojo. O fingir ante Dios que todo está bien. Dios prefiere tu verdad a tus frases bonitas."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "David le preguntó a Dios hasta cuándo lo iba a olvidar y a esconder su rostro. No disimuló su angustia. Pero en el mismo salmo dijo que confiaba en la misericordia de Dios (Salmo 13:1-5). La fe honesta cabe en una oración con lágrimas.",
+        "Jesús contó una parábola para enseñar que hay que orar siempre y no desanimarse (Lucas 18:1). Y cuando no sabemos qué pedir, el Espíritu mismo ora por nosotros (Romanos 8:26).",
+        "Dios responde de muchas formas. A veces con un sí, a veces con un espera, a veces con algo distinto de lo que pedimos. Pablo pidió tres veces que se le quitara un sufrimiento. Dios le dio su gracia para sostenerlo (2 Corintios 12:8-9)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Dile a Dios exactamente cómo te sientes, aunque sea una queja (Salmo 13:1-2).",
+        "Sigue orando, no para convencer a Dios, sino para estar con Él (Lucas 18:1).",
+        "Pide a una o dos personas de confianza que oren contigo por lo mismo.",
+        "Anota tus peticiones con la fecha. Con el tiempo verás respuestas que hoy no ves.",
+        "Termina cada oración con una frase de confianza, como David (Salmo 13:5)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy orando solo para que Dios haga lo que quiero, o también para conocerlo más?",
+        "¿Me he creído la idea de que Dios no responde porque me falta fe?",
+        "¿Con quién podría compartir esta carga para no orar solo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy una oración de cuatro líneas, como el Salmo 13. En las dos primeras, dile a Dios con honestidad lo que te duele. En las dos últimas, dile que confías en su amor. Léela en voz alta. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Ana oró durante años por un hijo, con lágrimas y en silencio, mientras otros la malinterpretaban. Lee «Ana» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 13:1-6", "nota": "De la queja a la confianza." },
+        { "ref": "Lucas 18:1-8", "nota": "Orar siempre y no desanimarse." },
+        { "ref": "Romanos 8:26-27", "nota": "El Espíritu ora por nosotros." },
+        { "ref": "2 Corintios 12:7-10", "nota": "Cuando Dios responde con su gracia." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, te he pedido tanto y no veo respuesta. Me duele tu silencio. Pero no me voy a alejar de ti. Confío en tu misericordia, aunque no entienda. Dame paz mientras espero. Amén."
+    }
+  ],
+  "estudio": ["salmos"],
+  "buscar": "oración"
+}

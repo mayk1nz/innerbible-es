@@ -1,0 +1,97 @@
+{
+  "id": "me-hirieron-en-la-iglesia",
+  "titulo": "Cuando me hirieron en la iglesia",
+  "etiquetas": ["Perdón y heridas", "Iglesia", "Comunidad"],
+  "enUnMinuto": [
+    "Te hirieron personas imperfectas, no Cristo: Él no quiebra la caña que ya está cascada.",
+    "El camino es sanar la herida sin soltar a Jesús, hablar con verdad y volver, a tu ritmo, a caminar con hermanos.",
+    "Primer paso: separa lo que te hizo una persona de lo que Jesús es para ti."
+  ],
+  "versiculo": {
+    "texto": "No quebrará la caña cascada, ni apagará el pábilo que humeare: sacará el juicio a verdad.",
+    "referencia": "Isaías 42:3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Octavio cantó en el coro durante diez años. Cuando su hijo cayó en las drogas, alguien de la iglesia comentó que era por falta de oración en su casa. Otros dejaron de saludarlo. Hace un año que Octavio no va, aunque todavía ora solo en su cuarto."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús no quiebra la caña cascada ni apaga la mecha que apenas humea (Isaías 42:3; Mateo 12:20). Las personas pueden herirte, pero Cristo sigue siendo manso y fiel contigo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Pensar: “Si la gente de Dios me hizo esto, Dios también me falló”, y soltar la fe entera. O decir: “Todas las iglesias son iguales”.",
+        "El otro error es seguir yendo con el corazón amargado, o contar la historia a todos menos a quien corresponde. En los dos casos, la herida sigue abierta y uno se va quedando solo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Ana fue a orar al santuario con el alma rota. El sacerdote Elí la vio y pensó que estaba borracha (1 Samuel 1:13-14). Ana no se fue ofendida para siempre. Le respondió con verdad y humildad, y Elí la bendijo (1 Samuel 1:15-17).",
+        "Jesús enseña a hablar en privado con quien nos ofendió. Si no escucha, se busca a una o dos personas más (Mateo 18:15-16). La Biblia también pide a los pastores cuidar al rebaño sin dominarlo (1 Pedro 5:2-3). Cuando alguien hiere, eso no refleja el corazón de Dios.",
+        "Cuando muchos se alejaron, Pedro le dijo a Jesús: «Señor, ¿a quién iremos? tú tienes palabras de vida eterna» (Juan 6:68). La Biblia nos anima a no dejar de congregarnos (Hebreos 10:25). Volver puede llevar tiempo, y está bien."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Separa a Jesús de quienes te hirieron. Escribe: “Esto me lo hizo una persona, no Cristo”.",
+        "No sueltes la oración ni la Palabra, aunque por ahora las vivas a solas (Juan 6:68).",
+        "Si es posible y seguro, habla en privado con quien te hirió (Mateo 18:15).",
+        "Si no te escucha, busca a una persona madura o a un pastor o sacerdote de confianza (Mateo 18:16).",
+        "Da un paso pequeño para volver a tener hermanos: un grupo, una misa o un culto, un café (Hebreos 10:24-25)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy culpando a Dios por lo que hizo una persona?",
+        "¿He hablado de esto con quien me hirió, o solo con otros?",
+        "¿Qué necesito para dar un solo paso pequeño de regreso?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Busca un canto que te gustaba cantar en la iglesia antes de la herida. Escúchalo o cántalo hoy a solas, como una oración a Jesús. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Ana fue juzgada mal por el sacerdote mientras oraba, y no dejó la casa de Dios. Lee su ficha, «Ana», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sufriste abuso sexual, físico o económico en un ambiente religioso, o un control que te dañaba? Eso no es una simple herida. Es abuso, y no fue tu culpa. Busca ayuda profesional y, si corresponde, denúncialo ante las autoridades. Buscar justicia no es atacar a la fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Samuel 1:9-18", "nota": "Ana, juzgada mal mientras oraba." },
+        { "ref": "Isaías 42:1-4", "nota": "El Siervo que no quiebra la caña cascada." },
+        { "ref": "Mateo 18:15-17", "nota": "Cómo hablar con quien nos ofendió." },
+        { "ref": "Juan 6:66-69", "nota": "¿A quién iremos?" }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, me duele lo que viví entre tu gente. Tú no me quebraste; me sostienes. Sana mi herida y guárdame de la amargura. Dame valor para hablar con verdad, y llévame de nuevo a caminar con hermanos. Amén."
+    }
+  ],
+  "estudio": ["1-samuel"],
+  "buscar": "iglesia"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "timoteo",
+  "titulo": "Timoteo",
+  "subtitulo": "Cuando eres joven, tímido y te toca liderar",
+  "etiquetas": ["Timidez", "Responsabilidad", "La Iglesia", "Siglo I d.C."],
+  "enUnMinuto": [
+    "Timoteo era joven, de salud frágil y, según parece, de carácter tímido, y le tocó cuidar iglesias con problemas difíciles.",
+    "Pablo lo animó a no dejar que nadie despreciara su juventud y a despertar el don que Dios le había dado.",
+    "Dios no nos ha dado espíritu de temor, sino de fortaleza, de amor y de templanza."
+  ],
+  "versiculo": {
+    "texto": "Ninguno tenga en poco tu juventud; pero sé ejemplo de los fieles en palabra, en conversación, en caridad, en espíritu, en fe, en limpieza.",
+    "referencia": "1 Timoteo 4:12"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás te pusieron una responsabilidad que te queda grande. Dirigir un grupo, cuidar a tu familia, hablar en público, tomar decisiones. Eres joven, o te sientes sin experiencia, y temes que nadie te respete. Te cuesta levantar la voz. Por dentro piensas: “Otro lo haría mejor que yo”."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Timoteo vivía en Listra. Su madre era judía creyente y su padre era griego. Los hermanos de la región hablaban bien de él, y Pablo lo invitó a acompañarlo en sus viajes (Hechos 16:1-3). Desde niño conocía las Sagradas Escrituras (2 Timoteo 3:15). Su fe había vivido primero en su abuela Loida y en su madre Eunice (2 Timoteo 1:5).",
+        "Pablo lo envió a animar a iglesias que sufrían, como la de Tesalónica (1 Tesalonicenses 3:2). Lo mandó a Corinto y pidió a los hermanos que lo recibieran sin que tuviera temor. «Nadie le tenga en poco», les escribió (1 Corintios 16:10-11).",
+        "Después, Pablo lo dejó en Éfeso para corregir a quienes enseñaban cosas falsas (1 Timoteo 1:3). No era una tarea fácil. Además, Timoteo tenía «continuas enfermedades» del estómago (1 Timoteo 5:23). Pablo recordaba sus lágrimas (2 Timoteo 1:4)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "La Biblia no cuenta lo que Timoteo pensaba. Pero las cartas de Pablo dejan ver su lucha. Le pide no avergonzarse (2 Timoteo 1:8). Y le recuerda que «no nos ha dado Dios el espíritu de temor» (2 Timoteo 1:7). Podemos imaginar a un joven sensible, con miedo de fallar y de no ser respetado, frente a personas mayores y difíciles."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Timoteo no se volvió de repente alguien fuerte y seguro. Decidió quedarse y servir, con su timidez y con sus enfermedades. Pablo dijo de él: «a ninguno tengo tan unánime» (Filipenses 2:20). Y añadió que había servido con él «como hijo a padre» (Filipenses 2:22).",
+        "No lideró con gritos ni con títulos, sino con ejemplo. Pablo le pidió ser ejemplo en palabra, en amor, en fe y en limpieza (1 Timoteo 4:12). Al final de su vida, preso, Pablo lo llamó a su lado: «Procura venir presto a mí» (2 Timoteo 4:9). Timoteo también estuvo preso por su fe, y fue liberado (Hebreos 13:23)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Recuerda de dónde viene tu fe. La abuela y la madre de Timoteo sembraron en él (2 Timoteo 1:5). Agradece a quienes te enseñaron a creer.",
+        "Despierta el don que Dios te dio. No esperes a sentirte listo para usarlo (2 Timoteo 1:6; 1 Timoteo 4:14).",
+        "Lidera con tu ejemplo más que con tu voz: palabra, amor, fe y pureza (1 Timoteo 4:12).",
+        "Busca un mentor y no camines solo. Timoteo aprendió al lado de Pablo, y luego enseñó a otros (2 Timoteo 2:1-2)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Pablo le dijo a Timoteo: «esfuérzate en la gracia que es en Cristo Jesús» (2 Timoteo 2:1). No en su propia fuerza, sino en la gracia de Jesús. Jesús también eligió a jóvenes sin experiencia y los formó con paciencia. Él no te pide ser valiente por tu cuenta: te da su Espíritu de fortaleza, de amor y de templanza."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tu timidez no te descalifica, y tu edad tampoco. Dios puede usar tu manera tranquila de ser. Esta semana: antes de la tarea que te da miedo, lee en voz alta 2 Timoteo 1:7. Luego pide consejo a una persona madura en la fe que te acompañe. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Hechos 16:1-5", "nota": "Pablo conoce a Timoteo en Listra." },
+        { "ref": "1 Corintios 16:10-11", "nota": "«Nadie le tenga en poco»." },
+        { "ref": "Filipenses 2:19-22", "nota": "Un hijo fiel en el evangelio." },
+        { "ref": "1 Timoteo 4:12-16", "nota": "Sé ejemplo y no descuides tu don." },
+        { "ref": "2 Timoteo 1:3-8", "nota": "La fe de su abuela y su madre, y el espíritu de fortaleza." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me siento pequeño para lo que me pides. Tú no me diste espíritu de temor, sino de fortaleza, de amor y de templanza. Despierta el don que pusiste en mí. Ayúdame a servir con humildad y con valor. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Qué responsabilidad te ha tocado que sentías demasiado grande?",
+        "¿Quién sembró la fe en tu vida, como Loida y Eunice en Timoteo?",
+        "¿Cómo podemos animar a los jóvenes de nuestra comunidad para que nadie los tenga en poco?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaba la abuela de Timoteo?",
+      "opciones": ["Loida", "Eunice", "Priscila"],
+      "correcta": 0,
+      "explicacion": "Pablo recuerda la fe de su abuela Loida y de su madre Eunice (2 Timoteo 1:5)."
+    },
+    {
+      "pregunta": "¿Qué espíritu dice Pablo que Dios no nos ha dado?",
+      "opciones": ["El de amor", "El de temor", "El de fortaleza"],
+      "correcta": 1,
+      "explicacion": "Dios no nos dio espíritu de temor, sino de fortaleza, amor y templanza (2 Timoteo 1:7)."
+    },
+    {
+      "pregunta": "¿En qué ciudad dejó Pablo a Timoteo para corregir falsas enseñanzas?",
+      "opciones": ["En Jerusalén", "En Roma", "En Éfeso"],
+      "correcta": 2,
+      "explicacion": "Pablo le rogó que se quedara en Éfeso (1 Timoteo 1:3)."
+    }
+  ],
+  "estudio": ["1-timoteo", "2-timoteo"],
+  "buscar": "Timoteo"
+}

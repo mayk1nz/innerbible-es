@@ -100,6 +100,10 @@ export function GuiaLesson({ guia, lessonId, scale }: { guia: string; lessonId: 
           </figure>
         )}
 
+        {/* A care note that opens the lesson (crisis situations) is shown on both levels:
+            safety first, even for whoever only reads the minute. */}
+        {nivel === 'minuto' && l.bloques[0]?.tipo === 'nota' && <BloqueView b={l.bloques[0]} />}
+
         {nivel === 'minuto' ? (
           <button
             type="button"

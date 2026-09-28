@@ -1,0 +1,96 @@
+{
+  "id": "hay-peleas-constantes-en-casa",
+  "titulo": "Cuando hay peleas constantes en casa",
+  "etiquetas": ["Hijos y familia", "Conflictos", "Paz en casa"],
+  "enUnMinuto": [
+    "Una casa en paz vale más que una casa llena de cosas y de gritos.",
+    "La Biblia enseña que las peleas nacen en el corazón y que la respuesta suave las apaga.",
+    "Primer paso: cambia tu parte en la próxima discusión: baja la voz y escucha antes de responder."
+  ],
+  "versiculo": {
+    "texto": "Mejor es un bocado seco, y en paz, que la casa de contienda llena de víctimas.",
+    "referencia": "Proverbios 17:1"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "En casa de doña Amparo, cada comida termina en gritos. El yerno y el hijo discuten por dinero, los nietos se encierran en el cuarto y ella llora en la cocina. Nadie recuerda cómo empezó, pero todos están cansados. Amparo piensa que su familia ya no tiene arreglo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios valora la paz del hogar más que la abundancia (Proverbios 17:1). Y las peleas nacen de los deseos que luchan dentro de nosotros (Santiago 4:1)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es buscar al culpable: “Si él cambiara, habría paz”. Entonces cada uno espera que el otro dé el primer paso. Otros responden al grito con otro grito, o se esconden y guardan rencor. Así la pelea no termina. Solo cambia de forma."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Santiago pregunta de dónde vienen los pleitos, y responde: de nuestros propios deseos (Santiago 4:1). Antes de mirar al otro, pregúntate qué quieres tú en esa pelea. ¿Tener razón? ¿Ser respetado? ¿Controlar? Ponerle nombre ayuda a calmarlo.",
+        "La respuesta suave quita la ira, y la palabra áspera la hace subir (Proverbios 15:1). No puedes controlar a toda tu familia, pero sí puedes cambiar tu tono. Muchas veces basta con que uno deje de gritar para que baje la temperatura.",
+        "Jesús llamó bienaventurados a los pacificadores (Mateo 5:9). Pacificar no es callarlo todo. Es buscar el momento y la forma de hablar. A veces lo más sabio es hacer una pausa y volver al tema cuando todos estén tranquilos."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pregúntate qué deseo tuyo está detrás de las peleas (Santiago 4:1).",
+        "Cuando suba el tono, baja tú la voz. Responde con suavidad (Proverbios 15:1).",
+        "Si la discusión se sale de control, propón una pausa: “Hablemos cuando estemos calmados”.",
+        "Busca un momento tranquilo para hablar del problema de fondo, no de quién gritó más.",
+        "Oren juntos, aunque sea una vez por semana, pidiendo paz para la casa (Mateo 5:9)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuál es mi parte en las peleas de mi casa?",
+        "¿Respondo al grito con otro grito?",
+        "¿Qué estoy buscando de verdad cuando discuto?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Prepara hoy una comida sencilla y siéntense juntos, sin televisión ni celulares. Esa mesa tiene una sola regla: esta noche no se habla de problemas. Es tu «bocado seco, y en paz»."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jacob y Esaú vivieron años de pelea familiar, y al final se abrazaron llorando (Génesis 33:4). Lee su ficha, «Jacob y Esaú», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si en tu casa hay golpes, amenazas o miedo, eso ya no es una simple pelea. Tu seguridad y la de los niños van primero. Perdonar no es seguir en peligro. Busca hoy a alguien de confianza, tu pastor o sacerdote o un profesional. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 4:1-3", "nota": "De dónde vienen los pleitos." },
+        { "ref": "Proverbios 15:1-4", "nota": "La respuesta suave." },
+        { "ref": "Mateo 5:9", "nota": "Bienaventurados los pacificadores." },
+        { "ref": "Génesis 33:1-4", "nota": "Dos hermanos se reconcilian." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, trae paz a mi casa. Empieza por mi corazón y por mi boca. Enséñame a responder con suavidad y a escuchar antes de hablar. Sana lo que nos separa y únenos otra vez. Amén."
+    }
+  ],
+  "estudio": ["proverbios", "santiago"],
+  "buscar": "contienda"
+}

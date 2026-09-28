@@ -1,0 +1,93 @@
+{
+  "id": "recibo-consejos-que-se-contradicen",
+  "titulo": "Cuando recibo consejos que se contradicen",
+  "etiquetas": ["Decisiones y dirección", "Consejo", "Discernimiento"],
+  "enUnMinuto": [
+    "Buscar consejo es bíblico, pero no todos los consejos pesan igual.",
+    "El buen consejo está de acuerdo con la Palabra y tiene los frutos de la sabiduría que viene de Dios.",
+    "Primer paso: escribe cada consejo y pregúntate de quién viene y qué lo motiva."
+  ],
+  "versiculo": {
+    "texto": "Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman.",
+    "referencia": "Proverbios 15:22"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Patricia vive con su esposo y sus hijos en la casa de su suegra, en Cochabamba. Quiere mudarse. Su mamá le dice que se vaya ya. Su suegra dice que sería una ingratitud. Una amiga le dice que ore y no haga nada. Patricia termina cada conversación más confundida."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Los planes se afirman con muchos consejeros (Proverbios 15:22). Pero la última palabra la tiene Dios, y su sabiduría se reconoce por sus frutos (Santiago 3:17)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error común es hacerle caso al último que habló, o al que habla más fuerte. Otro es preguntar a mucha gente hasta encontrar a alguien que nos diga lo que ya queríamos hacer. Eso no es buscar consejo: es buscar permiso.",
+        "El rey Roboam pidió consejo a los ancianos y a los jóvenes. Los ancianos le aconsejaron servir al pueblo y hablarle con bondad. Él prefirió a sus amigos, que le decían lo que quería oír. Y el reino se dividió (1 Reyes 12:6-16)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Primero, pon cada consejo frente a la Palabra. Si un consejo te pide mentir, vengarte o hacer daño, no viene de Dios, aunque lo diga alguien querido (Salmo 1:1).",
+        "Segundo, mira el fruto. Santiago describe la sabiduría que viene de lo alto: pura, pacífica, amable, llena de misericordia y sin hipocresía (Santiago 3:17). El consejo que nace del enojo, del miedo o de la conveniencia suele verse distinto.",
+        "Tercero, pregúntate quién gana con cada consejo. Todos tenemos intereses, aun sin querer. La primera versión de una historia parece justa, hasta que llega la otra parte y la examina (Proverbios 18:17)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe cada consejo en una línea, con el nombre de quien te lo dio.",
+        "Al lado, anota si esa persona gana o pierde algo con tu decisión.",
+        "Tacha lo que vaya contra la Biblia. Subraya lo que tenga paz, misericordia y verdad (Santiago 3:17).",
+        "Muestra la lista a una persona madura y neutral, como tu pastor o sacerdote.",
+        "Ora con la lista delante de Dios y decide tú. Nadie más cargará con tu decisión."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy buscando consejo o buscando a alguien que me dé la razón?",
+        "¿Qué consejo me molesta, y por qué me molesta?",
+        "¿Cuál de estos consejos se parece más al carácter de Jesús?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Lee hoy Santiago 3:13-18. Después, junto a cada consejo que recibiste, marca cuántas de estas señales tiene: paz, misericordia, verdad y humildad. Quédate con el que tenga más, y llévalo a la oración."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Los hombres de David le dijeron que Dios le entregaba a Saúl para matarlo. David escuchó su conciencia delante de Dios y no lo hizo (1 Samuel 24:4-7). Lee «David, perseguido» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Reyes 12:1-16", "nota": "Roboam y los dos consejos." },
+        { "ref": "Santiago 3:13-18", "nota": "Cómo es la sabiduría de lo alto." },
+        { "ref": "1 Samuel 24:1-7", "nota": "David ante un mal consejo." },
+        { "ref": "Proverbios 12:15", "nota": "El sabio escucha el consejo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me dicen muchas cosas distintas y estoy confundido. Tú me conoces mejor que nadie. Ayúdame a distinguir lo que viene de ti. Líbrame de buscar solo lo que quiero oír. Dame tu paz para decidir. Amén."
+    }
+  ],
+  "estudio": ["1-reyes-12-22"],
+  "buscar": "consejo"
+}

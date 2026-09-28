@@ -1,0 +1,91 @@
+{
+  "id": "me-va-bien-y-me-alejo-de-dios",
+  "titulo": "Cuando me va bien y me alejo de Dios",
+  "etiquetas": ["Dinero y provisión", "Abundancia", "Gratitud"],
+  "enUnMinuto": [
+    "Cuando las cosas van bien, es fácil olvidar a Dios sin darse cuenta.",
+    "La Biblia advierte que la abundancia puede enfriar el corazón, y enseña a vivirla con gratitud.",
+    "Hoy devuelve a tu agenda el tiempo con Dios y con tu familia."
+  ],
+  "versiculo": {
+    "texto": "En sus pastos se hartaron, hartáronse, y ensoberbeciose su corazón: por esta causa se olvidaron de mí.",
+    "referencia": "Oseas 13:6"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Óscar abrió un taller de muebles en Asunción, y hoy tiene seis empleados. Trabaja de lunes a domingo. Hace meses que no va a la iglesia ni ora con su familia. No está en contra de Dios; simplemente, ya no tiene tiempo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Oseas describe lo que pasa cuando sobra: el corazón se llena y se olvida de Dios (Oseas 13:6). Por eso Dios advirtió: cuando comas y te sacies, no te olvides del Señor (Deuteronomio 8:10-14). Todo lo que tienes viene de Él. La abundancia se vive con gratitud y generosidad (1 Timoteo 6:17-18)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error no suele ser un gran pecado. Es un olvido lento: una oración que se salta, un domingo que se pierde. Poco a poco uno empieza a pensar que todo lo logró solo (Deuteronomio 8:17). Y el corazón se endurece sin notarlo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús contó la historia de un rico que solo pensaba en agrandar sus graneros (Lucas 12:16-21). No era malo trabajar ni cosechar. El problema era vivir para sí, sin ser rico para con Dios. La vida no depende de la abundancia de los bienes (Lucas 12:15).",
+        "Pablo pide a los que tienen más que no pongan su esperanza en las riquezas, sino en Dios. Y que sean ricos en buenas obras, generosos y dispuestos a compartir (1 Timoteo 6:17-18). La gratitud y la generosidad mantienen el corazón cerca de Dios."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Reconoce ante Dios que te alejaste, sin excusas. El Padre sale corriendo a recibir al que vuelve (Lucas 15:20).",
+        "Separa un tiempo fijo con Dios cada día, como separas tus citas de trabajo.",
+        "Da gracias en voz alta por lo que tienes, en la mesa, con tu familia.",
+        "Revisa tus horarios: el descanso, la familia y la fe también son tu responsabilidad.",
+        "Comparte con generosidad tus bienes, tu tiempo y tus oportunidades (1 Timoteo 6:18)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuándo fue la última vez que oré sin pedir nada?",
+        "¿Creo, en el fondo, que todo lo logré yo solo?",
+        "¿Mi familia me ve más cerca de Dios o más cerca del trabajo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Abre tu agenda hoy y anota dos citas para esta semana: una con Dios y otra con tu familia. Pon el día, la hora y el lugar. Dales el mismo valor que a tu cliente más importante."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "David estaba en su mejor momento. Su ejército salió a la guerra, pero él se quedó en casa, y cayó (2 Samuel 11:1-4). La comodidad le hizo bajar la guardia. Lee «David, después de caer» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Deuteronomio 8:10-18", "nota": "No te olvides del Señor en la abundancia." },
+        { "ref": "Lucas 12:15-21", "nota": "El rico que agrandó sus graneros." },
+        { "ref": "1 Timoteo 6:17-19", "nota": "Ricos en buenas obras." },
+        { "ref": "Proverbios 30:7-9", "nota": "Ni pobreza ni riquezas." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me has dado mucho y me alejé de ti. Perdona mi olvido. Todo lo que tengo viene de tus manos. Vuelve a ser el centro de mi vida, de mi casa y de mi trabajo. Hazme generoso. Amén."
+    }
+  ],
+  "estudio": ["deuteronomio"],
+  "buscar": "gratitud"
+}

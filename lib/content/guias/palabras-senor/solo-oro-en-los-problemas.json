@@ -1,0 +1,93 @@
+{
+  "id": "solo-oro-en-los-problemas",
+  "titulo": "Cuando solo oro en los problemas",
+  "etiquetas": ["Fe y vida espiritual", "Oración", "Gratitud"],
+  "enUnMinuto": [
+    "Dios quiere escucharte en la crisis, pero también quiere caminar contigo en los días buenos.",
+    "La Biblia enseña a orar siempre y a dar gracias en todo, no solo cuando algo falla.",
+    "Primer paso: hoy, ora una vez sin pedir nada, solo para agradecer."
+  ],
+  "versiculo": {
+    "texto": "Estad siempre gozosos. Orad sin cesar. Dad gracias en todo; porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+    "referencia": "1 Tesalonicenses 5:16-18"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Cuando operaron a Jorge del corazón, oraba día y noche en el hospital de San Salvador. Prometió que nunca dejaría de hacerlo. Hoy está sano, trabaja y está contento. Pero hace meses que no ora. Solo se acuerda de Dios cuando algo sale mal."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios nos invita a orar sin cesar y a dar gracias en todo (1 Tesalonicenses 5:16-18). La oración es una relación de todos los días, no un número de emergencia."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Es muy humano correr a Dios en la angustia y olvidarlo en la calma. Jesús sanó a diez leprosos, y solo uno volvió a darle gracias (Lucas 17:15-17). Los otros nueve recibieron el milagro, pero no buscaron al que los sanó.",
+        "El error no es orar en los problemas: eso es bueno. El error es tratar a Dios como un servicio de urgencias. Así la fe se vuelve frágil, porque solo conocemos a Dios en el miedo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús oraba en los días buenos y en los difíciles. Se levantaba muy temprano y buscaba un lugar solitario para orar (Marcos 1:35). Para Él, orar era estar con el Padre.",
+        "David decía que oraría en la tarde, en la mañana y al mediodía (Salmo 55:17). Daniel oraba tres veces al día, como lo hacía siempre (Daniel 6:10). Por eso, cuando llegó la crisis, ya sabía a quién acudir.",
+        "No hace falta orar largo. Basta con abrirle la puerta a Dios en momentos fijos: al despertar, al comer, al acostarte. Y darle gracias por lo bueno que hoy das por hecho."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elige tres momentos fijos para orar: al despertar, al comer y al acostarte (Salmo 55:17).",
+        "En al menos uno de esos momentos, no pidas nada. Solo agradece.",
+        "Recuerda una oración que Dios respondió y dale gracias por ella, como el leproso que volvió (Lucas 17:15-16).",
+        "Pon algo que te recuerde orar: una alarma, una imagen o la Biblia a la vista.",
+        "Cuando vuelva un problema, ora también, pero como quien habla con un amigo de siempre."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuándo fue la última vez que oré sin pedir nada?",
+        "¿Qué bendiciones de hoy estoy dando por hechas?",
+        "¿Conozco a Dios, o solo sé pedirle cosas?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Pon hoy una alarma en tu celular para el mediodía, con el nombre “Gracias”. Cuando suene, detente un minuto y agradece a Dios tres cosas de ese día, sin pedir nada."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Daniel oraba tres veces al día cuando todo estaba en paz. Por eso, cuando lo amenazaron con los leones, siguió orando como siempre. Lee «Daniel» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 17:11-19", "nota": "Diez sanados, uno agradecido." },
+        { "ref": "Daniel 6:10-11", "nota": "Orar como lo hacía siempre." },
+        { "ref": "Marcos 1:35", "nota": "Jesús ora de madrugada." },
+        { "ref": "Salmos 103:1-5", "nota": "No olvidar ninguno de sus beneficios." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, perdóname por buscarte solo cuando algo me falta. Hoy te doy gracias por la vida, por el pan y por tu cuidado. Quiero hablar contigo cada día, en lo bueno y en lo difícil. Enséñame a orar. Amén."
+    }
+  ],
+  "estudio": ["1-tesalonicenses"],
+  "buscar": "gratitud"
+}

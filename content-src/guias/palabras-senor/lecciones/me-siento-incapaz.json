@@ -1,0 +1,90 @@
+{
+  "id": "me-siento-incapaz",
+  "titulo": "Cuando me siento incapaz",
+  "etiquetas": ["Identidad y autoestima", "Inseguridad", "Gracia"],
+  "enUnMinuto": [
+    "Sentirte débil no te descalifica: Dios muestra su poder justamente en la debilidad.",
+    "El primer paso es dejar de medir la tarea con tus fuerzas y dar un paso pequeño contando con Él."
+  ],
+  "versiculo": {
+    "texto": "Y me ha dicho: Bástate mi gracia; porque mi potencia en la flaqueza se perfecciona. Por tanto, de buena gana me gloriaré más bien en mis flaquezas, porque habite en mí la potencia de Cristo.",
+    "referencia": "2 Corintios 12:9"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "A Efraín lo nombraron supervisor en la fábrica donde trabaja hace doce años. Todos lo felicitaron, pero él no duerme. Terminó apenas la primaria y siente que en cualquier momento van a descubrir que no sirve. Ya pensó en renunciar antes de empezar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Nuestra capacidad no sale de nosotros mismos: viene de Dios (2 Corintios 3:5). Él no busca gente que se sienta fuerte, sino gente que confíe en Él (2 Corintios 12:9)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Cuando nos sentimos incapaces, solemos huir o fingir. Huimos cuando decimos que no antes de intentar. Fingimos cuando aparentamos seguridad y cargamos todo solos, sin preguntar ni pedir ayuda. Las dos salidas nacen del mismo miedo: que se note nuestra debilidad. Y las dos nos dejan más cansados y más solos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Moisés le dijo a Dios que era torpe para hablar. Dios no le respondió “eres el mejor”. Le respondió que Él estaría en su boca y le enseñaría (Éxodo 4:10-12). Gedeón dijo que su familia era pobre y él el menor de la casa. Dios le contestó: yo estaré contigo (Jueces 6:15-16).",
+        "Dios casi nunca quita primero la debilidad. Prefiere caminar con nosotros dentro de ella. Pablo pidió tres veces que le quitaran su carga, y Dios le dijo que su gracia bastaba. Por eso Pablo pudo escribir: «Todo lo puedo en Cristo que me fortalece» (Filipenses 4:13). No es magia: es fuerza para lo que Dios te pone delante."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Nombra con honestidad qué te hace sentir incapaz: ¿la tarea, el estudio, la opinión de otros?",
+        "Divide la tarea grande en pasos pequeños y haz solo el primero.",
+        "Pide ayuda a alguien que sepa más; aprender no es fracasar (Proverbios 15:22).",
+        "Antes de cada desafío, ora corto: “Señor, tu gracia me basta para esto”.",
+        "Al final del día, anota lo que sí pudiste hacer y da gracias."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy midiendo este desafío solo con mis fuerzas, sin contar con Dios?",
+        "¿Mi miedo es a fallar o a que los demás vean que no soy perfecto?",
+        "¿A quién podría pedirle que me enseñe?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe en un papel la tarea que hoy te asusta. Debajo, copia: «Bástate mi gracia». Después da el primer paso pequeño, aunque tiemblen las manos."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Gedeón sacudía el trigo a escondidas en un lagar y se sentía el menor de todos. Dios lo llamó «varón esforzado» antes de que lo fuera. Conócelo en la ficha «Gedeón» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "2 Corintios 12:7-10", "nota": "La gracia que basta en la debilidad." },
+        { "ref": "Éxodo 4:10-17", "nota": "Moisés y su lengua torpe." },
+        { "ref": "Jueces 6:11-16", "nota": "Dios llama a Gedeón." },
+        { "ref": "Filipenses 4:10-13", "nota": "Fuerza para cada situación." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, hoy me siento pequeño para lo que tengo delante. Tú conoces mi debilidad mejor que yo. Tu gracia me basta. Camina conmigo en cada paso y enséñame lo que no sé. Amén."
+    }
+  ],
+  "estudio": ["2-corintios", "jueces"],
+  "buscar": "debilidad"
+}

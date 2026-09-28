@@ -1,0 +1,101 @@
+{
+  "id": "pienso-que-ya-no-hay-salida",
+  "titulo": "Cuando pienso que ya no hay salida",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Desesperanza", "Pedir ayuda"],
+  "enUnMinuto": [
+    "Cuando el dolor dice que no hay salida, no está diciendo toda la verdad.",
+    "Cuando Elías pidió morir, Dios no lo regañó: lo cuidó y le dijo que aún tenía camino por delante.",
+    "Primer paso: hoy mismo, dile a una persona cómo estás y busca ayuda profesional."
+  ],
+  "versiculo": {
+    "texto": "Y volviendo el ángel de Jehová la segunda vez, tocole, diciendo: Levántate, come: porque gran camino te resta.",
+    "referencia": "1 Reyes 19:7"
+  },
+  "bloques": [
+    {
+      "tipo": "nota",
+      "texto": "Si estás pensando en quitarte la vida, no te quedes solo con eso. Ahora mismo llama al número de emergencias de tu país o a una línea de prevención del suicidio. O dile a alguien cerca: “No estoy bien, necesito ayuda”. Aléjate de lo que podrías usar para hacerte daño."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Germán perdió el trabajo hace ocho meses y las deudas crecen. De noche, cuando todos duermen, piensa que su familia estaría mejor sin él. No se lo ha dicho a nadie. En la iglesia sonríe y dice que está bien."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cuando Elías quiso morir, Dios le dio descanso, comida y compañía. Y le dijo que aún le quedaba mucho camino (1 Reyes 19:7). Dios no desprecia al que está roto (Isaías 42:3). Tu vida vale para Él, aun cuando tú no lo sientas."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es callar. Muchos piensan: “Si lo digo, me van a juzgar”, o “un cristiano no debería sentirse así”. Otros reciben frases que duelen: “ora más”, “eso es falta de fe”.",
+        "Nada de eso es verdad. Los pensamientos de muerte no son falta de fe. Son una señal de que el dolor ya es demasiado grande para cargarlo solo. Y la idea de que otros estarían mejor sin ti es una mentira del dolor."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia no esconde esta oscuridad. Elías, después de una gran victoria, se sentó bajo un árbol y pidió morir (1 Reyes 19:4). Dios no lo regañó. Lo dejó dormir, le dio pan y agua, y le recordó que aún tenía camino por delante (1 Reyes 19:5-7).",
+        "Pablo también contó que se sintió aplastado más allá de sus fuerzas. Llegó a dudar de seguir con vida (2 Corintios 1:8-9). Y cuando un carcelero quiso matarse, Pablo le gritó: «No te hagas ningún mal» (Hechos 16:28).",
+        "Dios usa personas para sostenernos: familiares, amigos, pastores, sacerdotes, médicos y psicólogos. Pedir ayuda no es rendirse. Es tomar la mano que Dios te extiende."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Díselo hoy a alguien de confianza, con palabras claras: “Estoy pensando en morir”.",
+        "Pide cita con un médico o un psicólogo; si hay peligro, ve a urgencias.",
+        "Pon distancia entre tú y lo que podrías usar para hacerte daño; pide a alguien que lo guarde.",
+        "Haz lo básico, como Elías: dormir, comer y tomar agua (1 Reyes 19:5-7).",
+        "Ora con pocas palabras: “Señor, ayúdame a seguir hoy”. Solo hoy (Mateo 6:34)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿A quién puedo decirle hoy la verdad de cómo estoy?",
+        "¿Qué cosa me ha ayudado a seguir otras veces, aunque sea pequeña?",
+        "¿Qué me diría Dios, que no quiebra la caña cascada, si me viera ahora?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, antes de dormir, habla con una persona y dile: “No estoy bien. Necesito que me acompañes a buscar ayuda”. Si no hay nadie cerca, llama al número de emergencias o a una línea de ayuda. Hacerlo es un acto de fe."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Elías llegó a pedirle a Dios la muerte, y Dios lo cuidó paso a paso. Lee su ficha «Elías» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si alguien te dice que quiere morir, créele. Escúchalo sin juzgar, no lo dejes solo y ayúdalo a buscar ayuda profesional hoy. En peligro, llama al número de emergencias. Buscar ayuda profesional no es falta de fe: es amor."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Reyes 19:1-8", "nota": "Dios cuida a Elías, que quería morir." },
+        { "ref": "Isaías 42:1-4", "nota": "No quebrará la caña cascada." },
+        { "ref": "Salmo 40:1-3", "nota": "Me sacó del pozo y afirmó mis pies." },
+        { "ref": "2 Corintios 4:7-10", "nota": "En apuros, pero no desesperados." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, estoy muy cansado y no veo salida. No me sueltes. Dame fuerzas para pedir ayuda hoy y pon personas a mi lado. Tú no quiebras la caña cascada; sostenme a mí. Amén."
+    }
+  ],
+  "estudio": ["1-reyes-12-22", "2-corintios"],
+  "buscar": "esperanza"
+}

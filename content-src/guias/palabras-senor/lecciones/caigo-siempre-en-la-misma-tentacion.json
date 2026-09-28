@@ -1,0 +1,97 @@
+{
+  "id": "caigo-siempre-en-la-misma-tentacion",
+  "titulo": "Cuando caigo siempre en la misma tentación",
+  "etiquetas": ["Tentación y hábitos", "Tentación", "Recaídas"],
+  "enUnMinuto": [
+    "Ninguna tentación es más fuerte que la fidelidad de Dios: con ella, Él da también la salida.",
+    "Esa salida casi siempre está antes del momento de caer, no en el borde.",
+    "Primer paso: descubre cuándo y dónde sueles caer, y cierra esa puerta hoy."
+  ],
+  "versiculo": {
+    "texto": "No os ha tomado tentación, sino humana: mas fiel es Dios, que no os dejará ser tentados más de lo que podéis llevar; antes dará también juntamente con la tentación la salida, para que podáis aguantar.",
+    "referencia": "1 Corintios 10:13"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Iván tiene 26 años y ayuda en el grupo de jóvenes. Otra vez cayó en lo mismo: pornografía en el celular, tarde en la noche. Cada vez promete que será la última. Cada vez vuelve a caer, y se siente peor que antes."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Tu tentación no es única ni invencible. Dios es fiel: no te deja solo frente a ella y te da una salida para resistir (1 Corintios 10:13)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es pelear solo, a pura fuerza de voluntad y promesas: “Esta es la última vez”. Otro error es esperar al último momento para resistir. Con el celular en la mano, solo, cansado y a medianoche, casi nadie gana.",
+        "Tampoco ayuda la culpa que viene después. Te hunde, te aleja de Dios y te empuja a esconderte. Sansón jugó una y otra vez con la misma debilidad. Pensó que saldría libre como las otras veces (Jueces 16:20)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús dijo: «Velad y orad, para que no entréis en tentación» (Mateo 26:41). Velar es mirar antes: cuándo, dónde y cómo suelo caer. Orar es reconocer que solo no puedo.",
+        "La salida que Dios da muchas veces es una decisión temprana. José no se quedó a discutir con la tentación: dejó su ropa y huyó (Génesis 39:12). Pablo aconseja lo mismo: huir y seguir el bien junto con otros que buscan a Dios (2 Timoteo 2:22).",
+        "Y si caes, levántate rápido. El justo cae siete veces y vuelve a levantarse (Proverbios 24:16). Jesús fue tentado como nosotros y nos comprende. Por eso podemos acercarnos con confianza a su trono de gracia (Hebreos 4:15-16)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Anota tus últimas caídas: la hora, el lugar y cómo te sentías (cansado, solo, enojado, aburrido).",
+        "Cierra la puerta antes: saca el celular del cuarto de noche, instala un filtro, cambia la rutina.",
+        "Busca un compañero de camino y dale permiso de preguntarte cómo vas (2 Timoteo 2:22).",
+        "Cuando llegue la tentación, haz algo concreto: sal del lugar, llama a alguien, ora en voz alta.",
+        "Si caes, confiésalo ese mismo día y vuelve a empezar, sin castigarte por semanas (Hebreos 4:16)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿En qué momento del día soy más débil?",
+        "¿Qué puerta sigo dejando abierta porque en el fondo no quiero cerrarla?",
+        "¿Quién conoce de verdad esta lucha?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche, antes de acostarte, deja el celular cargando fuera de tu cuarto. Si te cuesta, pídele a alguien de tu casa que lo guarde hasta la mañana. Es una salida pequeña, pero real. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Sansón cayó muchas veces en la misma debilidad, y aun así, al final, clamó a Dios (Jueces 16:28). Lee su ficha «Sansón» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si esta lucha ya se volvió compulsiva, si te roba horas, dinero o sueño, o te hunde en la tristeza, busca ayuda. Habla con tu pastor o sacerdote y con un profesional de la salud. Pedir ayuda no es falta de fe: es tomar la salida que Dios te pone delante."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Corintios 10:12-13", "nota": "Dios da la salida." },
+        { "ref": "Génesis 39:7-12", "nota": "José huye a tiempo." },
+        { "ref": "Mateo 26:40-41", "nota": "Velar y orar." },
+        { "ref": "Hebreos 4:14-16", "nota": "Jesús entiende nuestra lucha." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, estoy cansado de caer en lo mismo. Muéstrame las puertas que dejo abiertas y dame valor para cerrarlas. Cuando llegue la tentación, recuérdame la salida. Y si caigo, que corra hacia ti y no lejos de ti. Amén."
+    }
+  ],
+  "estudio": ["1-corintios", "jueces"],
+  "buscar": "tentación"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "hacedores-de-la-palabra",
+  "titulo": "Hacedores de la Palabra",
+  "subtitulo": "Quien oye entiende; quien practica se transforma",
+  "etiquetas": ["Cierre", "Hacedor de la Palabra", "Santiago 1:22-25"],
+  "enUnMinuto": [
+    "Oír la Palabra te ayuda a entender; practicarla es lo que te transforma.",
+    "Santiago compara al oyente olvidadizo con quien se mira al espejo y enseguida olvida su rostro.",
+    "Tu siguiente paso: elige una situación por semana y vuelve a ella cada día."
+  ],
+  "versiculo": {
+    "texto": "Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "referencia": "Santiago 1:22"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "El espejo que no se olvida",
+      "parrafos": [
+        "Llegaste al final de esta guía. Leíste situaciones reales, versículos, pasos y oraciones. Ahora viene lo más importante, y no está escrito en ninguna página. Está en lo que hagas mañana.",
+        "Santiago usa una imagen sencilla. Alguien se mira en un espejo, ve su rostro y se va. Enseguida se olvida de cómo era (Santiago 1:23-24). Así es oír la Palabra sin ponerla por obra.",
+        "Pero hay otro camino. Quien mira con atención la ley perfecta de la libertad y persevera será dichoso en lo que hace (Santiago 1:25). La bendición no está en saber más. Está en perseverar haciendo."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Quien oye entiende; quien practica se transforma",
+      "tono": "gold",
+      "texto": "Oír es el comienzo: la fe viene por el oír la palabra de Dios (Romanos 10:17). Pero Jesús llamó dichosos a los que oyen la palabra de Dios y la guardan (Lucas 11:28). Entender cambia tus ideas. Practicar, con la ayuda del Señor, cambia tu vida."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La casa sobre la roca",
+      "parrafos": [
+        "Jesús terminó su gran sermón con dos casas. Las dos oyeron las mismas palabras y recibieron la misma tormenta. Una cayó y la otra quedó en pie. La diferencia fue una sola: una puso por obra lo que oyó (Mateo 7:24-27).",
+        "Tu fe no se prueba solo en el templo. Se prueba en la tormenta de cada semana. En la casa, en el trabajo, en la cuenta que no alcanza, en la palabra que duele."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cómo seguir desde hoy",
+      "items": [
+        "Elige una sola situación por semana: la que más se parece a lo que vives ahora.",
+        "El primer día, léela completa y sin prisa, y haz la acción de «Hoy».",
+        "Cada día de esa semana, vuelve a ella: relee el versículo y practica uno de los pasos.",
+        "Al final de la semana, responde otra vez las preguntas de «Pregúntate». Mira qué cambió.",
+        "Luego elige la siguiente. Un paso por semana, sostenido, cambia más que cien lecturas rápidas."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres cosas para recordar",
+      "items": [
+        "No necesitas hacerlo todo. Un solo paso fiel vale más que diez promesas.",
+        "Cuando falles, vuelve. Las misericordias del Señor son nuevas cada mañana (Lamentaciones 3:22-23).",
+        "No camines solo. Comparte tu semana con alguien de tu familia, tu grupo o tu iglesia (Hebreos 10:24)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Tu compromiso de esta semana",
+      "tono": "navy",
+      "texto": "Vuelve al índice y elige la situación que más te habla hoy. Escribe su nombre en un papel, con la fecha de hoy, y déjalo en tu Biblia. Esa será tu situación de la semana. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 1:19-25", "nota": "Oidores y hacedores." },
+        { "ref": "Mateo 7:24-27", "nota": "La casa sobre la roca." },
+        { "ref": "Lucas 8:15", "nota": "La buena tierra que da fruto con paciencia." },
+        { "ref": "Juan 13:17", "nota": "Dichosos si lo hacen." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por tu Palabra. No quiero ser solo oidor, sino hacedor. Cuando me mire en tu espejo, que no me olvide. Dame perseverancia para dar un paso cada semana, y transfórmame por dentro. Amén."
+    }
+  ],
+  "estudio": ["santiago"],
+  "buscar": "hacedores de la Palabra"
+}

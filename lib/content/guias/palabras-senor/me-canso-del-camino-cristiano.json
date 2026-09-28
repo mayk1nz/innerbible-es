@@ -1,0 +1,97 @@
+{
+  "id": "me-canso-del-camino-cristiano",
+  "titulo": "Cuando me canso del camino cristiano",
+  "etiquetas": ["Fe y vida espiritual", "Cansancio", "Primer amor"],
+  "enUnMinuto": [
+    "El cansancio en el camino de la fe es real, y la Biblia lo nombra: no nos cansemos de hacer el bien.",
+    "Dios da fuerzas al cansado, y a veces el primer paso es descansar y volver al primer amor.",
+    "Primer paso: dile a Dios cuánto te pesa, y descansa sin culpa."
+  ],
+  "versiculo": {
+    "texto": "No nos cansemos, pues, de hacer bien; que a su tiempo segaremos, si no hubiéremos desmayado.",
+    "referencia": "Gálatas 6:9"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hace doce años que Norma sirve en su iglesia de San José, en Costa Rica. Dirige el coro, cocina en los eventos y visita enfermos. Últimamente va sin ganas y todo le pesa. A veces piensa en dejarlo todo, y se siente mala cristiana por pensarlo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "No nos cansemos de hacer el bien, porque a su tiempo cosecharemos si no nos rendimos (Gálatas 6:9). Dios conoce el cansancio de los que siguen caminando."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es seguir corriendo sin parar, por culpa o por miedo a quedar mal. Así se sirve con resentimiento y sin alegría. Otro error es dejarlo todo de golpe y alejarse de Dios junto con las tareas.",
+        "También es común confundir el camino cristiano con las actividades. Se puede hacer mucho por Dios y estar lejos de Él. Jesús reconoció el trabajo y la paciencia de la iglesia de Éfeso. Pero le dijo que había dejado su primer amor (Apocalipsis 2:3-4)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Dios no se cansa del cansado. Él da fuerzas al que ya no tiene ninguna (Isaías 40:29-31). Elías llegó a pedir la muerte de puro agotamiento. Dios le dio pan, agua y sueño antes de hablarle (1 Reyes 19:4-8).",
+        "Jesús invitó a sus discípulos cansados a apartarse y descansar un poco (Marcos 6:31). Descansar no es falta de compromiso. También es obediencia.",
+        "Y mira a Jesús. Hebreos invita a correr con paciencia, con los ojos puestos en Él, para no desanimarnos (Hebreos 12:1-3). El camino no se sostiene con fuerza de voluntad, sino mirando a quien lo recorrió primero."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Dile a Dios con honestidad cuánto te pesa. Él da fuerzas al cansado (Isaías 40:29).",
+        "Revisa tus tareas: ¿cuáles hago por amor y cuáles por culpa o por presión?",
+        "Habla con tu pastor, sacerdote o líder y pide una pausa en alguna tarea, sin vergüenza.",
+        "Descansa de verdad: duerme, come bien, sal a caminar (1 Reyes 19:5-8).",
+        "Vuelve a lo esencial: un tiempo sencillo con Jesús, sin agenda (Apocalipsis 2:4-5)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy cansado de Dios, o cansado de mis tareas?",
+        "¿Qué estoy haciendo por culpa y no por amor?",
+        "¿Cuándo fue la última vez que descansé sin sentirme culpable?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige una tarea que puedas soltar o compartir por un mes. Escríbele hoy a la persona responsable y pídeselo con sencillez, sin dar largas explicaciones. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Elías, después de una gran victoria, se derrumbó bajo un árbol y pidió morir. Dios lo cuidó con comida, descanso y una voz suave. Lee «Elías» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tu cansancio viene con tristeza profunda durante semanas, falta de sueño o pensamientos de no querer vivir, busca ayuda hoy. Habla con alguien de confianza, con tu pastor o sacerdote y con un médico. Si estás en peligro, llama a un número de emergencia. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Gálatas 6:9-10", "nota": "No cansarse de hacer el bien." },
+        { "ref": "1 Reyes 19:1-8", "nota": "Dios cuida a Elías agotado." },
+        { "ref": "Isaías 40:28-31", "nota": "Nuevas fuerzas para el cansado." },
+        { "ref": "Hebreos 12:1-3", "nota": "Los ojos puestos en Jesús." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, estoy cansado, y a veces quiero dejarlo todo. Tú conoces mi esfuerzo y mis límites. Dame descanso sin culpa y renueva mis fuerzas. Devuélveme la alegría del primer amor. Quiero seguir caminando contigo. Amén."
+    }
+  ],
+  "estudio": ["galatas"],
+  "buscar": "cansancio"
+}

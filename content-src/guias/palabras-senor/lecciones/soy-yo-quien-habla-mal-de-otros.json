@@ -1,0 +1,85 @@
+{
+  "id": "soy-yo-quien-habla-mal-de-otros",
+  "titulo": "Cuando soy yo quien habla mal de otros",
+  "etiquetas": ["Amistades y convivencia", "Chisme", "Palabras"],
+  "enUnMinuto": [
+    "El chisme parece inofensivo, pero enciende fuegos que destruyen amistades y familias.",
+    "La Biblia dice que donde no hay chismoso, la pelea se apaga.",
+    "Primer paso: reconoce el hábito y decide no ser leña para ese fuego."
+  ],
+  "versiculo": {
+    "texto": "Sin leña se apaga el fuego: y donde no hay chismoso, cesa la contienda.",
+    "referencia": "Proverbios 26:20"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Irma pasó una hora en el grupo de WhatsApp de la familia. Comentaba la vida de su cuñada: su ropa, su matrimonio, sus hijos. Después fue a la oración de la tarde y sintió vergüenza. “No lo digo con maldad”, se repite. Pero ya no se lo cree."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Sin leña se apaga el fuego, y sin chismoso se acaba la pelea (Proverbios 26:20). Dios quiere que nuestras palabras edifiquen y den gracia (Efesios 4:29)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es justificarse: “Solo digo la verdad”, “es para orar por ella”, “todos lo hacen”. Otros intentan dejarlo solo con fuerza de voluntad, sin mirar el corazón. El chisme vuelve, porque la raíz sigue ahí: envidia, aburrimiento o ganas de sentirse mejor que otros."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús dijo que de la abundancia del corazón habla la boca (Lucas 6:45). El chisme no es solo un problema de la lengua. Pregúntate qué hay detrás: ¿envidia, resentimiento, ganas de pertenecer al grupo?",
+        "Santiago pide no murmurar unos de otros, porque quien murmura se pone en el lugar del juez (Santiago 4:11). Y compara la lengua con un pequeño fuego que enciende un bosque entero (Santiago 3:5). Un comentario puede destruir años de confianza.",
+        "El camino no es solo callar, sino cambiar lo que dices. Habla de las personas como si estuvieran presentes. Di palabras que den gracia a quien las oye (Efesios 4:29). Y pide a Dios, como el salmista, que guarde la puerta de tus labios (Salmo 141:3)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Reconoce el hábito ante Dios, sin excusas, y pídele perdón (Salmo 141:3).",
+        "Busca la raíz: ¿qué siento cuando hablo mal de alguien?",
+        "Antes de hablar de alguien, pregúntate: ¿es verdad?, ¿es necesario?, ¿edifica? (Efesios 4:29).",
+        "Si el grupo empieza a criticar, cambia de tema o di algo bueno de esa persona.",
+        "Si dañaste a alguien con tus palabras, repara: corrige lo que dijiste o pide perdón."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Diría esto mismo si la persona estuviera delante de mí?",
+        "¿Qué gano cuando hablo mal de otros?",
+        "¿Mis palabras dejan a los demás mejor o peor que antes?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Pasa hoy un día entero sin hablar de nadie que no esté presente, ni en persona ni por mensajes. Esta noche, revisa cómo te fue y da gracias a Dios por cada victoria."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 3:2-10", "nota": "El poder de la lengua." },
+        { "ref": "Proverbios 16:28", "nota": "El chismoso separa a los mejores amigos." },
+        { "ref": "Efesios 4:29-32", "nota": "Palabras que edifican." },
+        { "ref": "Salmo 141:3-4", "nota": "Guarda mi boca." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, pon guarda a mi boca. Perdona las palabras con que herí a otros. Limpia mi corazón de envidia y de juicio. Que mis palabras den vida y gracia a quienes las escuchan. Amén."
+    }
+  ],
+  "estudio": ["santiago", "proverbios"],
+  "buscar": "lengua"
+}

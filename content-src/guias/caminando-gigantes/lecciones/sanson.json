@@ -1,0 +1,116 @@
+{
+  "id": "sanson",
+  "titulo": "Sansón",
+  "subtitulo": "Cuando el don corre más rápido que el carácter",
+  "etiquetas": ["Impulsos", "Dones sin dominio propio", "Conquista y jueces"],
+  "enUnMinuto": [
+    "Sansón recibió de Dios una fuerza enorme, pero se dejaba llevar por lo que agradaba a sus ojos.",
+    "Jugó con el peligro hasta que lo perdió todo: su fuerza, su vista y su libertad.",
+    "En la cárcel su cabello volvió a crecer y clamó a Dios: aun después de caer, Dios escucha."
+  ],
+  "versiculo": {
+    "texto": "Y el cabello de su cabeza comenzó a crecer, después que fue rapado.",
+    "referencia": "Jueces 16:22"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás tienes talento, energía, carisma. La gente te admira. Pero por dentro hay algo que no logras dominar: un impulso, un vicio, el enojo, una relación que te hace daño. Te dices: “Yo controlo esto”. Y cada vez te acercas un poco más al borde. O ya caíste, y sientes que desperdiciaste lo que Dios te dio."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Antes de que naciera, un ángel anunció a su madre que Sansón sería nazareo, consagrado a Dios. Nunca debía cortarse el cabello, y comenzaría a librar a Israel de los filisteos (Jueces 13:3-5). El niño creció, y el Señor lo bendijo (Jueces 13:24).",
+        "El Espíritu del Señor le daba una fuerza enorme. Mató a un león con sus manos (Jueces 14:5-6) y venció a muchos enemigos (Jueces 15:14-15). Juzgó a Israel veinte años (Jueces 15:20). Pero sus decisiones las guiaban sus deseos. Quiso casarse con una filistea porque «ésta agradó a mis ojos» (Jueces 14:3).",
+        "Luego se enamoró de Dalila. Los jefes filisteos le ofrecieron plata para que descubriera el secreto de su fuerza (Jueces 16:4-5). Tres veces Sansón le mintió y jugó con el peligro (Jueces 16:6-14). Ella insistió cada día, hasta que él le abrió su corazón. Mientras dormía, le cortaron el cabello (Jueces 16:16-19)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Sansón pensaba que siempre podría escapar. Al despertar se dijo: «Esta vez saldré como las otras, y me escaparé». Pero la Biblia añade que no sabía «que Jehová ya se había de él apartado» (Jueces 16:20). Es el engaño de quien confía en su don y descuida su corazón. La caída no llegó de golpe: llegó poco a poco."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Los filisteos lo dejaron ciego y lo pusieron a moler en la cárcel (Jueces 16:21). Pero la Biblia anota un detalle lleno de esperanza: su cabello comenzó a crecer (Jueces 16:22).",
+        "Humillado, Sansón clamó a Dios: «Señor Jehová, acuérdate ahora de mí, y esfuérzame, te ruego» (Jueces 16:28). Y su fuerza volvió una última vez (Jueces 16:29-30). Su final fue triste, y no es un ejemplo para imitar. Aun así, Hebreos lo nombra entre los que actuaron por fe (Hebreos 11:32)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "No juegues con el peligro. Sansón volvió tres veces al mismo lugar de riesgo (Jueces 16:6-14). Aléjate de lo que te hace caer.",
+        "Escucha a quienes te aman. Sansón no hizo caso a sus padres (Jueces 14:3). Busca consejo antes de decidir.",
+        "Cultiva el carácter, no solo el don. El fruto del Espíritu incluye la templanza, el dominio propio (Gálatas 5:22-23).",
+        "Si caíste, clama. Aun en la cárcel, Dios escuchó a Sansón (Jueces 16:28)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús tuvo todo el poder, y nunca lo usó para sí mismo. En el desierto, con hambre, no convirtió las piedras en pan (Mateo 4:3-4). Fue «tentado en todo según nuestra semejanza, pero sin pecado» (Hebreos 4:15). Por eso entiende tu lucha. Y con su Espíritu te da lo que Sansón descuidó: un corazón con dominio propio."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tus dones son de Dios, pero tu carácter también necesita cuidado. Esta semana: identifica eso que te atrae y te va debilitando. Pon una barrera concreta: borra un contacto, cambia un camino, cuéntaselo a alguien de confianza. Y si ya caíste, recuerda que el cabello vuelve a crecer. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si una adicción o un impulso te está destruyendo, no luches solo. Busca a tu pastor o sacerdote, un grupo de apoyo o un profesional. Y si sientes que ya no vale la pena vivir, pide ayuda hoy mismo. Si estás en peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Jueces 13:2-25", "nota": "El anuncio de su nacimiento." },
+        { "ref": "Jueces 14:1-9", "nota": "La filistea que le agradó y el león." },
+        { "ref": "Jueces 16:4-22", "nota": "Dalila y la caída de Sansón." },
+        { "ref": "Jueces 16:23-31", "nota": "Su última oración." },
+        { "ref": "Hebreos 11:32-34", "nota": "Sansón entre los héroes de la fe." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por los dones que me diste. Perdóname por las veces que jugué con el peligro. Dame un corazón con dominio propio. Y si caigo, acuérdate de mí y levántame otra vez. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Por qué una persona con muchos dones puede caer con tanta facilidad?",
+        "Sansón pensó: «Esta vez saldré como las otras». ¿Qué engaños parecidos nos decimos?",
+        "¿Qué barreras prácticas nos ayudan a no jugar con el peligro?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué no debía hacer Sansón por ser nazareo?",
+      "opciones": ["Cortarse el cabello", "Hablar con filisteos", "Salir de su pueblo"],
+      "correcta": 0,
+      "explicacion": "El ángel dijo que no subiría navaja sobre su cabeza (Jueces 13:5)."
+    },
+    {
+      "pregunta": "¿Qué no sabía Sansón cuando despertó sin cabello?",
+      "opciones": ["Que Dalila se había ido", "Que era de noche", "Que el Señor se había apartado de él"],
+      "correcta": 2,
+      "explicacion": "No sabía «que Jehová ya se había de él apartado» (Jueces 16:20)."
+    },
+    {
+      "pregunta": "¿Qué detalle de esperanza anota la Biblia cuando Sansón estaba en la cárcel?",
+      "opciones": ["Que recibió visitas", "Que su cabello comenzó a crecer", "Que escapó de noche"],
+      "correcta": 1,
+      "explicacion": "«El cabello de su cabeza comenzó a crecer» (Jueces 16:22)."
+    }
+  ],
+  "estudio": ["jueces"],
+  "buscar": "Sansón"
+}

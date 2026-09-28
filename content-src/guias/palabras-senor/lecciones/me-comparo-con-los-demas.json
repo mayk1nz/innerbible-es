@@ -1,0 +1,90 @@
+{
+  "id": "me-comparo-con-los-demas",
+  "titulo": "Cuando me comparo con los demás",
+  "etiquetas": ["Identidad y autoestima", "Comparación", "Contentamiento"],
+  "enUnMinuto": [
+    "Dios no te pide ser como otro: te pide ser fiel con lo que Él te dio.",
+    "El primer paso es dejar de mirar el camino ajeno y volver a escuchar a Jesús decir: «Sígueme tú»."
+  ],
+  "versiculo": {
+    "texto": "Así que cada uno examine su obra, y entonces tendrá gloria solo respecto de sí mismo, y no en otro.",
+    "referencia": "Gálatas 6:4"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "En cada reunión familiar, Gustavo vuelve a casa callado. Su cuñado llegó en camioneta nueva y habló de su viaje. Gustavo maneja un taxi prestado y todavía alquila. Esa noche no disfruta nada de lo que tiene: solo piensa en lo que le falta."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cada uno responde ante Dios por su propia obra, no por la del vecino. Compararse con otros no es sabiduría, dice Pablo (Gálatas 6:4-5; 2 Corintios 10:12)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Comparamos lo peor de nuestra vida con lo mejor que vemos de otros. Vemos la camioneta, pero no la deuda ni las noches sin dormir. Si salimos perdiendo, nos llenamos de tristeza o envidia. Si salimos ganando, nos llenamos de orgullo. En los dos casos, dejamos de mirar a Dios y a nuestra propia tarea."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Después de resucitar, Jesús le anunció a Pedro cómo sería su vida. Pedro miró a Juan y preguntó: «Señor, ¿y éste, qué?». Jesús le respondió: «¿qué a tí? Sígueme tú» (Juan 21:21-22). Tu camino no se decide mirando el de otro.",
+        "Pablo explica que la iglesia es como un cuerpo. El pie no deja de ser del cuerpo por no ser mano (1 Corintios 12:14-18). Dios colocó a cada uno donde quiso. Por eso Pablo aprendió a contentarse con lo que tenía, en la abundancia y en la escasez (Filipenses 4:11-12). El contentamiento no es conformismo: es gratitud que te deja libre para crecer."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Nota en qué momentos te comparas: ¿reuniones, redes, el trabajo, la iglesia?",
+        "Cuando aparezca la comparación, di en silencio: “¿Qué a mí? Yo sigo a Jesús”.",
+        "Escribe lo que Dios te ha dado este año, aunque parezca pequeño.",
+        "Pregúntale a Dios cuál es tu próxima tarea, no la de otro, y hazla (Gálatas 6:4).",
+        "Si alguien recibe algo bueno, bendícelo en voz alta: la envidia se debilita cuando bendecimos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Con quién me comparo más, y qué me hace sentir?",
+        "¿Estoy agradeciendo lo que tengo o solo contando lo que me falta?",
+        "¿Qué me pidió Dios a mí, que estoy descuidando por mirar a otros?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Piensa en la persona con quien más te comparas. Hoy envíale un mensaje sincero para felicitarla por algo bueno de su vida. Después, da gracias a Dios por una cosa concreta de la tuya."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Pedro, recién perdonado, se distrajo mirando a Juan. Jesús lo devolvió a lo esencial con dos palabras: sígueme tú. Conoce su historia en la ficha «Pedro» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 21:15-22", "nota": "Jesús restaura a Pedro y le dice: sígueme tú." },
+        { "ref": "1 Corintios 12:12-27", "nota": "Cada miembro tiene su lugar en el cuerpo." },
+        { "ref": "Gálatas 6:1-5", "nota": "Cada uno examine su propia obra." },
+        { "ref": "Salmos 73:1-28", "nota": "El salmista que envidiaba a otros, hasta que entró al santuario." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, perdona mis ojos que miran siempre la vida de otros. Gracias por lo que me diste. Enséñame a ser fiel en mi lugar y a alegrarme con los demás. Hoy quiero seguirte a ti. Amén."
+    }
+  ],
+  "estudio": ["galatas", "1-corintios"],
+  "buscar": "contentamiento"
+}

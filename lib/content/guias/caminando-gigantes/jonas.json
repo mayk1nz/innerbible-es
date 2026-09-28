@@ -1,0 +1,116 @@
+{
+  "id": "jonas",
+  "titulo": "Jonás",
+  "subtitulo": "Cuando huyes de lo que Dios te pidió",
+  "etiquetas": ["Huir de Dios", "Enojo", "Segunda oportunidad", "El reino dividido"],
+  "enUnMinuto": [
+    "Dios le pidió a Jonás ir a Nínive, la ciudad enemiga, y él tomó un barco en dirección contraria.",
+    "Desde el fondo del mar clamó a Dios, y Dios le habló «segunda vez».",
+    "Jonás obedeció, Nínive se arrepintió, y Dios le enseñó que su misericordia es más grande que nuestro enojo."
+  ],
+  "versiculo": {
+    "texto": "Y fue palabra de Jehová segunda vez a Jonás, diciendo: Levántate, y ve a Nínive, aquella gran ciudad, y publica en ella el pregón que yo te diré.",
+    "referencia": "Jonás 3:1-2"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás sabes lo que Dios te pide, y no quieres hacerlo. Perdonar a alguien que te hizo daño. Volver a hablar con un familiar. Dejar algo, o empezar algo. Así que te alejas: te ocupas, cambias de tema, dejas de orar. Por fuera sigues adelante, pero por dentro no tienes paz."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Dios le dijo a Jonás que fuera a Nínive a anunciar su mensaje (Jonás 1:1-2). Nínive era la gran ciudad de Asiria, enemiga de Israel. Jonás se levantó, pero para huir. Bajó al puerto de Jope y pagó un barco hacia Tarsis, al otro lado del mar (Jonás 1:3).",
+        "En el mar se levantó una gran tormenta. Los marineros, asustados, clamaban a sus dioses, mientras Jonás dormía en el fondo del barco (Jonás 1:4-5). Jonás reconoció que huía del Señor y pidió que lo echaran al mar. Ellos intentaron remar hasta la orilla, pero no pudieron (Jonás 1:9-13).",
+        "Lo echaron al agua, y el mar se calmó (Jonás 1:15). Dios había preparado un gran pez que tragó a Jonás. Estuvo en su vientre tres días y tres noches (Jonás 2:1). Allí, en lo más hondo, Jonás oró."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Al final del libro, Jonás confiesa por qué huyó: «sabía yo que tú eres Dios clemente y piadoso» (Jonás 4:2). No quería que Dios perdonara a sus enemigos. Cuando Nínive se salvó, se enojó tanto que dijo: «mejor me es la muerte que la vida» (Jonás 4:3). Huir no le quitó el enojo: solo lo escondió."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Desde el vientre del pez, Jonás decidió volver su corazón a Dios. Oró: «Clamé de mi tribulación a Jehová, y él me oyó» (Jonás 2:3). Y también: «Cuando mi alma desfallecía en mí, acordéme de Jehová» (Jonás 2:8). El pez lo dejó en tierra (Jonás 2:10).",
+        "Dios le habló «segunda vez», y esta vez Jonás fue (Jonás 3:1-3). Nínive creyó a Dios, ayunó y dejó su mal camino, y Dios tuvo compasión (Jonás 3:5-10). Aun con el enojo de Jonás, Dios siguió hablándole con paciencia. El libro termina con una pregunta de Dios sobre su piedad por Nínive (Jonás 4:10-11)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Reconoce hacia dónde estás huyendo. Jonás lo admitió ante los marineros (Jonás 1:9-12).",
+        "Clama desde donde estés, aunque sea el fondo. Dios oyó a Jonás en el vientre del pez (Jonás 2:3).",
+        "Acepta la segunda oportunidad. Cuando Dios habló otra vez, Jonás se levantó y fue (Jonás 3:1-3).",
+        "Lleva tu enojo a Dios y deja que Él te hable. Dios le preguntó a Jonás: «¿Haces tú bien en enojarte tanto?» (Jonás 4:4)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús habló de Jonás. Así como Jonás estuvo tres días en el pez, Él estaría tres días en la tierra (Mateo 12:40). Y dijo: «he aquí más que Jonás en este lugar» (Mateo 12:41). Jonás huyó de sus enemigos; Jesús dio su vida por ellos. En Él, la misericordia que Jonás temía nos alcanza a todos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "No toda tormenta en tu vida es porque huyes de Dios. Pero si sabes que estás huyendo, hoy puede ser tu “segunda vez”. Esta semana: escribe qué te pide Dios y qué te hace huir. Da un primer paso pequeño en esa dirección, y pídele que sane tu enojo. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jonás llegó a pedir la muerte. Si el enojo o la tristeza te hacen pensar que es mejor no vivir, no lo cargues en silencio. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un profesional. Si estás en peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Jonás 1:1-16", "nota": "La huida y la tormenta." },
+        { "ref": "Jonás 2:1-10", "nota": "La oración desde el vientre del pez." },
+        { "ref": "Jonás 3:1-10", "nota": "La segunda vez y el arrepentimiento de Nínive." },
+        { "ref": "Jonás 4:1-11", "nota": "El enojo de Jonás y la pregunta de Dios." },
+        { "ref": "Mateo 12:38-41", "nota": "Jesús y la señal de Jonás." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú sabes de qué estoy huyendo. Aquí, donde estoy, clamo a ti. Gracias porque me hablas otra vez. Sana mi enojo y dame un corazón que ame como tú amas. Me levanto e iré. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Por qué a veces nos cuesta que Dios perdone a quien nos hizo daño?",
+        "¿Cuáles son los “barcos a Tarsis” que usamos para huir de Dios?",
+        "El libro termina con una pregunta. ¿Cómo la responderías tú hoy?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Adónde quiso huir Jonás en barco?",
+      "opciones": ["A Egipto", "A Tarsis", "A Babilonia"],
+      "correcta": 1,
+      "explicacion": "Jonás pagó un barco en Jope para irse a Tarsis (Jonás 1:3)."
+    },
+    {
+      "pregunta": "¿Qué hizo la gente de Nínive al oír el mensaje?",
+      "opciones": ["Se arrepintió y ayunó", "Echó a Jonás de la ciudad", "Se burló de él"],
+      "correcta": 0,
+      "explicacion": "Creyeron a Dios, ayunaron y se vistieron de saco (Jonás 3:5)."
+    },
+    {
+      "pregunta": "¿Por qué dice Jonás que huyó a Tarsis?",
+      "opciones": ["Porque tenía miedo del mar", "Porque estaba enfermo", "Porque sabía que Dios es misericordioso"],
+      "correcta": 2,
+      "explicacion": "Jonás dijo: «sabía yo que tú eres Dios clemente y piadoso» (Jonás 4:2)."
+    }
+  ],
+  "estudio": ["jonas"],
+  "buscar": "Jonás"
+}

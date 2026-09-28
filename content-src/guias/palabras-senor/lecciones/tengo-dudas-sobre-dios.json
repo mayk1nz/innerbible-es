@@ -1,0 +1,93 @@
+{
+  "id": "tengo-dudas-sobre-dios",
+  "titulo": "Cuando tengo dudas sobre Dios",
+  "etiquetas": ["Fe y vida espiritual", "Dudas", "Búsqueda"],
+  "enUnMinuto": [
+    "Tener dudas no te convierte en enemigo de Dios: hasta Juan el Bautista dudó en la cárcel.",
+    "Jesús no lo regañó: le mostró lo que estaba haciendo y siguió hablando bien de él.",
+    "Primer paso: escribe tu duda con claridad y llévala a Jesús y a alguien que te ayude a buscar."
+  ],
+  "versiculo": {
+    "texto": "Y oyendo Juan en la prisión los hechos de Cristo, le envió dos de sus discípulos, Diciendo: ¿Eres tú aquél que había de venir, o esperaremos a otro?",
+    "referencia": "Mateo 11:2-3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Camila, de 19 años, empezó la universidad en Santo Domingo. Un profesor dijo en clase que la fe es cosa de gente ignorante. Desde entonces, Camila tiene preguntas que nunca había tenido. Le da miedo decirlas en su iglesia."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Juan el Bautista mandó a preguntar a Jesús si Él era el que había de venir (Mateo 11:2-3). Jesús respondió con paciencia y con hechos. Las dudas honestas se pueden llevar a Jesús."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores comunes. Uno es esconder las dudas por miedo, como si pensar fuera pecado. Las dudas escondidas crecen en la oscuridad. El otro es abandonar la fe ante la primera pregunta difícil, sin buscar respuestas.",
+        "También hay quien responde a las dudas de otros con regaños, diciendo que esas cosas no se preguntan. Así mucha gente se aleja, no por falta de respuestas, sino por falta de paciencia."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús no se ofendió con la pregunta de Juan. Le mandó contar lo que se veía: ciegos que ven, cojos que andan, pobres que oyen el evangelio (Mateo 11:4-5). Y enseguida habló muy bien de Juan delante de todos (Mateo 11:11).",
+        "Tomás dijo que no creería sin ver las heridas de Jesús. Jesús volvió, le mostró sus manos y lo invitó a creer (Juan 20:24-28). Dios no le teme a tus preguntas.",
+        "Las dudas se trabajan buscando, no huyendo. Dios promete que lo encontraremos si lo buscamos de todo corazón (Jeremías 29:13). Lee los evangelios, pregunta a personas preparadas, busca buenos libros. Muchas preguntas difíciles ya tienen respuestas pensadas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe tu duda en una frase clara. Una duda con nombre se puede investigar.",
+        "Llévala a Dios en oración, con honestidad, como hizo Juan (Mateo 11:3).",
+        "Lee un evangelio completo, con calma, preguntándote quién es Jesús.",
+        "Habla con tu pastor, tu sacerdote o un creyente preparado que sepa escuchar sin juzgar.",
+        "Sigue viviendo lo que sí crees mientras buscas. La fe y las preguntas pueden caminar juntas."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi duda es una pregunta sincera, o una herida que necesita sanar?",
+        "¿Estoy buscando respuestas de verdad, o juntando razones para irme?",
+        "¿Qué sé de Jesús que todavía me sostiene?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe tu duda principal en una sola pregunta. Luego escríbele a una persona de fe que respetes y pídele una conversación esta semana. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Job le hizo a Dios preguntas duras que nadie le supo responder. Dios no lo despreció, y al final se le mostró. Lee «Job» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Mateo 11:2-11", "nota": "La duda de Juan y la respuesta de Jesús." },
+        { "ref": "Juan 20:24-29", "nota": "Jesús busca a Tomás." },
+        { "ref": "Jeremías 29:11-13", "nota": "Quien busca de corazón, encuentra." },
+        { "ref": "Salmos 73:16-26", "nota": "Del desconcierto a la confianza." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, tengo preguntas que me asustan. No quiero esconderlas de ti. Muéstrame quién eres, como lo hiciste con Juan y con Tomás. Dame paciencia para buscar y personas sabias que me acompañen. Amén."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "duda"
+}

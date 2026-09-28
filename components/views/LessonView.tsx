@@ -12,7 +12,7 @@ import { AudioPromo, LockedProduct } from '../cards'
 import { Icon, type IconName } from '../icons'
 import { PageHeader } from '../PageHeader'
 import { Avatar, FontScaleControl, buttonClass } from '../ui'
-import type { Lesson, LessonContent } from '@/lib/catalog'
+import type { Lesson, LessonContent, Product, Section } from '@/lib/catalog'
 import { loadPlanDay } from '@/lib/content/plans/load'
 import { trackFor } from '@/lib/player'
 import { SEED_POSTS, SEED_REFLECTIONS } from '@/lib/community-seed'
@@ -107,7 +107,7 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         <p className="text-[14.5px] leading-snug text-muted">
           {section.plan ? section.title : lesson.rotulo ?? product.title}
           <br />
-          {section.plan ? `Día ${dayN} de ${section.lessons.length}` : lesson.lectura ? `Día ${lesson.lectura.dia} de ${total}` : `Lección ${index + 1} de ${total}`}
+          {section.plan ? `Día ${dayN} de ${section.lessons.length}` : lesson.lectura ? `Día ${lesson.lectura.dia} de ${total}` : tabPosition(product, section, lesson.id) ?? `Lección ${index + 1} de ${total}`}
         </p>
         <FontScaleControl scale={s.fontScale} />
       </div>
@@ -381,9 +381,24 @@ function CompletionCard({
   )
 }
 
+/**
+ * In a product whose tab holds several sections (the Palabras del Señor guide), the
+ * position counts that tab only — "Situación 97 de 106", not the 376 of guide + plans.
+ */
+function tabPosition(product: Product, section: Section, lessonId: string): string | null {
+  if (!section.tab) return null
+  const group = product.sections.filter((sec) => sec.tab === section.tab).flatMap((sec) => sec.lessons)
+  if (group.length < 2) return null
+  const n = group.findIndex((l) => l.id === lessonId) + 1
+  return `${product.id === 'hacedores' ? 'Situación' : 'Lección'} ${n} de ${group.length}`
+}
+
+/** Guides about personal struggles: reflections stay private unless the member chooses to share. */
+const PRIVATE_BY_DEFAULT = new Set(['hacedores', 'caminando-gigantes'])
+
 function ReflectionBox({ lessonKey: key, existing }: { lessonKey: string; existing?: Reflection }) {
   const [text, setText] = useState(existing?.text ?? '')
-  const [shared, setShared] = useState(existing?.shared ?? true)
+  const [shared, setShared] = useState(existing?.shared ?? !PRIVATE_BY_DEFAULT.has(key.split('/')[0]))
   const [saved, setSaved] = useState(false)
   const dirty = text.trim() !== (existing?.text ?? '') || shared !== (existing?.shared ?? true)
 

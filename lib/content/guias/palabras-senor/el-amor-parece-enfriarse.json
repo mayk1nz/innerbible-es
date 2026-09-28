@@ -1,0 +1,87 @@
+{
+  "id": "el-amor-parece-enfriarse",
+  "titulo": "Cuando el amor parece enfriarse",
+  "etiquetas": ["Matrimonio y pareja", "Rutina", "Primer amor"],
+  "enUnMinuto": [
+    "El amor casi nunca se apaga de golpe: se enfría por descuidos pequeños que nadie atiende.",
+    "El primer paso es recordar cómo se amaban al principio y volver a hacer, hoy, uno de esos gestos."
+  ],
+  "versiculo": {
+    "texto": "Cazadnos las zorras, las zorras pequeñas, que echan a perder las viñas; pues que nuestras viñas están en cierne.",
+    "referencia": "Cantares 2:15"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Graciela y Rodolfo llevan veinte años casados. No pelean, pero casi no hablan. Él mira el celular en la cena; ella se duerme con la tele encendida. Hace años que no salen solos. Un día ella pensó: “Vivimos como dos compañeros de cuarto”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Los pequeños descuidos son como zorras que dañan la viña sin hacer ruido. El amor se cuida atendiendo lo pequeño a tiempo (Cantares 2:15)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Pensamos que el amor es solo un sentimiento: si se fue, ya no hay nada que hacer. Entonces esperamos que el otro cambie primero, o nos resignamos a una convivencia fría. Algunos buscan afuera la emoción que falta en casa. Ninguno de esos caminos devuelve el calor; solo agranda la distancia."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "En el Apocalipsis, Jesús le dice a una iglesia: «has dejado tu primer amor». Y le da tres pasos: recuerda, arrepiéntete y «haz las primeras obras» (Apocalipsis 2:4-5). Se lo dijo a una iglesia, pero el principio sirve también para el matrimonio. El amor se reaviva haciendo, no solo sintiendo.",
+        "Pablo describe el amor con verbos: es sufrido, es benigno, no busca lo suyo (1 Corintios 13:4-5). Son decisiones de cada día. Y nos pide adelantarnos a honrar al otro (Romanos 12:10). Cuando uno empieza a honrar, el otro suele responder. No siempre enseguida, pero la semilla queda sembrada."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Recuerda: escribe tres cosas que hacían juntos al principio (Apocalipsis 2:5).",
+        "Nombra las “zorras pequeñas” de tu casa: el celular en la mesa, la falta de saludo, el cansancio.",
+        "Elige un gesto de honra diario: un saludo con beso, un “gracias”, una pregunta sincera.",
+        "Aparten un rato a la semana para estar solos, aunque sea un café en la cocina.",
+        "Oren juntos, aunque sea un minuto. Si les cuesta, lean un salmo en voz alta."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué dejé de hacer por mi pareja que antes hacía con gusto?",
+        "¿Estoy esperando que el otro dé el primer paso?",
+        "¿Qué “zorra pequeña” estoy dejando entrar a nuestra viña?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Haz hoy una “primera obra”: algo que hacías cuando eran novios. Un mensaje cariñoso a media tarde, su comida favorita, una caminata juntos. Hazlo sin esperar nada a cambio."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la distancia viene con desprecio constante, abandono o violencia, o si ya hubo una infidelidad, no lo cargues solo. Hablen con su pastor o sacerdote, o con un consejero de parejas. Pedir ayuda a tiempo no es fracaso."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Cantares 2:10-15", "nota": "El amor que se cuida en primavera." },
+        { "ref": "Apocalipsis 2:1-5", "nota": "Volver al primer amor." },
+        { "ref": "1 Corintios 13:1-8", "nota": "Cómo es el amor que no deja de ser." },
+        { "ref": "Romanos 12:9-13", "nota": "Amor sincero y honra mutua." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces nuestro matrimonio. Perdóname por los descuidos que dejé crecer. Enséñame a amar con obras, empezando hoy. Vuelve a encender entre nosotros el amor que tú mismo nos diste. Amén."
+    }
+  ],
+  "estudio": ["cantares", "1-corintios"],
+  "buscar": "amor en el matrimonio"
+}

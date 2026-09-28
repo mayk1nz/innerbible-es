@@ -1,0 +1,90 @@
+{
+  "id": "la-pereza-me-gana",
+  "titulo": "Cuando la pereza me gana",
+  "etiquetas": ["Tentación y hábitos", "Diligencia"],
+  "enUnMinuto": [
+    "La Biblia no se burla del perezoso: lo manda a aprender de la hormiga, que trabaja sin que nadie la obligue.",
+    "La diligencia no nace de las ganas; nace de pasos pequeños y constantes.",
+    "Primer paso: elige una sola tarea y decide cuándo darás el primer paso."
+  ],
+  "versiculo": {
+    "texto": "Ve a la hormiga, oh perezoso, mira sus caminos, y sé sabio;",
+    "referencia": "Proverbios 6:6"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Kevin tiene 20 años y dejó de estudiar hace un año. Dice que mañana va a buscar trabajo. Pasa la tarde con el celular mientras su mamá hace doble turno. En el fondo, él tampoco está contento consigo mismo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La hormiga no tiene jefe que la vigile, y aun así prepara su comida a tiempo (Proverbios 6:6-8). La sabiduría está en hacer hoy lo que toca hoy."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es esperar a tener ganas: “cuando me sienta motivado, empiezo”. Otro es planear demasiado, con una lista enorme que nunca se empieza. Y otro es el insulto, “eres un flojo”, que hunde en vez de levantar.",
+        "Esperar el momento perfecto no funciona. El que mira el viento no siembra, y el que mira las nubes no cosecha (Eclesiastés 11:4). Un poco de sueño, un poco de descanso, y la necesidad llega sin avisar (Proverbios 6:10-11)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Dios nos invita a trabajar de corazón, como para Él y no solo para la gente (Colosenses 3:23). Aun el trabajo pequeño tiene valor ante Dios. Pablo pide no ser perezosos en lo que hay que hacer, sino servir al Señor con fervor (Romanos 12:11).",
+        "El Eclesiastés anima: lo que tengas a mano para hacer, hazlo según tus fuerzas (Eclesiastés 9:10). No pide fuerzas que no tienes. Pide que uses las que sí tienes.",
+        "Pero no todo cansancio es pereza. A veces lo que parece flojera es depresión, anemia, falta de sueño o mucho desánimo. Entonces el primer paso diligente es buscar ayuda."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elige una sola tarea que vienes posponiendo y escríbela.",
+        "Pártela hasta encontrar un primer paso que tome menos de quince minutos.",
+        "Hazlo a una hora fija, con el celular lejos (Eclesiastés 9:10).",
+        "Cuéntale a alguien tu plan y pídele que te pregunte cómo te fue.",
+        "Al terminar, da gracias a Dios y marca el avance, aunque sea pequeño (Colosenses 3:23)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué estoy evitando, y por qué?",
+        "¿Quién está cargando lo que me toca a mí?",
+        "¿Esto es pereza, o es un cansancio que necesita atención?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche escribe tu plan para mañana: una sola tarea, la hora en que la harás y el primer paso. Deja el papel junto a tu cama y cúmplelo al despertar. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿El desgano dura semanas, duermes mucho o muy poco, o nada te da alegría? Puede ser depresión u otro problema de salud. Habla con un médico y con alguien de confianza. Buscar ayuda profesional no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Proverbios 6:6-11", "nota": "La lección de la hormiga." },
+        { "ref": "Proverbios 24:30-34", "nota": "El campo descuidado." },
+        { "ref": "Colosenses 3:23-24", "nota": "Trabajar como para el Señor." },
+        { "ref": "Mateo 25:14-30", "nota": "Los talentos que se usan y el que se esconde." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, muchas veces dejo para mañana lo que me pediste hoy. Despierta mi corazón y dame fuerzas para dar el primer paso. Que mi trabajo, aun el más pequeño, sea para ti. Amén."
+    }
+  ],
+  "estudio": ["proverbios", "eclesiastes"],
+  "buscar": "diligencia"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "me-toca-esperar",
+  "titulo": "Cuando me toca esperar",
+  "etiquetas": ["Decisiones y dirección", "Paciencia", "Esperanza"],
+  "enUnMinuto": [
+    "Esperar en Dios no es perder el tiempo: es una forma de confiar.",
+    "La Biblia llama bueno esperar en el Señor, y enseña a esperar trabajando, orando y sin atajos.",
+    "Primer paso: ponle nombre a lo que esperas y entrégaselo a Dios cada mañana."
+  ],
+  "versiculo": {
+    "texto": "Bueno es Jehová a los que en él esperan, al alma que le buscare. Bueno es esperar callando en la salud de Jehová.",
+    "referencia": "Lamentaciones 3:25-26"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Doña Teresa trabajó treinta años en una fábrica de Monterrey. Hace año y medio que espera que le aprueben la pensión. Cada mes va a la oficina, y cada mes le dicen que falta un papel. Ya está cansada de esperar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Es bueno esperar en el Señor y seguir buscándolo mientras la respuesta no llega (Lamentaciones 3:25-26). La espera también es un lugar donde Dios obra."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Cuando toca esperar, es fácil desesperarse. Algunos se enojan con Dios y dejan de orar. Otros toman atajos: pagan a un gestor dudoso o hacen trampa para acelerar las cosas. Otros se sientan a esperar sin hacer nada.",
+        "El rey Saúl esperó siete días al profeta Samuel. Como no llegaba, ofreció el sacrificio por su cuenta (1 Samuel 13:8-12). No aguantó un poco más, y le costó caro. La impaciencia suele empeorar lo que queríamos resolver."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia compara la espera con el trabajo del agricultor. Siembra, cuida y espera la lluvia temprana y la tardía (Santiago 5:7-8). No se queda de brazos cruzados, pero tampoco puede apurar la cosecha.",
+        "Esperar en el Señor es seguir haciendo lo que te toca: los trámites, el trabajo, el cuidado de los tuyos. Y a la vez, dejar en sus manos lo que no controlas. Abraham esperó muchos años y, con paciencia, alcanzó la promesa (Hebreos 6:15).",
+        "El Salmo 27:14 lo resume: espera al Señor, esfuérzate y que tu corazón tome aliento. Esperar no es rendirse. Es seguir de pie, confiando."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe qué estás esperando y desde cuándo. Ponerle nombre ayuda a entregarlo.",
+        "Separa lo que depende de ti de lo que no. Haz tu parte con cuidado, sin atajos.",
+        "Cada mañana, entrega a Dios lo que no controlas: “Señor, esto está en tus manos”.",
+        "Llena la espera con algo bueno: servir, aprender, cuidar a alguien (Santiago 5:7).",
+        "Busca a alguien que espere contigo y ore por ti. La espera pesa menos acompañada."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy esperando en Dios o solo esperando que las cosas cambien?",
+        "¿Hay algún atajo que me está tentando?",
+        "¿Qué cosa buena puedo hacer mientras espero?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Aparta 10 minutos para leer despacio Lamentaciones 3:21-26. Después escribe en una tarjeta: “Es bueno esperar en el Señor”. Ponla donde la veas cada mañana, en el espejo o junto a la cama."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Abraham esperó décadas la promesa de un hijo. Tuvo momentos de fe y momentos de impaciencia, pero Dios cumplió. Lee «Abraham» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lamentaciones 3:21-26", "nota": "La esperanza que nace en medio del dolor." },
+        { "ref": "Santiago 5:7-8", "nota": "El agricultor que espera la lluvia." },
+        { "ref": "Salmos 27:13-14", "nota": "Esfuérzate y espera al Señor." },
+        { "ref": "Hebreos 6:13-15", "nota": "Abraham espera y alcanza la promesa." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, estoy cansado de esperar. Tú ves lo que tarda y lo que me duele. Ayúdame a hacer mi parte sin atajos y a dejar en tus manos lo demás. Dame paciencia de agricultor y un corazón que confía. Amén."
+    }
+  ],
+  "estudio": ["lamentaciones"],
+  "buscar": "esperar"
+}

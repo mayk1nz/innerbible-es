@@ -1,0 +1,95 @@
+{
+  "id": "pierdo-el-trabajo",
+  "titulo": "Cuando pierdo el trabajo",
+  "etiquetas": ["Trabajo y propósito", "Desempleo", "Provisión"],
+  "enUnMinuto": [
+    "Perder el trabajo duele, y la Biblia te permite llorar esa pérdida.",
+    "Tu valor no depende de tu puesto, y el Señor promete sostenerte mientras buscas.",
+    "Hoy no te escondas: cuenta lo que pasa y busca junto con otros."
+  ],
+  "versiculo": {
+    "texto": "Echa sobre Jehová tu carga, y él te sustentará; no dejará para siempre caído al justo.",
+    "referencia": "Salmos 55:22"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Ramón trabajó veinte años en una fábrica de Guayaquil. Un lunes le dijeron que la fábrica cerraba. Tiene 48 años, dos hijos en el colegio y mucha vergüenza. Cada mañana sale de casa como si fuera a trabajar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Puedes poner tu carga en las manos del Señor, y Él promete sostenerte (Salmos 55:22). No promete que será fácil. Sí promete que no quedarás caído para siempre."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos se esconden por vergüenza, como Ramón. Otros se culpan día y noche, o se paralizan frente al televisor. Algunos, desesperados, aceptan cualquier propuesta dudosa. El aislamiento y el pánico cierran puertas. Las personas que podrían ayudarte ni siquiera saben que estás buscando."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Job perdió su sustento en un solo día. Se levantó, rasgó su manto y aun así adoró a Dios (Job 1:20-21). La fe no niega el dolor; lo lleva delante del Señor. Rut, sin trabajo y en tierra extraña, salió a recoger espigas, un trabajo humilde (Rut 2:2). Allí Dios la encontró.",
+        "La primera iglesia compartía con quien pasaba necesidad (Hechos 2:44-45). Pedir y aceptar ayuda es parte del cuerpo de Cristo, no una humillación. Y buscar trabajo también es trabajo: con horario, con esfuerzo y con oración."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuéntaselo hoy a tu familia. Pueden enfrentarlo juntos, sin secretos.",
+        "Revisa tus derechos: liquidación, seguro de desempleo u otros beneficios que te correspondan.",
+        "Haz un presupuesto de emergencia y deja lo que no es necesario por ahora.",
+        "Dale horario a la búsqueda: un tiempo para buscar y otro para aprender o hacer trabajos temporales (Proverbios 14:23).",
+        "Acepta ayuda de tu iglesia o tu comunidad, y ofrece la tuya cuando puedas (Gálatas 6:2)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy escondiendo mi situación por orgullo o por vergüenza?",
+        "¿Estoy creyendo que valgo lo que valía mi puesto?",
+        "¿Qué sé hacer que podría servir en otro lugar?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy una lista de diez personas que podrían saber de un trabajo. Envía un mensaje sencillo a las tres primeras: cuéntales que estás buscando y qué sabes hacer."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Job perdió en un día sus bienes y su sustento, y no entendía por qué. Su historia muestra que se puede llorar y seguir confiando. Lee «Job» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la angustia no te deja dormir ni comer, o piensas que no vale la pena vivir, busca ayuda hoy. Habla con alguien de confianza, con tu pastor o sacerdote, o con un médico. Si estás en peligro, llama al número de emergencias. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Job 1:13-22", "nota": "Job lo pierde todo y adora a Dios." },
+        { "ref": "Rut 2:1-12", "nota": "Rut busca un trabajo humilde y encuentra favor." },
+        { "ref": "Salmos 55:16-22", "nota": "Echa tu carga sobre el Señor." },
+        { "ref": "Hechos 2:42-47", "nota": "Una comunidad que comparte." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, perdí mi trabajo y tengo miedo. Tú conoces a mi familia y lo que necesitamos. Echo esta carga sobre ti. Dame fuerzas para buscar, humildad para pedir ayuda y paz para dormir. Abre una puerta, Señor. Amén."
+    }
+  ],
+  "estudio": ["job"],
+  "buscar": "provisión"
+}

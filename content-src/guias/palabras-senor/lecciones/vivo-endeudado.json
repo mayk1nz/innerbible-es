@@ -1,0 +1,88 @@
+{
+  "id": "vivo-endeudado",
+  "titulo": "Cuando vivo endeudado",
+  "etiquetas": ["Dinero y provisión", "Deudas"],
+  "enUnMinuto": [
+    "Las deudas pesan, pero no tienes que enfrentarlas escondido.",
+    "La Biblia llama a pagar lo que debemos y a salir de la esclavitud de las deudas, paso a paso.",
+    "Hoy escribe la lista completa de lo que debes: mirar la verdad es el primer paso."
+  ],
+  "versiculo": {
+    "texto": "No debáis a nadie nada, sino amaros unos a otros; porque el que ama al prójimo, cumplió la ley.",
+    "referencia": "Romanos 13:8"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Jaime, de Cali, pidió un préstamo para una emergencia médica. Después usó la tarjeta para pagar el préstamo. Ahora también le cobra un prestamista del barrio, con intereses diarios. Ya no contesta el teléfono y duerme mal."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios quiere que vivamos sin deber nada, salvo el amor (Romanos 13:8). Quien toma prestado queda atado a quien le presta (Proverbios 22:7). Por eso, salir de deudas es buscar libertad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es esconderse: no abrir los sobres, no contestar, no contar nada en casa. Otro es tapar una deuda con otra más cara. Y otro es esperar un golpe de suerte, como la lotería o un negocio milagroso. Todo eso hace crecer la deuda y el miedo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia cuenta de una viuda endeudada; el acreedor quería llevarse a sus dos hijos como siervos (2 Reyes 4:1). Ella no se escondió. Buscó ayuda, pidió vasijas a sus vecinos y siguió las instrucciones de Eliseo. Dios proveyó, y ella pagó a sus acreedores (2 Reyes 4:7).",
+        "Dios no siempre obra de la misma manera, pero el camino se parece: decir la verdad, pedir ayuda y actuar con orden. La Biblia nos pide pagar a todos lo que debemos (Romanos 13:7). Pagar, aunque sea poco a poco, es un acto de fe y de honestidad."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Haz la lista completa: a quién debes, cuánto, qué interés pagas y cuándo vence.",
+        "No tomes deudas nuevas mientras pagas las viejas, salvo una emergencia real.",
+        "Paga primero la deuda con el interés más alto, y lo mínimo en las demás.",
+        "Habla con quienes te prestaron: pide plazos o un acuerdo de pago que puedas cumplir.",
+        "Busca asesoría de confianza y cuéntaselo a tu familia; dos pueden más que uno (Eclesiastés 4:9-10)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Sé exactamente cuánto debo, o prefiero no mirar?",
+        "¿Estoy esperando un golpe de suerte en vez de hacer un plan?",
+        "¿Qué gasto puedo cortar este mes para pagar un poco más?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy la lista completa de tus deudas, sin dejar ninguna fuera. Junto a cada una, anota el monto, el interés y la fecha. Luego ora sobre esa hoja y entrégasela al Señor. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si te amenazan por una deuda, o un prestamista informal te intimida, busca protección y denúncialo ante la autoridad. Cuéntalo a alguien de confianza. Si la angustia te quita el sueño o piensas en la muerte, busca hoy a tu pastor, sacerdote o médico. En peligro, llama a emergencias. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "2 Reyes 4:1-7", "nota": "La viuda endeudada y el aceite." },
+        { "ref": "Romanos 13:7-8", "nota": "Pagar lo que debemos; deber solo amor." },
+        { "ref": "Proverbios 22:7", "nota": "Quien toma prestado queda atado." },
+        { "ref": "Eclesiastés 4:9-10", "nota": "Mejor dos que uno para levantarse." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, estoy endeudado y tengo miedo. Perdóname por lo que hice sin pensar, y dame valor para mirar la verdad. Guíame a pagar con orden y honestidad. Pon personas sabias a mi lado. Líbrame de esta carga. Amén."
+    }
+  ],
+  "estudio": ["romanos"],
+  "buscar": "deudas"
+}

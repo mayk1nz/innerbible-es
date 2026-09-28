@@ -1,0 +1,153 @@
+{
+  "id": "que-estas-viviendo",
+  "titulo": "¿Qué estás viviendo hoy?",
+  "subtitulo": "Busca tu lucha y encuentra a tu gigante",
+  "etiquetas": ["Comienza aquí", "Índice de luchas"],
+  "enUnMinuto": [
+    "Busca en esta lista la frase que más se parece a lo que estás viviendo hoy.",
+    "Al lado encontrarás a uno o dos gigantes de la Biblia que pasaron por algo parecido.",
+    "Abre su ficha, mira qué decidieron y da un paso con Dios esta semana."
+  ],
+  "versiculo": {
+    "texto": "Cercano está Jehová a los quebrantados de corazón; y salvará a los contritos de espíritu.",
+    "referencia": "Salmos 34:18"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás no sabes ni cómo llamar lo que te pasa. Solo sabes que duele. Mira esta lista con calma, sin prisa. Busca la frase que más se parece a lo que vives. Al lado está el nombre de quien pasó por algo parecido. Abre su ficha: no estás solo en esta lucha."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Injusticia y espera",
+      "items": [
+        "Me acusaron de algo que no hice → José",
+        "Mi propia familia me traicionó → José / Jacob y Esaú",
+        "Hice todo bien y aun así me fue mal → José / Job",
+        "Alguien me ataca sin motivo, una y otra vez → David, perseguido",
+        "Un jefe o una autoridad me persigue → David, perseguido / Daniel",
+        "Llevo años esperando algo que no llega → Abraham / Ana",
+        "Quiero un hijo y no llega → Ana / Abraham",
+        "Nadie entiende mi dolor, ni siquiera los míos → Ana",
+        "Se burlan de mí por lo que me falta → Ana"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pérdida y duelo",
+      "items": [
+        "Lo perdí todo y no entiendo por qué → Job",
+        "Me dicen que mi sufrimiento es castigo de Dios → Job",
+        "Murió mi esposo, mi esposa o mi hijo → Noemí / Marta y María",
+        "El dolor me está volviendo amargo → Noemí",
+        "Oré por un milagro y no llegó a tiempo → Marta y María",
+        "Siento que Dios llegó tarde → Marta y María",
+        "Mi tristeza es profunda y no termina → Jeremías, entre ruinas / Job",
+        "Mi vida parece una ciudad en ruinas → Jeremías, entre ruinas"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Miedo, inseguridad y llamado",
+      "items": [
+        "Mi pasado me hace sentir que ya no sirvo → Moisés",
+        "Me piden hablar y siento que no sé hacerlo → Moisés / Jeremías",
+        "Me siento demasiado pequeño o débil → Gedeón",
+        "Tengo miedo y le pido señales a Dios → Gedeón",
+        "Nadie me escucha ni me entiende → Jeremías",
+        "Soy joven y me toca una responsabilidad grande → Timoteo / Jeremías",
+        "Soy tímido y me cuesta liderar → Timoteo",
+        "Tengo que hablar, aunque me arriesgo → Ester",
+        "Callar sería más cómodo, pero no sería justo → Ester"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cansancio y soledad",
+      "items": [
+        "Ya no puedo más → Elías",
+        "Estoy tan agotado que quisiera morirme → Elías",
+        "Siento que soy el único que sigue siendo fiel → Elías",
+        "Me echaron de la casa o me abandonaron → Agar",
+        "Estoy criando solo o sola, y no sé cómo seguir → Agar",
+        "Siento que nadie me ve → Agar / Ana"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Culpa, caída y nuevo comienzo",
+      "items": [
+        "Caí en un pecado que nunca imaginé → David, después de caer",
+        "Fallé en el momento más importante → Pedro",
+        "Negué mi fe por miedo → Pedro",
+        "Tengo un don, pero mi carácter me hace caer → Sansón",
+        "Una debilidad me domina → Sansón",
+        "Estoy huyendo de lo que Dios me pidió → Jonás",
+        "Me enoja que Dios perdone a quien me hizo daño → Jonás",
+        "Todos me juzgan por lo que hice → Zaqueo",
+        "Quiero reparar el daño que causé → Zaqueo",
+        "Cargo una historia que me avergüenza → La mujer samaritana",
+        "Evito a la gente por mi pasado → La mujer samaritana"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Familia y relaciones",
+      "items": [
+        "Una pelea de familia lleva años → Jacob y Esaú",
+        "Tengo miedo de reencontrarme con alguien a quien herí → Jacob y Esaú",
+        "Me toca cuidar a un familiar mayor → Rut / Noemí",
+        "Elegí quedarme y ser fiel, aunque me cuesta → Rut",
+        "Soy extranjero o me siento de afuera → Rut",
+        "Vivo con alguien difícil o grosero → Abigail",
+        "Me toca poner paz en medio del conflicto → Abigail"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Fe bajo presión",
+      "items": [
+        "Ser fiel a Dios me está costando caro → Daniel / Esteban",
+        "Me presionan en el trabajo para hacer algo malo → Daniel / Sadrac, Mesac y Abed-nego",
+        "Todos hacen algo que yo no quiero hacer → Sadrac, Mesac y Abed-nego",
+        "Obedecer a Dios me trae un problema tras otro → Pablo",
+        "Me rechazan o me atacan por seguir a Jesús → Esteban"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Enfermedad y límites",
+      "items": [
+        "Llevo años enfermo y cansado → La mujer que tocó el manto",
+        "Llevo años buscando sanidad y no mejoro → La mujer que tocó el manto",
+        "Mi enfermedad me aleja de los demás → La mujer que tocó el manto / Naamán",
+        "Me cuesta aceptar ayuda o consejo → Naamán",
+        "El orgullo no me deja pedir ayuda → Naamán",
+        "Vivo con una debilidad que no se va → Pablo"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El Gigante mayor",
+      "items": [
+        "Dios me pide algo que me duele entregar → Jesús en Getsemaní",
+        "Tengo angustia y miedo por lo que viene → Jesús en Getsemaní",
+        "Me siento pequeño al lado de estos gigantes → Tú caminas con gigantes",
+        "Quiero seguir caminando, aunque me canse → Tú caminas con gigantes"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Elige hoy una sola frase de esta lista, la que más se parece a tu vida. Lee la ficha de ese gigante, aunque sea solo el resumen. Si tu lucha no aparece aquí, no importa: Dios también la conoce (Salmos 139:1-3). Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si alguna frase habla de ganas de morir, violencia, abuso o enfermedad grave, no te quedes solo con la lectura. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un médico o profesional. Si estás en peligro, llama a un número de emergencia."
+    }
+  ],
+  "buscar": "Salmos 34:18"
+}

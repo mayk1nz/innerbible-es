@@ -1,0 +1,95 @@
+{
+  "id": "mi-jefe-es-injusto",
+  "titulo": "Cuando mi jefe es injusto",
+  "etiquetas": ["Trabajo y propósito", "Injusticia", "Jefe"],
+  "enUnMinuto": [
+    "La Biblia te pide no devolver mal por mal, ni siquiera a un jefe injusto.",
+    "Pero no vengarte no significa callar ante el abuso: puedes pedir lo justo con respeto.",
+    "Empieza hoy orando por él, por su nombre."
+  ],
+  "versiculo": {
+    "texto": "Porque esto es agradable, si alguno a causa de la conciencia delante de Dios, sufre molestias padeciendo injustamente.",
+    "referencia": "1 Pedro 2:19"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Luis trabaja en una bodega en Lima. Su jefe le grita delante de todos y le carga los turnos que nadie quiere. Cuando pidió el pago de sus horas extras, le dijo que se fuera si no le gustaba. Luis llega a casa con ganas de romper algo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios ve la injusticia y la toma en serio (Santiago 5:4). A ti te pide guardar la conciencia limpia y no vengarte, dejando tu causa en sus manos (1 Pedro 2:19-23)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores muy comunes. Uno es la venganza escondida: trabajar mal a propósito, hablar mal del jefe, sabotear. El otro es aguantar todo en silencio, como si Dios pidiera dejarse pisar. La venganza te vuelve parecido a él. El silencio total puede dañar tu salud y a tu familia."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Cuando maldecían a Jesús, Él no respondía con maldición; dejaba su causa en manos del Padre (1 Pedro 2:23). Eso te libra del odio. Tú haces bien tu trabajo, no por el jefe, sino por el Señor. Y oras por quien te trata mal, como pide Jesús (Mateo 5:44).",
+        "Pero no devolver mal no es renunciar a la justicia. Dios manda pagar al trabajador a tiempo (Deuteronomio 24:14-15). Pablo, maltratado, reclamó con calma sus derechos de ciudadano (Hechos 22:25). Tú también puedes hablar con respeto, pedir lo que es justo y usar los caminos legales."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ante un grito, respira y calla un momento. La respuesta suave calma la ira (Proverbios 15:1).",
+        "Anota los hechos con fecha y hora, sin insultos. Te protegerá si necesitas reclamar.",
+        "Habla con tu jefe a solas y con respeto. Di qué pasó y qué necesitas, sin acusar.",
+        "Si nada cambia, usa los caminos correctos: recursos humanos, el sindicato o la autoridad laboral de tu país.",
+        "Cada día, entrega la causa a Dios en oración, para no llevar el rencor a casa (1 Pedro 2:23)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy devolviendo mal por mal, aunque sea en cosas pequeñas?",
+        "¿Estoy callando por miedo algo que debería decir con respeto?",
+        "¿Cómo está llegando esta rabia a mi casa y a mi familia?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Antes de dormir, ora un minuto por tu jefe, por su nombre. No le pidas a Dios que lo castigue. Pídele que lo cambie, y que a ti te dé sabiduría y paz. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "David sirvió al rey Saúl con lealtad, y Saúl le pagó con celos y persecución. Aun así, David no le hizo daño cuando pudo (1 Samuel 24:10). Pero tampoco se quedó para que lo mataran. Lee «David, perseguido» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si en tu trabajo hay acoso, humillaciones constantes, amenazas o abuso sexual, no tienes que aguantarlo en silencio. Cuéntalo hoy a alguien de confianza, a tu pastor o sacerdote, y busca ayuda legal o laboral. Si estás en peligro, llama al número de emergencias. Protegerte no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Pedro 2:19-23", "nota": "Jesús no devolvió mal por mal." },
+        { "ref": "Deuteronomio 24:14-15", "nota": "Dios defiende el pago justo del trabajador." },
+        { "ref": "1 Samuel 24:1-12", "nota": "David no se venga de Saúl." },
+        { "ref": "Romanos 12:17-21", "nota": "Vence con el bien el mal." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú ves cómo me tratan en el trabajo. Me duele y me enoja. Guarda mi corazón del odio y mi boca de la venganza. Dame valor para pedir lo justo con respeto. Pongo mi causa en tus manos. Amén."
+    }
+  ],
+  "estudio": ["1-pedro"],
+  "buscar": "injusticia"
+}

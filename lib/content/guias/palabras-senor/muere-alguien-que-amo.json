@@ -1,0 +1,97 @@
+{
+  "id": "muere-alguien-que-amo",
+  "titulo": "Cuando muere alguien que amo",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Duelo", "Esperanza"],
+  "enUnMinuto": [
+    "Llorar a quien amas no es falta de fe: Jesús también lloró ante la tumba de su amigo.",
+    "El cristiano llora, pero no llora sin esperanza.",
+    "Primer paso: date permiso para estar de duelo y deja que otros te acompañen."
+  ],
+  "versiculo": {
+    "texto": "Tampoco, hermanos, queremos que ignoréis acerca de los que duermen, que no os entristezcáis como los otros que no tienen esperanza.",
+    "referencia": "1 Tesalonicenses 4:13"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Doña Elena enterró a su esposo después de 42 años de casados. En el velorio todos le decían: “No llores, ya está en un lugar mejor”. Ahora la casa está en silencio. Cada mañana pone dos tazas en la mesa sin darse cuenta."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La Biblia no prohíbe el dolor: nos da esperanza en medio de él. No lloramos como los que no tienen esperanza, porque Jesús murió y resucitó (1 Tesalonicenses 4:13-14)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es apurar el duelo: “sé fuerte”, “ya pasó un mes”, “tienes que superarlo”. Algunos se tragan las lágrimas porque creen que llorar es falta de fe. Otros se encierran y no dejan que nadie los acompañe.",
+        "Nada de eso funciona. El duelo no se salta; se atraviesa. Las lágrimas guardadas se vuelven peso en el cuerpo y en el alma. Y el consuelo apurado, aunque bien intencionado, deja a la persona más sola."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Frente a la tumba de su amigo Lázaro, «lloró Jesús» (Juan 11:35). Lloró aun sabiendo que lo iba a resucitar. Si Jesús lloró, tú también puedes llorar. Él mismo dijo que los que lloran recibirán consolación (Mateo 5:4).",
+        "Dios guarda tus lágrimas; ninguna se pierde (Salmo 56:8). Y en Jesús tenemos una esperanza firme: Él es la resurrección y la vida (Juan 11:25). Un día Dios limpiará toda lágrima, y la muerte no será más (Apocalipsis 21:4).",
+        "Mientras tanto, Dios consuela a través de otros (2 Corintios 1:3-4). Deja que te acompañen. Cada tradición cristiana recuerda a sus difuntos a su manera; vívelo con la guía de tu iglesia."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Date permiso para llorar y para hablar de tu ser querido; decir su nombre también sana.",
+        "Acepta ayuda concreta: comida, trámites, compañía (Romanos 12:15).",
+        "Cuida lo básico: comer, dormir y tomar tus medicinas.",
+        "Lleva tu dolor a Dios con los salmos; no necesitas palabras bonitas (Salmo 56:8).",
+        "Evita decisiones grandes en los primeros meses, como vender la casa o mudarte."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Me estoy permitiendo llorar, o me exijo estar bien?",
+        "¿Quién puede acompañarme esta semana?",
+        "¿Qué parte de mi esperanza en Cristo necesito escuchar hoy?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy tres recuerdos de tu ser querido por los que das gracias a Dios. Después, compártelos con alguien de confianza, en persona o por teléfono. Llorar mientras lo haces está bien. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Noemí perdió a su esposo y a sus dos hijos. Llegó a pedir que la llamaran Mara, que significa amarga (Rut 1:20). Dios no la abandonó. Lee su ficha «Noemí» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si después de meses no logras comer, dormir o levantarte, o piensas que sería mejor morir también, busca ayuda hoy. Habla con alguien de confianza, con tu pastor o sacerdote y con un médico. En peligro, llama al número de emergencias. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 11:17-44", "nota": "Jesús llora y da vida." },
+        { "ref": "1 Tesalonicenses 4:13-18", "nota": "Esperanza para los que lloran." },
+        { "ref": "Salmo 23", "nota": "El Señor camina conmigo en el valle oscuro." },
+        { "ref": "Apocalipsis 21:1-5", "nota": "Dios limpiará toda lágrima." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me duele mucho esta ausencia. Tú lloraste con los que lloraban; llora conmigo hoy. Guarda mis lágrimas y sostén mi esperanza. Gracias porque tú eres la resurrección y la vida. Amén."
+    }
+  ],
+  "estudio": ["1-tesalonicenses", "rut"],
+  "buscar": "duelo"
+}

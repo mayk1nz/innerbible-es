@@ -1,0 +1,86 @@
+{
+  "id": "me-cuesta-leer-la-biblia",
+  "titulo": "Cuando me cuesta leer la Biblia",
+  "etiquetas": ["Fe y vida espiritual", "Biblia", "Lectura"],
+  "enUnMinuto": [
+    "No entender la Biblia no es una vergüenza: el etíope que leía a Isaías dijo que necesitaba que alguien le enseñara.",
+    "Dios usa guías, comunidad y un plan sencillo para abrir su Palabra.",
+    "Primer paso: empieza por un evangelio, unos pocos versículos al día."
+  ],
+  "versiculo": {
+    "texto": "Y acudiendo Felipe, le oyó que leía el profeta Isaías, y dijo: Mas ¿entiendes lo que lees? Y él dijo: ¿Y cómo podré, si alguno no me enseñare? Y rogó a Felipe que subiese, y se sentase con él.",
+    "referencia": "Hechos 8:30-31"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Don Mario, de 67 años, aprendió a leer de adulto en un pueblo de Nicaragua. Le regalaron una Biblia y empezó por Génesis con mucha ilusión. Llegó a Levítico, se perdió entre leyes y nombres, y la guardó. Piensa que la Biblia no es para gente como él."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El etíope leía al profeta Isaías y no entendía. Felipe se sentó a su lado y le explicó (Hechos 8:30-31). Dios pone guías en el camino de quien quiere entender su Palabra."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es empezar por la primera página y leer de corrido, como una novela. La Biblia es una biblioteca de muchos libros. Algunos son fáciles para empezar, y otros necesitan más ayuda.",
+        "Otro error es pensar que, si no entiendes todo, no sirve. O leer por obligación, muy rápido, solo para cumplir. La Palabra no se come de un bocado: se saborea poco a poco."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "El etíope no se avergonzó de pedir ayuda. Y Felipe, empezando por ese mismo texto, le anunció a Jesús (Hechos 8:35). En tiempos de Esdras también leían la ley y explicaban su sentido, para que el pueblo entendiera (Nehemías 8:8).",
+        "Antes de leer, pide ayuda a Dios. El salmista le pedía que abriera sus ojos para ver las maravillas de su ley (Salmo 119:18). La Palabra de Dios da luz y hace entender a los sencillos (Salmo 119:130).",
+        "Empieza por Jesús. Los discípulos de Emaús sintieron arder el corazón mientras Él les explicaba las Escrituras (Lucas 24:32). Un evangelio, como Marcos o Lucas, es una buena puerta de entrada."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Empieza por el Evangelio de Marcos: es corto y sencillo.",
+        "Lee poco: de cinco a diez versículos al día. Si te cuesta leer, escucha una Biblia en audio.",
+        "Antes de leer, pídele a Dios que abra tus ojos (Salmo 119:18).",
+        "Después, hazte dos preguntas: ¿qué me dice de Dios?, ¿qué me pide hoy a mí?",
+        "Busca un grupo, una clase o una persona que lea contigo, como Felipe con el etíope."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Leo la Biblia para cumplir o para encontrarme con Dios?",
+        "¿Qué me impide pedir ayuda para entenderla?",
+        "¿Con quién podría leer la Biblia acompañado?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Abre hoy tu Biblia en Marcos 1 y lee solo los versículos 1 al 11. Subraya una frase que te llame la atención. Cuéntasela a alguien antes de que termine el día."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Hechos 8:26-39", "nota": "Felipe explica la Escritura al etíope." },
+        { "ref": "Nehemías 8:1-8", "nota": "Leer y explicar el sentido." },
+        { "ref": "Salmos 119:97-105", "nota": "La Palabra, luz para el camino." },
+        { "ref": "Lucas 24:13-32", "nota": "Jesús abre las Escrituras en Emaús." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero conocer tu Palabra, pero me cuesta. Abre mis ojos para ver lo que tienes para mí. Dame paciencia para leer poco a poco. Pon a mi lado personas que me ayuden a entender. Amén."
+    }
+  ],
+  "estudio": ["hechos-8-12", "tu-biblia"],
+  "buscar": "leer la Biblia"
+}

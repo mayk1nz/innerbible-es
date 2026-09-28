@@ -1,0 +1,93 @@
+{
+  "id": "se-burlan-de-mi-fe",
+  "titulo": "Cuando se burlan de mi fe",
+  "etiquetas": ["Hacedor de la Palabra", "Burlas", "Testimonio"],
+  "enUnMinuto": [
+    "Cuando se burlan de tu fe, no estás solo: Jesús y los profetas también lo vivieron.",
+    "La Biblia llama bienaventurado al que es ofendido por Cristo, y enseña a bendecir sin devolver el golpe.",
+    "Primer paso: ora hoy, por su nombre, por quien se burla de ti."
+  ],
+  "versiculo": {
+    "texto": "Si sois vituperados en el nombre de Cristo, sois bienaventurados; porque la gloria y el Espíritu de Dios reposan sobre vosotros. Cierto, según ellos, él es blasfemado, mas según vosotros es glorificado.",
+    "referencia": "1 Pedro 4:14"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Óscar trabaja en un taller mecánico. Cuando baja la cabeza para dar gracias por su almuerzo, sus compañeros se ríen y lo llaman “el santito”. Uno le pregunta en voz alta si Dios le va a pagar la quincena. Óscar sonríe por fuera, pero por dentro está cansado y enojado."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Ser ofendido por causa de Cristo no es una derrota: la Biblia lo llama bienaventuranza (1 Pedro 4:14). Tu respuesta no es la venganza, sino la bendición (1 Pedro 3:9)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es responder con la misma moneda: una burla por otra, o un sermón enojado. Otros esconden su fe para que los dejen en paz.",
+        "Lo primero cierra corazones. Lo segundo te va apagando por dentro, poco a poco."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús avisó que el mundo lo rechazó a él primero (Juan 15:18). En la cruz, mientras se burlaban, oró: «Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34). No se defendió con insultos.",
+        "Pedro enseña a no devolver mal por mal, sino a bendecir (1 Pedro 3:9). Jesús va más lejos: orar por los que nos ultrajan (Mateo 5:44). Esto no es debilidad. Es una fuerza que viene de Dios.",
+        "Bendecir tampoco es aguantarlo todo en silencio. Si la burla se vuelve acoso o maltrato, puedes poner un límite con calma. También puedes hablar con tu jefe o con quien corresponda. Defender tu dignidad no contradice tu fe."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Antes de responder, respira y ora por dentro: “Señor, dame tu calma”.",
+        "Prepara una respuesta corta y amable, sin sermón: “Para mí es importante; gracias por respetarlo”.",
+        "Sigue viviendo tu fe con naturalidad: dar gracias, ser honrado, tratar bien a todos.",
+        "Ora por nombre por quien se burla de ti (Mateo 5:44).",
+        "Si hay acoso, busca ayuda y pon límites claros. No tienes que soportar maltrato."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi reacción muestra a Cristo, o solo mi herida?",
+        "¿He dejado de vivir mi fe para evitar las burlas?",
+        "¿Hay algo en mi forma de hablar que provoca rechazo, como juzgar a los demás?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe el nombre de la persona que más se burla de tu fe. Ora hoy por ella, por su familia y por lo que carga. Pide para ella lo mismo que pides para ti."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jeremías confesó: «cada día he sido escarnecido; cada cual se burla de mí» (Jeremías 20:7). Quiso callar, pero la palabra de Dios era como fuego en sus huesos. Lee su ficha, «Jeremías», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Pedro 4:12-16", "nota": "Padecer como cristiano, sin vergüenza." },
+        { "ref": "Mateo 5:10-12", "nota": "Bienaventurados los perseguidos." },
+        { "ref": "Jeremías 20:7-13", "nota": "El profeta del que todos se burlaban." },
+        { "ref": "Lucas 23:32-34", "nota": "Jesús perdona en medio de la burla." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú también fuiste burlado, y respondiste con perdón. Cuando se rían de mi fe, guarda mi boca y mi corazón. Bendice a quien me ofende. Y dame valor para seguir viviendo mi fe con alegría. Amén."
+    }
+  ],
+  "estudio": ["1-pedro"],
+  "buscar": "persecución"
+}

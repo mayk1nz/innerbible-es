@@ -926,6 +926,756 @@ export const GUIA_SECCIONES: Record<string, GuiaIndice['secciones']> = {
         }
       ]
     }
+  ],
+  "caminando-gigantes": [
+    {
+      "id": "comienza-aqui",
+      "titulo": "Comienza aquí",
+      "lecciones": [
+        {
+          "id": "comienza-aqui",
+          "titulo": "Cómo usar esta biblioteca",
+          "subtitulo": "Cuatro pasos cuando llega una lucha"
+        },
+        {
+          "id": "que-estas-viviendo",
+          "titulo": "¿Qué estás viviendo hoy?",
+          "subtitulo": "Busca tu lucha y encuentra a tu gigante"
+        }
+      ]
+    },
+    {
+      "id": "injusticia-y-espera",
+      "titulo": "Injusticia y espera",
+      "lecciones": [
+        {
+          "id": "jose",
+          "titulo": "José",
+          "subtitulo": "Cuando hacer todo bien no evita el sufrimiento"
+        },
+        {
+          "id": "david-perseguido",
+          "titulo": "David, perseguido",
+          "subtitulo": "Cuando te atacan sin motivo, una y otra vez"
+        },
+        {
+          "id": "abraham",
+          "titulo": "Abraham",
+          "subtitulo": "Cuando la promesa tarda años en llegar"
+        },
+        {
+          "id": "ana",
+          "titulo": "Ana",
+          "subtitulo": "Cuando tu dolor es invisible para los demás"
+        }
+      ]
+    },
+    {
+      "id": "perdida-y-duelo",
+      "titulo": "Pérdida y duelo",
+      "lecciones": [
+        {
+          "id": "job",
+          "titulo": "Job",
+          "subtitulo": "Cuando no hay respuestas"
+        },
+        {
+          "id": "noemi",
+          "titulo": "Noemí",
+          "subtitulo": "Cuando la amargura quiere ser tu nombre"
+        },
+        {
+          "id": "marta-y-maria",
+          "titulo": "Marta y María",
+          "subtitulo": "Cuando Jesús parece llegar tarde"
+        },
+        {
+          "id": "jeremias-lamentaciones",
+          "titulo": "Jeremías, entre ruinas",
+          "subtitulo": "Cuando el dolor es profundo y no termina"
+        }
+      ]
+    },
+    {
+      "id": "miedo-y-llamado",
+      "titulo": "Miedo, inseguridad y llamado",
+      "lecciones": [
+        {
+          "id": "moises",
+          "titulo": "Moisés",
+          "subtitulo": "Cuando tu pasado quiere descalificarte"
+        },
+        {
+          "id": "gedeon",
+          "titulo": "Gedeón",
+          "subtitulo": "Cuando te sientes demasiado pequeño"
+        },
+        {
+          "id": "jeremias",
+          "titulo": "Jeremías",
+          "subtitulo": "Cuando nadie te escucha ni te entiende"
+        },
+        {
+          "id": "timoteo",
+          "titulo": "Timoteo",
+          "subtitulo": "Cuando eres joven, tímido y te toca liderar"
+        },
+        {
+          "id": "ester",
+          "titulo": "Ester",
+          "subtitulo": "Cuando callar es más peligroso que hablar"
+        }
+      ]
+    },
+    {
+      "id": "cansancio-y-soledad",
+      "titulo": "Cansancio y soledad",
+      "lecciones": [
+        {
+          "id": "elias",
+          "titulo": "Elías",
+          "subtitulo": "Cuando ya no puedes más"
+        },
+        {
+          "id": "agar",
+          "titulo": "Agar",
+          "subtitulo": "Cuando te sientes abandonado en el desierto"
+        }
+      ]
+    },
+    {
+      "id": "culpa-y-nuevo-comienzo",
+      "titulo": "Culpa, caída y nuevo comienzo",
+      "lecciones": [
+        {
+          "id": "david-caida",
+          "titulo": "David, después de caer",
+          "subtitulo": "Cuando el corazón baja la guardia"
+        },
+        {
+          "id": "pedro",
+          "titulo": "Pedro",
+          "subtitulo": "Cuando fallas en el momento más importante"
+        },
+        {
+          "id": "sanson",
+          "titulo": "Sansón",
+          "subtitulo": "Cuando el don corre más rápido que el carácter"
+        },
+        {
+          "id": "jonas",
+          "titulo": "Jonás",
+          "subtitulo": "Cuando huyes de lo que Dios te pidió"
+        },
+        {
+          "id": "zaqueo",
+          "titulo": "Zaqueo",
+          "subtitulo": "Cuando todos te juzgan por tu pasado"
+        },
+        {
+          "id": "la-samaritana",
+          "titulo": "La mujer samaritana",
+          "subtitulo": "Cuando cargas una historia que te avergüenza"
+        }
+      ]
+    },
+    {
+      "id": "familia-y-relaciones",
+      "titulo": "Familia y relaciones",
+      "lecciones": [
+        {
+          "id": "jacob-y-esau",
+          "titulo": "Jacob y Esaú",
+          "subtitulo": "Cuando una pelea de familia dura años"
+        },
+        {
+          "id": "rut",
+          "titulo": "Rut",
+          "subtitulo": "Cuando eliges quedarte y ser fiel"
+        },
+        {
+          "id": "abigail",
+          "titulo": "Abigail",
+          "subtitulo": "Cuando te toca poner paz en medio del conflicto"
+        }
+      ]
+    },
+    {
+      "id": "fe-bajo-presion",
+      "titulo": "Fe bajo presión",
+      "lecciones": [
+        {
+          "id": "daniel",
+          "titulo": "Daniel",
+          "subtitulo": "Cuando ser fiel pone tu vida en riesgo"
+        },
+        {
+          "id": "tres-jovenes",
+          "titulo": "Sadrac, Mesac y Abed-nego",
+          "subtitulo": "Cuando todos se arrodillan y tú no"
+        },
+        {
+          "id": "pablo",
+          "titulo": "Pablo",
+          "subtitulo": "Cuando obedecer trae problemas constantes"
+        },
+        {
+          "id": "esteban",
+          "titulo": "Esteban",
+          "subtitulo": "Cuando la fidelidad lo cuesta todo"
+        }
+      ]
+    },
+    {
+      "id": "enfermedad-y-limites",
+      "titulo": "Enfermedad y límites",
+      "lecciones": [
+        {
+          "id": "la-mujer-que-toco-el-manto",
+          "titulo": "La mujer que tocó el manto",
+          "subtitulo": "Cuando llevas años enfermo y cansado"
+        },
+        {
+          "id": "naaman",
+          "titulo": "Naamán",
+          "subtitulo": "Cuando el orgullo se interpone en tu sanidad"
+        }
+      ]
+    },
+    {
+      "id": "el-gigante-mayor",
+      "titulo": "El Gigante mayor",
+      "lecciones": [
+        {
+          "id": "jesus",
+          "titulo": "Jesús en Getsemaní",
+          "subtitulo": "Cuando obedecer significa entregarlo todo"
+        },
+        {
+          "id": "tu-caminas-con-gigantes",
+          "titulo": "Tú caminas con gigantes",
+          "subtitulo": "No fueron perfectos: fueron fieles en el dolor"
+        }
+      ]
+    }
+  ],
+  "palabras-senor": [
+    {
+      "id": "comienza-aqui",
+      "titulo": "Comienza aquí",
+      "lecciones": [
+        {
+          "id": "como-usar-esta-guia",
+          "titulo": "Cómo usar esta guía",
+          "subtitulo": "Siete pasos para vivir la Palabra"
+        }
+      ]
+    },
+    {
+      "id": "perdon-y-heridas",
+      "titulo": "Perdón y heridas",
+      "lecciones": [
+        {
+          "id": "no-puedo-perdonar-a-quien-me-hirio",
+          "titulo": "Cuando no puedo perdonar a quien me hirió"
+        },
+        {
+          "id": "no-logro-perdonarme-a-mi-mismo",
+          "titulo": "Cuando no logro perdonarme a mí mismo"
+        },
+        {
+          "id": "me-piden-perdon-y-no-se-si-creerles",
+          "titulo": "Cuando me piden perdón y no sé si creerles"
+        },
+        {
+          "id": "necesito-pedir-perdon",
+          "titulo": "Cuando necesito pedir perdón"
+        },
+        {
+          "id": "el-rencor-vuelve-una-y-otra-vez",
+          "titulo": "Cuando el rencor vuelve una y otra vez"
+        },
+        {
+          "id": "me-traiciona-alguien-cercano",
+          "titulo": "Cuando me traiciona alguien cercano"
+        },
+        {
+          "id": "cargo-heridas-de-mi-infancia",
+          "titulo": "Cuando cargo heridas de mi infancia"
+        },
+        {
+          "id": "me-hirieron-en-la-iglesia",
+          "titulo": "Cuando me hirieron en la iglesia"
+        }
+      ]
+    },
+    {
+      "id": "emociones",
+      "titulo": "Emociones",
+      "lecciones": [
+        {
+          "id": "la-ira-me-domina",
+          "titulo": "Cuando la ira me domina"
+        },
+        {
+          "id": "la-ansiedad-no-me-deja-en-paz",
+          "titulo": "Cuando la ansiedad no me deja en paz"
+        },
+        {
+          "id": "vivo-con-miedo",
+          "titulo": "Cuando vivo con miedo"
+        },
+        {
+          "id": "la-tristeza-no-se-va",
+          "titulo": "Cuando la tristeza no se va"
+        },
+        {
+          "id": "creo-que-tengo-depresion",
+          "titulo": "Cuando creo que tengo depresión"
+        },
+        {
+          "id": "estoy-agotado-por-dentro",
+          "titulo": "Cuando estoy agotado por dentro"
+        },
+        {
+          "id": "siento-envidia",
+          "titulo": "Cuando siento envidia"
+        },
+        {
+          "id": "los-celos-me-quitan-la-paz",
+          "titulo": "Cuando los celos me quitan la paz"
+        }
+      ]
+    },
+    {
+      "id": "identidad",
+      "titulo": "Identidad y autoestima",
+      "lecciones": [
+        {
+          "id": "no-me-gusta-quien-soy",
+          "titulo": "Cuando no me gusta quien soy"
+        },
+        {
+          "id": "me-siento-incapaz",
+          "titulo": "Cuando me siento incapaz"
+        },
+        {
+          "id": "me-comparo-con-los-demas",
+          "titulo": "Cuando me comparo con los demás"
+        },
+        {
+          "id": "me-rechazan-o-me-abandonan",
+          "titulo": "Cuando me rechazan o me abandonan"
+        },
+        {
+          "id": "cometo-el-mismo-error-otra-vez",
+          "titulo": "Cuando cometo el mismo error otra vez"
+        },
+        {
+          "id": "me-siento-vacio",
+          "titulo": "Cuando me siento vacío"
+        },
+        {
+          "id": "me-siento-solo",
+          "titulo": "Cuando me siento solo"
+        },
+        {
+          "id": "necesito-que-todos-me-aprueben",
+          "titulo": "Cuando necesito que todos me aprueben"
+        }
+      ]
+    },
+    {
+      "id": "pareja",
+      "titulo": "Matrimonio y pareja",
+      "lecciones": [
+        {
+          "id": "peleamos-todo-el-tiempo",
+          "titulo": "Cuando peleamos todo el tiempo"
+        },
+        {
+          "id": "el-amor-parece-enfriarse",
+          "titulo": "Cuando el amor parece enfriarse"
+        },
+        {
+          "id": "mi-pareja-no-comparte-mi-fe",
+          "titulo": "Cuando mi pareja no comparte mi fe"
+        },
+        {
+          "id": "hubo-infidelidad",
+          "titulo": "Cuando hubo infidelidad"
+        },
+        {
+          "id": "el-dinero-nos-divide",
+          "titulo": "Cuando el dinero nos divide"
+        },
+        {
+          "id": "busco-pareja-y-quiero-elegir-bien",
+          "titulo": "Cuando busco pareja y quiero elegir bien"
+        },
+        {
+          "id": "estoy-soltero-y-espero",
+          "titulo": "Cuando estoy soltero y espero"
+        },
+        {
+          "id": "la-tentacion-amenaza-mi-matrimonio",
+          "titulo": "Cuando la tentación amenaza mi matrimonio"
+        }
+      ]
+    },
+    {
+      "id": "familia",
+      "titulo": "Hijos y familia",
+      "lecciones": [
+        {
+          "id": "mi-hijo-se-aleja-o-se-rebela",
+          "titulo": "Cuando mi hijo se aleja o se rebela"
+        },
+        {
+          "id": "quiero-ensenar-la-fe-a-mis-hijos",
+          "titulo": "Cuando quiero enseñar la fe a mis hijos"
+        },
+        {
+          "id": "mis-padres-son-dificiles",
+          "titulo": "Cuando mis padres son difíciles"
+        },
+        {
+          "id": "mi-familia-no-entiende-mi-fe",
+          "titulo": "Cuando mi familia no entiende mi fe"
+        },
+        {
+          "id": "hay-peleas-constantes-en-casa",
+          "titulo": "Cuando hay peleas constantes en casa"
+        },
+        {
+          "id": "necesito-poner-limites",
+          "titulo": "Cuando necesito poner límites"
+        },
+        {
+          "id": "cuido-a-mis-padres-ancianos",
+          "titulo": "Cuando cuido a mis padres ancianos"
+        },
+        {
+          "id": "vivo-lejos-de-mi-familia",
+          "titulo": "Cuando vivo lejos de mi familia"
+        }
+      ]
+    },
+    {
+      "id": "amistades",
+      "titulo": "Amistades y convivencia",
+      "lecciones": [
+        {
+          "id": "una-amistad-me-aleja-de-dios",
+          "titulo": "Cuando una amistad me aleja de Dios"
+        },
+        {
+          "id": "tengo-que-confrontar-a-alguien",
+          "titulo": "Cuando tengo que confrontar a alguien"
+        },
+        {
+          "id": "siento-que-me-utilizan",
+          "titulo": "Cuando siento que me utilizan"
+        },
+        {
+          "id": "hablan-mal-de-mi",
+          "titulo": "Cuando hablan mal de mí"
+        },
+        {
+          "id": "soy-yo-quien-habla-mal-de-otros",
+          "titulo": "Cuando soy yo quien habla mal de otros"
+        },
+        {
+          "id": "convivo-con-alguien-dificil",
+          "titulo": "Cuando convivo con alguien difícil"
+        },
+        {
+          "id": "me-cuesta-hacer-amigos",
+          "titulo": "Cuando me cuesta hacer amigos"
+        },
+        {
+          "id": "las-redes-sociales-me-roban-la-paz",
+          "titulo": "Cuando las redes sociales me roban la paz"
+        }
+      ]
+    },
+    {
+      "id": "trabajo",
+      "titulo": "Trabajo y propósito",
+      "lecciones": [
+        {
+          "id": "odio-mi-trabajo",
+          "titulo": "Cuando odio mi trabajo"
+        },
+        {
+          "id": "mi-jefe-es-injusto",
+          "titulo": "Cuando mi jefe es injusto"
+        },
+        {
+          "id": "pierdo-el-trabajo",
+          "titulo": "Cuando pierdo el trabajo"
+        },
+        {
+          "id": "fracaso-en-lo-que-emprendo",
+          "titulo": "Cuando fracaso en lo que emprendo"
+        },
+        {
+          "id": "no-se-cual-es-mi-proposito",
+          "titulo": "Cuando no sé cuál es mi propósito"
+        },
+        {
+          "id": "me-siento-estancado",
+          "titulo": "Cuando me siento estancado"
+        },
+        {
+          "id": "tengo-miedo-de-volver-a-intentarlo",
+          "titulo": "Cuando tengo miedo de volver a intentarlo"
+        },
+        {
+          "id": "me-piden-hacer-algo-incorrecto",
+          "titulo": "Cuando me piden hacer algo incorrecto"
+        }
+      ]
+    },
+    {
+      "id": "dinero",
+      "titulo": "Dinero y provisión",
+      "lecciones": [
+        {
+          "id": "el-dinero-no-alcanza",
+          "titulo": "Cuando el dinero no alcanza"
+        },
+        {
+          "id": "vivo-endeudado",
+          "titulo": "Cuando vivo endeudado"
+        },
+        {
+          "id": "temo-por-mi-futuro-economico",
+          "titulo": "Cuando temo por mi futuro económico"
+        },
+        {
+          "id": "me-va-bien-y-me-alejo-de-dios",
+          "titulo": "Cuando me va bien y me alejo de Dios"
+        },
+        {
+          "id": "no-se-administrar-lo-que-tengo",
+          "titulo": "Cuando no sé administrar lo que tengo"
+        },
+        {
+          "id": "quiero-dar-pero-tengo-poco",
+          "titulo": "Cuando quiero dar pero tengo poco"
+        },
+        {
+          "id": "me-tienta-el-dinero-facil",
+          "titulo": "Cuando me tienta el dinero fácil"
+        },
+        {
+          "id": "nunca-me-parece-suficiente",
+          "titulo": "Cuando nunca me parece suficiente"
+        }
+      ]
+    },
+    {
+      "id": "decisiones",
+      "titulo": "Decisiones y dirección",
+      "lecciones": [
+        {
+          "id": "tengo-que-tomar-una-decision-importante",
+          "titulo": "Cuando tengo que tomar una decisión importante"
+        },
+        {
+          "id": "no-se-que-camino-elegir",
+          "titulo": "Cuando no sé qué camino elegir"
+        },
+        {
+          "id": "una-puerta-se-cierra",
+          "titulo": "Cuando una puerta se cierra"
+        },
+        {
+          "id": "me-toca-esperar",
+          "titulo": "Cuando me toca esperar"
+        },
+        {
+          "id": "pienso-en-mudarme-o-emigrar",
+          "titulo": "Cuando pienso en mudarme o emigrar"
+        },
+        {
+          "id": "quiero-empezar-algo-nuevo",
+          "titulo": "Cuando quiero empezar algo nuevo"
+        },
+        {
+          "id": "recibo-consejos-que-se-contradicen",
+          "titulo": "Cuando recibo consejos que se contradicen"
+        },
+        {
+          "id": "me-presionan-para-decidir-ya",
+          "titulo": "Cuando me presionan para decidir ya"
+        }
+      ]
+    },
+    {
+      "id": "fe",
+      "titulo": "Fe y vida espiritual",
+      "lecciones": [
+        {
+          "id": "oro-y-parece-que-dios-no-responde",
+          "titulo": "Cuando oro y parece que Dios no responde"
+        },
+        {
+          "id": "mi-fe-esta-debil",
+          "titulo": "Cuando mi fe está débil"
+        },
+        {
+          "id": "me-siento-lejos-de-dios",
+          "titulo": "Cuando me siento lejos de Dios"
+        },
+        {
+          "id": "solo-oro-en-los-problemas",
+          "titulo": "Cuando solo oro en los problemas"
+        },
+        {
+          "id": "tengo-dudas-sobre-dios",
+          "titulo": "Cuando tengo dudas sobre Dios"
+        },
+        {
+          "id": "no-tengo-tiempo-para-dios",
+          "titulo": "Cuando no tengo tiempo para Dios"
+        },
+        {
+          "id": "me-cuesta-leer-la-biblia",
+          "titulo": "Cuando me cuesta leer la Biblia"
+        },
+        {
+          "id": "me-canso-del-camino-cristiano",
+          "titulo": "Cuando me canso del camino cristiano"
+        }
+      ]
+    },
+    {
+      "id": "tentacion",
+      "titulo": "Tentación y hábitos",
+      "lecciones": [
+        {
+          "id": "lucho-con-un-pecado-oculto",
+          "titulo": "Cuando lucho con un pecado oculto"
+        },
+        {
+          "id": "caigo-siempre-en-la-misma-tentacion",
+          "titulo": "Cuando caigo siempre en la misma tentación"
+        },
+        {
+          "id": "me-siento-sucio-por-dentro",
+          "titulo": "Cuando me siento sucio por dentro"
+        },
+        {
+          "id": "justifico-lo-que-se-que-esta-mal",
+          "titulo": "Cuando justifico lo que sé que está mal"
+        },
+        {
+          "id": "una-adiccion-me-domina",
+          "titulo": "Cuando una adicción me domina"
+        },
+        {
+          "id": "pierdo-el-control-con-la-comida-o-las",
+          "titulo": "Cuando pierdo el control con la comida o las compras"
+        },
+        {
+          "id": "la-pereza-me-gana",
+          "titulo": "Cuando la pereza me gana"
+        },
+        {
+          "id": "me-descubro-mintiendo",
+          "titulo": "Cuando me descubro mintiendo"
+        }
+      ]
+    },
+    {
+      "id": "dolor",
+      "titulo": "Dolor, enfermedad y pérdida",
+      "lecciones": [
+        {
+          "id": "muere-alguien-que-amo",
+          "titulo": "Cuando muere alguien que amo"
+        },
+        {
+          "id": "estoy-enfermo-hace-mucho-tiempo",
+          "titulo": "Cuando estoy enfermo hace mucho tiempo"
+        },
+        {
+          "id": "alguien-que-amo-esta-enfermo",
+          "titulo": "Cuando alguien que amo está enfermo"
+        },
+        {
+          "id": "perdi-un-embarazo",
+          "titulo": "Cuando perdí un embarazo"
+        },
+        {
+          "id": "envejezco-y-me-siento-inutil",
+          "titulo": "Cuando envejezco y me siento inútil"
+        },
+        {
+          "id": "sufro-una-injusticia",
+          "titulo": "Cuando sufro una injusticia"
+        },
+        {
+          "id": "sufro-y-no-entiendo-por-que",
+          "titulo": "Cuando sufro y no entiendo por qué"
+        },
+        {
+          "id": "pienso-que-ya-no-hay-salida",
+          "titulo": "Cuando pienso que ya no hay salida"
+        }
+      ]
+    },
+    {
+      "id": "hacedor",
+      "titulo": "Vivir como hacedor de la Palabra",
+      "lecciones": [
+        {
+          "id": "se-lo-correcto-pero-no-lo-hago",
+          "titulo": "Cuando sé lo correcto pero no lo hago"
+        },
+        {
+          "id": "sigo-actuando-como-antes",
+          "titulo": "Cuando sigo actuando como antes"
+        },
+        {
+          "id": "me-siento-hipocrita",
+          "titulo": "Cuando me siento hipócrita"
+        },
+        {
+          "id": "se-burlan-de-mi-fe",
+          "titulo": "Cuando se burlan de mi fe"
+        },
+        {
+          "id": "me-da-verguenza-mi-fe",
+          "titulo": "Cuando me da vergüenza mi fe"
+        },
+        {
+          "id": "quiero-servir-y-no-se-como",
+          "titulo": "Cuando quiero servir y no sé cómo"
+        },
+        {
+          "id": "quiero-hablar-de-jesus-sin-pelear",
+          "titulo": "Cuando quiero hablar de Jesús sin pelear"
+        },
+        {
+          "id": "quiero-una-fe-verdadera",
+          "titulo": "Cuando quiero una fe verdadera"
+        }
+      ]
+    },
+    {
+      "id": "cierre",
+      "titulo": "Cierre",
+      "lecciones": [
+        {
+          "id": "hacedores-de-la-palabra",
+          "titulo": "Hacedores de la Palabra",
+          "subtitulo": "Quien oye entiende; quien practica se transforma"
+        }
+      ]
+    }
   ]
 }
 
@@ -1088,4 +1838,144 @@ export const GUIA_LECCIONES: Record<string, () => Promise<GuiaLeccion>> = {
   'biografias/tomas': () => import('./biografias/tomas.json').then((m) => m.default as unknown as GuiaLeccion),
   'biografias/zacarias': () => import('./biografias/zacarias.json').then((m) => m.default as unknown as GuiaLeccion),
   'biografias/zaqueo': () => import('./biografias/zaqueo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/abigail': () => import('./caminando-gigantes/abigail.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/abraham': () => import('./caminando-gigantes/abraham.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/agar': () => import('./caminando-gigantes/agar.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/ana': () => import('./caminando-gigantes/ana.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/comienza-aqui': () => import('./caminando-gigantes/comienza-aqui.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/daniel': () => import('./caminando-gigantes/daniel.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/david-caida': () => import('./caminando-gigantes/david-caida.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/david-perseguido': () => import('./caminando-gigantes/david-perseguido.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/elias': () => import('./caminando-gigantes/elias.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/esteban': () => import('./caminando-gigantes/esteban.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/ester': () => import('./caminando-gigantes/ester.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/gedeon': () => import('./caminando-gigantes/gedeon.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/jacob-y-esau': () => import('./caminando-gigantes/jacob-y-esau.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/jeremias-lamentaciones': () => import('./caminando-gigantes/jeremias-lamentaciones.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/jeremias': () => import('./caminando-gigantes/jeremias.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/jesus': () => import('./caminando-gigantes/jesus.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/job': () => import('./caminando-gigantes/job.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/jonas': () => import('./caminando-gigantes/jonas.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/jose': () => import('./caminando-gigantes/jose.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/la-mujer-que-toco-el-manto': () => import('./caminando-gigantes/la-mujer-que-toco-el-manto.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/la-samaritana': () => import('./caminando-gigantes/la-samaritana.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/marta-y-maria': () => import('./caminando-gigantes/marta-y-maria.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/moises': () => import('./caminando-gigantes/moises.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/naaman': () => import('./caminando-gigantes/naaman.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/noemi': () => import('./caminando-gigantes/noemi.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/pablo': () => import('./caminando-gigantes/pablo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/pedro': () => import('./caminando-gigantes/pedro.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/que-estas-viviendo': () => import('./caminando-gigantes/que-estas-viviendo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/rut': () => import('./caminando-gigantes/rut.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/sanson': () => import('./caminando-gigantes/sanson.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/timoteo': () => import('./caminando-gigantes/timoteo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/tres-jovenes': () => import('./caminando-gigantes/tres-jovenes.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/tu-caminas-con-gigantes': () => import('./caminando-gigantes/tu-caminas-con-gigantes.json').then((m) => m.default as unknown as GuiaLeccion),
+  'caminando-gigantes/zaqueo': () => import('./caminando-gigantes/zaqueo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/alguien-que-amo-esta-enfermo': () => import('./palabras-senor/alguien-que-amo-esta-enfermo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/busco-pareja-y-quiero-elegir-bien': () => import('./palabras-senor/busco-pareja-y-quiero-elegir-bien.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/caigo-siempre-en-la-misma-tentacion': () => import('./palabras-senor/caigo-siempre-en-la-misma-tentacion.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/cargo-heridas-de-mi-infancia': () => import('./palabras-senor/cargo-heridas-de-mi-infancia.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/cometo-el-mismo-error-otra-vez': () => import('./palabras-senor/cometo-el-mismo-error-otra-vez.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/como-usar-esta-guia': () => import('./palabras-senor/como-usar-esta-guia.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/convivo-con-alguien-dificil': () => import('./palabras-senor/convivo-con-alguien-dificil.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/creo-que-tengo-depresion': () => import('./palabras-senor/creo-que-tengo-depresion.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/cuido-a-mis-padres-ancianos': () => import('./palabras-senor/cuido-a-mis-padres-ancianos.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/el-amor-parece-enfriarse': () => import('./palabras-senor/el-amor-parece-enfriarse.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/el-dinero-no-alcanza': () => import('./palabras-senor/el-dinero-no-alcanza.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/el-dinero-nos-divide': () => import('./palabras-senor/el-dinero-nos-divide.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/el-rencor-vuelve-una-y-otra-vez': () => import('./palabras-senor/el-rencor-vuelve-una-y-otra-vez.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/envejezco-y-me-siento-inutil': () => import('./palabras-senor/envejezco-y-me-siento-inutil.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/estoy-agotado-por-dentro': () => import('./palabras-senor/estoy-agotado-por-dentro.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/estoy-enfermo-hace-mucho-tiempo': () => import('./palabras-senor/estoy-enfermo-hace-mucho-tiempo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/estoy-soltero-y-espero': () => import('./palabras-senor/estoy-soltero-y-espero.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/fracaso-en-lo-que-emprendo': () => import('./palabras-senor/fracaso-en-lo-que-emprendo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/hablan-mal-de-mi': () => import('./palabras-senor/hablan-mal-de-mi.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/hacedores-de-la-palabra': () => import('./palabras-senor/hacedores-de-la-palabra.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/hay-peleas-constantes-en-casa': () => import('./palabras-senor/hay-peleas-constantes-en-casa.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/hubo-infidelidad': () => import('./palabras-senor/hubo-infidelidad.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/justifico-lo-que-se-que-esta-mal': () => import('./palabras-senor/justifico-lo-que-se-que-esta-mal.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/la-ansiedad-no-me-deja-en-paz': () => import('./palabras-senor/la-ansiedad-no-me-deja-en-paz.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/la-ira-me-domina': () => import('./palabras-senor/la-ira-me-domina.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/la-pereza-me-gana': () => import('./palabras-senor/la-pereza-me-gana.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/la-tentacion-amenaza-mi-matrimonio': () => import('./palabras-senor/la-tentacion-amenaza-mi-matrimonio.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/la-tristeza-no-se-va': () => import('./palabras-senor/la-tristeza-no-se-va.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/las-redes-sociales-me-roban-la-paz': () => import('./palabras-senor/las-redes-sociales-me-roban-la-paz.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/los-celos-me-quitan-la-paz': () => import('./palabras-senor/los-celos-me-quitan-la-paz.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/lucho-con-un-pecado-oculto': () => import('./palabras-senor/lucho-con-un-pecado-oculto.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-canso-del-camino-cristiano': () => import('./palabras-senor/me-canso-del-camino-cristiano.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-comparo-con-los-demas': () => import('./palabras-senor/me-comparo-con-los-demas.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-cuesta-hacer-amigos': () => import('./palabras-senor/me-cuesta-hacer-amigos.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-cuesta-leer-la-biblia': () => import('./palabras-senor/me-cuesta-leer-la-biblia.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-da-verguenza-mi-fe': () => import('./palabras-senor/me-da-verguenza-mi-fe.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-descubro-mintiendo': () => import('./palabras-senor/me-descubro-mintiendo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-hirieron-en-la-iglesia': () => import('./palabras-senor/me-hirieron-en-la-iglesia.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-piden-hacer-algo-incorrecto': () => import('./palabras-senor/me-piden-hacer-algo-incorrecto.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-piden-perdon-y-no-se-si-creerles': () => import('./palabras-senor/me-piden-perdon-y-no-se-si-creerles.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-presionan-para-decidir-ya': () => import('./palabras-senor/me-presionan-para-decidir-ya.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-rechazan-o-me-abandonan': () => import('./palabras-senor/me-rechazan-o-me-abandonan.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-estancado': () => import('./palabras-senor/me-siento-estancado.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-hipocrita': () => import('./palabras-senor/me-siento-hipocrita.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-incapaz': () => import('./palabras-senor/me-siento-incapaz.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-lejos-de-dios': () => import('./palabras-senor/me-siento-lejos-de-dios.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-solo': () => import('./palabras-senor/me-siento-solo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-sucio-por-dentro': () => import('./palabras-senor/me-siento-sucio-por-dentro.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-siento-vacio': () => import('./palabras-senor/me-siento-vacio.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-tienta-el-dinero-facil': () => import('./palabras-senor/me-tienta-el-dinero-facil.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-toca-esperar': () => import('./palabras-senor/me-toca-esperar.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-traiciona-alguien-cercano': () => import('./palabras-senor/me-traiciona-alguien-cercano.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/me-va-bien-y-me-alejo-de-dios': () => import('./palabras-senor/me-va-bien-y-me-alejo-de-dios.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/mi-familia-no-entiende-mi-fe': () => import('./palabras-senor/mi-familia-no-entiende-mi-fe.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/mi-fe-esta-debil': () => import('./palabras-senor/mi-fe-esta-debil.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/mi-hijo-se-aleja-o-se-rebela': () => import('./palabras-senor/mi-hijo-se-aleja-o-se-rebela.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/mi-jefe-es-injusto': () => import('./palabras-senor/mi-jefe-es-injusto.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/mi-pareja-no-comparte-mi-fe': () => import('./palabras-senor/mi-pareja-no-comparte-mi-fe.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/mis-padres-son-dificiles': () => import('./palabras-senor/mis-padres-son-dificiles.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/muere-alguien-que-amo': () => import('./palabras-senor/muere-alguien-que-amo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/necesito-pedir-perdon': () => import('./palabras-senor/necesito-pedir-perdon.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/necesito-poner-limites': () => import('./palabras-senor/necesito-poner-limites.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/necesito-que-todos-me-aprueben': () => import('./palabras-senor/necesito-que-todos-me-aprueben.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-logro-perdonarme-a-mi-mismo': () => import('./palabras-senor/no-logro-perdonarme-a-mi-mismo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-me-gusta-quien-soy': () => import('./palabras-senor/no-me-gusta-quien-soy.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-puedo-perdonar-a-quien-me-hirio': () => import('./palabras-senor/no-puedo-perdonar-a-quien-me-hirio.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-se-administrar-lo-que-tengo': () => import('./palabras-senor/no-se-administrar-lo-que-tengo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-se-cual-es-mi-proposito': () => import('./palabras-senor/no-se-cual-es-mi-proposito.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-se-que-camino-elegir': () => import('./palabras-senor/no-se-que-camino-elegir.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/no-tengo-tiempo-para-dios': () => import('./palabras-senor/no-tengo-tiempo-para-dios.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/nunca-me-parece-suficiente': () => import('./palabras-senor/nunca-me-parece-suficiente.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/odio-mi-trabajo': () => import('./palabras-senor/odio-mi-trabajo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/oro-y-parece-que-dios-no-responde': () => import('./palabras-senor/oro-y-parece-que-dios-no-responde.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/peleamos-todo-el-tiempo': () => import('./palabras-senor/peleamos-todo-el-tiempo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/perdi-un-embarazo': () => import('./palabras-senor/perdi-un-embarazo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/pienso-en-mudarme-o-emigrar': () => import('./palabras-senor/pienso-en-mudarme-o-emigrar.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/pienso-que-ya-no-hay-salida': () => import('./palabras-senor/pienso-que-ya-no-hay-salida.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/pierdo-el-control-con-la-comida-o-las': () => import('./palabras-senor/pierdo-el-control-con-la-comida-o-las.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/pierdo-el-trabajo': () => import('./palabras-senor/pierdo-el-trabajo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/quiero-dar-pero-tengo-poco': () => import('./palabras-senor/quiero-dar-pero-tengo-poco.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/quiero-empezar-algo-nuevo': () => import('./palabras-senor/quiero-empezar-algo-nuevo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/quiero-ensenar-la-fe-a-mis-hijos': () => import('./palabras-senor/quiero-ensenar-la-fe-a-mis-hijos.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/quiero-hablar-de-jesus-sin-pelear': () => import('./palabras-senor/quiero-hablar-de-jesus-sin-pelear.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/quiero-servir-y-no-se-como': () => import('./palabras-senor/quiero-servir-y-no-se-como.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/quiero-una-fe-verdadera': () => import('./palabras-senor/quiero-una-fe-verdadera.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/recibo-consejos-que-se-contradicen': () => import('./palabras-senor/recibo-consejos-que-se-contradicen.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/se-burlan-de-mi-fe': () => import('./palabras-senor/se-burlan-de-mi-fe.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/se-lo-correcto-pero-no-lo-hago': () => import('./palabras-senor/se-lo-correcto-pero-no-lo-hago.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/siento-envidia': () => import('./palabras-senor/siento-envidia.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/siento-que-me-utilizan': () => import('./palabras-senor/siento-que-me-utilizan.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/sigo-actuando-como-antes': () => import('./palabras-senor/sigo-actuando-como-antes.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/solo-oro-en-los-problemas': () => import('./palabras-senor/solo-oro-en-los-problemas.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/soy-yo-quien-habla-mal-de-otros': () => import('./palabras-senor/soy-yo-quien-habla-mal-de-otros.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/sufro-una-injusticia': () => import('./palabras-senor/sufro-una-injusticia.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/sufro-y-no-entiendo-por-que': () => import('./palabras-senor/sufro-y-no-entiendo-por-que.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/temo-por-mi-futuro-economico': () => import('./palabras-senor/temo-por-mi-futuro-economico.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/tengo-dudas-sobre-dios': () => import('./palabras-senor/tengo-dudas-sobre-dios.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/tengo-miedo-de-volver-a-intentarlo': () => import('./palabras-senor/tengo-miedo-de-volver-a-intentarlo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/tengo-que-confrontar-a-alguien': () => import('./palabras-senor/tengo-que-confrontar-a-alguien.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/tengo-que-tomar-una-decision-importante': () => import('./palabras-senor/tengo-que-tomar-una-decision-importante.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/una-adiccion-me-domina': () => import('./palabras-senor/una-adiccion-me-domina.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/una-amistad-me-aleja-de-dios': () => import('./palabras-senor/una-amistad-me-aleja-de-dios.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/una-puerta-se-cierra': () => import('./palabras-senor/una-puerta-se-cierra.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/vivo-con-miedo': () => import('./palabras-senor/vivo-con-miedo.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/vivo-endeudado': () => import('./palabras-senor/vivo-endeudado.json').then((m) => m.default as unknown as GuiaLeccion),
+  'palabras-senor/vivo-lejos-de-mi-familia': () => import('./palabras-senor/vivo-lejos-de-mi-familia.json').then((m) => m.default as unknown as GuiaLeccion),
 }

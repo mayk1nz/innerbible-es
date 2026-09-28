@@ -1,0 +1,117 @@
+{
+  "id": "ester",
+  "titulo": "Ester",
+  "subtitulo": "Cuando callar es más peligroso que hablar",
+  "etiquetas": ["Miedo a hablar", "Valentía", "El regreso", "Persia"],
+  "enUnMinuto": [
+    "Ester, una joven huérfana convertida en reina, supo que su pueblo iba a ser destruido y tuvo miedo de hablar.",
+    "Ayunó tres días con los suyos y se presentó ante el rey diciendo: «si perezco, que perezca».",
+    "Su voz, con prudencia y valor, salvó a su pueblo: a veces Dios nos pone en un lugar para hablar."
+  ],
+  "versiculo": {
+    "texto": "Porque si absolutamente callares en este tiempo, respiro y libertación tendrán los Judíos de otra parte; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora te han hecho llegar al reino?",
+    "referencia": "Ester 4:14"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás sabes algo que debería decirse, y tienes miedo. Hablar podría costarte el trabajo, la paz en la familia o tu seguridad. Callar parece más fácil. Pero por dentro sabes que, si callas, alguien seguirá sufriendo. Y te preguntas: “¿Por qué me toca a mí?”."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Ester era una joven judía que vivía en Persia. Había perdido a su padre y a su madre, y la crio su primo Mardoqueo (Ester 2:7). Fue llevada al palacio del rey Asuero, y el rey la hizo reina (Ester 2:17). Por consejo de Mardoqueo, no contó de qué pueblo era (Ester 2:10).",
+        "Amán, el hombre más poderoso después del rey, se enojó porque Mardoqueo no se arrodillaba ante él. Entonces decidió destruir a todos los judíos del reino. Convenció al rey y salió un decreto con fecha fija (Ester 3:5-13).",
+        "Mardoqueo se vistió de luto y pidió a Ester que hablara con el rey por su pueblo (Ester 4:1-8). Pero había una ley: quien entraba ante el rey sin ser llamado podía morir. Y Ester no había sido llamada en treinta días (Ester 4:11)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Ester tenía razones para callar: la ley, el peligro, su propia vida. Mardoqueo le respondió: «¿quién sabe si para esta hora te han hecho llegar al reino?» (Ester 4:14). Podemos imaginar su noche sin dormir. Callar la protegía a ella; hablar podía salvar a muchos."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Ester no se lanzó sola ni con prisa. Pidió que todos los judíos de Susa ayunaran por ella tres días, y ella hizo lo mismo con sus doncellas. Luego dijo: «entraré al rey, aunque no sea conforme a la ley; y si perezco, que perezca» (Ester 4:16).",
+        "Al tercer día se presentó. El rey le extendió el cetro de oro (Ester 5:1-2). Ester habló con sabiduría: preparó dos banquetes y eligió el momento. Entonces dijo la verdad: «vendidos estamos yo y mi pueblo» (Ester 7:4). Su pueblo fue salvado, y aquel día de luto se volvió fiesta (Ester 9:22).",
+        "En el texto hebreo de Ester no aparece el nombre de Dios, pero su cuidado se ve en toda la historia. Las Biblias católicas incluyen además, en unas partes griegas del libro, una oración de Ester antes de entrar."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Escucha a quien te ama y te dice la verdad, como Mardoqueo a Ester (Ester 4:13-14).",
+        "Ora y pide que otros oren por ti antes de hablar. Ester no quiso hacerlo sola (Ester 4:16).",
+        "Habla con sabiduría: busca el momento y la forma, sin dejar de decir la verdad (Ester 5:4-8; 7:3-6).",
+        "Deja el resultado en manos de Dios. Ester hizo lo correcto sin saber cómo terminaría (Ester 4:16)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Ester arriesgó su vida para interceder por su pueblo. Jesús hizo mucho más: no solo se presentó ante el Padre por nosotros, sino que dio su vida. La Biblia dice que Él vive «siempre para interceder» por los suyos (Hebreos 7:25). Cuando tú no encuentras palabras, Jesús habla por ti."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tal vez estás donde estás “para esta hora”. Hablar no siempre es gritar: a veces es decir la verdad con calma, en el momento justo. Esta semana: escribe lo que necesitas decir y a quién. Ora por eso tres días, y pide a una persona de confianza que ore contigo. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si lo que callas es un abuso o una violencia, contra ti o contra otra persona, no lo cargues en silencio. Si hay un niño en riesgo, no esperes. Busca con prudencia a alguien de confianza, a tu pastor o sacerdote, o a las autoridades. Si hay peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Ester 2:5-17", "nota": "La huérfana que llega a ser reina." },
+        { "ref": "Ester 3:1-13", "nota": "El plan de Amán contra los judíos." },
+        { "ref": "Ester 4:1-17", "nota": "«Para esta hora» y el ayuno de tres días." },
+        { "ref": "Ester 5:1-8", "nota": "Ester entra ante el rey." },
+        { "ref": "Ester 7:1-6", "nota": "Ester dice la verdad." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo miedo de hablar. Tú sabes lo que está en juego. Dame valor, sabiduría y el momento justo. Pon a mi lado personas que oren por mí. Y lo que venga después, lo dejo en tus manos. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Cuándo es más fácil callar que decir la verdad? ¿Por qué?",
+        "Ester pidió que otros ayunaran por ella. ¿Por qué es importante no enfrentar solos las decisiones difíciles?",
+        "¿Para qué “hora” crees que Dios te ha puesto donde estás hoy?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién crio a Ester cuando murieron sus padres?",
+      "opciones": ["El rey Asuero", "Su primo Mardoqueo", "Amán"],
+      "correcta": 1,
+      "explicacion": "Mardoqueo, hijo de su tío, la tomó por hija suya (Ester 2:7)."
+    },
+    {
+      "pregunta": "¿Qué pidió Ester antes de presentarse ante el rey?",
+      "opciones": ["Que ayunaran por ella tres días", "Que le prepararan un ejército", "Que llamaran a Amán"],
+      "correcta": 0,
+      "explicacion": "Pidió a los judíos de Susa ayunar tres días por ella (Ester 4:16)."
+    },
+    {
+      "pregunta": "¿Qué hizo el rey cuando Ester entró sin ser llamada?",
+      "opciones": ["La mandó a la cárcel", "Se fue del palacio", "Le extendió el cetro de oro"],
+      "correcta": 2,
+      "explicacion": "El rey le extendió el cetro de oro, y Ester tocó su punta (Ester 5:2)."
+    }
+  ],
+  "estudio": ["ester"],
+  "buscar": "Ester"
+}

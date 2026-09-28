@@ -1,0 +1,96 @@
+{
+  "id": "convivo-con-alguien-dificil",
+  "titulo": "Cuando convivo con alguien difícil",
+  "etiquetas": ["Amistades y convivencia", "Convivencia", "Paciencia"],
+  "enUnMinuto": [
+    "No siempre podemos elegir con quién vivimos o trabajamos.",
+    "La Biblia pide buscar la paz con todos en lo que depende de nosotros, y soportarnos con paciencia.",
+    "Primer paso: separa lo que depende de ti de lo que no depende de ti."
+  ],
+  "versiculo": {
+    "texto": "Si se puede hacer, cuanto está en vosotros, tened paz con todos los hombres.",
+    "referencia": "Romanos 12:18"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Fabio alquila un cuarto y comparte la cocina con otro inquilino. El vecino pone música fuerte de noche, no lava los platos y contesta de mala manera. Fabio todavía no puede mudarse. Cada día llega tenso a casa, y ya ha orado para que el otro se vaya."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "En lo que dependa de ti, busca la paz con todos (Romanos 12:18). No todo depende de ti, pero tu parte sí."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es la guerra fría: indirectas, silencios, portazos y quejas con todos. O aguantarlo todo sin decir nada, hasta explotar. Otros solo oran para que la persona desaparezca. Ninguna de esas salidas mejora la convivencia, y todas te roban la paz."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo dice «si se puede hacer» y «cuanto está en vosotros» (Romanos 12:18). La Biblia es realista: a veces la paz completa no es posible. Pero tú respondes por tu parte, no por la del otro.",
+        "Pablo pide vestirse de misericordia, humildad y paciencia, soportándonos unos a otros (Colosenses 3:12-13). Soportar no es aplaudir lo malo. Es no devolver mal por mal mientras buscas una solución. A veces la sabiduría está en pasar por alto una ofensa (Proverbios 19:11).",
+        "También puedes hablar con claridad y proponer acuerdos concretos: horarios, limpieza, ruido. Mirar también lo que el otro necesita ayuda a llegar a un acuerdo (Filipenses 2:4). Y ora por esa persona. Nadie es difícil sin una historia detrás."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Anota qué te molesta de verdad y qué es solo cansancio o mal humor.",
+        "Deja pasar lo pequeño (Proverbios 19:11). Habla solo de lo importante.",
+        "Propón un acuerdo concreto con calma: “¿Podemos hacer silencio después de las diez?”.",
+        "Cumple tú primero tu parte del acuerdo, aunque el otro falle (Romanos 12:17).",
+        "Ora cada día por esa persona, no para que se vaya, sino para que Dios la bendiga."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy haciendo mi parte para que haya paz?",
+        "¿Qué ofensas pequeñas podría dejar pasar?",
+        "¿Qué puede estar viviendo esta persona que yo no conozco?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy tres cualidades buenas de esa persona difícil. Busca la ocasión de decirle una de ellas, con sencillez y de verdad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Ana convivió años con Penina, que la provocaba y la hacía llorar (1 Samuel 1:6-7). Ana no le devolvió el golpe: llevó su dolor a Dios. Lee su ficha, «Ana», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la convivencia incluye golpes, amenazas o abuso, ya no se trata de paciencia. Tu seguridad va primero. Busca hoy a alguien de confianza, tu pastor o sacerdote o un profesional. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Romanos 12:14-21", "nota": "Vencer el mal con el bien." },
+        { "ref": "Colosenses 3:12-15", "nota": "Soportarnos con amor." },
+        { "ref": "Filipenses 2:1-4", "nota": "Mirar también lo del otro." },
+        { "ref": "1 Samuel 1:1-11", "nota": "Ana y Penina." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces a la persona con quien convivo, y me conoces a mí. Dame paciencia y humildad para hacer mi parte. Enséñame a dejar pasar lo pequeño y a hablar con claridad lo importante. Bendícela. Amén."
+    }
+  ],
+  "estudio": ["romanos", "colosenses"],
+  "buscar": "paz"
+}

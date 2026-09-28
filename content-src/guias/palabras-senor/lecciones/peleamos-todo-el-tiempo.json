@@ -1,0 +1,94 @@
+{
+  "id": "peleamos-todo-el-tiempo",
+  "titulo": "Cuando peleamos todo el tiempo",
+  "etiquetas": ["Matrimonio y pareja", "Discusiones", "Paz en casa"],
+  "enUnMinuto": [
+    "Las peleas no se ganan: se sanan con humildad, paciencia y palabras que edifican.",
+    "El primer paso es escuchar antes de responder, y mirar tu propia parte antes que la del otro."
+  ],
+  "versiculo": {
+    "texto": "Con toda humildad y mansedumbre, con paciencia soportando los unos a los otros en amor; Solícitos a guardar la unidad del Espíritu en el vínculo de la paz.",
+    "referencia": "Efesios 4:2-3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Lorena y Fabián empiezan discutiendo por los platos sucios. A los cinco minutos ya hablan de la suegra, del dinero y de algo que pasó hace diez años. Él levanta la voz, ella se encierra en el cuarto. Los hijos escuchan todo desde la sala."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La paz en la pareja se cuida con esfuerzo: humildad, paciencia y amor que soporta (Efesios 4:2-3). Hablar menos y escuchar más apaga muchos incendios (Santiago 1:19)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "En una pelea, casi siempre queremos ganar. Buscamos la frase que más duele, sacamos cuentas viejas y usamos palabras como “siempre” y “nunca”. O hacemos lo contrario: callamos, nos alejamos y dejamos el problema sin tocar. Así la discusión se repite, cada vez con más heridas."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Santiago da una regla sencilla: ser «pronto para oir, tardío para hablar, tardío para airarse» (Santiago 1:19). Proverbios agrega: «La blanda respuesta quita la ira» (Proverbios 15:1). El tono cambia la pelea tanto como las palabras.",
+        "Jesús nos pide sacar primero la viga de nuestro ojo, y después la mota del otro (Mateo 7:3-5). No se trata de culparte de todo, sino de preguntarte cuál es tu parte. Y Pablo pide que de nuestra boca salga solo lo que edifica (Efesios 4:29). Se pueden decir cosas difíciles con respeto. El objetivo no es vencer al otro, sino volver a estar juntos."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuando suba la voz, pidan una pausa de veinte minutos y pónganle hora para volver a hablar.",
+        "Hablen de un solo tema por vez. Lo viejo, déjenlo para otro día.",
+        "Cambien “tú siempre” por “yo me siento… cuando…”.",
+        "Antes de responder, repite lo que entendiste: “¿Me estás diciendo que…?” (Santiago 1:19).",
+        "Terminen el día con un gesto de paz, aunque no todo esté resuelto (Efesios 4:26)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuál es mi parte en nuestras peleas, aunque sea pequeña?",
+        "¿Busco tener razón o busco que estemos bien?",
+        "¿Qué palabras mías han herido y todavía no he pedido perdón?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche, en un momento tranquilo, pregúntale a tu pareja: “¿Qué es lo que más te duele de nuestras peleas?”. Solo escucha, sin defenderte. Al final, dale las gracias."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Abigail vio venir un conflicto violento y se interpuso con palabras sabias y humildes. David le dijo: «bendito sea tu razonamiento» (1 Samuel 25:33). Conócela en la ficha «Abigail» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si en las peleas hay golpes, empujones, amenazas o miedo, ya no es solo una discusión: es violencia. Tu seguridad y la de tus hijos va primero; perdonar no es quedarse en peligro. Busca hoy a alguien de confianza, tu pastor o sacerdote y ayuda profesional. En peligro, llama a emergencias."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Efesios 4:1-3", "nota": "Guardar la unidad en paz." },
+        { "ref": "Santiago 1:19-20", "nota": "Pronto para oír, tardío para airarse." },
+        { "ref": "Proverbios 15:1-4", "nota": "El poder de la respuesta suave." },
+        { "ref": "Efesios 4:25-32", "nota": "Hablar verdad y no guardar enojo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, nuestra casa está cansada de peleas. Dame humildad para ver mi parte y paciencia para escuchar. Pon en mi boca palabras que sanen. Devuélvenos la paz que viene de ti. Amén."
+    }
+  ],
+  "estudio": ["efesios", "santiago"],
+  "buscar": "paz en el matrimonio"
+}

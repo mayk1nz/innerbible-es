@@ -1,0 +1,93 @@
+{
+  "id": "quiero-servir-y-no-se-como",
+  "titulo": "Cuando quiero servir y no sé cómo",
+  "etiquetas": ["Hacedor de la Palabra", "Servicio", "Dones"],
+  "enUnMinuto": [
+    "Servir no es solo predicar o cantar: es usar lo que Dios te dio para el bien de otros.",
+    "Empieza con lo que ya sabes hacer y con quien ya tienes cerca.",
+    "Primer paso: pregunta hoy a alguien en qué lo puedes ayudar esta semana."
+  ],
+  "versiculo": {
+    "texto": "Cada uno según el don que ha recibido, adminístrelo a los otros, como buenos dispensadores de las diferentes gracias de Dios.",
+    "referencia": "1 Pedro 4:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Rubén maneja un taxi doce horas al día. Admira a los que dirigen el coro o predican, y piensa: “Yo no sirvo para eso”. Quiere hacer algo para Dios, pero no sabe por dónde empezar. Y los meses se le escapan."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cada uno recibió algún don, y Dios espera que lo use para servir a otros (1 Pedro 4:10). Ningún servicio es pequeño si se hace para el Señor (Colosenses 3:23-24)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es esperar un cargo, un título o un gran llamado. Mientras tanto, no se hace nada.",
+        "Otro error es compararse con los más visibles y concluir que uno no tiene nada que dar. Así se pierde el servicio que solo tú puedes hacer."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús vino para servir y no para ser servido (Marcos 10:45). Lavó los pies de sus discípulos y nos pidió hacer lo mismo (Juan 13:14-15). El servicio cristiano empieza con una toalla, no con un micrófono.",
+        "La Biblia menciona dones muy distintos: servir, enseñar, animar, repartir, hacer misericordia (Romanos 12:6-8). Dorcas cosía túnicas y vestidos para las viudas, y toda su ciudad la lloró (Hechos 9:36-39). Sobre algunos dones, las iglesias lo viven de maneras distintas; habla con tu pastor o sacerdote.",
+        "Jesús enseña que lo que hacemos al más pequeño, a él se lo hacemos (Mateo 25:40). Tu servicio puede empezar en tu calle, en tu trabajo o en tu propia casa."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Haz una lista de lo que sabes hacer: cocinar, arreglar, escuchar, manejar, organizar, orar.",
+        "Mira a tu alrededor: ¿quién está enfermo, solo o sobrecargado cerca de ti?",
+        "Habla con tu pastor o sacerdote y ofrece lo que tienes, aunque sea una hora al mes.",
+        "Empieza pequeño y constante, sin buscar que te vean (Mateo 6:3-4).",
+        "Cuando te canses, recuerda que a su tiempo cosecharás si no desmayas (Gálatas 6:9)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué sé hacer que podría aliviar la carga de alguien?",
+        "¿Estoy esperando un gran llamado y despreciando lo pequeño?",
+        "¿Sirvo para ser visto o para agradar al Señor?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Pregunta hoy a una persona concreta: “¿En qué te puedo ayudar esta semana?”. Puede ser tu pastor o sacerdote, un vecino o alguien de tu familia. Anota lo que te pida y ponle día. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Rut sirvió a su suegra Noemí recogiendo espigas en el campo, sin cargo ni aplausos (Rut 2:2). Lee su ficha, «Rut», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 13:1-15", "nota": "Jesús lava los pies de sus discípulos." },
+        { "ref": "Romanos 12:4-8", "nota": "Dones distintos, un solo cuerpo." },
+        { "ref": "Hechos 9:36-42", "nota": "Dorcas y sus túnicas." },
+        { "ref": "Mateo 25:31-40", "nota": "Lo que haces al más pequeño." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú viniste a servir. Muéstrame qué me diste y a quién puedo ayudar. Líbrame de esperar grandes cargos y de despreciar lo pequeño. Que mis manos sirvan donde tú me pusiste. Amén."
+    }
+  ],
+  "estudio": ["1-pedro"],
+  "buscar": "servicio"
+}

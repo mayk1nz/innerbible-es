@@ -1,0 +1,90 @@
+{
+  "id": "cometo-el-mismo-error-otra-vez",
+  "titulo": "Cuando cometo el mismo error otra vez",
+  "etiquetas": ["Identidad y autoestima", "Cambio", "Nuevo comienzo"],
+  "enUnMinuto": [
+    "Caer otra vez no te hace un caso perdido: el justo cae y se vuelve a levantar.",
+    "El primer paso es volver a Dios sin castigarte y cambiar una sola cosa concreta en tu rutina."
+  ],
+  "versiculo": {
+    "texto": "Porque siete veces cae el justo, y se torna a levantar; mas los impíos caerán en el mal.",
+    "referencia": "Proverbios 24:16"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Ramiro le prometió a su esposa llegar temprano los viernes para cenar con los hijos. Por tercera vez este mes, se quedó en el trabajo hasta tarde. Llegó con la comida fría en la mesa y los niños dormidos. Se sentó en el auto y pensó: “Yo nunca voy a cambiar”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Lo que distingue al justo no es que nunca cae, sino que se levanta. Y Dios, que empezó la obra en ti, la va a terminar (Proverbios 24:16; Filipenses 1:6)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Después de fallar otra vez, solemos ir a un extremo. O nos hundimos en la culpa y decidimos que no tenemos arreglo. O nos resignamos y decimos: “así soy yo”. Las dos respuestas dejan todo igual. También es común hacer promesas enormes sin cambiar nada práctico. La buena intención sola no alcanza."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo, el gran apóstol, confiesa: «no hago el bien que quiero; mas el mal que no quiero, éste hago» (Romanos 7:19). No estás solo en esa lucha. Pero Pablo no se queda ahí. Olvida lo que queda atrás y se extiende a lo que está delante (Filipenses 3:13-14).",
+        "El camino tiene dos partes. Primero, volver a Dios con sinceridad: si confesamos, Él es fiel para perdonar y limpiar (1 Juan 1:9). Segundo, cambiar algo en la práctica. De las misericordias de Dios, la Biblia dice: «Nuevas son cada mañana» (Lamentaciones 3:23). Cada mañana es una oportunidad real, no una frase bonita."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Nombra el error con claridad, sin exagerar ni minimizar. Confiésalo a Dios (1 Juan 1:9).",
+        "Si heriste a alguien, pídele perdón sin excusas.",
+        "Descubre el momento exacto en que sueles fallar: la hora, el lugar, el cansancio.",
+        "Decide una acción concreta para ese momento, no una promesa general.",
+        "Pide a alguien de confianza que te pregunte cada semana cómo vas."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy más enojado conmigo que arrepentido delante de Dios?",
+        "¿Qué pasa justo antes de que vuelva a caer?",
+        "¿He cambiado algo práctico, o solo he prometido más fuerte?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Piensa en el momento exacto en que sueles fallar. Hoy pon una alarma o una nota para ese momento, con una sola acción distinta. Ramiro, por ejemplo, programó una alarma a las 5:30 que dice: “A casa”."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jonás huyó de lo que Dios le pidió y después volvió a enojarse con Él. Aun así, la Biblia dice que la palabra de Dios le llegó «segunda vez». Lee su historia en la ficha «Jonás» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Romanos 7:15-8:2", "nota": "La lucha de Pablo y la libertad en Cristo." },
+        { "ref": "Lamentaciones 3:21-26", "nota": "Misericordias nuevas cada mañana." },
+        { "ref": "Filipenses 3:12-14", "nota": "Olvidar lo de atrás y seguir adelante." },
+        { "ref": "Jonás 3:1-3", "nota": "Dios habla a Jonás por segunda vez." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, otra vez caí en lo mismo. No quiero esconderme ni rendirme. Perdóname y levántame. Muéstrame qué cambiar hoy y dame fuerza para hacerlo. Gracias porque tu misericordia es nueva esta mañana. Amén."
+    }
+  ],
+  "estudio": ["romanos", "lamentaciones"],
+  "buscar": "arrepentimiento"
+}

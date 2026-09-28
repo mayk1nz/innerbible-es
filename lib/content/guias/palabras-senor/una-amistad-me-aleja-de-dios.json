@@ -1,0 +1,96 @@
+{
+  "id": "una-amistad-me-aleja-de-dios",
+  "titulo": "Cuando una amistad me aleja de Dios",
+  "etiquetas": ["Amistades y convivencia", "Amistad", "Influencias"],
+  "enUnMinuto": [
+    "Las amistades nos moldean más de lo que creemos, para bien o para mal.",
+    "Jesús fue amigo de pecadores, pero nadie lo apartó del Padre.",
+    "Primer paso: mira con honestidad quién influye en quién en esa amistad."
+  ],
+  "versiculo": {
+    "texto": "No erréis: las malas conversaciones corrompen las buenas costumbres.",
+    "referencia": "1 Corintios 15:33"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Bryan tiene 23 años y un amigo de la infancia al que quiere como a un hermano. Cada salida con él termina en tragos de más, conversaciones sucias y burlas de la fe. Bryan vuelve a casa vacío y con culpa. No quiere perder a su amigo, pero tampoco a Dios."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Lo que compartimos con otros va formando nuestras costumbres (1 Corintios 15:33). Quien anda con sabios se vuelve sabio (Proverbios 13:20)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores. Uno es pensar: “A mí no me afecta, yo soy fuerte”. Así uno cede poco a poco, sin darse cuenta. El otro es cortar con desprecio, sintiéndose mejor que el amigo. El primero te aleja de Dios. El segundo impide que tu amigo vea a Cristo en ti."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús comía con publicanos y pecadores, y lo criticaron por eso (Lucas 7:34). No los evitó. Pero en esas mesas era él quien influía, no al revés. La pregunta no es solo si tu amigo es creyente. Es quién está cambiando a quién.",
+        "El primer salmo describe un camino que baja poco a poco (Salmo 1:1). Primero se anda en el consejo de los malos. Luego uno se detiene con ellos. Al final termina sentado con los burladores. Así avanza el alejamiento: paso a paso y sin ruido.",
+        "No tienes que dejar de amar a tu amigo. Puedes cambiar el lugar y la forma de verlo. Un café en vez de una fiesta; una charla sincera en vez de un grupo que te arrastra. Y busca también amigos que te afilen en la fe (Proverbios 27:17)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pregúntate con honestidad: después de estar con esa persona, ¿estoy más cerca o más lejos de Dios?",
+        "Identifica los lugares y momentos donde caes, y evítalos (Salmo 1:1).",
+        "Habla con tu amigo con sinceridad y sin sermones: “Quiero seguir siendo tu amigo, pero no así”.",
+        "Busca al menos un amigo que te anime en la fe (Proverbios 13:20).",
+        "Ora por tu amigo. Tu amor puede ser el puente que lo acerque a Jesús."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Quién está influyendo en quién en esta amistad?",
+        "¿Qué hago con esta persona que no haría delante de Jesús?",
+        "¿Tengo amigos que me ayuden a crecer en la fe?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Si hoy te invitan a un plan que te aleja de Dios, di que no. Y propón otro: un café, un partido, una comida. Así cuidas tu fe sin abandonar a tu amigo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Daniel y sus tres compañeros se sostuvieron en la fe lejos de casa. En la crisis, oraron juntos (Daniel 2:17-18). Lee la ficha de Sadrac, Mesac y Abed-nego en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si esa amistad te lleva al alcohol, a las drogas o a algo peligroso, y te cuesta salir, busca ayuda hoy. Habla con alguien de confianza, tu pastor o sacerdote o un profesional. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 1:1-3", "nota": "Dos caminos, dos resultados." },
+        { "ref": "Proverbios 13:20", "nota": "Andar con sabios." },
+        { "ref": "Lucas 7:33-35", "nota": "Jesús, amigo de pecadores." },
+        { "ref": "Proverbios 27:17", "nota": "El amigo que te afila." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por mis amigos. Dame sabiduría para ver quién me acerca a ti y quién me aleja. Hazme fiel sin volverme orgulloso. Y usa mi vida para acercar a mis amigos a ti. Amén."
+    }
+  ],
+  "estudio": ["1-corintios", "daniel"],
+  "buscar": "compañías"
+}

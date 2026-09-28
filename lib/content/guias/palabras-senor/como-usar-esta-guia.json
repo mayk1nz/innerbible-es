@@ -1,0 +1,93 @@
+{
+  "id": "como-usar-esta-guia",
+  "titulo": "Cómo usar esta guía",
+  "subtitulo": "Siete pasos para vivir la Palabra",
+  "etiquetas": ["Comienza aquí", "Guía práctica"],
+  "enUnMinuto": [
+    "Esta guía no es para leerla de corrido: es para abrirla cuando la vida te pone frente a algo concreto.",
+    "Busca tu situación, lee lo que dice la Biblia y sigue los siete pasos, uno por uno.",
+    "Empieza por la acción de hoy: la Palabra se entiende mejor cuando se practica."
+  ],
+  "versiculo": {
+    "texto": "Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan.",
+    "referencia": "Lucas 11:28"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Para qué sirve esta guía",
+      "parrafos": [
+        "Muchas veces sabemos que la Biblia tiene respuestas, pero no sabemos dónde buscar. O leemos un versículo bonito y no sabemos qué hacer con él el lunes por la mañana. Esta guía nació para eso.",
+        "Aquí encontrarás más de cien situaciones reales de la vida. Hablan del perdón, la ansiedad, el matrimonio, los hijos, el trabajo, el dinero y la fe. En cada una verás qué dice la Biblia y cómo aplicarlo, paso a paso.",
+        "Jesús llamó dichosos a los que oyen la Palabra y la guardan (Lucas 11:28). Guardar no es solo recordar. Es vivirla. Por eso cada situación termina con algo concreto para hacer hoy."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Los siete pasos de cada situación",
+      "items": [
+        "La situación real: una escena corta de alguien que vive lo mismo que tú. Te ayuda a ver que no estás solo.",
+        "El principio bíblico: la verdad de Dios para ese momento, con el versículo exacto y su referencia.",
+        "El error más común: lo que casi todos hacemos por instinto, y por qué no funciona.",
+        "El camino bíblico: lo que enseña la Escritura, con las citas para que las leas tú mismo.",
+        "Paso a paso: cuatro o cinco pasos concretos y posibles, para empezar donde estás.",
+        "Pregúntate: dos o tres preguntas honestas para mirar tu corazón delante de Dios, sin miedo.",
+        "Hoy, como hacedor de la Palabra: una sola acción para hoy, sencilla y fácil de comprobar."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que también encontrarás",
+      "items": [
+        "Un gigante que vivió esto: un personaje de la Biblia que pasó por lo mismo, con su ficha en “Caminando con Gigantes”.",
+        "Una nota de cuidado en los temas delicados, como la salud mental, la violencia, el luto o las deudas.",
+        "Para leer y orar: tres o cuatro pasajes para seguir leyendo en tu Biblia.",
+        "Una oración corta, para hablar con Dios con tus propias palabras."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cómo encontrar tu situación",
+      "items": [
+        "Usa el buscador: escribe lo que estás viviendo con una palabra sencilla, como “perdón”, “miedo” o “deudas”.",
+        "O recorre las partes: perdón, emociones, identidad, pareja, familia, amistades, trabajo, dinero, decisiones, fe, tentación, dolor y vida de hacedor.",
+        "Si tienes poco tiempo, lee “En 1 minuto”. Allí están el principio y el primer paso.",
+        "Cuando puedas, lee la situación completa, con tu Biblia al lado y un lápiz para anotar.",
+        "Vuelve a la misma situación las veces que necesites. Algunas heridas y hábitos piden más de una lectura."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Una guía que camina contigo",
+      "tono": "gold",
+      "texto": "Esta guía anda junto con los tres planes de 90 días de Palabras del Señor. La guía te ayuda en el momento difícil; los planes te forman un día a la vez. Si quieres hablar de lo que vives, conversa con tu Consejero Bíblico. Y en “Caminando con Gigantes” verás cómo otros, antes que tú, vivieron lo mismo con Dios."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un consejo antes de empezar",
+      "parrafos": [
+        "No intentes cambiarlo todo en un día. Elige una situación, haz la acción de hoy y dale tiempo a Dios. El fruto crece despacio, pero crece.",
+        "Lee con el corazón abierto, no para juzgarte. Dios no te muestra tu vida para condenarte, sino para sanarte y guiarte. Nadie aquí es perfecto: todos somos aprendices de Jesús."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esta guía no reemplaza a tu pastor o sacerdote, ni a un médico o profesional. Si vives algo grave, busca también esa ayuda. Pedir ayuda no es falta de fe. Si tu vida o la de otra persona está en peligro, llama hoy a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 1:22-25", "nota": "Hacedores de la Palabra, no solo oidores." },
+        { "ref": "Mateo 7:24-27", "nota": "La casa construida sobre la roca." },
+        { "ref": "Salmos 119:105", "nota": "La Palabra como lámpara para tus pasos." },
+        { "ref": "2 Timoteo 3:16-17", "nota": "Toda la Escritura es útil para la vida." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero escuchar tu Palabra y también vivirla. Cuando abra esta guía, háblame con claridad. Dame valor para dar el primer paso, aunque sea pequeño. Y enséñame a caminar contigo cada día. Amén."
+    }
+  ],
+  "buscar": "Palabra de Dios"
+}

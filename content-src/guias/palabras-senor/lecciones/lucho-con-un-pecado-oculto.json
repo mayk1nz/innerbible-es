@@ -1,0 +1,93 @@
+{
+  "id": "lucho-con-un-pecado-oculto",
+  "titulo": "Cuando lucho con un pecado oculto",
+  "etiquetas": ["Tentación y hábitos", "Confesión", "Secretos"],
+  "enUnMinuto": [
+    "Lo que escondes no desaparece: te pesa por dentro y crece en la oscuridad.",
+    "La Biblia promete misericordia a quien confiesa y se aparta, no a quien esconde mejor.",
+    "Primer paso: díselo hoy a Dios con tus palabras y elige a una persona de confianza para contárselo."
+  ],
+  "versiculo": {
+    "texto": "El que encubre sus pecados, no prosperará: mas el que los confiesa y se aparta, alcanzará misericordia.",
+    "referencia": "Proverbios 28:13"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Silvia cuida a su mamá enferma. Cada mes, su hermana le manda dinero desde lejos para los remedios. Desde hace un año, Silvia se queda con una parte y dice que todo subió. Nadie lo sabe. Pero ya no duerme bien, y cuando ora siente que le habla a una pared."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El pecado escondido no se sana: se pudre por dentro. Dios no nos pide esconderlo mejor, sino sacarlo a la luz. Quien lo confiesa y se aparta encuentra misericordia (Proverbios 28:13; 1 Juan 1:9)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es hacer un trato con uno mismo: “Lo dejo y nadie tiene que saberlo”. A veces se agrega algo bueno para compensar, como más horas en la iglesia o una ofrenda más grande. Otras veces se espera que el tiempo lo borre.",
+        "Eso no funciona porque el secreto sigue mandando. Te obliga a mentir para cubrirlo y a vivir con miedo de que te descubran. Te hace sentir lejos de Dios. David lo describió así: mientras calló, se le envejecían los huesos y gemía todo el día (Salmo 32:3). El silencio no protege; desgasta."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "El camino tiene tres movimientos. Primero, hablar con Dios sin rodeos. David oró: «Mi pecado te declaré, y no encubrí mi iniquidad» (Salmo 32:5). Dios ya lo sabe todo; confesar es dejar de escondernos de Él.",
+        "Segundo, contárselo a alguien de confianza. Santiago nos invita a confesarnos las faltas unos a otros y a orar unos por otros, para ser sanados (Santiago 5:16). Un católico puede acudir a la confesión con un sacerdote. Un evangélico puede buscar a su pastor o a un hermano maduro. Lo importante es que el secreto deje de ser secreto.",
+        "Tercero, reparar lo que se pueda. Zaqueo no se quedó en palabras: devolvió lo que había tomado, y más (Lucas 19:8). La confesión abre la puerta; el cambio de vida la atraviesa."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe en un papel, sin adornos, qué estás escondiendo y desde cuándo.",
+        "Díselo a Dios con tus propias palabras y recibe su perdón (Salmo 32:5).",
+        "Elige a una persona madura y discreta, y pídele un momento para hablar esta semana (Santiago 5:16).",
+        "Si dañaste a alguien, piensa cómo reparar: devolver, pagar, pedir perdón (Lucas 19:8).",
+        "Quita lo que alimenta el secreto: una cuenta aparte, una contraseña, una mentira que repites."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué estoy protegiendo con mi silencio: mi pecado o mi imagen?",
+        "¿Cuántas mentiras más necesito para que esto siga oculto?",
+        "¿A quién estoy dañando, aunque todavía no lo sepa?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escríbele hoy a una persona de confianza: “Necesito hablar contigo de algo importante esta semana. ¿Cuándo puedes?”. No tienes que contarlo todo hoy. Solo abre la puerta. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "David escondió su pecado durante meses, hasta que el profeta Natán lo enfrentó. De su confesión nació el Salmo 51. Lee su ficha «David, después de caer» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 32:1-5", "nota": "El peso del silencio y la alegría del perdón." },
+        { "ref": "Salmo 51:1-12", "nota": "La oración de David después de caer." },
+        { "ref": "Santiago 5:16", "nota": "Confesar y orar unos por otros." },
+        { "ref": "Lucas 19:1-10", "nota": "Zaqueo repara lo que tomó." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú ves lo que escondo. Ya no quiero cargarlo solo. Te lo confieso con mis palabras y te pido perdón. Dame valor para hablar con alguien y para reparar lo que dañé. Gracias porque tu misericordia espera a quien sale a la luz. Amén."
+    }
+  ],
+  "estudio": ["salmos", "2-samuel"],
+  "buscar": "confesión"
+}

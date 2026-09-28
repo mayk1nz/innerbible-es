@@ -1,0 +1,94 @@
+{
+  "id": "me-siento-solo",
+  "titulo": "Cuando me siento solo",
+  "etiquetas": ["Identidad y autoestima", "Soledad", "Comunidad"],
+  "enUnMinuto": [
+    "Dios no te creó para vivir solo: Él está contigo y quiere darte una familia en la fe.",
+    "El primer paso es contarle a Dios tu soledad y dar hoy un paso pequeño hacia otra persona."
+  ],
+  "versiculo": {
+    "texto": "El Dios que hace habitar en familia los solos; que saca a los aprisionados con grillos: mas los rebeldes habitan en sequedad.",
+    "referencia": "Salmos 68:6"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Rosa María tiene 45 años y vive sola. Sale del trabajo, calienta algo de comer y cena frente al televisor. Tiene muchos contactos en el teléfono, pero nadie a quien llamar un martes por la noche. A veces pasa el fin de semana entero sin hablar con nadie."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Desde el principio Dios dijo: «No es bueno que el hombre esté solo» (Génesis 2:18). Él mismo pone a los solitarios en familia (Salmos 68:6)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Cuando estamos solos, esperamos que otros nos busquen. Si no lo hacen, pensamos que no le importamos a nadie, y nos cerramos más. Otros llenan la soledad con ruido: televisión, redes, trabajo sin fin. También hay quien se avergüenza de sentirse solo y lo esconde. Así la soledad crece en silencio."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia no desprecia tu soledad: la toma en serio. El salmista ora sin vergüenza: «Mírame, y ten misericordia de mí; porque estoy solo y afligido» (Salmos 25:16). Jesús también sintió que lo dejaban solo. Pero dijo: «mas no estoy solo, porque el Padre está conmigo» (Juan 16:32). Y a ti te promete: yo estoy con vosotros todos los días (Mateo 28:20).",
+        "Al mismo tiempo, Dios obra por medio de personas. Dos son mejores que uno: si uno cae, el otro lo levanta (Eclesiastés 4:9-10). Por eso la Biblia nos pide no dejar de congregarnos y animarnos unos a otros (Hebreos 10:24-25). Muchas veces la respuesta de Dios a la soledad es una mesa compartida."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Dile a Dios, con palabras sencillas, cómo te sientes. Él escucha (Salmos 25:16).",
+        "Haz una lista de tres personas con las que podrías retomar el contacto.",
+        "Busca un grupo pequeño en tu parroquia o iglesia: un coro, un estudio, un servicio.",
+        "Ofrécete a ayudar a alguien. Servir abre puertas que esperar no abre.",
+        "Ten paciencia: la amistad crece despacio. Para tener amigos, muéstrate amigo (Proverbios 18:24)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy esperando que otros den el primer paso?",
+        "¿Qué lugar de fe podría visitar esta semana para conocer gente?",
+        "¿A quién de mi alrededor también le vendría bien una llamada?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Envía hoy un mensaje a una persona de tu lista y propón un café, una caminata o una visita esta semana. Si no responde, escríbele a la segunda. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Elías le dijo a Dios: «yo solo he quedado». Dios lo alimentó, lo escuchó y le mostró que había siete mil fieles más (1 Reyes 19:10-18). Conócelo en la ficha «Elías» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "La soledad larga afecta el ánimo y la salud. ¿Llevas semanas muy triste o piensas que sería mejor morir? Habla hoy con un médico y con tu pastor o sacerdote. Pedir ayuda no es falta de fe. En peligro, llama a emergencias."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 25:16-21", "nota": "Oración de alguien solo y afligido." },
+        { "ref": "1 Reyes 19:9-18", "nota": "Elías no era el único." },
+        { "ref": "Eclesiastés 4:9-12", "nota": "Mejores son dos que uno." },
+        { "ref": "Hechos 2:42-47", "nota": "La primera iglesia compartía la mesa." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me siento solo. Gracias porque tú estás conmigo todos los días. Pon en mi camino personas buenas, y dame valor para buscarlas. Úsame también para acompañar a otros que están solos. Amén."
+    }
+  ],
+  "estudio": ["salmos", "1-reyes-12-22"],
+  "buscar": "soledad"
+}

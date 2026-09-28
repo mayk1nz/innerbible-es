@@ -1,0 +1,120 @@
+{
+  "id": "comienza-aqui",
+  "titulo": "Cómo usar esta biblioteca",
+  "subtitulo": "Cuatro pasos cuando llega una lucha",
+  "etiquetas": ["Comienza aquí", "Cómo usar"],
+  "enUnMinuto": [
+    "Esta biblioteca no está ordenada por personajes, sino por luchas: injusticia, duelo, miedo, culpa, enfermedad y más.",
+    "Cuando llegue una lucha, ponle nombre, encuentra a quien pasó por algo parecido y mira qué decidió.",
+    "Ellos no fueron perfectos, pero caminaron con Dios en el dolor, y tú también puedes hacerlo."
+  ],
+  "versiculo": {
+    "texto": "Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza.",
+    "referencia": "Romanos 15:4"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás abriste esta biblioteca en medio de una lucha. Algo te duele, te asusta o te avergüenza, y no sabes por dónde empezar. No tienes que leerlo todo. Tampoco tienes que estar bien para leer. Empieza por aquí: en pocos minutos sabrás cómo encontrar la historia que puede acompañarte hoy."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por qué gigantes",
+      "parrafos": [
+        "La Biblia no esconde las luchas de su gente. José fue traicionado por sus hermanos. David vivió años perseguido. Job lo perdió todo. Elías quiso morirse. Pedro negó a Jesús. Y Pablo dice que estas cosas se escribieron «para nuestra enseñanza», para que tengamos esperanza (Romanos 15:4).",
+        "Los llamamos gigantes, pero no porque fueran superhéroes. Tuvieron miedo, dudaron, se equivocaron y a veces cayeron muy hondo. Fueron gigantes porque, en medio del dolor, siguieron caminando con Dios. O porque volvieron a Él después de alejarse.",
+        "Por eso esta biblioteca está ordenada por luchas, no por nombres. Encontrarás secciones como injusticia y espera, pérdida y duelo, miedo, cansancio, culpa, familia, fe bajo presión y enfermedad. Al final está Jesús, el Gigante mayor."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cuatro pasos cuando llega una lucha",
+      "items": [
+        "Identifica tu lucha. Ponle nombre delante de Dios: ¿es injusticia, duelo, miedo, culpa, cansancio? (Salmos 142:2).",
+        "Encuentra a tu gigante. Busca a alguien de la Biblia que pasó por algo parecido, y lee su ficha sin prisa (Romanos 15:4).",
+        "Mira su decisión. Fíjate qué hizo con su dolor: cómo oró, qué eligió, cómo volvió a Dios (Hebreos 6:12).",
+        "Da un paso hoy. Elige un gesto pequeño y concreto para esta semana; un paso basta (Santiago 1:22)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué encontrarás en cada ficha",
+      "items": [
+        "“En 1 minuto”: el resumen, por si hoy tienes poco tiempo o pocas fuerzas.",
+        "“Si hoy te sientes así”: tu lucha, dicha con palabras sencillas.",
+        "“Su historia” y “La lucha por dentro”: lo que vivió, con las referencias bíblicas para leerlo.",
+        "“Lo que decidió” y “Pasos que puedes copiar”: el camino que tomó con Dios.",
+        "“Jesús en esta historia” y “Para tu vida hoy”: la esperanza y un gesto para la semana.",
+        "Al final: dónde leer su historia, una oración y preguntas para conversar en familia o en grupo."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "No fueron perfectos",
+      "texto": "Ninguno de estos gigantes fue perfecto. Abraham se adelantó a Dios. Moisés huyó. David cayó. Pedro negó a Jesús. Jonás escapó en un barco (Jonás 1:3). Por eso sus historias nos sirven: muestran que Dios no busca gente perfecta, sino corazones que vuelven a Él. Si tú también has caído, aquí hay lugar para ti."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús camina contigo",
+      "texto": "Todas estas historias apuntan a Jesús. Él conoció la traición, el duelo, el cansancio y la cruz. Por eso puede compadecerse de nuestras flaquezas (Hebreos 4:15). Como con los dos discípulos tristes camino a Emaús, Él se acerca y camina a tu lado (Lucas 24:15). No lees solo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Hoy no necesitas leer toda la biblioteca. Piensa en una sola lucha que estás viviendo y ponle nombre. Luego abre la ficha “¿Qué estás viviendo hoy?” y elige a un gigante. Lee con calma, aunque sea solo el resumen. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Estas fichas acompañan, pero no reemplazan a las personas. Si tu lucha toca la salud, un duelo profundo, la violencia o las ganas de morir, busca ayuda hoy. Habla con tu pastor o sacerdote, o con un médico o profesional. Si estás en peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para empezar a leer",
+      "items": [
+        { "ref": "Romanos 15:4", "nota": "Por qué se escribieron estas historias." },
+        { "ref": "Salmos 46", "nota": "Dios, nuestro amparo en la angustia." },
+        { "ref": "Hebreos 11", "nota": "La lista de los gigantes de la fe." },
+        { "ref": "Hebreos 4:14-16", "nota": "Jesús entiende nuestras debilidades." },
+        { "ref": "Lucas 24:13-35", "nota": "Jesús camina con dos discípulos tristes." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, llego a ti con mi lucha. Tú conoces lo que vivo, aunque yo no sepa explicarlo. Háblame por medio de estas historias. Muéstrame a quién mirar y qué paso dar hoy. Camina conmigo. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Qué personaje de la Biblia te ha acompañado en un momento difícil?",
+        "¿Por qué crees que la Biblia muestra los errores de sus héroes?",
+        "Si tuvieras que ponerle nombre a tu lucha de hoy, ¿cuál sería?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo está ordenada esta biblioteca?",
+      "opciones": ["Por orden alfabético", "Por luchas de la vida", "Por libros de la Biblia"],
+      "correcta": 1,
+      "explicacion": "Está ordenada por luchas, para que encuentres rápido la historia que te acompaña hoy."
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso cuando llega una lucha?",
+      "opciones": ["Identificar tu lucha", "Leer toda la biblioteca", "Esperar a sentirte mejor"],
+      "correcta": 0,
+      "explicacion": "Primero le pones nombre a tu lucha; después buscas a tu gigante, miras su decisión y das un paso."
+    },
+    {
+      "pregunta": "Según Romanos 15:4, ¿para qué se escribieron estas historias?",
+      "opciones": ["Para juzgar a los demás", "Para saber de historia antigua", "Para enseñarnos y darnos esperanza"],
+      "correcta": 2,
+      "explicacion": "Se escribieron «para nuestra enseñanza», para que tengamos esperanza (Romanos 15:4)."
+    }
+  ],
+  "estudio": ["comienza-aqui"],
+  "buscar": "Romanos 15:4"
+}

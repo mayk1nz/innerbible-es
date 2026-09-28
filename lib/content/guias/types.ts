@@ -5,7 +5,7 @@
 //
 // Erasable TypeScript only (types + `as const`): the validator imports LIMITES_GUIA directly.
 
-export const GUIAS = ['mandamientos', 'milagros-jesus', 'mujeres-virtuosas', 'biografias'] as const
+export const GUIAS = ['mandamientos', 'milagros-jesus', 'mujeres-virtuosas', 'biografias', 'caminando-gigantes', 'palabras-senor'] as const
 export type GuiaId = (typeof GUIAS)[number]
 
 export const LIMITES_GUIA = {

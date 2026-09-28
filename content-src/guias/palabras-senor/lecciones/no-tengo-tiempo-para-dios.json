@@ -1,0 +1,93 @@
+{
+  "id": "no-tengo-tiempo-para-dios",
+  "titulo": "Cuando no tengo tiempo para Dios",
+  "etiquetas": ["Fe y vida espiritual", "Prioridades", "Descanso"],
+  "enUnMinuto": [
+    "Marta estaba tan ocupada sirviendo que no se sentó con Jesús. Él le dijo con cariño que una sola cosa era necesaria.",
+    "No se trata de sumar tareas, sino de darle a Dios un lugar fijo en tu día real.",
+    "Primer paso: separa cinco minutos al comienzo del día para estar con Él."
+  ],
+  "versiculo": {
+    "texto": "Pero respondiendo Jesús, le dijo: Marta, Marta, cuidadosa estás, y con las muchas cosas estás turbada: Empero una cosa es necesaria; y María escogió la buena parte, la cual no le será quitada.",
+    "referencia": "Lucas 10:41-42"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Karina trabaja en dos lugares en Lima para pagar el colegio de sus hijos. Sale de casa a las cinco y media y vuelve de noche. Quiere leer la Biblia y orar, pero cuando por fin se sienta, se queda dormida. Y se siente culpable."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús le dijo a Marta que se afanaba por muchas cosas, pero una sola era necesaria (Lucas 10:41-42). Estar con Él no es una tarea más: es lo que pone en orden todas las demás."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es pensar que, para estar con Dios, hace falta una hora libre y un silencio perfecto. Como eso nunca llega, no se hace nada. Otro error es cargarse de culpa. La culpa no acerca a Dios; solo cansa más.",
+        "Marta no hacía nada malo. Servía a Jesús con amor. Pero el servicio la llenó de afán y le quitó la paz (Lucas 10:40). A veces nuestras ocupaciones son buenas, y aun así nos roban lo mejor."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús tenía una agenda muy llena. La gente lo buscaba todo el tiempo. Aun así, se apartaba a lugares tranquilos para orar (Lucas 5:16). Y a sus discípulos cansados les dijo que vinieran aparte a descansar un poco (Marcos 6:31).",
+        "Busca a Dios dentro de tu día real. Ora en el bus. Escucha un salmo mientras cocinas. Da gracias al servir la comida. Dios no está solo en el templo; está contigo en el trabajo.",
+        "Y protege un tiempo pequeño y fijo. Cinco minutos cada día valen más que una hora una vez al mes. Busca primero el reino de Dios, y confía en que tu Padre sabe lo que necesitas (Mateo 6:32-33)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elige cinco minutos fijos: al despertar, en el camino o antes de dormir.",
+        "En esos minutos, lee un versículo corto y habla con Dios sobre tu día.",
+        "Convierte momentos de rutina en oración: al lavar los platos, al viajar, al esperar.",
+        "Revisa tu semana: ¿qué te roba tiempo sin darte descanso? El celular, por ejemplo.",
+        "Si puedes, guarda el domingo un tiempo más largo para la misa o el culto, y para descansar (Marcos 6:31)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué cosas buenas me están robando lo mejor?",
+        "¿Dónde podría encontrar cinco minutos, si de verdad quisiera?",
+        "¿Busco a Dios por obligación o porque lo necesito?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Antes de dormir, pon tu Biblia o una tarjeta con un versículo encima de tu celular. Mañana, antes de mirar la pantalla, siéntate cinco minutos con Dios."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Marta conoció a Jesús en medio de sus tareas y también en su dolor. Jesús la amaba y la invitó a lo esencial. Lee «Marta y María» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 10:38-42", "nota": "Marta, María y la única cosa necesaria." },
+        { "ref": "Marcos 6:30-32", "nota": "Vengan aparte a descansar." },
+        { "ref": "Salmos 5:1-3", "nota": "Buscar a Dios de mañana." },
+        { "ref": "Mateo 6:31-34", "nota": "Buscar primero el reino." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, mi vida va muy rápido y casi no te busco. No quiero vivir con culpa, sino contigo. Enséñame a encontrarte en mi día real. Dame cinco minutos de paz a tus pies, como María. Amén."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Marta"
+}

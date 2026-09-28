@@ -1,0 +1,84 @@
+{
+  "id": "quiero-dar-pero-tengo-poco",
+  "titulo": "Cuando quiero dar pero tengo poco",
+  "etiquetas": ["Dinero y provisión", "Generosidad", "Ofrenda"],
+  "enUnMinuto": [
+    "Dios mira el corazón que da, no el tamaño de la ofrenda.",
+    "Él acepta lo que tienes, no lo que no tienes.",
+    "Hoy da algo pequeño y concreto, con alegría y en secreto."
+  ],
+  "versiculo": {
+    "texto": "Porque si primero hay la voluntad pronta, será acepta por lo que tiene, no por lo que no tiene.",
+    "referencia": "2 Corintios 8:12"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Don Evaristo vive de una jubilación pequeña en Rosario, Argentina. Cuando pasa la canasta de la ofrenda, le da vergüenza lo poco que pone. Ve a otros dar billetes grandes. A veces prefiere no ir, para no sentirse menos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cuando hay voluntad de dar, Dios acepta según lo que uno tiene, no según lo que no tiene (2 Corintios 8:12). Él ama al que da con alegría, no con tristeza ni por obligación (2 Corintios 9:7)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es pensar que lo poco no vale, y por eso no dar nada. Otro es dar más de lo posible por culpa o por presión, dejando a la familia sin lo necesario. Dios no te pide descuidar a los tuyos (1 Timoteo 5:8). Y dar no es una compra ni un negocio con Dios. No das para recibir algo a cambio. Das porque ya recibiste mucho de Él."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús vio a una viuda pobre echar dos moneditas en la ofrenda. Dijo que ella dio más que todos, porque dio de su pobreza (Marcos 12:41-44). Las iglesias de Macedonia, en profunda pobreza, dieron con gran gozo (2 Corintios 8:2-3). Para Dios, el valor está en el corazón.",
+        "Dar tampoco es solo dinero. Puedes dar tiempo, trabajo, una comida, una visita, una oración. Sobre el diezmo y las formas de ofrendar, las iglesias lo viven de maneras distintas; habla con tu pastor o sacerdote. Lo seguro es esto: es más bienaventurado dar que recibir (Hechos 20:35)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Decide en oración lo que vas a dar, con calma y sin presión (2 Corintios 9:7).",
+        "Primero cubre lo necesario de tu casa: dar no es dejar a tu familia sin pan.",
+        "Da con regularidad, aunque sea poco. La constancia vale más que el monto.",
+        "Mira otras formas de dar: tu tiempo, tus manos, tu cocina, tu compañía.",
+        "Da en secreto, sin buscar que otros te vean (Mateo 6:3-4)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy dejando de dar porque me parece poco?",
+        "¿Doy con alegría, o por culpa o por presión?",
+        "¿Qué tengo, además de dinero, que podría compartir?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Da hoy algo pequeño y concreto: un plato de comida, una hora de tu tiempo o una moneda. Hazlo en secreto y con alegría, sin contárselo a nadie. El Padre que ve en lo secreto lo sabe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Marcos 12:41-44", "nota": "La ofrenda de la viuda." },
+        { "ref": "2 Corintios 8:1-12", "nota": "Dar con voluntad pronta." },
+        { "ref": "2 Corintios 9:6-8", "nota": "Dios ama al dador alegre." },
+        { "ref": "Hechos 20:35", "nota": "Más bienaventurado es dar que recibir." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo poco, pero quiero darte mi corazón. Gracias porque miras la intención y no el monto. Enséñame a dar con alegría, sin vergüenza y sin presión. Que mis manos pequeñas bendigan a otros. Amén."
+    }
+  ],
+  "estudio": ["2-corintios"],
+  "buscar": "generosidad"
+}

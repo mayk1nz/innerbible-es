@@ -1,0 +1,96 @@
+{
+  "id": "mi-familia-no-entiende-mi-fe",
+  "titulo": "Cuando mi familia no entiende mi fe",
+  "etiquetas": ["Hijos y familia", "Fe", "Testimonio"],
+  "enUnMinuto": [
+    "Hasta Jesús fue incomprendido por su familia, y con el tiempo sus hermanos creyeron.",
+    "Una vida cambiada habla más fuerte que cualquier discusión.",
+    "Primer paso: deja de debatir y empieza a amar a tu familia de manera concreta."
+  ],
+  "versiculo": {
+    "texto": "Mas Jesús no le permitió, sino le dijo: Vete a tu casa, a los tuyos, y cuéntales cuán grandes cosas el Señor ha hecho contigo, y cómo ha tenido misericordia de ti.",
+    "referencia": "Marcos 5:19"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Yolanda empezó a leer la Biblia y a ir a un grupo de oración. Desde entonces, en su casa se burlan de ella. Su hermano la llama “fanática” y su mamá teme que la estén engañando. En las reuniones familiares, cualquier tema termina en discusión. Yolanda ya no sabe si hablar o callar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús envió al hombre sanado a su propia casa, a contar lo que el Señor había hecho con él (Marcos 5:19). A la familia se le habla con la historia y con la vida, no con peleas."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es querer convencer a fuerza de discusiones y versículos. O sentirse superior y juzgar a la familia por no creer igual. Así la fe se vuelve un motivo de guerra en la casa. El otro error es esconder la fe para evitar problemas. Ninguno de los dos muestra el amor de Cristo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "No estás solo en esto. Los parientes de Jesús decían que estaba fuera de sí (Marcos 3:21). Ni sus hermanos creían en él (Juan 7:5). Pero después de la resurrección, sus hermanos oraban junto a los discípulos (Hechos 1:14). Dios tiene tiempos que tú no ves.",
+        "Pedro enseña a responder «con mansedumbre y reverencia» a quien te pida razón de tu esperanza (1 Pedro 3:15). Fíjate: a quien te pida. No se trata de ganar discusiones. Se trata de estar listo para contar, con amor, lo que Dios hizo contigo.",
+        "Tu familia notará si ahora eres más paciente, más servicial y más alegre. Esa es tu mejor predicación. Respeta sus tiempos, honra a tus padres y no dejes de amar a los tuyos."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Deja de discutir de religión en las reuniones. Si surge el tema, responde breve y con calma.",
+        "Ama con hechos: ayuda en casa, llega a tiempo, cumple lo que prometes.",
+        "Cuando pregunten, cuenta tu historia con sencillez: qué cambió en ti y cómo (Marcos 5:19).",
+        "Respeta las costumbres de tu familia en lo que no va contra tu conciencia.",
+        "Ora por cada uno por su nombre y espera con paciencia (Hechos 1:14)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi familia me ve más amable desde que sigo a Jesús, o más crítico?",
+        "¿Hablo de mi fe para compartir, o para tener la razón?",
+        "¿Estoy dejando que el Señor trabaje en sus tiempos?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Llama hoy al familiar con quien más discutes por la fe. Pregúntale cómo está y escúchalo con interés, sin tocar el tema de la religión. Deja que el amor hable primero."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jeremías fue rechazado por su propia familia por ser fiel a Dios (Jeremías 12:6). Lee su ficha, «Jeremías», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si por tu fe te amenazan, te golpean o te echan de la casa, tu seguridad va primero. Busca hoy a alguien de confianza o a tu pastor o sacerdote. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Marcos 5:18-20", "nota": "Vete a tu casa y cuenta lo que Dios hizo." },
+        { "ref": "Juan 7:1-5", "nota": "Ni sus hermanos creían en él." },
+        { "ref": "Hechos 1:12-14", "nota": "Los hermanos de Jesús, ya en oración." },
+        { "ref": "1 Pedro 3:15-16", "nota": "Responder con mansedumbre." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú también fuiste incomprendido por los tuyos. Dame paciencia con mi familia y un amor que no se canse. Que vean tu bondad en mí antes de oír mis palabras. Toca sus corazones a tu tiempo. Amén."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "familia"
+}

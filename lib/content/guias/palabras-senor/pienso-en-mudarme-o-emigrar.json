@@ -1,0 +1,97 @@
+{
+  "id": "pienso-en-mudarme-o-emigrar",
+  "titulo": "Cuando pienso en mudarme o emigrar",
+  "etiquetas": ["Decisiones y dirección", "Migración", "Prudencia"],
+  "enUnMinuto": [
+    "Mudarse o emigrar es una decisión grande: se toma con oración, información y consejo, no por desesperación.",
+    "La Biblia enseña a hacer planes con humildad, diciendo: si el Señor quiere.",
+    "Primer paso: antes de pagar nada, verifica toda oferta por vías oficiales."
+  ],
+  "versiculo": {
+    "texto": "En lugar de lo cual deberíais decir: Si el Señor quisiere, y si viviéremos, haremos esto o aquello.",
+    "referencia": "Santiago 4:15"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Wilmer vive en Tegucigalpa con su esposa y dos hijos. Un conocido le dice que en el norte hay trabajo seguro, y que él lo puede llevar por un buen precio. Wilmer tiene miedo de quedarse y miedo de irse. No sabe qué es fe y qué es locura."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Podemos hacer planes, pero con humildad, porque la vida está en manos de Dios. Por eso la Biblia enseña a decir: si el Señor quiere (Santiago 4:13-15)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es decidir con prisa y con miedo. Alguien promete trabajo fácil, papeles rápidos o un viaje seguro, y se le entregan los ahorros de toda la familia. Así muchos han perdido su dinero, su libertad y hasta la vida.",
+        "El otro error es espiritualizar la decisión sin pensar. Se dice que, si Dios quiere, todo saldrá bien, y no se averigua nada. La Biblia llama sabio al que mira bien sus pasos, no al que cree todo lo que le dicen (Proverbios 14:15)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia está llena de migrantes. Rut dejó Moab y trabajó recogiendo espigas en una tierra extraña (Rut 2:2). José, María y el niño Jesús huyeron a Egipto para salvar la vida (Mateo 2:13-15). Emigrar no es falta de fe.",
+        "Pero tampoco es una obligación ni una garantía. Hay que pesar lo que se gana y lo que se pierde. Piensa en la familia que se queda, en los hijos, en los padres mayores y en tu salud. El prudente ve el peligro y se protege (Proverbios 27:12).",
+        "Si decides ir, Dios va contigo también allá. A su pueblo desterrado le pidió construir casas, trabajar y buscar la paz de su nueva ciudad (Jeremías 29:5-7). Y si decides quedarte, Él sigue siendo tu ayuda aquí."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora con tu familia sobre esta decisión. Escucha a tu pareja y a tus hijos, no solo tus propias razones.",
+        "Escribe lo que ganarías y lo que perderías: dinero, familia, salud, fe y seguridad.",
+        "Averigua requisitos, costos y riesgos en fuentes oficiales: consulados, oficinas de migración y organizaciones serias.",
+        "Nunca entregues dinero ni documentos a quien promete algo fácil o urgente (Proverbios 14:15).",
+        "Habla con tu pastor o sacerdote, y con alguien que ya haya vivido esto."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy decidiendo con un plan claro o porque estoy desesperado?",
+        "¿Qué pasará con las personas que dependen de mí si me voy?",
+        "¿Averigüé la verdad, o solo escuché lo que quería oír?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Busca hoy la página oficial del consulado o de la oficina de migración del país que tienes en mente. Anota tres requisitos reales y lo que cuestan. Compáralos con lo que te han prometido."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Rut dejó su tierra y empezó de cero en un pueblo que no era el suyo. Trabajó duro, fue fiel y Dios la cuidó. Lee «Rut» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si alguien te presiona para pagar un viaje rápido, te pide tus documentos o te promete trabajo sin papeles claros, detente. Puede ser un engaño o una red de trata de personas. Pide ayuda a tu iglesia, a tu consulado o a una organización de apoyo al migrante. Cuidar tu vida no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 4:13-17", "nota": "Planear con humildad." },
+        { "ref": "Rut 2:1-12", "nota": "Una extranjera que trabaja y es cuidada." },
+        { "ref": "Mateo 2:13-15", "nota": "La familia de Jesús huye a Egipto." },
+        { "ref": "Jeremías 29:4-7", "nota": "Buscar el bien del lugar donde vives." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo miedo de quedarme y miedo de irme. Tú conoces mi necesidad y la de mi familia. Dame sabiduría para no creer cualquier promesa. Si me quedo, sé mi fuerza aquí. Si me voy, ve conmigo. Amén."
+    }
+  ],
+  "estudio": ["rut"],
+  "buscar": "extranjero"
+}

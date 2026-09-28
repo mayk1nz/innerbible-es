@@ -1,0 +1,93 @@
+{
+  "id": "siento-envidia",
+  "titulo": "Cuando siento envidia",
+  "etiquetas": ["Emociones", "Envidia", "Gratitud"],
+  "enUnMinuto": [
+    "La envidia enferma por dentro y termina dañando a otros; el corazón en paz da vida.",
+    "El camino es nombrarla ante Dios, llevarle tu propio deseo y aprender a alegrarte con el bien ajeno.",
+    "Primer paso: admite delante de Dios a quién envidias y por qué."
+  ],
+  "versiculo": {
+    "texto": "El corazón apacible es vida de las carnes: mas la envidia, pudrimiento de huesos.",
+    "referencia": "Proverbios 14:30"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "En el grupo de alabanza eligieron a Natalia para cantar sola en Navidad. Alejandra lleva años en el grupo. La felicitó con una sonrisa, pero desde entonces le cuesta mirarla. Cuando alguien elogia a Natalia, Alejandra encuentra un defecto que comentar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La envidia pudre por dentro; el corazón en paz da vida (Proverbios 14:30). El amor no tiene envidia, y se alegra con los que se alegran (1 Corintios 13:4; Romanos 12:15)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Negarla: “Yo no soy envidioso”. O disfrazarla de justicia: “Solo digo la verdad”, mientras buscamos defectos en la otra persona.",
+        "Otros intentan ganarle al otro a toda costa. Pero la envidia no se calma cuando uno gana. Solo cambia de persona, y el corazón sigue sin paz."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Las mujeres cantaban que Saúl había herido a sus miles y David a sus diez miles. Saúl se enojó mucho, y desde aquel día miró a David con malos ojos (1 Samuel 18:7-9). La envidia creció hasta volverse persecución.",
+        "Jonatán, el hijo del rey, tenía más razones para envidiar a David. Pero lo amó como a sí mismo. Le dijo: «tú reinarás sobre Israel, y yo seré segundo después de ti» (1 Samuel 23:17). La misma situación, dos corazones distintos.",
+        "El autor del Salmo 73 casi resbala por envidia (Salmos 73:2-3). Recién en el santuario de Dios vio las cosas con claridad (Salmos 73:16-17). Santiago enseña que la envidia trae desorden y toda obra perversa (Santiago 3:16)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Llama a la envidia por su nombre delante de Dios, sin disfrazarla (Santiago 3:14).",
+        "Pregúntate qué deseas tú de verdad, y pídeselo a Dios con sencillez (Santiago 4:2).",
+        "Da gracias por lo que Dios te ha dado a ti, con nombres concretos (1 Tesalonicenses 5:18).",
+        "Alégrate con quien se alegra, aunque al principio te cueste (Romanos 12:15).",
+        "Cuida tu boca. No busques defectos ni hagas comentarios para rebajar a nadie (Gálatas 5:26)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿A quién me cuesta felicitar de corazón?",
+        "¿Busco defectos en las personas que otros admiran?",
+        "¿Qué deseo escondido mío revela esta envidia?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy habla bien de esa persona delante de otros. Menciona algo bueno y verdadero que hace, sin agregar ningún “pero”. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "En la ficha «David, perseguido» verás lo que la envidia hizo en el rey Saúl, y el corazón tan distinto de Jonatán. Está en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Samuel 18:6-9", "nota": "La envidia entra en el corazón de Saúl." },
+        { "ref": "1 Samuel 23:15-18", "nota": "Jonatán se alegra por David." },
+        { "ref": "Salmos 73:1-17", "nota": "Casi resbalo por envidia." },
+        { "ref": "Santiago 3:13-18", "nota": "La sabiduría que viene de lo alto." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, confieso que siento envidia, y no quiero esconderlo. Limpia mi corazón. Enséñame a darte gracias por lo que me diste y a alegrarme por el bien de los demás. Dame un corazón en paz. Amén."
+    }
+  ],
+  "estudio": ["proverbios", "1-samuel"],
+  "buscar": "envidia"
+}

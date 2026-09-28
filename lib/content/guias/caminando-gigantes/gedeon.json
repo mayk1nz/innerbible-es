@@ -1,0 +1,113 @@
+{
+  "id": "gedeon",
+  "titulo": "Gedeón",
+  "subtitulo": "Cuando te sientes demasiado pequeño",
+  "etiquetas": ["Inseguridad", "Sentirse poca cosa", "Conquista y jueces"],
+  "enUnMinuto": [
+    "Gedeón trabajaba escondido por miedo, y se veía como el menor de una familia pobre.",
+    "Dios lo llamó «varón esforzado», tuvo paciencia con sus dudas y lo acompañó paso a paso.",
+    "Con solo trescientos hombres, Dios mostró que su fuerza se ve mejor en los pequeños."
+  ],
+  "versiculo": {
+    "texto": "Y mirándole Jehová, díjole: Ve con esta tu fortaleza, y salvarás a Israel de la mano de los Madianitas. ¿No te envío yo?",
+    "referencia": "Jueces 6:14"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás te sientes poca cosa. No tienes estudios, dinero ni apellido importante. En tu familia siempre fuiste “el menor”, el que no cuenta. Te piden algo difícil y piensas: “¿Yo? Imposible”. Y a veces hasta le preguntas a Dios dónde está, si dice que está contigo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Durante siete años, los madianitas invadían Israel en cada cosecha. Llegaban como langostas y se llevaban todo. El pueblo vivía en cuevas y quedó muy pobre. Entonces clamaron al Señor (Jueces 6:1-6).",
+        "Gedeón sacudía el trigo escondido en un lagar, para que no se lo robaran. Allí se le apareció el ángel del Señor y le dijo: «Jehová es contigo, varón esforzado» (Jueces 6:11-12). Gedeón no se sentía nada esforzado.",
+        "Dios lo envió a salvar a Israel. Esa misma noche le pidió derribar el altar de Baal que tenía su padre. Gedeón obedeció, pero de noche, porque tenía miedo (Jueces 6:25-27). Después pidió señales con un vellón de lana, dos veces, y Dios se las dio (Jueces 6:36-40).",
+        "Se juntaron treinta y dos mil hombres. Dios le dijo que eran demasiados, y quedaron solo trescientos (Jueces 7:2-7). Con trompetas, cántaros y antorchas rodearon el campamento enemigo de noche. El Señor les dio la victoria (Jueces 7:16-22)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Gedeón tenía preguntas honestas. Le dijo al ángel: «si Jehová es con nosotros, ¿por qué nos ha sobrevenido todo esto?» (Jueces 6:13). Y también: «mi familia es pobre en Manasés, y yo el menor en la casa de mi padre» (Jueces 6:15). Se miraba a sí mismo y no veía nada. Dios lo miraba y veía lo que Él podía hacer con él."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Gedeón no dejó de tener miedo de un día para otro. Pero decidió obedecer con miedo. Hizo lo que Dios le pedía, aunque fuera de noche y temblando. Y Dios no lo regañó por sus dudas. Le dio señales, y hasta le permitió escuchar el sueño de un enemigo para animarse (Jueces 7:9-15).",
+        "Cuando todo terminó, el pueblo quiso hacerlo rey. Gedeón respondió: «Jehová será vuestro Señor» (Jueces 8:23). Tampoco fue perfecto: más tarde hizo un efod de oro que se volvió tropiezo para Israel (Jueces 8:27). Su historia es de gracia, no de un héroe sin fallas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Escucha cómo te llama Dios. Tú te ves pequeño; Dios te habla de lo que Él hará contigo (Jueces 6:12-16).",
+        "Lleva tus preguntas a Dios. Gedeón preguntó “¿por qué?” y Dios no se ofendió (Jueces 6:13). Puedes orar con sinceridad.",
+        "Da el primer paso aunque tiembles. Gedeón obedeció de noche, con miedo, pero obedeció (Jueces 6:27). Haz hoy lo pequeño que sí puedes hacer.",
+        "No midas la tarea por tus fuerzas. Dios redujo el ejército para que nadie dijera «Mi mano me ha salvado» (Jueces 7:2)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús eligió pescadores, un cobrador de impuestos y gente sencilla para cambiar el mundo. A sus discípulos les dijo: «No temáis, manada pequeña» (Lucas 12:32). Y a Pablo, cuando se sentía débil, le dijo: «mi potencia en la flaqueza se perfecciona» (2 Corintios 12:9). Con Jesús, ser pequeño no es un obstáculo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "No tienes que sentirte fuerte para dar un paso de fe. Esta semana: piensa en una tarea que te da miedo porque te sientes poca cosa. Escríbela, ora por ella y da un solo paso pequeño, aunque sea con miedo. Cada mañana repite: “¿No te envío yo?” (Jueces 6:14). Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Jueces 6:1-16", "nota": "Israel oprimido y el llamado de Gedeón." },
+        { "ref": "Jueces 6:25-40", "nota": "El altar de Baal y el vellón de lana." },
+        { "ref": "Jueces 7:1-22", "nota": "Los trescientos y la victoria." },
+        { "ref": "Jueces 8:22-27", "nota": "Rechaza ser rey, pero tropieza con el efod." },
+        { "ref": "Hebreos 11:32-34", "nota": "Gedeón entre los héroes de la fe." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, muchas veces me siento pequeño y sin fuerzas. Tú me conoces y aun así me llamas. Dame valor para dar el primer paso, aunque tenga miedo. Que se vea tu fuerza en mi debilidad. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿En qué momentos te has sentido “el menor”, el que no cuenta?",
+        "Gedeón le preguntó a Dios “¿por qué?”. ¿Te parece bien orar así? ¿Por qué?",
+        "¿Qué paso pequeño podrías dar esta semana, aunque sea con miedo?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué estaba haciendo Gedeón cuando se le apareció el ángel?",
+      "opciones": ["Cuidando ovejas en el monte", "Sacudiendo trigo escondido en un lagar", "Pescando en el mar"],
+      "correcta": 1,
+      "explicacion": "Sacudía el trigo en el lagar para esconderlo de los madianitas (Jueces 6:11)."
+    },
+    {
+      "pregunta": "¿Con cuántos hombres le dio Dios la victoria a Gedeón?",
+      "opciones": ["Con trescientos", "Con diez mil", "Con treinta y dos mil"],
+      "correcta": 0,
+      "explicacion": "Dios dijo: «Con estos trescientos hombres… os salvaré» (Jueces 7:7)."
+    },
+    {
+      "pregunta": "¿Qué respondió Gedeón cuando el pueblo quiso hacerlo rey?",
+      "opciones": ["Que su hijo sería rey", "Que lo pensaría", "Que el Señor sería su Señor"],
+      "correcta": 2,
+      "explicacion": "Gedeón dijo: «Jehová será vuestro Señor» (Jueces 8:23)."
+    }
+  ],
+  "estudio": ["jueces"],
+  "buscar": "Gedeón"
+}

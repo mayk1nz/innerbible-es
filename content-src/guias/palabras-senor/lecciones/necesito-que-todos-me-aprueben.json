@@ -1,0 +1,90 @@
+{
+  "id": "necesito-que-todos-me-aprueben",
+  "titulo": "Cuando necesito que todos me aprueben",
+  "etiquetas": ["Identidad y autoestima", "Aprobación", "Decir no"],
+  "enUnMinuto": [
+    "No puedes agradar a todos, y Dios no te lo pide: te pide vivir para Él.",
+    "El primer paso es notar cuándo dices sí por miedo, y aprender a decir un no amable."
+  ],
+  "versiculo": {
+    "texto": "Porque, ¿persuado yo ahora a hombres o a Dios? ¿o busco de agradar a hombres? Cierto, que si todavía agradara a los hombres, no sería siervo de Cristo.",
+    "referencia": "Gálatas 1:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Verónica nunca dice que no. Organiza la kermés de la parroquia, cocina para todos los cumpleaños y cuida a los hijos de su vecina. Está agotada, pero si alguien no la saluda, pasa la noche pensando qué hizo mal. Su paz depende de lo que opinen los demás."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Quien vive para agradar a todos termina atrapado. Quien confía en el Señor queda libre (Proverbios 29:25; Gálatas 1:10)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Creemos que ser buen cristiano es decir sí a todo y no molestar nunca a nadie. Entonces servimos por miedo, no por amor. Por fuera parecemos generosos; por dentro vivimos tensos, resentidos y cansados. Y aun así nunca alcanza: siempre habrá alguien que no esté contento."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia lo dice claro: «El temor del hombre pondrá lazo» (Proverbios 29:25). En tiempos de Jesús, algunos creían en Él pero no lo decían. La razón: «amaban más la gloria de los hombres que la gloria de Dios» (Juan 12:43).",
+        "Antes de que Jesús hiciera un solo milagro, el Padre dijo de Él: este es mi Hijo amado (Mateo 3:17). La aprobación llegó primero, no como premio. En Cristo, tú también eres amado antes de hacer nada. Desde ahí puedes servir con alegría, como para el Señor y no para los hombres (Colosenses 3:23). Y puedes hablar con sencillez: sí cuando es sí, no cuando es no (Mateo 5:37)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Antes de aceptar algo, di: “Déjame pensarlo y te respondo”.",
+        "Pregúntate: ¿lo hago por amor o por miedo a que se enojen?",
+        "Practica un no amable y corto, sin inventar excusas (Mateo 5:37).",
+        "Cuando alguien no esté contento contigo, no corras a arreglarlo. Ora y espera.",
+        "Cada mañana recuerda: soy amado por Dios antes de hacer nada (Mateo 3:17)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿De quién es la opinión que más me pesa, y por qué?",
+        "¿Qué cosas hago solo para que me quieran?",
+        "¿Estoy descuidando a mi familia o mi salud por quedar bien con otros?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Piensa en algo que te pidieron y que no puedes hacer. Hoy responde con un no amable y claro, sin mentir: “Esta vez no puedo, gracias por pensar en mí”."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Sadrac, Mesac y Abed-nego se quedaron de pie cuando todo el reino se arrodilló ante la estatua. Les importó más agradar a Dios que al rey. Conócelos en la ficha «Sadrac, Mesac y Abed-nego» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Gálatas 1:6-12", "nota": "Pablo elige agradar a Dios." },
+        { "ref": "Mateo 3:13-17", "nota": "Amado antes de hacer nada." },
+        { "ref": "Daniel 3:13-18", "nota": "Tres jóvenes que no se doblaron." },
+        { "ref": "Colosenses 3:23-24", "nota": "Trabajar para el Señor, no para los hombres." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, he vivido pendiente de lo que otros piensan de mí. Gracias porque tú ya me amas. Líbrame del miedo a quedar mal. Enséñame a servir por amor y a decir no cuando haga falta. Amén."
+    }
+  ],
+  "estudio": ["galatas", "daniel"],
+  "buscar": "agradar a Dios"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "mi-fe-esta-debil",
+  "titulo": "Cuando mi fe está débil",
+  "etiquetas": ["Fe y vida espiritual", "Fe", "Comunidad"],
+  "enUnMinuto": [
+    "Jesús no rechaza una fe pequeña: un padre le pidió ayuda para creer, y Jesús lo ayudó.",
+    "La fe crece al oír la Palabra y al caminar con otros creyentes.",
+    "Primer paso: dile hoy a Jesús la verdad sobre tu fe, sin fingir."
+  ],
+  "versiculo": {
+    "texto": "Y luego el padre del muchacho dijo clamando: Creo, ayuda mi incredulidad.",
+    "referencia": "Marcos 9:24"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Andrés servía en el grupo de jóvenes de su parroquia en Quito. Ahora trabaja de noche, casi no va a la iglesia y siente que su fe se apagó. Cuando ora, no siente nada. Le da vergüenza decirlo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La fe no tiene que ser grande para llevarla a Jesús. Basta con decirle la verdad: creo, pero ayúdame a creer (Marcos 9:24)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos esconden su fe débil por vergüenza. Fingen ante los demás y se van alejando poco a poco. Otros creen que deben fabricar fe a pura fuerza de voluntad, y terminan agotados.",
+        "También hay quien escucha frases duras, como que si tuviera fe no le pasaría lo que le pasa. Esa idea hiere y no es bíblica. Jesús habló de una fe del tamaño de un grano de mostaza (Lucas 17:5-6). Lo que importa no es el tamaño de tu fe, sino en quién está puesta."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "El padre del muchacho enfermo no tenía una fe perfecta. Tenía una fe honesta. Se la llevó a Jesús tal como estaba, y Jesús sanó a su hijo (Marcos 9:21-27). El Señor no apaga la mecha que apenas humea (Isaías 42:3).",
+        "La fe se alimenta. Viene por oír la Palabra de Dios (Romanos 10:17). No necesitas leer capítulos enteros. Un evangelio, poco a poco, basta para empezar.",
+        "Y la fe se sostiene en compañía. Jesús le dijo a Pedro que había orado para que su fe no faltara (Lucas 22:32). Jesús también intercede por ti. Y otros creyentes pueden sostenerte cuando tú no puedes."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora con las palabras del padre del muchacho: «Creo, ayuda mi incredulidad» (Marcos 9:24).",
+        "Lee un pasaje corto de un evangelio cada día, empezando por Marcos (Romanos 10:17).",
+        "Vuelve a tu comunidad de fe, aunque sea para sentarte atrás y escuchar.",
+        "Cuéntale a una persona madura cómo está tu fe. No tienes que cargar esto a solas.",
+        "Anota cada semana una cosa en la que viste la mano de Dios, por pequeña que sea."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué cosas alimentan mi fe y cuáles la debilitan?",
+        "¿Estoy escondiendo mi fe débil por vergüenza?",
+        "¿A quién puedo pedirle que ore por mí esta semana?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Envía hoy un mensaje a una persona de fe en quien confíes: “Mi fe está débil. ¿Puedes orar por mí esta semana?”. No tienes que explicar más. Dejarte sostener también es un paso de fe."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Gedeón le pidió a Dios una señal, y después otra, porque le costaba creer. Dios no lo despreció: tuvo paciencia con él (Jueces 6:36-40). Lee «Gedeón» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Marcos 9:14-27", "nota": "El padre que pidió ayuda para creer." },
+        { "ref": "Lucas 22:31-32", "nota": "Jesús ora por la fe de Pedro." },
+        { "ref": "Isaías 42:1-4", "nota": "El Siervo que no apaga la mecha." },
+        { "ref": "Jueces 6:36-40", "nota": "La paciencia de Dios con Gedeón." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, mi fe está débil y no quiero fingir. Creo, pero ayúdame a creer. No apagues esta pequeña llama. Aliméntala con tu Palabra y rodéame de personas que me sostengan. Amén."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "fe"
+}

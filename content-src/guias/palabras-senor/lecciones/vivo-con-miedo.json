@@ -1,0 +1,97 @@
+{
+  "id": "vivo-con-miedo",
+  "titulo": "Cuando vivo con miedo",
+  "etiquetas": ["Emociones", "Miedo", "Valentía"],
+  "enUnMinuto": [
+    "Dios no te dice “no pasa nada”: te dice “yo estoy contigo, yo te sostengo”.",
+    "Ser valiente no es no sentir miedo, sino confiar en Dios mientras das un paso.",
+    "Primer paso: nombra con precisión a qué le temes y díselo a Dios."
+  ],
+  "versiculo": {
+    "texto": "No temas, que yo soy contigo; no desmayes, que yo soy tu Dios que te esfuerzo: siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+    "referencia": "Isaías 41:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hace tres meses asaltaron a don Leonel en la parada del autobús. Desde entonces casi no sale de casa. Cuando oye una moto, se le acelera el corazón. Ya no va a la iglesia ni visita a su hermana."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La respuesta de Dios al miedo es su presencia: «No temas, que yo soy contigo» (Isaías 41:10). Puedes decir como David: «En el día que temo, yo en ti confío» (Salmos 56:3)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Dejar que el miedo decida todo. Poco a poco la vida se achica: menos salidas, menos personas, menos sueños.",
+        "Otros se avergüenzan: “Un cristiano no debería tener miedo”. Y algunos fingen valentía y se ponen en riesgo sin necesidad. Ninguno de estos caminos trae paz."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Gedeón estaba escondido, sacudiendo el trigo en un lagar por miedo a los madianitas. Allí el ángel lo llamó «varón esforzado» (Jueces 6:11-12). Dios no le quitó el miedo de golpe. Le prometió: «yo seré contigo» (Jueces 6:16). Y tuvo paciencia cuando Gedeón pidió señales (Jueces 6:36-40).",
+        "David no negó su temor. Lo nombró y lo puso en manos de Dios (Salmos 56:3). Dios no nos dio un espíritu de temor, sino de fortaleza, de amor y de dominio propio (2 Timoteo 1:7).",
+        "Confiar no es ser imprudente. La Biblia dice que el prudente ve el peligro y se protege (Proverbios 22:3). Puedes tomar precauciones sensatas y, al mismo tiempo, no dejar que el miedo gobierne tu vida."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Nombra tu miedo con precisión. ¿A qué le temes exactamente?",
+        "Díselo a Dios con sencillez, como David, y dile que decides confiar en Él (Salmos 56:3).",
+        "Separa el peligro real del imaginado. Ante el real, toma precauciones sensatas (Proverbios 22:3).",
+        "Da un paso pequeño hacia lo que temes, acompañado si hace falta (Josué 1:9).",
+        "Anota cada paso que diste y da gracias. El valor crece con la práctica (2 Timoteo 1:7)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué he dejado de hacer por miedo en los últimos meses?",
+        "Mi miedo, ¿me protege de un peligro real o me encierra?",
+        "¿Qué haría hoy si creyera de verdad que Dios está conmigo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige una cosa pequeña que dejaste de hacer por miedo, como ir a la tienda o visitar a alguien. Hazla hoy, con alguien a tu lado si hace falta. Mientras vas, ora en voz baja: «En el día que temo, yo en ti confío»."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Gedeón se escondía por miedo, y Dios lo llamó valiente antes de que lo fuera. Lee su ficha, «Gedeón», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tu miedo viene de un peligro real, como violencia en casa o amenazas, tu seguridad va primero. Busca ayuda y llama a un número de emergencia. Si tienes ataques de pánico o no logras salir de casa, habla con un médico. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Isaías 41:8-13", "nota": "No temas, yo te sostengo." },
+        { "ref": "Jueces 6:11-16", "nota": "Gedeón, escondido y llamado." },
+        { "ref": "Salmos 56:3-4", "nota": "En el día que temo, confío." },
+        { "ref": "Salmos 23:1-6", "nota": "Aunque ande en valle de sombra de muerte." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo miedo y no lo escondo de ti. Gracias porque estás conmigo y me sostienes. Dame valor para dar hoy un paso pequeño. Y guarda mi corazón y mi camino. Amén."
+    }
+  ],
+  "estudio": ["isaias"],
+  "buscar": "miedo"
+}

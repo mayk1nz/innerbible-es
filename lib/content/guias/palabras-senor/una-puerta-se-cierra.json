@@ -1,0 +1,93 @@
+{
+  "id": "una-puerta-se-cierra",
+  "titulo": "Cuando una puerta se cierra",
+  "etiquetas": ["Decisiones y dirección", "Frustración", "Esperanza"],
+  "enUnMinuto": [
+    "Una puerta cerrada no significa que Dios te abandonó ni que te está castigando.",
+    "Pablo quiso ir a dos lugares y no pudo, y así llegó a donde Dios lo necesitaba.",
+    "Primer paso: llora la pérdida con honestidad y busca qué puerta sigue abierta hoy."
+  ],
+  "versiculo": {
+    "texto": "Y pasando a Phrygia y la provincia de Galacia, les fue prohibido por el Espíritu Santo hablar la palabra en Asia. Y como vinieron a Misia, tentaron de ir a Bithynia; mas el Espíritu no les dejó.",
+    "referencia": "Hechos 16:6-7"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Marisol se preparó un año entero para entrar a la universidad pública en Lima. Hoy salió la lista y su nombre no está. Su mamá le dice que no llore. Ella siente que todo su esfuerzo se perdió."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios también guía cuando un camino se cierra. El Espíritu no dejó a Pablo entrar en Asia ni en Bitinia, y lo llevó a Macedonia (Hechos 16:6-10)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Ante una puerta cerrada solemos hacer una de dos cosas. Empujarla a toda costa, aunque haya que forzar lo que no es honesto. O quedarnos sentados frente a ella, repitiendo que la vida es injusta.",
+        "También es común culparse y pensar que Dios cerró la puerta por algo malo que hicimos. La Biblia no enseña que cada puerta cerrada sea un castigo. A Pablo se le cerraron puertas mientras obedecía."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo tenía un plan bueno: predicar en Asia. El Espíritu no lo permitió. Intentó ir a Bitinia, y tampoco. Llegó a Troas sin saber qué seguía. Esa noche Dios le mostró Macedonia, y el evangelio llegó a Europa (Hechos 16:9-10).",
+        "Pablo no se quedó frente a la puerta cerrada. Siguió caminando hasta encontrar la abierta. José también esperó dos años más en la cárcel, porque el copero se olvidó de él (Génesis 40:23). Pero Dios no lo había olvidado.",
+        "Está bien llorar lo que no fue. Después hay que levantar la mirada. El Señor dice que Él hace algo nuevo, y abre caminos aun en el desierto (Isaías 43:19)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Nombra la pérdida. Dile a Dios qué esperabas y cuánto te dolió que no pasara.",
+        "Revisa con honestidad si hay algo que aprender, sin castigarte.",
+        "No fuerces la puerta con mentiras, sobornos o atajos. Lo que se consigue así no trae paz.",
+        "Haz una lista de las puertas abiertas: personas, oportunidades y dones que sí tienes hoy.",
+        "Toca una de esas puertas esta semana: una llamada, una solicitud, una visita (Hechos 16:10)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy viendo esta puerta cerrada como un castigo de Dios?",
+        "¿Qué puertas abiertas estoy ignorando por mirar solo la que se cerró?",
+        "¿Estoy dispuesto a que Dios me lleve a un lugar distinto al que planeé?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe tres puertas que siguen abiertas en tu vida, por pequeñas que sean. Elige una y da un paso concreto antes de dormir: enviar un mensaje, llenar una solicitud o pedir una cita."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José fue vendido, acusado injustamente y olvidado en la cárcel. Las puertas se le cerraban una tras otra, pero Dios seguía obrando. Lee «José» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Hechos 16:6-10", "nota": "Dos puertas cerradas y un llamado nuevo." },
+        { "ref": "Génesis 40:20-23", "nota": "José, olvidado en la cárcel." },
+        { "ref": "Génesis 41:14-16", "nota": "El día en que la puerta se abre." },
+        { "ref": "Isaías 43:18-19", "nota": "Dios hace algo nuevo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, esta puerta se cerró y me duele. No entiendo por qué. Pero creo que tú sigues guiando mi vida. Guárdame de forzar lo que no es tuyo. Muéstrame la puerta abierta y dame valor para tocarla. Amén."
+    }
+  ],
+  "estudio": ["hechos-15-18"],
+  "buscar": "Hechos 16:6-10"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "justifico-lo-que-se-que-esta-mal",
+  "titulo": "Cuando justifico lo que sé que está mal",
+  "etiquetas": ["Tentación y hábitos", "Excusas", "Integridad"],
+  "enUnMinuto": [
+    "Todos tenemos buenas razones para lo que hacemos, pero Dios no pesa excusas: pesa el corazón.",
+    "La verdad empieza cuando dejamos de defendernos y dejamos que Dios nos examine.",
+    "Primer paso: escribe la frase exacta que usas para justificarte y míralo con honestidad."
+  ],
+  "versiculo": {
+    "texto": "Todo camino del hombre es recto en su opinión: mas Jehová pesa los corazones.",
+    "referencia": "Proverbios 21:2"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Mauricio maneja un camión de reparto. En sus reportes anota más kilómetros de los que recorre y cobra la gasolina de más. “Todos lo hacen”, se dice, “y con lo poco que me pagan, Dios entiende”. Los domingos canta en la iglesia y no siente nada raro."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "A nuestros ojos, casi todo lo que hacemos parece correcto. Pero Dios pesa los corazones (Proverbios 21:2). Y si sé hacer lo bueno y no lo hago, eso ya es pecado (Santiago 4:17)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es buscar una buena razón: “todos lo hacen”, “es poquito”, “me lo merezco”, “nadie sale herido”. Otras veces nos comparamos: “hay gente mucho peor que yo”.",
+        "No funciona porque la excusa no cambia lo que las cosas son. Solo adormece la conciencia. Y cuanto más la repetimos, más normal nos parece. Además, “Dios entiende” es verdad, pero entender no es aprobar."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Cuando David pecó, el profeta Natán le contó la historia de un rico que robó la única oveja de un pobre. David se indignó contra ese hombre. Entonces Natán le dijo: «Tú eres aquel hombre» (2 Samuel 12:7). A veces vemos muy claro el pecado ajeno y muy borroso el nuestro.",
+        "Por eso la Biblia nos invita a pedirle a Dios que nos examine y nos guíe (Salmo 139:23-24). También necesitamos a alguien que nos diga la verdad con amor. Las heridas del que ama son fieles (Proverbios 27:6).",
+        "Para Mauricio, el texto es directo: el peso falso desagrada a Dios, y la pesa justa le agrada (Proverbios 11:1). Un kilómetro inventado es un peso falso. La salida no es sentirse mal durante años, sino corregir hoy sus cuentas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe la frase exacta que usas para justificarte: “todos lo hacen”, “es poquito”, “me lo merezco”.",
+        "Pregúntate qué dirías si otra persona te hiciera lo mismo a ti.",
+        "Pídele a Dios que te examine, con las palabras del Salmo 139:23-24.",
+        "Deja que alguien de confianza te diga la verdad, aunque duela (Proverbios 27:6).",
+        "Corrige lo concreto: ajusta, devuelve, deja de hacerlo o pide perdón (Proverbios 11:1)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué excusa repito tanto que ya me la creo?",
+        "¿Lo haría igual si mi familia o mi pastor me estuvieran mirando?",
+        "¿Me molesta en otros lo mismo que me permito a mí?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Pregúntale hoy a una persona de confianza: “¿Hay algo en mí que yo justifico y que tú ves claro?”. Escucha su respuesta sin defenderte ni explicar. Solo di: “Gracias, lo voy a llevar a Dios”. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jonás discutía con Dios para tener la razón, aun cuando estaba equivocado (Jonás 4:9). Dios le respondió con paciencia y con una pregunta. Lee su ficha «Jonás» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "2 Samuel 12:1-13", "nota": "Natán y la oveja del pobre." },
+        { "ref": "Salmo 139:23-24", "nota": "Pedirle a Dios que nos examine." },
+        { "ref": "Proverbios 11:1", "nota": "La pesa justa agrada a Dios." },
+        { "ref": "Santiago 4:17", "nota": "Saber lo bueno y no hacerlo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo muchas excusas y poca verdad. Examina mi corazón y muéstrame lo que no quiero ver. Dame humildad para corregir y valor para cambiar. Prefiero tu verdad a mis razones. Amén."
+    }
+  ],
+  "estudio": ["proverbios", "2-samuel"],
+  "buscar": "integridad"
+}

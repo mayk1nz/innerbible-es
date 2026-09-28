@@ -1,0 +1,97 @@
+{
+  "id": "la-tristeza-no-se-va",
+  "titulo": "Cuando la tristeza no se va",
+  "etiquetas": ["Emociones", "Tristeza", "Esperanza"],
+  "enUnMinuto": [
+    "La tristeza no es falta de fe: la Biblia está llena de personas que lloraron delante de Dios.",
+    "El salmista le habla a su propia alma y la invita a esperar en Dios, una y otra vez.",
+    "Primer paso: ponle palabras a tu tristeza delante de Dios y cuéntasela también a alguien cercano."
+  ],
+  "versiculo": {
+    "texto": "¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera a Dios; porque aun le tengo de alabar; es él salvamento delante de mí, y el Dios mío.",
+    "referencia": "Salmos 42:11"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Los hijos de Estela se casaron y se fueron de la casa. Ya pasaron meses, y las tardes siguen pesadas. En la iglesia sonríe, pero llora mientras cocina. Se pregunta si está mal sentirse así."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios no te pide fingir alegría. Te enseña a llevarle tu tristeza y a hablarle a tu alma con esperanza: «Espera a Dios» (Salmos 42:11). Los que lloran recibirán consolación (Mateo 5:4)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Pensar que un buen cristiano siempre está alegre, y esconder la tristeza detrás de una sonrisa. Lo que no se dice, pesa más.",
+        "Otros se encierran y esperan que se pase solo. O dejan que la tristeza cuente toda su historia, como si no hubiera nada más. Así, poco a poco, se apaga la esperanza."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "El autor del Salmo 42 dice que sus lágrimas eran su pan de día y de noche (Salmos 42:3). No lo esconde. Pero le habla a su propia alma: ¿por qué te abates? Espera a Dios. Lo repite tres veces (Salmos 42:5, 11; 43:5). La tristeza vuelve, y la esperanza también se repite.",
+        "Jesús lloró ante la tumba de su amigo (Juan 11:35). En Getsemaní dijo que su alma estaba muy triste, y pidió a sus amigos que se quedaran con Él (Mateo 26:38). La tristeza no lo alejó de nadie.",
+        "Jeremías, entre ruinas, eligió traer a su memoria algo más: las misericordias de Dios son nuevas cada mañana (Lamentaciones 3:21-23). Hay tiempo de llorar, y también llegará tiempo de reír (Eclesiastés 3:4)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ponle palabras a tu tristeza delante de Dios. Puedes orar con el Salmo 42.",
+        "Háblale a tu alma, como el salmista: “Espera en Dios; todavía le voy a alabar” (Salmos 42:11).",
+        "No te aísles. Cuéntale a alguien cercano cómo estás de verdad (Mateo 26:38).",
+        "Cuida lo básico: la luz del sol, caminar, comer bien y dormir a horas.",
+        "Cada mañana, busca una misericordia pequeña de Dios y anótala (Lamentaciones 3:22-23)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Desde cuándo me siento así? ¿Hay algo que perdí y todavía no he llorado?",
+        "¿A quién le he contado cómo estoy de verdad?",
+        "¿Qué misericordia pequeña de Dios puedo ver hoy?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Sal a caminar quince minutos a la luz del día. Mientras caminas, cuéntale a Dios cómo te sientes, sin adornos. Al volver, anota una cosa buena que viste en el camino. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jeremías lloró sobre una ciudad en ruinas, y aun así encontró misericordias nuevas cada mañana. Lee su ficha, «Jeremías, entre ruinas», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la tristeza dura más de dos semanas, te quita las ganas de todo o te cuesta levantarte, habla con un médico. Puede ser depresión, y tiene tratamiento. Buscar ayuda no es falta de fe. Si piensas en morir o en hacerte daño, llama hoy a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 42:1-11", "nota": "Mis lágrimas fueron mi pan." },
+        { "ref": "Salmos 43:1-5", "nota": "Envía tu luz y tu verdad." },
+        { "ref": "Lamentaciones 3:19-26", "nota": "Misericordias nuevas cada mañana." },
+        { "ref": "Juan 11:32-36", "nota": "Jesús llora con los que lloran." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, hoy mi alma está abatida, y no sé bien por qué. Te traigo esta tristeza tal como es. Enséñame a esperar en ti. Muéstrame tu misericordia cada mañana, y pon a mi lado a alguien que me acompañe. Amén."
+    }
+  ],
+  "estudio": ["salmos", "lamentaciones"],
+  "buscar": "tristeza"
+}

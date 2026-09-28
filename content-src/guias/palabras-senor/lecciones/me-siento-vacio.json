@@ -1,0 +1,94 @@
+{
+  "id": "me-siento-vacio",
+  "titulo": "Cuando me siento vacío",
+  "etiquetas": ["Identidad y autoestima", "Vacío", "Sed de Dios"],
+  "enUnMinuto": [
+    "Hay una sed que ninguna cosa llena, porque fuimos hechos para Dios.",
+    "El primer paso es dejar de llenar el vacío con más cosas y llevarle a Jesús tu sed, con honestidad."
+  ],
+  "versiculo": {
+    "texto": "Mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él una fuente de agua que salte para vida eterna.",
+    "referencia": "Juan 4:14"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Diego tiene 50 años, casa propia, un buen trabajo y una familia que lo quiere. Logró casi todo lo que soñaba de joven. Pero los domingos por la noche siente un hueco en el pecho. Cambia de canal, revisa el teléfono, abre el refrigerador. Nada lo llena."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Todo lo de este mundo deja otra vez sed. Solo el agua que da Jesús llega a lo profundo del alma (Juan 4:13-14)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Cuando sentimos vacío, buscamos algo que lo tape rápido. Comprar, comer, trabajar más, estar siempre ocupados o con el teléfono en la mano. A veces funciona un rato, y por eso lo repetimos. Pero es como tomar agua salada: calma un momento y después da más sed. Otros ignoran el vacío hasta que se vuelve amargura."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "El Predicador de Eclesiastés, un rey sabio y rico, probó todo: obras, placeres, riquezas. Al final escribió que todo era «vanidad y aflicción de espíritu» (Eclesiastés 2:10-11). No le faltaba nada, y aun así le faltaba lo principal.",
+        "Jesús habló de esto con una mujer junto a un pozo. Ella había buscado llenarse de muchas maneras. Jesús no la regañó: le ofreció agua viva (Juan 4:10-14). El salmista lo dice así: «Mi alma tiene sed de Dios, del Dios vivo» (Salmos 42:2). El vacío no es un defecto tuyo. Es una sed que apunta a Dios. Y Jesús vino para dar vida en abundancia (Juan 10:10)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuando aparezca el vacío, detente antes de taparlo. Dilo en voz baja: “Señor, tengo sed”.",
+        "Anota qué usas para llenarte: comida, compras, pantallas, trabajo.",
+        "Busca cada día un rato de silencio con Dios, aunque sean diez minutos (Salmos 16:11).",
+        "Da algo de ti: servir a otro suele llenar más que recibir.",
+        "Vuelve a tu comunidad de fe. La sed de Dios también se calma entre hermanos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Con qué intento llenar el vacío, y cuánto me dura el alivio?",
+        "¿Cuándo fue la última vez que estuve en silencio con Dios, sin pedir nada?",
+        "¿Estoy buscando en las cosas lo que solo Dios puede darme?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Aparta hoy diez minutos sin teléfono. Lee Juan 4:1-26 despacio. Después dile a Jesús con qué has intentado llenar tu vacío, y pídele su agua viva."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "La mujer samaritana buscó llenar su vida de muchas maneras, y siguió con sed. Junto al pozo, Jesús le ofreció el agua que sí sacia. Conoce su historia en la ficha «La mujer samaritana» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿El vacío dura semanas, con falta de ganas, mal sueño o pensamientos de morir? Puede ser depresión. Habla hoy con un médico y con alguien de confianza. Buscar ayuda no es falta de fe. En peligro, llama a emergencias."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 4:1-26", "nota": "Jesús ofrece agua viva junto al pozo." },
+        { "ref": "Salmos 42:1-11", "nota": "Como el ciervo busca el agua." },
+        { "ref": "Eclesiastés 2:1-11", "nota": "Un rey que lo probó todo." },
+        { "ref": "Isaías 55:1-3", "nota": "Venid a las aguas, sin dinero." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tengo sed y no sé bien de qué. He buscado llenarme con muchas cosas. Hoy vengo a ti. Dame de tu agua viva y llena lo que nada más puede llenar. Amén."
+    }
+  ],
+  "estudio": ["eclesiastes", "salmos"],
+  "buscar": "sed de Dios"
+}

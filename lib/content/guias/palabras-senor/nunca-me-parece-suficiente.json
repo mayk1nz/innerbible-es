@@ -1,0 +1,91 @@
+{
+  "id": "nunca-me-parece-suficiente",
+  "titulo": "Cuando nunca me parece suficiente",
+  "etiquetas": ["Dinero y provisión", "Contentamiento"],
+  "enUnMinuto": [
+    "Quien ama el dinero nunca se sacia, por mucho que tenga.",
+    "Pablo aprendió a estar contento con lo que tenía, en la escasez y en la abundancia.",
+    "Hoy no compres nada que no sea necesario."
+  ],
+  "versiculo": {
+    "texto": "No lo digo en razón de indigencia, pues he aprendido a contentarme con lo que tengo.",
+    "referencia": "Filipenses 4:11"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Paola, en Ciudad de Panamá, gana el doble que hace cinco años. Aun así, siempre le falta algo: un teléfono nuevo, un carro mejor, ropa de marca. Cuando lo consigue, la alegría le dura pocos días. Y ya está mirando lo siguiente."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El contentamiento se aprende, como lo aprendió Pablo (Filipenses 4:11-12). La piedad con contentamiento es gran ganancia, porque nada trajimos al mundo y nada nos llevaremos (1 Timoteo 6:6-7)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error común es pensar: cuando tenga un poco más, estaré tranquilo. Pero ese día no llega, porque la meta siempre se mueve. El Eclesiastés lo dice claro: quien ama el dinero no se sacia de dinero (Eclesiastés 5:10). Más cosas no llenan un vacío del alma."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo escribió sobre el contentamiento desde la cárcel. Había vivido hambre y abundancia, y aprendió a estar en paz en ambas (Filipenses 4:11-13). Su secreto no era tener más, sino tener a Cristo, que lo fortalecía. Por eso podía decir que todo lo podía en Él (Filipenses 4:13). El contentamiento no es resignación: es descansar en Alguien que no falta.",
+        "Jesús advierte que la vida no depende de la cantidad de bienes (Lucas 12:15). Y el Eclesiastés enseña que vale más un puño lleno con descanso que dos llenos con fatiga (Eclesiastés 4:6). Querer mejorar no es malo. Lo que daña es que nada te alcance nunca."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Da gracias cada día por cosas concretas que ya tienes (1 Tesalonicenses 5:18).",
+        "Antes de comprar algo que no necesitas, espera siete días y ora.",
+        "Deja de seguir cuentas o anuncios que te hacen sentir que te falta algo.",
+        "Pregúntate qué vacío intentas llenar con cosas, y llévalo a Dios.",
+        "Comparte algo que tienes y ya no usas. Soltar libera el corazón."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué compré en el último mes que ya no me emociona?",
+        "¿Qué estoy buscando de verdad cuando quiero más?",
+        "¿Podría decir hoy, como Pablo, que estoy contento con lo que tengo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy no compres nada que no sea necesario. Cada vez que sientas ganas de comprar, di en tu corazón: gracias, Señor, por lo que ya tengo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Pablo aprendió a estar contento con poco y con mucho, aun encadenado en una cárcel. Lee «Pablo» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Filipenses 4:10-13", "nota": "He aprendido a contentarme." },
+        { "ref": "1 Timoteo 6:6-8", "nota": "Piedad con contentamiento." },
+        { "ref": "Eclesiastés 5:10-12", "nota": "El que ama el dinero no se sacia." },
+        { "ref": "Lucas 12:13-15", "nota": "La vida no depende de los bienes." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, siempre quiero más y nunca estoy en paz. Enséñame el secreto del contentamiento. Tú eres suficiente para mí. Abre mis ojos para ver todo lo que ya me diste. Amén."
+    }
+  ],
+  "estudio": ["filipenses"],
+  "buscar": "contentamiento"
+}

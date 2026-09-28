@@ -1,0 +1,90 @@
+{
+  "id": "pierdo-el-control-con-la-comida-o-las",
+  "titulo": "Cuando pierdo el control con la comida o las compras",
+  "etiquetas": ["Tentación y hábitos", "Dominio propio", "Contentamiento"],
+  "enUnMinuto": [
+    "Muchas veces comemos o compramos para llenar otra hambre: cansancio, tristeza, soledad.",
+    "Dios pregunta por qué gastamos en lo que no sacia, y nos invita a lo que sí alimenta el alma.",
+    "Primer paso: antes de comer o comprar de más, detente y nombra lo que sientes."
+  ],
+  "versiculo": {
+    "texto": "¿Por qué gastáis el dinero no en pan, y vuestro trabajo no en hartura? Oidme atentamente, y comed del bien, y deleitaráse vuestra alma con grosura.",
+    "referencia": "Isaías 55:2"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Mariela llega agotada del trabajo. Abre el refrigerador “solo para picar algo” y no para hasta sentirse mal. Otras noches compra por internet cosas que no necesita. Al día siguiente llegan la culpa y el estado de cuenta de la tarjeta."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Hay hambres que la comida y las cosas no llenan. Dios nos pregunta por qué gastamos en lo que no sacia, y nos invita a escucharlo a Él (Isaías 55:2)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es pelear solo con dietas estrictas, promesas o castigos: “mañana no como nada”, “voy a cortar la tarjeta”. Otros se ríen del problema o lo esconden.",
+        "Eso no funciona porque no toca la raíz. Si como para calmar la ansiedad, o compro para sentirme alguien, el vacío vuelve. Además, la vergüenza por el cuerpo o por las deudas suele empujar a repetir lo mismo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús tenía hambre en el desierto. Aun así respondió: «No con solo el pan vivirá el hombre» (Mateo 4:4). Nuestras necesidades son reales, pero no todas se llenan con comida o con cosas.",
+        "La Biblia llama “templanza” a una parte del fruto del Espíritu (Gálatas 5:22-23). No es odio al cuerpo ni tacañería. Es un corazón con rienda, como una ciudad que tiene muro (Proverbios 25:28).",
+        "Pablo dijo que aprendió a estar contento, con mucho o con poco (Filipenses 4:11-13). Fue un aprendizaje, no un milagro de un día. Tu cuerpo es templo de Dios: cuídalo con cariño, no con desprecio (1 Corintios 6:19-20)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Antes de abrir el refrigerador o la aplicación, detente y pregúntate: ¿qué siento ahora?",
+        "Nombra ese sentimiento y llévaselo a Dios en una oración corta (1 Pedro 5:7).",
+        "Pon límites prácticos: come sentado y en plato, borra la tarjeta guardada, espera un día antes de comprar.",
+        "Busca otra forma de consuelo: caminar, llamar a alguien, leer un salmo.",
+        "Si hay deudas o atracones, pide ayuda a un médico, un nutricionista o un asesor de finanzas."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Como o compro por necesidad, o por tristeza, cansancio o soledad?",
+        "¿Qué intento llenar que solo Dios y las personas pueden llenar?",
+        "¿Me trato con la misma paciencia con que Dios me trata?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, antes de la próxima comida de más o la próxima compra, espera diez minutos. En ese tiempo, escribe qué estás sintiendo y lee Isaías 55:1-3. Después decide con calma. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Te das atracones, vomitas después de comer, dejas de comer por días o te llenas de deudas? Busca ayuda hoy. Habla con alguien de confianza y con un médico o profesional. Es un problema de salud que tiene tratamiento. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Isaías 55:1-3", "nota": "Venid, comprad sin dinero." },
+        { "ref": "Mateo 4:1-4", "nota": "No solo de pan." },
+        { "ref": "Filipenses 4:11-13", "nota": "Aprender a estar contento." },
+        { "ref": "Hebreos 13:5", "nota": "Contentos con lo que tenemos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces mi hambre más profunda. Cuando busque llenarme con comida o con cosas, recuérdame que tú sacias el alma. Dame templanza sin culpa y paz sin vacío. Amén."
+    }
+  ],
+  "estudio": ["isaias", "filipenses"],
+  "buscar": "templanza"
+}

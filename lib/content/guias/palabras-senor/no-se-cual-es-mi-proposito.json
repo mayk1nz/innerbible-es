@@ -1,0 +1,91 @@
+{
+  "id": "no-se-cual-es-mi-proposito",
+  "titulo": "Cuando no sé cuál es mi propósito",
+  "etiquetas": ["Trabajo y propósito", "Propósito", "Dones"],
+  "enUnMinuto": [
+    "Tu propósito empieza por amar a Dios y al prójimo, allí donde estás hoy.",
+    "Dios preparó buenas obras para ti, y muchas están en tu vida de todos los días.",
+    "Hoy pregunta a quienes te conocen en qué te ven bueno para servir."
+  ],
+  "versiculo": {
+    "texto": "Porque somos hechura suya, criados en Cristo Jesús para buenas obras, las cuales Dios preparó para que anduviésemos en ellas.",
+    "referencia": "Efesios 2:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Andrés tiene 34 años y trabaja en un centro de llamadas en Medellín. Contesta el teléfono ocho horas al día. Por las noches mira videos de gente exitosa y se pregunta si nació para esto. Siente que la vida se le pasa sin sentido."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Eres obra de Dios, creado para las buenas obras que Él preparó (Efesios 2:10). Tu propósito no es un secreto escondido: empieza por amar a Dios y al prójimo (Mateo 22:37-39)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos creen que el propósito es un solo gran destino que hay que descubrir. Mientras esperan esa revelación, desprecian el día de hoy. Otros miden el propósito por el éxito, el dinero o la fama. Así viven frustrados, esperando una vida que siempre empieza mañana."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Ester no eligió vivir en el palacio. Pero Mardoqueo le preguntó si no habría llegado al reino para un momento como ese (Ester 4:14). Su propósito estaba en el lugar donde ya estaba. Lo mismo puede pasar contigo: en tu trabajo, en tu familia, en tu barrio.",
+        "Dios te dio dones, y te pide usarlos para servir a otros (1 Pedro 4:10). Los dones se descubren sirviendo, no solo pensando. Y todo, hasta comer y beber, puede hacerse para la gloria de Dios (1 Corintios 10:31)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Empieza por lo que ya está claro: ama a Dios y a quien tienes cerca hoy (Mateo 22:37-39).",
+        "Haz una lista de lo que te gusta hacer y de lo que otros te agradecen.",
+        "Pregúntale a Dios en oración dónde quiere usarte, y pídele sabiduría (Santiago 1:5).",
+        "Prueba servir en algo concreto: tu iglesia, un vecino, un grupo. Observa qué te da vida.",
+        "Haz bien tu trabajo actual mientras Dios abre otros caminos (Eclesiastés 9:10)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy esperando un gran propósito y despreciando el bien que puedo hacer hoy?",
+        "¿Qué me dicen otros que hago bien?",
+        "¿A quién podría servir esta semana con lo que ya sé hacer?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Pregunta hoy a dos personas que te conocen bien: ¿en qué me ves bueno para ayudar a otros? Escucha sin discutir y anota lo que te digan. Luego preséntalo al Señor en oración."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Ester llegó al palacio sin buscarlo, y allí descubrió que Dios la había puesto para salvar a su pueblo. Lee «Ester» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Efesios 2:8-10", "nota": "Salvados por gracia, creados para buenas obras." },
+        { "ref": "Ester 4:12-16", "nota": "Para un momento como este." },
+        { "ref": "1 Pedro 4:10-11", "nota": "Usa tus dones para servir." },
+        { "ref": "Mateo 22:35-40", "nota": "El propósito más grande: amar." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, a veces siento que mi vida no tiene sentido. Gracias porque soy obra de tus manos. Muéstrame las buenas obras que preparaste para mí. Enséñame a amarte y a servir donde estoy hoy. Si quieres, conversa esta situación con tu Consejero Bíblico. Amén."
+    }
+  ],
+  "estudio": ["efesios"],
+  "buscar": "propósito"
+}

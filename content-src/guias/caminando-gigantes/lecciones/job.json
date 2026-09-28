@@ -1,0 +1,119 @@
+{
+  "id": "job",
+  "titulo": "Job",
+  "subtitulo": "Cuando no hay respuestas",
+  "etiquetas": ["Sufrimiento sin explicación", "Duelo", "Enfermedad", "Libro de Job"],
+  "enUnMinuto": [
+    "Job perdió en un solo día sus bienes y a sus diez hijos, y después también la salud.",
+    "Sus amigos le dijeron que era culpa suya, y Dios nunca le explicó el porqué.",
+    "Pero Job no dejó de hablarle a Dios, y al final lo encontró, aunque no tuvo todas las respuestas."
+  ],
+  "versiculo": {
+    "texto": "De oídas te había oído; mas ahora mis ojos te ven.",
+    "referencia": "Job 42:5"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Te pasó algo que no tiene explicación. Perdiste a alguien, o la salud, o todo lo que habías construido. Te preguntas qué hiciste mal, y no encuentras respuesta. Algunos te dicen frases que duelen más de lo que ayudan. Quizás le reclamas a Dios, o ya no sabes cómo orar. Job estuvo ahí, y su historia está en la Biblia para ti."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Job era un hombre recto, que respetaba a Dios y se apartaba del mal. Tenía siete hijos, tres hijas y muchos bienes (Job 1:1-3). La Biblia deja claro desde el principio que su sufrimiento no fue castigo por su pecado.",
+        "En un solo día llegaron cuatro mensajeros. Los sabeos se llevaron sus bueyes, un fuego quemó las ovejas y los caldeos robaron los camellos. Y un gran viento derribó la casa donde estaban sus hijos, y murieron todos (Job 1:13-19). Job rasgó su manto, cayó en tierra y adoró (Job 1:20-21).",
+        "Luego se enfermó con llagas de pies a cabeza, y se sentó en la ceniza (Job 2:7-8). Tres amigos vinieron a consolarlo. Durante siete días se sentaron con él en silencio, «porque veían que el dolor era muy grande» (Job 2:13).",
+        "Después hablaron, y se equivocaron. Insistían en que Job debía de haber pecado para sufrir así. Job defendió su inocencia y le suplicó a Dios una respuesta. Al final, Dios le habló desde un torbellino (Job 38:1). Y dijo a los amigos que no habían hablado de Él con rectitud, como Job (Job 42:7).",
+        "Job oró por sus amigos, y Dios cambió su aflicción. Tuvo otra vez hijos e hijas, y el doble de bienes (Job 42:10-13). Podemos imaginar que los nuevos hijos no borraron el dolor por los que perdió. Pero su vida volvió a florecer."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Job no fingió paciencia. Maldijo el día en que nació (Job 3:1-3). Dijo: «hablaré en la angustia de mi espíritu, y quejaréme con la amargura de mi alma» (Job 7:11). Buscaba a Dios y no lo encontraba (Job 23:8-9). A sus amigos los llamó «consoladores molestos» (Job 16:2). Y aun así se aferró: «aunque me matare, en él esperaré» (Job 13:15)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Job decidió no alejarse de Dios, aunque no lo entendía. Discutió con Él, lloró y reclamó, pero siempre hablándole a Él. Su queja también fue una forma de oración.",
+        "Decidió no aceptar las explicaciones fáciles. Sus amigos decían que el sufrimiento siempre es castigo. Job sabía que no era así, y Dios le dio la razón (Job 42:7).",
+        "Y cuando Dios le habló, Job no recibió una explicación, sino un encuentro. Antes conocía a Dios de oídas; ahora lo veía (Job 42:5). Descubrió que Dios era más grande que sus preguntas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Dile a Dios lo que sientes, aun tu queja. Job habló con la amargura de su alma, y Dios no lo rechazó (Job 7:11).",
+        "Deja que otros se sienten contigo en silencio. A veces estar presente consuela más que las palabras (Job 2:13).",
+        "No aceptes que te digan que tu sufrimiento es un castigo. Jesús también lo negó (Juan 9:2-3).",
+        "Aférrate a lo poco que sabes: «Yo sé que mi Redentor vive» (Job 19:25)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Job anheló un Redentor que viviera y se levantara sobre el polvo (Job 19:25). Los cristianos vemos en Jesús a ese Redentor. Jesús también sufrió siendo inocente. En la cruz gritó: «Dios mío, Dios mío, ¿por qué me has desamparado?» (Mateo 27:46). No te da todas las respuestas, pero conoce tu pregunta desde adentro. Y su resurrección dice que el dolor no tiene la última palabra."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "No tienes que entenderlo todo para seguir hablando con Dios. Él recibe tu queja, tu silencio y tus lágrimas. Esta semana: escribe tus preguntas en un papel y entrégaselas en oración, sin exigirte respuestas. Y si alguien te acompaña en silencio, recíbelo como un regalo. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Job llegó a desear no haber nacido (Job 3:11). Si tú también sientes que no quieres vivir, no estás solo y no es falta de fe. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un médico o profesional. Si piensas en hacerte daño, llama ahora a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Job 1", "nota": "Lo pierde todo en un día." },
+        { "ref": "Job 2:7-13", "nota": "La enfermedad y los amigos en silencio." },
+        { "ref": "Job 19:23-27", "nota": "La esperanza en su Redentor." },
+        { "ref": "Job 38:1-11", "nota": "Dios le habla desde el torbellino." },
+        { "ref": "Job 42", "nota": "El encuentro y la restauración." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no entiendo lo que me pasa, y te lo digo con sinceridad. Aunque no te vea, sé que conoces mi camino. Recibe mis preguntas y mis lágrimas. No me sueltes. Yo sé que mi Redentor vive. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Qué frases bien intencionadas pueden herir a alguien que sufre?",
+        "Los amigos de Job consolaron mejor en silencio que con palabras. ¿Por qué será?",
+        "¿Qué cambia cuando pasamos de conocer a Dios de oídas a encontrarlo en medio del dolor?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hicieron los amigos de Job durante los primeros siete días?",
+      "opciones": ["Le explicaron por qué sufría", "Se sentaron con él en silencio", "Le pidieron que confesara su pecado"],
+      "correcta": 1,
+      "explicacion": "Se sentaron con él siete días y siete noches sin decir palabra (Job 2:13)."
+    },
+    {
+      "pregunta": "¿Qué dijo Dios al final sobre los amigos de Job?",
+      "opciones": ["Que no habían hablado de Él con rectitud", "Que tenían toda la razón", "Que Job debía obedecerles"],
+      "correcta": 0,
+      "explicacion": "Dios le dijo a Elifaz que ellos no habían hablado lo recto, como su siervo Job (Job 42:7)."
+    },
+    {
+      "pregunta": "¿Qué dijo Job cuando por fin se encontró con Dios?",
+      "opciones": ["Que ya no quería vivir", "Que Dios le debía una explicación", "Que antes lo conocía de oídas y ahora lo veía"],
+      "correcta": 2,
+      "explicacion": "Job dijo: «De oídas te había oído; mas ahora mis ojos te ven» (Job 42:5)."
+    }
+  ],
+  "estudio": ["job"],
+  "buscar": "Job"
+}

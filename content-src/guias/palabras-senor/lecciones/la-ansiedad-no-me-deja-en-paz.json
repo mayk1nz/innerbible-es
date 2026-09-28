@@ -1,0 +1,97 @@
+{
+  "id": "la-ansiedad-no-me-deja-en-paz",
+  "titulo": "Cuando la ansiedad no me deja en paz",
+  "etiquetas": ["Emociones", "Ansiedad", "Paz"],
+  "enUnMinuto": [
+    "Dios no te pide que no sientas nada, sino que conviertas cada preocupación en oración con gratitud.",
+    "Su paz guarda el corazón y la mente, aunque los problemas todavía no se resuelvan.",
+    "Primer paso: escribe lo que te preocupa y conviértelo, punto por punto, en una petición concreta."
+  ],
+  "versiculo": {
+    "texto": "Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias. Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros entendimientos en Cristo Jesús.",
+    "referencia": "Filipenses 4:6-7"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Gabriela se despierta a las tres de la mañana con el corazón acelerado. Piensa en el alquiler, en la tos de su hija, en el trabajo. Revisa el celular, hace cuentas y no vuelve a dormir. De día anda cansada, y todo le parece urgente."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cada afán se puede convertir en una petición con gratitud. Entonces la paz de Dios guarda el corazón y la mente (Filipenses 4:6-7). Puedes echar sobre Él tu ansiedad, porque Él cuida de ti (1 Pedro 5:7)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Decirse: “No debería preocuparme; si me preocupo es que no tengo fe”. Esa culpa solo agrega otra preocupación.",
+        "Otros intentan controlarlo todo: revisan, calculan y vuelven a revisar. O huyen de la angustia con el celular, la comida o la televisión. La mente sigue dando vueltas, y el cuerpo se agota."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo escribió «Por nada estéis afanosos» desde una prisión, no desde una vida cómoda (Filipenses 1:13). No negó los problemas. Los llevó a Dios uno por uno, con gratitud.",
+        "Jesús enseñó a vivir un día a la vez. Cada día trae su propio afán (Mateo 6:34). Marta andaba afanada con muchas cosas. Jesús le habló con cariño y la invitó a lo único necesario: estar con Él (Lucas 10:41-42).",
+        "El salmista también tenía la cabeza llena de pensamientos. Pero dijo que los consuelos de Dios alegraban su alma (Salmos 94:19). La paz de Dios no siempre quita el problema de inmediato. Pero guarda tu corazón mientras lo atraviesas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe en una hoja todo lo que te preocupa. Sacarlo de la cabeza ya ayuda.",
+        "Separa lo que puedes hacer hoy de lo que no depende de ti (Mateo 6:34).",
+        "Convierte cada preocupación en una petición concreta, y agrega una gracia (Filipenses 4:6).",
+        "Haz hoy lo pequeño que sí te toca. Lo demás, entrégaselo a Dios (1 Pedro 5:7).",
+        "Cuida tu cuerpo: respira despacio, camina, duerme y reduce el café y las noticias (Salmos 4:8)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuáles de mis preocupaciones dependen de mí hoy, y cuáles no?",
+        "¿Oro por mis problemas, o solo les doy vueltas en la cabeza?",
+        "¿Encuentro algo por lo que dar gracias en medio de lo que me preocupa?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Busca una caja pequeña y escribe encima: “Para Dios”. Anota cada preocupación en un papelito, como una petición concreta, y agrega una gracia. Échalo en la caja y ora: “Señor, ahora es tuyo”. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Marta vivía afanada, y Jesús la amaba y le enseñó a descansar en Él. Lee la ficha «Marta y María» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿La ansiedad te quita el sueño, te da ataques de pánico o no te deja vivir? Habla con un médico. La ansiedad puede necesitar tratamiento, y buscarlo no es falta de fe. Si tienes pensamientos de hacerte daño, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Filipenses 4:4-9", "nota": "Oración con gratitud y la paz de Dios." },
+        { "ref": "Mateo 6:25-34", "nota": "Mirad las aves del cielo." },
+        { "ref": "1 Pedro 5:6-7", "nota": "Echa sobre Él tu ansiedad." },
+        { "ref": "Lucas 10:38-42", "nota": "Marta, afanada, y lo único necesario." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, mi mente no se detiene. Te entrego cada preocupación, una por una. Gracias porque cuidas de mí y de los míos. Guarda mi corazón con tu paz, y dame hoy el descanso que necesito. Amén."
+    }
+  ],
+  "estudio": ["filipenses"],
+  "buscar": "ansiedad"
+}

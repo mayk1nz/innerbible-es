@@ -1,0 +1,83 @@
+{
+  "id": "estoy-soltero-y-espero",
+  "titulo": "Cuando estoy soltero y espero",
+  "etiquetas": ["Matrimonio y pareja", "Soltería", "Espera"],
+  "enUnMinuto": [
+    "Estar soltero no es estar incompleto ni en pausa: tu vida ya tiene valor y propósito ante Dios.",
+    "El primer paso es vivir este tiempo entero para el Señor, sin esconder tu deseo ni dejar que te domine."
+  ],
+  "versiculo": {
+    "texto": "Quisiera, pues, que estuvieseis sin congoja. El soltero tiene cuidado de las cosas que son del Señor, cómo ha de agradar al Señor:",
+    "referencia": "1 Corintios 7:32"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Jimena tiene 36 años. En cada reunión familiar, alguna tía le pregunta: “¿Y el novio para cuándo?”. Sus amigas ya están casadas y con hijos. Ella sirve en su iglesia y le gusta su trabajo. Pero algunas noches llora y se pregunta si Dios se olvidó de ella."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Casado o soltero, cada uno tiene su propio don de Dios (1 Corintios 7:7). La soltería puede ser un tiempo de entrega libre y plena al Señor (1 Corintios 7:32-35)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Vivimos la soltería como una sala de espera: la vida real empezará cuando llegue la pareja. Entonces postergamos sueños, servicio y alegría. Otros, por desesperación, aceptan cualquier relación. Y a veces la comunidad empeora todo con bromas o presión. Pero Dios no promete a todos un matrimonio; promete su presencia y su bien."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús vivió soltero, y su vida fue la más plena que ha existido. Pablo también, y lo vio como un regalo para servir sin distracción (1 Corintios 7:7, 32-35). La soltería no es un castigo ni un fracaso. Es un lugar donde también se puede amar, servir y crecer.",
+        "Desear casarte es bueno, y puedes decírselo a Dios con sinceridad (Salmos 62:8). A la vez, Pablo aprendió a contentarse en toda situación (Filipenses 4:11-12). Esperar no es quedarse quieto: es confiar mientras vives. Como dice Lamentaciones, «Bueno es Jehová a los que en él esperan» (Lamentaciones 3:25)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuéntale a Dios tu deseo con honestidad, sin avergonzarte (Salmos 62:8).",
+        "Haz una lista de sueños que postergaste “hasta casarte” y retoma uno.",
+        "Usa tu tiempo libre para servir: tu iglesia, tu barrio, tu familia (1 Corintios 7:32).",
+        "Cultiva amistades profundas. Nadie fue hecho para vivir aislado.",
+        "Ante preguntas incómodas, ten lista una respuesta amable: “Estoy en las manos de Dios”."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy viviendo mi vida o solo esperando que empiece?",
+        "¿Qué puedo hacer ahora por Dios y por otros que quizás después no podría?",
+        "¿Mi deseo de pareja está por encima de mi confianza en Dios?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige hoy una forma concreta de servir esta semana con tu tiempo libre. Puede ser visitar a un enfermo, ayudar en tu parroquia o iglesia, o enseñar algo que sabes. Escríbela y pon la fecha."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Corintios 7:7-8", "nota": "Cada uno con su propio don." },
+        { "ref": "1 Corintios 7:32-35", "nota": "Servir al Señor sin distracción." },
+        { "ref": "Filipenses 4:11-13", "nota": "Aprender a contentarse." },
+        { "ref": "Lamentaciones 3:24-26", "nota": "Bueno es esperar en el Señor." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces mi deseo de tener pareja. Te lo entrego sin esconderlo. Mientras espero, quiero vivir para ti con alegría. Llena mi vida de propósito y de buenas amistades. Confío en tu bondad. Amén."
+    }
+  ],
+  "estudio": ["1-corintios", "filipenses"],
+  "buscar": "soltería"
+}

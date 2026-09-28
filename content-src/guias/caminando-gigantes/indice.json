@@ -1,0 +1,99 @@
+{
+  "guia": "caminando-gigantes",
+  "secciones": [
+    {
+      "id": "comienza-aqui",
+      "titulo": "Comienza aquí",
+      "lecciones": [
+        { "id": "comienza-aqui", "titulo": "Cómo usar esta biblioteca", "subtitulo": "Cuatro pasos cuando llega una lucha" },
+        { "id": "que-estas-viviendo", "titulo": "¿Qué estás viviendo hoy?", "subtitulo": "Busca tu lucha y encuentra a tu gigante" }
+      ]
+    },
+    {
+      "id": "injusticia-y-espera",
+      "titulo": "Injusticia y espera",
+      "lecciones": [
+        { "id": "jose", "titulo": "José", "subtitulo": "Cuando hacer todo bien no evita el sufrimiento" },
+        { "id": "david-perseguido", "titulo": "David, perseguido", "subtitulo": "Cuando te atacan sin motivo, una y otra vez" },
+        { "id": "abraham", "titulo": "Abraham", "subtitulo": "Cuando la promesa tarda años en llegar" },
+        { "id": "ana", "titulo": "Ana", "subtitulo": "Cuando tu dolor es invisible para los demás" }
+      ]
+    },
+    {
+      "id": "perdida-y-duelo",
+      "titulo": "Pérdida y duelo",
+      "lecciones": [
+        { "id": "job", "titulo": "Job", "subtitulo": "Cuando no hay respuestas" },
+        { "id": "noemi", "titulo": "Noemí", "subtitulo": "Cuando la amargura quiere ser tu nombre" },
+        { "id": "marta-y-maria", "titulo": "Marta y María", "subtitulo": "Cuando Jesús parece llegar tarde" },
+        { "id": "jeremias-lamentaciones", "titulo": "Jeremías, entre ruinas", "subtitulo": "Cuando el dolor es profundo y no termina" }
+      ]
+    },
+    {
+      "id": "miedo-y-llamado",
+      "titulo": "Miedo, inseguridad y llamado",
+      "lecciones": [
+        { "id": "moises", "titulo": "Moisés", "subtitulo": "Cuando tu pasado quiere descalificarte" },
+        { "id": "gedeon", "titulo": "Gedeón", "subtitulo": "Cuando te sientes demasiado pequeño" },
+        { "id": "jeremias", "titulo": "Jeremías", "subtitulo": "Cuando nadie te escucha ni te entiende" },
+        { "id": "timoteo", "titulo": "Timoteo", "subtitulo": "Cuando eres joven, tímido y te toca liderar" },
+        { "id": "ester", "titulo": "Ester", "subtitulo": "Cuando callar es más peligroso que hablar" }
+      ]
+    },
+    {
+      "id": "cansancio-y-soledad",
+      "titulo": "Cansancio y soledad",
+      "lecciones": [
+        { "id": "elias", "titulo": "Elías", "subtitulo": "Cuando ya no puedes más" },
+        { "id": "agar", "titulo": "Agar", "subtitulo": "Cuando te sientes abandonado en el desierto" }
+      ]
+    },
+    {
+      "id": "culpa-y-nuevo-comienzo",
+      "titulo": "Culpa, caída y nuevo comienzo",
+      "lecciones": [
+        { "id": "david-caida", "titulo": "David, después de caer", "subtitulo": "Cuando el corazón baja la guardia" },
+        { "id": "pedro", "titulo": "Pedro", "subtitulo": "Cuando fallas en el momento más importante" },
+        { "id": "sanson", "titulo": "Sansón", "subtitulo": "Cuando el don corre más rápido que el carácter" },
+        { "id": "jonas", "titulo": "Jonás", "subtitulo": "Cuando huyes de lo que Dios te pidió" },
+        { "id": "zaqueo", "titulo": "Zaqueo", "subtitulo": "Cuando todos te juzgan por tu pasado" },
+        { "id": "la-samaritana", "titulo": "La mujer samaritana", "subtitulo": "Cuando cargas una historia que te avergüenza" }
+      ]
+    },
+    {
+      "id": "familia-y-relaciones",
+      "titulo": "Familia y relaciones",
+      "lecciones": [
+        { "id": "jacob-y-esau", "titulo": "Jacob y Esaú", "subtitulo": "Cuando una pelea de familia dura años" },
+        { "id": "rut", "titulo": "Rut", "subtitulo": "Cuando eliges quedarte y ser fiel" },
+        { "id": "abigail", "titulo": "Abigail", "subtitulo": "Cuando te toca poner paz en medio del conflicto" }
+      ]
+    },
+    {
+      "id": "fe-bajo-presion",
+      "titulo": "Fe bajo presión",
+      "lecciones": [
+        { "id": "daniel", "titulo": "Daniel", "subtitulo": "Cuando ser fiel pone tu vida en riesgo" },
+        { "id": "tres-jovenes", "titulo": "Sadrac, Mesac y Abed-nego", "subtitulo": "Cuando todos se arrodillan y tú no" },
+        { "id": "pablo", "titulo": "Pablo", "subtitulo": "Cuando obedecer trae problemas constantes" },
+        { "id": "esteban", "titulo": "Esteban", "subtitulo": "Cuando la fidelidad lo cuesta todo" }
+      ]
+    },
+    {
+      "id": "enfermedad-y-limites",
+      "titulo": "Enfermedad y límites",
+      "lecciones": [
+        { "id": "la-mujer-que-toco-el-manto", "titulo": "La mujer que tocó el manto", "subtitulo": "Cuando llevas años enfermo y cansado" },
+        { "id": "naaman", "titulo": "Naamán", "subtitulo": "Cuando el orgullo se interpone en tu sanidad" }
+      ]
+    },
+    {
+      "id": "el-gigante-mayor",
+      "titulo": "El Gigante mayor",
+      "lecciones": [
+        { "id": "jesus", "titulo": "Jesús en Getsemaní", "subtitulo": "Cuando obedecer significa entregarlo todo" },
+        { "id": "tu-caminas-con-gigantes", "titulo": "Tú caminas con gigantes", "subtitulo": "No fueron perfectos: fueron fieles en el dolor" }
+      ]
+    }
+  ]
+}

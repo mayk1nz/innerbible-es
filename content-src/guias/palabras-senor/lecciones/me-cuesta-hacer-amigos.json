@@ -1,0 +1,92 @@
+{
+  "id": "me-cuesta-hacer-amigos",
+  "titulo": "Cuando me cuesta hacer amigos",
+  "etiquetas": ["Amistades y convivencia", "Amistad", "Timidez"],
+  "enUnMinuto": [
+    "Dios nos creó para la amistad: mejor son dos que uno.",
+    "La Biblia enseña que, para tener amigos, hay que mostrarse amigo primero.",
+    "Primer paso: da tú el primer paso con una persona, aunque sea pequeño."
+  ],
+  "versiculo": {
+    "texto": "El hombre que tiene amigos, ha de mostrarse amigo: y amigo hay más conjunto que el hermano.",
+    "referencia": "Proverbios 18:24"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hernán es tímido. En el trabajo habla lo justo, y en la iglesia se sienta atrás y se va rápido. Ve que otros comparten café y risas, pero nadie lo invita. Piensa que no tiene nada interesante que contar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Quien quiere tener amigos ha de mostrarse amigo (Proverbios 18:24). Dios nos hizo para la compañía: mejor son dos que uno (Eclesiastés 4:9-10)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es esperar a que otros tomen la iniciativa. Y cuando no lo hacen, pensar: “Nadie me quiere”. Otros buscan amistades perfectas y descartan a todos al primer defecto. Y está el miedo: “Si me acerco, voy a molestar”. Pero muchas personas esperan justo eso, que alguien se acerque primero. Así, sin querer, la soledad se vuelve una casa cerrada por dentro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús también tuvo amigos cercanos: amaba a Marta, a María y a Lázaro (Juan 11:5). Y a ti te llama amigo (Juan 15:15). Tu valor no depende de cuántos amigos tienes. Desde esa seguridad puedes acercarte a otros sin tanto miedo al rechazo.",
+        "La amistad se construye con pasos pequeños: gozarse con los que se gozan y llorar con los que lloran (Romanos 12:15). No hace falta ser gracioso ni hablar mucho. Hace falta interés sincero por el otro.",
+        "Cuando Elías se sentía solo, Dios le dio a Eliseo como compañero (1 Reyes 19:19-21). Dios sigue uniendo personas. Muchas amistades nacen al congregarse y servir juntos, animándose unos a otros (Hebreos 10:24-25)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pídele a Dios una amistad. Él mismo dijo que no es bueno que el hombre esté solo.",
+        "Elige a una persona con quien ya tienes algo en común y salúdala por su nombre.",
+        "Haz preguntas y escucha. Recuerda lo que te cuentan y pregunta después (Romanos 12:15).",
+        "Súmate a un grupo o servicio en tu iglesia o comunidad (Hebreos 10:24-25).",
+        "Ten paciencia: la amistad crece con el tiempo y con encuentros repetidos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Espero que otros den el primer paso, o lo doy yo?",
+        "¿Busco amigos perfectos o amigos reales?",
+        "¿A quién podría acercarme esta semana?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Aprende hoy el nombre de una persona que ves seguido, pero con quien nunca hablaste. Salúdala por su nombre y hazle una pregunta sobre su vida."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Elías llegó a sentirse completamente solo, y Dios le dio descanso, su palabra y un compañero. Lee su ficha, «Elías», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Eclesiastés 4:9-12", "nota": "Mejor son dos que uno." },
+        { "ref": "Juan 15:12-15", "nota": "Jesús nos llama amigos." },
+        { "ref": "1 Reyes 19:19-21", "nota": "Elías encuentra un compañero." },
+        { "ref": "Proverbios 17:17", "nota": "El amigo ama en todo tiempo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias porque me llamas amigo. Tú conoces mi timidez y mi soledad. Dame valor para dar el primer paso y un corazón atento a los demás. Pon en mi camino amigos que te amen. Amén."
+    }
+  ],
+  "estudio": ["eclesiastes", "1-reyes-12-22"],
+  "buscar": "amigo"
+}

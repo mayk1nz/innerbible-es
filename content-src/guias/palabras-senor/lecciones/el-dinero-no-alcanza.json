@@ -1,0 +1,90 @@
+{
+  "id": "el-dinero-no-alcanza",
+  "titulo": "Cuando el dinero no alcanza",
+  "etiquetas": ["Dinero y provisión", "Necesidad", "Pan de cada día"],
+  "enUnMinuto": [
+    "Cuando el dinero no alcanza, Jesús te enseña a pedir el pan de hoy, sin vergüenza.",
+    "La fe no reemplaza el orden: ora, organiza lo que tienes y pide ayuda.",
+    "Hoy cuéntale tu necesidad a alguien de confianza."
+  ],
+  "versiculo": {
+    "texto": "Danos hoy nuestro pan cotidiano.",
+    "referencia": "Mateo 6:11"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Julio y Mariela tienen tres hijos en Quetzaltenango, Guatemala. Él trabaja en construcción y ella vende tortillas. Cada fin de mes, la cuenta no cierra. Esta semana tuvieron que elegir entre pagar la luz o comprar los útiles de la escuela."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios conoce tus necesidades y te invita a pedirle el pan de cada día (Mateo 6:11). Muchas veces provee por medio del trabajo, del orden y de hermanos que comparten (Hechos 4:34-35)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error común es esconder la necesidad por vergüenza, hasta que todo explota. Otro es pedir préstamos caros para tapar huecos que después crecen. Y otro es pensar que Dios te castiga o que te falta fe. La escasez no es señal de que Dios no te ama."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús no nos enseñó a pedir riquezas, sino el pan de hoy (Mateo 6:11). Esa oración es para quienes viven al día. La primera iglesia se organizaba para que nadie pasara necesidad (Hechos 4:34-35). Dios usa a sus hijos para cuidarse unos a otros.",
+        "La Biblia también valora el trabajo y el orden. Pablo pide trabajar con tranquilidad para comer el propio pan (2 Tesalonicenses 3:12). Orar y organizar el dinero van juntos. Y cuando no alcanza, pedir ayuda es obedecer: llevar las cargas unos de otros (Gálatas 6:2)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Oren en familia el Padrenuestro, despacio, y deténganse en el pan de hoy (Mateo 6:9-13).",
+        "Escriban cuánto entra y en qué se va. Primero lo esencial: comida, techo, luz y salud.",
+        "Busquen juntos recortes pequeños y posibles, entre todos los de la casa.",
+        "Averigua qué ayudas existen: programas del gobierno, comedores, bancos de alimentos, tu parroquia o iglesia.",
+        "Evita los préstamos rápidos con intereses altos: suelen empeorar el problema (Proverbios 22:7)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy callando mi necesidad por orgullo o por vergüenza?",
+        "¿Sé exactamente en qué se va nuestro dinero?",
+        "¿Qué podemos hacer juntos en casa para que alcance un poco más?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Cuéntale hoy tu necesidad a una persona de confianza o a tu iglesia. Hazlo con sencillez, sin exagerar ni esconder. Pedir ayuda no es una vergüenza: es dejar que el cuerpo de Cristo funcione."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Rut y Noemí llegaron a Belén sin nada. Rut salió a recoger espigas para que las dos pudieran comer (Rut 2:2), y Dios la cuidó por medio de Booz. Lee «Rut» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Mateo 6:9-13", "nota": "El pan de cada día." },
+        { "ref": "Rut 2:1-18", "nota": "Rut recoge espigas y encuentra favor." },
+        { "ref": "Hechos 4:32-35", "nota": "Nadie pasaba necesidad." },
+        { "ref": "Filipenses 4:19", "nota": "Dios suple lo que nos falta." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, danos hoy nuestro pan de cada día. Tú ves lo que falta en esta casa. Quítame la vergüenza de pedir ayuda. Danos orden, trabajo y hermanos que nos acompañen. Confío en tu cuidado. Amén."
+    }
+  ],
+  "buscar": "pan"
+}

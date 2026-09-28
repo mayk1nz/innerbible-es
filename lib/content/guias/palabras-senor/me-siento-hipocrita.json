@@ -1,0 +1,93 @@
+{
+  "id": "me-siento-hipocrita",
+  "titulo": "Cuando me siento hipócrita",
+  "etiquetas": ["Hacedor de la Palabra", "Sinceridad", "Integridad"],
+  "enUnMinuto": [
+    "Sentirte hipócrita puede ser una buena señal: Dios te muestra una distancia que quiere sanar.",
+    "La salida no es dejar la fe, sino llevar la verdad a lo más íntimo.",
+    "Primer paso: nombra ante Dios, con honestidad, dónde vives con dos caras."
+  ],
+  "versiculo": {
+    "texto": "He aquí, tú amas la verdad en lo íntimo: y en lo secreto me has hecho comprender sabiduría.",
+    "referencia": "Salmo 51:6"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Ernesto recibe a la gente en la puerta de su iglesia cada domingo. Saluda con una sonrisa y todos lo aprecian. Pero en casa responde con dureza a su esposa y casi nunca ora. Un domingo pensó: “Si supieran cómo soy, no me dejarían ni entrar”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios ama la verdad en lo íntimo (Salmo 51:6). No busca una fachada perfecta, sino un corazón sincero que se deja transformar."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores comunes. El primero es esconder más: cuidar la imagen y callar lo de adentro. El segundo es huir: “Si soy hipócrita, mejor no voy más”.",
+        "Ninguno de los dos sana. El primero agranda la distancia. El segundo te deja solo con tu lucha."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Hipócrita es quien actúa un papel sin querer cambiar. Quien sufre por su incoherencia ya quiere ser sincero. Esa incomodidad puede ser la voz de Dios, no tu condena (Romanos 8:1).",
+        "El Señor mira el corazón, no la apariencia (1 Samuel 16:7). Por eso el camino empieza por dentro. David, después de esconder su pecado, oró: «Crea en mí, oh Dios, un corazón limpio» (Salmo 51:10).",
+        "La Biblia no te pide cargar esto solo. Invita a confesar las faltas unos a otros y a orar unos por otros (Santiago 5:16). Busca a alguien maduro y discreto. Cada tradición tiene su camino: el sacramento, el pastor, un hermano mayor en la fe."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pide a Dios que te muestre lo que hay en tu corazón (Salmo 139:23-24).",
+        "Nombra el área concreta donde vives con dos caras: el trato en casa, el dinero, el trabajo, lo que miras.",
+        "Confiésalo a Dios sin excusas; él es fiel para perdonar y limpiar (1 Juan 1:9).",
+        "Cuéntalo a una persona de confianza que ore contigo (Santiago 5:16).",
+        "No dejes de congregarte mientras cambias. La iglesia es un hospital, no un museo de santos (Hebreos 10:24-25)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Dónde soy más amable: en la iglesia o en mi casa?",
+        "¿Hay algo que escondo por miedo a lo que pensarían?",
+        "¿Con quién podría ser totalmente sincero esta semana?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe en una línea la diferencia entre tu yo del domingo y tu yo del lunes. Léela a Dios en voz baja, sin adornos. Luego elige un gesto concreto para acortar esa distancia mañana en casa."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "David escondió su pecado mucho tiempo, hasta que dijo: «Pequé contra Jehová» (2 Samuel 12:13). De esa sinceridad nació el Salmo 51. Lee su ficha, «David, después de caer», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 51", "nota": "La oración de un corazón sincero." },
+        { "ref": "2 Samuel 12:1-13", "nota": "Natán y David: la verdad que sana." },
+        { "ref": "Santiago 5:16", "nota": "Confesar y orar unos por otros." },
+        { "ref": "1 Juan 1:5-9", "nota": "Andar en la luz." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no quiero vivir con dos caras. Tú amas la verdad en lo íntimo. Te abro lo que escondo, aunque me dé vergüenza. Crea en mí un corazón limpio, en la iglesia y en mi casa. Amén."
+    }
+  ],
+  "estudio": ["salmos"],
+  "buscar": "sinceridad"
+}

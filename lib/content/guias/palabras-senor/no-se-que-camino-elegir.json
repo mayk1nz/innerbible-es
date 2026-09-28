@@ -1,0 +1,86 @@
+{
+  "id": "no-se-que-camino-elegir",
+  "titulo": "Cuando no sé qué camino elegir",
+  "etiquetas": ["Decisiones y dirección", "Confianza", "Guía de Dios"],
+  "enUnMinuto": [
+    "Cuando no ves claro, la Biblia no te pide adivinar, sino confiar en el Señor y tenerlo en cuenta en todo.",
+    "Muchas veces Dios guía paso a paso, sin mostrar el mapa completo.",
+    "Primer paso: descarta lo que va contra su Palabra y, entre lo bueno, da solo el paso siguiente."
+  ],
+  "versiculo": {
+    "texto": "Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+    "referencia": "Proverbios 3:5-6"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Julián terminó la secundaria en un pueblo de Guatemala. Su tío le ofrece trabajo en su taller mecánico. Una profesora le dice que puede estudiar enfermería en la capital. Las dos cosas le gustan, y tiene miedo de equivocarse para siempre."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Confía en el Señor más que en tu propio entendimiento, y tenlo en cuenta en cada paso. Él se encarga de enderezar el camino (Proverbios 3:5-6)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos creen que existe un único camino correcto, escondido, y que si fallan arruinan el plan de Dios. Ese miedo paraliza. Otros abren la Biblia al azar, esperando que un versículo les diga qué hacer. Otros buscan señales en todo: una canción, un sueño, una coincidencia.",
+        "Dios puede hablar como Él quiera, pero no juega a las escondidas con sus hijos. Él promete enseñarnos el camino y mantener sus ojos sobre nosotros (Salmo 32:8). No nos deja adivinando."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La guía de Dios empieza por lo que Él ya dijo con claridad. Si una opción te lleva a mentir, a dañar a otros o a descuidar a los tuyos, ya tienes respuesta. Esa puerta no es de Dios.",
+        "Cuando las dos opciones son buenas y honestas, hay libertad. El corazón hace sus planes, pero el Señor dirige los pasos (Proverbios 16:9). Puedes elegir con paz, sabiendo que Dios puede obrar en cualquiera de esos caminos.",
+        "A veces Dios no muestra el camino entero. Abraham salió de su tierra sin saber a dónde iba (Hebreos 11:8). Lo que necesitas hoy no es ver el final. Es dar el siguiente paso con fe."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Descarta primero lo que la Biblia ya prohíbe o lo que dañaría a otros. Eso aclara mucho.",
+        "Si las opciones son buenas, anota qué dones usarías y a quién servirías en cada una.",
+        "Pide a alguien que te conozca bien que te diga con sinceridad dónde te ve sirviendo mejor.",
+        "Ora cada mañana reconociendo al Señor en esta decisión, como enseña Proverbios 3:6.",
+        "Elige, y revisa el camino en unos meses. Ajustar el rumbo no es fracasar."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy buscando la voluntad de Dios o una garantía de que nada saldrá mal?",
+        "¿Alguna de las opciones me pide ir contra lo que Dios ya dijo?",
+        "¿Qué haría si de verdad confiara en que Dios no me va a soltar?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Llama hoy a una persona de fe que te conozca bien. Cuéntale tus dos caminos y pregúntale: “¿En cuál me ves sirviendo mejor a Dios y a los demás?”. Escucha hasta el final, sin defenderte."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Proverbios 3:1-8", "nota": "Confiar en el Señor más que en uno mismo." },
+        { "ref": "Salmos 32:8-11", "nota": "Dios promete enseñar el camino." },
+        { "ref": "Hebreos 11:8-10", "nota": "Abraham sale sin saber a dónde va." },
+        { "ref": "Isaías 30:21", "nota": "La voz que guía cuando dudamos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no sé qué camino tomar. Confío en ti más que en mi propio entendimiento. Te reconozco en esta decisión. Endereza mis pasos y dame paz para avanzar, aunque no vea todo el camino. Amén."
+    }
+  ],
+  "estudio": ["proverbios"],
+  "buscar": "camino"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "pedro",
+  "titulo": "Pedro",
+  "subtitulo": "Cuando fallas en el momento más importante",
+  "etiquetas": ["Fracaso", "Vergüenza", "Restauración", "Jesús"],
+  "enUnMinuto": [
+    "Pedro prometió que nunca dejaría a Jesús, y esa misma noche dijo tres veces que no lo conocía.",
+    "Salió y lloró amargamente, pero Jesús ya había orado por él y, después de resucitar, lo buscó.",
+    "Junto a un fuego en la playa, Jesús lo restauró con tres preguntas de amor y le confió a su pueblo."
+  ],
+  "versiculo": {
+    "texto": "Mas yo he rogado por ti que tu fe no falte: y tú, una vez vuelto, confirma a tus hermanos.",
+    "referencia": "Lucas 22:32"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás fallaste justo cuando más importaba. Prometiste estar, y no estuviste. Dijiste “nunca”, y lo hiciste. Le fallaste a tu familia, a un amigo o a Dios. Ahora repites esa escena en tu cabeza una y otra vez. Y piensas que ya no mereces una segunda oportunidad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "En la última cena, Jesús avisó que todos lo dejarían. Pedro respondió: «Aunque todos sean escandalizados en ti, yo nunca seré escandalizado» (Mateo 26:33). Y añadió que estaba listo para ir con Él a la cárcel y a la muerte (Lucas 22:33). Jesús le dijo que antes del canto del gallo lo negaría tres veces (Lucas 22:34).",
+        "Esa noche arrestaron a Jesús. Pedro lo siguió de lejos y se sentó junto al fuego en el patio del sumo sacerdote (Lucas 22:54-55). Una criada dijo que él estaba con Jesús. Pedro lo negó. Luego lo negó otra vez, y una tercera vez (Lucas 22:56-60).",
+        "Mientras aún hablaba, cantó el gallo. Entonces «vuelto el Señor, miró a Pedro». Pedro se acordó de sus palabras, salió afuera y «lloró amargamente» (Lucas 22:60-62)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Pedro amaba de verdad a Jesús. Por eso su caída le dolió tanto. Podemos imaginar los días siguientes: Jesús crucificado, y él con el recuerdo de esa mirada. Tal vez pensaba que ya no era digno de ser su discípulo. Después, incluso volvió a su antiguo oficio: «A pescar voy» (Juan 21:3)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Jesús resucitó y no se olvidó de él. El ángel dijo a las mujeres: «decid a sus discípulos y a Pedro» (Marcos 16:7). Jesús se le apareció a Simón (Lucas 24:34). Y una mañana, junto al mar, preparó unas brasas con pan y pescado (Juan 21:9).",
+        "Pedro decidió no quedarse lejos. Al oír que era el Señor, se echó al agua para llegar a Él (Juan 21:7). Junto a otro fuego, como el de la noche de su caída, Jesús le preguntó tres veces: «¿me amas?». Pedro respondió con humildad: «tú sabes que te amo». Y Jesús le encargó: «Apacienta mis ovejas» (Juan 21:15-17).",
+        "Semanas después, Pedro habló de Jesús con valor en Jerusalén, en Pentecostés (Hechos 2:14-41)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Llora tu falla delante de Dios, sin esconderla. Las lágrimas de Pedro fueron el comienzo de su regreso (Lucas 22:62).",
+        "Recuerda que Jesús oró por ti antes de tu caída. Su amor no empezó cuando lo hiciste bien (Lucas 22:32).",
+        "Acércate a Jesús otra vez, aunque te dé vergüenza. Pedro se tiró al agua para llegar a Él (Juan 21:7).",
+        "Deja que tu falla te haga humilde y útil. Jesús le dijo: «una vez vuelto, confirma a tus hermanos» (Lucas 22:32)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús sabía que Pedro iba a fallar, y aun así lo eligió y oró por él. Después de la caída no lo reemplazó ni lo humilló delante de los demás. Lo buscó, comió con él y le preguntó por su amor. Tres preguntas sanaron tres negaciones. Así trata Jesús a quien vuelve a Él."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tu peor momento no es el final de tu historia con Dios. Esta semana: busca un momento a solas y responde a Jesús su pregunta: “¿Me amas?”. Dile la verdad, con tus propias palabras. Si tu falla hirió a alguien, da un paso para pedir perdón. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Lucas 22:31-34", "nota": "Jesús ora por Pedro y le avisa." },
+        { "ref": "Lucas 22:54-62", "nota": "Las tres negaciones y la mirada de Jesús." },
+        { "ref": "Marcos 16:1-7", "nota": "«Decid a sus discípulos y a Pedro»." },
+        { "ref": "Juan 21:1-19", "nota": "El desayuno en la playa y las tres preguntas." },
+        { "ref": "Hechos 2:14-41", "nota": "Pedro predica con valor." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, te fallé cuando más importaba. Tú sabes todas las cosas; tú sabes que te amo. Gracias porque oraste por mí antes de mi caída. Levántame, sana mi vergüenza y úsame para animar a otros. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Por qué creen que Pedro, que amaba tanto a Jesús, llegó a negarlo?",
+        "¿Qué significa para ti que Jesús orara por Pedro antes de su caída?",
+        "¿Cómo podemos recibir a alguien que vuelve después de fallar?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántas veces negó Pedro conocer a Jesús?",
+      "opciones": ["Una vez", "Siete veces", "Tres veces"],
+      "correcta": 2,
+      "explicacion": "Jesús le había dicho: «me negarás tres veces», y así ocurrió (Lucas 22:34, 56-61)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús justo después de que cantó el gallo?",
+      "opciones": ["Se volvió y miró a Pedro", "Llamó a los soldados", "Se fue sin mirarlo"],
+      "correcta": 0,
+      "explicacion": "«Vuelto el Señor, miró a Pedro», y Pedro lloró amargamente (Lucas 22:61-62)."
+    },
+    {
+      "pregunta": "¿Qué le encargó Jesús a Pedro en la playa?",
+      "opciones": ["Que volviera a pescar", "Que apacentara sus ovejas", "Que guardara silencio"],
+      "correcta": 1,
+      "explicacion": "Tres veces le dijo que apacentara sus corderos y ovejas (Juan 21:15-17)."
+    }
+  ],
+  "estudio": ["pasion-y-muerte", "resurreccion"],
+  "buscar": "Pedro"
+}

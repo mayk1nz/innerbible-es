@@ -1,0 +1,96 @@
+{
+  "id": "necesito-poner-limites",
+  "titulo": "Cuando necesito poner límites",
+  "etiquetas": ["Hijos y familia", "Límites", "Sabiduría"],
+  "enUnMinuto": [
+    "Poner límites no es falta de amor: Jesús también se apartaba, descansaba y decía que no.",
+    "Un límite claro protege la relación y protege tu corazón.",
+    "Primer paso: decide qué vas a permitir y qué no, y dilo con calma y sin rodeos."
+  ],
+  "versiculo": {
+    "texto": "Mas sea vuestro hablar: Sí, sí; No, no; porque lo que es más de esto, de mal procede.",
+    "referencia": "Mateo 5:37"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "La suegra de Rocío tiene llave de la casa. Entra sin avisar, cambia las cosas de lugar y corrige a los niños delante de ella. Si Rocío dice algo, su esposo responde: “Así es mi mamá”. Rocío se siente una extraña en su propio hogar, y ya le guarda rencor."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús enseñó a hablar con claridad: sí cuando es sí, y no cuando es no (Mateo 5:37). Un no dicho con amor también puede ser obediencia."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos creen que ser buen cristiano es decir que sí a todo. Entonces aceptan, se agotan, acumulan rencor y un día explotan. Otros ponen límites a gritos o cortan la relación de golpe. El primero confunde amor con miedo. El segundo confunde firmeza con dureza."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús amaba a todos, pero no hacía todo lo que le pedían. Se apartaba a lugares solitarios para orar (Lucas 5:16). Invitó a sus discípulos a descansar cuando no tenían tiempo ni para comer (Marcos 6:31).",
+        "Pablo pide llevar las cargas unos de otros (Gálatas 6:2). Pero pocos versículos después dice que cada uno llevará su propia carga (Gálatas 6:5). Ayudar es bíblico. Cargar sin fin con lo que le toca a otro no lo ayuda a crecer.",
+        "Cuando quisieron distraer a Nehemías de su tarea, respondió: «Yo hago una grande obra, y no puedo ir» (Nehemías 6:3). Un límite claro dice qué harás y qué no, sin insultos y sin culpas. Y se mantiene con calma."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora y pregúntate: ¿qué me está haciendo daño en esta relación?",
+        "Decide un límite concreto: qué harás, qué no harás y desde cuándo.",
+        "Si estás casado, habla primero con tu cónyuge y pónganse de acuerdo.",
+        "Dilo con calma y en pocas palabras. Sí es sí; no es no (Mateo 5:37).",
+        "Mantén el límite con amabilidad, aunque el otro se enoje. Sigue orando por esa persona."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Digo que sí por amor, o por miedo a que me rechacen?",
+        "¿Estoy cargando algo que le corresponde a otra persona?",
+        "¿Mis límites son claros y amables, o nacen del enojo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Ensaya hoy en voz alta la frase de tu límite, frente al espejo o con alguien de confianza. Por ejemplo: “Nos encanta que vengas, pero por favor avísanos antes”. Repítela hasta decirla con calma."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Daniel puso un límite claro y respetuoso cuando le pidieron algo contra su conciencia (Daniel 1:8). Lee su ficha, «Daniel», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si alguien de tu familia te golpea, te amenaza, controla tu dinero o abusa de ti, el límite es urgente y bíblico. Tu seguridad va primero; perdonar no es seguir en peligro. Busca hoy a alguien de confianza, tu pastor o sacerdote o un profesional. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 5:15-16", "nota": "Jesús se apartaba para orar." },
+        { "ref": "Gálatas 6:1-5", "nota": "Ayudar sin cargar lo que no es tuyo." },
+        { "ref": "Nehemías 6:1-4", "nota": "Un no firme y tranquilo." },
+        { "ref": "Proverbios 4:23", "nota": "Guardar el corazón." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, enséñame a amar sin dejarme destruir. Dame valor para decir no cuando es no, y bondad para decirlo sin herir. Quita de mí la culpa que no viene de ti. Guarda mi corazón y mi familia. Amén."
+    }
+  ],
+  "estudio": ["nehemias", "galatas"],
+  "buscar": "límites"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "zaqueo",
+  "titulo": "Zaqueo",
+  "subtitulo": "Cuando todos te juzgan por tu pasado",
+  "etiquetas": ["Culpa y juicio", "Siglo I d.C.", "Jericó"],
+  "enUnMinuto": [
+    "Zaqueo era el jefe de los cobradores de impuestos de Jericó, y toda la ciudad lo veía como un pecador.",
+    "Subió a un árbol para ver a Jesús, y Jesús lo llamó por su nombre y entró en su casa.",
+    "Ese amor lo cambió: prometió reparar el daño y escuchó que la salvación había llegado a su casa."
+  ],
+  "versiculo": {
+    "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.",
+    "referencia": "Lucas 19:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás cometiste errores y la gente no los olvida. Entras a un lugar y sientes las miradas. Tu familia, tu barrio o tu trabajo ya decidieron quién eres. Tal vez tú mismo lo crees: “Yo no tengo arreglo”. Quieres cambiar, pero nadie te da una oportunidad. Si hoy te sientes así, esta historia es para ti."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Jesús va de camino a Jerusalén y pasa por Jericó (Lucas 19:1). Allí vive Zaqueo, el jefe de los publicanos, y es rico (Lucas 19:2). Los publicanos cobraban impuestos para Roma. Muchos cobraban de más, y el pueblo los despreciaba. Zaqueo quiere ver quién es Jesús. Pero es bajo de estatura, y la multitud no lo deja ver (Lucas 19:3).",
+        "Entonces corre adelante y se sube a un sicómoro, un árbol del camino (Lucas 19:4). Jesús llega, mira hacia arriba y lo llama por su nombre: «Zaqueo, date priesa, desciende». Y añade: «hoy es necesario que pose en tu casa» (Lucas 19:5). Zaqueo baja rápido y lo recibe con alegría (Lucas 19:6).",
+        "Pero todos murmuran. Dicen que Jesús entró a la casa de «un hombre pecador» (Lucas 19:7). Zaqueo se pone de pie delante de Jesús. Promete dar la mitad de sus bienes a los pobres. Y si defraudó a alguien, le devolverá cuatro veces más (Lucas 19:8). Jesús responde: «Hoy ha venido la salvación a esta casa» (Lucas 19:9)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "La Biblia no nos cuenta lo que Zaqueo sentía, pero podemos imaginarlo. Tenía dinero, pero quizás no tenía amigos en el pueblo. Tal vez ya se había acostumbrado a ser “el malo” de la ciudad. Quizás pensaba que un maestro como Jesús nunca querría hablar con él. Aun así, algo lo empujó a correr y a trepar a un árbol, como un niño. Hay un hambre que el dinero no llena."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Zaqueo no esperó a sentirse digno para acercarse. Hizo lo que pudo: corrió y subió al árbol. Cuando Jesús lo llamó, no discutió ni se escondió. Bajó enseguida y abrió su casa.",
+        "Fíjate en el orden. Jesús no le exigió cambiar primero para después aceptarlo. Primero lo llamó y entró a su casa. El cambio vino después, como respuesta a ese amor. Zaqueo no se defendió de las críticas con palabras. Respondió con hechos: generosidad con los pobres y reparación para quien había dañado."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Busca a Jesús aunque haya obstáculos. Zaqueo no dejó que su estatura ni la multitud lo detuvieran (Lucas 19:3-4).",
+        "Deja que Jesús te llame por tu nombre. Él no te mira como te mira la gente: te conoce y te busca (Lucas 19:5).",
+        "Responde con alegría, no con miedo. Zaqueo «le recibió gozoso» (Lucas 19:6). Abre a Jesús tu casa y tu día.",
+        "Repara lo que puedas. Si le hiciste daño a alguien, pide perdón y busca devolver lo que tomaste (Lucas 19:8)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús pudo pasar de largo. Pero se detuvo bajo el árbol, levantó la mirada y dijo el nombre de Zaqueo. Entró a su casa aunque eso le costó críticas. Así explicó su misión: «el Hijo del hombre vino a buscar y a salvar lo que se había perdido» (Lucas 19:10). Jesús sigue buscando a los que otros ya dieron por perdidos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tu pasado es real, pero no es tu nombre. Jesús te conoce y te llama. Quizás otros tarden en creer que cambiaste; no pelees con palabras, deja que hablen tus hechos. Esta semana: piensa a quién dañaste y elige un paso concreto para reparar. Puede ser una llamada, una disculpa o una deuda que pagar. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Lucas 19:1-10", "nota": "Zaqueo y Jesús en Jericó." },
+        { "ref": "Lucas 15:1-7", "nota": "La oveja perdida: Dios sale a buscar." },
+        { "ref": "Lucas 5:27-32", "nota": "Jesús llama a Leví, otro publicano." },
+        { "ref": "Lucas 18:9-14", "nota": "El fariseo y el publicano en el templo." },
+        { "ref": "1 Juan 1:9", "nota": "Dios perdona al que confiesa." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, conoces mi pasado y aun así me llamas por mi nombre. Entra hoy a mi casa y a mi corazón. Dame valor para reparar el daño que hice. Y ayúdame a mirar a los demás como tú me miras. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Alguna vez te sentiste juzgado por algo de tu pasado? ¿Qué te ayudó?",
+        "¿Por qué creen que Jesús entró a casa de Zaqueo antes de que él cambiara?",
+        "¿A quién miramos nosotros como Jericó miraba a Zaqueo?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Por qué Zaqueo se subió a un árbol?",
+      "opciones": ["Para esconderse de la multitud", "Porque era bajo y quería ver a Jesús", "Para vigilar a los cobradores"],
+      "correcta": 1,
+      "explicacion": "Era pequeño de estatura y la multitud no lo dejaba ver a Jesús (Lucas 19:3-4)."
+    },
+    {
+      "pregunta": "¿Qué hizo la gente cuando Jesús entró a casa de Zaqueo?",
+      "opciones": ["Murmuraron", "Aplaudieron a Zaqueo", "Se fueron a sus casas en silencio"],
+      "correcta": 0,
+      "explicacion": "Todos murmuraban porque Jesús entró a posar con «un hombre pecador» (Lucas 19:7)."
+    },
+    {
+      "pregunta": "¿Qué prometió Zaqueo a quien hubiera defraudado?",
+      "opciones": ["Pedirle perdón en el templo", "Darle un trabajo en su casa", "Devolverle cuatro veces más"],
+      "correcta": 2,
+      "explicacion": "La mitad de sus bienes iría a los pobres; al defraudado le devolvería «el cuatro tanto» (Lucas 19:8)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Zaqueo"
+}

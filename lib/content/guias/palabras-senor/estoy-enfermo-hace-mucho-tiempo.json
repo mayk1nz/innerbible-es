@@ -1,0 +1,97 @@
+{
+  "id": "estoy-enfermo-hace-mucho-tiempo",
+  "titulo": "Cuando estoy enfermo hace mucho tiempo",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Enfermedad", "Gracia"],
+  "enUnMinuto": [
+    "Tu enfermedad no es un castigo ni una prueba de poca fe.",
+    "Tu cuerpo puede desgastarse, pero Dios renueva tu interior día a día.",
+    "Primer paso: sigue tu tratamiento, pide que oren por ti y dile a Dios cómo te sientes de verdad."
+  ],
+  "versiculo": {
+    "texto": "Por tanto, no desmayamos: antes aunque este nuestro hombre exterior se va desgastando, el interior empero se renueva de día en día.",
+    "referencia": "2 Corintios 4:16"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Don Rogelio tiene 64 años y va a diálisis tres veces por semana. Antes trabajaba en la construcción; ahora casi no sale de casa. Un vecino le dijo que, si tuviera más fe, ya estaría sano. Desde entonces le cuesta orar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Aunque el cuerpo se desgaste, Dios renueva el interior de día en día (2 Corintios 4:16). Él no promete que toda enfermedad se irá en esta vida. Sí promete no dejarte solo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores comunes. Uno es creer que la enfermedad es castigo o falta de fe, y cargar con culpa. Cuando los discípulos preguntaron quién había pecado para que un hombre naciera ciego, Jesús rechazó esa idea (Juan 9:2-3).",
+        "El otro es dejar el tratamiento “porque Dios me va a sanar”. La Biblia no enfrenta la fe con la medicina. Cuando Dios sanó al rey Ezequías, el profeta mandó poner una masa de higos en la llaga (Isaías 38:21). Lucas, el compañero de Pablo, era médico (Colosenses 4:14)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Puedes pedir sanidad con confianza. Santiago invita al enfermo a llamar a los ancianos de la iglesia para que oren por él (Santiago 5:14). Pedir sanidad no es falta de fe. Seguir esperando sin verla, tampoco.",
+        "Pablo pidió tres veces que Dios le quitara un sufrimiento. Dios le respondió: «Bástate mi gracia» (2 Corintios 12:9). A veces Dios sana el cuerpo. Siempre acompaña con su gracia a quien espera en Él.",
+        "Tu valor no depende de lo que puedes hacer. Aun desde la cama puedes orar por otros, bendecir y enseñar con tu paciencia. Tu vida sigue teniendo propósito."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Sigue tu tratamiento y habla con tu médico de tus dudas; no lo dejes por tu cuenta (Isaías 38:21).",
+        "Pide que oren por ti: tu pastor, tu sacerdote o los hermanos de tu comunidad (Santiago 5:14).",
+        "Dile a Dios la verdad de cómo te sientes, también el cansancio y el enojo.",
+        "Busca una pequeña forma de servir desde donde estás: orar, llamar, escuchar.",
+        "Deja que otros te ayuden sin sentirte una carga (Gálatas 6:2)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Creo que Dios me ama menos por estar enfermo?",
+        "¿Estoy siguiendo mi tratamiento, o lo dejé por miedo o cansancio?",
+        "¿Por quién puedo orar hoy desde mi cama o mi sillón?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, desde donde estés, llama o escribe a otra persona enferma. Dile que estás orando por ella, y ora en ese momento, aunque sean dos frases. Tu dolor también puede consolar a otros. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "La mujer que tocó el manto llevaba doce años enferma y había gastado todo en médicos (Marcos 5:25-26). Jesús la llamó hija y la trató con ternura. Lee su ficha «La mujer que tocó el manto» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Una enfermedad larga cansa también el ánimo. Si sientes tristeza profunda, desesperanza o ganas de no seguir, díselo hoy a tu médico y a alguien de confianza. Buscar ayuda profesional no es falta de fe. En peligro, llama al número de emergencias."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "2 Corintios 4:16-18", "nota": "Lo de adentro se renueva." },
+        { "ref": "2 Corintios 12:7-10", "nota": "La gracia que basta." },
+        { "ref": "Marcos 5:25-34", "nota": "La mujer que tocó el manto." },
+        { "ref": "Salmo 73:26", "nota": "Dios es la roca de mi corazón." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, mi cuerpo está cansado, y a veces mi fe también. Te pido sanidad y te pido gracia para cada día. Renueva mi interior y úsame aun desde aquí. Amén."
+    }
+  ],
+  "estudio": ["2-corintios", "galilea-milagros"],
+  "buscar": "enfermedad"
+}

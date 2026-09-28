@@ -1,0 +1,92 @@
+{
+  "id": "necesito-pedir-perdon",
+  "titulo": "Cuando necesito pedir perdón",
+  "etiquetas": ["Perdón y heridas", "Reconciliación", "Humildad"],
+  "enUnMinuto": [
+    "Para Dios, arreglar las cuentas con tu hermano es tan urgente que va antes de la ofrenda.",
+    "Pedir perdón es decir con claridad qué hiciste, sin “pero”, y reparar lo que se pueda.",
+    "Primer paso: busca hoy a la persona que heriste y pregúntale si te perdona."
+  ],
+  "versiculo": {
+    "texto": "Por tanto, si trajeres tu presente al altar, y allí te acordares de que tu hermano tiene algo contra ti, Deja allí tu presente delante del altar, y vete, vuelve primero en amistad con tu hermano, y entonces ven y ofrece tu presente.",
+    "referencia": "Mateo 5:23-24"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "En una fiesta familiar, Arturo le gritó a su hija adolescente delante de sus amigas y la llamó inútil. Ya pasaron dos semanas. Ella casi no le habla. Arturo sabe que debe pedirle perdón, pero piensa: “Soy su padre, ¿cómo me voy a humillar?”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios pone la reconciliación antes que la ofrenda (Mateo 5:23-24). El que confiesa su falta y la deja alcanza misericordia (Proverbios 28:13)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Esperar a que el otro se olvide, o a que dé el primer paso. O pedir perdón a medias: “Perdón si te ofendiste”, “Perdón, pero tú también…”. Otros hacen un regalo o actúan como si nada hubiera pasado.",
+        "Nada de eso sana. La otra persona necesita oír que reconoces el daño. Sin palabras claras, la herida queda en silencio entre los dos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús dice algo sorprendente. Si recuerdas que tu hermano tiene algo contra ti, deja la ofrenda y ve primero a reconciliarte (Mateo 5:23-24). A Dios le importa cómo tratamos a los demás.",
+        "El hijo pródigo preparó sus palabras y fue a buscar a su padre. No se justificó. Dijo: «Padre, he pecado contra el cielo, y contra ti» (Lucas 15:18). Nombró su falta sin rodeos.",
+        "Zaqueo fue más allá: prometió devolver cuatro veces lo que había defraudado (Lucas 19:8). Pedir perdón incluye reparar lo que se pueda. Y la respuesta del otro no depende de ti. Tú haces tu parte (Romanos 12:18)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pide a Dios que te muestre lo que hiciste, sin defenderte (Salmos 139:23-24).",
+        "Prepara palabras claras: “Hice esto. Estuvo mal. Te lastimé. ¿Me perdonas?”. Sin “pero” y sin “si te ofendiste”.",
+        "Busca a la persona pronto, en privado y con humildad (Mateo 5:24).",
+        "Ofrece reparar lo que se pueda: devolver, corregir, cambiar una conducta (Lucas 19:8).",
+        "Respeta su respuesta y su tiempo. Si te pidió distancia, no la fuerces; puedes escribirle una carta."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy esperando que el otro dé el primer paso?",
+        "Cuando pido perdón, ¿suelo agregar un “pero”?",
+        "¿Qué me cuesta más: reconocer el error o perder mi imagen?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Llama o visita hoy a la persona que heriste. Di en una sola frase qué hiciste y pregunta: “¿Me perdonas?”. No expliques ni te justifiques. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Zaqueo no se quedó en palabras: reparó el daño que había hecho. Lee su ficha, «Zaqueo», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Mateo 5:21-26", "nota": "Reconciliarse primero." },
+        { "ref": "Lucas 15:11-24", "nota": "El hijo que vuelve y el padre que corre." },
+        { "ref": "Lucas 19:1-10", "nota": "Zaqueo repara lo que hizo." },
+        { "ref": "Salmos 51:1-12", "nota": "Una oración para un corazón arrepentido." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, reconozco que herí a alguien. Quita mi orgullo y mis excusas. Dame palabras humildes y valor para ir hoy. Sana lo que mis palabras rompieron. Y que se haga tu voluntad con su respuesta. Amén."
+    }
+  ],
+  "buscar": "reconciliación"
+}

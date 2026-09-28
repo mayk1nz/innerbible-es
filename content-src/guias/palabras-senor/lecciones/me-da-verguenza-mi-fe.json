@@ -1,0 +1,93 @@
+{
+  "id": "me-da-verguenza-mi-fe",
+  "titulo": "Cuando me da vergüenza mi fe",
+  "etiquetas": ["Hacedor de la Palabra", "Vergüenza", "Valentía"],
+  "enUnMinuto": [
+    "Sentir vergüenza de tu fe es común, sobre todo entre amigos, en el estudio o en el trabajo.",
+    "Jesús no te pide gritar, sino no esconder la luz que ya tienes.",
+    "Primer paso: menciona hoy tu fe con naturalidad en una conversación normal."
+  ],
+  "versiculo": {
+    "texto": "Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud a todo aquel que cree; al Judío primeramente y también al Griego.",
+    "referencia": "Romanos 1:16"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Valeria tiene 19 años y estudia en la universidad. Sus amigas no saben que va a la iglesia cada domingo. En un cumpleaños, todos empezaron a comer y ella no dio gracias, aunque en casa siempre lo hace. Esa noche sintió que había negado a alguien que ama."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El evangelio no es algo de qué avergonzarse: es poder de Dios para salvación (Romanos 1:16). Dios no te dio un espíritu de temor, sino de fortaleza y de amor (2 Timoteo 1:7)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es esconder la fe por completo, esperando “el momento ideal” que nunca llega. El error contrario es forzarse a predicar de golpe, con miedo, y sentirse peor.",
+        "Los dos nacen de la misma idea: pensar que la fe se muestra solo con discursos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús dijo que una lámpara no se esconde debajo de un cajón (Mateo 5:14-16). La luz se ve en las obras buenas, no solo en palabras. Tu honradez, tu trato y tu ayuda ya hablan de él.",
+        "José de Arimatea era discípulo en secreto, por miedo, y Nicodemo había ido a Jesús de noche. Pero llegó el día en que los dos dieron la cara por él (Juan 19:38-39). La valentía puede crecer poco a poco.",
+        "Pedro negó a Jesús tres veces por miedo (Lucas 22:57). Jesús no lo descartó: le preguntó tres veces si lo amaba y le dio una misión (Juan 21:15-17). Tu vergüenza de ayer no es tu final."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pregúntate de qué tienes miedo exactamente: ¿burla, rechazo, parecer anticuado?",
+        "Pide a Dios espíritu de fortaleza y de amor (2 Timoteo 1:7).",
+        "Empieza con algo pequeño y natural: dar gracias antes de comer, o decir “voy a orar por ti”.",
+        "Cuando te pregunten qué hiciste el domingo, responde la verdad con sencillez.",
+        "Busca a otro creyente en tu estudio o tu trabajo. Juntos es más fácil (Eclesiastés 4:9-10)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿En qué lugares escondo que soy cristiano?",
+        "¿Me importa más lo que piensan ellos o lo que piensa el Señor?",
+        "¿Mi vida diaria deja ver, sin palabras, a quién sigo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy alguien te preguntará cómo estás o qué hiciste. Menciona con naturalidad una cosa de tu fe: la misa, el culto, una oración o un versículo. Sin sermón, solo la verdad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Pedro, el que negó a Jesús por miedo, más tarde habló de él con valentía ante todos (Hechos 4:13). Lee su ficha, «Pedro», en Caminando con Gigantes. También Timoteo, joven y tímido, recibió este consejo: no te avergüences (2 Timoteo 1:8)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Romanos 1:16-17", "nota": "El poder del evangelio." },
+        { "ref": "2 Timoteo 1:6-8", "nota": "Espíritu de fortaleza, no de temor." },
+        { "ref": "Juan 19:38-42", "nota": "Dos discípulos que dieron la cara." },
+        { "ref": "Juan 21:15-19", "nota": "Jesús restaura a Pedro." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, perdóname por las veces que te escondí. No quiero avergonzarme de ti, que nunca te avergüenzas de llamarme tuyo. Dame espíritu de fortaleza y de amor. Que mi vida hable de ti con sencillez y alegría. Amén."
+    }
+  ],
+  "estudio": ["romanos", "2-timoteo"],
+  "buscar": "valentía"
+}

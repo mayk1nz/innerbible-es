@@ -1,0 +1,97 @@
+{
+  "id": "la-ira-me-domina",
+  "titulo": "Cuando la ira me domina",
+  "etiquetas": ["Emociones", "Ira", "Dominio propio"],
+  "enUnMinuto": [
+    "Sentir enojo no es pecado; dejar que el enojo mande sobre tus palabras y tus manos, sí.",
+    "La Biblia enseña a ser lento para airarse, a responder con suavidad y a arreglar las cosas el mismo día.",
+    "Primer paso: cuando sientas que el enojo sube, detente y sal del lugar unos minutos."
+  ],
+  "versiculo": {
+    "texto": "Airaos, y no pequéis; no se ponga el sol sobre vuestro enojo;",
+    "referencia": "Efesios 4:26"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Joaquín llega cansado del trabajo. Si encuentra juguetes en el piso, explota: grita y golpea la mesa. Sus hijos se callan cuando oyen el carro. Después se siente avergonzado, pero al día siguiente pasa lo mismo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El enojo puede llegar, pero no debe gobernar: «Airaos, y no pequéis» (Efesios 4:26). Sé pronto para oír y tardío para airarte. La ira del hombre no obra la justicia de Dios (Santiago 1:19-20)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Decir: “Así soy yo, tengo carácter fuerte”. O culpar a los demás: “Ellos me hacen enojar”. Así el enojo nunca cambia, porque siempre es culpa de otro.",
+        "Otros se tragan todo en silencio, hasta que un día explotan por algo pequeño. Ni el volcán ni la olla a presión sanan el corazón."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús también se enojó. Miró con enojo a quienes tenían el corazón duro. Y aun así hizo el bien: sanó al hombre de la mano seca (Marcos 3:5). Su enojo no hirió; sirvió al amor.",
+        "La Biblia dice que vale más dominar el propio espíritu que conquistar una ciudad (Proverbios 16:32). La respuesta suave calma el furor, y la palabra áspera lo enciende (Proverbios 15:1).",
+        "Pablo pide no dejar que el sol se ponga sobre el enojo (Efesios 4:26). Es decir: no lo guardes de un día para otro. Y el dominio propio no sale de la fuerza de voluntad sola. Es fruto del Espíritu (Gálatas 5:22-23)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Aprende tus señales: calor en la cara, puños cerrados, voz que sube. Cuando aparezcan, detente.",
+        "Sal del lugar diez minutos. Respira despacio y ora en silencio. El sabio calma su espíritu (Proverbios 29:11).",
+        "Pregúntate qué hay debajo del enojo: cansancio, miedo, humillación, una herida vieja.",
+        "Vuelve y habla bajo, con palabras suaves y concretas (Proverbios 15:1).",
+        "Si heriste a alguien, pide perdón antes de que termine el día (Efesios 4:26)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Con quién me enojo más, y por qué justo con esa persona?",
+        "¿Qué suele haber debajo de mi enojo?",
+        "¿Las personas de mi casa me tienen miedo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Acuerda hoy con tu familia una señal de pausa, como levantar la mano. Cuando la hagas o te la hagan, sal diez minutos del lugar, respira y ora. Luego vuelve a hablar con calma."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Sansón tenía una fuerza enorme, pero su enojo lo llevó de venganza en venganza (Jueces 15:7-8). Lee su ficha, «Sansón», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tu enojo llega a golpes, amenazas o cosas rotas, o si tu familia te tiene miedo, busca ayuda hoy. Habla con tu pastor o sacerdote y con un profesional. Pedir ayuda no es falta de fe. Si alguien corre peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 1:19-21", "nota": "Pronto para oír, tardío para airarse." },
+        { "ref": "Efesios 4:25-32", "nota": "Que el sol no se ponga sobre tu enojo." },
+        { "ref": "Proverbios 16:32", "nota": "Dominar el propio espíritu." },
+        { "ref": "Marcos 3:1-5", "nota": "El enojo de Jesús, al servicio del bien." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces el fuego que se enciende en mí. No quiero herir a los que amo. Dame tu dominio propio y un corazón manso. Enséñame a detenerme, a escuchar y a pedir perdón a tiempo. Amén."
+    }
+  ],
+  "estudio": ["efesios", "santiago"],
+  "buscar": "ira"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "mis-padres-son-dificiles",
+  "titulo": "Cuando mis padres son difíciles",
+  "etiquetas": ["Hijos y familia", "Padres", "Honra"],
+  "enUnMinuto": [
+    "Dios pide honrar a los padres, aun cuando no son fáciles de tratar.",
+    "Honrar no es aceptar maltrato ni obedecer en lo malo: es tratarlos con dignidad y buscar su bien.",
+    "Primer paso: separa lo que puedes cambiar en ti de lo que no puedes cambiar en ellos."
+  ],
+  "versiculo": {
+    "texto": "Honra a tu padre y a tu madre, porque tus días se alarguen en la tierra que Jehová tu Dios te da.",
+    "referencia": "Éxodo 20:12"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Gerardo tiene 40 años y todavía se pone tenso cuando llama su padre. Cada llamada termina en críticas: su trabajo, su esposa, cómo cría a sus hijos. Su madre siempre le da la razón al padre. Gerardo se pregunta si honrarlos significa aguantarlo todo en silencio."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Honrar a los padres es un mandamiento con promesa (Éxodo 20:12; Efesios 6:2-3). Honrar es dar valor y respeto, no dejar que alguien te destruya."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores frecuentes. Uno es cortar toda relación por rabia, sin pedir dirección a Dios. El otro es aguantarlo todo en silencio, hasta que la amargura estalla o enferma. En los dos casos, la herida es la que manda. Ni el odio ni la sumisión ciega honran a Dios ni a tus padres."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús defendió el deber de cuidar a los padres. Criticó a quienes usaban excusas religiosas para no ayudarlos (Mateo 15:4-6). Honrar incluye cosas concretas: hablarles con respeto, no maldecirlos, ayudarlos cuando lo necesitan.",
+        "Pero honrar no es obedecer en lo que va contra Dios ni aceptar el abuso. Puedes responder con calma y firmeza, porque la respuesta suave quita la ira (Proverbios 15:1). Puedes limitar el tiempo o los temas de conversación. Eso también es amor: evita que la relación se rompa del todo.",
+        "Y si tus padres te fallaron gravemente, Dios no te deja sin amor. El salmista dijo: «Aunque mi padre y mi madre me dejaran, Jehová con todo me recogerá» (Salmo 27:10). Tu valor no depende de su aprobación."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe qué te duele de la relación. Llévalo a Dios en oración antes de hablar con ellos.",
+        "Distingue: ¿es un carácter difícil o es maltrato? Si es maltrato, busca ayuda primero.",
+        "Decide cómo vas a honrarlos esta semana: una llamada, una visita corta, una ayuda concreta.",
+        "Cuando critiquen, responde con calma y sin atacar: “Te escucho, pero esta decisión es mía” (Proverbios 15:1).",
+        "Ora por ellos. Pide a Dios que sane su corazón y también el tuyo."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Trato a mis padres con respeto, aunque no esté de acuerdo con ellos?",
+        "¿Estoy aguantando en silencio algo que debería hablar con calma?",
+        "¿Busco la aprobación de mis padres más que la de Dios?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Llama hoy a tu padre o a tu madre solo para preguntar cómo está. Si empieza la crítica, responde con calma: “Te quiero; hablamos otro día”. Si hay maltrato, no llames: busca ayuda primero."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tu padre o tu madre te golpea, te amenaza o abusa de ti, tu seguridad va primero. Honrar no es seguir en peligro, y poner límites es bíblico. Habla hoy con alguien de confianza, tu pastor o sacerdote o un profesional. En peligro, llama a un número de emergencia. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Efesios 6:1-4", "nota": "Deberes de los hijos y de los padres." },
+        { "ref": "Mateo 15:3-9", "nota": "Jesús defiende el cuidado de los padres." },
+        { "ref": "Salmo 27:7-10", "nota": "Dios recoge a quien se siente abandonado." },
+        { "ref": "Proverbios 15:1-4", "nota": "La respuesta suave." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre del cielo, tú conoces mi historia con mis padres. Enséñame a honrarlos sin perderme a mí mismo. Sana lo que me duele y dame palabras con gracia. Recuérdame que en ti tengo un Padre que nunca me deja. Amén."
+    }
+  ],
+  "estudio": ["exodo", "efesios"],
+  "buscar": "honra a tu padre"
+}

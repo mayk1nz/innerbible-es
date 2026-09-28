@@ -1,0 +1,117 @@
+{
+  "id": "naaman",
+  "titulo": "Naamán",
+  "subtitulo": "Cuando el orgullo se interpone en tu sanidad",
+  "etiquetas": ["Enfermedad y orgullo", "Siglo IX a.C.", "Siria e Israel"],
+  "enUnMinuto": [
+    "Naamán es un general poderoso de Siria, pero tiene lepra.",
+    "El profeta Eliseo le manda lavarse siete veces en el Jordán, y Naamán se va enojado, porque esperaba algo grande.",
+    "Sus criados lo convencen, él obedece con humildad y su piel queda como la de un niño."
+  ],
+  "versiculo": {
+    "texto": "El entonces descendió, y zambullose siete veces en el Jordán, conforme a la palabra del varón de Dios: y su carne se volvió como la carne de un niño, y fue limpio.",
+    "referencia": "2 Reyes 5:14"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Estás acostumbrado a resolver tus problemas sin ayuda. Pero ahora hay algo que no puedes controlar: una enfermedad, un diagnóstico, una debilidad. Te cuesta pedir ayuda o aceptar consejos. Quizás el camino que te proponen te parece demasiado simple, o te da vergüenza. Y a veces el enojo esconde el miedo. Si hoy te sientes así, Naamán también tuvo que bajar del carro."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Naamán es general del ejército del rey de Siria. Es un hombre valiente y muy respetado, «pero leproso» (2 Reyes 5:1). En su casa sirve una muchacha israelita, llevada cautiva. Ella le dice a su señora que el profeta de Samaria podría sanarlo (2 Reyes 5:2-3).",
+        "Naamán viaja con cartas del rey, plata, oro y ropa fina (2 Reyes 5:5-6). Llega con sus caballos y su carro a la puerta de Eliseo. Pero el profeta ni siquiera sale. Solo le manda un mensaje: «Ve, y lávate siete veces en el Jordán» (2 Reyes 5:9-10).",
+        "Naamán se enoja mucho. Esperaba que el profeta saliera, invocara a Dios y moviera la mano sobre la llaga (2 Reyes 5:11). Además, ¿no eran mejores los ríos de Damasco? Y se va furioso (2 Reyes 5:12).",
+        "Sus criados le dicen: «Padre mío, si el profeta te mandara alguna gran cosa, ¿no la hicieras?» (2 Reyes 5:13). Naamán baja y se sumerge siete veces en el Jordán. Su piel queda como la de un niño (2 Reyes 5:14). Vuelve agradecido y reconoce que no hay otro Dios en toda la tierra como el de Israel (2 Reyes 5:15)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Naamán tenía una idea de cómo debía ser su sanidad. Él mismo lo dijo: «He aquí yo decía para mí» (2 Reyes 5:11). Esperaba respeto, ceremonia, algo digno de un general. Y le pidieron algo sencillo y humilde, en un río que despreciaba. Podemos imaginar el golpe a su orgullo, quizás más fuerte que el dolor de su piel. A veces el enojo es miedo con armadura."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Naamán estuvo a punto de volver a casa enfermo, por orgullo. Pero decidió escuchar a sus criados. Es notable: un general escuchó a una muchacha cautiva y a sus sirvientes. Bajó y entró al agua como cualquier otro.",
+        "Y no se sumergió una sola vez para probar. Lo hizo siete veces, «conforme a la palabra del varón de Dios» (2 Reyes 5:14). Después volvió a dar gracias. La sanidad de su piel fue también el comienzo de un corazón nuevo."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Escucha a las personas sencillas que Dios pone a tu lado (2 Reyes 5:2-3, 13).",
+        "Reconoce tu enojo y pregúntate qué miedo esconde (2 Reyes 5:11-12; Santiago 1:19-20).",
+        "Da el paso humilde que te toca, aunque parezca poco (2 Reyes 5:14; 1 Pedro 5:5-6).",
+        "Vuelve a dar gracias, como Naamán (2 Reyes 5:15; Lucas 17:15-16)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús recordó a Naamán en Nazaret: Dios había mostrado su bondad a un extranjero (Lucas 4:27). La gracia de Dios no se compra con plata ni oro; por eso Eliseo no aceptó regalos (2 Reyes 5:16). Así es con Jesús: da gratis, pero pide un corazón humilde. «Venid a mí todos los que estáis trabajados y cargados» (Mateo 11:28)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Pedir ayuda no es debilidad. A veces el paso que Dios usa es sencillo: ir al médico, seguir el tratamiento, aceptar un consejo, pedir perdón. Dios no siempre sana como esperamos, pero siempre recibe al corazón humilde. Esta semana: haz esa cita o esa llamada que vienes dejando para después por orgullo o por miedo. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "La historia de Naamán no es un llamado a dejar la medicina. Sigue las indicaciones de tu médico y no cambies un tratamiento por tu cuenta. Si la enfermedad te trae mucha tristeza o miedo, habla hoy con alguien de confianza, con tu pastor o sacerdote. En una emergencia, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "2 Reyes 5:1-7", "nota": "El general enfermo y la muchacha cautiva." },
+        { "ref": "2 Reyes 5:8-14", "nota": "Siete veces en el Jordán." },
+        { "ref": "2 Reyes 5:15-19", "nota": "Naamán vuelve a dar gracias." },
+        { "ref": "Lucas 4:24-27", "nota": "Jesús recuerda a Naamán." },
+        { "ref": "Santiago 4:6", "nota": "Dios da gracia a los humildes." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quita el orgullo que me impide recibir tu ayuda. Dame humildad para escuchar consejos y para dar el paso sencillo que me pides. Pongo en tus manos mi cuerpo y mi salud. Y enséñame a volver para darte gracias. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Por qué nos cuesta tanto pedir o aceptar ayuda?",
+        "¿Qué papel tuvo la muchacha cautiva en la historia de Naamán?",
+        "¿En qué situación te pide Dios hoy un paso sencillo y humilde?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién le habló a Naamán del profeta de Samaria?",
+      "opciones": ["El rey de Israel", "Un sacerdote de Damasco", "Una muchacha israelita cautiva"],
+      "correcta": 2,
+      "explicacion": "La muchacha que servía a la mujer de Naamán habló del profeta que podía sanarlo (2 Reyes 5:2-3)."
+    },
+    {
+      "pregunta": "¿Qué le mandó Eliseo a Naamán?",
+      "opciones": ["Lavarse siete veces en el Jordán", "Ofrecer un sacrificio en el templo", "Ayunar cuarenta días"],
+      "correcta": 0,
+      "explicacion": "Eliseo le mandó decir: «Ve, y lávate siete veces en el Jordán» (2 Reyes 5:10)."
+    },
+    {
+      "pregunta": "¿Por qué Naamán se fue enojado al principio?",
+      "opciones": ["Porque Eliseo le pidió mucho dinero", "Porque esperaba algo más grande y digno", "Porque el Jordán estaba seco"],
+      "correcta": 1,
+      "explicacion": "Esperaba que el profeta saliera e invocara a Dios, y prefería los ríos de Damasco (2 Reyes 5:11-12)."
+    }
+  ],
+  "estudio": ["2-reyes-1-14"],
+  "buscar": "Naamán"
+}

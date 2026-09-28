@@ -1,0 +1,90 @@
+{
+  "id": "los-celos-me-quitan-la-paz",
+  "titulo": "Cuando los celos me quitan la paz",
+  "etiquetas": ["Emociones", "Celos", "Confianza"],
+  "enUnMinuto": [
+    "Debajo de los celos casi siempre hay miedo, y el amor de Dios echa fuera el temor.",
+    "El control destruye lo que quiere proteger; la confianza crece con verdad, diálogo y sanidad.",
+    "Primer paso: separa lo que sabes de lo que imaginas, y habla sin acusar."
+  ],
+  "versiculo": {
+    "texto": "En amor no hay temor; mas el perfecto amor echa fuera el temor: porque el temor tiene pena. De donde el que teme, no está perfecto en el amor.",
+    "referencia": "1 Juan 4:18"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Mónica revisa el celular de su esposo cada vez que él llega tarde. Él nunca le ha sido infiel, pero su primer novio sí lo fue. Si su esposo saluda a una compañera, Mónica pasa la noche imaginando cosas. Discuten casi todas las semanas."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El temor atormenta, y el amor perfecto de Dios echa fuera el temor (1 Juan 4:18). El amor no piensa el mal: cree, espera y soporta (1 Corintios 13:5-7)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Controlar: revisar el celular, interrogar, prohibir amistades, seguir cada movimiento. Parece cuidado, pero asfixia la relación y confirma el miedo.",
+        "Otros callan y dejan que la imaginación trabaje sola. O acusan sin pruebas. En todos los casos, los celos crecen, y la paz se va de la casa."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia reconoce la fuerza de los celos: son duros como el sepulcro, brasas de fuego (Cantares 8:6). No es algo pequeño. Por eso hay que llevarlo a Dios y no alimentarlo.",
+        "Juan dice que el temor trae tormento, y que el amor perfecto lo echa fuera (1 Juan 4:18). Muchas veces los celos nacen de una herida vieja, no de lo que pasa hoy. Cuando te sabes amado por Dios, puedes amar sin aferrarte con miedo.",
+        "El amor no piensa el mal y todo lo cree (1 Corintios 13:5-7). Eso no significa ser ingenuo. Si hay señales reales, se habla con la verdad y con amor (Efesios 4:15). Y se cuida el corazón, porque de él mana la vida (Proverbios 4:23)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Reconoce el miedo que hay debajo de tus celos, y díselo a Dios (1 Juan 4:18).",
+        "Separa los hechos de las imaginaciones. No creas todo lo que tu mente te dice (1 Corintios 13:5).",
+        "Habla con tu pareja sin acusar: “Me siento inseguro cuando pasa esto” (Efesios 4:15).",
+        "Deja de revisar y de vigilar. El control no produce confianza.",
+        "Si tus celos vienen de una herida vieja, trabájala con un consejero o un profesional."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mis celos se basan en hechos o en miedos?",
+        "¿De dónde viene este miedo a perder a quien amo?",
+        "¿Mi manera de cuidar la relación la está asfixiando?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy haz un gesto de confianza: no revises su celular ni sus redes. Y dile a tu pareja, con palabras, una cosa que valoras de ella. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los celos que controlan, prohíben, amenazan o aíslan no son amor. Si tu pareja te controla o te maltrata, tu seguridad va primero. Busca ayuda y, en peligro, llama a un número de emergencia. Si eres tú quien no logra frenar sus celos, busca un consejero o un profesional. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Juan 4:16-19", "nota": "El amor perfecto echa fuera el temor." },
+        { "ref": "1 Corintios 13:4-7", "nota": "Cómo es el amor verdadero." },
+        { "ref": "Cantares 8:6-7", "nota": "La fuerza del amor y de los celos." },
+        { "ref": "Proverbios 4:23", "nota": "Guarda tu corazón." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, tengo miedo de perder a quien amo, y ese miedo me roba la paz. Sana mis heridas viejas. Lléname de tu amor para que pueda confiar. Ayúdame a hablar con verdad y a amar sin controlar. Amén."
+    }
+  ],
+  "estudio": ["1-corintios"],
+  "buscar": "celos"
+}

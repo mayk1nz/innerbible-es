@@ -1,0 +1,87 @@
+{
+  "id": "mi-pareja-no-comparte-mi-fe",
+  "titulo": "Cuando mi pareja no comparte mi fe",
+  "etiquetas": ["Matrimonio y pareja", "Fe en casa", "Testimonio"],
+  "enUnMinuto": [
+    "Tu pareja no se acerca a Dios por presión, sino viendo a Cristo en tu manera de vivir.",
+    "El primer paso es dejar de insistir con palabras y empezar a amar con obras, orando en silencio."
+  ],
+  "versiculo": {
+    "texto": "Asimismo vosotras, mujeres, sed sujetas a vuestros maridos; para que también los que no creen a la palabra, sean ganados sin palabra por la conversación de sus mujeres,",
+    "referencia": "1 Pedro 3:1"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Cada domingo Mercedes va sola a misa. Su esposo, Raúl, se queda viendo el fútbol y a veces bromea: “Reza también por mí”. Ella le deja folletos en la mesa y lo invita siempre. Él se molesta más cada vez, y ella siente que carga la fe sola."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La fe se contagia más por la vida que por los sermones. Una conducta llena de amor puede ganar a quien no cree, «sin palabra» (1 Pedro 3:1-2)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Queremos tanto que nuestra pareja conozca a Dios que lo presionamos. Insistimos, predicamos en cada comida, lo comparamos con otros esposos de la iglesia. O, al revés, nos alejamos por dentro y lo tratamos como si fuera menos. Las dos cosas producen el mismo efecto: la fe le parece una carga, no una buena noticia."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pedro escribe a esposas con maridos que no creían. En español antiguo, «conversación» quiere decir manera de vivir. Pedro no les pide convencer con discursos, sino vivir con pureza y respeto (1 Pedro 3:1-2). El principio vale también para los esposos: Pedro les pide honrar a su mujer (1 Pedro 3:7).",
+        "Pablo dice que si el cónyuge que no cree quiere seguir juntos, no hay que dejarlo. Tu presencia fiel santifica tu hogar (1 Corintios 7:12-14). Y cuando te pregunten por tu fe, responde «con mansedumbre y reverencia» (1 Pedro 3:15). Tu tarea es amar y orar. Cambiar el corazón es tarea de Dios."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Deja de insistir y de dejarle folletos. Dile con cariño que lo respetas.",
+        "Ora cada día por tu pareja, por su nombre, sin que sea un reclamo.",
+        "Sé la mejor esposa o el mejor esposo que puedas: paciencia, alegría, servicio (1 Pedro 3:1-2).",
+        "Vive tu fe con constancia, pero sin descuidar el tiempo en familia.",
+        "Cuando pregunte algo, responde con sencillez y sin sermones (1 Pedro 3:15)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi pareja ve en mí más alegría o más reclamos desde que voy a la iglesia?",
+        "¿Estoy tratando de cambiar lo que solo Dios puede cambiar?",
+        "¿Respeto su libertad como Dios la respeta?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Haz hoy algo concreto por tu pareja, sin mencionar la iglesia. Prepárale algo que le guste o ayúdale en una tarea. Esta noche, ora por él o ella por su nombre, en silencio."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tu pareja te prohíbe practicar tu fe con amenazas, burlas constantes o violencia, eso ya no es diferencia de creencias. Busca apoyo en alguien de confianza y en tu pastor o sacerdote. Tu seguridad va primero."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Pedro 3:1-7", "nota": "Ganar sin palabras, con la vida." },
+        { "ref": "1 Corintios 7:12-16", "nota": "Cuando uno de los dos no cree." },
+        { "ref": "1 Pedro 3:15-16", "nota": "Responder con mansedumbre." },
+        { "ref": "Mateo 5:14-16", "nota": "Que tu luz se vea en tus obras." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, pongo en tus manos a mi pareja. Tú lo amas más que yo. Líbrame de presionar y de juzgar. Que vea tu amor en mi manera de vivir. Y obra en su corazón a tu tiempo. Amén."
+    }
+  ],
+  "estudio": ["1-pedro", "1-corintios"],
+  "buscar": "matrimonio y fe"
+}

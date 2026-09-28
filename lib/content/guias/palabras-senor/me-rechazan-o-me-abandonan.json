@@ -1,0 +1,90 @@
+{
+  "id": "me-rechazan-o-me-abandonan",
+  "titulo": "Cuando me rechazan o me abandonan",
+  "etiquetas": ["Identidad y autoestima", "Rechazo", "Abandono"],
+  "enUnMinuto": [
+    "Aunque las personas se vayan, Dios no te suelta: Él recoge al que otros dejaron.",
+    "El primer paso es no cargar el rechazo en silencio: llévalo a Dios y a alguien de confianza."
+  ],
+  "versiculo": {
+    "texto": "Aunque mi padre y mi madre me dejaran, Jehová con todo me recogerá.",
+    "referencia": "Salmos 27:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Beatriz tenía todo listo para su boda: el vestido, la iglesia, los invitados. Dos meses antes, su novio le escribió un mensaje y se fue. No dio explicaciones. Ahora ella se pregunta cada noche qué tiene de malo para que la dejen así."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El rechazo de una persona no define tu valor. Dios promete recoger al que otros dejaron y no echar fuera al que viene a Él (Salmos 27:10; Juan 6:37)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Cuando alguien nos rechaza, creemos que el problema somos nosotros. Entonces hacemos una de dos cosas. Nos cerramos para que nadie más nos lastime. O rogamos, cambiamos y nos humillamos para que la otra persona vuelva. Ninguna sana la herida. La primera nos deja solos; la segunda nos deja sin dignidad."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús conoce este dolor desde adentro. El profeta lo describe «Despreciado y desechado entre los hombres» (Isaías 53:3). Sus amigos lo dejaron solo la noche en que más los necesitaba. Por eso no te mira desde lejos: te entiende.",
+        "Dios también te habla con ternura de madre. Una madre podría olvidar a su hijo, pero Él dice: «yo no me olvidaré de ti» (Isaías 49:15). Y Jesús promete: «al que a mí viene, no le hecho fuera» (Juan 6:37). El rechazo duele de verdad, y está bien llorarlo. Pero no tiene la última palabra sobre quién eres."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Permítete llorar. Cuéntale a Dios lo que pasó, con tus palabras, sin adornos (Salmos 62:8).",
+        "No te repitas “algo malo hay en mí”. Separa lo que hiciste mal de lo que fue decisión del otro.",
+        "No ruegues ni persigas a quien se fue. Cuida tu dignidad y tu corazón.",
+        "Busca a personas que sí están: familia, amigos, tu comunidad de fe.",
+        "Cuando estés listo, entrega a Dios el deseo de revancha y empieza a perdonar."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Le estoy dando a este rechazo el poder de decir quién soy?",
+        "¿Qué personas buenas sigo teniendo cerca y no estoy viendo?",
+        "¿Qué me dice Dios de mí, que es más verdadero que lo que siento hoy?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "No guardes esto solo. Hoy llama o visita a una persona de confianza y cuéntale lo que te pasó. Pídele que ore contigo, aunque sea un minuto."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Agar fue despreciada y terminó sola en el desierto. Allí Dios la encontró, y ella lo llamó «el Dios de la vista», el que la veía. Lee su historia en la ficha «Agar» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 27:1-14", "nota": "Aunque todos me dejen, el Señor me recoge." },
+        { "ref": "Isaías 49:14-16", "nota": "Dios no se olvida de ti." },
+        { "ref": "Génesis 16:6-13", "nota": "El Dios que ve a Agar en el desierto." },
+        { "ref": "Juan 6:35-40", "nota": "Jesús no echa fuera al que viene." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me duele que me dejaran. Tú también fuiste rechazado, y me entiendes. Recógeme, sana mi corazón y no dejes que este dolor diga quién soy. Gracias porque tú no te vas. Amén."
+    }
+  ],
+  "estudio": ["salmos", "isaias"],
+  "buscar": "rechazo"
+}

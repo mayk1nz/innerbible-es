@@ -1,0 +1,97 @@
+{
+  "id": "me-presionan-para-decidir-ya",
+  "titulo": "Cuando me presionan para decidir ya",
+  "etiquetas": ["Decisiones y dirección", "Presión", "Prudencia"],
+  "enUnMinuto": [
+    "La Biblia advierte que actuar sin conocimiento y con prisa lleva a equivocarse.",
+    "Cuando alguien te exige una respuesta inmediata, tienes derecho a pedir tiempo para orar y pensar.",
+    "Primer paso: aprende a decir con calma: “Déjame pensarlo y te respondo”."
+  ],
+  "versiculo": {
+    "texto": "El alma sin ciencia no es buena; y el presuroso de pies peca.",
+    "referencia": "Proverbios 19:2"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Un vendedor llamó a don Alberto, de 70 años, a su casa en Santiago de Chile. Le ofreció un seguro con descuento, “solo por hoy”. Le pedía los datos de su tarjeta en ese mismo momento. Don Alberto se sintió presionado y casi se los dio."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Actuar sin conocimiento no es bueno, y el que anda con prisa se equivoca de camino (Proverbios 19:2). Pedir tiempo para pensar y orar es sabiduría, no debilidad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchas personas creen que decir “todavía no sé” es de mala educación. Otras sienten que, si no aprovechan ya, perderán la oportunidad de su vida. Así se firman préstamos, ventas, fianzas y compromisos que después pesan años.",
+        "Esaú volvió del campo agotado y con hambre. Dijo que se iba a morir y, por un plato de lentejas, vendió su primogenitura (Génesis 25:29-34). Una necesidad del momento le hizo perder algo de mucho valor."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia enseña a no decidir con prisa. El que confía en Dios no necesita apresurarse (Isaías 28:16). Pedir tiempo es una manera de poner la decisión en sus manos.",
+        "También advierte contra salir de fiador por deudas ajenas sin pensar (Proverbios 22:26-27). Y si ya te comprometiste mal, anima a buscar con humildad y urgencia cómo salir de ese compromiso (Proverbios 6:1-5).",
+        "Jesús enseñó a hablar claro: que tu sí sea sí, y tu no sea no (Mateo 5:37). No tienes que dar largas explicaciones. Un no amable y firme también honra a Dios."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuando te presionen, respira y di: “Necesito tiempo para pensarlo”.",
+        "Desconfía de lo que es “solo por hoy”, sobre todo si te piden dinero, firmas o datos.",
+        "Nunca des números de tarjeta, claves ni documentos por teléfono o por mensaje.",
+        "Consulta con alguien de confianza antes de firmar o pagar.",
+        "Ora antes de responder. Si después de orar no tienes paz, di que no (Mateo 5:37)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Quién gana si decido ahora mismo, sin pensar?",
+        "¿Qué es lo peor que pasaría si pido un día más?",
+        "¿Me cuesta decir que no por miedo a quedar mal?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe esta frase en un papel: “No decido nada importante sin orar y consultar”. Pégala junto al teléfono o a la puerta. Si hoy alguien te presiona, léela en voz alta antes de responder."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Esaú cambió su herencia por un plato de comida, en un momento de hambre y prisa. Años después, los dos hermanos seguían viviendo las consecuencias. Lee «Jacob y Esaú» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si ya entregaste datos o dinero por presión, no te avergüences. Llama hoy a tu banco y avísale a un familiar de confianza. Si firmaste una deuda que no puedes pagar, busca orientación legal o financiera. Pedir ayuda es sabiduría, no falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Génesis 25:29-34", "nota": "Esaú decide con hambre y con prisa." },
+        { "ref": "Proverbios 6:1-5", "nota": "Cómo salir de un mal compromiso." },
+        { "ref": "Isaías 28:16", "nota": "El que cree no se apresura." },
+        { "ref": "Mateo 5:33-37", "nota": "Que tu sí sea sí, y tu no sea no." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me cuesta decir que no, y me asusto cuando me apuran. Dame calma para pedir tiempo y valor para responder con verdad. Protégeme de engaños y de decisiones que después pesan. Quiero decidir contigo. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "prudencia"
+}

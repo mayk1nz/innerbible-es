@@ -1,0 +1,116 @@
+{
+  "id": "jeremias",
+  "titulo": "Jeremías",
+  "subtitulo": "Cuando nadie te escucha ni te entiende",
+  "etiquetas": ["Rechazo", "Soledad", "El reino dividido"],
+  "enUnMinuto": [
+    "Jeremías habló de parte de Dios por décadas: se burlaron de él, lo golpearon y lo echaron a una cisterna.",
+    "Llegó a maldecir el día en que nació, pero siguió llevando su dolor a Dios.",
+    "En medio del rechazo descubrió que el Señor estaba con él «como poderoso gigante»."
+  ],
+  "versiculo": {
+    "texto": "Mas Jehová está conmigo como poderoso gigante; por tanto los que me persiguen tropezarán, y no prevalecerán; serán avergonzados en gran manera, porque no prosperarán; tendrán perpetua confusión que jamás será olvidada.",
+    "referencia": "Jeremías 20:11"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás hablas y nadie te escucha. En tu casa, en tu trabajo o en tu comunidad te ven como el exagerado, el que siempre molesta. Algunos hasta se burlan de ti. Tal vez tu propia familia no te entiende. Y a veces la soledad pesa tanto que te preguntas para qué naciste."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Jeremías era de una familia de sacerdotes de Anatot (Jeremías 1:1). Dios lo llamó cuando era joven. Él respondió: «no sé hablar, porque soy niño». Dios le dijo: «No temas… contigo soy para librarte» (Jeremías 1:6-8).",
+        "Durante veintitrés años avisó al pueblo, madrugando para hablarles, y no lo oyeron (Jeremías 25:3). Los hombres de su propio pueblo querían matarlo (Jeremías 11:21). Hasta sus hermanos se levantaron contra él (Jeremías 12:6). Dios le pidió no casarse ni tener hijos en aquel tiempo (Jeremías 16:1-2).",
+        "Un sacerdote lo golpeó y lo puso en el cepo (Jeremías 20:2). El rey Joacim quemó en un brasero el rollo con sus palabras (Jeremías 36:23). Más tarde lo acusaron de desanimar al pueblo. Lo bajaron con sogas a una cisterna sin agua, y se hundió en el lodo (Jeremías 38:4-6)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Jeremías no escondió lo que sentía. Dijo: «cada día he sido escarnecido; cada cual se burla de mí» (Jeremías 20:7). Quiso callarse, pero la palabra de Dios era «como un fuego ardiente metido en mis huesos» (Jeremías 20:9). Y en su peor momento dijo: «Maldito el día en que nací» (Jeremías 20:14). Amaba a Dios y, a la vez, estaba agotado de sufrir."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Jeremías decidió no guardarse su dolor: se lo contaba a Dios, con palabras fuertes y sinceras. En esas mismas oraciones recordaba: «tu palabra me fue por gozo y por alegría de mi corazón» (Jeremías 15:16). No cambió el mensaje para caer bien. Cuando quemaron su rollo, lo volvió a escribir (Jeremías 36:28).",
+        "Y Dios no lo dejó solo. En la cisterna, un extranjero llamado Ebed-melec habló con el rey para salvarlo. Le bajó trapos viejos para que las sogas no lo lastimaran, y lo sacaron del lodo (Jeremías 38:7-13). La ayuda llegó de quien menos se esperaba."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Dile a Dios la verdad de lo que sientes. Jeremías oró con enojo, tristeza y cansancio, y Dios lo escuchó (Jeremías 15:15-18; 20:7-18).",
+        "Aliméntate de la Palabra cuando otros te rechazan. Jeremías “comía” las palabras de Dios y le daban alegría (Jeremías 15:16).",
+        "No midas tu valor por los aplausos. Jeremías siguió siendo fiel aunque no lo escuchaban (Jeremías 25:3; 36:28).",
+        "Recibe la ayuda que Dios te manda, aunque venga de alguien inesperado, como Ebed-melec (Jeremías 38:7-13)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Algunos pensaban que Jesús era Jeremías (Mateo 16:14). No es raro: Jesús también lloró por su ciudad (Lucas 19:41). También fue rechazado por los suyos: «A lo suyo vino, y los suyos no le recibieron» (Juan 1:11). Por eso Jesús entiende tu soledad desde adentro. Él no se burla de tu dolor: lo carga contigo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Que no te escuchen no significa que no valgas ni que Dios te haya dejado. Esta semana: escribe una oración honesta, como las de Jeremías, con todo lo que sientes. Después busca a una persona de confianza y cuéntale cómo estás. Deja que alguien sea tu Ebed-melec. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la soledad o el rechazo te hacen desear no haber nacido, o no seguir viviendo, no lo cargues en silencio. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un médico o profesional. Si estás en peligro, llama ahora a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Jeremías 1:4-10", "nota": "Dios llama al joven Jeremías." },
+        { "ref": "Jeremías 15:10-21", "nota": "Su queja y la respuesta de Dios." },
+        { "ref": "Jeremías 20:7-18", "nota": "Un fuego en los huesos y un día muy oscuro." },
+        { "ref": "Jeremías 36:20-28", "nota": "El rey quema el rollo." },
+        { "ref": "Jeremías 38:1-13", "nota": "En la cisterna, y el rescate de Ebed-melec." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, a veces siento que nadie me escucha ni me entiende. Tú sí me escuchas. Recibe mi cansancio y mi tristeza. Quédate conmigo como poderoso gigante, y mándame la ayuda que necesito. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Alguna vez sentiste que hablabas y nadie te escuchaba? ¿Qué te ayudó?",
+        "Jeremías oraba con palabras muy fuertes. ¿Qué nos enseña eso sobre la sinceridad con Dios?",
+        "¿Quién ha sido un Ebed-melec para ti? ¿Para quién podrías serlo tú?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué respondió Jeremías cuando Dios lo llamó?",
+      "opciones": ["Que no sabía hablar porque era niño", "Que estaba listo para ir", "Que su familia no lo dejaba"],
+      "correcta": 0,
+      "explicacion": "Jeremías dijo: «no sé hablar, porque soy niño» (Jeremías 1:6)."
+    },
+    {
+      "pregunta": "¿Qué hizo el rey Joacim con el rollo de Jeremías?",
+      "opciones": ["Lo guardó en el templo", "Lo leyó al pueblo", "Lo quemó en un brasero"],
+      "correcta": 2,
+      "explicacion": "El rey lo cortó y lo echó al fuego del brasero (Jeremías 36:23)."
+    },
+    {
+      "pregunta": "¿Quién ayudó a sacar a Jeremías de la cisterna?",
+      "opciones": ["Su hermano", "Ebed-melec, un etíope", "El sacerdote Pasur"],
+      "correcta": 1,
+      "explicacion": "Ebed-melec habló con el rey y lo sacó con sogas y trapos viejos (Jeremías 38:7-13)."
+    }
+  ],
+  "estudio": ["jeremias"],
+  "buscar": "Jeremías"
+}

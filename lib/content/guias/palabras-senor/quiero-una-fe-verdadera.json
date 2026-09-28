@@ -1,0 +1,93 @@
+{
+  "id": "quiero-una-fe-verdadera",
+  "titulo": "Cuando quiero una fe verdadera",
+  "etiquetas": ["Hacedor de la Palabra", "Fe viva", "Misericordia"],
+  "enUnMinuto": [
+    "Una fe verdadera no es solo saber oraciones o ir a la iglesia: se nota en cómo amas.",
+    "Dios ya dijo lo que le importa: hacer justicia, amar la misericordia y caminar humilde con él.",
+    "Primer paso: visita o llama hoy a alguien que está solo o en necesidad."
+  ],
+  "versiculo": {
+    "texto": "Oh hombre, él te ha declarado qué sea lo bueno, y qué pida de ti Jehová: solamente hacer juicio, y amar misericordia, y humillarte para andar con tu Dios.",
+    "referencia": "Miqueas 6:8"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Teresa tiene 58 años y ha ido a la iglesia toda su vida. Sabe los rezos, los cantos y las fechas de cada fiesta. Pero una noche se preguntó: “¿Esto es todo? ¿Conozco a Dios o solo lo repito?”. Siente hambre de algo más real."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios no busca una religión de apariencia, sino una fe que se vuelve amor concreto. Él pide hacer justicia, amar la misericordia y caminar humilde con él (Miqueas 6:8)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es despreciar todo lo que uno conoce y salir a buscar solo experiencias nuevas. Otro es llenarse de más actividades, esperando que la cantidad traiga vida.",
+        "Pero la rutina no se cura con más rutina. Se cura volviendo al corazón: a Dios y al prójimo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Dios se lamentó de un pueblo que lo honraba con los labios, mientras su corazón estaba lejos (Isaías 29:13). El problema no eran las oraciones. Era que el corazón no estaba en ellas. Tus oraciones de siempre pueden llenarse de vida si las dices de verdad.",
+        "Jesús resumió la ley en dos amores. Amar a Dios con todo el corazón, y al prójimo como a ti mismo (Mateo 22:37-39). Santiago lo hace concreto: visitar a los huérfanos y a las viudas en su aflicción (Santiago 1:27).",
+        "Somos salvos por gracia, como un regalo de Dios. Y fuimos creados para las buenas obras que él preparó (Efesios 2:8-10). La fe verdadera es la que obra por el amor (Gálatas 5:6)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elige una oración que dices de memoria y rézala despacio, pensando cada frase.",
+        "Lee cada día un pasaje corto de los Evangelios y pregúntate: ¿qué hizo Jesús aquí?",
+        "Busca a una persona en necesidad cerca de ti y ayúdala en algo concreto (Santiago 1:27).",
+        "Revisa si debes algo justo a alguien: un pago, una promesa, una disculpa (Miqueas 6:8).",
+        "Termina el día agradeciendo a Dios por dónde lo viste obrar."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi fe cambia la forma en que trato a las personas?",
+        "¿Cuándo fue la última vez que ayudé a alguien sin recibir nada?",
+        "¿Hablo con Dios, o solo digo palabras hacia él?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Visita hoy, o llama si no puedes ir, a una persona enferma, viuda o sola que conozcas. Pregúntale cómo está de verdad y qué necesita. Escucha sin prisa."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Abraham creyó a Dios y salió sin saber a dónde iba (Hebreos 11:8). Su fe se vio en sus pasos, y fue llamado «amigo de Dios» (Santiago 2:23). Lee su ficha, «Abraham», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Miqueas 6:6-8", "nota": "Lo que Dios pide de verdad." },
+        { "ref": "Santiago 2:14-26", "nota": "La fe que se ve en las obras." },
+        { "ref": "Mateo 22:34-40", "nota": "Los dos grandes mandamientos." },
+        { "ref": "1 Juan 3:16-18", "nota": "Amar de obra y en verdad." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no quiero una fe de costumbre. Quiero conocerte y amarte de verdad. Llena mis oraciones de corazón y mis manos de misericordia. Enséñame a caminar humilde contigo, cada día. Amén."
+    }
+  ],
+  "estudio": ["santiago", "miqueas"],
+  "buscar": "fe viva"
+}

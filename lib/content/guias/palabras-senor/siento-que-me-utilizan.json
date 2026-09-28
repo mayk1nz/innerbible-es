@@ -1,0 +1,89 @@
+{
+  "id": "siento-que-me-utilizan",
+  "titulo": "Cuando siento que me utilizan",
+  "etiquetas": ["Amistades y convivencia", "Generosidad", "Prudencia"],
+  "enUnMinuto": [
+    "Jesús dio sin medida, pero conocía el corazón de la gente y no se dejaba manipular.",
+    "Puedes ser generoso y, al mismo tiempo, prudente.",
+    "Primer paso: antes de decir que sí, detente y pregúntate por qué lo haces."
+  ],
+  "versiculo": {
+    "texto": "He aquí, yo os envío como a ovejas en medio de lobos: sed pues prudentes como serpientes, y sencillos como palomas.",
+    "referencia": "Mateo 10:16"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Don Fidel tiene una camioneta. Sus conocidos lo llaman para cada mudanza o viaje al aeropuerto, y nunca ponen para la gasolina. Cuando él necesitó ayuda para pintar su casa, nadie pudo. Un día escuchó: “Llama a Fidel, él siempre está libre”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús nos pide ser «prudentes como serpientes, y sencillos como palomas» (Mateo 10:16). La bondad no está peleada con la sabiduría."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es seguir diciendo que sí para no quedar mal, mientras crece el resentimiento. Otros hacen lo contrario: se cierran a todos y dejan de ayudar. El primero te amarga y hasta alimenta el abuso. El segundo te roba la alegría de dar."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús alimentó a miles, y después les dijo con claridad que lo buscaban por el pan (Juan 6:26). Amaba a la gente, pero no se confiaba a cualquiera, porque conocía el corazón humano (Juan 2:24-25). Ver con claridad no es falta de amor.",
+        "Jesús también sintió la ingratitud. De diez leprosos sanados, solo uno volvió a darle gracias (Lucas 17:17-18). Aun así, siguió haciendo el bien. Él enseña a dar sin esperar nada a cambio (Lucas 6:35).",
+        "La clave está en para quién haces las cosas. Si sirves al Señor y no buscas la aprobación de otros, puedes dar con alegría (Colosenses 3:23-24). Y también decir que no sin culpa. También puedes decidir no prestar lo que no puedes perder."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Anota qué das con alegría y qué das por miedo a quedar mal.",
+        "Antes de responder a un pedido, ora un momento y pregúntate si puedes y debes hacerlo.",
+        "Sigue ayudando a quien lo necesita de verdad, pero no a quien solo se aprovecha (Mateo 10:16).",
+        "Presta solo lo que podrías regalar sin amargarte si no vuelve (Lucas 6:35).",
+        "Cultiva amistades donde también te cuiden. El amor verdadero va en las dos direcciones."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Ayudo por amor a Dios o por miedo a que dejen de quererme?",
+        "¿Quién está conmigo cuando yo soy quien necesita?",
+        "¿Estoy alimentando un abuso con mi silencio?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, cuando alguien te pida algo, responde: “Déjame pensarlo y mañana te digo”. Usa ese tiempo para orar y decidir con calma, sin culpa."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si alguien cercano te quita dinero, te presiona o maneja tus cuentas sin permiso, eso es abuso. Habla hoy con alguien de confianza, tu pastor o sacerdote o un profesional. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 6:24-27", "nota": "Lo buscaban por el pan." },
+        { "ref": "Lucas 17:11-19", "nota": "Solo uno volvió a dar gracias." },
+        { "ref": "Lucas 6:32-36", "nota": "Dar sin esperar nada a cambio." },
+        { "ref": "Colosenses 3:23-24", "nota": "Hacerlo todo para el Señor." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero dar como tú das. Dame un corazón generoso y los ojos abiertos. Líbrame del miedo a quedar mal. Enséñame a servirte a ti primero, y a decir que no cuando sea necesario. Amén."
+    }
+  ],
+  "estudio": ["colosenses"],
+  "buscar": "prudentes"
+}

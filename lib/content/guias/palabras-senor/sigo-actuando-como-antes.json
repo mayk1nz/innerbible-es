@@ -1,0 +1,93 @@
+{
+  "id": "sigo-actuando-como-antes",
+  "titulo": "Cuando sigo actuando como antes",
+  "etiquetas": ["Hacedor de la Palabra", "Vida nueva", "Hábitos"],
+  "enUnMinuto": [
+    "Creer en Jesús es un nuevo comienzo, pero los hábitos viejos no se van en un día.",
+    "La Biblia lo compara con quitarse la ropa vieja y ponerse la nueva, una prenda a la vez.",
+    "Primer paso: por cada hábito viejo, elige el hábito nuevo que lo va a reemplazar."
+  ],
+  "versiculo": {
+    "texto": "Y a renovaros en el espíritu de vuestra mente, Y vestir el nuevo hombre que es criado conforme a Dios en justicia y en santidad de verdad.",
+    "referencia": "Efesios 4:23-24"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Gladys volvió a la fe hace dos años y ama al Señor. Pero en casa sigue gritando como antes, y dice malas palabras cuando se enoja. Un día su hijo le preguntó: “Mamá, ¿y no que ya eras cristiana?”. Esa frase le dolió toda la semana."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El cambio en Cristo es real, y también es un proceso. Dejas lo viejo, tu mente se renueva y te vistes de lo nuevo (Efesios 4:22-24)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos intentan solo dejar lo malo. Se prometen “no gritar más” y aprietan los dientes. Pero un hueco vacío se vuelve a llenar con lo mismo.",
+        "Otros concluyen que su fe es falsa porque todavía fallan. Y se rinden. Olvidan que Dios no terminó su obra en ellos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo no solo dice “deja”. Siempre dice qué poner en su lugar. Deja la mentira y habla verdad. Deja de robar y trabaja para poder dar. Deja la palabra sucia y di lo que edifica (Efesios 4:25-29).",
+        "Zaqueo muestra que el cambio se nota en lo concreto. Después de recibir a Jesús, prometió dar a los pobres y devolver lo robado (Lucas 19:8). No fue solo un sentimiento. Fue una decisión con nombres y montos.",
+        "Y no estás solo en el proceso. El que comenzó en ti la buena obra la va a terminar (Filipenses 1:6). Tu cambio no depende solo de tu fuerza de voluntad."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elige un solo hábito viejo, el que más daña a los tuyos.",
+        "Escribe su reemplazo: en lugar de gritar, salir un minuto y respirar; en lugar de insultar, callar y bendecir (Efesios 4:29).",
+        "Descubre el momento en que suele aparecer: la llegada del trabajo, la hora de la tarea, el tráfico.",
+        "Pide cada mañana al Señor que renueve tu mente para ese momento (Romanos 12:2).",
+        "Cuando falles, pide perdón pronto y vuelve a intentarlo. El cambio se mide en meses, no en días."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué hábito viejo notan más las personas de mi casa?",
+        "¿Solo intento dejar lo malo, o ya elegí qué hacer en su lugar?",
+        "¿Estoy mirando mi progreso o solo mis caídas?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige hoy el hábito viejo que más daña a tu casa y el hábito nuevo que lo va a reemplazar. Díselo a alguien de tu familia: “Estoy trabajando en esto; avísame con cariño si vuelvo a lo de antes”."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Zaqueo era conocido por su pasado, y su cambio se vio en sus manos y en su bolsillo. Lee su ficha, «Zaqueo», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Efesios 4:22-32", "nota": "Lo que me quito y lo que me pongo." },
+        { "ref": "Lucas 19:1-10", "nota": "Zaqueo: el cambio se nota." },
+        { "ref": "Colosenses 3:8-14", "nota": "Vestirse de misericordia y de amor." },
+        { "ref": "Filipenses 1:6", "nota": "Dios termina lo que empezó." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque me hiciste nuevo. Todavía cargo hábitos viejos, y a veces hiero a los que amo. Ayúdame a quitarme lo viejo y a vestirme de lo nuevo, un día a la vez. Termina en mí la obra que empezaste. Amén."
+    }
+  ],
+  "estudio": ["efesios"],
+  "buscar": "vida nueva"
+}

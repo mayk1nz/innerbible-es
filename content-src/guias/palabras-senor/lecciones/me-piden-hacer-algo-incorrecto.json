@@ -1,0 +1,95 @@
+{
+  "id": "me-piden-hacer-algo-incorrecto",
+  "titulo": "Cuando me piden hacer algo incorrecto",
+  "etiquetas": ["Trabajo y propósito", "Integridad", "Conciencia"],
+  "enUnMinuto": [
+    "Cuando obedecer al jefe significa desobedecer a Dios, primero está Dios.",
+    "Puedes decir que no con respeto, con calma y con sabiduría.",
+    "Hoy escribe tu límite en una frase y cuéntaselo a alguien de confianza."
+  ],
+  "versiculo": {
+    "texto": "Y respondiendo Pedro y los apóstoles, dijeron: Es menester obedecer a Dios antes que a los hombres.",
+    "referencia": "Hechos 5:29"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Sofía es asistente contable en una empresa de Guadalajara. Su jefe le pide cambiar unas facturas para pagar menos impuestos. Le dice que todos lo hacen y que es solo esta vez. Sofía necesita el trabajo: su mamá depende de ella."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Respetamos a quienes tienen autoridad. Pero si nos piden pecar, hay que obedecer a Dios antes que a los hombres (Hechos 5:29). Mejor es lo poco con justicia que mucho sin derecho (Proverbios 16:8)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es ceder un poco: solo esta vez. Después viene otra, y otra más. Otros se justifican: yo solo obedezco órdenes. Pero la firma, la mentira o el engaño siguen siendo tuyos. Y lo que empieza pequeño suele terminar grande."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Ante el concilio, Pedro y los apóstoles respondieron con calma. Pero no callaron lo que Dios les había mandado (Hechos 5:27-29). José, presionado por la esposa de su amo, preguntó cómo haría ese mal y pecaría contra Dios (Génesis 39:9). Dijeron que no porque sabían delante de quién vivían.",
+        "Decir que no, no exige gritar ni acusar. Jesús pide ser prudentes y sencillos a la vez (Mateo 10:16). Puedes explicar con respeto qué no harás y ofrecer una alternativa honesta. Quien camina en integridad anda confiado (Proverbios 10:9). A veces cuesta caro, pero Dios no abandona a quien lo honra."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Detente antes de actuar. Pregúntate: ¿esto es mentira, robo, engaño o daño para alguien?",
+        "Ora y pide sabiduría para responder con prudencia y sencillez (Mateo 10:16).",
+        "Responde con respeto y claridad: “Esto no puedo hacerlo, pero puedo ayudar de esta otra forma”.",
+        "Si la presión sigue, guarda por escrito lo que te piden y busca asesoría.",
+        "Prepárate con tu familia por si te cuesta el trabajo, y confía en el Señor que no te deja (Hebreos 13:5)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué pequeñas concesiones ya hice que mi conciencia no aprueba?",
+        "¿A quién temo más: a mi jefe o a Dios?",
+        "¿Cómo puedo decir que no con respeto y sin orgullo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy tu límite en una sola frase: esto no lo haré, aunque me cueste. Cuéntaselo a una persona de confianza que ore por ti y te pregunte cómo vas."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Tres jóvenes judíos se negaron a cumplir una orden que iba contra Dios. Todos los demás obedecieron; ellos no (Daniel 3:16-18). Lo dijeron con respeto y con firmeza. Lee «Sadrac, Mesac y Abed-nego» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si te amenazan por negarte, o lo que te piden es un delito grave, busca asesoría legal y protección. Habla con alguien de confianza y con tu pastor o sacerdote. Si estás en peligro, llama al número de emergencias. Protegerte no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Hechos 5:27-32", "nota": "Obedecer a Dios antes que a los hombres." },
+        { "ref": "Daniel 3:13-18", "nota": "Tres jóvenes que no se arrodillaron." },
+        { "ref": "Génesis 39:6-12", "nota": "José dice que no." },
+        { "ref": "Proverbios 10:9", "nota": "El que camina en integridad anda confiado." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me piden algo que no está bien, y tengo miedo de perder mi trabajo. Dame valor para decir que no y sabiduría para decirlo con respeto. Tú eres quien me sostiene. Quiero honrarte antes que a nadie. Amén."
+    }
+  ],
+  "estudio": ["hechos-1-7"],
+  "buscar": "integridad"
+}

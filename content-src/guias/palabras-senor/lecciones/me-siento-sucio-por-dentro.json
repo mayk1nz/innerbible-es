@@ -1,0 +1,97 @@
+{
+  "id": "me-siento-sucio-por-dentro",
+  "titulo": "Cuando me siento sucio por dentro",
+  "etiquetas": ["Tentación y hábitos", "Culpa", "Perdón de Dios"],
+  "enUnMinuto": [
+    "Lo que Dios limpia queda limpio, aunque tu sentimiento tarde en creerlo.",
+    "Si te sientes sucio por lo que otros te hicieron, eso no fue tu pecado.",
+    "Primer paso: lleva a Dios lo que te pesa y deja que su palabra hable más fuerte que tu vergüenza."
+  ],
+  "versiculo": {
+    "texto": "Venid luego, dirá Jehová, y estemos a cuenta: si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos: si fueren rojos como el carmesí, vendrán a ser como blanca lana.",
+    "referencia": "Isaías 1:18"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Lucía tiene 52 años. De joven vivió cosas que hoy la avergüenzan. Ya las confesó, pero cuando llega el momento de comulgar o de tomar la Santa Cena, se queda atrás. “Dios me perdonó”, dice, “pero yo sigo sintiéndome sucia”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios no perdona a medias. Él puede dejar blanco como la nieve lo que estaba rojo como la grana (Isaías 1:18). Cuando confesamos, Él nos perdona y nos limpia de toda maldad (1 Juan 1:9)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es tratar de limpiarse solo. Rezar más, servir más, castigarse, o alejarse de Dios “hasta estar mejor”. Otros esconden la vergüenza y la cargan en silencio durante años.",
+        "No funciona porque la limpieza no es un premio que se gana. Es un regalo que se recibe. Cuanto más intentas lavarte tú, más miras tus manchas y menos miras a Cristo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia usa imágenes de agua y de nieve. David pidió: «lávame, y seré emblanquecido más que la nieve» (Salmo 51:7). Dios promete agua limpia y un corazón nuevo (Ezequiel 36:25-26).",
+        "Cuando tu corazón te acusa, recuerda esto: Dios es mayor que tu corazón y conoce todas las cosas (1 Juan 3:20). Tu sentimiento no tiene la última palabra; la tiene Dios. Y para los que están en Cristo ya no hay condenación (Romanos 8:1).",
+        "Hay algo más, y es muy importante. A veces uno se siente sucio por lo que otros le hicieron: un abuso, una violación, una humillación. Si es tu caso, escúchalo bien: eso no fue tu pecado. La culpa es de quien te hizo daño. Dios no te mira con asco; te mira con ternura (Salmo 34:18)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Si hay algo que todavía no has confesado, díselo a Dios con sencillez (1 Juan 1:9).",
+        "Lee despacio Isaías 1:18 y pon tu nombre en la promesa.",
+        "Cuando vuelva la sensación de suciedad, respóndele con la verdad: “Dios me limpió” (1 Juan 3:20).",
+        "Habla con tu pastor o sacerdote; a veces necesitamos oír el perdón de otra voz.",
+        "Acércate a la comunión o a la Santa Cena según la práctica de tu iglesia; nadie llega por mérito propio."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Creo que el perdón de Cristo alcanza para esto, o pienso que mi caso es la excepción?",
+        "¿Esta suciedad viene de algo que hice, o de algo que me hicieron?",
+        "¿Qué me diría Jesús si me viera hoy?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, cada vez que te laves las manos, di en voz baja: “Señor, tú me limpiaste”. Al final del día, recuerda cuántas veces se lo dijiste. Así tu corazón aprende lo que Dios ya hizo. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "La mujer samaritana cargaba una historia que la avergonzaba, y Jesús le habló con respeto. Después ella corrió a contarlo a todo su pueblo (Juan 4:29). Lee su ficha «La mujer samaritana» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si te sientes sucio por un abuso o una violencia que sufriste, no es tu culpa. Busca hoy a alguien de confianza y a un profesional que acompañe a víctimas. Si estás en peligro, llama al número de emergencias. Buscar ayuda profesional no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Isaías 1:16-18", "nota": "Venid, y estemos a cuenta." },
+        { "ref": "Salmo 51:1-12", "nota": "Oración por un corazón limpio." },
+        { "ref": "Juan 4:1-30", "nota": "Jesús y la mujer samaritana." },
+        { "ref": "1 Juan 1:5-9", "nota": "Él nos limpia de toda maldad." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, me siento sucio por dentro. Te traigo lo que hice y también lo que me hicieron. Lávame con tu perdón y sana mi vergüenza. Enséñame a creer que lo que tú limpias queda limpio. Amén."
+    }
+  ],
+  "estudio": ["isaias", "1-juan"],
+  "buscar": "limpieza"
+}

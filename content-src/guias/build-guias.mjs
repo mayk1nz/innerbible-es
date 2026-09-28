@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url'
 const HERE = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(HERE, '..', '..')
 const OUT = path.join(ROOT, 'lib', 'content', 'guias')
-const GUIAS = ['mandamientos', 'milagros-jesus', 'mujeres-virtuosas', 'biografias']
+const GUIAS = ['mandamientos', 'milagros-jesus', 'mujeres-virtuosas', 'biografias', 'caminando-gigantes', 'palabras-senor']
 
 const indices = {}
 const loaders = []

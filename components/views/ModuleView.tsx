@@ -30,14 +30,28 @@ export function ModuleView({ productId }: { productId: string }) {
 
 // ─── Products with tabs (Palabras del Señor: the guide + its 90-day plans) ────
 
+/** Sections that share a `tab` label form one tab (the guide's parts); the others, one each. */
+function tabGroups(sections: Section[]): { id: string; label: string; sections: Section[] }[] {
+  const groups: { id: string; label: string; sections: Section[] }[] = []
+  for (const sec of sections) {
+    const label = sec.tab ?? sec.title
+    const group = groups.find((g) => g.label === label)
+    if (group) group.sections.push(sec)
+    else groups.push({ id: sec.id, label, sections: [sec] })
+  }
+  return groups
+}
+
 function TabbedModule({ product, completed, lastLesson }: { product: Product; completed: AppState['completed']; lastLesson: string | null }) {
+  const groups = useMemo(() => tabGroups(product.sections), [product])
   // Open on the tab of the lesson read last, if it belongs to this product.
   const [tab, setTab] = useState(() => {
     const lastId = lastLesson?.startsWith(`${product.id}/`) ? lastLesson.slice(product.id.length + 1) : null
-    return product.sections.find((sec) => sec.lessons.some((l) => l.id === lastId))?.id ?? product.sections[0]?.id
+    return groups.find((g) => g.sections.some((sec) => sec.lessons.some((l) => l.id === lastId)))?.id ?? groups[0]?.id
   })
-  const section = product.sections.find((sec) => sec.id === tab) ?? product.sections[0]
-  if (!section) return null
+  const group = groups.find((g) => g.id === tab) ?? groups[0]
+  if (!group) return null
+  const section = group.sections[0]
 
   return (
     <>
@@ -45,32 +59,36 @@ function TabbedModule({ product, completed, lastLesson }: { product: Product; co
       {/* A grid, not a sideways-scrolling row: every section stays visible (with a mouse
           there is no way to tell that a row scrolls). */}
       <div role="tablist" aria-label={`Secciones de ${product.title}`} className="grid grid-cols-2 gap-2">
-        {product.sections.map((sec) => {
-          const active = sec.id === section.id
+        {groups.map((g) => {
+          const active = g.id === group.id
+          const first = g.sections[0]
+          const count = g.sections.reduce((a, sec) => a + sec.lessons.length, 0)
           return (
             <button
-              key={sec.id}
+              key={g.id}
               type="button"
               role="tab"
-              id={`tab-${sec.id}`}
+              id={`tab-${g.id}`}
               aria-selected={active}
-              aria-controls={`panel-${sec.id}`}
-              onClick={() => setTab(sec.id)}
+              aria-controls={`panel-${g.id}`}
+              onClick={() => setTab(g.id)}
               className={`flex min-h-14 flex-col items-center justify-center rounded-2xl border px-3 py-2 text-center transition ${
                 active ? 'border-primary bg-primary text-white shadow-card' : 'border-line bg-surface text-ink hover:bg-surface-hover'
               }`}
             >
-              <span className="text-[15px] font-semibold leading-tight">{sec.tab ?? sec.title}</span>
+              <span className="text-[15px] font-semibold leading-tight">{g.label}</span>
               <span className={`mt-0.5 text-[12.5px] ${active ? 'text-white/75' : 'text-muted'}`}>
-                {sec.plan ? `Plan de ${sec.lessons.length} días` : 'La guía'}
+                {first.plan ? `Plan de ${first.lessons.length} días` : count > 1 ? `${count} situaciones` : 'La guía'}
               </span>
             </button>
           )
         })}
       </div>
-      <div role="tabpanel" id={`panel-${section.id}`} aria-labelledby={`tab-${section.id}`} className="mt-5">
+      <div role="tabpanel" id={`panel-${group.id}`} aria-labelledby={`tab-${group.id}`} className="mt-5">
         {section.plan ? (
           <PlanPanel product={product} section={section} completed={completed} />
+        ) : group.sections.length > 1 ? (
+          <GuideParts product={product} sections={group.sections} completed={completed} />
         ) : (
           <>
             <h2 className="mb-3 font-serif text-[20px] font-semibold text-ink">{section.title}</h2>
@@ -81,6 +99,57 @@ function TabbedModule({ product, completed, lastLesson }: { product: Product; co
             </ul>
           </>
         )}
+      </div>
+    </>
+  )
+}
+
+/** A guide in parts inside a tab (Palabras del Señor): search, then the parts, one open at a time. */
+function GuideParts({ product, sections, completed }: { product: Product; sections: Section[]; completed: AppState['completed'] }) {
+  const [query, setQuery] = useState('')
+  const [open, setOpen] = useState<string | null>(sections[0]?.id ?? null)
+  const q = normalize(query)
+  const numbers = useMemo(() => new Map(sections.flatMap((sec) => sec.lessons).map((l, i) => [l.id, i + 1])), [sections])
+  const visible = sections.map((sec) => ({ sec, lessons: q ? sec.lessons.filter((l) => normalize(l.title).includes(q)) : sec.lessons }))
+  const nothing = q.length > 0 && visible.every((v) => v.lessons.length === 0)
+
+  return (
+    <>
+      <SearchInput value={query} onChange={setQuery} placeholder="¿Qué estás viviendo? Ej.: perdón, deudas" label="Buscar una situación" />
+      {nothing && (
+        <div className="mt-4">
+          <EmptyState icon="search" title="Sin resultados" text="Prueba con otra palabra, como «miedo», «familia» o «trabajo»." />
+        </div>
+      )}
+      <div className="mt-3">
+        {visible.map(({ sec, lessons }) => {
+          if (q && lessons.length === 0) return null
+          const isOpen = q.length > 0 || open === sec.id
+          const done = sec.lessons.filter((l) => completed[lessonKey(product.id, l.id)]).length
+          return (
+            <section key={sec.id} className="border-b border-line-soft last:border-b-0">
+              <button
+                type="button"
+                onClick={() => setOpen(isOpen ? null : sec.id)}
+                aria-expanded={isOpen}
+                className="flex min-h-14 w-full items-center justify-between gap-3 py-3 text-left"
+              >
+                <span className="font-serif text-[19px] font-semibold text-ink">{sec.title}</span>
+                <span className="flex shrink-0 items-center gap-2 text-[14px] tabular-nums text-muted">
+                  {done}/{sec.lessons.length}
+                  <Icon name="chevronDown" className={`size-5 transition ${isOpen ? 'rotate-180' : ''}`} />
+                </span>
+              </button>
+              {isOpen && (
+                <ul className="space-y-2.5 pb-5">
+                  {lessons.map((lesson) => (
+                    <LessonRow key={lesson.id} product={product} lesson={lesson} n={numbers.get(lesson.id) ?? 0} done={Boolean(completed[lessonKey(product.id, lesson.id)])} />
+                  ))}
+                </ul>
+              )}
+            </section>
+          )
+        })}
       </div>
     </>
   )

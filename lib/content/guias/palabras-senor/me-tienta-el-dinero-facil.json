@@ -1,0 +1,95 @@
+{
+  "id": "me-tienta-el-dinero-facil",
+  "titulo": "Cuando me tienta el dinero fácil",
+  "etiquetas": ["Dinero y provisión", "Apuestas", "Honestidad"],
+  "enUnMinuto": [
+    "El dinero rápido suele esconder trampas: apuestas, estafas y negocios dudosos.",
+    "La Biblia enseña que lo ganado con prisa se pierde, y lo ganado con trabajo crece.",
+    "Hoy borra la aplicación, el mensaje o el contacto que te tienta."
+  ],
+  "versiculo": {
+    "texto": "El hombre de verdad tendrá muchas bendiciones: mas el que se apresura a enriquecer, no será sin culpa.",
+    "referencia": "Proverbios 28:20"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Wilson tiene 23 años y vive en Santo Domingo. Un amigo le muestra lo que gana en una aplicación de apuestas. También le habla de una inversión que duplica el dinero en un mes. Wilson gana poco en un almacén, y piensa que esta puede ser su salida."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Quien se apresura a enriquecerse no quedará sin culpa (Proverbios 28:20). En cambio, el que junta con el trabajo de sus manos ve crecer lo que tiene (Proverbios 13:11)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es creer que esta vez es distinto: yo sí voy a ganar. Muchos entran con poco y terminan poniendo lo que no tienen. Otros prueban un negocio ilegal pensando que será solo una vez. El dinero fácil casi siempre cobra caro después."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo advierte que querer enriquecerse lleva a tentaciones y lazos que hunden a las personas (1 Timoteo 6:9-10). El problema no es el dinero en sí, sino el amor al dinero. Jesús pregunta de qué sirve ganar el mundo entero y perder el alma (Marcos 8:36).",
+        "Zaqueo se había hecho rico cobrando de más. Cuando Jesús entró en su casa, decidió devolver lo que había quitado (Lucas 19:8). El camino de Dios es más lento, pero es limpio: trabajo honesto, paciencia y confianza en su cuidado."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Desconfía de toda promesa de ganar mucho, rápido y sin riesgo.",
+        "Antes de invertir, pregunta a alguien que sepa y que no gane nada con tu decisión.",
+        "Aléjate de lo que te tienta: aplicaciones, grupos y contactos (Proverbios 4:14-15).",
+        "Si ya perdiste dinero, dilo en casa. El secreto hace crecer el problema.",
+        "Pon tu esfuerzo en algo honesto, aunque crezca despacio (Proverbios 13:11)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Esta promesa suena demasiado buena para ser verdad?",
+        "¿Lo haría si tuviera que contárselo a mi familia y a Dios?",
+        "¿Estoy apostando más de lo que pensaba, o a escondidas?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Borra hoy la aplicación, el mensaje o el contacto que te tienta con dinero fácil. Si no puedes hacerlo solo, pide a alguien de confianza que lo haga contigo. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Zaqueo se enriqueció con trampas, y el encuentro con Jesús cambió su manera de ver el dinero (Lucas 19:1-10). Lee «Zaqueo» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si apostar ya es algo que no puedes controlar, es una adicción, y hay ayuda. Busca hoy a alguien de confianza, a tu pastor o sacerdote, un grupo de apoyo o un profesional. Si te amenazan por deudas de juego, busca protección. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Proverbios 28:19-22", "nota": "El que se apresura a enriquecerse." },
+        { "ref": "1 Timoteo 6:6-10", "nota": "El amor al dinero y sus lazos." },
+        { "ref": "Lucas 19:1-10", "nota": "Zaqueo devuelve lo que tomó." },
+        { "ref": "Proverbios 13:11", "nota": "Lo que se junta con trabajo crece." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, me tienta el dinero fácil. Tú conoces mis necesidades y mis deseos. Líbrame de las trampas y de la codicia. Dame paciencia para el trabajo honesto y confianza en tu cuidado. Amén."
+    }
+  ],
+  "estudio": ["1-timoteo"],
+  "buscar": "codicia"
+}

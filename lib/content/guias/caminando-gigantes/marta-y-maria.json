@@ -1,0 +1,118 @@
+{
+  "id": "marta-y-maria",
+  "titulo": "Marta y María",
+  "subtitulo": "Cuando Jesús parece llegar tarde",
+  "etiquetas": ["Duelo", "Oración sin respuesta", "Juan 11", "Ministerio de Jesús"],
+  "enUnMinuto": [
+    "Marta y María le avisaron a Jesús que su hermano Lázaro estaba enfermo, y Jesús no llegó a tiempo.",
+    "Las dos le dijeron lo mismo: «Señor, si hubieras estado aquí», y Jesús lloró con ellas.",
+    "Jesús les mostró que Él es la resurrección y la vida, y que la muerte no tiene la última palabra."
+  ],
+  "versiculo": {
+    "texto": "Dícele Jesús: Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá.",
+    "referencia": "Juan 11:25"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Oraste con todo tu corazón, y la respuesta no llegó a tiempo. La persona que amabas murió, o aquello que pedías se perdió. Te preguntas por qué Dios no hizo nada, si podía hacerlo. Quizás hasta te sientes culpable por pensarlo. Marta y María sintieron lo mismo, y se lo dijeron a Jesús cara a cara."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Lázaro vivía en Betania con sus hermanas, Marta y María. Jesús amaba a los tres (Juan 11:5). Cuando Lázaro enfermó, ellas le enviaron un mensaje: «Señor, he aquí, el que amas está enfermo» (Juan 11:3). Jesús se quedó dos días más donde estaba (Juan 11:6).",
+        "Cuando llegó a Betania, Lázaro llevaba cuatro días en el sepulcro (Juan 11:17). Marta salió a su encuentro; María se quedó en casa. Las dos, por separado, le dijeron casi lo mismo: si hubiera estado allí, su hermano no habría muerto (Juan 11:21, 32).",
+        "A Marta, Jesús le habló de la resurrección. Ella confesó que Él era el Cristo, el Hijo de Dios (Juan 11:25-27). A María, que lloraba a sus pies, no le dio un discurso. Se conmovió, preguntó dónde lo habían puesto, y lloró (Juan 11:33-35).",
+        "Luego fue al sepulcro y pidió que quitaran la piedra. Marta dudó: ya olía mal, eran cuatro días (Juan 11:39). Jesús oró al Padre y gritó: «Lázaro, ven fuera». Y Lázaro salió vivo (Juan 11:41-44)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "«Señor, si hubieses estado aquí, mi hermano no fuera muerto» (Juan 11:21). En esa frase hay fe y reproche a la vez. Ellas sabían que Jesús podía sanar, y por eso dolía más. Podemos imaginar esos días de espera y de silencio, mirando el camino. Marta todavía creía que Dios le daría a Jesús lo que pidiera (Juan 11:22). Pero frente a la tumba, también dudó (Juan 11:39)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Marta decidió salir al encuentro de Jesús, con su dolor y su reclamo. No esperó a sentirse bien para hablarle. Y en medio del duelo confesó su fe: «tú eres el Cristo, el Hijo de Dios» (Juan 11:27).",
+        "María decidió ir hacia Jesús y caer a sus pies llorando. No escondió sus lágrimas ni las convirtió en discurso. Jesús tampoco: lloró con ella.",
+        "Las dos llevaron su reclamo a Jesús, en vez de alejarse de Él. Y Jesús respondió a cada una como lo necesitaba: a Marta con palabras, a María con lágrimas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Dile a Jesús tu «si hubieras estado aquí». Él puede recibir tu reclamo (Juan 11:21, 32).",
+        "Llora sin vergüenza. Si Jesús lloró ante la tumba de su amigo, tus lágrimas no son falta de fe (Juan 11:35).",
+        "Aférrate a lo que sí sabes de Jesús: Él es la resurrección y la vida (Juan 11:25-27).",
+        "Recibe el consuelo de otros. Muchos vinieron a acompañar a Marta y María en su duelo (Juan 11:19)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús sabía que iba a resucitar a Lázaro, y aun así lloró (Juan 11:35). No lloró por falta de poder, sino por amor. Hoy no siempre vemos volver a nuestros muertos, como Lázaro. Pero Jesús mismo venció a la muerte al resucitar. Y promete que quien cree en Él, aunque muera, vivirá (Juan 11:25). Nuestro duelo es real, pero no es un duelo sin esperanza (1 Tesalonicenses 4:13)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si Jesús parece haber llegado tarde para ti, no tienes que fingir que lo entiendes. Puedes ser como Marta y hablar, o como María y llorar. Esta semana: visita o llama a alguien que esté de duelo, y acompáñalo sin sermones. Y si el duelo es tuyo, deja que alguien te acompañe. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "El duelo profundo puede quitar el sueño, el apetito y las ganas de vivir. Si te pasa, no lo cargues a solas. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un médico o profesional. Si piensas en hacerte daño, llama ahora a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "Juan 11:1-16", "nota": "El aviso y los dos días de espera." },
+        { "ref": "Juan 11:17-27", "nota": "Marta y la resurrección." },
+        { "ref": "Juan 11:28-37", "nota": "María llora, y Jesús llora con ella." },
+        { "ref": "Juan 11:38-45", "nota": "Lázaro sale del sepulcro." },
+        { "ref": "Lucas 10:38-42", "nota": "Jesús en casa de Marta y María." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, a veces siento que llegaste tarde. Tú conoces mi dolor y lloras conmigo. Ayúdame a creer que eres la resurrección y la vida. Consuela mi corazón y dame esperanza. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Te pareces más a Marta, que habla, o a María, que llora? ¿Por qué?",
+        "¿Qué nos enseña que Jesús llorara, aunque sabía lo que iba a hacer?",
+        "¿Cómo podemos acompañar a alguien en duelo sin darle respuestas fáciles?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos días llevaba Lázaro en el sepulcro cuando llegó Jesús?",
+      "opciones": ["Dos", "Tres", "Cuatro"],
+      "correcta": 2,
+      "explicacion": "Jesús halló que Lázaro llevaba ya cuatro días en el sepulcro (Juan 11:17)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús cuando vio llorar a María?",
+      "opciones": ["La reprendió por su poca fe", "Se conmovió y lloró", "Le pidió que volviera a casa"],
+      "correcta": 1,
+      "explicacion": "Jesús se conmovió en espíritu, y lloró (Juan 11:33-35)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Jesús a Marta sobre sí mismo?",
+      "opciones": ["Que Él es la resurrección y la vida", "Que había llegado demasiado tarde", "Que ella debía dejar de llorar"],
+      "correcta": 0,
+      "explicacion": "Jesús le dijo: «Yo soy la resurrección y la vida» (Juan 11:25)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Juan 11:1-45"
+}

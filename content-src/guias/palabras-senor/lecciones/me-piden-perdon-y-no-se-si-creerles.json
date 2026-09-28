@@ -1,0 +1,97 @@
+{
+  "id": "me-piden-perdon-y-no-se-si-creerles",
+  "titulo": "Cuando me piden perdón y no sé si creerles",
+  "etiquetas": ["Perdón y heridas", "Confianza", "Arrepentimiento"],
+  "enUnMinuto": [
+    "El perdón se da cuando el otro se arrepiente; la confianza se reconstruye con el tiempo y con frutos.",
+    "Puedes perdonar de corazón y, al mismo tiempo, pedir cambios concretos.",
+    "Primer paso: separa lo que hoy perdonas de lo que necesitas ver para volver a confiar."
+  ],
+  "versiculo": {
+    "texto": "Mirad por vosotros: si pecare contra ti tu hermano, repréndele; y si se arrepintiere, perdónale.",
+    "referencia": "Lucas 17:3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hugo gastó a escondidas los ahorros de la familia. Anoche le pidió perdón a Liliana, llorando. Es la segunda vez en dos años. Liliana quiere perdonar como cristiana, pero tiene miedo de ser ingenua otra vez."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús manda perdonar al que se arrepiente, y no pone límite (Lucas 17:3-4). Pero el arrepentimiento verdadero se nota en los frutos (Mateo 3:8). Perdonar es inmediato; confiar se reconstruye."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Confundir perdón con confianza. Unos dicen: “Si me pidió perdón, todo vuelve a ser como antes”, y no piden ningún cambio. Otros dicen: “Nunca más te creo”, y cierran la puerta para siempre.",
+        "El primer camino deja la herida abierta a repetirse. El segundo convierte el dolor en castigo. Ninguno de los dos sana la relación."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús dice que, si tu hermano se arrepiente, lo perdones, aunque vuelva siete veces al día (Lucas 17:3-4). El perdón no espera pruebas. Decides no cobrar y no vengarte.",
+        "Pero Juan el Bautista pidió frutos dignos de arrepentimiento (Mateo 3:8). Las palabras abren la puerta; los cambios muestran que el corazón cambió. La Biblia también te pide guardar tu corazón con sabiduría (Proverbios 4:23).",
+        "José perdonó a sus hermanos, pero primero observó si habían cambiado (Génesis 42–44). Vio a Judá ofrecerse como esclavo en lugar de Benjamín (Génesis 44:33-34). Entonces se dio a conocer y los abrazó llorando (Génesis 45:1-5)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escucha el pedido de perdón completo, sin interrumpir y sin humillar a la otra persona.",
+        "Perdona delante de Dios: decides no cobrar la deuda ni vengarte (Lucas 17:3).",
+        "Dilo con calma: “Te perdono. La confianza la vamos a reconstruir con tiempo”.",
+        "Acuerden cambios concretos: cuentas claras, rendir cuentas a alguien, o buscar ayuda si hay un vicio (Mateo 3:8).",
+        "Mira los frutos con el tiempo, no solo las lágrimas de hoy. Pide sabiduría a Dios (Santiago 1:5)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy confundiendo perdonar con volver a confiar de inmediato?",
+        "Mi desconfianza, ¿busca protegerme o busca castigar al otro?",
+        "¿Qué señales concretas necesito ver para volver a confiar?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe dos columnas en un papel. A la izquierda: “Lo que hoy perdono”. A la derecha: “Lo que necesito ver para volver a confiar”. Luego compártelo con calma con esa persona, o primero con alguien de confianza."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José perdonó a los hermanos que lo vendieron, pero no fue ingenuo: primero vio si habían cambiado. Lee su ficha, «José», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si quien te pide perdón te golpea, te amenaza o te controla, y el ciclo se repite, tu seguridad va primero. Perdonar no es volver al peligro, y poner límites es bíblico. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un profesional. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 17:1-5", "nota": "Perdonar al que se arrepiente, una y otra vez." },
+        { "ref": "Mateo 3:7-10", "nota": "Los frutos del arrepentimiento." },
+        { "ref": "Génesis 44:18-45:5", "nota": "Judá ha cambiado, y José se da a conocer." },
+        { "ref": "Proverbios 4:20-27", "nota": "Guardar el corazón con sabiduría." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero perdonar como tú me perdonas. Pero también necesito sabiduría. Dame un corazón limpio de venganza y ojos claros para ver los frutos. Sana lo que se rompió, y guíanos paso a paso. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "arrepentimiento"
+}

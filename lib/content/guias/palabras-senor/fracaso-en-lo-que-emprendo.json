@@ -1,0 +1,95 @@
+{
+  "id": "fracaso-en-lo-que-emprendo",
+  "titulo": "Cuando fracaso en lo que emprendo",
+  "etiquetas": ["Trabajo y propósito", "Fracaso", "Emprender"],
+  "enUnMinuto": [
+    "Un negocio que fracasa no te convierte en un fracasado.",
+    "El Señor sostiene la mano del que cae, para que no se quede en el suelo.",
+    "Hoy mira con honestidad lo que pasó y aprende de ello."
+  ],
+  "versiculo": {
+    "texto": "Cuando cayere, no quedará postrado; porque Jehová sostiene su mano.",
+    "referencia": "Salmos 37:24"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Carmen abrió una panadería en su barrio de Bogotá con todos sus ahorros y un préstamo. A los ocho meses tuvo que cerrar. Ahora esquiva a los vecinos y cree que todos se ríen de ella. Su esposo le pide que no lo vuelva a intentar nunca."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Caer no es el final para quien confía en Dios: el Señor sostiene su mano (Salmos 37:23-24). El justo cae muchas veces, y se vuelve a levantar (Proverbios 24:16)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es sacar una conclusión sobre ti mismo: soy un inútil, Dios no me quiere bendecir. Otro error es culpar a todos sin revisar nada. Los dos impiden aprender. Y un fracaso del que no se aprende suele repetirse."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Moisés quiso librar a su pueblo con sus propias fuerzas, y fracasó; tuvo que huir (Hechos 7:23-29). Cuarenta años después, Dios lo llamó otra vez, de otra forma y a su tiempo (Éxodo 3:10-12). El fracaso no canceló su historia.",
+        "La Biblia también te invita a ser honesto. Jesús habla de sentarse a calcular los gastos antes de construir (Lucas 14:28-30). Revisa sin castigarte: qué dependía de ti, qué no, qué aprendiste. Y busca consejo, porque los planes se afirman con muchos consejeros (Proverbios 15:22)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Lleva tu tristeza a Dios. Está bien sentir la pérdida; no tienes que fingir fuerza.",
+        "Separa los hechos de tu valor. El negocio falló; tú sigues siendo hijo amado de Dios.",
+        "Revisa qué pasó: los cálculos, el lugar, los precios, las deudas, las circunstancias (Lucas 14:28).",
+        "Si quedaron deudas, habla con quienes te prestaron y haz un plan de pago honesto.",
+        "Antes de otro intento, busca a alguien con experiencia que te aconseje (Proverbios 15:22)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy confundiendo un negocio fallido con una vida fallida?",
+        "¿Qué parte de este fracaso dependía de mí, y qué parte no?",
+        "¿Qué sé hoy que no sabía hace un año?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Toma una hoja y haz tres columnas: qué aprendí, qué haría distinto y qué sigue siendo verdad de Dios. Llénalas hoy y guarda la hoja. Será tu mapa cuando llegue la próxima oportunidad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Moisés fracasó cuando intentó liberar a su pueblo a su manera, y huyó al desierto. Dios no lo descartó. Lee «Moisés» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si el fracaso te dejó deudas graves, o la tristeza no se va, no lo cargues solo. Habla hoy con alguien de confianza, con tu pastor o sacerdote, o con un asesor. Si aparecen pensamientos de muerte, busca un médico o llama al número de emergencias. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 37:23-24", "nota": "El Señor sostiene al que cae." },
+        { "ref": "Hechos 7:23-34", "nota": "El primer intento fallido de Moisés y su nuevo llamado." },
+        { "ref": "Lucas 14:28-30", "nota": "Calcular antes de construir." },
+        { "ref": "Proverbios 24:16", "nota": "El justo cae y se vuelve a levantar." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, lo intenté y fracasé. Me duele y me da vergüenza. Recuérdame que no soy mi negocio: soy tu hijo. Enséñame lo que tengo que aprender, y sostén mi mano para levantarme. Amén."
+    }
+  ],
+  "estudio": ["salmos"],
+  "buscar": "fracaso"
+}

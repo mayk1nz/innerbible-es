@@ -1,0 +1,92 @@
+{
+  "id": "quiero-ensenar-la-fe-a-mis-hijos",
+  "titulo": "Cuando quiero enseñar la fe a mis hijos",
+  "etiquetas": ["Hijos y familia", "Fe en casa", "Crianza"],
+  "enUnMinuto": [
+    "La fe se enseña más en la vida diaria que en los discursos.",
+    "Dios pidió hablar de su Palabra en casa, en el camino, al acostarse y al levantarse.",
+    "Primer paso: elige un momento fijo del día para leer un versículo y orar juntos, aunque sean cinco minutos."
+  ],
+  "versiculo": {
+    "texto": "Y estas palabras que yo te mando hoy, estarán sobre tu corazón: Y las repetirás a tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes:",
+    "referencia": "Deuteronomio 6:6-7"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Nelson y Mirta quieren que sus hijos, de 6 y 9 años, conozcan a Dios. Pero llegan cansados del trabajo, la televisión está siempre encendida y no saben por dónde empezar. Él dice: “Eso lo aprenderán en el catecismo o en la escuela dominical”. Ella siente que no es suficiente."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Los padres son los primeros maestros de la fe. La Palabra se enseña en lo cotidiano: en casa, en el camino, al acostarse y al levantarse (Deuteronomio 6:6-7)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es dejarlo todo en manos de la iglesia o de la escuela. Otros hacen lo contrario: obligan, castigan con la Biblia o dan largos sermones. En el primer caso, los hijos aprenden que la fe es cosa de otros. En el segundo, aprenden que la fe es una carga. Y si en casa ven algo distinto de lo que oyen, creerán lo que ven."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Fíjate en el orden del texto. Primero las palabras están «sobre tu corazón», y después las repites a tus hijos (Deuteronomio 6:6-7). Nadie da lo que no tiene. Tu propia relación con Dios es la primera lección.",
+        "Timoteo aprendió la fe de su abuela Loida y de su madre Eunice (2 Timoteo 1:5). Desde niño conoció las Escrituras (2 Timoteo 3:15). No hace falta ser teólogo. Hace falta constancia, cariño y ejemplo.",
+        "El salmo pide contar a la generación que viene las maravillas de Dios (Salmo 78:4). Cuéntales tu historia: cuándo oraste, cómo te ayudó el Señor, qué aprendiste al fallar. Los niños recuerdan las historias más que las reglas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elige un momento fijo: la cena o la hora de dormir. Cinco minutos bastan para empezar.",
+        "Lee un versículo corto o una historia bíblica en palabras sencillas. Pregunta: “¿Qué nos enseña esto?”.",
+        "Oren juntos con palabras simples. Deja que tus hijos agradezcan y pidan con sus propias palabras.",
+        "Cuéntales cómo Dios te ayudó en algo real de tu vida (Salmo 78:4).",
+        "Vive lo que enseñas: pide perdón cuando falles y ora en voz alta cuando haya problemas."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mis hijos me ven orar y leer la Biblia, o solo me oyen hablar de eso?",
+        "¿La fe en mi casa se siente como alegría o como obligación?",
+        "¿Qué momento del día puedo dedicar a Dios con mi familia?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche, antes de dormir, reúne a tus hijos cinco minutos. Lean juntos el Salmo 23:1, pregúntales qué quiere decir y oren. Nada más: lo importante es empezar."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Timoteo aprendió la fe en casa, de su abuela y de su madre, y llegó a servir a Dios junto a Pablo. Lee su ficha, «Timoteo», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Deuteronomio 6:4-9", "nota": "Amar a Dios y enseñarlo en casa." },
+        { "ref": "2 Timoteo 1:3-5", "nota": "La fe de una abuela y de una madre." },
+        { "ref": "Salmo 78:1-7", "nota": "Contar a la nueva generación." },
+        { "ref": "Josué 24:14-15", "nota": "Una decisión de familia." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero que mis hijos te conozcan y te amen. Pon primero tu Palabra en mi corazón. Dame paciencia y constancia para enseñarles con alegría. Que vean en mí lo que les digo con palabras. Amén."
+    }
+  ],
+  "estudio": ["deuteronomio", "2-timoteo"],
+  "buscar": "hijos"
+}

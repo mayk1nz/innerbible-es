@@ -1,0 +1,89 @@
+{
+  "id": "las-redes-sociales-me-roban-la-paz",
+  "titulo": "Cuando las redes sociales me roban la paz",
+  "etiquetas": ["Amistades y convivencia", "Redes sociales", "Paz"],
+  "enUnMinuto": [
+    "Las redes pueden acercarnos a otros, pero también llenarnos de comparación, ansiedad y ruido.",
+    "La Biblia enseña a cuidar lo que ponemos delante de los ojos y a no dejarnos dominar por nada.",
+    "Primer paso: mira cuánto tiempo pasas en el teléfono y cómo te sientes después."
+  ],
+  "versiculo": {
+    "texto": "Aparta mis ojos, que no vean la vanidad; avívame en tu camino.",
+    "referencia": "Salmo 119:37"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Tatiana abre el teléfono apenas despierta y lo suelta cuando ya se cae de sueño. Ve casas bonitas, parejas felices y viajes, y siente que su vida no vale nada. Discute en los comentarios sobre política y religión. Ya casi no ora, pero pasa cuatro horas al día en redes."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El salmista pide a Dios que aparte sus ojos de lo vano y le dé vida en su camino (Salmo 119:37). Lo que miras cada día va formando tu corazón."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo común es decir: “Es solo un rato para distraerme”. Pero el rato se vuelve horas. Otros culpan a las redes y las siguen usando igual, sin ningún límite. Y algunos las borran de golpe, sin cambiar el corazón, y vuelven a los pocos días."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo dice que todo le es lícito, pero no se dejará dominar por nada (1 Corintios 6:12). Las redes no son malas en sí mismas. La pregunta es quién manda: tú o el teléfono.",
+        "Muchas redes muestran solo lo mejor de la vida ajena. Compararte con eso te roba la gratitud. Pablo invita a que cada uno examine su propia obra, sin medirse con otros (Gálatas 6:4). Y a llenar la mente de lo verdadero, lo justo y lo amable (Filipenses 4:8).",
+        "El tiempo es un regalo de Dios, y Pablo pide aprovecharlo con sabiduría (Efesios 5:15-16). Si las redes ocupan el lugar de la oración, de tu familia o de tu descanso, es hora de poner orden."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Revisa en tu teléfono cuántas horas pasas en redes. Anótalo sin culparte.",
+        "Deja de seguir las cuentas que te llenan de envidia, enojo o impureza (Salmo 119:37).",
+        "Pon horarios: nada de redes en la primera hora del día ni en la mesa.",
+        "Cambia el primer vistazo de la mañana por un versículo y una oración corta.",
+        "Antes de comentar o compartir, pregúntate si es verdadero, justo y amable (Filipenses 4:8)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cómo me siento después de una hora en redes: más en paz o más inquieto?",
+        "¿Quién manda en mi tiempo: yo o el teléfono?",
+        "¿Qué dejé de hacer por estar en redes: orar, leer, conversar?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Desactiva hoy las notificaciones de la red social que más te roba la paz. Te tomará un minuto, y te devolverá muchas horas. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si en redes te acosan, te extorsionan o te piden fotos íntimas, busca ayuda hoy. Y también si lo que ves te lleva a pensar en hacerte daño. Habla con alguien de confianza, tu pastor o sacerdote o un profesional. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Filipenses 4:6-9", "nota": "En esto pensad." },
+        { "ref": "1 Corintios 6:12", "nota": "No dejarse dominar por nada." },
+        { "ref": "Efesios 5:15-17", "nota": "Aprovechar bien el tiempo." },
+        { "ref": "Salmo 46:10", "nota": "Quietud para conocer a Dios." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, aparta mis ojos de lo vano y dame vida en tu camino. Perdona el tiempo que les robé a ti y a los míos. Enséñame a usar la tecnología sin que me domine. Llena mi mente de lo que es bueno. Amén."
+    }
+  ],
+  "estudio": ["salmos", "filipenses"],
+  "buscar": "tiempo"
+}

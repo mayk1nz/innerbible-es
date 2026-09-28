@@ -1,0 +1,93 @@
+{
+  "id": "tengo-que-tomar-una-decision-importante",
+  "titulo": "Cuando tengo que tomar una decisión importante",
+  "etiquetas": ["Decisiones y dirección", "Sabiduría", "Oración"],
+  "enUnMinuto": [
+    "Dios promete dar sabiduría a quien se la pide, sin regañarlo por no saber.",
+    "Antes de decidir algo grande, ora, junta la información, pide consejo y mira lo que dice la Palabra.",
+    "Primer paso: escribe la decisión en una sola frase y preséntasela a Dios hoy."
+  ],
+  "versiculo": {
+    "texto": "Y si alguno de vosotros tiene falta de sabiduría, demándela a Dios, el cual da a todos abundantemente, y no zahiere; y le será dada.",
+    "referencia": "Santiago 1:5"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "A Carmen le ofrecen un puesto de encargada en otra sucursal, al otro lado de Guadalajara. Ganaría más, pero vería menos a sus hijos. Lleva una semana durmiendo mal. Le da vueltas al asunto de día y de noche, y cada mañana cambia de opinión."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios no espera que decidas por tu cuenta ni a ciegas. Él da sabiduría con generosidad a quien se la pide, y no lo humilla por pedir (Santiago 1:5)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos deciden de dos maneras que no funcionan. Unos deciden por impulso, con la emoción del momento, y después se arrepienten. Otros no deciden nunca: esperan una señal espectacular del cielo mientras la oportunidad pasa. Los dos caminos tienen algo en común: dejan a Dios fuera del proceso real.",
+        "También es común preguntarle a todo el mundo menos a Dios. O lo contrario: orar mucho, pero sin mirar los números, los horarios ni las consecuencias. La fe no está peleada con pensar. Dios nos dio una mente para usarla."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús, antes de elegir a los doce apóstoles, pasó la noche entera orando (Lucas 6:12-13). La decisión más importante de su ministerio empezó de rodillas. Santiago nos invita a pedir sabiduría con confianza, sin dudar de que Dios quiere ayudarnos (Santiago 1:5-6).",
+        "La sabiduría bíblica también piensa con calma. Los planes se ordenan con consejo (Proverbios 20:18). Orar, pensar y escuchar a personas sabias no se contradicen: van juntos.",
+        "Cuando llegue el momento, busca la paz de Cristo en tu corazón (Colosenses 3:15). No es una emoción pasajera. Es una calma de fondo que acompaña lo que es bueno, honesto y hecho con amor."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe la decisión en una sola frase y ora con ella varios días. Pide sabiduría con sencillez (Santiago 1:5).",
+        "Haz dos columnas en un papel: lo bueno y lo difícil de cada opción. Incluye dinero, tiempo, familia y fe.",
+        "Pregúntate si alguna opción te pide desobedecer algo claro de la Biblia. Si es así, esa puerta ya está respondida.",
+        "Conversa con una o dos personas sabias que te conozcan bien (Proverbios 20:18).",
+        "Decide, encomienda la decisión al Señor y da el primer paso con calma (Proverbios 16:3)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Ya le pedí sabiduría a Dios, o solo le pedí que se haga lo que yo quiero?",
+        "¿Estoy decidiendo por miedo, por orgullo o por amor?",
+        "¿A quién afecta esta decisión, y ya escuché a esas personas?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Toma una hoja y escribe arriba tu decisión en una sola frase. Debajo, anota lo bueno y lo difícil de cada opción. Después ora con esa hoja en la mano y pídele a Dios sabiduría. Guárdala dentro de tu Biblia."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Ester tuvo que decidir si se presentaba ante el rey, aun arriesgando la vida. No lo hizo por impulso: primero ayunó y pidió a otros que ayunaran con ella (Ester 4:16). Lee su historia en «Ester», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Santiago 1:5-8", "nota": "Pedir sabiduría con confianza." },
+        { "ref": "Lucas 6:12-16", "nota": "Jesús ora toda la noche antes de elegir." },
+        { "ref": "Proverbios 16:1-3", "nota": "Encomendar al Señor nuestros planes." },
+        { "ref": "Ester 4:12-17", "nota": "Una decisión preparada con ayuno." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo que decidir y no veo claro. Tú prometiste dar sabiduría a quien la pide. Hoy te la pido. Ordena mis pensamientos, calma mis miedos y guíame a lo que es bueno. Quiero seguirte también en esto. Amén."
+    }
+  ],
+  "estudio": ["santiago"],
+  "buscar": "sabiduría"
+}

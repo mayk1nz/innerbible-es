@@ -1,0 +1,91 @@
+{
+  "id": "odio-mi-trabajo",
+  "titulo": "Cuando odio mi trabajo",
+  "etiquetas": ["Trabajo y propósito", "Trabajo", "Gratitud"],
+  "enUnMinuto": [
+    "Tu trabajo, aunque no lo elegiste, puede ser un lugar donde sirves al Señor.",
+    "No tienes que amarlo para hacerlo con dignidad, y puedes buscar algo mejor sin amargura.",
+    "Empieza hoy dando gracias por tres cosas buenas que sí te da."
+  ],
+  "versiculo": {
+    "texto": "Y todo lo que hagáis, hacedlo de ánimo, como al Señor, y no a los hombres;",
+    "referencia": "Colosenses 3:23"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Marta tiene 52 años y limpia oficinas de noche en Monterrey. Nadie la saluda, y el sueldo apenas alcanza. Cada tarde, antes de salir de casa, siente un nudo en el estómago. Le dice a su hija que ya no aguanta más."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El trabajo no es un castigo: Dios le dio trabajo al hombre desde el principio (Génesis 2:15). Y toda tarea honesta, hecha para el Señor, tiene valor delante de Él (Colosenses 3:23-24)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es trabajar con rabia: hacer lo mínimo, quejarse todo el día y contar las horas. Otros se tragan todo en silencio hasta que explotan en casa. Ninguna de las dos cosas cambia el trabajo. Solo te van amargando por dentro. Y la amargura se nota en la cara, en la salud y en la familia."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia no te pide fingir que todo está bien. Te invita a mirar tu trabajo con otros ojos. Pablo escribió a siervos que no habían elegido su trabajo. Les dijo que lo hicieran de corazón, como para el Señor (Colosenses 3:23-24). Tu jefe ve una parte; Dios ve todo tu esfuerzo.",
+        "También hay lugar para buscar algo mejor. Pablo dice que, si puedes mejorar tu situación, lo procures (1 Corintios 7:21). Mientras tanto, disfrutar el pan que ganas es un regalo de Dios (Eclesiastés 2:24). Servir bien hoy y buscar algo mejor mañana no se contradicen."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Antes de empezar, ofrece tu jornada al Señor con una frase sencilla: esto también es para ti (Colosenses 3:23).",
+        "Identifica qué te duele exactamente: el trato, el sueldo, el cansancio o la tarea. Ponerle nombre ayuda.",
+        "Elige una cosa pequeña que puedes hacer bien cada día, aunque nadie la note.",
+        "Cuida tu boca: evita la queja constante y habla del problema con quien puede ayudar (Filipenses 2:14).",
+        "Si puedes buscar otro trabajo, hazlo con oración y sin descuidar el que tienes (1 Corintios 7:21)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Odio el trabajo en sí, o algo concreto que podría hablar o cambiar?",
+        "¿Estoy trabajando para el Señor, o solo para que no me regañen?",
+        "¿Qué cosa buena me da este trabajo que hoy no estoy viendo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche, escribe tres cosas buenas que te da tu trabajo: el pan de tu mesa, un compañero, algo que aprendiste. Da gracias al Señor por cada una. Eso no cambia el trabajo, pero empieza a cambiar tu mirada."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Daniel sirvió en Babilonia, lejos de su tierra, en un gobierno que él no eligió. Aun allí trabajó con tanta fidelidad que no le hallaban falta (Daniel 6:4). Lee su ficha, «Daniel», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Colosenses 3:22-24", "nota": "Trabajar de corazón, como para el Señor." },
+        { "ref": "Eclesiastés 2:24", "nota": "El pan de tu trabajo es un regalo de Dios." },
+        { "ref": "Daniel 6:1-4", "nota": "Fiel en un trabajo que no eligió." },
+        { "ref": "Salmos 90:17", "nota": "Pide al Señor que confirme la obra de tus manos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, hoy no me gusta mi trabajo, y tú lo sabes. Te ofrezco mis manos y mi cansancio. Ayúdame a servirte aquí, con dignidad y sin amargura. Y si tienes algo mejor para mí, abre el camino. Amén."
+    }
+  ],
+  "estudio": ["colosenses"],
+  "buscar": "trabajo"
+}

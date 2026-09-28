@@ -1,0 +1,93 @@
+{
+  "id": "se-lo-correcto-pero-no-lo-hago",
+  "titulo": "Cuando sé lo correcto pero no lo hago",
+  "etiquetas": ["Hacedor de la Palabra", "Obediencia", "Primer paso"],
+  "enUnMinuto": [
+    "Saber lo bueno y no hacerlo es una lucha muy antigua; hasta el apóstol Pablo la vivió.",
+    "Dios no solo te muestra el camino: él mismo obra en ti el querer y el hacer.",
+    "Primer paso: elige una sola cosa pendiente y dale hoy un paso pequeño, no perfecto."
+  ],
+  "versiculo": {
+    "texto": "Porque Dios es el que en vosotros obra así el querer como el hacer, por su buena voluntad.",
+    "referencia": "Filipenses 2:13"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Andrés sabe que debe devolver el dinero que su compadre le prestó hace meses. Sabe que no debe gritar cuando llega cansado. Cada domingo escucha la prédica, asiente y promete cambiar. El lunes todo sigue igual, y él se siente peor cada semana."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La fuerza para obedecer no sale solo de ti. Dios obra en ti el querer y también el hacer (Filipenses 2:13). Tu parte es dar el paso; la suya es sostenerte."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es esperar a sentir ganas. Pensamos que primero vendrá el ánimo y después la acción. Pero las ganas casi nunca llegan solas.",
+        "Otro error es prometer demasiado: “Desde mañana cambio todo”. Esa promesa enorme dura dos días, y luego la culpa nos paraliza. Así, saber más no nos acerca a Dios; solo nos pesa más."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo lo dijo con honestidad: quiere hacer el bien y no lo logra; hace lo que no quiere (Romanos 7:18-19). No terminó en la desesperación. Terminó dando gracias a Dios por Jesucristo (Romanos 7:24-25).",
+        "Jesús contó de dos hijos. El primero respondió: «No quiero; mas después, arrepentido, fue». El segundo dijo que sí y no fue (Mateo 21:28-31). Al Padre le importa más el paso dado que la promesa bonita.",
+        "La Biblia también dice que no detengas el bien cuando tienes poder para hacerlo (Proverbios 3:27-28). No hace falta hacerlo todo hoy. Basta con no dejar para mañana el bien que puedes hacer hoy."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe una sola cosa buena que sabes que debes hacer. Solo una.",
+        "Pídele ayuda a Dios con sencillez: “Señor, obra en mí el querer y el hacer” (Filipenses 2:13).",
+        "Hazla más pequeña: no “pagar toda la deuda”, sino “devolver hoy una parte y poner fecha al resto”.",
+        "Ponle hora y lugar. Lo que no tiene hora casi nunca se hace.",
+        "Si fallas, no te castigues. Sus misericordias son nuevas cada mañana; vuelve a empezar (Lamentaciones 3:22-23)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué cosa buena llevo semanas, o años, posponiendo?",
+        "¿Estoy esperando sentir ganas para obedecer?",
+        "¿Quién me podría acompañar y preguntarme cómo voy?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige la cosa buena que vienes posponiendo y hazla hoy, antes de dormir, en su versión más pequeña. Si es llamar, llama; si es devolver, devuelve una parte. No lo dejes para mañana (Proverbios 3:28). Esta noche, cuéntale a Dios cómo te fue."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jonás sabía muy bien lo que Dios le pedía, y tomó un barco en dirección contraria. Dios le habló por segunda vez, y esta vez fue (Jonás 3:1-3). Lee su ficha, «Jonás», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Romanos 7:15-25", "nota": "Pablo y la lucha entre querer y hacer." },
+        { "ref": "Mateo 21:28-31", "nota": "Los dos hijos: el que dijo no y fue." },
+        { "ref": "Filipenses 2:12-13", "nota": "Dios obra en ti." },
+        { "ref": "Lamentaciones 3:22-23", "nota": "Misericordias nuevas cada mañana." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú sabes cuántas veces he dicho sí y no he ido. No quiero solo saber lo bueno; quiero hacerlo. Obra en mí el querer y el hacer. Dame fuerza para el primer paso de hoy. Amén."
+    }
+  ],
+  "estudio": ["romanos", "filipenses"],
+  "buscar": "obediencia"
+}

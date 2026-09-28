@@ -1,0 +1,94 @@
+{
+  "id": "la-tentacion-amenaza-mi-matrimonio",
+  "titulo": "Cuando la tentación amenaza mi matrimonio",
+  "etiquetas": ["Matrimonio y pareja", "Tentación", "Fidelidad"],
+  "enUnMinuto": [
+    "La infidelidad casi nunca empieza con una caída: empieza con pequeñas puertas que dejamos abiertas.",
+    "El primer paso es cerrar hoy esa puerta y contárselo a alguien de confianza."
+  ],
+  "versiculo": {
+    "texto": "No hay otro mayor que yo en esta casa, y ninguna cosa me ha reservado sino a ti, por cuanto tú eres su mujer; ¿cómo, pues, haría yo este grande mal, y pecaría contra Dios?",
+    "referencia": "Génesis 39:9"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Tomás tiene 41 años. Una antigua novia lo encontró en las redes y empezó a escribirle por las noches. Primero eran saludos; ahora ella le cuenta sus problemas y él los suyos. Él borra los mensajes antes de llegar a casa. “No está pasando nada”, se repite."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "José vio la tentación como un mal contra Dios, no solo contra su señor (Génesis 39:9). Frente a ciertas tentaciones, la Biblia no pide resistir de cerca: pide huir (2 Timoteo 2:22)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Creemos que somos fuertes y que podemos jugar cerca del fuego sin quemarnos. Nos decimos que es solo amistad, que no hay nada físico, que nos merecemos a alguien que nos escuche. Pero si hay algo que escondemos de nuestra pareja, ya cruzamos una línea. El secreto es la primera señal de peligro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Proverbios pregunta: «¿Tomará el hombre fuego en su seno, sin que sus vestidos se quemen?» (Proverbios 6:27). Jesús enseña que el adulterio empieza en el corazón, antes que en el cuerpo (Mateo 5:27-28). Por eso se cuida desde lo pequeño.",
+        "José no se quedó a discutir con la tentación. Cuando lo buscaron, dejó su ropa y huyó (Génesis 39:12). La Biblia también promete que con la tentación Dios da «la salida» (1 Corintios 10:13). Muchas veces esa salida es concreta: cortar un chat, cambiar una rutina, pedir ayuda. Y mientras cierras la puerta de afuera, vuelve a cuidar tu casa: tu matrimonio necesita atención, no solo vigilancia."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Reconoce el peligro con honestidad ante Dios. Deja de decir “no pasa nada”.",
+        "Corta el canal privado: no más chats personales ni encuentros a solas (2 Timoteo 2:22).",
+        "Cuéntaselo a una persona madura en la fe que te pida cuentas.",
+        "Pregúntate qué falta en tu matrimonio y habla de eso con tu pareja, con humildad.",
+        "Ora cada día por tu fidelidad, antes de que llegue el momento difícil (Mateo 26:41)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Hay mensajes, llamadas o encuentros que escondo de mi pareja?",
+        "¿Qué necesidad estoy buscando llenar fuera de casa?",
+        "Si mi pareja viera todo, ¿qué sentiría?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy cierra la puerta: deja de responder en privado a esa persona y bloquea el canal si hace falta. Después llama a un amigo o amiga de fe y cuéntale lo que estaba pasando."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José fue tentado cada día en casa de Potifar, y cada día dijo que no. Al final huyó, aunque le costó la cárcel. Conoce su historia en la ficha «José» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Ya cruzaste la línea? No lo escondas más. Busca a tu pastor, sacerdote o un consejero, y lee «Cuando hubo infidelidad». Si la tentación es compulsiva, como la pornografía, busca también ayuda profesional. No es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Génesis 39:1-12", "nota": "José huye de la tentación." },
+        { "ref": "Proverbios 6:20-29", "nota": "Nadie juega con fuego sin quemarse." },
+        { "ref": "1 Corintios 10:12-13", "nota": "Dios da la salida." },
+        { "ref": "Mateo 26:41", "nota": "Velar y orar." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, reconozco que estoy en peligro. No quiero pecar contra ti ni herir a mi familia. Dame valor para cerrar esta puerta hoy. Renueva el amor en mi matrimonio y guarda mi corazón. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50", "proverbios"],
+  "buscar": "fidelidad"
+}

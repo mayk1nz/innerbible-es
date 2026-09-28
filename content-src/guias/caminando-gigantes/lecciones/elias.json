@@ -1,0 +1,116 @@
+{
+  "id": "elias",
+  "titulo": "Elías",
+  "subtitulo": "Cuando ya no puedes más",
+  "etiquetas": ["Agotamiento", "Tristeza profunda", "El reino dividido"],
+  "enUnMinuto": [
+    "Después de una gran victoria, Elías recibió una amenaza de muerte, huyó al desierto y le pidió a Dios morir.",
+    "Dios no lo regañó: lo dejó dormir, le dio pan y agua, y después le habló con un silbo apacible.",
+    "Cuando ya no puedes más, Dios empieza por cuidarte, y luego te muestra que no estás solo."
+  ],
+  "versiculo": {
+    "texto": "Y volviendo el ángel de Jehová la segunda vez, tocole, diciendo: Levántate, come: porque gran camino te resta.",
+    "referencia": "1 Reyes 19:7"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Quizás ya no puedes más. Diste todo, y ahora estás vacío. Duermes mal, no tienes ganas de comer, todo te pesa. Piensas que a nadie le importa y que estás solo. Tal vez hasta le has dicho a Dios: “Basta ya”. Y te da vergüenza sentirte así, siendo creyente."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Elías era un profeta valiente. En el monte Carmelo oró, y cayó fuego del cielo. Todo el pueblo reconoció al Señor (1 Reyes 18:36-39). Después oró otra vez, y llegó la lluvia tras años de sequía (1 Reyes 18:41-45; Santiago 5:17-18).",
+        "Pero la reina Jezabel juró matarlo al día siguiente (1 Reyes 19:2). Elías huyó para salvar su vida. Dejó a su criado en Beerseba y caminó solo un día entero por el desierto. Se sentó bajo un enebro y pidió morir (1 Reyes 19:3-4).",
+        "Se quedó dormido. Un ángel lo tocó y le dijo: «Levántate, come». Junto a su cabeza había pan cocido y un vaso de agua. Comió, bebió y volvió a dormir. El ángel volvió una segunda vez (1 Reyes 19:5-7). Con esa comida caminó cuarenta días hasta el monte Horeb (1 Reyes 19:8)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "Bajo el enebro, Elías dijo: «Baste ya, oh Jehová, quita mi alma» (1 Reyes 19:4). Sentía que no era mejor que sus padres. En la cueva repitió dos veces: «yo solo he quedado, y me buscan para quitarme la vida» (1 Reyes 19:10). Estaba agotado, con miedo y convencido de que estaba solo. Hasta un gran profeta puede llegar a ese punto."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Elías no hizo nada heroico. Decidió algo sencillo: aceptar el cuidado de Dios. Se levantó, comió y descansó. Luego fue al monte y le dijo a Dios con sinceridad cómo se sentía.",
+        "Dios le preguntó con calma: «¿Qué haces aquí, Elías?» (1 Reyes 19:9). No le habló en el viento, ni en el terremoto, ni en el fuego. Le habló en «un silbo apacible y delicado» (1 Reyes 19:12). Le dijo que había siete mil fieles más (1 Reyes 19:18). Y le dio un compañero: Eliseo (1 Reyes 19:16, 19-21)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Cuida tu cuerpo: duerme, come y bebe agua. Dios empezó por ahí con Elías (1 Reyes 19:5-8).",
+        "Dile a Dios lo que sientes, sin maquillarlo. Elías lo dijo tal cual, y Dios lo escuchó (1 Reyes 19:4, 10).",
+        "Busca la voz suave de Dios en el silencio, no solo en lo espectacular (1 Reyes 19:11-12).",
+        "Rompe el aislamiento. No eres el único: Dios le mostró a Elías otros fieles y le dio a Eliseo (1 Reyes 19:18-21)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "En Getsemaní, Jesús dijo: «Mi alma está muy triste hasta la muerte» (Mateo 26:38). Y un ángel vino a confortarlo, como a Elías (Lucas 22:43). Jesús conoce el agotamiento y la tristeza por dentro. Por eso te dice: «Venid a mí todos los que estáis trabajados y cargados, que yo os haré descansar» (Mateo 11:28)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Estar agotado no es falta de fe. Elías era un hombre como nosotros (Santiago 5:17). Esta semana: haz una cosa por tu cuerpo, como dormir a tu hora o comer con calma. Haz también una cosa por tu alma: llama a alguien y dile de verdad cómo estás. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si, como Elías, has pensado que sería mejor morir, no lo cargues en silencio. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un médico o profesional. La tristeza profunda también se trata. Si estás en peligro, llama ahora a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "1 Reyes 18:36-46", "nota": "El fuego en el Carmelo y la lluvia." },
+        { "ref": "1 Reyes 19:1-8", "nota": "Bajo el enebro: pan, agua y descanso." },
+        { "ref": "1 Reyes 19:9-18", "nota": "En la cueva: el silbo apacible." },
+        { "ref": "1 Reyes 19:19-21", "nota": "Eliseo, su compañero." },
+        { "ref": "Santiago 5:17-18", "nota": "Un hombre como nosotros." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, ya no puedo más. Tú sabes lo cansado que estoy. Cuida mi cuerpo y mi alma. Háblame con tu voz suave, y ponme cerca de personas que me acompañen. No me dejes solo en el desierto. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Por qué creen que Elías se derrumbó justo después de una gran victoria?",
+        "Dios primero le dio pan, agua y sueño. ¿Qué nos enseña eso sobre el cuidado del cuerpo?",
+        "¿Cómo podemos acompañar a alguien que dice que ya no puede más?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué le dio el ángel a Elías bajo el enebro?",
+      "opciones": ["Una espada", "Pan cocido y un vaso de agua", "Un manto nuevo"],
+      "correcta": 1,
+      "explicacion": "Junto a su cabeza había una torta cocida y un vaso de agua (1 Reyes 19:6)."
+    },
+    {
+      "pregunta": "¿Cómo le habló Dios a Elías en el monte Horeb?",
+      "opciones": ["En un fuerte viento", "En un terremoto", "En un silbo apacible y delicado"],
+      "correcta": 2,
+      "explicacion": "Dios no estaba en el viento, el terremoto ni el fuego, sino en un silbo apacible (1 Reyes 19:11-12)."
+    },
+    {
+      "pregunta": "¿A quién le dio Dios a Elías como compañero?",
+      "opciones": ["A Eliseo", "A Jonás", "A Samuel"],
+      "correcta": 0,
+      "explicacion": "Elías echó su manto sobre Eliseo, que lo siguió y le servía (1 Reyes 19:19-21)."
+    }
+  ],
+  "estudio": ["1-reyes-12-22"],
+  "buscar": "Elías"
+}

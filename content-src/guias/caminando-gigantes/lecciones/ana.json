@@ -1,0 +1,118 @@
+{
+  "id": "ana",
+  "titulo": "Ana",
+  "subtitulo": "Cuando tu dolor es invisible para los demás",
+  "etiquetas": ["Dolor invisible", "Oración", "1 Samuel 1–2", "Tiempo de los jueces"],
+  "enUnMinuto": [
+    "Ana cargaba un dolor que nadie a su alrededor entendía: no podía tener hijos, y cada año la herían por eso.",
+    "Su esposo no la comprendía y el sacerdote la creyó borracha, pero ella derramó su alma delante de Dios.",
+    "Salió en paz antes de tener la respuesta, porque Dios sí la había visto."
+  ],
+  "versiculo": {
+    "texto": "Y Anna le respondió, diciendo: No, señor mío: mas yo soy una mujer trabajada de espíritu: no he bebido vino ni sidra, sino que he derramado mi alma delante de Jehová.",
+    "referencia": "1 Samuel 1:15"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "Si hoy te sientes así",
+      "tono": "navy",
+      "texto": "Por fuera sigues adelante, pero por dentro llevas un dolor que nadie ve. Cuando lo cuentas, te dicen que no es para tanto, o te dan consejos rápidos. Quizás alguien hasta se burla de lo que te falta. Lloras a solas y se te quitan las ganas de comer. Ana sabía lo que es sufrir sin que nadie entienda."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Ana era esposa de Elcana. Él tenía otra esposa, Penina, que sí tenía hijos; Ana no podía tenerlos (1 Samuel 1:2). Cada año la familia subía a Silo para adorar a Dios. Y cada año Penina la irritaba y la entristecía por eso (1 Samuel 1:6-7).",
+        "Ana lloraba y no comía. Elcana la amaba y le daba una parte especial. Pero no entendía su herida: «¿No te soy yo mejor que diez hijos?», le dijo (1 Samuel 1:5, 8).",
+        "Un día, Ana se levantó y fue al templo. Con amargura de alma oró y lloró mucho (1 Samuel 1:10). Prometió que, si Dios le daba un hijo, se lo dedicaría toda la vida. Oraba en silencio; solo se movían sus labios. El sacerdote Elí la vio y pensó que estaba borracha (1 Samuel 1:12-14).",
+        "Ana le explicó con humildad que no había bebido: estaba derramando su alma. Elí la bendijo, y ella se fue, comió y «no estuvo más triste» (1 Samuel 1:15-18). Tiempo después nació Samuel. Ana cumplió su promesa y cantó al Dios que «levanta del polvo al pobre» (1 Samuel 1:20; 2:8)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "La lucha por dentro",
+      "texto": "El dolor de Ana tenía tres capas. Le faltaba lo que más deseaba. La herían por eso año tras año. Y quienes la amaban o debían cuidarla no la entendían. Ella misma se describió como «una mujer trabajada de espíritu» (1 Samuel 1:15). Dijo que hablaba «por la magnitud de mis congojas y de mi aflicción» (1 Samuel 1:16). Quizás sentía que a nadie le importaba de verdad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo que decidió",
+      "parrafos": [
+        "Ana decidió no responder a Penina con la misma moneda. La Biblia no registra ni una palabra suya contra su rival. Llevó su herida al único lugar donde sería comprendida.",
+        "Decidió orar con su dolor tal como era. No cuidó las apariencias ni esperó a sentirse mejor. Le pidió a Dios que mirara su aflicción y no se olvidara de ella (1 Samuel 1:11).",
+        "Y decidió explicarse con humildad cuando la juzgaron mal. No se ofendió con Elí ni se fue del templo. Después se levantó, comió y ya no estaba triste. Todavía no tenía el hijo, pero ya tenía paz."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Pasos que puedes copiar",
+      "items": [
+        "Ponle nombre a tu dolor delante de Dios. Ana le pidió que mirara su aflicción (1 Samuel 1:11).",
+        "Ora aunque no te salgan las palabras. Dios escucha también los labios que se mueven en silencio (1 Samuel 1:13; Romanos 8:26).",
+        "Si te juzgan mal, explícate con calma, sin devolver la herida (1 Samuel 1:15-16).",
+        "Después de orar, cuida también tu cuerpo: Ana se levantó y comió (1 Samuel 1:18)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "texto": "Jesús ve lo que otros no ven. En el templo se fijó en una viuda pobre que dio dos moneditas, cuando nadie la notaba (Marcos 12:41-44). Enseñó que el Padre «ve en secreto» (Mateo 6:6). Y el canto de Ana resuena en el de María, la madre de Jesús: Dios «levantó a los humildes» (Lucas 1:52). En Jesús, tu dolor escondido tiene quien lo mire."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tu dolor no es menos real porque otros no lo vean. Dios lo ve y guarda cada lágrima (Salmos 56:8). No siempre recibimos lo que pedimos, pero sí podemos recibir su paz. Esta semana: busca un momento a solas y cuéntale a Dios lo que nadie sabe. Si puedes, dile también a una persona de confianza cómo estás de verdad. Si quieres, cuéntale esta lucha a tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si llevas tiempo llorando mucho, sin ganas de comer o de vivir, no lo cargues solo. Busca hoy a alguien de confianza, a tu pastor o sacerdote, o a un médico o profesional. La tristeza profunda también se trata. Si piensas en hacerte daño, llama ahora a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Lee su historia",
+      "items": [
+        { "ref": "1 Samuel 1:1-8", "nota": "El dolor que nadie entendía." },
+        { "ref": "1 Samuel 1:9-18", "nota": "La oración en silencio." },
+        { "ref": "1 Samuel 1:19-28", "nota": "Nace Samuel y Ana cumple su promesa." },
+        { "ref": "1 Samuel 2:1-10", "nota": "El canto de Ana." },
+        { "ref": "Lucas 1:46-55", "nota": "El canto de María." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú ves el dolor que nadie ve. Hoy derramo mi alma delante de ti, aunque no tenga palabras. Guarda mis lágrimas y no te olvides de mí. Dame tu paz, aun antes de la respuesta. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar",
+      "items": [
+        "¿Qué dolores suelen quedar invisibles en nuestras familias o en la iglesia?",
+        "Elcana amaba a Ana, pero no la entendía. ¿Cómo acompañar a alguien sin minimizar su dolor?",
+        "Ana tuvo paz antes de tener la respuesta. ¿Cómo puede ser eso?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hacía Penina cada año, cuando la familia subía a Silo?",
+      "opciones": ["Irritaba y entristecía a Ana", "Oraba junto a Ana", "Consolaba a Ana"],
+      "correcta": 0,
+      "explicacion": "Su rival la irritaba y la entristecía, y Ana lloraba y no comía (1 Samuel 1:6-7)."
+    },
+    {
+      "pregunta": "¿Cómo oraba Ana en el templo?",
+      "opciones": ["A gritos, delante de todos", "Cantando con un arpa", "En silencio, moviendo solo los labios"],
+      "correcta": 2,
+      "explicacion": "Ana hablaba en su corazón; solo se movían sus labios y su voz no se oía (1 Samuel 1:13)."
+    },
+    {
+      "pregunta": "¿Qué hizo Ana después de que Elí la bendijo?",
+      "opciones": ["Se quedó llorando en el templo", "Se fue, comió y ya no estuvo triste", "Fue a discutir con Penina"],
+      "correcta": 1,
+      "explicacion": "Ana se fue por su camino, comió y «no estuvo más triste» (1 Samuel 1:18)."
+    }
+  ],
+  "estudio": ["1-samuel"],
+  "buscar": "Ana"
+}

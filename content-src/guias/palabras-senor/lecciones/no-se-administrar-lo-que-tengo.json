@@ -1,0 +1,91 @@
+{
+  "id": "no-se-administrar-lo-que-tengo",
+  "titulo": "Cuando no sé administrar lo que tengo",
+  "etiquetas": ["Dinero y provisión", "Administración", "Ahorro"],
+  "enUnMinuto": [
+    "Lo que tienes, mucho o poco, es un encargo de Dios para cuidar.",
+    "Administrar bien no es cosa de ricos: es conocer y cuidar lo que hay.",
+    "Hoy separa aunque sea una moneda para una reserva."
+  ],
+  "versiculo": {
+    "texto": "Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel.",
+    "referencia": "1 Corintios 4:2"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Diana cobra cada quincena en Quito. Para el martes siguiente ya no le queda nada, y no sabe en qué se le fue. Paga lo urgente, se da algún gusto y después le pide prestado a su hermana. Siente que el dinero se le escapa de las manos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Somos administradores de lo que Dios nos confía, y a un administrador se le pide fidelidad (1 Corintios 4:2). Conocer bien lo que tienes es parte de esa fidelidad (Proverbios 27:23)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es no mirar: gastar sin anotar y esperar que alcance. Otro es pensar que administrar es solo para quien tiene mucho. En la parábola de los talentos, el señor no reprende al siervo por tener poco. Lo reprende porque, por miedo, escondió lo que recibió (Mateo 25:24-27)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "José administró Egipto en los años de abundancia y guardó para los años de hambre (Génesis 41:34-36). No fue magia: fue orden, previsión y constancia. Proverbios dice que en la casa del sabio hay reservas, y que el necio lo gasta todo (Proverbios 21:20).",
+        "En la parábola, cada siervo recibe según su capacidad (Mateo 25:14-15). Dios no te pide lo que no tienes; te pide cuidar bien lo que sí tienes. Y administrar incluye tres cosas: dar, guardar y disfrutar con gratitud."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Anota cada gasto durante un mes, hasta el más pequeño. Así sabrás a dónde se va.",
+        "Apenas cobres, separa primero lo esencial: comida, techo, servicios y transporte.",
+        "Aparta algo para dar y algo para guardar, aunque sea poco (Proverbios 21:20).",
+        "Decide un monto fijo para tus gustos personales, y no pases de ahí.",
+        "Revisa tus cuentas cada semana con calma, y ajusta sin culparte (Proverbios 27:23)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Sé cuánto gasté este mes, y en qué?",
+        "¿Estoy cuidando lo que Dios me dio, o solo lo dejo pasar?",
+        "¿Qué gasto pequeño se repite y se come mi dinero?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Busca hoy un sobre o un frasco y escribe en él: reserva. Pon dentro una moneda o un billete, aunque sea pequeño. Es tu primer granero, como los de José."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José pasó de preso a administrador de Egipto. Guardó trigo en los años buenos, y así salvó a muchos en los años malos (Génesis 41:48-49). Lee «José» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Génesis 41:33-36", "nota": "El plan de José para los años de hambre." },
+        { "ref": "Mateo 25:14-30", "nota": "La parábola de los talentos." },
+        { "ref": "Proverbios 27:23-24", "nota": "Conoce bien el estado de lo que tienes." },
+        { "ref": "1 Corintios 4:1-2", "nota": "Administradores fieles." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, todo lo que tengo es tuyo. Perdona mi desorden. Enséñame a cuidar con fidelidad lo poco o lo mucho que me das. Dame constancia para anotar, guardar y compartir. Amén."
+    }
+  ],
+  "estudio": ["proverbios"],
+  "buscar": "administración"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "una-adiccion-me-domina",
+  "titulo": "Cuando una adicción me domina",
+  "etiquetas": ["Tentación y hábitos", "Adicción", "Libertad"],
+  "enUnMinuto": [
+    "Lo que te domina no tiene la última palabra: Jesús vino a hacer libres a los esclavos.",
+    "Esa libertad casi siempre llega paso a paso, con Dios, con otros y con ayuda profesional.",
+    "Primer paso: di la verdad sin rodeos y pide ayuda hoy mismo."
+  ],
+  "versiculo": {
+    "texto": "Así que, si el Hijo os libertare, seréis verdaderamente libres.",
+    "referencia": "Juan 8:36"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Don Aníbal empezó a tomar más cuando perdió su trabajo. Ahora bebe todos los días, esconde botellas en el patio y ya faltó dos veces a su nuevo empleo. Su esposa llora. Él promete dejarlo, y al día siguiente vuelve a tomar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La Biblia llama esclavitud a lo que nos domina (2 Pedro 2:19). Y Jesús promete una libertad verdadera (Juan 8:36). Esa libertad no es magia: es un camino que se recorre acompañado."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es pensar que basta con prometer, con orar una vez más o con tener fuerza de voluntad. Otros niegan el problema: “yo lo controlo”, “no es para tanto”.",
+        "La familia también se equivoca a veces: grita, humilla, esconde el problema o paga las deudas del vicio. Nada de eso libera. La adicción cambia el cuerpo y la mente. Por eso casi nadie sale solo.",
+        "Aquí no hablamos de si un cristiano puede tomar una copa. Las iglesias lo viven de maneras distintas; habla con tu pastor o sacerdote. Hablamos de cuando algo te domina: alcohol, drogas, juego, pornografía o pastillas."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Pablo escribió: «yo no me meteré debajo de potestad de nada» (1 Corintios 6:12). Nombrar la adicción como lo que es, una esclavitud, es el primer paso hacia la libertad.",
+        "Pablo también describe la lucha por dentro: hago lo que no quiero, y lo que aborrezco, eso hago (Romanos 7:15). Pero no termina en derrota. Termina dando gracias a Dios por Jesucristo (Romanos 7:24-25). Cristo no desprecia al que lucha; lo busca.",
+        "La libertad se vive en comunidad. Dos son mejor que uno: si uno cae, el otro lo levanta (Eclesiastés 4:9-10). Dios también obra por medio de médicos, tratamientos y grupos de apoyo. Usarlos no es falta de fe."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Di la verdad sin rodeos, ante Dios y ante ti: “Tengo una adicción y no puedo solo”.",
+        "Cuéntaselo a una persona de confianza y a tu pastor o sacerdote.",
+        "Pide cita con un médico o un centro de tratamiento; no lo dejes de golpe sin guía médica.",
+        "Busca un grupo de apoyo y ve, aunque sientas vergüenza (Eclesiastés 4:9-10).",
+        "Si recaes, no te escondas: vuelve a llamar y vuelve a empezar (Miqueas 7:8)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué he perdido ya por esto: salud, dinero, confianza, tiempo?",
+        "¿A quién le miento para poder seguir igual?",
+        "¿Qué me impide pedir ayuda hoy?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, antes de dormir, llama o visita a alguien que pueda ayudarte. Puede ser tu médico, tu pastor o sacerdote, o un grupo de apoyo. Dile una sola frase: “Necesito ayuda con mi adicción”. Esa frase ya es un paso hacia la libertad."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Una adicción es también un problema de salud. Busca hoy a un médico o profesional. Dejar de golpe el alcohol o ciertas pastillas puede ser peligroso: hazlo con guía médica. Si hay riesgo para tu vida o la de otros, llama al número de emergencias. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 8:31-36", "nota": "La verdad y la libertad que da Jesús." },
+        { "ref": "Romanos 7:15-25", "nota": "La lucha por dentro y la gracia." },
+        { "ref": "Gálatas 5:1", "nota": "Firmes en la libertad de Cristo." },
+        { "ref": "Lucas 15:11-24", "nota": "El hijo que vuelve y el padre que corre." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, esto me domina y ya no puedo solo. Rompe mis cadenas y dame humildad para pedir ayuda. Pon en mi camino personas que me acompañen. Cuida a mi familia mientras me recupero. Amén."
+    }
+  ],
+  "estudio": ["romanos", "galatas"],
+  "buscar": "libertad"
+}

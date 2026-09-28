@@ -1,0 +1,96 @@
+{
+  "id": "tengo-que-confrontar-a-alguien",
+  "titulo": "Cuando tengo que confrontar a alguien",
+  "etiquetas": ["Amistades y convivencia", "Confrontar", "Verdad en amor"],
+  "enUnMinuto": [
+    "Callar un problema no siempre es paz; a veces es miedo.",
+    "Jesús enseñó a hablar a solas con quien nos ofende, con humildad, para ganarlo y no para vencerlo.",
+    "Primer paso: revisa tu propio corazón antes de hablar."
+  ],
+  "versiculo": {
+    "texto": "Por tanto, si tu hermano pecare contra ti, ve, y redargúyele entre ti y él solo: si te oyere, has ganado a tu hermano.",
+    "referencia": "Mateo 18:15"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Ulises y su primo Beto atienden juntos un puesto de comida. Desde hace meses, Beto llega tarde, deja el trabajo a medias y Ulises termina haciéndolo todo. Ulises no le dice nada, pero ya no lo soporta. Se queja con todos, menos con Beto."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Si alguien te ofende, habla primero con esa persona, a solas, para ganarla (Mateo 18:15). La verdad se dice con amor (Efesios 4:15)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es callar por fuera y hervir por dentro. Luego uno se queja con todos, menos con la persona. O aguanta hasta explotar y lo dice todo de golpe, con rabia. Quejarse con otros daña el nombre del otro. Explotar daña la relación. Ninguno de los dos resuelve el problema."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús da un orden claro: primero ve tú, entre tú y él solo (Mateo 18:15). No en público, no con indirectas, no por medio de otros. La meta es ganar a tu hermano, no ganarle la discusión.",
+        "Antes de hablar, mira la viga en tu propio ojo (Mateo 7:3-5). ¿Qué parte tuya hay en el problema? Ir con humildad cambia el tono de toda la conversación. Pablo pide corregir con mansedumbre, sabiendo que tú también puedes caer (Gálatas 6:1).",
+        "Di la verdad con amor (Efesios 4:15). Habla de hechos concretos, no de juicios: “Llegaste tarde cuatro días esta semana”, no “eres un irresponsable”. Y escucha su versión. Las heridas del que ama son fieles (Proverbios 27:6)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora y revisa tu parte en el problema (Mateo 7:3-5).",
+        "Busca un momento a solas y tranquilo, no en medio del enojo (Mateo 18:15).",
+        "Habla de hechos concretos y de cómo te afectan. Evita decir “siempre” y “nunca”.",
+        "Escucha su versión sin interrumpir. Quizás hay algo que no sabías.",
+        "Propongan juntos un cambio concreto, y deja de quejarte con los demás."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy hablando con la persona, o solo de la persona?",
+        "¿Quiero ganar a mi hermano, o ganar la discusión?",
+        "¿He mirado mi propia parte en este problema?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy las dos frases con que vas a empezar la conversación: un hecho concreto y lo que necesitas. Léelas en voz alta y quítales toda palabra de ataque."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Abigail se atrevió a hablarle a David cuando iba a vengarse, con humildad y valentía. Él le agradeció que lo detuviera (1 Samuel 25:32-33). Lee su ficha, «Abigail», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la persona es violenta, te amenaza o abusa de ti, no la confrontes a solas. Tu seguridad va primero. Busca hoy a alguien de confianza, tu pastor o sacerdote o un profesional. En peligro, llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Mateo 18:15-17", "nota": "Los pasos que enseñó Jesús." },
+        { "ref": "Mateo 7:1-5", "nota": "Primero la viga propia." },
+        { "ref": "Gálatas 6:1-2", "nota": "Restaurar con mansedumbre." },
+        { "ref": "1 Samuel 25:23-33", "nota": "Abigail habla con sabiduría." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, dame valor para hablar y humildad para escuchar. Muéstrame mi propia viga antes que la mota ajena. Pon en mi boca la verdad con amor. Que busque ganar a mi hermano, no vencerlo. Amén."
+    }
+  ],
+  "estudio": ["galilea-milagros", "1-samuel"],
+  "buscar": "corregir"
+}

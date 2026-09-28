@@ -1,0 +1,94 @@
+{
+  "id": "hubo-infidelidad",
+  "titulo": "Cuando hubo infidelidad",
+  "etiquetas": ["Matrimonio y pareja", "Infidelidad", "Restauración"],
+  "enUnMinuto": [
+    "La infidelidad rompe algo muy profundo; no se sana sobre mentiras, pero Dios venda los corazones quebrados.",
+    "El primer paso es no decidir todo en caliente: busca ayuda y a alguien de confianza hoy mismo."
+  ],
+  "versiculo": {
+    "texto": "Porque el dolor que es según Dios, obra arrepentimiento saludable, de que no hay que arrepentirse; mas el dolor del siglo obra muerte.",
+    "referencia": "2 Corintios 7:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Norma encontró mensajes en el teléfono de Marcos. Él terminó confesando que tenía una relación con una compañera de trabajo. Después de dieciocho años de casados, ella no puede dormir ni comer. Él llora y pide otra oportunidad. Ninguno sabe qué hacer."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Llorar no basta: el dolor según Dios produce un arrepentimiento que cambia la conducta (2 Corintios 7:10). No hay sanidad sobre la mentira (Efesios 4:25). Y Dios venda con cuidado el corazón quebrado (Salmos 147:3)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El que fue traicionado suele culparse, o decidir todo en medio del dolor. El que falló suele esconder parte de la verdad, minimizar o exigir un perdón rápido. También es común contarle todo a medio mundo, o callarlo ante todos. Nada de eso sana. Las heridas tapadas se infectan, y las decisiones en caliente pesan años."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Para quien falló: la Biblia no pide excusas, pide confesión y cambio real. «el que los confiesa y se aparta, alcanzará misericordia» (Proverbios 28:13). Apartarse significa cortar todo contacto y ser transparente. David, después de su adulterio, no se justificó: pidió a Dios un corazón limpio (Salmos 51).",
+        "Para quien fue herido: tu dolor es real, y no es tu culpa. Perdonar es un camino, no un momento; y perdonar no es lo mismo que confiar enseguida. Cuando Jesús habla del divorcio, menciona la infidelidad como excepción (Mateo 19:9). Algunas parejas se restauran y otras no. Las iglesias lo viven de maneras distintas; habla con tu pastor o sacerdote."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "No tomes decisiones grandes en los primeros días. Respira, ora y busca apoyo.",
+        "Si fallaste: di toda la verdad, corta el contacto y acepta que la confianza tarda (Proverbios 28:13).",
+        "Si te hirieron: dile a Dios todo lo que sientes, sin filtro (Salmos 62:8).",
+        "Busquen juntos o por separado a un pastor, sacerdote o consejero de parejas.",
+        "Cuida a los hijos: no los uses de mensajeros ni de jueces."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy decidiendo desde el dolor o desde la oración y el consejo?",
+        "Si fallé, ¿he dicho toda la verdad o solo una parte?",
+        "¿Quién me acompaña en esto, además de mí mismo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "No cargues esto solo. Hoy llama a una persona madura en la fe, o pide cita con tu pastor, sacerdote o un consejero de parejas. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "David cometió adulterio y lo encubrió, hasta que el profeta Natán lo enfrentó. Su arrepentimiento dio origen al Salmo 51. Conoce su historia en la ficha «David, después de caer» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Este dolor puede traer insomnio, angustia fuerte o pensamientos de morir. Busca hoy a alguien de confianza, tu pastor o sacerdote y un médico. Si hay amenazas o violencia, tu seguridad va primero. Hacerse un chequeo médico también es cuidarse. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 51", "nota": "La oración de David arrepentido." },
+        { "ref": "Salmos 147:1-6", "nota": "Dios venda los corazones rotos." },
+        { "ref": "Proverbios 28:13", "nota": "Confesar y apartarse." },
+        { "ref": "Mateo 19:3-9", "nota": "Jesús habla del matrimonio y la infidelidad." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, nuestra casa está rota y tú ves todo lo que pasó. Si fallé, dame verdad y un arrepentimiento sincero. Si me hirieron, sana mi corazón y guárdame de decidir desde la rabia. Guíanos con tu sabiduría. Amén."
+    }
+  ],
+  "estudio": ["2-samuel", "salmos"],
+  "buscar": "infidelidad"
+}

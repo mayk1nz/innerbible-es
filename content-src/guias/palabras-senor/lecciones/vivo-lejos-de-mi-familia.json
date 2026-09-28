@@ -1,0 +1,96 @@
+{
+  "id": "vivo-lejos-de-mi-familia",
+  "titulo": "Cuando vivo lejos de mi familia",
+  "etiquetas": ["Hijos y familia", "Migración", "Nostalgia"],
+  "enUnMinuto": [
+    "Vivir lejos de los tuyos duele, pero no estás lejos de Dios.",
+    "Él guía a los suyos en cualquier tierra y da una familia en la fe a quien está solo.",
+    "Primer paso: busca una comunidad de fe donde vives, sin dejar de cuidar a los que dejaste."
+  ],
+  "versiculo": {
+    "texto": "Si tomare las alas del alba, y habitare en el extremo de la mar, Aun allí me guiará tu mano, y me asirá tu diestra.",
+    "referencia": "Salmo 139:9-10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hace tres años, Edwin dejó Honduras para trabajar en otro país. Envía dinero cada mes y habla con sus hijos por videollamada. Pero los domingos le pesan. Come solo, extraña la comida de su madre y siente que se pierde la vida de los suyos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "No hay lugar tan lejano donde la mano de Dios no llegue (Salmo 139:9-10). Él es el Dios que «hace habitar en familia los solos» (Salmo 68:6)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos se encierran en el trabajo y en el celular, y viven solo para enviar dinero. Otros intentan olvidar para no sufrir. Así el corazón se va secando. La soledad sin nadie cerca abre la puerta a la tristeza, al alcohol o a malas compañías."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jacob salió de casa solo y con miedo. Dios le prometió: «yo soy contigo, y te guardaré por donde quiera que fueres» (Génesis 28:15). Esa promesa también te acompaña en la ciudad donde estás.",
+        "Jesús habló de una familia nueva. Quien hace la voluntad de Dios es su hermano, su hermana y su madre (Marcos 3:35). La iglesia puede ser esa familia. No reemplaza a la tuya, pero te sostiene mientras estás lejos.",
+        "Dios pidió a los desterrados en Babilonia buscar la paz de la ciudad donde vivían y orar por ella (Jeremías 29:7). Echar raíces donde estás no es traicionar a los tuyos. Es vivir con esperanza."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Dile a Dios con sinceridad lo que extrañas y lo que te duele.",
+        "Busca una iglesia o comunidad cercana y ve con constancia (Salmo 68:6).",
+        "Fija un día y una hora para hablar con tu familia de la vida, no solo de dinero.",
+        "Ora cada día por los tuyos por su nombre, aunque estés lejos.",
+        "Busca el bien del lugar donde vives: ayuda a un vecino o a alguien que acaba de llegar (Jeremías 29:7)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy viviendo solo para trabajar, o también estoy cuidando mi alma?",
+        "¿Tengo a alguien cerca a quien llamar si me pasa algo?",
+        "¿Cómo puedo seguir presente en la vida de mi familia a pesar de la distancia?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Busca hoy la dirección y el horario de una iglesia o grupo de oración cerca de donde vives. Anótalo en tu teléfono con el día en que vas a ir. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José vivió muchos años lejos de su familia, en una tierra extraña. Dios estuvo con él hasta el reencuentro (Génesis 45:14-15). Lee su ficha, «José», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la soledad te quita el sueño o las ganas de vivir, o te lleva a beber más, busca ayuda hoy. Habla con alguien de confianza, tu pastor o sacerdote o un profesional de salud. Si piensas en hacerte daño, llama a un número de emergencia. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 139:7-12", "nota": "No hay lugar lejos de Dios." },
+        { "ref": "Génesis 28:10-16", "nota": "Dios acompaña a Jacob lejos de casa." },
+        { "ref": "Jeremías 29:4-7", "nota": "Buscar la paz de la ciudad." },
+        { "ref": "Rut 2:11-12", "nota": "Dios cuida al extranjero bajo sus alas." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú estás aquí y estás con los míos. Cuida a mi familia donde yo no puedo llegar. Dame hermanos en la fe en esta tierra. Que la distancia no enfríe mi amor ni mi fe. Amén."
+    }
+  ],
+  "estudio": ["salmos", "genesis-12-50"],
+  "buscar": "extranjero"
+}

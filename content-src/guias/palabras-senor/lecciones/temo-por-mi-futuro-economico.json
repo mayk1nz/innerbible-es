@@ -1,0 +1,90 @@
+{
+  "id": "temo-por-mi-futuro-economico",
+  "titulo": "Cuando temo por mi futuro económico",
+  "etiquetas": ["Dinero y provisión", "Futuro", "Confianza"],
+  "enUnMinuto": [
+    "El miedo al futuro es real, pero Jesús te invita a mirar cómo el Padre cuida lo que creó.",
+    "Confiar no es dejar de planear: es planear sin angustia.",
+    "Hoy recuerda por escrito cómo Dios ya te sostuvo."
+  ],
+  "versiculo": {
+    "texto": "Mirad las aves del cielo, que no siembran, ni siegan, ni allegan en alfolíes; y vuestro Padre celestial las alimenta. ¿No sois vosotros mucho mejores que ellas?",
+    "referencia": "Mateo 6:26"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Rosa María tiene 61 años y limpia casas en San Salvador. Nunca cotizó para una pensión. Por las noches hace cuentas y se pregunta qué pasará cuando ya no pueda trabajar. Le da vergüenza pedirles ayuda a sus hijos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Tu Padre celestial alimenta a las aves, y tú vales más que ellas (Mateo 6:26). El mañana está en sus manos. A ti te toca vivir el día de hoy con fe y con prudencia (Mateo 6:34)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es vivir con el estómago apretado, haciendo cuentas cada noche sin decidir nada. Otro es no pensar nunca en el futuro, como si planear fuera falta de fe. El primero te roba la paz. El segundo te deja sin preparación cuando llegan los años difíciles."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús habló a gente pobre, que vivía al día. Les dijo que no se angustiaran por qué comer o vestir, porque el Padre sabe lo que necesitan (Mateo 6:31-32). Y les dio una prioridad: buscar primero el reino de Dios y su justicia (Mateo 6:33).",
+        "La Biblia también elogia a la hormiga, que guarda en verano para el tiempo difícil (Proverbios 6:6-8). Prever con lo poco que tienes es sabiduría, no desconfianza. Y los hijos están llamados a cuidar de sus padres, como algo agradable delante de Dios (1 Timoteo 5:4)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuando llegue el miedo, conviértelo en oración, con gratitud (Filipenses 4:6).",
+        "Haz una lista de lo que ya tienes: ingresos, apoyos, bienes y personas cercanas.",
+        "Averigua opciones reales: pensiones, programas para adultos mayores, seguros populares.",
+        "Guarda algo cada semana, aunque sea muy poco, como la hormiga (Proverbios 6:6-8).",
+        "Habla con tus hijos o tu familia con sencillez. Pedir apoyo no es ser una carga."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi miedo me lleva a orar y actuar, o solo a angustiarme?",
+        "¿Cuántas veces ya me sostuvo Dios cuando no veía salida?",
+        "¿Qué paso concreto puedo dar este mes para prepararme?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy cinco momentos en que Dios ya te sostuvo: un trabajo que llegó, una ayuda inesperada, una deuda pagada. Léelos en voz alta y da gracias. Es lo que pide el salmo: no olvidar sus beneficios (Salmos 103:2)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Agar caminó por el desierto con su hijo, sin agua y sin futuro. Dios oyó al muchacho y le abrió los ojos para ver una fuente (Génesis 21:17-19). Lee «Agar» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Mateo 6:25-34", "nota": "No se angustien por el día de mañana." },
+        { "ref": "Proverbios 6:6-8", "nota": "La hormiga que se prepara." },
+        { "ref": "Génesis 21:14-19", "nota": "Dios provee agua en el desierto." },
+        { "ref": "Salmos 71:9", "nota": "Una oración para el tiempo de la vejez." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, tengo miedo del mañana. Tú alimentas a las aves y conoces lo que necesito. Enséñame a vivir el día de hoy confiando en ti. Dame sabiduría para prepararme y paz para dormir. Amén."
+    }
+  ],
+  "buscar": "confianza"
+}

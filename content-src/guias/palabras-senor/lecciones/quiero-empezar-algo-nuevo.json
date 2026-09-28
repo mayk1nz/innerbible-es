@@ -1,0 +1,90 @@
+{
+  "id": "quiero-empezar-algo-nuevo",
+  "titulo": "Cuando quiero empezar algo nuevo",
+  "etiquetas": ["Decisiones y dirección", "Proyectos", "Planificación"],
+  "enUnMinuto": [
+    "Empezar algo nuevo puede ser un buen paso de fe, si se hace con oración y con planificación.",
+    "Jesús enseña a calcular antes de construir, y la Biblia anima a no despreciar los comienzos pequeños.",
+    "Primer paso: calcula cuánto te costará tu proyecto en dinero, tiempo y energía."
+  ],
+  "versiculo": {
+    "texto": "Porque ¿cuál de vosotros, queriendo edificar una torre, no cuenta primero sentado los gastos, si tiene lo que necesita para acabarla?",
+    "referencia": "Lucas 14:28"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Lucía, de 45 años, hace los mejores tamales de su colonia en Puebla. Sus vecinas le dicen que ponga un negocio. Ella lo sueña desde hace años, pero nunca se animó. Tiene un pequeño ahorro y mucho miedo de perderlo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús enseña que el que quiere construir primero se sienta a calcular los gastos (Lucas 14:28). Soñar es bueno. Planear también es parte de la fe."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Hay dos errores frecuentes. El primero es lanzarse sin calcular: pedir un préstamo grande, dejar el trabajo de golpe y esperar que Dios lo resuelva todo. Cuando el dinero se acaba a medio camino, llega la vergüenza que Jesús describe (Lucas 14:29-30).",
+        "El segundo es no empezar nunca. Se espera el momento perfecto, el dinero perfecto, la señal perfecta. La Biblia dice que el que se queda mirando el viento no siembra (Eclesiastés 11:4)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Empieza en pequeño. Cuando el pueblo reconstruía el templo con pocos recursos, Dios dijo que no se despreciaran los comienzos humildes (Zacarías 4:10). Una mesa en la puerta de la casa puede ser el primer paso de un negocio.",
+        "Pon tus planes en manos del Señor, y tus pensamientos serán afirmados (Proverbios 16:3). Esto no es una promesa de riqueza. Es la certeza de que no caminas solo y de que Él puede ordenar tus planes.",
+        "Y trabaja con ganas, como para el Señor y no para la gente (Colosenses 3:23). Un trabajo honesto y bien hecho también es un testimonio."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Escribe tu idea en una frase y pregúntale a Dios si es honesta y si sirve a otros.",
+        "Calcula los gastos: dinero, tiempo, horas de sueño y el efecto en tu familia (Lucas 14:28).",
+        "Empieza con una prueba pequeña y sin deudas. Por ejemplo, vende a tus vecinos un fin de semana.",
+        "Pide consejo a alguien que ya haya hecho algo parecido.",
+        "Revisa los resultados cada mes con honestidad y ajusta. Encomienda cada paso al Señor (Proverbios 16:3)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy construyendo sobre un cálculo honesto o sobre puro entusiasmo?",
+        "¿Estoy dispuesto a empezar en pequeño?",
+        "¿Este proyecto me ayuda a amar mejor a Dios y a los demás, o me aleja de ellos?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Siéntate hoy con papel y lápiz, como el constructor de la parábola. Calcula cuánto necesitas para empezar tu proyecto en su versión más pequeña. Si no alcanza sin deudas, hazlo más pequeño hasta que alcance."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si para empezar piensas usar el dinero de la comida, de la renta o un préstamo que no podrías pagar, detente. Antes de firmar nada, pide consejo a alguien de confianza que sepa de números. La prudencia también es obediencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 14:28-30", "nota": "Calcular antes de construir." },
+        { "ref": "Zacarías 4:6-10", "nota": "No despreciar los comienzos pequeños." },
+        { "ref": "Eclesiastés 11:4-6", "nota": "Sembrar sin esperar el momento perfecto." },
+        { "ref": "Colosenses 3:23-24", "nota": "Trabajar como para el Señor." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo un sueño en el corazón y te lo entrego. Dame sabiduría para calcular, humildad para empezar en pequeño y valor para dar el primer paso. Que lo que haga sirva a otros y te honre. Amén."
+    }
+  ],
+  "estudio": ["zacarias"],
+  "buscar": "trabajo"
+}

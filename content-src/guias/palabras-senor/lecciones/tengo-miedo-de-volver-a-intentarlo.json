@@ -1,0 +1,90 @@
+{
+  "id": "tengo-miedo-de-volver-a-intentarlo",
+  "titulo": "Cuando tengo miedo de volver a intentarlo",
+  "etiquetas": ["Trabajo y propósito", "Miedo", "Nuevo intento"],
+  "enUnMinuto": [
+    "Después de un golpe, es normal tener miedo de intentarlo otra vez.",
+    "Pedro volvió a echar la red, no porque tuviera ganas, sino porque confió en la palabra de Jesús.",
+    "Hoy da el paso más pequeño posible."
+  ],
+  "versiculo": {
+    "texto": "Y respondiendo Simón, le dijo: Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red.",
+    "referencia": "Lucas 5:5"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Héctor tuvo un taller mecánico en Tegucigalpa que quebró hace tres años. Ahora un amigo le ofrece un local barato. Héctor conoce bien el oficio, pero cada vez que lo piensa, le tiemblan las manos. Recuerda las deudas y las noches sin dormir."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La confianza no espera a que se vaya el miedo: obedece con el miedo en la mano. Pedro estaba cansado y sin resultados, pero echó la red porque Jesús se lo dijo (Lucas 5:4-6)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Un error es no volver a intentar nada, para no sufrir otra vez. Parece prudencia, pero muchas veces es solo miedo. El error contrario es lanzarse sin revisar qué falló la primera vez. La Biblia no pide ni parálisis ni imprudencia. Pide confiar en Dios con los ojos abiertos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Dios no nos dio un espíritu de miedo, sino de fortaleza, de amor y de dominio propio (2 Timoteo 1:7). La fortaleza te da valor; el dominio propio te da prudencia. Las dos van juntas. Josué recibió la orden de ser valiente porque Dios iría con él (Josué 1:9).",
+        "Nadie sabe qué siembra dará fruto; por eso el Eclesiastés invita a seguir sembrando (Eclesiastés 11:4-6). Tampoco necesitas arriesgarlo todo de golpe. Puedes empezar pequeño, con consejo y con un plan. Y puedes poner tu camino en las manos del Señor, confiando en que Él obrará (Salmos 37:5)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Nombra tu miedo delante de Dios: qué temes perder y por qué.",
+        "Revisa qué falló la primera vez y qué es distinto ahora.",
+        "Pide consejo a dos personas sabias antes de decidir.",
+        "Empieza con un paso pequeño, sin arriesgar lo que tu familia necesita para vivir.",
+        "Pon cada paso en oración y agradece cada avance, aunque sea pequeño (Salmos 37:5)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mi negativa es prudencia, o es miedo disfrazado?",
+        "¿Qué perdería si nunca vuelvo a intentarlo?",
+        "¿Cuál es el paso más pequeño que podría dar esta semana?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe el paso más pequeño que te acerca a intentarlo: una llamada, una pregunta, una visita. Hazlo hoy, antes de dormir, aunque te tiemblen las manos."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Pedro pescó toda la noche sin sacar nada, y aun así volvió a echar la red. Después de fallarle a Jesús, también recibió una nueva oportunidad (Juan 21:15-17). Lee «Pedro» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 5:1-11", "nota": "En tu palabra echaré la red." },
+        { "ref": "Juan 21:1-17", "nota": "Otra pesca, otra oportunidad." },
+        { "ref": "2 Timoteo 1:7", "nota": "Espíritu de fortaleza, de amor y de dominio propio." },
+        { "ref": "Eclesiastés 11:4-6", "nota": "Siembra sin saber cuál dará fruto." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tengo miedo de volver a fallar. Tú conoces mis noches sin pesca. Dame valor para obedecer y prudencia para caminar. En tu palabra, echaré la red otra vez. Amén."
+    }
+  ],
+  "buscar": "miedo"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "mi-hijo-se-aleja-o-se-rebela",
+  "titulo": "Cuando mi hijo se aleja o se rebela",
+  "etiquetas": ["Hijos y familia", "Hijos", "Rebeldía"],
+  "enUnMinuto": [
+    "Un hijo que se aleja sigue siendo tu hijo, y Dios no deja de buscarlo.",
+    "La Biblia muestra a un padre que no persigue ni se rinde: espera con los brazos abiertos.",
+    "Primer paso: ora por tu hijo por su nombre y mantén abierta la puerta del cariño, sin sermones."
+  ],
+  "versiculo": {
+    "texto": "Padres, no irritéis a vuestros hijos, porque no se hagan de poco ánimo.",
+    "referencia": "Colosenses 3:21"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Lidia tiene un hijo de 17 años. Antes iba con ella a la iglesia; ahora casi no habla, llega tarde y responde con portazos. Ayer le dijo: “Esa es tu fe, no la mía. Déjame en paz”. Lidia no sabe si gritar, callar o rendirse."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Corrige sin aplastar, para que tu hijo no se desanime (Colosenses 3:21). Y como el padre de la parábola, espera sin cerrar la puerta y recibe sin humillar (Lucas 15:20)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos padres reaccionan con miedo: gritan, amenazan, repiten el mismo sermón o comparan al hijo con otros. Otros se rinden y dejan de hablarle. Las dos cosas lo alejan más. El sermón constante le dice que solo importa su conducta. El silencio le dice que ya no importa. Y la Biblia pide a los padres no provocar a ira a sus hijos, sino criarlos en el Señor (Efesios 6:4)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "En la parábola, el padre no corre detrás del hijo hasta la provincia apartada. Lo deja ir, pero no deja de mirar el camino. Cuando el hijo vuelve en sí, encuentra la puerta abierta (Lucas 15:17-20). Tu hijo necesita saber que siempre puede volver a casa.",
+        "Eso no significa aprobarlo todo. Puedes mantener reglas claras en tu casa y, al mismo tiempo, escuchar más de lo que hablas (Santiago 1:19). Detrás de la rebeldía suele haber dolor, confusión o preguntas. Escucharlas no es perder autoridad. Es ganarte el derecho a ser escuchado.",
+        "Y sobre todo, ora. Job se levantaba de mañana para presentar a sus hijos delante de Dios (Job 1:5). Tú no puedes cambiar el corazón de tu hijo. Pero Dios puede alcanzarlo donde tú no llegas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora cada día por tu hijo por su nombre. Pide por su corazón, no solo por su conducta (Job 1:5).",
+        "Busca un momento tranquilo y pregúntale cómo está. Escucha sin interrumpir ni corregir (Santiago 1:19).",
+        "Elige pocas reglas claras para la casa y mantenlas con calma, sin gritos ni amenazas.",
+        "Pide perdón si le hablaste con dureza. Un padre que reconoce sus errores enseña más que mil sermones.",
+        "Dile con palabras que lo amas y que la puerta de tu casa sigue abierta (Lucas 15:20)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuándo fue la última vez que escuché a mi hijo sin darle un consejo?",
+        "¿Mi hijo siente que lo amo aunque no cumpla lo que espero de él?",
+        "¿Estoy orando por él, o solo me estoy preocupando?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Envíale hoy a tu hijo un mensaje corto, sin reproches ni consejos: “Pienso en ti. Te quiero mucho”. Nada más. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tu hijo consume drogas o alcohol, habla de hacerse daño, sufre violencia o anda con gente peligrosa, busca ayuda hoy. Habla con alguien de confianza, tu pastor o sacerdote, un médico o un psicólogo. En peligro, llama a un número de emergencia. Buscar ayuda profesional no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 15:11-24", "nota": "El padre que espera y corre a abrazar." },
+        { "ref": "Efesios 6:4", "nota": "Criar sin provocar a ira." },
+        { "ref": "Job 1:4-5", "nota": "Un padre que presenta a sus hijos ante Dios." },
+        { "ref": "Isaías 49:15", "nota": "Dios no se olvida de sus hijos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, pongo a mi hijo en tus manos. Tú lo amas más que yo. Guarda su vida donde yo no puedo llegar. Dame paciencia para escuchar y sabiduría para corregir. Que sepa que siempre puede volver a casa, y a ti. Amén."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "hijo pródigo"
+}

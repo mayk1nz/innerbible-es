@@ -1,0 +1,97 @@
+{
+  "id": "estoy-agotado-por-dentro",
+  "titulo": "Cuando estoy agotado por dentro",
+  "etiquetas": ["Emociones", "Cansancio", "Descanso"],
+  "enUnMinuto": [
+    "Jesús llama a los cansados y cargados para darles descanso, no para exigirles más.",
+    "Descansar y compartir la carga no es falta de compromiso: Dios nos hizo con límites.",
+    "Primer paso: haz una lista de todo lo que cargas y suelta o delega una sola cosa esta semana."
+  ],
+  "versiculo": {
+    "texto": "Venid a mí todos los que estáis trabajados y cargados, que yo os haré descansar.",
+    "referencia": "Mateo 11:28"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Adriana trabaja en dos lugares, cuida a su madre enferma y enseña a los niños en la iglesia. Hace semanas que llora a escondidas en el baño del trabajo. Todos la llaman “incansable”. Ella ya no puede más, pero le da culpa descansar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús invita a los cansados a ir a Él, y promete descanso (Mateo 11:28). Dios no te pide cargarlo todo solo: la carga se comparte (Éxodo 18:17-18)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Apretar los dientes y seguir: “Ya descansaré después”. Pensar que descansar es pereza, o que decir “no puedo” es falta de fe o de compromiso con Dios.",
+        "Otros intentan descansar escapando: horas frente al celular o la televisión. El cuerpo se queda quieto, pero el alma sigue agotada."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Moisés atendía al pueblo solo, desde la mañana hasta la tarde. Su suegro Jetro le dijo con franqueza: «No haces bien» (Éxodo 18:17). Le aconsejó buscar personas de confianza para compartir la carga (Éxodo 18:21-22). Tiempo después Moisés le dijo a Dios: «No puedo yo solo». Y Dios le dio setenta ayudantes (Números 11:14-17).",
+        "Cuando los discípulos volvieron cansados, Jesús les dijo: «Venid vosotros aparte al lugar desierto, y reposad un poco» (Marcos 6:31). Dios da el sueño a sus amados (Salmos 127:2).",
+        "Desde el principio, Dios marcó un ritmo de trabajo y descanso (Éxodo 20:9-10). Las iglesias viven el día de reposo de maneras distintas. Pero el principio es el mismo: fuiste creado con límites, y eso es bueno."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Reconoce tu límite delante de Dios, como Moisés: “No puedo yo solo” (Números 11:14).",
+        "Haz una lista de todo lo que cargas. Marca lo que de verdad solo tú puedes hacer.",
+        "Delega o suelta una cosa esta semana, como aconsejó Jetro (Éxodo 18:21-22).",
+        "Aparta un tiempo fijo de descanso cada semana, sin culpa (Marcos 6:31).",
+        "Duerme. El sueño es un regalo de Dios, no tiempo perdido (Salmos 127:2)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué estoy cargando que Dios nunca me pidió cargar?",
+        "¿Por qué me siento culpable cuando descanso?",
+        "¿A quién podría pedir ayuda, y no lo he hecho por orgullo o por miedo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche acuéstate una hora antes de lo habitual. Antes de dormir, lee Mateo 11:28-30 y dile a Jesús: “Te entrego lo que no terminé hoy”. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Moisés llegó a decirle a Dios que no podía más, y Dios le dio compañeros para llevar la carga. Lee su ficha, «Moisés», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si el agotamiento viene con insomnio, dolores, llanto frecuente o ganas de desaparecer, consulta a un médico. El cuerpo también avisa. Buscar ayuda no es falta de fe. Si piensas en hacerte daño, llama hoy a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Mateo 11:28-30", "nota": "Mi yugo es fácil, y ligera mi carga." },
+        { "ref": "Éxodo 18:13-24", "nota": "El consejo de Jetro a Moisés." },
+        { "ref": "Marcos 6:30-32", "nota": "Venid aparte y reposad un poco." },
+        { "ref": "Salmos 127:1-2", "nota": "Dios da el sueño a sus amados." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, vengo a ti cansado y cargado. Ya no puedo solo. Enséñame a soltar lo que no me toca y a pedir ayuda sin vergüenza. Dame tu descanso para el cuerpo y para el alma. Amén."
+    }
+  ],
+  "estudio": ["exodo"],
+  "buscar": "descanso"
+}

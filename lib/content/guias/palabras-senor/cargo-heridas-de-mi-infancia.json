@@ -1,0 +1,97 @@
+{
+  "id": "cargo-heridas-de-mi-infancia",
+  "titulo": "Cuando cargo heridas de mi infancia",
+  "etiquetas": ["Perdón y heridas", "Infancia", "Sanidad interior"],
+  "enUnMinuto": [
+    "Dios sana a los quebrantados de corazón y venda sus heridas, también las que vienen de la niñez.",
+    "Sanar no es fingir que no pasó: es poner nombre a la herida, dejar que Dios la toque y cortar la cadena.",
+    "Primer paso: habla de esa herida con Dios y con una persona segura."
+  ],
+  "versiculo": {
+    "texto": "El sana a los quebrantados de corazón, y liga sus heridas.",
+    "referencia": "Salmos 147:3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Claudia creció oyendo a su padre decir: “Tú no sirves para nada”. Hoy tiene 41 años. Cuando su jefe la corrige, vuelve a oír esa voz. Y el otro día se descubrió gritándole a su hijo la misma frase."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios sana los corazones rotos y venda sus heridas (Salmos 147:3). Lo que te dijeron de niño no tiene la última palabra sobre ti. La tiene Dios, que te llama por tu nombre (Isaías 43:1)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Decir: “Eso ya pasó, hay que dejarlo atrás”, y no hablar nunca del tema. La herida queda enterrada, pero sigue viva, y sale en los peores momentos.",
+        "El otro extremo es culpar a la infancia de todo, sin hacerse cargo del presente. Y lo más triste: sin darnos cuenta, repetimos con nuestros hijos lo mismo que nos dolió."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "José creció en una casa con preferidos. Sus hermanos lo aborrecían y no le podían hablar en paz (Génesis 37:3-4). Esa herida fue real. Años después, José lloró a gritos al verlos (Génesis 45:2).",
+        "Pero José también vio a Dios obrar en su dolor. A un hijo lo llamó Manasés, porque Dios le hizo olvidar su sufrimiento. Al otro, Efraín, porque Dios lo hizo fértil en la tierra de su aflicción (Génesis 41:51-52).",
+        "La Biblia pide a los padres no provocar a ira a sus hijos (Efesios 6:4). Lo que te hicieron no estuvo bien. Y tampoco estás condenado a repetirlo: el hijo no carga el pecado del padre (Ezequiel 18:20). Dios renueva tu manera de pensar (Romanos 12:2)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Pon nombre a la herida: escribe la frase o el hecho que todavía te pesa.",
+        "Al lado, escribe lo que Dios dice de ti. Por ejemplo, que te formó con cuidado (Salmos 139:13-14).",
+        "Habla de esa herida con alguien seguro: tu pastor o sacerdote, un consejero o un profesional.",
+        "Corta la cadena. Si te oyes repitiendo esa frase con otros, detente, pide perdón y di una palabra que edifique (Efesios 4:29).",
+        "Camina hacia el perdón a tu ritmo y sin fingir. Perdonar no es decir que estuvo bien."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué frase de mi infancia sigue hablando más fuerte que la voz de Dios?",
+        "¿Estoy repitiendo con otros algo que a mí me dolió?",
+        "¿Con quién podría hablar de esto de forma segura?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Busca una foto tuya de cuando eras niño o niña. Mírala y ora: “Señor, tú estabas ahí. Sana lo que viví”. Luego guarda la foto en tu Biblia, junto al Salmo 147. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José fue herido por su propia familia desde joven, y Dios hizo fruto en su aflicción. Lee su ficha, «José», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si de niño sufriste abuso físico, sexual o emocional, no fue tu culpa. Busca a un profesional de la salud mental y a alguien de confianza. Buscar ayuda no es falta de fe. Si hoy un niño está en peligro, protégelo y llama a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 147:1-6", "nota": "El Dios que sana los corazones rotos." },
+        { "ref": "Génesis 41:50-52", "nota": "Los nombres de los hijos de José." },
+        { "ref": "Salmos 139:13-16", "nota": "Dios te conoció desde el vientre de tu madre." },
+        { "ref": "Isaías 61:1-3", "nota": "Jesús vino a vendar a los quebrantados." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, tú me conociste desde niño. Tú viste lo que viví y lo que nadie supo. Venda mis heridas y cambia las voces que me hirieron por tu voz. Y ayúdame a no repetir el dolor con los que amo. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "sanidad"
+}

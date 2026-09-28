@@ -1,0 +1,97 @@
+{
+  "id": "envejezco-y-me-siento-inutil",
+  "titulo": "Cuando envejezco y me siento inútil",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Vejez", "Propósito"],
+  "enUnMinuto": [
+    "Para Dios, la vejez no es el final de la utilidad: los que están plantados en Él dan fruto aun con canas.",
+    "Cambia la forma de servir, no tu valor.",
+    "Primer paso: mira lo que todavía puedes dar, sobre todo tu oración y tu historia con Dios."
+  ],
+  "versiculo": {
+    "texto": "Aun en la vejez fructificarán; estarán vigorosos y verdes;",
+    "referencia": "Salmo 92:14"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Don Aurelio fue carpintero toda su vida. A los 79 años le tiemblan las manos y ya no entra a su taller. Sus hijos deciden todo por él “para que no se canse”. Él repite en voz baja: “Ya no sirvo para nada”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios promete fruto aun en la vejez (Salmo 92:14). Y dice a su pueblo que lo cargará hasta las canas (Isaías 46:4). Tu valor no se jubila."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es medir el valor por lo que el cuerpo todavía puede hacer. Uno se compara con quien era a los cuarenta años y se hunde. Otros se aíslan, dejan de ir a la iglesia o repiten que son una carga.",
+        "Las familias también se equivocan cuando deciden todo por los mayores o dejan de escucharlos. La Biblia pide levantarse ante las canas y honrar el rostro del anciano (Levítico 19:32), no hacerlo a un lado."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Dios no te suelta cuando bajan tus fuerzas. Él dice: yo hice, yo llevaré, yo soportaré (Isaías 46:4).",
+        "La Biblia está llena de mayores con propósito. Simeón y Ana, ya ancianos, fueron de los primeros en reconocer al niño Jesús (Lucas 2:25-38). Ana tenía ochenta y cuatro años y servía a Dios con oraciones de día y de noche.",
+        "El salmista pedía vivir para anunciar el poder de Dios a los que vienen detrás (Salmo 71:18). Tu historia de fidelidad es un tesoro para tus hijos y nietos. Y tu oración también es trabajo para el Reino."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Haz una lista de lo que todavía puedes hacer, no de lo que ya no puedes.",
+        "Ofrece tu oración como un servicio: elige cada día a tres personas por quienes orar (Lucas 2:37).",
+        "Cuenta a los más jóvenes tu historia con Dios (Salmo 71:18).",
+        "Habla con tu familia con respeto: qué ayuda necesitas y qué decisiones quieres seguir tomando tú.",
+        "Mantente cerca de tu comunidad; si no puedes ir, pide que te visiten o que te llamen."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Mido mi valor por lo que hago o por ser hijo de Dios?",
+        "¿Qué sé de la fidelidad de Dios que los jóvenes necesitan oír?",
+        "¿Estoy dejando que la tristeza me aísle?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Llama hoy a un nieto, un sobrino o un joven de tu iglesia. Cuéntale en cinco minutos una vez en que Dios te sostuvo. Termina diciéndole que oras por él. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Abraham salió de su tierra a los setenta y cinco años (Génesis 12:4). Dios cumplió su promesa cuando ya era anciano. Lee su ficha «Abraham» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿La tristeza dura semanas, ya no quieres comer ni ver a nadie, o piensas que sería mejor no estar? Díselo hoy a alguien de confianza y a un médico. En la vejez, la depresión es común y tiene tratamiento. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 92:12-15", "nota": "Fruto aun en la vejez." },
+        { "ref": "Isaías 46:3-4", "nota": "Dios nos carga hasta las canas." },
+        { "ref": "Lucas 2:25-38", "nota": "Simeón y Ana reconocen a Jesús." },
+        { "ref": "Salmo 71:17-18", "nota": "Contar a los que vienen detrás." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, mis fuerzas no son las de antes, pero tu amor sí. Enséñame a servirte con lo que hoy tengo. Que mi oración y mi historia bendigan a los que vienen detrás. Amén."
+    }
+  ],
+  "estudio": ["salmos", "nacimiento"],
+  "buscar": "vejez"
+}

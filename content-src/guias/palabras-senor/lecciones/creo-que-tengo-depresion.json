@@ -1,0 +1,97 @@
+{
+  "id": "creo-que-tengo-depresion",
+  "titulo": "Cuando creo que tengo depresión",
+  "etiquetas": ["Emociones", "Depresión", "Salud mental"],
+  "enUnMinuto": [
+    "La depresión no es falta de fe ni un castigo: Dios está cerca de los que tienen el corazón quebrantado.",
+    "Dios cuida a la persona entera, cuerpo y alma, y también obra por medio de médicos.",
+    "Primer paso: pide hoy una cita con un médico y cuéntaselo a alguien de confianza."
+  ],
+  "versiculo": {
+    "texto": "Cercano está Jehová a los quebrantados de corazón; y salvará a los contritos de espíritu.",
+    "referencia": "Salmos 34:18"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Sebastián tiene 35 años. Dejó de jugar fútbol con sus amigos, le cuesta levantarse y duerme mal. Ya nada le da gusto. En su grupo de oración alguien le dijo que era falta de fe. Ahora, además de triste, se siente culpable."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "El Señor está cerca de los quebrantados de corazón (Salmos 34:18). Cuando Elías quiso morir, Dios no lo regañó: primero le dio comida y descanso (1 Reyes 19:4-8)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Decir, o creer: “Es falta de fe, ora más” o “Échale ganas”. Quien lo dice muchas veces quiere ayudar, pero la persona termina sintiéndose culpable y más sola.",
+        "Otros esconden lo que sienten por vergüenza. Y algunos evitan al médico como si pedir ayuda fuera poco espiritual. Mientras tanto, la enfermedad avanza sin tratamiento."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Elías venía de una gran victoria. Aun así, se echó bajo un árbol y pidió morir (1 Reyes 19:4). Dios no lo llamó débil. Un ángel lo tocó y le dijo: «Levántate, come», dos veces (1 Reyes 19:5-7). Después de comer y dormir, Dios le habló en un silbo apacible y delicado (1 Reyes 19:12).",
+        "La Biblia no esconde la oscuridad del alma. Un salmo dice que el alma está harta de males (Salmos 88:3). Pablo cuenta que perdieron la esperanza de la vida, y que Dios los libró (2 Corintios 1:8-10).",
+        "Dios también obra por medio de otros. Pablo llamó a Lucas «el médico amado» (Colosenses 4:14). Y nos pide llevar las cargas unos de otros (Gálatas 6:2). Buscar ayuda es una forma de confiar en Dios."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Mira las señales: más de dos semanas sin ganas, sueño alterado, cansancio, nada te da gusto.",
+        "Pide una cita con un médico o un centro de salud. Es parte de cuidar el cuerpo que Dios te dio.",
+        "Cuéntaselo a una o dos personas de confianza que te acompañen (Gálatas 6:2).",
+        "Cuida lo pequeño, como Dios cuidó a Elías: comer, dormir, salir a la luz (1 Reyes 19:5-8).",
+        "Sigue orando, aunque sea con pocas palabras o con un salmo. Dios está cerca aunque no lo sientas (Salmos 34:18)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuánto tiempo llevo sintiéndome así?",
+        "¿Qué me impide pedir ayuda: la vergüenza, el miedo o el qué dirán?",
+        "¿Quién podría acompañarme a dar el primer paso?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Pide hoy una cita con un médico o un centro de salud. Si te cuesta, pídele a alguien de confianza que llame contigo o que te acompañe. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Elías llegó a pedir la muerte, y Dios lo cuidó con pan, agua, descanso y una voz suave. Lee su ficha, «Elías», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "La depresión es una enfermedad real, no un pecado ni falta de fe. Tiene tratamiento, y un médico o un psicólogo pueden ayudarte. Si piensas en morir o en hacerte daño, no esperes. Llama hoy a un número de emergencia o ve a urgencias, y avisa a alguien cercano."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Reyes 19:1-8", "nota": "Dios cuida a Elías agotado." },
+        { "ref": "Salmos 34:15-18", "nota": "Cerca de los quebrantados de corazón." },
+        { "ref": "Salmos 40:1-3", "nota": "Me sacó del lago de miseria." },
+        { "ref": "2 Corintios 1:8-10", "nota": "Pablo, sin esperanza, y Dios que libra." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no tengo fuerzas y casi no siento nada. Pero tú estás cerca de los quebrantados. Tómame de la mano. Dame valor para pedir ayuda, y pon en mi camino personas que me cuiden. Amén."
+    }
+  ],
+  "estudio": ["1-reyes-12-22"],
+  "buscar": "depresión"
+}

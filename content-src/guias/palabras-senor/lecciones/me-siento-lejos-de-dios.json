@@ -1,0 +1,97 @@
+{
+  "id": "me-siento-lejos-de-dios",
+  "titulo": "Cuando me siento lejos de Dios",
+  "etiquetas": ["Fe y vida espiritual", "Regreso", "Presencia de Dios"],
+  "enUnMinuto": [
+    "Sentirse lejos de Dios no siempre significa estar lejos de Él: Dios está presente aunque no lo sientas.",
+    "Y si te alejaste, el Padre corre a tu encuentro apenas das un paso de regreso.",
+    "Primer paso: háblale hoy, aunque sea con una sola frase."
+  ],
+  "versiculo": {
+    "texto": "Y levantándose, vino a su padre. Y como aun estuviese lejos, violo su padre, y fue movido a misericordia, y corrió, y echose sobre su cuello, y besole.",
+    "referencia": "Lucas 15:20"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Verónica creció en una familia católica de Asunción. Hace cinco años que no pisa una iglesia ni ora. Una noche, al ver a su hija dormida, sintió ganas de rezar. Pero pensó que Dios ya no la reconocería."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cuando el hijo todavía estaba lejos, el padre lo vio, tuvo compasión y corrió a abrazarlo (Lucas 15:20). Así es el corazón de Dios contigo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchos piensan que primero deben arreglar su vida para poder volver a Dios. Esperan estar limpios para acercarse, y ese día nunca llega. Otros creen que la distancia es la prueba de que Dios los rechazó.",
+        "Otro error es guiarse solo por lo que sentimos. Hay temporadas secas en las que Dios parece callado, aun para personas fieles. El salmista tenía sed de Dios y se preguntaba cuándo volvería a estar en su presencia (Salmo 42:1-2)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Dios nunca está lejos de verdad. No hay lugar donde podamos huir de su presencia, ni en lo alto ni en lo profundo (Salmo 139:7-10). Tus sentimientos cambian. Su presencia no.",
+        "Si la distancia vino por tus decisiones, el camino de vuelta es sencillo. El hijo pródigo volvió en sí, se levantó y regresó a casa (Lucas 15:17-20). No llegó con un discurso perfecto. El padre ni lo dejó terminar.",
+        "Santiago lo dice así: acérquense a Dios, y Él se acercará a ustedes (Santiago 4:8). El primer paso puede ser muy pequeño."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Dile a Dios con sinceridad que te sientes lejos de Él. Eso ya es oración.",
+        "Lee despacio Lucas 15:11-24. Fíjate en todo lo que hace el padre.",
+        "Si algo te alejó, confiésalo a Dios con sencillez. En tu iglesia puedes buscar también la confesión o el consejo pastoral.",
+        "Vuelve a un lugar de encuentro: una misa, un culto o un grupo pequeño.",
+        "Elige un momento fijo del día para decirle a Dios una frase, aunque no sientas nada (Santiago 4:8)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Me alejé yo, o estoy pasando por una temporada seca?",
+        "¿Creo que Dios me recibe, o pienso que primero debo ganármelo?",
+        "¿Cuál sería un paso pequeño de regreso esta semana?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Esta noche, antes de dormir, di en voz alta: “Padre, aquí estoy. Vuelvo a ti”. Solo eso, con tus palabras y sin miedo. Mañana, repítelo al despertar."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jonás huyó lejos de Dios. Aun desde el vientre del pez oró, y Dios lo escuchó. Si te alejaste huyendo, lee «Jonás» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "A veces sentirse lejos de Dios, sin ganas de nada, es parte de una depresión. Si viene con tristeza profunda, falta de sueño o de apetito durante semanas, habla con un médico y con alguien de confianza. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 15:11-24", "nota": "El padre que corre al encuentro del hijo." },
+        { "ref": "Salmos 139:1-12", "nota": "No hay lugar lejos de su presencia." },
+        { "ref": "Salmos 42:1-5", "nota": "Sed de Dios en tiempo seco." },
+        { "ref": "Santiago 4:7-10", "nota": "Acércate a Dios." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, me siento lejos de ti. No sé bien cómo volver, pero aquí estoy. Gracias porque corres a mi encuentro. Recíbeme como soy y enséñame a caminar contigo otra vez. Amén."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "hijo pródigo"
+}

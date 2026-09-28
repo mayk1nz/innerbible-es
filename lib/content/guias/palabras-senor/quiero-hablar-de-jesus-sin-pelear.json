@@ -1,0 +1,93 @@
+{
+  "id": "quiero-hablar-de-jesus-sin-pelear",
+  "titulo": "Cuando quiero hablar de Jesús sin pelear",
+  "etiquetas": ["Hacedor de la Palabra", "Testimonio", "Mansedumbre"],
+  "enUnMinuto": [
+    "Hablar de Jesús no es ganar una discusión, sino contar con amor lo que él hizo en ti.",
+    "La Biblia pide palabras con gracia, mansedumbre y respeto.",
+    "Primer paso: escribe en pocas frases lo que Jesús ha hecho en tu vida."
+  ],
+  "versiculo": {
+    "texto": "Sea vuestra palabra siempre con gracia, sazonada con sal; para que sepáis cómo os conviene responder a cada uno.",
+    "referencia": "Colosenses 4:6"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Mario quiere que su primo conozca a Jesús. Pero cada reunión familiar termina en discusión: versículos lanzados, voces fuertes y puertas que se cierran. Ahora su primo ya ni le contesta el teléfono. Mario se pregunta si hablar de Dios siempre tiene que doler."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Tu palabra debe ser siempre con gracia, sazonada con sal (Colosenses 4:6). Da razón de tu esperanza, pero con mansedumbre y reverencia (1 Pedro 3:15)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es querer ganar. Discutimos para demostrar que tenemos razón, y el otro se defiende. Cuando ganamos la discusión, muchas veces perdemos a la persona.",
+        "Otro error es hablar contra la iglesia o la costumbre del otro. Hablar de Jesús no es atacar la fe de nadie."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Felipe no discutió con Natanael, que dudaba. Solo le dijo: «Ven y ve» (Juan 1:46). La mujer samaritana tampoco dio un sermón. Contó lo que Jesús había hecho con ella, y muchos creyeron (Juan 4:39).",
+        "Jesús le pidió algo sencillo a un hombre liberado. Que fuera a los suyos y les contara lo que el Señor había hecho con él (Marcos 5:19). Tu historia es tu mejor argumento. Nadie puede discutirte lo que viviste.",
+        "Pablo aconseja no ser peleador, sino manso con todos (2 Timoteo 2:24-25). La respuesta suave calma el enojo (Proverbios 15:1). Y el amor entre nosotros habla más que mil argumentos (Juan 13:35)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora por la persona antes de hablarle. El que cambia corazones es Dios, no tu argumento.",
+        "Escucha primero: pregunta qué piensa, qué vivió, qué le duele.",
+        "Cuenta tu historia en pocas palabras, sin atacar su iglesia ni su costumbre.",
+        "Si la conversación se calienta, detente con amor: “Te quiero; lo hablamos otro día”.",
+        "Deja que tu vida confirme tus palabras (Mateo 5:16)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Quiero que conozca a Jesús, o que reconozca que yo tengo razón?",
+        "¿Escucho tanto como hablo?",
+        "¿Mi trato diario hace creíble lo que digo?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy, en tres o cuatro frases, lo que Jesús ha hecho en tu vida: cómo estabas, qué pasó y qué cambió. Sin palabras difíciles. Es tu “ven y ve”, listo para cuando alguien pregunte."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "La mujer samaritana cargaba una historia que la avergonzaba. La convirtió en invitación: «Venid, ved un hombre que me ha dicho todo lo que he hecho» (Juan 4:29). Lee su ficha, «La mujer samaritana», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 4:28-42", "nota": "Una mujer cuenta su encuentro con Jesús." },
+        { "ref": "Juan 1:43-46", "nota": "Ven y ve." },
+        { "ref": "1 Pedro 3:15-16", "nota": "Con mansedumbre y reverencia." },
+        { "ref": "Marcos 5:18-20", "nota": "Cuenta lo que el Señor hizo contigo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, quiero que otros te conozcan, pero no quiero pelear. Pon gracia en mis palabras y paciencia en mi corazón. Enséñame a escuchar y a contar con sencillez lo que hiciste en mí. Tú haces el resto. Amén."
+    }
+  ],
+  "estudio": ["colosenses", "1-pedro"],
+  "buscar": "testimonio"
+}

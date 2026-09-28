@@ -1,0 +1,96 @@
+{
+  "id": "hablan-mal-de-mi",
+  "titulo": "Cuando hablan mal de mí",
+  "etiquetas": ["Amistades y convivencia", "Calumnia", "Reputación"],
+  "enUnMinuto": [
+    "Cuando hablan mal de ti, el impulso es defenderte o devolver el golpe.",
+    "Jesús, insultado, no respondió con insultos: puso su causa en manos de Dios.",
+    "Primer paso: no respondas en caliente; ora antes de decir una palabra."
+  ],
+  "versiculo": {
+    "texto": "Quien cuando le maldecían, no retornaba maldición; cuando padecía, no amenazaba, sino remitía la causa al que juzga justamente:",
+    "referencia": "1 Pedro 2:23"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Sonia es costurera en su barrio. Se enteró de que una vecina anda diciendo que ella se queda con parte de la tela que le llevan. Algunas clientas ya no vuelven. Sonia pasó la noche pensando qué decirle, y lo que se le ocurre no es nada cristiano."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cuando maldecían a Jesús, no devolvía maldición: dejaba su causa en manos del que juzga con justicia (1 Pedro 2:23). Tu nombre está más seguro en manos de Dios que en tu venganza."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es devolver el golpe: hablar mal de quien habla mal, publicar indirectas o armar bandos. Otros se hunden en la amargura y terminan creyendo todo lo que dicen de ellos. La venganza te rebaja al mismo nivel. La amargura te enferma por dentro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Mientras huía, David fue maldecido en público por Simei. Sus soldados querían matarlo, pero David dijo: «Dejadle que maldiga» (2 Samuel 16:11). Confió en que Dios vería su aflicción, y no respondió con violencia.",
+        "Eso no significa quedarse de brazos cruzados. Puedes aclarar la verdad con calma, sin atacar. Pero no te vengues; deja lugar a la justicia de Dios (Romanos 12:19). Él hará brillar tu justicia como la luz del mediodía (Salmo 37:5-6).",
+        "Y la mejor respuesta suele ser tu conducta. Haciendo el bien se hace callar la ignorancia (1 Pedro 2:15). Jesús incluso pide orar por quienes nos maltratan (Mateo 5:44). Orar por ellos les quita poder sobre tu corazón."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "No respondas en caliente. Espera un día y ora antes de hablar.",
+        "Pregúntate si hay algo de verdad en lo que dicen. Si lo hay, corrígelo con humildad.",
+        "Si es mentira, aclara los hechos con calma a quien corresponda, sin insultar.",
+        "No devuelvas chisme por chisme ni publiques indirectas (1 Pedro 2:23).",
+        "Ora por esa persona y sigue haciendo el bien (Mateo 5:44)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Me importa más mi fama ante la gente o mi fidelidad ante Dios?",
+        "¿Hay algo de verdad en lo que dicen que debo corregir?",
+        "¿Dejo la justicia en manos de Dios, o quiero tomarla en las mías?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy no respondas ni publiques nada sobre lo que dicen de ti. Si alguien te trae el comentario, contesta solo: “Gracias. Lo dejo en manos de Dios”."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "David fue perseguido y calumniado, y aprendió a dejar su causa en manos de Dios. Lee su ficha, «David, perseguido», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si te acosan, te amenazan o difunden mentiras que ponen en riesgo tu trabajo o tu seguridad, busca ayuda hoy. Vale también para internet. Habla con alguien de confianza, tu pastor o sacerdote o un profesional. Si corres peligro, acude a las autoridades."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "1 Pedro 2:19-23", "nota": "El ejemplo de Jesús." },
+        { "ref": "2 Samuel 16:5-12", "nota": "David ante Simei." },
+        { "ref": "Salmo 37:1-7", "nota": "Encomienda a Dios tu camino." },
+        { "ref": "Mateo 5:10-12", "nota": "Cuando dicen de ti todo mal, mintiendo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú sabes lo que dicen de mí. Guarda mi boca de devolver el golpe. Dejo mi causa en tus manos. Bendice a quien me hiere y haz brillar la verdad a tu tiempo. Amén."
+    }
+  ],
+  "estudio": ["1-pedro", "2-samuel"],
+  "buscar": "calumnia"
+}

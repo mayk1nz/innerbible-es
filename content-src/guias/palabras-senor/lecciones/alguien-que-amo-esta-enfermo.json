@@ -1,0 +1,97 @@
+{
+  "id": "alguien-que-amo-esta-enfermo",
+  "titulo": "Cuando alguien que amo está enfermo",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Cuidar", "Cansancio"],
+  "enUnMinuto": [
+    "Cuando alguien que amas está enfermo, lo primero es llevarlo a Jesús con palabras sencillas.",
+    "No fuiste hecho para cargarlo todo sin ayuda: aceptar apoyo y descansar también es amor.",
+    "Primer paso: pide hoy una ayuda concreta a una persona concreta."
+  ],
+  "versiculo": {
+    "texto": "Enviaron, pues, sus hermanas a él, diciendo: Señor, he aquí, el que amas está enfermo.",
+    "referencia": "Juan 11:3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Gloria duerme en una silla del hospital desde hace tres semanas. Su hijo de 17 años tiene leucemia. Ella casi no come, no llora delante de nadie y no deja que su hermana la reemplace ni una noche."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Marta y María hicieron lo primero y más sencillo: le dijeron a Jesús que su hermano estaba enfermo (Juan 11:3). Y la carga del enfermo se lleva mejor entre varios (Gálatas 6:2)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es querer cargarlo todo: no dormir, no comer, no pedir ayuda, no mostrar el cansancio. También es común sentir culpa por estar cansado o por reír un momento.",
+        "No funciona porque un cuidador agotado termina enfermándose también. Jetro le dijo a Moisés que la carga era demasiado pesada para llevarla solo (Éxodo 18:17-18). Lo mismo vale para ti."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Marta y María no usaron palabras bonitas. Solo le contaron a Jesús lo que pasaba. Así también puedes orar. Jesús amaba a esa familia, aunque su respuesta tardó más de lo que ellas esperaban (Juan 11:5-6).",
+        "Mira también a los amigos del paralítico. Lo cargaron entre cuatro y abrieron el techo para llegar a Jesús (Marcos 2:3-5). Nadie lo cargó solo. Deja que otros lleven una parte.",
+        "Y descansa sin culpa. Jesús invitó a sus discípulos cansados a apartarse y reposar un poco (Marcos 6:31). Descansar no es abandonar al enfermo. Es poder seguir acompañándolo."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora con sencillez: dile a Jesús el nombre de tu ser querido y lo que pasa (Juan 11:3).",
+        "Haz una lista de tareas y pide a otros que tomen una: turnos, comidas, trámites (Gálatas 6:2).",
+        "Duerme, come y ve a tus propios chequeos; cuidarte también es cuidar.",
+        "Pide a tu iglesia que ore y, si tu ser querido lo desea, que lo visiten (Santiago 5:14).",
+        "Busca a alguien con quien hablar y llorar, fuera de la habitación del enfermo."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Qué ayuda estoy rechazando por orgullo o por miedo?",
+        "¿Cuándo fue la última vez que comí bien y dormí una noche entera?",
+        "¿Le he dicho a Jesús lo que siento, o solo lo que le pido?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy pídele a una persona concreta una ayuda concreta: “¿Puedes quedarte el jueves en la tarde?” o “¿Puedes traer la cena mañana?”. Aceptar ayuda también es amor. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Marta y María mandaron a decirle a Jesús que su hermano estaba enfermo, y tuvieron que esperar. Lee su ficha «Marta y María» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Cuidar a un enfermo por mucho tiempo desgasta. ¿Ya no duermes, lloras sin parar o sientes que no puedes más? Busca hoy a alguien de confianza, a tu pastor o sacerdote y a un médico. Pedir ayuda profesional no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 11:1-6", "nota": "El que amas está enfermo." },
+        { "ref": "Marcos 2:1-5", "nota": "Cuatro amigos cargan juntos." },
+        { "ref": "Éxodo 18:13-23", "nota": "Compartir la carga." },
+        { "ref": "Salmo 55:22", "nota": "Echa tu carga sobre el Señor." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, el que amo está enfermo. Tú lo amas más que yo. Cuídalo, guía a los médicos y dame fuerzas para acompañarlo. Enséñame a aceptar ayuda y a descansar en ti. Amén."
+    }
+  ],
+  "estudio": ["salmos"],
+  "buscar": "cuidar enfermos"
+}

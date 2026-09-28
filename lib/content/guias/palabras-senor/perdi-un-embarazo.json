@@ -1,0 +1,97 @@
+{
+  "id": "perdi-un-embarazo",
+  "titulo": "Cuando perdí un embarazo",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Duelo", "Maternidad"],
+  "enUnMinuto": [
+    "Ese hijo era real para Dios: sus ojos lo vieron cuando todavía se estaba formando.",
+    "Tu dolor es un duelo verdadero, y no es un castigo ni tu culpa.",
+    "Primer paso: date permiso para llorar a tu bebé y cuéntale a alguien lo que viviste."
+  ],
+  "versiculo": {
+    "texto": "Mi embrión vieron tus ojos, y en tu libro estaban escritas todas aquellas cosas que fueron luego formadas, sin faltar una de ellas.",
+    "referencia": "Salmo 139:16"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Yesenia estaba de once semanas. En la ecografía ya no había latido. Su familia le dijo: “Eres joven, ya vendrá otro”. Su esposo volvió al trabajo al día siguiente y casi no habla del tema. Ella sigue tocándose el vientre sin saber con quién hablar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios conoce la vida desde el vientre. Sus ojos vieron a tu bebé cuando apenas se formaba (Salmo 139:16). Por eso tu pena es un duelo verdadero, y Dios está cerca de los quebrantados de corazón (Salmo 34:18)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es callar y minimizar: “era muy pronto”, “ya tendrás otro”, “Dios sabe por qué”. Aunque se diga con cariño, esas frases dejan a la madre sola con su pena. El padre también sufre, y a veces nadie le pregunta cómo está.",
+        "Otro error, muy doloroso, es buscar culpables. La mayoría de las pérdidas no se deben a nada que la madre hizo o dejó de hacer. Y no es un castigo de Dios. Si cargas esa culpa, puedes soltarla hoy."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia toma en serio la vida en el vientre. Dios forma al niño en el vientre de su madre (Salmo 139:13) y lo conoce antes de nacer (Jeremías 1:5). Por eso está bien llorar a ese hijo como a un hijo.",
+        "Ana lloró con amargura de alma delante de Dios, y Él la escuchó (1 Samuel 1:10). Tú también puedes derramar tu dolor así. Dios sana a los quebrantados de corazón y venda sus heridas (Salmo 147:3).",
+        "Muchos preguntan dónde está su bebé. La Biblia no responde todas nuestras preguntas. Cuando murió su hijo pequeño, David dijo: «Yo voy a él, mas él no volverá a mí» (2 Samuel 12:23). Las iglesias lo explican de maneras distintas; habla con tu pastor o sacerdote. Sí sabemos que Dios es bueno y misericordioso."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Date permiso para estar de duelo, sin importar las semanas, aunque la pérdida haya sido hace años.",
+        "Cuéntale a una persona de confianza lo que pasó y cómo te sientes.",
+        "Hablen como pareja de lo que sienten; cada uno vive el duelo a su manera.",
+        "Cuida tu cuerpo: ve a los controles médicos y descansa lo necesario.",
+        "Pide a tu pastor o sacerdote un momento de oración para despedir a tu hijo (Salmo 147:3)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Me estoy permitiendo llorar esta pérdida, o me digo que no debería doler tanto?",
+        "¿Estoy cargando una culpa que no me corresponde?",
+        "¿Con quién puedo hablar de mi bebé sin que me juzguen?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy, si lo deseas, dale un nombre a tu bebé. Escríbelo en tu Biblia junto a la fecha y al Salmo 139:16. Luego dile ese nombre a Dios en oración. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Ana cargaba un dolor que otros no veían, y derramó su alma delante de Dios (1 Samuel 1:15). Lee su ficha «Ana» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si tienes fiebre, sangrado fuerte o dolor intenso, ve al médico hoy. ¿La tristeza no te deja vivir, o piensas que no vale la pena seguir? Busca a alguien de confianza, a tu pastor o sacerdote y a un profesional. En peligro, llama al número de emergencias. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 139:13-16", "nota": "Dios te formó y te vio." },
+        { "ref": "1 Samuel 1:9-18", "nota": "Ana derrama su alma." },
+        { "ref": "2 Samuel 12:15-23", "nota": "David llora a su hijo pequeño." },
+        { "ref": "Salmo 34:18", "nota": "Dios está cerca del corazón roto." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conociste a mi bebé antes que yo. Te lo entrego con lágrimas. Sana mi corazón y el de mi familia. Quita toda culpa que no viene de ti. Y abrázame en este silencio. Amén."
+    }
+  ],
+  "estudio": ["salmos", "1-samuel"],
+  "buscar": "consuelo"
+}

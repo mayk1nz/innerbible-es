@@ -1,0 +1,97 @@
+{
+  "id": "me-traiciona-alguien-cercano",
+  "titulo": "Cuando me traiciona alguien cercano",
+  "etiquetas": ["Perdón y heridas", "Traición", "Confianza"],
+  "enUnMinuto": [
+    "Jesús conoce el dolor de ser traicionado por alguien que comía a su mesa.",
+    "El camino bíblico es contarle a Dios todo el dolor, no vengarte y no cerrar el corazón a todos.",
+    "Primer paso: antes de hablar con otros o de responder, derrama ante Dios lo que sientes."
+  ],
+  "versiculo": {
+    "texto": "Aun el hombre de mi paz, en quien yo confiaba, el que de mi pan comía, alzó contra mí el calcañar.",
+    "referencia": "Salmos 41:9"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Miguel y su compadre abrieron juntos una panadería hace quince años. Un lunes, el compadre se fue con las recetas y los clientes, y abrió su propio local a dos cuadras. Miguel no duerme. Lo que más le duele no es el dinero: era como su hermano."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La traición de un amigo duele más que el ataque de un enemigo. Dios lo sabe (Salmos 41:9; 55:12-14). Echa tu carga sobre el Señor y deja la causa en sus manos (Salmos 55:22; 1 Pedro 2:23)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Responder en caliente: un mensaje de venganza, una publicación en redes, contarle a todo el barrio. O lo contrario: tragarse el dolor y hacer como si nada.",
+        "Y después, muchas veces, cerrar el corazón: “Nunca más confío en nadie”. Así, una sola persona termina quitándote a todas las demás."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "David no escondió su dolor. Escribió que no lo había herido un enemigo, sino su amigo íntimo. Con él iba a la casa de Dios (Salmos 55:12-14). Se lo dijo todo a Dios. Y luego escribió: «Echa sobre Jehová tu carga, y él te sustentará» (Salmos 55:22).",
+        "Jesús vivió esto en carne propia. Judas lo entregó con un beso, y Jesús lo llamó «Amigo» (Mateo 26:50). Cuando Pedro sacó la espada, Jesús le pidió que la guardara (Mateo 26:52). No devolvió el golpe. Entregaba su causa al que juzga con justicia (1 Pedro 2:23).",
+        "Una traición no significa que todos sean iguales. Jesús siguió confiando en sus discípulos. Pero nos pide ser prudentes y sencillos a la vez (Mateo 10:16)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuéntale a Dios toda la verdad de tu dolor, sin adornos, como David en el Salmo 55.",
+        "No actúes en caliente. Nada de mensajes de venganza ni publicaciones (1 Pedro 2:23).",
+        "Habla de lo que pasó con una o dos personas de confianza, no con todo el mundo.",
+        "Si hubo robo o fraude, puedes buscar justicia por los caminos legales, sin odio y con consejo.",
+        "No cierres el corazón a todos. Pide a Dios discernimiento para volver a confiar poco a poco (Mateo 10:16)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Le he contado a Dios todo lo que siento, o solo a los demás?",
+        "¿Estoy planeando alguna forma de venganza, aunque sea pequeña?",
+        "¿Estoy castigando a otros por lo que hizo una sola persona?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Una traición no borra a los fieles. Escribe hoy los nombres de tres personas que siguen siendo leales contigo. Llama a una de ellas y dale gracias por su amistad. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jesús fue entregado por un amigo en el huerto, y aun así siguió el camino del amor. Lee su ficha, «Jesús en Getsemaní», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la traición fue una infidelidad, o el dolor no te deja dormir ni comer, busca apoyo hoy. Habla con alguien de confianza, con tu pastor o sacerdote, o con un profesional. Pedir ayuda no es falta de fe. En esta guía también está “Cuando hubo infidelidad”."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 55:12-22", "nota": "El dolor de David traicionado por su amigo." },
+        { "ref": "Mateo 26:47-56", "nota": "Judas entrega a Jesús con un beso." },
+        { "ref": "1 Pedro 2:21-23", "nota": "Jesús no devolvió el mal." },
+        { "ref": "Juan 13:18-30", "nota": "Jesús sabía quién lo iba a entregar." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú sabes lo que es ser traicionado por un amigo. Te entrego este dolor y mi deseo de venganza. Guarda mi corazón de la amargura y de la desconfianza con todos. Sé tú mi apoyo firme. Amén."
+    }
+  ],
+  "estudio": ["salmos"],
+  "buscar": "traición"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "cuido-a-mis-padres-ancianos",
+  "titulo": "Cuando cuido a mis padres ancianos",
+  "etiquetas": ["Hijos y familia", "Vejez", "Cuidado"],
+  "enUnMinuto": [
+    "Cuidar a los padres ancianos es una forma santa de honrarlos, y Dios lo ve.",
+    "Pero nadie puede hacerlo solo: la Biblia enseña a pedir y a aceptar ayuda.",
+    "Primer paso: anota lo que tu padre o tu madre necesita y pide ayuda para una parte."
+  ],
+  "versiculo": {
+    "texto": "Oye a tu padre, a aquel que te engendró; y cuando tu madre envejeciere, no la menosprecies.",
+    "referencia": "Proverbios 23:22"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hace dos años que Consuelo cuida a su mamá, de 84 años, que empieza a olvidar las cosas. Sus hermanos viven cerca, pero solo llaman para opinar. Consuelo dejó su trabajo, casi no duerme y a veces pierde la paciencia. Después llora de culpa."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dios pide no menospreciar a la madre cuando envejece (Proverbios 23:22). Cuidar a los padres es agradable delante de Dios (1 Timoteo 5:4). Pero no es una carga para una sola persona."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es cargar con todo en silencio, por culpa o por orgullo. La persona que cuida se enferma, se aísla y se llena de rabia. El otro error es el de los hermanos que se desentienden, o que solo critican. Los dos olvidan que toda la familia está llamada a este cuidado."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Desde la cruz, Jesús se ocupó de su madre y la confió a su discípulo amado (Juan 19:26-27). Aun en su dolor, pensó en quién la cuidaría. Cuidar de los suyos no es un favor: es parte de la fe (1 Timoteo 5:8).",
+        "Pero mira el consejo que recibió Moisés de su suegro: «no podrás hacerlo tú solo» (Éxodo 18:18). Lo mismo vale para ti. Pedir ayuda a hermanos, vecinos, a la iglesia o a profesionales no es abandonar a tus padres. Es cuidarlos mejor.",
+        "Y no olvides que Dios también te sostiene a ti. Él promete llevar a los suyos hasta la vejez y las canas (Isaías 46:4). Esa promesa es para tus padres, y un día será para ti."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Anota lo que tus padres necesitan: medicinas, citas, comida, compañía, dinero.",
+        "Reúne a tus hermanos o familiares y repartan tareas concretas (Éxodo 18:18).",
+        "Busca apoyo: tu iglesia o parroquia, un vecino, el centro de salud o un grupo de cuidadores.",
+        "Aparta un tiempo para descansar cada semana. Quien cuida agotado no puede cuidar bien.",
+        "Háblales con ternura, aunque repitan las cosas. Ora con ellos y lean un salmo juntos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy cuidando a mis padres, o me estoy destruyendo por no pedir ayuda?",
+        "¿Qué parte de este cuidado podría hacer otra persona?",
+        "¿Los trato con paciencia y dignidad, aun en los días difíciles?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Siéntate hoy quince minutos con tu padre o tu madre, sin hacer ninguna tarea. Pídele que te cuente un recuerdo de su juventud y escúchalo, aunque ya lo sepas. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Rut eligió quedarse con Noemí, su suegra ya mayor y sola, y cuidarla con fidelidad (Rut 1:16). Lee su ficha, «Rut», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si te sientes agotado, triste todo el tiempo o sin fuerzas, busca ayuda hoy. Habla con alguien de confianza, tu pastor o sacerdote o un médico. Si tu padre o tu madre tiene cambios de memoria o de conducta, consulta a un médico. Buscar ayuda profesional no es falta de fe ni de amor."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Juan 19:25-27", "nota": "Jesús confía a su madre." },
+        { "ref": "Éxodo 18:13-23", "nota": "No podrás hacerlo tú solo." },
+        { "ref": "Rut 1:14-18", "nota": "Rut no deja a Noemí." },
+        { "ref": "Isaías 46:3-4", "nota": "Dios nos lleva hasta la vejez." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por la vida de mis padres. Dame paciencia, ternura y fuerzas para cuidarlos. Pon a mi lado personas que me ayuden. Y cuando me canse, sostenme tú, que nos llevas hasta las canas. Amén."
+    }
+  ],
+  "estudio": ["rut", "proverbios"],
+  "buscar": "vejez"
+}

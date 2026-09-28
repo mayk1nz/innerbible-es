@@ -1,0 +1,93 @@
+{
+  "id": "me-descubro-mintiendo",
+  "titulo": "Cuando me descubro mintiendo",
+  "etiquetas": ["Tentación y hábitos", "Mentira", "Verdad"],
+  "enUnMinuto": [
+    "Cada mentira, aunque sea pequeña, rompe un poco la confianza que nos une.",
+    "La Biblia pide dejar la mentira y hablar verdad, porque somos parte unos de otros.",
+    "Primer paso: descubre qué miedo hay detrás de tus mentiras y corrige una hoy."
+  ],
+  "versiculo": {
+    "texto": "Por lo cual, dejada la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros.",
+    "referencia": "Efesios 4:25"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Fernanda llega tarde al trabajo y, sin pensarlo, dice que hubo un choque en la avenida. No hubo ningún choque. Esa semana le dice a su mamá que ya pagó la luz, y no la pagó. Se da cuenta de que miente casi sin querer."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La mentira rompe lo que nos une. Por eso la Biblia nos pide dejarla y hablar verdad con el prójimo, porque somos miembros unos de otros (Efesios 4:25)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Lo más común es quitarle importancia: “es una mentira piadosa”, “fue para no preocuparla”, “todo el mundo exagera”. Otro error es tapar una mentira con otra.",
+        "No funciona porque cada mentira necesita más mentiras para sostenerse. Y poco a poco perdemos algo precioso: que los demás puedan creernos. La Biblia dice que los labios mentirosos desagradan a Dios, y los que obran verdad le alegran (Proverbios 12:22)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Jesús enseñó que nuestro hablar sea sí, sí, o no, no (Mateo 5:37). La verdad sencilla es más fácil de vivir que una historia bien armada.",
+        "Muchas mentiras nacen del miedo: a quedar mal, a un castigo, a decepcionar. Por eso el cambio empieza por dentro. Pablo dice que dejamos el hombre viejo y nos vestimos del nuevo, que Dios va renovando (Colosenses 3:9-10).",
+        "Y hay esperanza. Pedro negó tres veces a Jesús por miedo, y después lloró amargamente (Lucas 22:61-62). Pero Jesús lo buscó y le devolvió su lugar (Juan 21:17). La verdad no viene a condenarte, sino a hacerte libre (Juan 8:32)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Durante una semana, anota cada vez que te descubras mintiendo o exagerando.",
+        "Busca el motivo de fondo: ¿miedo, vergüenza, querer quedar bien, evitar un problema?",
+        "Antes de responder, respira y pregúntate: ¿qué es lo verdadero aquí? (Mateo 5:37).",
+        "Si le mentiste a alguien, corrígelo pronto y sin excusas.",
+        "Pídele a Dios cada mañana un corazón que hable verdad (Salmo 15:1-2)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿En qué situaciones miento con más facilidad?",
+        "¿A quién le debo hoy una verdad?",
+        "¿Qué temo que pase si digo la verdad?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige hoy una mentira reciente y corrígela con la persona a quien se la dijiste. Puedes empezar así: “Quiero corregir algo que te dije, porque no era verdad”. Corto, sencillo y sin excusas. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Pedro mintió por miedo en el peor momento, y Jesús lo restauró junto al mar. Lee su ficha «Pedro» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Efesios 4:22-25", "nota": "Dejar lo viejo y hablar verdad." },
+        { "ref": "Lucas 22:54-62", "nota": "Pedro niega a Jesús." },
+        { "ref": "Juan 21:15-17", "nota": "Jesús restaura a Pedro." },
+        { "ref": "Salmo 15", "nota": "Quien habla verdad en su corazón." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú eres la verdad. Perdóname por mis mentiras, grandes y pequeñas. Quita el miedo que me hace mentir. Dame valor para corregir lo que dije y para hablar con sencillez. Amén."
+    }
+  ],
+  "estudio": ["efesios", "resurreccion"],
+  "buscar": "verdad"
+}

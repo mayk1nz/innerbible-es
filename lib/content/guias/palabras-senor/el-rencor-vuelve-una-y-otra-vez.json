@@ -1,0 +1,97 @@
+{
+  "id": "el-rencor-vuelve-una-y-otra-vez",
+  "titulo": "Cuando el rencor vuelve una y otra vez",
+  "etiquetas": ["Perdón y heridas", "Rencor", "Pensamientos"],
+  "enUnMinuto": [
+    "Que el recuerdo vuelva no significa que no perdonaste; significa que toca entregarlo otra vez.",
+    "El rencor es una raíz que crece si la alimentas: deja de repasar la historia y cambia el pensamiento.",
+    "Primer paso: ten lista una frase corta para entregarle a Dios el recuerdo cada vez que vuelva."
+  ],
+  "versiculo": {
+    "texto": "Mirando bien que ninguno se aparte de la gracia de Dios, que ninguna raíz de amargura brotando os impida, y por ella muchos sean contaminados;",
+    "referencia": "Hebreos 12:15"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Hace diez años, una vecina inventó una mentira sobre el hijo de doña Ofelia. Ella dijo que la perdonaba. Pero cada vez que la ve en el mercado, se le aprieta el estómago. Y de noche vuelve a repasar toda la historia."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "La amargura es una raíz: si no se arranca, vuelve a brotar y contamina (Hebreos 12:15). Por eso hay que llevar cada pensamiento cautivo a Cristo (2 Corintios 10:5)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Pensar: “Si todavía me duele, es que nunca perdoné”. Entonces uno se desanima y deja de intentarlo.",
+        "El otro error es alimentar la raíz sin darse cuenta. Contar la historia otra vez, ensayar discusiones en la mente, revisar qué hace la otra persona. Cada repaso riega la amargura, y la raíz se hace más profunda."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La carta a los Hebreos habla de una raíz de amargura que brota y contamina a muchos (Hebreos 12:15). Una raíz no se arranca en un día. Pero sí se puede dejar de regarla.",
+        "Pablo dice que llevemos cautivo todo pensamiento a la obediencia de Cristo (2 Corintios 10:5). Cuando llega el recuerdo, no tienes que seguirlo hasta el final. Puedes detenerlo y pensar en lo verdadero, lo justo y lo amable (Filipenses 4:8).",
+        "Jonás siguió enojado aunque Dios ya había perdonado a Nínive. Dios no lo regañó con dureza. Le hizo una pregunta: «¿Haces tú bien en enojarte tanto?» (Jonás 4:4). Y Pablo nos da la salida: vencer con el bien el mal (Romanos 12:21)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "No te condenes porque vuelve el recuerdo. Recordar no es lo mismo que guardar rencor.",
+        "Cada vez que vuelva, entrégalo de nuevo a Dios con una frase corta. Hazlo las veces que haga falta.",
+        "Deja de alimentar la raíz: no repitas la historia y no ensayes discusiones en tu mente (2 Corintios 10:5).",
+        "Cambia el pensamiento por uno verdadero. Piensa en algo bueno que Dios hizo por ti (Filipenses 4:8).",
+        "Cuando sea seguro y posible, haz un bien pequeño a esa persona: un saludo, una ayuda (Romanos 12:21)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Cuántas veces he contado esta historia en el último mes?",
+        "¿Qué gano manteniendo viva esta herida? ¿Qué pierdo?",
+        "Si Dios me preguntara hoy lo mismo que a Jonás, ¿qué le respondería?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige una frase corta, como “Señor, te lo entrego otra vez”. Hoy, cada vez que vuelva el recuerdo, dila en voz baja y haz una rayita en un papel. Por la noche, dale gracias a Dios por cada rayita: cada una fue una entrega."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Jonás guardó rencor contra Nínive, y Dios lo esperó con paciencia y con preguntas. Lee su ficha, «Jonás», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si el recuerdo llega con pánico, pesadillas o no te deja vivir, puede ser una herida más profunda. Busca a alguien de confianza, a tu pastor o sacerdote, o a un profesional de la salud. Pedir ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Hebreos 12:14-15", "nota": "Seguir la paz y cuidar la raíz." },
+        { "ref": "2 Corintios 10:3-5", "nota": "Llevar cautivo cada pensamiento." },
+        { "ref": "Jonás 4:1-11", "nota": "El enojo de Jonás y la paciencia de Dios." },
+        { "ref": "Romanos 12:14-21", "nota": "Vencer con el bien el mal." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, este recuerdo vuelve una y otra vez. No quiero regar esta raíz. Te entrego hoy esta herida, y mañana te la entregaré de nuevo si hace falta. Llena mi mente de lo que es verdadero y bueno. Amén."
+    }
+  ],
+  "estudio": ["hebreos", "jonas"],
+  "buscar": "amargura"
+}

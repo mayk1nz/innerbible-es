@@ -1,0 +1,91 @@
+{
+  "id": "me-siento-estancado",
+  "titulo": "Cuando me siento estancado",
+  "etiquetas": ["Trabajo y propósito", "Estancamiento", "Fidelidad"],
+  "enUnMinuto": [
+    "Sentirte estancado no significa que Dios se olvidó de ti.",
+    "La fidelidad en lo pequeño prepara para lo grande, y crecer también es parte de esa fidelidad.",
+    "Hoy mejora una cosa concreta en tu trabajo."
+  ],
+  "versiculo": {
+    "texto": "El que es fiel en lo muy poco, también en lo más es fiel: y el que en lo muy poco es injusto, también en lo más es injusto.",
+    "referencia": "Lucas 16:10"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Lucía lleva siete años de cajera en el mismo supermercado de Santiago de Chile. Ha visto a compañeros más nuevos ascender antes que ella. Siente que su vida está en pausa. Ya no se esfuerza como antes; total, nadie lo nota."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Quien es fiel en lo poco también lo será en lo mucho (Lucas 16:10). Dios mira la fidelidad escondida, aun cuando nadie más la reconoce."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es dejar de esforzarse porque no hay reconocimiento. Otro es vivir comparándose con los demás, con amargura. También existe el error contrario: aguantar para siempre sin buscar crecer. La desgana y la amargura hacen que el estancamiento se vuelva real."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "José pasó años como esclavo y como preso. En la cárcel trabajó tan bien que le confiaron a todos los presos (Génesis 39:21-23). Ayudó al copero del rey, y el copero se olvidó de él durante dos años (Génesis 40:23; 41:1). Pero Dios no se olvidó de José.",
+        "La Biblia valora a la persona diligente en su trabajo (Proverbios 22:29). Crecer también es fidelidad: aprender algo nuevo, pedir más responsabilidad, preparar el siguiente paso. Esperar en Dios no es quedarse quieto. Es seguir sembrando con paciencia mientras Él prepara el momento."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Cuéntale a Dios tu frustración con honestidad, sin fingir que no te importa.",
+        "Haz bien lo pequeño de cada día, como si el Señor fuera tu supervisor (Lucas 16:10).",
+        "Aprende algo que te ayude a crecer: un curso gratuito, un oficio, una habilidad nueva.",
+        "Habla con tu jefe y pregúntale qué necesitas para avanzar.",
+        "Deja de medir tu vida por la de otros: Jesús le dijo a Pedro que lo siguiera él (Juan 21:21-22)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy siendo fiel en lo poco, o espero lo grande para esforzarme?",
+        "¿Qué hice en el último año para crecer?",
+        "¿Me estoy comparando con otros en vez de mirar mi propio camino?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Elige hoy una cosa pequeña de tu trabajo que puedes hacer mejor: el orden, el saludo, la puntualidad. Hazla antes de que termine el día, como una ofrenda para el Señor."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "José pasó años en una cárcel, olvidado por quien había prometido ayudarle. Siguió sirviendo bien, y Dios lo levantó a su tiempo. Lee «José» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Lucas 16:10-12", "nota": "Fiel en lo poco." },
+        { "ref": "Génesis 39:20-23", "nota": "José sirve bien aun en la cárcel." },
+        { "ref": "Génesis 41:9-14", "nota": "El día en que José salió de la cárcel." },
+        { "ref": "Proverbios 22:29", "nota": "El valor del trabajo bien hecho." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, siento que no avanzo, y me duele. Tú ves lo que nadie ve. Ayúdame a ser fiel en lo pequeño y a crecer sin amargura. Líbrame de compararme con otros. Confío en tu tiempo. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "fidelidad"
+}

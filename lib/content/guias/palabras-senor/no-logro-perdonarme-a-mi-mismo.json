@@ -1,0 +1,97 @@
+{
+  "id": "no-logro-perdonarme-a-mi-mismo",
+  "titulo": "Cuando no logro perdonarme a mí mismo",
+  "etiquetas": ["Perdón y heridas", "Culpa", "Gracia"],
+  "enUnMinuto": [
+    "Si confesaste tu pecado, Dios ya te perdonó; seguir castigándote no paga nada que Cristo no haya pagado.",
+    "La culpa sana te lleva a Dios y a reparar; la condena te encierra en el pasado.",
+    "Primer paso: confiesa a Dios lo que hiciste, con nombre, y cree lo que Él promete."
+  ],
+  "versiculo": {
+    "texto": "Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad.",
+    "referencia": "1 Juan 1:9"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Ignacio dejó a su esposa y a sus hijos cuando eran pequeños. Bebía y no volvía a casa. Hoy lleva diez años sobrio, y sus hijos le hablan. Pero cuando sus nietos lo abrazan, piensa: “Yo no merezco esto”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Cuando confesamos, Dios perdona y limpia (1 Juan 1:9). Si el Juez ya te declaró perdonado, no hay otro tribunal más alto, ni siquiera el tuyo (Romanos 8:1)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Castigarse por dentro, como si sufrir más pagara algo. Muchos piden perdón a Dios una y otra vez por lo mismo, sin creer nunca la respuesta. Otros hacen lo contrario: tapan el recuerdo y fingen que no pasó.",
+        "Ninguno de los dos caminos sana. El castigo propio parece humildad, pero en el fondo dice que la cruz no alcanzó. Y lo que se tapa sigue doliendo por dentro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia distingue dos tristezas. Una viene de Dios y lleva al arrepentimiento que da vida. La otra es la tristeza del mundo, que produce muerte (2 Corintios 7:10). La primera te acerca a Dios y a las personas que heriste. La segunda te encierra en ti mismo.",
+        "David calló su pecado, y sus huesos se secaban. Cuando lo confesó, Dios perdonó la maldad de su pecado (Salmos 32:3-5). Dios aleja nuestras rebeliones como está lejos el oriente del occidente (Salmos 103:12).",
+        "Pedro negó a Jesús tres veces y lloró amargamente (Lucas 22:62). Jesús resucitado no lo humilló. Le preguntó tres veces si lo amaba, y le confió sus ovejas (Juan 21:15-17). El perdón de Dios no solo borra: también te devuelve a caminar."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Confiesa a Dios lo que hiciste, con nombre y sin excusas. Una vez, con todo el corazón (Salmos 32:5).",
+        "Si puedes reparar algo, repáralo: una disculpa, una deuda, una visita. Lo que ya no se puede reparar, entrégalo a Dios.",
+        "Si te ayuda, confiesa tu falta a una persona madura en la fe, o a tu pastor o sacerdote (Santiago 5:16).",
+        "Cuando vuelva la acusación, respóndele con la Palabra: ya no hay condenación para los que están en Cristo (Romanos 8:1).",
+        "Deja que la gracia te ponga a servir. Jesús le dio a Pedro una tarea, no una condena (Juan 21:17)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Creo, en el fondo, que mi falta es más grande que la cruz de Cristo?",
+        "¿Mi castigo a mí mismo ayuda a alguien, o solo me aleja de Dios y de los míos?",
+        "¿Queda algo concreto que todavía pueda reparar?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe en un papel lo que no te perdonas. Lee en voz alta 1 Juan 1:9 y Romanos 8:1. Luego rompe el papel y tíralo. Si el recuerdo vuelve, di: “Esto ya lo entregué a Dios”. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Pedro falló en el momento más importante, y Jesús lo volvió a llamar por su nombre. Lee su ficha, «Pedro», en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si la culpa no te deja dormir ni vivir, o sientes que no mereces vivir, busca ayuda hoy. Habla con alguien de confianza, con tu pastor o sacerdote, o con un médico. Buscar ayuda no es falta de fe. Si piensas en quitarte la vida, llama ya a un número de emergencia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmos 32:1-5", "nota": "La alegría de quien confiesa y es perdonado." },
+        { "ref": "Salmos 103:8-12", "nota": "Dios no nos paga conforme a nuestros pecados." },
+        { "ref": "Juan 21:15-19", "nota": "Jesús restaura a Pedro." },
+        { "ref": "Romanos 8:1-4", "nota": "Ninguna condenación en Cristo." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú sabes lo que hice y cuánto me pesa. Hoy lo confieso delante de ti. Creo que me perdonas y me limpias, como prometiste. Enséñame a vivir como alguien perdonado. Amén."
+    }
+  ],
+  "estudio": ["1-juan"],
+  "buscar": "culpa"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "busco-pareja-y-quiero-elegir-bien",
+  "titulo": "Cuando busco pareja y quiero elegir bien",
+  "etiquetas": ["Matrimonio y pareja", "Noviazgo", "Discernimiento"],
+  "enUnMinuto": [
+    "Elegir pareja es de las decisiones más grandes de la vida: se hace con el corazón cuidado y los ojos abiertos.",
+    "El primer paso es mirar el carácter y la fe de la persona, no solo lo que sientes."
+  ],
+  "versiculo": {
+    "texto": "Sobre toda cosa guardada guarda tu corazón; porque de él mana la vida.",
+    "referencia": "Proverbios 4:23"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Daniela tiene 27 años y conoció a Bruno hace tres semanas. Es atento, simpático y le escribe todo el día. Ya le propone vivir juntos. Cuando ella quiere presentarlo a su familia, él pone excusas. Ella está feliz, pero algo por dentro le dice que vaya más despacio."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Tu corazón es fuente de vida: cuídalo antes de entregarlo (Proverbios 4:23). A las personas se las conoce por sus frutos, no por sus palabras (Mateo 7:16)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Nos dejamos llevar por la emoción y la prisa. Miramos la apariencia, el trato de los primeros días o el miedo a quedarnos solos. Pensamos que el amor va a cambiar a la otra persona. Y apartamos a la familia y a los amigos que ven lo que nosotros no queremos ver."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "Cuando el siervo de Abraham buscaba esposa para Isaac, oró primero. Después observó el carácter. Rebeca le dio de beber y, sin que se lo pidieran, sacó agua para sus camellos (Génesis 24:17-20). No buscaba solo belleza, sino bondad.",
+        "Jesús enseña: «Por sus frutos los conoceréis» (Mateo 7:16). Mira cómo trata a su familia, a quien lo atiende, a quien no le conviene. La Biblia también pide no unirse en yugo desigual con quien no comparte la fe (2 Corintios 6:14). Las iglesias lo viven de maneras distintas; habla con tu pastor o sacerdote. Y los planes se afirman con buenos consejeros (Proverbios 15:22)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Ora por la persona y por tu propio corazón antes de avanzar (Génesis 24:12).",
+        "Tómate tiempo. Conocer a alguien de verdad lleva meses, no semanas.",
+        "Observa sus frutos: ¿cómo habla de otros, cómo maneja el enojo, cumple lo que dice? (Mateo 7:16).",
+        "Preséntalo a tu familia y a amigos maduros en la fe, y escucha lo que ven (Proverbios 15:22).",
+        "Conversen de lo importante: fe, hijos, dinero, familia, proyectos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Me atrae su carácter o solo cómo me hace sentir?",
+        "¿Estoy apurando las cosas por miedo a quedarme solo?",
+        "¿Escucho a las personas sabias que me aman, o las evito?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Escribe hoy tres cualidades de carácter que no son negociables para ti en una pareja. Compártelas con una persona de confianza y pídele que te ayude a mirarlas con honestidad."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Booz no se fijó primero en la apariencia de Rut, sino en su fidelidad y su bondad con Noemí (Rut 2:11). Conoce esta historia en la ficha «Rut» de Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Señales de alarma: celos que controlan, prohibirte ver a tu familia, revisar tu teléfono, insultos, amenazas o golpes. Eso no es amor. Habla con alguien de confianza y con tu pastor o sacerdote. En peligro, llama a emergencias."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Génesis 24:10-27", "nota": "Oración y carácter en la búsqueda de Rebeca." },
+        { "ref": "Rut 2:1-12", "nota": "Booz ve la fidelidad de Rut." },
+        { "ref": "Proverbios 4:20-27", "nota": "Guardar el corazón." },
+        { "ref": "Mateo 7:15-20", "nota": "Conocer por los frutos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, pongo en tus manos mi deseo de tener pareja. Cuida mi corazón de la prisa y del engaño. Dame ojos para ver el carácter y oídos para escuchar el buen consejo. Guíame tú. Amén."
+    }
+  ],
+  "estudio": ["genesis-12-50", "rut"],
+  "buscar": "noviazgo"
+}

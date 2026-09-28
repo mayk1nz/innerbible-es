@@ -1,0 +1,87 @@
+{
+  "id": "el-dinero-nos-divide",
+  "titulo": "Cuando el dinero nos divide",
+  "etiquetas": ["Matrimonio y pareja", "Dinero en pareja", "Acuerdos"],
+  "enUnMinuto": [
+    "En el matrimonio el dinero no es “mío” o “tuyo”: se decide juntos, con verdad y sin secretos.",
+    "El primer paso es sentarse a hablar con calma y poner todo sobre la mesa."
+  ],
+  "versiculo": {
+    "texto": "¿Andarán dos juntos, si no estuvieren de concierto?",
+    "referencia": "Amós 3:3"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "Pedro manda dinero a su mamá cada mes sin decirle a Ana. Ana compró un celular en cuotas y tampoco se lo contó. Cuando llega la cuenta de la luz y no alcanza, estallan. Los dos se sienten traicionados, y los dos tienen algo escondido."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Dos no pueden caminar juntos si no se ponen de acuerdo (Amós 3:3). Si son una sola carne, también sus decisiones deben ser compartidas (Génesis 2:24)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "Muchas parejas nunca hablan de dinero hasta que hay una crisis. Cada uno maneja lo suyo a escondidas, o uno controla todo y el otro no sabe nada. Los secretos pequeños crecen: una compra oculta, una deuda que no se cuenta. Cuando salen a la luz, el problema ya no es el dinero: es la confianza."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia dice que el hombre deja a sus padres y se une a su mujer (Génesis 2:24). Ayudar a los padres es bueno y bíblico. Pero la decisión se toma en pareja, no a escondidas.",
+        "Jesús enseña que quien es fiel en lo poco también lo es en lo mucho (Lucas 16:10). La confianza se construye con cuentas claras, aun en montos pequeños. Proverbios dice que los planes cuidadosos llevan a la abundancia, y la prisa a la pobreza (Proverbios 21:5). Y Pablo pide no mirar solo lo propio, sino también lo del otro (Filipenses 2:4). El dinero compartido es una forma de amor."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Elijan un momento tranquilo, sin hijos ni cansancio, para hablar de dinero.",
+        "Pongan todo sobre la mesa: ingresos, deudas, gastos y ayudas a la familia.",
+        "Si hay algo escondido, confiésalo primero tú, sin esperar a que te descubran (Lucas 16:10).",
+        "Hagan juntos un plan sencillo del mes: lo fijo, lo que se ahorra y lo que se da (Proverbios 21:5).",
+        "Acuerden un monto: compras mayores a esa cantidad se consultan antes."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Hay algo de dinero que mi pareja no sabe?",
+        "¿Uso el dinero para controlar o para cuidar a mi familia?",
+        "¿Tomo decisiones de dinero pensando en los dos, o solo en mí?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy propón a tu pareja, con calma, una cita de veinte minutos esta semana para hablar de dinero. Si tienes un gasto o una deuda escondida, prepárate para contarlo tú primero."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Si las deudas ya no los dejan dormir, busquen hoy asesoría financiera seria y hablen con su pastor o sacerdote. Si uno de los dos quita todo el dinero al otro, lo amenaza o lo aísla, eso es control y maltrato. Busca ayuda."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Amós 3:3", "nota": "Caminar juntos es ponerse de acuerdo." },
+        { "ref": "Lucas 16:10-13", "nota": "Fieles en lo poco." },
+        { "ref": "Proverbios 21:5", "nota": "Los planes cuidadosos." },
+        { "ref": "Filipenses 2:1-4", "nota": "Mirar también lo del otro." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, el dinero nos está separando. Perdóname por lo que escondí o controlé. Danos humildad para hablar con la verdad y sabiduría para decidir juntos. Que en nuestra casa todo sea claro delante de ti. Amén."
+    }
+  ],
+  "estudio": ["amos", "filipenses"],
+  "buscar": "dinero en el matrimonio"
+}

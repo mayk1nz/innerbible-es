@@ -1,0 +1,97 @@
+{
+  "id": "sufro-y-no-entiendo-por-que",
+  "titulo": "Cuando sufro y no entiendo por qué",
+  "etiquetas": ["Dolor, enfermedad y pérdida", "Preguntas", "Confianza"],
+  "enUnMinuto": [
+    "No siempre entenderemos el porqué ahora, pero podemos confiar en quién está con nosotros.",
+    "Preguntarle a Dios “¿por qué?” no es falta de fe: la Biblia está llena de esas oraciones.",
+    "Primer paso: lleva tus preguntas a Dios tal como son, sin esconderlas."
+  ],
+  "versiculo": {
+    "texto": "Respondió Jesús, y díjole: Lo que yo hago, tú no entiendes ahora; mas lo entenderás después.",
+    "referencia": "Juan 13:7"
+  },
+  "bloques": [
+    {
+      "tipo": "destacado",
+      "titulo": "La situación real",
+      "tono": "navy",
+      "texto": "En un solo año, Rigoberto perdió su casa en una inundación y su hijo tuvo un accidente grave. En la iglesia alguien le preguntó: “¿No habrá algún pecado escondido?”. Ahora, noche tras noche, él le pregunta a Dios: “¿Por qué a mí?”."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "El principio bíblico",
+      "tono": "gold",
+      "texto": "Jesús dijo a Pedro: lo que hago, no lo entiendes ahora, pero lo entenderás después (Juan 13:7). No siempre tendremos la explicación. Siempre podemos tener a Dios."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El error más común",
+      "parrafos": [
+        "El error más común es buscar un culpable a la fuerza: “algo hiciste”, “Dios te está castigando”. Así hablaron los amigos de Job. Al final, Dios les dijo que no habían hablado lo recto (Job 42:7).",
+        "Otro error es tapar el dolor con frases rápidas: “todo pasa por algo”, “no preguntes”. Y otro es alejarse de Dios en silencio. Nada de eso consuela de verdad."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "El camino bíblico",
+      "parrafos": [
+        "La Biblia no esconde la pregunta “¿por qué?”. David oró: ¿hasta cuándo, Señor, me olvidarás? (Salmo 13:1). Jesús mismo, en la cruz, le preguntó al Padre por qué lo había desamparado (Mateo 27:46). Puedes orar así.",
+        "Jesús rechazó la idea de que todo sufrimiento viene de un pecado personal (Juan 9:2-3). Dios no siempre explica. A Job no le dio una lista de razones, pero se le acercó y le habló.",
+        "La Biblia tampoco dice que el mal sea bueno. Dice que nada puede separarnos del amor de Dios en Cristo (Romanos 8:38-39). Puedes quedarte con tus preguntas y, a la vez, quedarte con Dios."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Paso a paso",
+      "items": [
+        "Dile a Dios tus preguntas tal como son; usa el Salmo 13 como oración.",
+        "Aléjate con respeto de quienes te culpan; busca a quien sepa acompañarte en silencio (Job 2:13).",
+        "Separa lo que puedes hacer hoy de lo que todavía no puedes entender.",
+        "Anota cada noche una señal pequeña de que Dios no te soltó (Romanos 8:38-39).",
+        "Pide ayuda práctica para lo urgente: vivienda, salud, trámites."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pregúntate",
+      "items": [
+        "¿Estoy buscando una explicación, o estoy buscando a Dios?",
+        "¿Qué frases me hirieron y necesito soltar?",
+        "¿Quién puede acompañarme sin darme respuestas rápidas?"
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Hoy, como hacedor de la Palabra",
+      "texto": "Hoy lee en voz alta el Salmo 13 como tu propia oración. Termina con los versículos 5 y 6, aunque todavía no los sientas del todo. Dios recibe también la fe que tiembla. Si quieres, conversa esta situación con tu Consejero Bíblico."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un gigante que vivió esto",
+      "parrafos": [
+        "Job lo perdió casi todo y nunca recibió la explicación completa. Aun así habló con Dios con honestidad, y Dios lo defendió frente a sus amigos. Lee su ficha «Job» en Caminando con Gigantes."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿El dolor no te deja vivir, dormir o comer, o te vienen ideas de no seguir? Busca hoy a alguien de confianza. Habla también con tu pastor o sacerdote y con un profesional. En peligro, llama al número de emergencias. Buscar ayuda no es falta de fe."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer y orar",
+      "items": [
+        { "ref": "Salmo 13", "nota": "¿Hasta cuándo, Señor?" },
+        { "ref": "Job 42:1-10", "nota": "Dios habla con Job y corrige a sus amigos." },
+        { "ref": "Juan 9:1-7", "nota": "El sufrimiento no siempre viene de un pecado." },
+        { "ref": "Romanos 8:35-39", "nota": "Nada nos separa de su amor." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no entiendo lo que me pasa. Te traigo mis preguntas y mi dolor. No me sueltes aunque yo no vea. Enséñame a confiar en ti mientras llega la luz. Amén."
+    }
+  ],
+  "estudio": ["job", "salmos"],
+  "buscar": "sufrimiento"
+}

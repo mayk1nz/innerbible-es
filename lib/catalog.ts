@@ -289,7 +289,11 @@ export const PRODUCTS: Product[] = [
     cover: { ...DAWN, lines: ['Palabras', 'del'], highlight: 'Señor', icon: 'feather' },
     tabs: true,
     sections: [
-      { id: 'guia', title: 'Guía Palabras del Señor', tab: 'Guía', lessons: lessons(['Cómo usar esta guía'], 'texto') },
+      // The guide's 13 parts (content-src/guias/palabras-senor) share the "Guía" tab.
+      ...guiaSections('palabras-senor', [{ id: 'guia', title: 'Guía Palabras del Señor', lessons: lessons(['Cómo usar esta guía'], 'texto') }]).map((sec) => ({
+        ...sec,
+        tab: 'Guía',
+      })),
       {
         id: 'transformacion',
         title: 'Plan de 90 días de Transformación Espiritual',
@@ -317,12 +321,13 @@ export const PRODUCTS: Product[] = [
   {
     id: 'caminando-gigantes',
     title: 'Biblioteca «Caminando con Gigantes»',
-    short: 'Los grandes hombres y mujeres de la fe.',
-    description: 'Una biblioteca con las vidas de quienes caminaron con Dios antes que nosotros.',
+    short: '31 hombres y mujeres de la Biblia que pasaron por lo mismo que tú, y cómo Dios los sostuvo.',
+    description:
+      'Busca la lucha que estás viviendo —injusticia, duelo, miedo, cansancio, culpa, familia, enfermedad— y encuentra a alguien de la Biblia que pasó por lo mismo: su historia, lo que sintió, lo que decidió, los pasos que puedes copiar hoy y una oración.',
     kind: 'guia',
     offer: 'upsell2',
     cover: { ...OLIVE, lines: ['Caminando', 'con'], highlight: 'Gigantes', icon: 'users' },
-    sections: pendingGuide(),
+    sections: guiaSections('caminando-gigantes', pendingGuide()),
   },
   {
     id: 'mapas-mentales',
