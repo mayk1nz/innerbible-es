@@ -31,3 +31,6 @@ npm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Estudio Cronológico: open datasets (download with content-src/estudio/fetch-data.mjs)
+content-src/estudio/raw/

@@ -60,21 +60,20 @@ Tom: o mesmo do app — carinho, esperança, nada de culpa, nada de urgência fa
 
 ### D+5 — Todo lo que recibiste
 
-**Assunto:** {{nomeCliente}}, ¿ya viste tus 9 regalos?
+**Assunto:** {{nomeCliente}}, ¿ya viste tus 8 regalos?
 
 > Hola, {{nomeCliente}}:
 >
-> Además del Resumen Cronológico, tu compra incluye **9 regalos** para que la Palabra te acompañe en cada área de tu vida:
+> Además del Resumen Cronológico, tu compra incluye **8 regalos** para que la Palabra te acompañe en cada área de tu vida:
 >
-> - Plan de Lectura de la Biblia en 365 días
-> - Plan de Escucha · 30 días
 > - Mapas Mentales de la Biblia
 > - Biografías de los Apóstoles y Personajes
 > - 10 Mandamientos Explicados
-> - Mujeres Virtuosas de la Biblia
-> - Los 43 Milagros de Jesús
+> - Plan de Lectura de la Biblia en 365 días
 > - Actividades Bíblicas para Niños
-> - Comunidad en WhatsApp
+> - Los 43 Milagros de Jesús
+> - Mujeres Virtuosas de la Biblia
+> - **Tu Guía de Estudio con IA:** escribe el pasaje, el personaje o el tema que estás estudiando —«Génesis 22», «Abraham», «la fe»— y recibe en segundos todos los pasajes que se conectan, en el orden en que sucedieron y explicados con palabras sencillas. Sin ir de libro en libro.
 >
 > Los encuentras en la app, en **Leer → Guías**.
 >

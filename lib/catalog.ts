@@ -1,5 +1,4 @@
 import type { IconName } from '@/components/icons'
-import { WHATSAPP_URL } from './config'
 import { PLAN_TITLES, type PlanId } from './content/plans/titles'
 import { COMIENZA_AQUI, GENESIS } from './content/sample'
 import { slugify } from './text'
@@ -12,10 +11,10 @@ import { slugify } from './text'
 // `offer` is what unlocks a product: 'front' is the main purchase, 'upsell1' the audio
 // version, 'upsell2' the Palabras del Señor guide (formerly "Hacedores de la Palabra",
 // id kept) plus the bonuses its sales page lists. The other 9 bonuses come with
-// 'front' ("+ 9 regalos especiales") — to move one, change that one field.
+// 'front' ("+ 8 regalos especiales") — to move one, change that one field.
 
 export type OfferId = 'front' | 'upsell1' | 'upsell2'
-export type ProductKind = 'recorrido' | 'guia' | 'enlace'
+export type ProductKind = 'recorrido' | 'guia' | 'enlace' | 'herramienta'
 export type LessonFormat = 'texto' | 'audio'
 
 export interface LessonContent {
@@ -76,8 +75,10 @@ export interface Product {
   offer: OfferId
   cover: CoverStyle
   sections: Section[]
-  /** Only for kind 'enlace' (e.g. the WhatsApp group). */
+  /** Only for kind 'enlace' (an external link). */
   url?: string
+  /** Only for kind 'herramienta': the tool's page inside the app (e.g. the study AI). */
+  href?: string
   /** Show the sections as tabs (e.g. Palabras del Señor: the guide + its plans). */
   tabs?: boolean
 }
@@ -254,7 +255,7 @@ export const PRODUCTS: Product[] = [
     short: 'Un audio por día durante un mes.',
     description: 'Treinta días para escuchar la Palabra con constancia, un paso por día.',
     kind: 'guia',
-    offer: 'front',
+    offer: 'upsell1',
     cover: { ...AMBER, lines: ['Plan de', 'Escucha'], highlight: '30 días', icon: 'headphones' },
     sections: [{ id: 'dias', title: '30 días', lessons: numberedDays(30, 'audio').map((l) => ({ ...l, audioSrc: `/api/audio/plan-escucha/${l.id}` })) }],
   },
@@ -309,13 +310,13 @@ export const PRODUCTS: Product[] = [
     sections: yearPlan(),
   },
   {
-    id: 'mujeres-virtuosas',
-    title: 'Mujeres Virtuosas de la Biblia',
-    short: 'Mujeres de fe y lo que su historia nos enseña.',
-    description: 'Las mujeres de la Biblia que marcaron la historia de la fe.',
+    id: 'actividades-ninos',
+    title: 'Actividades Bíblicas para Niños',
+    short: 'Para aprender la Biblia en familia.',
+    description: 'Actividades para que los más pequeños conozcan las historias bíblicas jugando.',
     kind: 'guia',
     offer: 'front',
-    cover: { ...ROSE, lines: ['Virtuosas', 'de la Biblia'], highlight: 'Mujeres', icon: 'heart' },
+    cover: { ...OLIVE, lines: ['Actividades', 'bíblicas'], highlight: 'Niños', icon: 'gift' },
     sections: pendingGuide(),
   },
   {
@@ -329,25 +330,26 @@ export const PRODUCTS: Product[] = [
     sections: pendingGuide(),
   },
   {
-    id: 'actividades-ninos',
-    title: 'Actividades Bíblicas para Niños',
-    short: 'Para aprender la Biblia en familia.',
-    description: 'Actividades para que los más pequeños conozcan las historias bíblicas jugando.',
+    id: 'mujeres-virtuosas',
+    title: 'Mujeres Virtuosas de la Biblia',
+    short: 'Mujeres de fe y lo que su historia nos enseña.',
+    description: 'Las mujeres de la Biblia que marcaron la historia de la fe.',
     kind: 'guia',
     offer: 'front',
-    cover: { ...OLIVE, lines: ['Actividades', 'bíblicas'], highlight: 'Niños', icon: 'gift' },
+    cover: { ...ROSE, lines: ['Virtuosas', 'de la Biblia'], highlight: 'Mujeres', icon: 'heart' },
     sections: pendingGuide(),
   },
   {
-    id: 'comunidad-whatsapp',
-    title: 'Comunidad en WhatsApp',
-    short: 'Oración y estudio junto a otros hermanos.',
-    description: 'Únete al grupo de WhatsApp para orar, compartir y estudiar junto a otros hermanos.',
-    kind: 'enlace',
+    id: 'guia-ia',
+    title: 'Tu Guía de Estudio con IA',
+    short: 'Escribe lo que estás estudiando y recibe, en orden, todos los pasajes que se conectan.',
+    description:
+      'Tu ayudante para el Estudio Cronológico. Escribe un pasaje, un personaje o un tema —«Génesis 22», «Abraham», «la fe»— y recibe al instante toda la cadena de pasajes relacionados, en el orden en que sucedieron, cada uno con una explicación sencilla. Sin ir de libro en libro: pregunta lo que no entiendes y sigue la historia de la Biblia de principio a fin.',
+    kind: 'herramienta',
     offer: 'front',
-    cover: { ...DAWN, lines: ['en WhatsApp'], highlight: 'Comunidad', icon: 'message' },
+    cover: { ...DUSK, lines: ['Tu guía de', 'estudio'], highlight: 'IA', icon: 'sparkles' },
     sections: [],
-    url: WHATSAPP_URL,
+    href: '/estudio',
   },
 ]
 
@@ -356,7 +358,7 @@ export const OFFERS: Offer[] = [
     id: 'front',
     title: 'Resumen Cronológico de la Biblia',
     short: 'tu compra',
-    pitch: 'Los 66 libros en orden cronológico y 9 regalos especiales.',
+    pitch: 'Los 66 libros en orden cronológico y 8 regalos especiales.',
     productId: 'cronologico',
   },
   {

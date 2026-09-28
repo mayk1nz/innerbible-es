@@ -18,6 +18,7 @@ export function ModuleView({ productId }: { productId: string }) {
   if (!product) return null
   if (!isOwned(product, s.owned)) return <LockedProduct product={product} />
   if (product.kind === 'enlace') return <LinkProduct product={product} />
+  if (product.kind === 'herramienta') return <ToolProduct product={product} />
   if (product.tabs) return <TabbedModule product={product} completed={s.completed} lastLesson={s.lastLesson} />
   return <ModuleContent product={product} completed={s.completed} />
 }
@@ -155,6 +156,35 @@ function PlanPanel({ product, section, completed }: { product: Product; section:
     </>
   )
 }
+
+/** A tool inside the app (e.g. the study AI): what it does, and the way in once it is ready. */
+function ToolProduct({ product }: { product: Product }) {
+  return (
+    <>
+      <PageHeader back="/leer" title={product.title} />
+      <div className="overflow-hidden rounded-3xl border border-line bg-surface shadow-card">
+        <Cover cover={product.cover} size="banner" />
+        <div className="p-5">
+          <p className="text-[16.5px] leading-relaxed text-text">{product.description}</p>
+          {product.href && TOOLS_READY.has(product.id) ? (
+            <Link href={product.href} className={`${buttonClass.primary} mt-5`}>
+              <Icon name="sparkles" className="size-5 text-gold-bright" />
+              Abrir
+            </Link>
+          ) : (
+            <p className="mt-5 flex items-center gap-2 rounded-2xl bg-gold-soft/60 p-4 text-[15.5px] text-ink">
+              <Icon name="clock" className="size-5 shrink-0 text-gold" />
+              Estamos preparando esta herramienta. Muy pronto la encontrarás aquí.
+            </p>
+          )}
+        </div>
+      </div>
+    </>
+  )
+}
+
+/** Tools whose page already exists (add the id when it goes live). */
+const TOOLS_READY = new Set<string>([])
 
 function LinkProduct({ product }: { product: Product }) {
   return (

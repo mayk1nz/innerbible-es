@@ -38,6 +38,7 @@ export const DEALS: Record<UpsellId, Deal> = {
       `Antiguo Testamento: ${audioCount('antiguo-testamento')} audios, de Génesis a Malaquías`,
       `Nuevo Testamento: ${audioCount('nuevo-testamento')} audios, de los evangelios al Apocalipsis`,
       'Cada audio con su propia portada, y el reproductor sigue sonando mientras navegas por la app',
+      'De regalo: Plan de Escucha de 30 días — un audio por día para crear el hábito de escuchar la Palabra',
       'Escucha mientras caminas, conduces, trabajas o descansas',
       'Velocidad ajustable, de 0.75x a 2x, y botones para adelantar o volver 15 segundos',
       'Continúa exactamente donde lo dejaste, en cada audio',

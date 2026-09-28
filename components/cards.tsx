@@ -59,7 +59,12 @@ export function ProductTile({ product, state }: { product: Product; state: AppSt
       <span className="flex flex-1 flex-col gap-2.5 p-3.5">
         <span className="font-serif text-[15.5px] font-medium leading-snug text-ink">{product.title}</span>
         <span className="mt-auto">
-          {owned && product.kind === 'enlace' ? (
+          {owned && product.kind === 'herramienta' ? (
+            <span className="inline-flex items-center gap-1 text-[13px] font-semibold text-primary">
+              <Icon name="sparkles" className="size-3.5" />
+              Tu ayudante
+            </span>
+          ) : owned && product.kind === 'enlace' ? (
             <span className="inline-flex items-center gap-1 text-[13px] font-semibold text-primary">
               <Icon name="message" className="size-3.5" />
               Entrar al grupo

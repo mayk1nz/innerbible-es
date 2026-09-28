@@ -242,7 +242,7 @@ export const OFFER = {
   title: 'Mira el video a continuación para descubrir el secreto para entender la Biblia.',
   headline: '¡Recibe ahora!',
   product: 'Resumen Cronológico',
-  extra: '+ 9 regalos especiales',
+  extra: '+ 8 regalos especiales',
   button: 'Haz clic aquí para asegurar tu material',
   bullets: ['Acceso inmediato', 'Garantía de 30 días'],
   perMonth: '/mes',

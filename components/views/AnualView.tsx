@@ -94,7 +94,7 @@ export function AnualView() {
   const { owned, session } = useAppState()
   const everything = hasEverything(owned)
   const rows = [
-    { label: 'Resumen Cronológico de la Biblia + 9 regalos', price: ANUAL.monthly.front },
+    { label: 'Resumen Cronológico de la Biblia + 8 regalos', price: ANUAL.monthly.front },
     { label: 'Resumen Cronológico en Audio', price: ANUAL.monthly.upsell1 },
     { label: 'Palabras del Señor + Tu Consejero Bíblico', price: ANUAL.monthly.upsell2 },
   ]
