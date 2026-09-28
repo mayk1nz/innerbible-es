@@ -1,0 +1,95 @@
+{
+  "id": "mano-seca",
+  "titulo": "El hombre de la mano seca",
+  "subtitulo": "Milagro 10 de 43 · Hacer el bien en sábado",
+  "etiquetas": ["Una sinagoga de Galilea", "Año 2 · c. 28 d.C.", "Curación", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Un sábado, en la sinagoga, hay un hombre con la mano derecha seca, y algunos vigilan a Jesús.",
+    "Jesús lo pone en medio y pregunta si en sábado es lícito hacer el bien.",
+    "Le dice «Extiende tu mano», y la mano queda sana como la otra."
+  ],
+  "versiculo": {
+    "texto": "Y les dice: ¿Es lícito hacer bien en sábado, o hacer mal? ¿salvar la vida, o quitarla? Mas ellos callaban.",
+    "referencia": "Marcos 3:4"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 12:9-14", "nota": "Mateo añade el ejemplo de la oveja caída en un hoyo en sábado." },
+        { "ref": "Marcos 3:1-6", "nota": "Marcos cuenta la mirada de Jesús, con enojo y con tristeza." },
+        { "ref": "Lucas 6:6-11", "nota": "Lucas precisa que era la mano derecha." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Otro sábado, Jesús entró en la sinagoga y enseñaba. Allí había un hombre con la mano derecha seca, sin fuerza para trabajar. Algunos escribas y fariseos observaban a Jesús. Querían ver si sanaba en sábado para poder acusarlo.",
+        "Jesús sabía lo que pensaban. Llamó al hombre: «Levántate, y ponte en medio». Luego preguntó a todos: «¿Es lícito en sábados hacer bien, o hacer mal? ¿salvar la vida, o quitarla?». Nadie respondió.",
+        "Mateo cuenta que Jesús puso un ejemplo sencillo. Si una oveja cae en un hoyo en sábado, cualquiera la saca. «Pues ¿cuánto más vale un hombre que una oveja?».",
+        "Jesús los miró a todos. Marcos dice que lo hizo con enojo y con tristeza por la dureza de sus corazones. Entonces dijo al hombre: «Extiende tu mano». Él la extendió, y su mano quedó sana como la otra. Pero algunos salieron de allí a planear cómo acabar con Jesús."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús honra el sábado y le devuelve su sentido: es un día para hacer el bien y dar vida. Para él, una persona vale más que cualquier discusión. También vemos su corazón: se entristece cuando alguien endurece el suyo. Y lo más hermoso: pide al hombre que haga justo lo que no podía, y le da la fuerza para hacerlo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "A todos nos pasa que las reglas o la costumbre nos hacen olvidar a la persona que tenemos delante. Jesús nos invita a preguntarnos qué es hacer el bien hoy. Y quizás en tu vida hay algo «seco», que no se mueve. Jesús te invita a extenderlo hacia él con confianza. Para hoy: haz un bien concreto que venías postergando."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, dame un corazón blando, atento a las personas. Te extiendo lo que en mí está seco y sin fuerza. Dame valor para hacer el bien, aunque otros no lo entiendan. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre no podía mover su mano. Jesús le dijo: «Extiende tu mano». ¡Y la mano quedó sana! Jesús enseñó que siempre es buen día para hacer el bien. ¿Qué bien puedes hacer hoy con tus manos?",
+      "actividad": "Traza el contorno de tus dos manos en un papel. Dentro escribe o dibuja cosas buenas que puedes hacer con ellas."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los fariseos amaban la ley de Dios y cuidaban el sábado con mucho celo. No todos pensaban igual: Nicodemo también era fariseo y buscó a Jesús (Juan 3:1-2)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sanó esta mano en un instante. La historia no promete que toda discapacidad desaparezca así. Orar, buscar tratamiento y acompañar con cariño van juntos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Éxodo 20:8-11", "nota": "El mandamiento del sábado, día de descanso dedicado al Señor." },
+        { "ref": "Marcos 2:27", "nota": "Jesús enseña que el sábado fue hecho para el ser humano." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué día sanó Jesús al hombre de la mano seca?",
+      "opciones": ["En sábado", "En un día de fiesta en el templo", "El día de su boda"],
+      "correcta": 0,
+      "explicacion": "Fue en sábado, en la sinagoga (Marcos 3:1-2)."
+    },
+    {
+      "pregunta": "¿Qué le pidió Jesús al hombre?",
+      "opciones": ["Que se lavara en un estanque", "Que volviera mañana", "Que extendiera su mano"],
+      "correcta": 2,
+      "explicacion": "Le dijo: Extiende tu mano. Y su mano quedó sana (Marcos 3:5)."
+    },
+    {
+      "pregunta": "¿Qué animal usa Jesús como ejemplo en Mateo?",
+      "opciones": ["Un burro atado", "Una oveja caída en un hoyo", "Un pájaro en el nido"],
+      "correcta": 1,
+      "explicacion": "Pregunta: ¿cuánto más vale un hombre que una oveja? (Mateo 12:11-12)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 3:1-6"
+}

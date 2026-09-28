@@ -1,0 +1,100 @@
+{
+  "id": "hija-de-jairo",
+  "titulo": "La hija de Jairo: «Talita cumi»",
+  "subtitulo": "Milagro 17 de 43 · «No temas, cree solamente»",
+  "etiquetas": ["Capernaúm, casa de Jairo", "Año 2 · c. 28 d.C.", "Resurrección", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Jairo, jefe de la sinagoga, ruega a Jesús por su hija de doce años, que se está muriendo.",
+    "En el camino llega la noticia de que la niña ha muerto, y Jesús le dice: «No temas, cree solamente».",
+    "Jesús la toma de la mano, le dice «Talita cumi», y ella se levanta."
+  ],
+  "versiculo": {
+    "texto": "Y tomando la mano de la muchacha, le dice: Talitha cumi; que es, si lo interpretares: Muchacha, a ti digo, levántate.",
+    "referencia": "Marcos 5:41"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 9:18-26", "nota": "Mateo lo cuenta en breve: el padre llega diciendo que la niña acaba de morir." },
+        { "ref": "Marcos 5:21-43", "nota": "Marcos conserva las palabras de Jesús en arameo: «Talitha cumi»." },
+        { "ref": "Lucas 8:40-56", "nota": "Lucas dice que era hija única y que «su espíritu volvió»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús volvió en barca a la otra orilla, y la gente lo esperaba. Un jefe de la sinagoga, llamado Jairo, se echó a sus pies. Le rogó: «Mi hija está a la muerte: ven y pondrás las manos sobre ella». Era su única hija y tenía unos doce años. Jesús fue con él.",
+        "En el camino, una mujer enferma tocó el manto de Jesús, y él se detuvo a hablar con ella. Mientras tanto, llegaron unos mensajeros de la casa de Jairo. «Tu hija es muerta; ¿para qué fatigas más al Maestro?». Jesús oyó la noticia y dijo a Jairo: «No temas, cree solamente».",
+        "Solo dejó que lo acompañaran Pedro, Jacobo y Juan. En la casa había llanto y mucho alboroto. Jesús dijo que la niña no estaba muerta, sino dormida, y se burlaron de él. Él hizo salir a todos y entró con el padre, la madre y sus tres discípulos.",
+        "Tomó la mano de la niña y le dijo: «Talitha cumi», que quiere decir: «Muchacha, a ti digo, levántate». Enseguida la niña se levantó y se puso a caminar. Todos quedaron llenos de asombro. Jesús pidió que no lo contaran, y dijo que le dieran de comer."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Jefe de la sinagoga: la RV1909 dice «príncipe de la sinagoga». Era quien organizaba las reuniones de oración.",
+        "«Talita cumi»: palabras en arameo, la lengua que hablaba Jesús cada día. Marcos las conserva tal como sonaron.",
+        "«no es muerta, mas duerme»: Jesús habla así porque va a despertarla. Lucas aclara que la niña había muerto de verdad."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Para Jesús nunca es demasiado tarde. Cuando todos dicen que ya no hay nada que hacer, él dice «No temas». Tiene poder sobre la muerte, y la despierta como quien despierta a una niña dormida. Y es tierno en los detalles: la toma de la mano y cuida a la familia. ¡Hasta se acuerda de que tiene hambre!"
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Jairo tuvo que esperar mientras Jesús atendía a otra persona, y en esa espera llegó la peor noticia. Quizás tú también sientes que Dios se demora. Escucha la palabra que Jesús le dio a Jairo: «No temas, cree solamente». Para hoy: escribe esa frase en un papel y ponla donde la veas cuando tengas miedo."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, cuando llegan malas noticias, háblame como a Jairo: «No temas». Toma de la mano a mis hijos y a los niños que conozco. Enséñame a esperar en ti, aunque parezca tarde. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una niña de doce años estaba muy enferma y murió. Jesús tomó su mano y le dijo en su idioma: «Talita cumi», que significa «Niña, levántate». ¡Y ella se levantó! ¿Sabes qué pidió Jesús después? ¡Que le dieran de comer!",
+      "actividad": "Aprende a decir «Talita cumi» y enséñaselo a alguien de tu familia, contando la historia."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esta historia no promete que un ser querido vuelva hoy a la vida. Anuncia que la muerte no tiene la última palabra. En los tres evangelios, esta historia va unida a la de la mujer que tocó el manto: las dos llevaban doce años."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "2 Reyes 4:32-37", "nota": "Eliseo ora en la habitación cerrada y el niño de la sunamita revive." },
+        { "ref": "Juan 11:25", "nota": "Jesús dice: «Yo soy la resurrección y la vida»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién era Jairo?",
+      "opciones": ["Un recaudador de impuestos", "Un jefe de la sinagoga", "Un soldado romano"],
+      "correcta": 1,
+      "explicacion": "Era uno de los príncipes de la sinagoga (Marcos 5:22)."
+    },
+    {
+      "pregunta": "¿Qué significa «Talita cumi»?",
+      "opciones": ["Muchacha, levántate", "Niña, no llores", "Dios te bendiga"],
+      "correcta": 0,
+      "explicacion": "Marcos lo traduce: Muchacha, a ti digo, levántate (Marcos 5:41)."
+    },
+    {
+      "pregunta": "¿Qué tienen en común la hija de Jairo y la mujer del manto?",
+      "opciones": ["Las dos vivían en Jerusalén", "Las dos eran de la familia de Pedro", "El número doce: años de vida y de enfermedad"],
+      "correcta": 2,
+      "explicacion": "La niña tenía doce años, y la mujer llevaba doce años enferma (Marcos 5:25, 42)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 5:21-43"
+}

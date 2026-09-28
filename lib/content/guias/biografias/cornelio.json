@@ -1,0 +1,121 @@
+{
+  "id": "cornelio",
+  "titulo": "Cornelio",
+  "subtitulo": "El centurión romano que abrió la puerta",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "Cesarea"],
+  "enUnMinuto": [
+    "Cornelio era un oficial del ejército romano que amaba a Dios, oraba y ayudaba a los pobres.",
+    "Dios le mandó llamar a Pedro, y a Pedro le enseñó que no debía llamar impuro a nadie.",
+    "Cuando Cornelio y su casa oyeron de Jesús, recibieron el Espíritu Santo: la buena noticia era para todos."
+  ],
+  "versiculo": {
+    "texto": "Entonces Pedro, abriendo su boca, dijo: Por verdad hallo que Dios no hace acepción de personas; Sino que de cualquiera nación que le teme y obra justicia, se agrada.",
+    "referencia": "Hechos 10:34-35"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Cornelio vivía en Cesarea, la ciudad romana junto al mar. Era centurión, un oficial al mando de unos cien soldados, de la compañía llamada «la Italiana» (Hechos 10:1). Su nombre es romano.",
+        "No era judío, pero adoraba al Dios de Israel. Hechos dice que era «temeroso de Dios con toda su casa», que daba muchas limosnas y oraba siempre (Hechos 10:2). El pueblo judío hablaba bien de él (Hechos 10:22)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un ángel a las tres de la tarde. Mientras oraba, Cornelio vio a un ángel. Le dijo que Dios había oído sus oraciones y visto sus limosnas (Hechos 10:3-4).",
+        "«Haz venir a un Simón». El ángel le mandó enviar hombres a Jope, para llamar a Pedro. Cornelio obedeció enseguida (Hechos 10:5-8).",
+        "Mientras tanto, en Jope. Pedro oraba en una azotea y tuvo una visión. Dios le dijo: «Lo que Dios limpió, no lo llames tú común» (Hechos 10:9-16).",
+        "Pedro va sin dudar. El Espíritu le dijo a Pedro que fuera con los mensajeros. Al llegar, Cornelio había reunido a su familia y a sus amigos (Hechos 10:19-24).",
+        "«Yo mismo también soy hombre». Cornelio se arrodilló ante Pedro. Pedro lo levantó y le dijo que él también era solo un hombre (Hechos 10:25-26).",
+        "Dios no hace diferencias. Pedro anunció a Jesús: su vida, su muerte y su resurrección. Todo el que cree en él recibe el perdón (Hechos 10:34-43).",
+        "El Espíritu para todos. Mientras Pedro hablaba, el Espíritu Santo vino sobre todos los que oían. Luego fueron bautizados en el nombre de Jesús (Hechos 10:44-48).",
+        "Una noticia que alegra. En Jerusalén, algunos discutieron con Pedro. Cuando él contó lo sucedido, alabaron a Dios (Hechos 11:1-18)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Pedro lo resumió así: Jesús «es el Señor de todos» (Hechos 10:36). En casa de Cornelio se cumplió lo que Jesús pidió. Sus discípulos serían testigos hasta lo último de la tierra (Hechos 1:8). Desde ese día, la mesa de Jesús quedó abierta para todas las naciones."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Dios ve al que busca. Cornelio oraba y ayudaba sin saber todo de Jesús. Esta semana, ora por alguien que busca a Dios, aunque aún no lo conozca bien.",
+        "Obedecer rápido. Cornelio mandó a llamar a Pedro ese mismo día. Esta semana, haz hoy lo bueno que Dios te puso en el corazón.",
+        "Invitar a otros. Cornelio reunió a su familia y amigos para escuchar. Esta semana, invita a alguien a tu grupo o a tu iglesia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Pedro tuvo que cambiar su manera de ver a los demás. ¿Hay alguien a quien mantienes a distancia por su origen, su pasado o su forma de ser? Pídele a Dios que te muestre a esa persona como él la ve."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era centurión en Cesarea, de la compañía Italiana (Hechos 10:1).",
+        "Oraba, daba limosnas y temía a Dios con toda su casa (Hechos 10:2).",
+        "Fue de los primeros no judíos que recibieron el Espíritu Santo y el bautismo (Hechos 10:44-48).",
+        "La Biblia no vuelve a hablar de él."
+      ],
+      "tradicion": [
+        "Un escrito del siglo IV dice que fue obispo de Cesarea, después de Zaqueo. La Biblia no narra este hecho.",
+        "Otra tradición griega lo recuerda como obispo en Asia Menor.",
+        "La Iglesia católica lo recuerda el 2 de febrero, y las ortodoxas el 13 de septiembre."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "La Biblia dice poco de Cornelio: un solo capítulo y su eco en el siguiente. Pero ese capítulo cambió la historia de la Iglesia, y por eso Pedro lo recordó en Jerusalén (Hechos 15:7-9)."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Hechos 10:1-8", "nota": "La visión de Cornelio" },
+        { "ref": "Hechos 10:9-23", "nota": "La visión de Pedro" },
+        { "ref": "Hechos 10:24-48", "nota": "Pedro en casa de Cornelio" },
+        { "ref": "Hechos 11:1-18", "nota": "Pedro lo cuenta en Jerusalén" },
+        { "ref": "Hechos 15:7-9", "nota": "Pedro lo recuerda en la reunión" },
+        { "ref": "Hechos 1:8", "nota": "Hasta lo último de la tierra" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cornelio era un soldado romano que amaba a Dios. Dios le mostró que Jesús es para todos. ¿Hay algún niño diferente a ti con quien puedas jugar esta semana?",
+      "actividad": "Para papás y abuelos: Dios no hace diferencias entre personas (Hechos 10:34). Dibujen juntos niños de muchos países alrededor de Jesús."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque tu amor es para todas las naciones. Oye mis oraciones como oíste las de Cornelio. Quita de mi corazón toda barrera contra otros. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué trabajo tenía Cornelio?",
+      "opciones": ["Pescador en Jope", "Centurión del ejército romano", "Sacerdote del templo"],
+      "correcta": 1,
+      "explicacion": "Era centurión de la compañía llamada la Italiana, en Cesarea (Hechos 10:1)."
+    },
+    {
+      "pregunta": "¿Qué le dijo la voz a Pedro en su visión?",
+      "opciones": ["Lo que Dios limpió, no lo llames común", "Vuelve a Jerusalén", "Escribe una carta a Cornelio"],
+      "correcta": 0,
+      "explicacion": "Dios le enseñó a no llamar impuro a nadie (Hechos 10:15, 28)."
+    },
+    {
+      "pregunta": "¿Qué mandó Jesús que llegó a cumplirse en casa de Cornelio?",
+      "opciones": ["Que los discípulos ayunaran", "Que construyeran un templo", "Ser testigos hasta lo último de la tierra"],
+      "correcta": 2,
+      "explicacion": "Jesús mandó ser sus testigos en todo el mundo (Hechos 1:8), también entre los no judíos."
+    }
+  ],
+  "estudio": ["hechos-8-12"],
+  "buscar": "Cornelio"
+}

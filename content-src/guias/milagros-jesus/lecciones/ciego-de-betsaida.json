@@ -1,0 +1,99 @@
+{
+  "id": "ciego-de-betsaida",
+  "titulo": "El ciego de Betsaida, poco a poco",
+  "subtitulo": "Milagro 26 de 43 · Una curación en dos pasos",
+  "etiquetas": ["Betsaida, junto al mar de Galilea", "Año 3 · c. 29 d.C.", "Curación"],
+  "enUnMinuto": [
+    "En Betsaida le traen a Jesús un ciego, y él lo saca de la mano fuera del pueblo.",
+    "Después del primer toque, el hombre ve a la gente como árboles que caminan.",
+    "Jesús lo toca otra vez, y entonces ve todo con claridad."
+  ],
+  "versiculo": {
+    "texto": "Luego le puso otra vez las manos sobre sus ojos, y le hizo que mirase; y fue restablecido, y vio de lejos y claramente a todos.",
+    "referencia": "Marcos 8:25"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Marcos 8:22-26", "nota": "Solo lo cuenta Marcos." },
+        { "ref": "Marcos 8:14-21", "nota": "Justo antes: los discípulos no entienden el milagro de los panes." },
+        { "ref": "Marcos 8:27-30", "nota": "Justo después: Pedro dice por primera vez que Jesús es el Cristo." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús llegó con sus discípulos a Betsaida, un pueblo junto al mar de Galilea. Allí le trajeron un ciego y le rogaron que lo tocara. Jesús tomó al ciego de la mano y lo sacó fuera de la aldea. Caminaron juntos, el Maestro guiando al que no veía.",
+        "Fuera del pueblo, Jesús le puso saliva en los ojos y las manos encima. Luego le preguntó si veía algo. El hombre miró y dijo: «Veo los hombres, pues veo que andan como árboles». Veía, pero todo borroso.",
+        "Jesús le puso otra vez las manos sobre los ojos. Esta vez el hombre quedó sano del todo. Veía con claridad, de cerca y de lejos. Jesús lo envió a su casa y le pidió que no entrara en la aldea a contarlo.",
+        "Justo antes, los discípulos no entendían el milagro de los panes. Jesús les había preguntado: «¿Teniendo ojos no veis?». Y justo después, Pedro dirá: «Tú eres el Cristo». Poco a poco, ellos también empezaban a ver."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús tiene paciencia. Esta es la única curación de los evangelios que sucede en dos pasos. No fue un fallo: fue una manera de enseñar. Jesús no deja las cosas a medias; termina lo que empieza. Y camina de la mano con quien no ve, lejos del ruido, hasta que ve con claridad."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizá tu fe está a medio camino: ves algo, pero todavía borroso. No te desanimes. Jesús no se cansa de volver a poner sus manos sobre ti. Muchas veces la fe crece poco a poco. Sé sincero como este hombre, que dijo lo que veía de verdad. Para hoy: dile a Jesús con honestidad qué cosas aún no ves claras."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tómame de la mano como al ciego de Betsaida. Hay cosas que todavía veo borrosas. Pon otra vez tus manos sobre mí y abre mis ojos, poco a poco, hasta verte con claridad. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús tocó los ojos de un ciego. Primero veía a la gente como árboles que caminan. ¡Jesús lo tocó otra vez y vio todo clarito! ¿Qué es lo más bonito que ves cada día?",
+      "actividad": "Miren algo con los ojos casi cerrados y luego bien abiertos. Así pasó el hombre de ver borroso a ver claro."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Betsaida era el pueblo de Felipe, de Andrés y de Pedro (Juan 1:44). Su nombre significa «casa de pesca». Jesús había hecho allí muchos milagros (Mateo 11:21)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Isaías 35:5", "nota": "Cuando Dios venga, los ojos de los ciegos serán abiertos." },
+        { "ref": "Salmos 146:8", "nota": "El Señor abre los ojos a los ciegos." },
+        { "ref": "Marcos 10:46-52", "nota": "Otro ciego, Bartimeo, recibe la vista y sigue a Jesús en el camino." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sana, pero esta historia no promete que toda enfermedad termine igual. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo veía el hombre a la gente después del primer toque?",
+      "opciones": ["Como sombras quietas", "Como árboles que andaban", "Como estrellas"],
+      "correcta": 1,
+      "explicacion": "Dijo: «Veo los hombres, pues veo que andan como árboles» (Marcos 8:24)."
+    },
+    {
+      "pregunta": "¿Adónde llevó Jesús al ciego antes de sanarlo?",
+      "opciones": ["Al templo", "A la sinagoga", "Fuera de la aldea"],
+      "correcta": 2,
+      "explicacion": "Jesús lo tomó de la mano y lo sacó fuera de la aldea (Marcos 8:23)."
+    },
+    {
+      "pregunta": "¿Qué dijo Pedro poco después de este milagro?",
+      "opciones": ["«Tú eres el Cristo»", "«Apártate de mí»", "«Hagamos tres pabellones»"],
+      "correcta": 0,
+      "explicacion": "En Marcos 8:29 Pedro confiesa que Jesús es el Cristo. Los discípulos también empezaban a ver."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 8:22-26"
+}

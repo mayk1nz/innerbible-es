@@ -1,0 +1,128 @@
+{
+  "id": "honra-padre-y-madre",
+  "titulo": "Honra a tu padre y a tu madre",
+  "subtitulo": "Evangélico: 5.º · Católico: 4.º",
+  "etiquetas": ["Éxodo 20:12", "Deuteronomio 5:16", "Amor al prójimo"],
+  "enUnMinuto": [
+    "Aquí la lista pasa del amor a Dios al amor a las personas, y empieza por la familia.",
+    "Honrar es dar valor: escuchar, agradecer, respetar y cuidar a los padres, sobre todo cuando envejecen.",
+    "Es el primer mandamiento con promesa, y honrar nunca significa aceptar el maltrato."
+  ],
+  "versiculo": {
+    "texto": "Honra a tu padre y a tu madre, porque tus días se alarguen en la tierra que Jehová tu Dios te da.",
+    "referencia": "Éxodo 20:12"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "La Palabra",
+      "items": [
+        { "ref": "Éxodo 20:12", "nota": "Un mandamiento con promesa: una vida larga en la tierra." },
+        { "ref": "Deuteronomio 5:16", "nota": "Moisés agrega «como Jehová tu Dios te ha mandado» y «para que te vaya bien»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Qué significa en palabras simples",
+      "parrafos": [
+        "Dios te pide tratar a tu papá y a tu mamá como personas valiosas. Honrar es escucharlos, agradecerles, respetarlos y cuidarlos. Sobre todo cuando se hacen mayores.",
+        "¿Qué quiere decir “honrar”? Es dar a alguien el valor que tiene, tomarlo en serio. En hebreo, la palabra tiene la idea de “dar peso”. Y “que tus días se alarguen” quiere decir que tu vida sea larga y buena."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un poco de contexto",
+      "parrafos": [
+        "Con este mandamiento, la lista cambia de dirección. Los anteriores hablan de cómo amar a Dios. Desde aquí, de cómo amar a las personas. Y las primeras personas que Dios pone delante son los padres.",
+        "En el Israel antiguo no había jubilación ni asilos. Un padre anciano dependía de sus hijos para comer, tener techo y compañía. Por eso honrar incluía cuidar de verdad. Siglos después, Pablo lo llamó «el primer mandamiento con promesa» (Efesios 6:2)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Cómo Jesús lo vivió y lo enseñó",
+      "tono": "navy",
+      "texto": "Jesús creció en Nazaret con José y María, «y estaba sujeto a ellos» (Lucas 2:51). Corrigió una costumbre de su tiempo: declarar los bienes “ofrenda a Dios” para no ayudar a los padres (Marcos 7:9-13). Y en la cruz, con dolor, pensó en su madre. Le dijo al discípulo amado: «He ahí tu madre». Desde entonces, él «la recibió consigo» (Juan 19:27)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "En tu día a día",
+      "items": [
+        "Niños: obedece a la primera, sin rezongar. Di “gracias” por la comida. Cuando te corrijan, responde con respeto.",
+        "Jóvenes: cuéntales algo de tu día aunque no pregunten. Si no estás de acuerdo, dilo con calma. No hables mal de ellos en redes ni en chats.",
+        "Si tus padres son mayores: llama seguido, no solo en su cumpleaños. Acompáñalos al médico. Escucha sus historias otra vez, con paciencia.",
+        "Si tus padres ya partieron: da gracias por lo bueno que te dejaron. Cuenta sus historias a tus hijos y nietos.",
+        "Si tú eres padre, madre o abuelo: la Biblia también te habla. «Padres, no irritéis a vuestros hijos» (Colosenses 3:21).",
+        "Todos: honra también a quienes te criaron como padres: abuelos, tíos, padrinos, padres adoptivos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Si esto te toca de cerca",
+      "parrafos": [
+        "Quizás tu historia con tu papá o tu mamá tiene heridas: abandono, gritos o golpes. Honrar no significa aprobar el mal ni dejar que te sigan lastimando. Puedes poner límites sanos y buscar ayuda. A veces honrar es no hablar con odio, orar por ellos y dejar que Dios sane con el tiempo.",
+        "Perdonar no es olvidar ni volver a confiar de un día para otro. Es un camino que Dios recorre contigo. Si hoy estás en peligro, habla con alguien de confianza o pide ayuda a las autoridades. Dios te ve: «Aunque mi padre y mi madre me dejaran, Jehová con todo me recogerá» (Salmos 27:10)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Da gracias en voz alta a tu papá o a tu mamá, o a quien te crio, por algo concreto.",
+        "Llama o visita a uno de ellos. Si no puedes, mándale un mensaje de voz.",
+        "Haz una tarea de la casa sin que te la pidan.",
+        "Pídele que te cuente una historia de su vida y hazle una pregunta sobre ella.",
+        "Ora por tus padres por su nombre. Si ya partieron, da gracias a Dios por ellos.",
+        "Pide perdón por una palabra o una actitud que no fue respetuosa.",
+        "Escribe una nota que diga “Te honro porque…”. Entrégala o guárdala en tu Biblia."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Versículos para seguir leyendo",
+      "items": [
+        { "ref": "Efesios 6:1-3", "nota": "Obedecer a los padres «en el Señor», con la promesa." },
+        { "ref": "Proverbios 23:22", "nota": "Escuchar al padre y no despreciar a la madre anciana." },
+        { "ref": "1 Timoteo 5:4", "nota": "Cuidar a los padres agrada a Dios." },
+        { "ref": "Efesios 6:4", "nota": "Una palabra para los padres: criar sin provocar a ira." },
+        { "ref": "Salmos 68:5", "nota": "Dios es «Padre de huérfanos»." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "¿Sabías que Jesús fue niño? Obedecía a María y a José. Honrar a tus papás es decir “te quiero” con acciones: obedecer, ayudar y dar gracias. Si alguien en casa te hace daño, cuéntalo a un adulto de confianza.",
+      "actividad": "El frasco de los gracias: cada día, escribe o dibuja en un papelito algo que hicieron por ti. El domingo, entrégales el frasco."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú honraste a María y a José en lo pequeño de cada día. Enséñame a honrar a mis padres con palabras suaves y manos que ayudan. Sana lo que está herido en mi familia. Amén."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "¿Qué cosa buena recibiste de tus padres, o de quien te crio, y nunca se la agradeciste? Esta semana, díselo con palabras sencillas. Y si ya no están, cuéntaselo a Dios con gratitud."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué promesa acompaña este mandamiento?",
+      "opciones": ["Tener mucho dinero", "Una vida larga y buena", "Nunca tener problemas"],
+      "correcta": 1,
+      "explicacion": "Éxodo 20:12 y Deuteronomio 5:16 prometen días largos y que te vaya bien."
+    },
+    {
+      "pregunta": "¿A quién encargó Jesús cuidar de su madre desde la cruz?",
+      "opciones": ["A Pedro", "A José", "Al discípulo que él amaba"],
+      "correcta": 2,
+      "explicacion": "Jesús le dijo «He ahí tu madre», y él la recibió consigo (Juan 19:27). La tradición lo identifica con Juan."
+    },
+    {
+      "pregunta": "Honrar a los padres significa…",
+      "opciones": ["Respetarlos, agradecerles y cuidarlos", "Aceptar que te sigan lastimando", "Estar de acuerdo con todo"],
+      "correcta": 0,
+      "explicacion": "Honrar es dar valor. No significa aprobar el mal."
+    }
+  ],
+  "estudio": ["exodo", "pasion-y-muerte"],
+  "buscar": "Éxodo 20:12"
+}

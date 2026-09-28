@@ -1,0 +1,110 @@
+{
+  "id": "mujer-que-toco-su-manto",
+  "titulo": "La mujer que tocó su manto",
+  "subtitulo": "Doce años de espera, un toque de fe",
+  "etiquetas": ["c. 28–29 d.C.", "Galilea", "enfermedad", "rechazo"],
+  "enUnMinuto": [
+    "Una mujer lleva doce años enferma de un flujo de sangre; gastó todo en médicos y está cada vez peor.",
+    "Entre la multitud, toca el manto de Jesús y queda sana en ese mismo momento.",
+    "Jesús se detiene, la busca y la llama «Hija», para sanar también su corazón."
+  ],
+  "versiculo": {
+    "texto": "Y él le dijo: Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote.",
+    "referencia": "Marcos 5:34"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "La Biblia no dice su nombre. Mateo, Marcos y Lucas cuentan su historia, y los tres la unen a la de Jairo y su hija."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Jesús iba camino a la casa de Jairo, cuya hija se estaba muriendo. Mucha gente lo seguía y lo apretaba. Entre ellos iba una mujer que tenía un flujo de sangre desde hacía doce años. Había sufrido mucho con muchos médicos. Había gastado todo lo que tenía, y en vez de mejorar, estaba peor.",
+        "Según la ley de Moisés, esa enfermedad la dejaba impura mientras durara (Levítico 15:25). Además del dolor, eso le complicaba la vida con los demás. Había oído hablar de Jesús y pensaba: «Si tocare tan solamente su vestido, seré salva».",
+        "Se acercó por detrás, entre la multitud, y tocó el borde de su manto. En ese mismo momento, la sangre dejó de correr. Sintió en su cuerpo que estaba sana. Pero Jesús se detuvo y preguntó quién lo había tocado. Los discípulos no entendían: toda la gente lo apretaba.",
+        "Jesús sabía que había salido poder de él, y miraba alrededor para ver quién había sido. La mujer, temblando de miedo, se echó a sus pies. Le dijo toda la verdad delante de todos. Jesús no la regañó. Le dijo: «Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote»."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una fe que se acerca",
+      "parrafos": [
+        "Esta mujer tenía muchas razones para rendirse: doce años, todo su dinero gastado, ningún médico que la ayudara. Aun así, se acercó a Jesús. Su fe era pequeña y temblorosa. Tocó por detrás, casi a escondidas. Pero se acercó a la persona correcta. Y cuando Jesús la buscó, se atrevió a decir toda la verdad."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Jesús no solo sanó su cuerpo. Se detuvo por ella en medio de una urgencia, y le devolvió su lugar delante de todos. Ya no era “la enferma”: Jesús la llamó «Hija». Según la ley, tocar a alguien así dejaba impuro. Con Jesús pasó lo contrario: el poder salió de él y la dejó sana. Jesús toca lo que otros evitan."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si llevas años con una enfermedad o un dolor que no se va, Jesús no se cansa de ti. Puedes acercarte a él con una fe pequeña y temblorosa. Si te sientes invisible en la multitud, él se detiene por ti. Para los hombres: Jesús honró a una mujer delante de todos. Y para los jóvenes: la vergüenza no tiene la última palabra."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Marcos 5:24-34", "nota": "El relato más completo." },
+        { "ref": "Lucas 8:42-48", "nota": "Lucas, el médico, lo cuenta también." },
+        { "ref": "Mateo 9:20-22", "nota": "La versión breve de Mateo." },
+        { "ref": "Levítico 15:25", "nota": "Lo que decía la ley sobre esta enfermedad." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, a veces me acerco a ti con una fe pequeña. Gracias porque no me rechazas. Toca las heridas que llevo desde hace años. Y dime otra vez, con tu voz, que soy de los tuyos y que puedo ir en paz. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿alguna vez esperaste mucho tiempo una solución que no llegaba?",
+        "La mujer gastó todo y estaba peor. ¿Qué se siente cuando se acaban las opciones?",
+        "Jesús se detuvo por ella aunque iba a atender una urgencia. ¿Qué nos dice eso de su corazón?",
+        "Ella contó su historia delante de todos. ¿Por qué crees que Jesús quiso que se supiera?",
+        "Dinámica: cada persona escribe en un papel una carga antigua y lo guarda. Oren unos por otros, sin necesidad de contar detalles.",
+        "Para cerrar: lean Marcos 5:34 en voz alta y oren por los enfermos que conocen."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una mujer estuvo enferma durante doce años. Pensó: “Si toco el manto de Jesús, me sanaré”. ¡Lo tocó y quedó sana! Jesús la llamó con cariño: “Hija”. ¿Qué le quieres pedir tú a Jesús?",
+      "actividad": "Corten un pedazo de tela o papel y escriban en él: “Jesús me cuida”. Para memorizar: «tu fe te ha hecho salva» (Marcos 5:34)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Nota para quien guía: con niños, basta decir que la mujer estaba muy enferma desde hacía mucho tiempo. No hace falta explicar el tipo de enfermedad."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos años llevaba enferma la mujer?",
+      "opciones": ["Siete", "Doce", "Cuarenta"],
+      "correcta": 1,
+      "explicacion": "Tenía un flujo de sangre desde hacía doce años (Marcos 5:25)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús después de que la mujer tocó su manto?",
+      "opciones": ["Siguió caminando sin decir nada", "Mandó que la alejaran de allí", "Se detuvo y preguntó quién lo tocó"],
+      "correcta": 2,
+      "explicacion": "Jesús supo que había salido poder de él y buscó a la mujer (Marcos 5:30-32)."
+    },
+    {
+      "pregunta": "¿A casa de quién iba Jesús cuando ocurrió este milagro?",
+      "opciones": ["De Jairo", "De Zaqueo", "De Pedro"],
+      "correcta": 0,
+      "explicacion": "Jairo le había rogado que fuera a sanar a su hija, que se estaba muriendo (Marcos 5:22-23)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 5:25-34"
+}

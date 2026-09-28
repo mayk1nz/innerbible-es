@@ -1,0 +1,96 @@
+{
+  "id": "no-veia-ni-hablaba",
+  "titulo": "El hombre que no veía ni hablaba",
+  "subtitulo": "Milagro 13 de 43 · El reino de Dios ha llegado",
+  "etiquetas": ["Galilea", "Año 2 · c. 28 d.C.", "Liberación", "En Mateo y Lucas"],
+  "enUnMinuto": [
+    "Le traen a Jesús un hombre atormentado que no puede ver ni hablar.",
+    "Jesús lo libera y lo sana, y el hombre ve y habla delante de todos.",
+    "La gente se pregunta si Jesús es el Hijo de David, y él explica que el reino de Dios ha llegado."
+  ],
+  "versiculo": {
+    "texto": "Entonces fue traído a él un endemoniado, ciego y mudo, y le sanó; de tal manera, que el ciego y mudo hablaba y veía.",
+    "referencia": "Mateo 12:22"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 12:22-23", "nota": "Mateo dice que el hombre era ciego y mudo." },
+        { "ref": "Lucas 11:14", "nota": "Lucas cuenta un hecho muy parecido: un hombre mudo que vuelve a hablar." },
+        { "ref": "Mateo 12:24-30", "nota": "La respuesta de Jesús a quienes lo criticaron." },
+        { "ref": "Lucas 11:15-23", "nota": "La misma respuesta en Lucas: «el dedo de Dios»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Le trajeron a Jesús un hombre que sufría mucho. Estaba atormentado por un espíritu malo, no podía ver y tampoco podía hablar. Vivía encerrado en la oscuridad y en el silencio.",
+        "Jesús lo sanó. El espíritu malo salió, y el hombre comenzó a ver y a hablar. La gente quedó asombrada. Se preguntaban: «¿Será éste aquel Hijo de David?». Era el título del rey que Dios había prometido.",
+        "Pero algunos fariseos no lo aceptaron. Dijeron que Jesús echaba los demonios por el poder del príncipe de los demonios. Jesús conocía sus pensamientos y les respondió con calma y con lógica.",
+        "Un reino dividido contra sí mismo no puede mantenerse. El mal no lucha contra sí mismo. Y añadió: «si por espíritu de Dios yo echo fuera los demonios, ciertamente ha llegado a vosotros el reino de Dios»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús es más fuerte que todo lo que ata a una persona. En Lucas lo explica con una imagen: llega uno más fuerte y vence al fuerte armado. Sus liberaciones son señales de que el reino de Dios ya está presente. Y Jesús devuelve a la persona entera: sus ojos, su voz y su lugar entre los demás."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "La misma obra de Jesús produjo dos reacciones: asombro y sospecha. También hoy podemos mirar lo que Dios hace con ojos abiertos o con el corazón cerrado. Pídele ver su obra con sencillez. Y si tú has estado sin palabras por el dolor, él puede devolverte la voz. Para hoy: cuenta a alguien algo bueno que Dios hizo en tu vida."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú eres más fuerte que todo lo que me ata. Abre mis ojos para ver tu obra y suelta mi lengua para darte gracias. Que tu reino llegue a mi vida y a mi casa. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre no podía ver ni hablar, y estaba muy triste. Jesús lo sanó, y el hombre abrió los ojos y habló. ¡Imagina sus primeras palabras! ¿Qué le dirías tú a Jesús hoy?",
+      "actividad": "Cierra los ojos y quédate en silencio un minuto. Luego ábrelos y di en voz alta tres cosas que ves y agradeces."
+    },
+    {
+      "tipo": "nota",
+      "texto": "No toda ceguera ni toda dificultad para hablar tienen un origen espiritual. Los evangelios cuentan este caso con sobriedad. Orar y buscar ayuda médica van juntos."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo y Lucas ubican este hecho en momentos distintos del ministerio de Jesús. Muchos lectores lo ven como el mismo episodio, contado por cada uno a su manera."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Isaías 35:5-6", "nota": "El profeta anuncia que los ciegos verán y «cantará la lengua del mudo»." },
+        { "ref": "2 Samuel 7:12-13", "nota": "La promesa de un hijo de David cuyo reino sería para siempre." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué no podía hacer el hombre que trajeron a Jesús en Mateo 12?",
+      "opciones": ["Caminar ni oír", "Ver ni hablar", "Comer ni dormir"],
+      "correcta": 1,
+      "explicacion": "Era ciego y mudo, y después hablaba y veía (Mateo 12:22)."
+    },
+    {
+      "pregunta": "¿Qué se preguntaba la gente asombrada?",
+      "opciones": ["Si Jesús era el Hijo de David", "Si Jesús era Juan el Bautista", "Si Jesús era un romano"],
+      "correcta": 0,
+      "explicacion": "Decían: ¿Será éste aquel Hijo de David? (Mateo 12:23)."
+    },
+    {
+      "pregunta": "Según Jesús, ¿qué muestran sus liberaciones?",
+      "opciones": ["Que el mal está dividido", "Que el templo ya no importa", "Que el reino de Dios ha llegado"],
+      "correcta": 2,
+      "explicacion": "Dijo que si echaba los demonios por el Espíritu de Dios, el reino había llegado (Mateo 12:28)."
+    }
+  ],
+  "estudio": ["galilea-milagros", "camino-a-jerusalen"],
+  "buscar": "Mateo 12:22-28"
+}

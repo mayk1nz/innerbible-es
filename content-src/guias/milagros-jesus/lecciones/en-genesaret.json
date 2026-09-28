@@ -1,0 +1,86 @@
+{
+  "id": "en-genesaret",
+  "titulo": "En Genesaret, tocaban su manto",
+  "subtitulo": "Milagro 22 de 43 · Enfermos en las calles y plazas",
+  "etiquetas": ["Tierra de Genesaret", "Año 3 · c. 29 d.C.", "Jornada de muchas sanaciones", "En Mateo y Marcos"],
+  "enUnMinuto": [
+    "Al llegar la barca a Genesaret, la gente reconoce a Jesús y corre a avisar a toda la región.",
+    "Traen a los enfermos en camillas y los ponen en las calles por donde él pasa.",
+    "Le ruegan tocar aunque sea el borde de su manto, y todos los que lo tocan quedan sanos."
+  ],
+  "versiculo": {
+    "texto": "Y le rogaban que solamente tocasen el borde de su manto; y todos los que tocaron, quedaron sanos.",
+    "referencia": "Mateo 14:36"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 14:34-36", "nota": "Mateo lo cuenta en tres versículos, después de que Jesús camina sobre el agua." },
+        { "ref": "Marcos 6:53-56", "nota": "Marcos añade las aldeas, las ciudades, los campos y las plazas." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Después de aquella noche en el lago, cuando Jesús caminó sobre el agua, la barca llegó a la tierra de Genesaret. Era una llanura fértil en la orilla oeste del mar de Galilea. Allí amarraron la barca.",
+        "Apenas bajaron, la gente reconoció a Jesús. Enseguida corrieron por toda la región a dar la noticia. Empezaron a traer enfermos en camillas a cualquier lugar donde oían que él estaba.",
+        "Adonde Jesús entraba, fueran aldeas, ciudades o campos, ponían a los enfermos en las plazas. Le rogaban que los dejara tocar aunque fuera el borde de su manto. Y todos los que lo tocaban quedaban sanos.",
+        "Poco antes, una mujer había sanado al tocar su manto. Ahora eran multitudes las que se acercaban con esa misma esperanza. Y Jesús no rechazó a nadie."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús está disponible para todos. No escogió solo a algunos ni puso condiciones: todos los que lo tocaban quedaban sanos. Y su poder no está en la tela del manto, sino en él. La gente se acercaba a su manto porque confiaba en su persona. Donde Jesús llega, la calle se llena de esperanza."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Mira lo que hizo la gente de Genesaret. Reconocieron a Jesús, avisaron a otros y llevaron a los enfermos hasta donde él pasaba. Tú puedes hacer lo mismo: hablar de Jesús y acercar a él a quienes sufren, con tu oración y tu compañía. Para hoy: avisa a alguien que necesita esperanza dónde puede encontrarse con Jesús."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, quiero reconocerte cuando pasas por mi vida. Te traigo a los enfermos que conozco, como en Genesaret. Que nadie se quede lejos de ti por falta de alguien que lo lleve. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuando Jesús llegó a un pueblo, la gente corrió a avisar a todos. Llevaron a los enfermos a las calles, ¡y todos los que tocaban su ropa sanaban! ¿A quién puedes contarle tú que Jesús nos ama?",
+      "actividad": "Hagan un cartel con la frase «Jesús está aquí» y dibujen alrededor a muchas personas felices."
+    },
+    {
+      "tipo": "nota",
+      "texto": "En aquella jornada todos los que tocaron a Jesús quedaron sanos. Hoy Dios sigue obrando, pero no siempre como esperamos. Orar por los enfermos y buscar ayuda médica van juntos."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? Genesaret da nombre también al lago: Lucas lo llama «lago de Genezaret» (Lucas 5:1). Era una tierra de huertos, a pocos kilómetros de Capernaúm."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué pedían los enfermos de Genesaret?",
+      "opciones": ["Que Jesús viviera allí", "Tocar el borde de su manto", "Un poco de pan"],
+      "correcta": 1,
+      "explicacion": "Le rogaban que tocasen el borde de su manto (Mateo 14:36)."
+    },
+    {
+      "pregunta": "¿Qué pasó con los que lo tocaron?",
+      "opciones": ["Solo algunos sanaron", "Tuvieron que volver otro día", "Todos quedaron sanos"],
+      "correcta": 2,
+      "explicacion": "Todos los que tocaron quedaron sanos (Mateo 14:36; Marcos 6:56)."
+    },
+    {
+      "pregunta": "¿Qué mujer había sanado antes al tocar el manto de Jesús?",
+      "opciones": ["La que estuvo enferma doce años", "La suegra de Pedro", "La viuda de Naín"],
+      "correcta": 0,
+      "explicacion": "La mujer con flujo de sangre por doce años tocó su vestido y sanó (Marcos 5:25-29)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 6:53-56"
+}

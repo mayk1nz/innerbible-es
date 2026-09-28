@@ -1,0 +1,105 @@
+{
+  "id": "elisabet",
+  "titulo": "Elisabet",
+  "subtitulo": "La que esperó hasta la vejez",
+  "etiquetas": ["c. 7–5 a.C.", "Montañas de Judea", "espera", "vejez"],
+  "enUnMinuto": [
+    "Elisabet y su esposo Zacarías aman a Dios, pero llegan a la vejez sin hijos.",
+    "Dios le da un hijo, Juan, que preparará el camino de Jesús.",
+    "Llena del Espíritu Santo, es la primera en llamar a María «la madre de mi Señor»."
+  ],
+  "versiculo": {
+    "texto": "Porque el Señor me ha hecho así en los días en que miró para quitar mi afrenta entre los hombres.",
+    "referencia": "Lucas 1:25"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "Elisabet viene del hebreo Elisheba. Suele traducirse “mi Dios es juramento”, es decir, un Dios que cumple lo que promete. Así se llamaba también la esposa de Aarón, y Elisabet descendía de su familia (Lucas 1:5)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Elisabet vivía en las montañas de Judea con su esposo, el sacerdote Zacarías. Los dos eran justos delante de Dios y vivían según sus mandamientos. Pero no tenían hijos, y ya eran mayores (Lucas 1:7). En aquel tiempo, no tener hijos era una pena que muchas mujeres cargaban con vergüenza.",
+        "Un día, a Zacarías le tocó ofrecer el incienso en el templo. El ángel Gabriel se le apareció y le anunció que Elisabet tendría un hijo llamado Juan. Zacarías dudó, y quedó mudo hasta que se cumpliera la promesa. Poco después, Elisabet quedó embarazada. Pasó cinco meses retirada en casa y dijo que el Señor la había mirado para quitar su afrenta.",
+        "En el sexto mes llegó a su casa María, su parienta, que acababa de recibir otro anuncio del ángel. Al oír su saludo, el niño saltó en el vientre de Elisabet. Ella, llena del Espíritu Santo, exclamó: «Bendita tú entre las mujeres, y bendito el fruto de tu vientre». Y se preguntó por qué la madre de su Señor venía a visitarla.",
+        "María se quedó con ella unos tres meses. Después nació el niño, y los vecinos se alegraron con Elisabet. Todos querían llamarlo Zacarías, como su padre. Pero ella dijo con firmeza: «No; sino Juan será llamado». Zacarías lo confirmó por escrito, y enseguida volvió a hablar, bendiciendo a Dios."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una fe que espera y bendice",
+      "parrafos": [
+        "Elisabet esperó muchos años sin dejar de caminar con Dios (Lucas 1:6). Cuando por fin llegó su alegría, no se encerró en ella. Abrió su casa a María, una joven de su familia, y la bendijo. Su propio hijo sería grande, pero ella celebró al hijo de María. Y fue la primera en decir en voz alta: «bienaventurada la que creyó»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios escuchó una oración de muchos años (Lucas 1:13). De Elisabet nació Juan el Bautista, el que prepararía el camino del Señor. En su casa se encontraron dos madres: una anciana y una joven. Por el Espíritu Santo, Elisabet reconoció al Señor en el vientre de María. Su historia confirma lo que dijo el ángel: «ninguna cosa es imposible para Dios»."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si esperas algo desde hace años, Dios no se olvidó de ti, aunque la respuesta no llegue como imaginas. Si ya eres mayor, tu fe todavía puede bendecir a los más jóvenes, como Elisabet a María. Para los hombres: Zacarías dudó, y Dios siguió adelante con él. Y para los jóvenes: busquen a alguien mayor que les hable de Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Lucas 1:5-25", "nota": "El ángel anuncia a Zacarías el nacimiento de Juan." },
+        { "ref": "Lucas 1:39-45", "nota": "María visita a Elisabet." },
+        { "ref": "Lucas 1:57-66", "nota": "Nace Juan, y Elisabet elige su nombre." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces lo que espero desde hace tiempo. Gracias porque no te olvidas de mí. Dame paciencia en la espera y alegría por lo bueno que haces en otros. Que mi vida bendiga a quienes vienen detrás. En el nombre de Jesús, amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿qué es lo más largo que has tenido que esperar? ¿Cómo te sentiste?",
+        "Elisabet habló de su «afrenta». ¿Qué cargas o vergüenzas lleva hoy la gente en silencio?",
+        "Elisabet recibió y bendijo a María. ¿Cómo podemos acompañar a las mujeres jóvenes de nuestra familia o iglesia?",
+        "Zacarías dudó y quedó mudo, pero Dios cumplió igual su promesa. ¿Qué nos dice esto de su gracia?",
+        "Dinámica: formen parejas de distinta edad. Cada uno cuenta al otro algo que Dios hizo en su vida.",
+        "Para cerrar: lean Lucas 1:41-45 y oren por quienes viven una larga espera."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Elisabet y Zacarías eran viejitos y no tenían hijos. ¡Dios les regaló un bebé llamado Juan! Cuando María vino a visitarla, el bebé saltó de alegría en su pancita. ¿Qué te hace saltar de alegría a ti?",
+      "actividad": "Dibujen a dos mujeres dándose un abrazo. Para memorizar: «ninguna cosa es imposible para Dios» (Lucas 1:37)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaba el esposo de Elisabet?",
+      "opciones": ["Simeón", "Zacarías", "José"],
+      "correcta": 1,
+      "explicacion": "Zacarías era sacerdote, y los dos eran justos delante de Dios (Lucas 1:5-6)."
+    },
+    {
+      "pregunta": "¿Qué pasó cuando Elisabet oyó el saludo de María?",
+      "opciones": ["El niño saltó en su vientre", "Se quedó muda", "Se fue al templo"],
+      "correcta": 0,
+      "explicacion": "El niño saltó en su vientre, y Elisabet fue llena del Espíritu Santo (Lucas 1:41)."
+    },
+    {
+      "pregunta": "¿Qué misión tendría Juan, el hijo de Elisabet?",
+      "opciones": ["Construir un nuevo templo", "Ser rey de Israel", "Preparar el camino del Señor"],
+      "correcta": 2,
+      "explicacion": "Juan iría delante del Señor para preparar sus caminos (Lucas 1:17, 76)."
+    }
+  ],
+  "estudio": ["anuncios"],
+  "buscar": "Elisabet"
+}

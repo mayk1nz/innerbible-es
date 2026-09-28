@@ -1,0 +1,95 @@
+{
+  "id": "al-caer-la-tarde",
+  "titulo": "Al caer la tarde, sanaba a todos",
+  "subtitulo": "Milagro 6 de 43 · Una ciudad entera a la puerta",
+  "etiquetas": ["Capernaúm", "Año 2 · c. 28 d.C.", "Jornada de muchas sanaciones", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Cuando se pone el sol, todo Capernaúm lleva a sus enfermos a la puerta de la casa de Pedro.",
+    "Jesús pone las manos sobre cada uno y los sana, y libera a muchos atormentados.",
+    "Antes del amanecer, se aparta a un lugar solitario para orar."
+  ],
+  "versiculo": {
+    "texto": "Y poniéndose el sol, todos los que tenían enfermos de diversas enfermedades, los traían a él; y él, poniendo las manos sobre cada uno de ellos, los sanaba.",
+    "referencia": "Lucas 4:40"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 8:16-17", "nota": "Mateo ve aquí cumplida una palabra del profeta Isaías." },
+        { "ref": "Marcos 1:32-34", "nota": "Marcos dice que toda la ciudad se juntó a la puerta." },
+        { "ref": "Lucas 4:40-41", "nota": "Lucas dice que Jesús puso las manos sobre cada uno." },
+        { "ref": "Marcos 1:35-39", "nota": "A la mañana siguiente, Jesús ora y sigue su camino." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Ese sábado, en Capernaúm, Jesús había liberado a un hombre en la sinagoga y había sanado a la suegra de Pedro. La noticia corrió por todo el pueblo.",
+        "Cuando se puso el sol, la gente empezó a llegar a la casa. Traían a los enfermos de toda clase de males y a los que sufrían por espíritus malos. Marcos dice que toda la ciudad se juntó a la puerta.",
+        "Jesús no atendió a la multitud de lejos. Lucas cuenta que puso las manos sobre cada uno de ellos y los sanaba. A los espíritus malos los hacía salir con su palabra, y no los dejaba hablar.",
+        "Mateo recuerda aquí una palabra de Isaías: «El mismo tomó nuestras enfermedades, y llevó nuestras dolencias». A la mañana siguiente, todavía de noche, Jesús salió a un lugar solitario a orar. Cuando lo encontraron y le dijeron que todos lo buscaban, respondió que debía ir a otros pueblos a predicar."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? El día judío terminaba al ponerse el sol. Por eso, probablemente, la gente esperó a que acabara el sábado para cargar a sus enfermos hasta la casa."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús tiene compasión de las multitudes, pero ve a cada persona. En una noche de tanta gente, tocó a uno por uno. Isaías había anunciado a alguien que cargaría con nuestras enfermedades, y Mateo lo reconoce en Jesús. Y aun con tanto trabajo, Jesús buscó al Padre en oración antes de seguir adelante."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Tal vez sientes que eres uno más en una multitud. Para Jesús no lo eres: él pone su mano sobre cada uno. Y si tu día está lleno de gente y de tareas, mira lo que hizo él a la mañana siguiente. Buscó un rato a solas con el Padre. Para hoy: aparta diez minutos en silencio para orar, antes de que empiece el ruido."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias porque me ves a mí, no solo a la multitud. Pon tu mano sobre mi vida y sobre los que sufren a mi alrededor. Enséñame a buscarte en silencio cada mañana. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una tarde, todo el pueblo llevó a sus enfermos a la puerta de una casa. Jesús tocó a cada uno, uno por uno. ¡Nadie se quedó sin su cariño! ¿Sabías que Jesús te conoce por tu nombre?",
+      "actividad": "Escribe en papelitos los nombres de tu familia y oren por cada uno, uno por uno."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Aquella noche Jesús sanó a muchos. Hoy Dios sigue obrando, pero no siempre como esperamos ni cuando lo pedimos. Orar por los enfermos y buscar ayuda médica van juntos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Isaías 53:4", "nota": "El siervo de Dios «llevó él nuestras enfermedades, y sufrió nuestros dolores»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿A qué hora le llevaron los enfermos a Jesús?",
+      "opciones": ["Al mediodía", "Al ponerse el sol", "Al amanecer"],
+      "correcta": 1,
+      "explicacion": "Los tres evangelios dicen que fue al caer la tarde, cuando se puso el sol."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús a la mañana siguiente, muy temprano?",
+      "opciones": ["Fue a un lugar solitario a orar", "Volvió a la sinagoga a enseñar", "Se quedó a descansar en casa"],
+      "correcta": 0,
+      "explicacion": "Salió cuando aún era de noche a un lugar desierto, y allí oraba (Marcos 1:35)."
+    },
+    {
+      "pregunta": "¿Qué profeta cita Mateo al contar esta noche de sanaciones?",
+      "opciones": ["Jeremías", "Elías", "Isaías"],
+      "correcta": 2,
+      "explicacion": "Mateo cita a Isaías: él tomó nuestras enfermedades (Mateo 8:17; Isaías 53:4)."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "galilea-milagros"],
+  "buscar": "Mateo 8:16-17"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "mujer-encorvada",
+  "titulo": "La mujer encorvada",
+  "subtitulo": "Milagro 31 de 43 · Dieciocho años mirando al suelo",
+  "etiquetas": ["Una sinagoga, camino a Jerusalén", "Año 3 · c. 29–30 d.C.", "Curación"],
+  "enUnMinuto": [
+    "Un sábado, en una sinagoga, Jesús ve a una mujer encorvada desde hacía dieciocho años.",
+    "La llama, pone las manos sobre ella, y ella se endereza y alaba a Dios.",
+    "Jesús explica que el día de reposo es un buen día para desatar a una hija de Abraham."
+  ],
+  "versiculo": {
+    "texto": "Y como Jesús la vio, llamola, y díjole: Mujer, libre eres de tu enfermedad. Y puso las manos sobre ella; y luego se enderezó, y glorificaba a Dios.",
+    "referencia": "Lucas 13:12-13"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Lucas 13:10-17", "nota": "Solo lo cuenta Lucas." },
+        { "ref": "Lucas 14:1-6", "nota": "Poco después, otra curación en sábado, en casa de un fariseo." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Un sábado, Jesús enseñaba en una sinagoga. Allí estaba una mujer que llevaba dieciocho años enferma. Andaba doblada y no podía enderezarse de ninguna manera. Durante dieciocho años había visto el mundo mirando al suelo.",
+        "Jesús la vio y la llamó. Le dijo: «Mujer, libre eres de tu enfermedad». Puso las manos sobre ella, y al instante se enderezó. Y empezó a alabar a Dios.",
+        "El jefe de la sinagoga se enojó porque Jesús había sanado en sábado. Le dijo a la gente que había seis días para trabajar: que vinieran esos días a ser sanados. Para él, sanar era un trabajo prohibido en el día de reposo.",
+        "Jesús respondió que cualquiera desata en sábado a su buey o su asno para llevarlo a beber. ¿Y esta hija de Abraham, atada dieciocho años, no debía ser desatada en sábado? Sus adversarios quedaron avergonzados. Y todo el pueblo se alegraba por lo que Jesús hacía."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Sinagoga: la casa de oración y de lectura de la Biblia que había en cada pueblo.",
+        "Príncipe de la sinagoga: así lo llama la RV1909. Era el encargado de organizar las reuniones.",
+        "Hija de Abraham: miembro del pueblo de Dios. Es un nombre lleno de honor."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús ve a quien otros ya no miran. Nadie le pidió nada: él la vio, la llamó y la tocó. Que le devuelve su dignidad: la llama hija de Abraham, parte plena del pueblo de Dios. Y que el día de reposo es para liberar. En el día del descanso, Jesús le dio descanso de su carga."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "¿Qué te tiene doblado desde hace tiempo? Una carga, una tristeza, una culpa, un miedo. Jesús te ve aunque no digas nada. Te llama y quiere ayudarte a levantar la mirada. No promete que todo cambie de un día para otro, pero no te deja atado ni solo. Para hoy: sal un momento, levanta los ojos al cielo y dale gracias a Dios por algo concreto."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú viste a una mujer encorvada y la llamaste. Mira lo que me dobla por dentro. Pon tus manos sobre mí y ayúdame a levantar la mirada. Quiero alabarte, como ella, con todo mi ser. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una señora llevaba dieciocho años doblada, sin poder mirar hacia arriba. Jesús la llamó, la tocó, ¡y se enderezó! Ella empezó a alabar a Dios. ¿Qué puedes hacer tú para alegrar a una persona mayor?",
+      "actividad": "Caminen un ratito mirando al suelo y luego mirando al cielo. Conversen: ¿cómo se siente levantar la mirada?"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Jesús usa la misma palabra para el animal y para la mujer: desatar. Si en sábado se desata a un buey para que beba, ¡cuánto más a una hija de Abraham! El sábado recordaba que Dios había liberado a su pueblo de Egipto (Deuteronomio 5:15)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Salmos 145:14", "nota": "Dios sostiene a los que caen y levanta a todos los oprimidos." },
+        { "ref": "Deuteronomio 5:15", "nota": "El día de reposo recuerda la liberación de la esclavitud en Egipto." },
+        { "ref": "Isaías 58:6", "nota": "Lo que agrada a Dios: desatar las ligaduras y dejar libres a los oprimidos." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "El sábado era un regalo de Dios, y sus maestros querían cuidarlo bien. Jesús mostró que sanar cumple su sentido. Lucas habla de un espíritu de enfermedad, pero no toda enfermedad tiene un origen espiritual. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos años llevaba enferma la mujer?",
+      "opciones": ["Doce", "Dieciocho", "Treinta y ocho"],
+      "correcta": 1,
+      "explicacion": "Lucas dice que llevaba dieciocho años enferma y encorvada (Lucas 13:11)."
+    },
+    {
+      "pregunta": "¿Cómo llamó Jesús a la mujer para darle honor?",
+      "opciones": ["Sierva del templo", "Madre de Israel", "Hija de Abraham"],
+      "correcta": 2,
+      "explicacion": "Jesús la llamó hija de Abraham: parte plena del pueblo de Dios (Lucas 13:16)."
+    },
+    {
+      "pregunta": "¿Qué recordaba el día de reposo, según Deuteronomio 5:15?",
+      "opciones": ["La salida de Egipto", "La creación del mar", "El nacimiento de Moisés"],
+      "correcta": 0,
+      "explicacion": "El sábado recordaba que Dios sacó a su pueblo de la esclavitud en Egipto."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Lucas 13:10-17"
+}

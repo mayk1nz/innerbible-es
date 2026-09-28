@@ -1,0 +1,132 @@
+{
+  "id": "eva",
+  "titulo": "Eva",
+  "subtitulo": "La madre de todos los vivientes",
+  "etiquetas": ["Los comienzos · sin fecha", "Génesis 2–4", "Familia", "Duelo"],
+  "enUnMinuto": [
+    "Eva es la primera mujer: Dios la forma con cuidado y se la presenta a Adán como compañera.",
+    "Escucha a la serpiente, come del fruto prohibido y todo se rompe, pero Dios no la abandona.",
+    "Le promete que de la mujer vendrá quien venza al mal, y Eva sigue adelante como madre de todos los vivientes."
+  ],
+  "versiculo": {
+    "texto": "Y enemistad pondré entre ti y la mujer, y entre tu simiente y la simiente suya; ésta te herirá en la cabeza, y tú le herirás en el calcañar.",
+    "referencia": "Génesis 3:15"
+  },
+  "bloques": [
+    {
+      "tipo": "lista",
+      "titulo": "Su nombre y su tiempo",
+      "items": [
+        "Nombre: Eva. En hebreo suena parecido a la palabra “vida”. Adán se lo da porque será madre de todos los vivientes.",
+        "Época: los comienzos. La Biblia no pone fecha a la creación.",
+        "Lugar: el huerto de Edén y, después, la tierra fuera del huerto.",
+        "Para leer: Génesis 1:26-31 y Génesis 2–4."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Dios crea al ser humano a su imagen: «varón y hembra los crió» (Génesis 1:27). Todo lo que hace es bueno. Pero hay algo que no está bien: que el hombre esté solo. Dios hace dormir a Adán, toma una de sus costillas y forma a la mujer. Adán la ve y se alegra: por fin alguien como él, «hueso de mis huesos».",
+        "En el huerto hay un solo límite: no comer del árbol del conocimiento del bien y del mal. La serpiente siembra una duda: ¿de verdad Dios quiere tu bien? Le promete que será como Dios. La mujer mira el fruto, lo desea, come y le da a su marido. Él también come.",
+        "Enseguida sienten vergüenza y se esconden entre los árboles. Pero Dios sale a buscarlos y pregunta: «¿Dónde estás tú?». Adán culpa a la mujer, y la mujer culpa a la serpiente. Llegan el dolor, el trabajo duro y la salida del huerto. Aun así, antes de sacarlos, Dios mismo les hace ropa de pieles y los viste.",
+        "Fuera del Edén, Eva da a luz a Caín y a Abel. Al primero lo recibe diciendo: «Adquirido he varón por Jehová». Pero Caín mata a su hermano, y Eva conoce el dolor más hondo de una madre. La historia no termina en esa tumba. Nace Set, y Eva dice que Dios le dio otro hijo en lugar de Abel."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: levantarse con esperanza",
+      "parrafos": [
+        "Eva no es un ejemplo por lo que hizo en el huerto, y la Biblia no esconde su error. Pero después de la caída la vemos seguir adelante. Da vida, cría a sus hijos y los nombra mirando a Dios. En la alegría reconoce que su hijo viene de Él. En el duelo sigue creyendo que Dios puede dar vida otra vez."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios no destruye a Eva: la busca, la viste y le da una promesa. De la «simiente» de la mujer vendría quien heriría a la serpiente en la cabeza (Génesis 3:15). Muchos cristianos ven aquí el primer anuncio de Jesús. Pablo dice que Dios envió a su Hijo «hecho de mujer» (Gálatas 4:4). Por Eva, la vida siguió; por su descendencia, llegó el Salvador."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si cargas con un error que cambió tu vida, mira a Eva. Dios no la dejó sola ni la definió por su peor día. Él sigue preguntando «¿Dónde estás tú?». No lo hace para humillarte, sino para encontrarte. Hoy puedes salir de detrás de los árboles y hablarle con la verdad."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "También para ti",
+      "items": [
+        "Si perdiste a un hijo o a alguien muy amado: Eva conoció ese dolor. Dios no le quitó la tristeza de golpe, pero le volvió a dar vida.",
+        "Para los hombres: Adán culpó a su esposa. En Cristo aprendemos a reconocer lo nuestro y a cuidar, no a acusar.",
+        "Para los jóvenes: la serpiente no obliga, siembra dudas. Cuando alguien te diga que Dios te quita lo bueno, recuerda quién te hizo.",
+        "Para las familias heridas: la primera familia también sufrió celos y pérdidas. Dios siguió obrando en ella."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Génesis habla de «su fruto», sin decir qué fruta era.",
+        "El texto dice que Adán comió «así como ella»: los dos fueron responsables."
+      ],
+      "tradicion": [
+        "En el arte se pinta casi siempre una manzana. Es una costumbre, no un dato de la Biblia.",
+        "Desde los primeros siglos, muchos cristianos llaman a Génesis 3:15 el primer anuncio del Evangelio."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Génesis 1:26-31", "nota": "Creados a imagen de Dios." },
+        { "ref": "Génesis 2:18-25", "nota": "Dios forma a la mujer." },
+        { "ref": "Génesis 3", "nota": "La caída y la promesa." },
+        { "ref": "Génesis 4:1-2", "nota": "Nacen Caín y Abel." },
+        { "ref": "Génesis 4:25", "nota": "Nace Set." },
+        { "ref": "Gálatas 4:4", "nota": "El Hijo de Dios, hecho de mujer." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, cuando me esconda por vergüenza, búscame como buscaste a Eva. Gracias porque no me defines por mi peor error. Cúbreme con tu perdón y dame esperanza en medio del dolor. Gracias por Jesús, que venció al mal. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para romper el hielo: ¿qué te enseñaron de niña sobre Eva? ¿Era una imagen dura o amable?",
+        "La serpiente siembra una duda sobre la bondad de Dios. ¿Qué dudas parecidas escuchamos hoy?",
+        "Adán culpa a Eva, y Eva a la serpiente. ¿Por qué nos cuesta tanto decir “fui yo”?",
+        "Dios les hace ropa antes de sacarlos del huerto. ¿Qué nos dice eso de su corazón?",
+        "Eva sigue adelante después de perder a Abel. ¿Quién te ayudó a ti a seguir en un duelo?",
+        "Dinámica y cierre: cada una escribe en secreto una culpa que carga. Leen juntas Génesis 3:21 y oran entregándolas a Dios."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Dios hizo a Eva con amor. Eva desobedeció, pero Dios no dejó de quererla. Le hizo ropa y le prometió un Salvador. Cuando te equivocas, ¿te escondes o hablas con Dios?",
+      "actividad": "Dibuja el huerto con muchos árboles. En un rincón, dibuja a Dios dándoles ropa a Adán y Eva."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Por qué Adán le puso a su mujer el nombre de Eva?",
+      "opciones": ["Porque era madre de todos los vivientes", "Porque vivía junto al río del huerto", "Porque fue la última en ser creada"],
+      "correcta": 0,
+      "explicacion": "Génesis 3:20 dice que Adán la llamó Eva porque era madre de todos los vivientes."
+    },
+    {
+      "pregunta": "¿Qué hizo Dios por Adán y Eva antes de sacarlos del huerto?",
+      "opciones": ["Les dio una lista de reglas nuevas", "Les hizo ropa de pieles y los vistió", "Les quitó el habla por un tiempo"],
+      "correcta": 1,
+      "explicacion": "Génesis 3:21 dice que Dios les hizo túnicas de pieles y los vistió. Los cuidó aun después de su pecado."
+    },
+    {
+      "pregunta": "¿Qué versículo dice que Dios envió a su Hijo «hecho de mujer»?",
+      "opciones": ["Juan 3:16", "Romanos 8:28", "Gálatas 4:4"],
+      "correcta": 2,
+      "explicacion": "Gálatas 4:4 dice que Dios envió a su Hijo hecho de mujer. Así se cumple la promesa de Génesis 3:15."
+    }
+  ],
+  "estudio": ["genesis-1-11"],
+  "buscar": "Eva"
+}

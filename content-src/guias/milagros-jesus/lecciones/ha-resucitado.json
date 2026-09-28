@@ -1,0 +1,110 @@
+{
+  "id": "ha-resucitado",
+  "titulo": "¡Ha resucitado!",
+  "subtitulo": "Milagro 41 de 43 · La señal mayor",
+  "etiquetas": ["El sepulcro, en Jerusalén", "Domingo de Resurrección · c. 30 d.C.", "Señal en la vida de Jesús"],
+  "enUnMinuto": [
+    "El primer día de la semana, unas mujeres van al sepulcro y lo encuentran abierto y vacío.",
+    "Un ángel les dice: «No está aquí; porque ha resucitado, como dijo».",
+    "Jesús resucitado se aparece a María Magdalena y la llama por su nombre."
+  ],
+  "versiculo": {
+    "texto": "No está aquí; porque ha resucitado, como dijo. Venid, ved el lugar donde fue puesto el Señor.",
+    "referencia": "Mateo 28:6"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 28:1-10", "nota": "Mateo: el terremoto, el ángel sobre la piedra y Jesús que sale al encuentro de las mujeres." },
+        { "ref": "Marcos 16:1-8", "nota": "Marcos: ¿quién quitará la piedra? Y el mensaje «a sus discípulos y a Pedro»." },
+        { "ref": "Lucas 24:1-12", "nota": "Lucas: «¿Por qué buscáis entre los muertos al que vive?»." },
+        { "ref": "Juan 20:1-18", "nota": "Juan: Pedro y el discípulo amado corren al sepulcro; Jesús se aparece a María Magdalena." },
+        { "ref": "1 Corintios 15:3-8", "nota": "Pablo resume la fe: murió, fue sepultado, resucitó al tercer día y se apareció." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "El primer día de la semana, muy de mañana, unas mujeres fueron al sepulcro. Entre ellas estaba María Magdalena. Llevaban perfumes para ungir el cuerpo de Jesús. Por el camino se preguntaban quién les quitaría la piedra de la entrada, que era muy grande.",
+        "Al llegar, la piedra estaba removida. Mateo cuenta que hubo un gran terremoto y que un ángel del Señor la había quitado. Los guardias temblaron de miedo. El ángel dijo a las mujeres: «No temáis vosotras». Y añadió: «No está aquí; porque ha resucitado, como dijo».",
+        "Ellas corrieron, con temor y gran gozo, a dar la noticia. Al principio, a los apóstoles les pareció una locura. Pedro y el discípulo amado corrieron al sepulcro. Vieron los lienzos puestos a un lado y el sudario enrollado aparte. El otro discípulo vio, y creyó.",
+        "María Magdalena se quedó llorando junto al sepulcro. Jesús le preguntó: «Mujer, ¿por qué lloras?». Ella pensó que era el hortelano. Entonces él la llamó por su nombre: «¡María!». Ella lo reconoció: «¡Rabboni!», que quiere decir Maestro. Y corrió a decir a los discípulos que había visto al Señor."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "El primer día de la semana: el domingo. Por eso los cristianos se reúnen ese día.",
+        "Lienzos: las telas con que envolvían el cuerpo en la sepultura.",
+        "Rabboni: palabra aramea que quiere decir «Maestro mío»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús vive. Venció a la muerte, y no se quedó en el sepulcro. Que cumple su palabra: había dicho que resucitaría al tercer día, y así fue. Y que se muestra con ternura: consuela a una mujer que llora y la llama por su nombre. Esta es la señal mayor, la que da sentido a todas las demás."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "La resurrección cambia la manera de vivir cada día. Tus lágrimas no son la última palabra. Tu pecado no es la última palabra. Ni siquiera la muerte lo es. Jesús vivo te conoce por tu nombre, como a María. Y te envía, como a ella, a contar la buena noticia. Para hoy: cuéntale a alguien por qué la resurrección de Jesús te da esperanza."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús resucitado, tú venciste a la muerte y vives para siempre. Llámame por mi nombre cuando esté llorando. Quita el miedo de mi corazón y lléname de tu gozo. Envíame a contar que tú vives. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "El domingo por la mañana, unas mujeres fueron a la tumba de Jesús. ¡Estaba vacía! Un ángel les dijo: «No está aquí; porque ha resucitado». ¡Jesús vive! ¿Qué noticia alegre te gustaría contar hoy?",
+      "actividad": "Pinten una piedra y pónganla junto a una caja vacía. Digan juntos: la tumba está vacía porque Jesús vive."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Pablo escribió que Jesús resucitado se apareció a más de quinientos hermanos a la vez. Y añadió que muchos de ellos seguían vivos cuando él escribía (1 Corintios 15:6). Eran testigos a los que se podía preguntar."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Salmos 16:10", "nota": "«no dejarás mi alma en el sepulcro»." },
+        { "ref": "Oseas 6:2", "nota": "El profeta habla de vida nueva al tercer día." },
+        { "ref": "Mateo 16:21", "nota": "Jesús había anunciado que resucitaría al tercer día." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Cada evangelio recuerda detalles distintos: cuántas mujeres fueron, si vieron uno o dos ángeles. Es como cuando varios testigos cuentan lo mismo, cada uno desde donde estaba. Todos coinciden en lo esencial: la tumba estaba vacía y Jesús vive."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué encontraron las mujeres al llegar al sepulcro?",
+      "opciones": ["El cuerpo de Jesús", "La piedra removida y la tumba vacía", "Soldados dormidos"],
+      "correcta": 1,
+      "explicacion": "La piedra estaba quitada, y el ángel les dijo que Jesús no estaba allí (Mateo 28:6)."
+    },
+    {
+      "pregunta": "¿Cuándo reconoció María Magdalena a Jesús?",
+      "opciones": ["Cuando vio su ropa", "Cuando lo vio partir el pan", "Cuando la llamó por su nombre"],
+      "correcta": 2,
+      "explicacion": "Jesús le dijo «¡María!», y ella respondió «¡Rabboni!» (Juan 20:16)."
+    },
+    {
+      "pregunta": "¿A cuántos hermanos a la vez se apareció Jesús, según Pablo?",
+      "opciones": ["A más de quinientos", "A doce", "A setenta"],
+      "correcta": 0,
+      "explicacion": "Pablo lo escribe en 1 Corintios 15:6."
+    }
+  ],
+  "estudio": ["resurreccion"],
+  "buscar": "Mateo 28:1-10"
+}

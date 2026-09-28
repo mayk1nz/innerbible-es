@@ -1,0 +1,129 @@
+{
+  "id": "job",
+  "titulo": "Job",
+  "subtitulo": "Fiel en medio del dolor",
+  "etiquetas": ["Antiguo Testamento", "Patriarcas", "Tierra de Uz"],
+  "enUnMinuto": [
+    "Job es un hombre bueno que lo pierde todo en poco tiempo: sus bienes, sus hijos y su salud.",
+    "No entiende por qué sufre, y se lo dice a Dios con total sinceridad.",
+    "Dios le responde, Job lo conoce de cerca, y al final Dios le devuelve el doble."
+  ],
+  "versiculo": {
+    "texto": "De oídas te había oído; mas ahora mis ojos te ven.",
+    "referencia": "Job 42:5"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Job vivía en la tierra de Uz, al oriente de Israel (Job 1:1). La Biblia no dice cuándo vivió. Sus costumbres recuerdan a la época de los patriarcas, y por eso el Estudio Cronológico lo lee después de Génesis.",
+        "Era rico y muy respetado. Tenía siete hijos y tres hijas, y oraba por ellos cada día (Job 1:2-5). La Biblia lo describe como un hombre recto, que respetaba a Dios y se apartaba del mal."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un hombre íntegro. Job ama a Dios y cuida a su familia. Dios mismo dice que no hay otro como él en la tierra (Job 1:1-8).",
+        "La pregunta del acusador. Satán dice que Job solo sirve a Dios porque le va bien. Dios permite la prueba, con un límite (Job 1:9-12).",
+        "Lo pierde todo. En un solo día pierde sus animales, sus siervos y a sus diez hijos. Job llora, se postra y adora (Job 1:13-22).",
+        "La enfermedad. Llagas cubren su cuerpo, y se sienta en la ceniza. Aun así, no habla contra Dios (Job 2:7-10).",
+        "Siete días de silencio. Tres amigos llegan y se sientan con él en el suelo. No dicen nada, porque ven que el dolor es muy grande (Job 2:11-13).",
+        "Palabras que hieren. Los amigos insisten en que Job sufre por algún pecado. Job defiende su inocencia y clama a Dios con dolor (Job 3–31).",
+        "Un grito de esperanza. En medio de su queja, Job declara: «Yo sé que mi Redentor vive» (Job 19:25).",
+        "Dios responde. Desde un torbellino, Dios le muestra la creación y su cuidado de todo. No explica el porqué, pero se hace presente (Job 38–41).",
+        "Ahora te veo. Job se humilla y dice que antes conocía a Dios de oídas, y ahora con sus ojos (Job 42:1-6).",
+        "Restaurado. Job ora por sus amigos. Dios le devuelve el doble, y Job ve crecer a cuatro generaciones de su familia (Job 42:7-17)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Job deseaba alguien que se pusiera entre Dios y él (Job 9:33). Esperaba a un Redentor vivo. En Jesús, Dios da esa respuesta: Él es el mediador entre Dios y los hombres (1 Timoteo 2:5). Además, Jesús sufrió siendo inocente, como Job, y resucitó. Por eso nuestro dolor ya no tiene la última palabra."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "El sufrimiento no siempre es castigo. Los amigos se equivocaron al culpar a Job. Esta semana: acompaña a alguien que sufre sin darle explicaciones.",
+        "A Dios se le puede hablar con sinceridad. Job le dijo todo lo que sentía, y Dios le respondió. Esta semana: escribe una oración honesta sobre lo que te duele.",
+        "Estar presente vale más que tener respuestas. Lo mejor que hicieron los amigos fueron los siete días de silencio. Esta semana: visita o llama a un enfermo."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Job no recibió todas las respuestas, pero encontró a Dios. ¿Hay una pregunta que te duele y que nunca le has dicho a Dios? Puedes decírsela hoy. Él escucha."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "El profeta Ezequiel nombra a Job junto a Noé y Daniel como hombres justos (Ezequiel 14:14).",
+        "Santiago recuerda «la paciencia de Job» y dice que el Señor es muy misericordioso (Santiago 5:11)."
+      ],
+      "tradicion": [
+        "Una antigua traducción griega del libro añade al final que Job sería Jobab, un rey de Edom (Génesis 36:33).",
+        "Desde antiguo, muchas iglesias leen pasajes de Job al orar por los difuntos, sobre todo «Yo sé que mi Redentor vive»."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Casi todo el libro es poesía. Unos lectores, judíos y cristianos, lo leen como la historia de un hombre real. Otros ven en él un gran poema inspirado sobre el sufrimiento. Todos reciben su mensaje: Dios está cerca del que sufre."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Job 1–2", "nota": "La prueba y la pérdida" },
+        { "ref": "Job 19:23-27", "nota": "«Yo sé que mi Redentor vive»" },
+        { "ref": "Job 38:1-11", "nota": "Dios responde desde el torbellino" },
+        { "ref": "Job 42", "nota": "Job ve a Dios y es restaurado" },
+        { "ref": "Ezequiel 14:14", "nota": "Un ejemplo de justicia" },
+        { "ref": "Santiago 5:11", "nota": "Un ejemplo de paciencia" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuando Job estaba muy triste, sus amigos se sentaron con él en silencio. ¿Cómo puedes acompañar tú a alguien que está triste?",
+      "actividad": "Para el adulto: estar cerca ya es consolar (Job 2:13). Piensen juntos en alguien enfermo o solo, y hagan un dibujo o una llamada para él."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, cuando no entienda lo que pasa, quiero seguir hablando contigo. Tú conoces mi dolor. Sé que mi Redentor vive. Muéstrate a mí como te mostraste a Job. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿En qué se equivocaron los amigos de Job? ¿Nos pasa lo mismo a veces?",
+        "¿Por qué creen que Dios no le explicó a Job la razón de su sufrimiento?",
+        "¿Qué significa conocer a Dios «de oídas» y conocerlo con los ojos?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hicieron los tres amigos de Job durante los primeros siete días?",
+      "opciones": ["Lo acusaron de pecado", "Se sentaron con él en silencio", "Le trajeron médicos"],
+      "correcta": 1,
+      "explicacion": "Se sentaron con él en tierra y nadie habló, porque su dolor era muy grande (Job 2:13)."
+    },
+    {
+      "pregunta": "¿Cómo respondió Dios a Job al final?",
+      "opciones": ["Le mostró su creación desde un torbellino", "Le envió una carta", "No le respondió nunca"],
+      "correcta": 0,
+      "explicacion": "Dios habló a Job desde un torbellino y le mostró su cuidado de toda la creación (Job 38:1-4)."
+    },
+    {
+      "pregunta": "Job deseaba alguien entre Dios y él. ¿Quién es el mediador según 1 Timoteo 2:5?",
+      "opciones": ["Un ángel", "Moisés", "Jesucristo"],
+      "correcta": 2,
+      "explicacion": "Pablo escribe que hay un mediador entre Dios y los hombres: Jesucristo hombre (1 Timoteo 2:5)."
+    }
+  ],
+  "estudio": ["job"],
+  "buscar": "Job"
+}

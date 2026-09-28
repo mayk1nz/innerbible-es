@@ -1,0 +1,131 @@
+{
+  "id": "samuel",
+  "titulo": "Samuel",
+  "subtitulo": "El niño que escuchó a Dios",
+  "etiquetas": ["Antiguo Testamento", "El reino", "Silo y Ramá"],
+  "enUnMinuto": [
+    "Samuel nace por la oración de su madre, Ana, y crece desde niño en la casa de Dios.",
+    "Una noche Dios lo llama, y él responde: «Habla, que tu siervo oye».",
+    "Es profeta y juez de Israel, ora por su pueblo y unge a los dos primeros reyes: Saúl y David."
+  ],
+  "versiculo": {
+    "texto": "Y vino Jehová, y parose, y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo oye.",
+    "referencia": "1 Samuel 3:10"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Su madre le puso Samuel porque lo había pedido a Dios (1 Samuel 1:20). El nombre probablemente quiere decir «Dios escuchó».",
+        "Vivió hacia el 1100–1010 a.C., entre el tiempo de los jueces y el de los reyes. Fue el último juez de Israel y un gran profeta (Hechos 13:20).",
+        "Era hijo de Elcana y Ana, de Ramá, en los montes de Efraín. Tuvo dos hijos, Joel y Abías (1 Samuel 8:2)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un hijo pedido en oración. Ana no puede tener hijos y llora ante Dios en Silo. Promete dedicarle el hijo que le dé (1 Samuel 1:9-20).",
+        "Entregado a Dios. Ya destetado, Ana lo lleva al sacerdote Elí. Le dice: «Por este niño oraba» (1 Samuel 1:24-28).",
+        "Una túnica cada año. Samuel sirve en la casa de Dios. Cada año su madre le lleva una túnica nueva hecha por ella (1 Samuel 2:18-19).",
+        "La voz de noche. Dios llama a Samuel tres veces, y él corre adonde Elí. A la cuarta, responde: «Habla, que tu siervo oye» (1 Samuel 3:1-10).",
+        "Un mensaje difícil. Dios le anuncia un juicio sobre la casa de Elí. Samuel tiene miedo, pero le dice toda la verdad (1 Samuel 3:11-18).",
+        "Profeta de todo Israel. Dios está con Samuel, y todo el pueblo reconoce que es un profeta fiel (1 Samuel 3:19-21).",
+        "«Hasta aquí nos ayudó Jehová». Samuel llama al pueblo a volver a Dios y ora por ellos. Dios les da la victoria, y Samuel levanta una piedra de recuerdo (1 Samuel 7:3-12).",
+        "Un dolor de padre. Sus hijos no siguen sus caminos, y el pueblo pide un rey. Samuel se entristece y ora (1 Samuel 8:1-9).",
+        "Unge a Saúl. Samuel derrama aceite sobre la cabeza de Saúl y lo presenta como rey (1 Samuel 10:1).",
+        "Un líder honesto. Ante todo el pueblo, pregunta si alguna vez robó o engañó a alguien. Nadie puede acusarlo (1 Samuel 12:1-5).",
+        "Obedecer vale más. Cuando Saúl desobedece, Samuel le dice que obedecer es mejor que los sacrificios. Después llora por él (1 Samuel 15:22, 35).",
+        "Dios mira el corazón. En Belén, Samuel unge al menor de los hijos de Isaí, el pastor David (1 Samuel 16:1-13).",
+        "Su muerte. Todo Israel lo llora, y lo sepultan en su casa en Ramá (1 Samuel 25:1)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "De Samuel niño se dice que crecía agradando a Dios y a la gente (1 Samuel 2:26). Lucas dice casi lo mismo de Jesús a los doce años (Lucas 2:52). Samuel ungió con aceite a David, el rey pastor. De la familia de David nacería Jesús, el Ungido: eso quiere decir «Cristo»."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Dios habla también a los pequeños. Samuel era un niño cuando Dios lo llamó. Esta semana: lee con un niño una historia de la Biblia y pregúntale qué entendió.",
+        "Orar por otros es parte de amar. Samuel dijo que dejar de orar por el pueblo sería pecar. Esta semana: haz una lista de cinco personas y ora por ellas cada día.",
+        "Mirar como Dios mira. Samuel aprendió que Dios mira el corazón. Esta semana: valora a alguien por su corazón y no por su apariencia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Samuel tardó en reconocer la voz de Dios, y necesitó la ayuda de Elí. ¿Quién te ayuda a ti a escuchar a Dios? Hoy puedes hacer la oración de Samuel: «Habla, que tu siervo oye», y guardar un rato de silencio."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "El Salmo 99:6 lo nombra entre los que invocaban a Dios, junto a Moisés y Aarón.",
+        "Los hechos de David se escribieron también en las crónicas de «Samuel vidente» (1 Crónicas 29:29).",
+        "Pedro nombra a Samuel como el primero de una larga fila de profetas (Hechos 3:24)."
+      ],
+      "tradicion": [
+        "El Talmud, una antigua obra judía, dice que Samuel escribió Jueces, Rut y parte del libro que lleva su nombre.",
+        "Cerca de Jerusalén, en una colina llamada Nebi Samuel, la tradición señala su tumba."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "1 Samuel 1", "nota": "Ana ora y nace Samuel" },
+        { "ref": "1 Samuel 3", "nota": "Dios lo llama de noche" },
+        { "ref": "1 Samuel 7:3-17", "nota": "Juez de Israel en Mizpa" },
+        { "ref": "1 Samuel 8", "nota": "El pueblo pide un rey" },
+        { "ref": "1 Samuel 12", "nota": "Su despedida" },
+        { "ref": "1 Samuel 16:1-13", "nota": "Unge a David" },
+        { "ref": "Hebreos 11:32", "nota": "Samuel en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Samuel era un niño cuando Dios lo llamó por su nombre. ¿Crees que Dios también quiere hablar contigo?",
+      "actividad": "Para el adulto: Samuel dijo «Habla, que tu siervo oye» (1 Samuel 3:10). Antes de dormir, enséñale esa oración y quédense un minuto en silencio."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, habla, que tu siervo oye. Enséñame a reconocer tu voz. Ayúdame a orar por los demás y a mirar el corazón, como tú lo miras. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Elí ayudó a Samuel a reconocer la voz de Dios. ¿Quién ha sido un «Elí» en tu vida?",
+        "Samuel fue un líder íntegro, pero sus hijos no siguieron su camino. ¿Qué nos enseña esto?",
+        "¿Cuál es tu «Ebenezer», un momento en que puedes decir: hasta aquí nos ayudó Dios?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué respondió Samuel cuando Dios lo llamó por cuarta vez?",
+      "opciones": ["«Heme aquí, envíame a mí»", "«Habla, que tu siervo oye»", "«¿Quién soy yo?»"],
+      "correcta": 1,
+      "explicacion": "Siguiendo el consejo de Elí, Samuel respondió: «Habla, que tu siervo oye» (1 Samuel 3:10)."
+    },
+    {
+      "pregunta": "¿A quién ungió Samuel en Belén como futuro rey?",
+      "opciones": ["A David, el hijo menor de Isaí", "A Eliab, el mayor", "A Jonatán"],
+      "correcta": 0,
+      "explicacion": "Dios le dijo que Él mira el corazón, y Samuel ungió a David (1 Samuel 16:7-13)."
+    },
+    {
+      "pregunta": "¿Qué quiere decir «Cristo», el título de Jesús?",
+      "opciones": ["El Maestro", "El Profeta", "El Ungido"],
+      "correcta": 2,
+      "explicacion": "Como los reyes ungidos por Samuel, Jesús es el Ungido: eso significa «Cristo»."
+    }
+  ],
+  "estudio": ["1-samuel"],
+  "buscar": "Samuel"
+}

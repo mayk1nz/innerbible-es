@@ -1,0 +1,126 @@
+{
+  "id": "timoteo",
+  "titulo": "Timoteo",
+  "subtitulo": "El joven hijo en la fe de Pablo",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "De Listra a Éfeso"],
+  "enUnMinuto": [
+    "Timoteo aprendió la Biblia de niño con su madre y su abuela.",
+    "Pablo lo invitó a viajar con él y lo trató como a un hijo.",
+    "Aunque era joven y a veces temeroso, llegó a cuidar la iglesia de Éfeso, y Pablo le escribió dos cartas."
+  ],
+  "versiculo": {
+    "texto": "Ninguno tenga en poco tu juventud; pero sé ejemplo de los fieles en palabra, en conversación, en caridad, en espíritu, en fe, en limpieza.",
+    "referencia": "1 Timoteo 4:12"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Timoteo era de Listra, en la actual Turquía. Su madre, Eunice, era judía creyente y su padre era griego (Hechos 16:1). Su abuela se llamaba Loida (2 Timoteo 1:5).",
+        "Su nombre es griego y significa “el que honra a Dios”. Pablo lo llama «mi hijo amado y fiel en el Señor» (1 Corintios 4:17). Su nombre aparece al comienzo de seis cartas de Pablo, como compañero."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Una fe de familia. Desde niño conoció las Sagradas Escrituras. La fe sincera vivió primero en su abuela y en su madre, y después en él (2 Timoteo 1:5; 3:15).",
+        "Pablo lo elige. En su segundo viaje, Pablo llegó a Listra. Los hermanos hablaban bien de Timoteo, y Pablo quiso llevarlo consigo (Hechos 16:1-3).",
+        "Un encargo delicado. Pablo lo envió a Tesalónica para animar a una iglesia que sufría. Timoteo volvió con buenas noticias (1 Tesalonicenses 3:1-6).",
+        "El hombre de confianza. Pablo lo mandó también a Corinto y a Macedonia. Pidió que nadie lo menospreciara (1 Corintios 4:17; 16:10-11; Hechos 19:22).",
+        "Como hijo a padre. Desde la prisión, Pablo escribió que no tenía a nadie como Timoteo. Nadie se preocupaba tanto por los demás (Filipenses 2:19-22).",
+        "Pastor en Éfeso. Pablo le pidió quedarse en Éfeso para cuidar la sana enseñanza (1 Timoteo 1:3). Le escribió cómo guiar la iglesia.",
+        "Joven, pero ejemplo. Algunos lo miraban en menos por su edad. Pablo lo animó a ser ejemplo en palabra, conducta, amor, fe y pureza (1 Timoteo 4:12).",
+        "Un amigo en la hora final. Preso en Roma, Pablo le pidió que viniera pronto, antes del invierno (2 Timoteo 4:9, 21).",
+        "Libre otra vez. La carta a los Hebreos avisa que «nuestro hermano Timoteo está suelto». Muchos entienden que salió de la cárcel (Hebreos 13:23)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Timoteo conoció a Jesús primero en las Escrituras que le leían en casa. Esas Escrituras, dice Pablo, hacen sabio para la salvación «por la fe que es en Cristo Jesús» (2 Timoteo 3:15). Jesús usó a un joven tímido y enfermizo para cuidar a su pueblo. Su fuerza se ve en lo débil."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "La fe se siembra en casa. Loida y Eunice leyeron la Biblia a Timoteo. Esta semana, lee un pasaje bíblico con un niño o joven de tu familia.",
+        "La edad no limita a Dios. Timoteo era joven y fue ejemplo. Esta semana, si eres joven, sirve en algo; si eres mayor, anima a un joven.",
+        "El miedo no manda. Dios no nos dio «el espíritu de temor» (2 Timoteo 1:7). Esta semana, da un paso de fe que vienes postergando por miedo."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Pablo le dijo a Timoteo: «despiertes el don de Dios» que hay en ti. ¿Qué don te dio Dios que está dormido? Pide a alguien de confianza que ore contigo por eso esta semana."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Su madre era judía creyente y su padre, griego (Hechos 16:1).",
+        "Pablo lo llama su hijo en la fe (1 Timoteo 1:2).",
+        "Tenía problemas de estómago y enfermedades frecuentes (1 Timoteo 5:23).",
+        "Hebreos 13:23 dice que fue liberado. Probablemente había estado preso.",
+        "La Biblia no cuenta el final de su vida."
+      ],
+      "tradicion": [
+        "Eusebio, historiador del siglo IV, dice que fue el primer obispo de Éfeso.",
+        "Un relato antiguo cuenta que dio su vida por Cristo en Éfeso, hacia el final del siglo I.",
+        "La Iglesia católica lo recuerda el 26 de enero, junto con Tito."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Las cartas de Pablo a Timoteo y a Tito se llaman “cartas pastorales”, porque hablan de cómo cuidar la iglesia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Hechos 16:1-5", "nota": "Pablo lo invita a viajar" },
+        { "ref": "Hechos 17:14-15", "nota": "Se queda en Berea con Silas" },
+        { "ref": "1 Tesalonicenses 3:1-6", "nota": "Enviado a Tesalónica" },
+        { "ref": "1 Corintios 4:17", "nota": "Hijo amado y fiel" },
+        { "ref": "Filipenses 2:19-22", "nota": "Como hijo a padre" },
+        { "ref": "1 Timoteo 4:11-16", "nota": "Ejemplo de los fieles" },
+        { "ref": "2 Timoteo 1:3-7", "nota": "Su madre, su abuela y su don" },
+        { "ref": "2 Timoteo 4:9-21", "nota": "Ven pronto" },
+        { "ref": "Hebreos 13:23", "nota": "Liberado de la cárcel" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Timoteo aprendió historias de la Biblia con su mamá y su abuela. ¿Quién te cuenta a ti historias de Dios?",
+      "actividad": "Para papás y abuelos: la fe de Timoteo empezó en casa (2 Timoteo 1:5). Esta semana, elijan juntos una historia bíblica y léanla antes de dormir."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, gracias por quienes me enseñaron tu Palabra. Quita mi miedo y dame tu Espíritu de fortaleza, de amor y de templanza. Úsame, aunque me sienta pequeño. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaban la madre y la abuela de Timoteo?",
+      "opciones": ["María y Ana", "Eunice y Loida", "Lidia y Priscila"],
+      "correcta": 1,
+      "explicacion": "La fe sincera estuvo primero en su abuela Loida y su madre Eunice (2 Timoteo 1:5)."
+    },
+    {
+      "pregunta": "¿En qué ciudad pidió Pablo a Timoteo que se quedara a cuidar la iglesia?",
+      "opciones": ["En Roma", "En Jerusalén", "En Éfeso"],
+      "correcta": 2,
+      "explicacion": "Pablo le rogó quedarse en Éfeso (1 Timoteo 1:3)."
+    },
+    {
+      "pregunta": "¿Qué dijo Pablo sobre la juventud de Timoteo?",
+      "opciones": ["Que nadie la menospreciara", "Que esperara a ser mayor", "Que no debía predicar"],
+      "correcta": 0,
+      "explicacion": "«Ninguno tenga en poco tu juventud»; sé ejemplo de los fieles (1 Timoteo 4:12)."
+    }
+  ],
+  "estudio": ["1-timoteo", "2-timoteo"],
+  "buscar": "Timoteo"
+}

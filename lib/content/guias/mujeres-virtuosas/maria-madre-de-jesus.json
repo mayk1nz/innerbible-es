@@ -1,0 +1,115 @@
+{
+  "id": "maria-madre-de-jesus",
+  "titulo": "María, la madre de Jesús",
+  "subtitulo": "La que dijo sí a Dios",
+  "etiquetas": ["c. 6 a.C. – 30 d.C.", "Nazaret, Belén y Jerusalén", "fe", "maternidad"],
+  "enUnMinuto": [
+    "María es una joven de Nazaret, comprometida con José, cuando el ángel Gabriel le anuncia que será la madre de Jesús.",
+    "Ella pregunta, escucha y responde con fe: «He aquí la sierva del Señor».",
+    "La Biblia la muestra guardando todo en su corazón, junto a la cruz y orando con los discípulos."
+  ],
+  "versiculo": {
+    "texto": "Entonces María dijo: He aquí la sierva del Señor; hágase a mí conforme a tu palabra. Y el ángel partió de ella.",
+    "referencia": "Lucas 1:38"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "María es la forma griega del nombre hebreo Miriam, como la hermana de Moisés. Su significado es incierto: se han propuesto varios, y ninguno es seguro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "María vivía en Nazaret, un pueblo de Galilea. Estaba comprometida con José, de la familia de David. Un día, el ángel Gabriel entró donde ella estaba y le dijo: «¡Salve, muy favorecida! el Señor es contigo». María se turbó y se preguntaba qué significaba ese saludo.",
+        "El ángel le dijo que no temiera. Tendría un hijo, y lo llamaría Jesús; sería llamado Hijo del Altísimo. María preguntó cómo sería posible, pues no conocía varón. El ángel respondió que el Espíritu Santo vendría sobre ella. Entonces María dijo: «He aquí la sierva del Señor; hágase a mí conforme a tu palabra».",
+        "Enseguida fue a visitar a su parienta Elisabet. Allí María cantó: «engrandece mi alma al Señor». Su canto habla de un Dios que mira a los humildes. Él levanta a los pequeños y llena de bienes a los hambrientos (Lucas 1:46-55). También dijo: «desde ahora me dirán bienaventurada todas las generaciones».",
+        "Jesús nació en Belén, y María lo acostó en un pesebre porque no había lugar en el mesón. Llegaron unos pastores contando lo que los ángeles les habían dicho. Y «María guardaba todas estas cosas, confiriéndolas en su corazón» (Lucas 2:19). En el templo, el anciano Simeón le anunció que una espada traspasaría su alma.",
+        "Años después, en una boda en Caná, faltó el vino. María se lo dijo a Jesús y pidió a los que servían: «Haced todo lo que os dijere». Allí Jesús hizo su primera señal. Al final, María estuvo junto a la cruz. Jesús, al verla, le dijo: «Mujer, he ahí tu hijo». Y al discípulo que amaba: «He ahí tu madre».",
+        "Después de que Jesús subió al cielo, María aparece una vez más. Está en Jerusalén, perseverando en oración con los apóstoles y con las mujeres (Hechos 1:14). Es la última vez que la Biblia la menciona por su nombre."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: un sí lleno de fe",
+      "parrafos": [
+        "María no entendía todo. Preguntó «¿Cómo será esto?», y aun así confió. Su sí tuvo un costo. Corrió el riesgo de ser malentendida (Mateo 1:19). Vivió un parto lejos de casa, la huida a Egipto y el dolor de la cruz. Cuando no entendía, guardaba las cosas y las pensaba en su corazón. Elisabet lo dijo así: «bienaventurada la que creyó»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "A través de María, Dios cumplió su promesa más grande: su Hijo se hizo hombre y nació de una mujer. María lo llevó en su vientre, lo crió y lo acompañó hasta la cruz. En su canto vemos el corazón de Dios: mira a los pequeños y cumple lo que prometió a Abraham. Toda su historia apunta a Jesús, el Salvador."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás Dios te pide algo que no entiendes del todo. Puedes preguntarle, como María, y seguir confiando. Si eres madre o padre, guardar en el corazón también es orar por tus hijos. Si acompañas el dolor de alguien, quedarte a su lado ya es amor. Y si eres joven: Dios contó con una joven de un pueblo pequeño. También puede contar contigo."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Lucas 1:26-38", "nota": "El ángel Gabriel visita a María." },
+        { "ref": "Lucas 1:39-56", "nota": "María visita a Elisabet y canta a Dios." },
+        { "ref": "Lucas 2:1-20", "nota": "Nace Jesús en Belén." },
+        { "ref": "Lucas 2:22-52", "nota": "En el templo: Simeón y Jesús a los doce años." },
+        { "ref": "Juan 2:1-11", "nota": "Las bodas de Caná." },
+        { "ref": "Juan 19:25-27", "nota": "María junto a la cruz." },
+        { "ref": "Hechos 1:14", "nota": "María en oración con los discípulos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por María, que creyó a tu palabra. Dame un corazón que confíe aunque no lo entienda todo. Enséñame a guardar tus obras en mi corazón. Y ayúdame a hacer todo lo que Jesús me diga. En su nombre, amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿recuerdas un momento en que dijiste que sí a algo sin saber cómo saldría?",
+        "María preguntó al ángel cómo sería posible. ¿Es falta de fe hacerle preguntas a Dios? ¿Por qué?",
+        "Lean juntos el canto de María (Lucas 1:46-55). ¿Qué dice de Dios? ¿Qué dice de los pobres y los humildes?",
+        "En Caná, María dijo: «Haced todo lo que os dijere». ¿Qué te está pidiendo Jesús hoy?",
+        "Dinámica: cada persona elige una frase del canto de María que le toque el corazón y la comparte con el grupo.",
+        "Para cerrar: oren por las madres del grupo y por las que sufren por sus hijos."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un ángel visitó a María y le dijo que sería la mamá de Jesús. María confió en Dios y dijo que sí. Jesús nació en Belén, y ella lo acostó en un pesebre. ¿Qué le dirías tú a Dios?",
+      "actividad": "Hagan un corazón de papel y escriban dentro algo bueno que Dios hizo esta semana. Para memorizar: «hágase a mí conforme a tu palabra» (Lucas 1:38)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Católicos y evangélicos honran a María de maneras distintas, y hay enseñanzas sobre ella que no todos comparten. Esta ficha cuenta solo lo que dice la Biblia, que todos leemos juntos, con el mismo cariño y respeto."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿En qué pueblo vivía María cuando el ángel la visitó?",
+      "opciones": ["Belén", "Nazaret", "Jerusalén"],
+      "correcta": 1,
+      "explicacion": "Gabriel fue enviado a Nazaret, una ciudad de Galilea (Lucas 1:26)."
+    },
+    {
+      "pregunta": "¿Qué pidió María a los que servían en las bodas de Caná?",
+      "opciones": ["Que hicieran lo que Jesús dijera", "Que compraran más vino", "Que avisaran al novio"],
+      "correcta": 0,
+      "explicacion": "María dijo: «Haced todo lo que os dijere», y Jesús hizo su primera señal (Juan 2:5)."
+    },
+    {
+      "pregunta": "¿Con quién estaba María después de que Jesús subió al cielo?",
+      "opciones": ["Sola en Nazaret", "Con Elisabet en Judea", "Orando con los apóstoles"],
+      "correcta": 2,
+      "explicacion": "Hechos 1:14 la muestra en Jerusalén, perseverando en oración con los apóstoles y las mujeres."
+    }
+  ],
+  "estudio": ["anuncios", "nacimiento"],
+  "buscar": "María"
+}

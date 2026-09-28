@@ -1,0 +1,98 @@
+{
+  "id": "sinagoga-de-capernaum",
+  "titulo": "El hombre de la sinagoga de Capernaúm",
+  "subtitulo": "Milagro 4 de 43 · Una palabra con autoridad",
+  "etiquetas": ["Sinagoga de Capernaúm", "Año 2 · c. 28 d.C.", "Liberación", "En Marcos y Lucas"],
+  "enUnMinuto": [
+    "Un sábado, Jesús enseña en la sinagoga de Capernaúm, y la gente se asombra de su autoridad.",
+    "Un hombre atormentado por un espíritu inmundo grita, y Jesús lo libera con una sola orden.",
+    "El hombre queda libre y sin daño, y todos se preguntan quién es Jesús."
+  ],
+  "versiculo": {
+    "texto": "Y todos se maravillaron, de tal manera que inquirían entre sí, diciendo: ¿Qué es esto? ¿Qué nueva doctrina es ésta, que con potestad aun a los espíritus inmundos manda, y le obedecen?",
+    "referencia": "Marcos 1:27"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Marcos 1:21-28", "nota": "El relato de Marcos, el primer milagro que él cuenta." },
+        { "ref": "Lucas 4:31-37", "nota": "Lucas añade que el hombre quedó sin daño alguno." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús llegó a Capernaúm, un pueblo de pescadores junto al lago. El sábado entró en la sinagoga y se puso a enseñar. La gente se admiraba, porque enseñaba «como quien tiene potestad», con una autoridad propia.",
+        "En la sinagoga había un hombre que sufría a causa de un espíritu inmundo. De pronto se puso a gritar: «¿qué tienes con nosotros, Jesús Nazareno? ¿Has venido a destruirnos?». Y añadió que sabía quién era Jesús: el Santo de Dios.",
+        "Jesús no discutió ni hizo ningún espectáculo. Le dio una orden breve: «Enmudece, y sal de él». El hombre fue sacudido y el espíritu salió dando un grito. Lucas cuenta que el hombre no sufrió daño alguno.",
+        "Todos quedaron asombrados y se preguntaban unos a otros qué era aquello. Aquel hombre, que había llegado atormentado, ahora estaba libre y en paz. Pronto la fama de Jesús llegó a toda la región de Galilea."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Sinagoga: casa de reunión donde los judíos oraban y leían las Escrituras, sobre todo el sábado.",
+        "Espíritu inmundo: así llaman los evangelios a un espíritu malo que atormentaba a una persona."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "La palabra de Jesús tiene autoridad: enseña y libera con la misma voz. No necesita gritos ni rituales largos. También muestra que Jesús no deja a nadie atrapado en su sufrimiento, ni siquiera en medio de la reunión del sábado. Lo que le importa es la persona: la devuelve libre, en paz y sin daño."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Tal vez cargas algo que te ata por dentro: un miedo, una angustia o un hábito que no puedes dejar. Esta historia no te pide tener miedo. Te muestra que nada es más fuerte que la palabra de Jesús. Para hoy: nombra ante él eso que te oprime. Pídele libertad y paz, y comparte tu carga con alguien de confianza."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tu palabra tiene autoridad y trae paz. Te entrego lo que me ata y me quita la calma. Libérame, sosténme y ayúdame a pedir ayuda cuando la necesite. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "En la sinagoga había un hombre que sufría mucho y gritaba. Jesús habló con autoridad, y el hombre quedó libre y tranquilo. ¿Hay algo que te da miedo? Puedes contárselo a Jesús y a tus papás.",
+      "actividad": "Dibuja al hombre de la historia ya tranquilo, sonriendo junto a Jesús."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los evangelios cuentan estas liberaciones con sobriedad, y así queremos leerlas. No todo sufrimiento tiene un origen espiritual. Orar y buscar ayuda médica o psicológica van juntos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Lucas 4:18", "nota": "Poco antes, en Nazaret, Jesús leyó que venía a «pregonar a los cautivos libertad»." },
+        { "ref": "1 Juan 3:8", "nota": "El Hijo de Dios vino a deshacer las obras del mal." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué día enseñaba Jesús en la sinagoga de Capernaúm?",
+      "opciones": ["El primer día de la semana", "El sábado", "El día de Pascua"],
+      "correcta": 1,
+      "explicacion": "Marcos dice que entraba en la sinagoga los sábados y enseñaba (Marcos 1:21)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús para liberar al hombre?",
+      "opciones": ["Una larga oración", "Nada; solo lo tocó", "«Enmudece, y sal de él»"],
+      "correcta": 2,
+      "explicacion": "Bastó una orden breve de Jesús (Marcos 1:25; Lucas 4:35)."
+    },
+    {
+      "pregunta": "¿Qué pasaje había leído Jesús en Nazaret poco antes?",
+      "opciones": ["Uno que anunciaba libertad a los cautivos", "Uno sobre la creación del mundo", "Uno sobre el arca de Noé"],
+      "correcta": 0,
+      "explicacion": "Jesús leyó a Isaías: venía a pregonar a los cautivos libertad (Lucas 4:18)."
+    }
+  ],
+  "estudio": ["inicio-ministerio"],
+  "buscar": "Marcos 1:21-28"
+}

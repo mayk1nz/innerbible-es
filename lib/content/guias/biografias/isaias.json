@@ -1,0 +1,131 @@
+{
+  "id": "isaias",
+  "titulo": "Isaías",
+  "subtitulo": "El profeta que anunció al Mesías",
+  "etiquetas": ["Antiguo Testamento", "Reino dividido y profetas", "Jerusalén"],
+  "enUnMinuto": [
+    "Isaías ve la gloria de Dios en el templo y responde: «Heme aquí, envíame a mí».",
+    "Durante más de cuarenta años aconseja a los reyes de Judá y llama al pueblo a confiar en Dios.",
+    "Anuncia al niño que nacerá, al Siervo que sufrirá por nosotros y el consuelo para el pueblo."
+  ],
+  "versiculo": {
+    "texto": "Después oí la voz del Señor, que decía: ¿A quién enviaré, y quién nos irá? Entonces respondí yo: Heme aquí, envíame a mí.",
+    "referencia": "Isaías 6:8"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Isaías quiere decir «el Señor salva». Era hijo de Amoz y vivía en Jerusalén (Isaías 1:1).",
+        "Profetizó hacia el 740–680 a.C., en tiempos de cuatro reyes de Judá: Uzías, Jotam, Acaz y Ezequías. Fue la época en que Asiria dominaba la región.",
+        "Estaba casado con una mujer a quien llama «la profetisa». Tuvo al menos dos hijos, con nombres que eran mensajes de Dios (Isaías 7:3; 8:3)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "«Santo, santo, santo». Muere el rey Uzías. Ese año, Isaías ve al Señor en su trono y oye cantar a los serafines (Isaías 6:1-4).",
+        "«¡Ay de mí!». Isaías se siente indigno. Un serafín toca sus labios con un carbón del altar, y su culpa es quitada (Isaías 6:5-7).",
+        "«Envíame a mí». Dios pregunta a quién enviará, e Isaías se ofrece (Isaías 6:8).",
+        "Una señal para un rey con miedo. Ante el rey Acaz, Isaías anuncia que una virgen tendrá un hijo llamado Emmanuel (Isaías 7:1-14).",
+        "Un niño nos es nacido. Anuncia un niño que será llamado «Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz» (Isaías 9:6).",
+        "Confiar en vez de temer. El ejército asirio rodea Jerusalén. Isaías anima al rey Ezequías, que ora, y Dios libra la ciudad (Isaías 37).",
+        "Quince años más. Ezequías enferma. Llora y ora. Dios le responde por medio de Isaías: «Tu oración he oído, y visto tus lágrimas» (Isaías 38:1-5).",
+        "Palabras de consuelo. Isaías anuncia que Dios consolará a su pueblo y le dará nuevas fuerzas (Isaías 40:1, 31).",
+        "El Siervo que sufre. Habla de un Siervo herido por nuestros pecados, por cuyas heridas somos sanados (Isaías 53)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "El Nuevo Testamento cita a Isaías más que a casi cualquier otro profeta. Mateo ve en Jesús al Emmanuel, «Con nosotros Dios» (Mateo 1:23). En Nazaret, Jesús leyó el rollo de Isaías y dijo: «Hoy se ha cumplido esta Escritura» (Lucas 4:21). Y Felipe explicó Isaías 53 a un viajero etíope anunciándole a Jesús (Hechos 8:35)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Ver a Dios cambia todo. Isaías vio su santidad y reconoció su propio pecado. Esta semana: empieza tu oración adorando a Dios antes de pedirle algo.",
+        "Dios limpia antes de enviar. El carbón quitó su culpa, y entonces Isaías pudo decir «envíame». Esta semana: confiesa a Dios algo concreto y recibe su perdón.",
+        "Confiar es mejor que temer. Isaías animó a reyes asustados a apoyarse en Dios. Esta semana: repite cada mañana Isaías 40:31."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Dios sigue preguntando: «¿A quién enviaré?». No necesitas ser perfecto: Isaías tampoco lo era. ¿Para qué necesita Dios hoy tu «heme aquí»? Puede ser algo tan sencillo como visitar a alguien."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "El evangelio de Juan dice que Isaías vio la gloria de Jesús y habló de Él (Juan 12:41).",
+        "El canto de los serafines, «Santo, santo, santo», se repite en Apocalipsis 4:8."
+      ],
+      "tradicion": [
+        "Un escrito antiguo que no está en la Biblia cuenta que Isaías murió por su fe en tiempos del rey Manasés.",
+        "Algunos escritores cristianos antiguos ven una alusión a él en Hebreos 11:37, que recuerda a los fieles que sufrieron.",
+        "Muchas iglesias cantan en su liturgia el «Santo, santo, santo» de Isaías 6:3."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los capítulos 40–66 hablan del exilio en Babilonia y del regreso, más de cien años después. Unos estudiosos piensan que los escribió el propio Isaías, y otros que discípulos suyos continuaron su obra. Todos los leen como palabra de Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Isaías 6", "nota": "Su visión y su llamado" },
+        { "ref": "Isaías 7:10-14", "nota": "La señal del Emmanuel" },
+        { "ref": "Isaías 9:2-7", "nota": "«Un niño nos es nacido»" },
+        { "ref": "Isaías 37:14-21", "nota": "Ezequías ora e Isaías responde" },
+        { "ref": "Isaías 40:1-11", "nota": "«Consolaos, consolaos, pueblo mío»" },
+        { "ref": "Isaías 53", "nota": "El Siervo que sufre" },
+        { "ref": "Lucas 4:16-21", "nota": "Jesús lee a Isaías en Nazaret" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Dios preguntó: «¿A quién enviaré?», e Isaías levantó la mano: «¡Envíame a mí!». ¿En qué puedes ayudar tú esta semana?",
+      "actividad": "Para el adulto: Isaías se ofreció a servir (Isaías 6:8). Elijan juntos una tarea para ayudar a alguien y háganla esta semana."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Santo, santo, santo eres, Señor. Limpia mis labios y mi corazón. Gracias por Jesús, herido por mis pecados. Aquí estoy: envíame a mí. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Isaías se sintió «muerto» al ver a Dios?",
+        "Lean juntos Isaías 53:5-6. ¿Qué les dice sobre la cruz de Jesús?",
+        "¿Qué significa hoy decirle a Dios «heme aquí»?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué cantaban los serafines que vio Isaías?",
+      "opciones": ["«Aleluya, aleluya»", "«Santo, santo, santo»", "«Gloria a Dios en las alturas»"],
+      "correcta": 1,
+      "explicacion": "Los serafines decían: «Santo, santo, santo, Jehová de los ejércitos» (Isaías 6:3)."
+    },
+    {
+      "pregunta": "¿Con qué tocó el serafín los labios de Isaías?",
+      "opciones": ["Con un carbón encendido del altar", "Con aceite", "Con agua del río"],
+      "correcta": 0,
+      "explicacion": "El carbón tocó sus labios, y su culpa fue quitada (Isaías 6:6-7)."
+    },
+    {
+      "pregunta": "¿Qué significa «Emmanuel», el nombre que anunció Isaías?",
+      "opciones": ["Rey de paz", "Hijo del trueno", "Con nosotros Dios"],
+      "correcta": 2,
+      "explicacion": "Mateo explica que Emmanuel quiere decir «Con nosotros Dios» y lo aplica a Jesús (Mateo 1:23)."
+    }
+  ],
+  "estudio": ["isaias", "2-reyes-18-21"],
+  "buscar": "Isaías"
+}

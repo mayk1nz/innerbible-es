@@ -1,0 +1,104 @@
+{
+  "id": "rode",
+  "titulo": "Rode",
+  "subtitulo": "La muchacha que oyó llamar",
+  "etiquetas": ["c. 44 d.C.", "Jerusalén", "juventud", "oración"],
+  "enUnMinuto": [
+    "La iglesia ora en casa de María, la madre de Marcos, porque Pedro está preso.",
+    "Pedro, liberado por un ángel, llama a la puerta, y la joven Rode reconoce su voz.",
+    "De tanta alegría, corre a avisar sin abrir; no le creen, pero ella insiste."
+  ],
+  "versiculo": {
+    "texto": "La cual como conoció la voz de Pedro, de gozo no abrió el postigo, sino corriendo adentro, dio nueva de que Pedro estaba al postigo.",
+    "referencia": "Hechos 12:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "Rode es un nombre griego que significa “rosa”. Lucas la llama «una muchacha»: probablemente era una joven sirvienta de la casa."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "El rey Herodes había comenzado a perseguir a la iglesia de Jerusalén. Mató a Jacobo, el hermano de Juan, y metió preso a Pedro. Lo vigilaban dieciséis soldados. Mientras tanto, «la iglesia hacía sin cesar oración a Dios por él» (Hechos 12:5).",
+        "La noche antes de que Herodes lo sacara ante el pueblo, un ángel despertó a Pedro. Las cadenas se le cayeron de las manos. Pasó las guardias, y la puerta de hierro se abrió sola. Ya en la calle, Pedro entendió que el Señor lo había librado.",
+        "Pedro fue a casa de María, la madre de Juan Marcos, donde muchos estaban reunidos orando. Llamó a la puerta del patio. Salió a escuchar una muchacha llamada Rode. Reconoció la voz de Pedro y, de tanta alegría, no abrió. Corrió adentro a avisar que Pedro estaba a la puerta.",
+        "Los que oraban le dijeron: «Estás loca». Pero ella afirmaba que así era. Entonces dijeron: «Su ángel es». Mientras tanto, Pedro seguía llamando. Cuando por fin abrieron, lo vieron y se quedaron asombrados. Pedro les contó cómo el Señor lo había sacado de la cárcel."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una alegría que no se calla",
+      "parrafos": [
+        "Rode era una muchacha de la casa, sin nombre importante ni cargo en la iglesia. Pero conocía la voz de Pedro, y creyó lo que oía. Cuando los mayores le dijeron que estaba loca, no cambió su historia. Tenía razón. Su alegría fue tan grande que olvidó abrir la puerta, un detalle muy humano que nos saca una sonrisa."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios respondió la oración de la iglesia tan rápido que ni los que oraban lo creyeron. Y eligió a una muchacha para dar la primera noticia. Dios obra aun cuando nuestra fe es pequeña. La escena recuerda a las mujeres de la mañana de Pascua: a ellas tampoco les creyeron al principio (Lucas 24:11)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si oras por algo, prepárate para la respuesta de Dios: a veces llega a la puerta. Si eres joven y sientes que nadie te toma en serio, Dios también habla por medio de ti. Para los adultos: escuchemos a los jóvenes y a los niños cuando traen buenas noticias. Y para los hombres: Pedro no se rindió; siguió llamando hasta que le abrieron."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Hechos 12:1-19", "nota": "Pedro en la cárcel y la oración de la iglesia." },
+        { "ref": "Lucas 24:9-11", "nota": "A las mujeres tampoco les creyeron al principio." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque escuchas las oraciones de tu iglesia. Dame oídos para reconocer tu voz y alegría para anunciar lo que haces. Y cuando otros no me crean, dame firmeza y humildad. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿alguna vez te dieron una noticia tan buena que no la podías creer?",
+        "La iglesia oraba por Pedro, pero no creyó cuando llegó. ¿Por qué nos cuesta creer que Dios responde?",
+        "Rode insistió aunque le dijeron que estaba loca. ¿Cuándo es importante sostener lo que es verdad?",
+        "¿Cómo podemos escuchar más a los jóvenes y a los niños de nuestra iglesia?",
+        "Dinámica: cada persona recuerda una oración respondida y la comparte con el grupo.",
+        "Para cerrar: lean Hechos 12:12-16 y oren por los cristianos que están presos por su fe."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Pedro estaba en la cárcel, y sus amigos oraban por él. ¡Un ángel lo sacó! Pedro tocó la puerta, y Rode reconoció su voz. Estaba tan feliz que se olvidó de abrir. ¿Qué harías tú con una noticia tan buena?",
+      "actividad": "Jueguen a tocar la puerta y adivinar quién es por la voz. Para memorizar: «la iglesia hacía sin cesar oración» (Hechos 12:5)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde estaba reunida la iglesia orando por Pedro?",
+      "opciones": ["En el templo", "En casa de María, la madre de Marcos", "Frente a la cárcel"],
+      "correcta": 1,
+      "explicacion": "Pedro llegó a casa de María, la madre de Juan Marcos, donde muchos oraban (Hechos 12:12)."
+    },
+    {
+      "pregunta": "¿Por qué Rode no le abrió la puerta a Pedro?",
+      "opciones": ["Tenía miedo de los soldados", "No lo reconoció", "Estaba llena de alegría"],
+      "correcta": 2,
+      "explicacion": "De gozo no abrió, sino que corrió adentro a dar la noticia (Hechos 12:14)."
+    },
+    {
+      "pregunta": "¿Qué dijeron los que oraban cuando Rode anunció que Pedro estaba a la puerta?",
+      "opciones": ["Que estaba loca", "Que abriera enseguida", "Que llamara a Jacobo"],
+      "correcta": 0,
+      "explicacion": "Le dijeron: «Estás loca». Después pensaron que era su ángel (Hechos 12:15)."
+    }
+  ],
+  "estudio": ["hechos-8-12"],
+  "buscar": "Hechos 12:1-17"
+}

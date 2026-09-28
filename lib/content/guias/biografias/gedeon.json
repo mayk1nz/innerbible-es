@@ -1,0 +1,114 @@
+{
+  "id": "gedeon",
+  "titulo": "Gedeón",
+  "subtitulo": "El más pequeño, con trescientos hombres",
+  "etiquetas": ["Antiguo Testamento", "Conquista y jueces", "Manasés"],
+  "enUnMinuto": [
+    "Gedeón es un joven con miedo que trilla trigo a escondidas de sus enemigos.",
+    "Dios lo llama «varón esforzado» y lo envía a librar a Israel con solo trescientos hombres.",
+    "La victoria es de Dios, aunque al final Gedeón también tropieza con el oro."
+  ],
+  "versiculo": {
+    "texto": "Y el ángel de Jehová se le apareció, y díjole: Jehová es contigo, varón esforzado.",
+    "referencia": "Jueces 6:12"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Gedeón probablemente quiere decir «el que corta» o «el que derriba». Después de derribar el altar de Baal, su padre lo llamó Jerobaal (Jueces 6:32).",
+        "Vivió en tiempos de los jueces, entre el 1375 y el 1050 a.C., cuando Israel aún no tenía rey. Era de la tribu de Manasés, del pueblo de Ofra, hijo de Joás."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un pueblo escondido. Israel se aparta de Dios, y los madianitas destruyen sus cosechas cada año. El pueblo clama a Dios (Jueces 6:1-6).",
+        "Trigo a escondidas. Gedeón trilla en un lagar para que no lo vean. El ángel del Señor le dice: «Jehová es contigo, varón esforzado» (Jueces 6:11-12).",
+        "«¿Por qué?». Gedeón pregunta dónde están las maravillas de Dios. Dice que su familia es pobre y que él es el menor (Jueces 6:13-16).",
+        "«Paz a ti». Gedeón teme morir por ver al ángel. Dios le da paz, y él levanta un altar: «el Señor es paz» (Jueces 6:22-24).",
+        "Un primer paso de noche. Dios le pide derribar el altar de Baal de su padre. Gedeón obedece, pero de noche, por miedo (Jueces 6:25-32).",
+        "El vellón de lana. Gedeón pide dos señales con un vellón, y Dios tiene paciencia con él (Jueces 6:36-40).",
+        "Menos es más. De treinta y dos mil hombres, Dios deja solo trescientos. Así nadie podrá decir: «Mi mano me ha salvado» (Jueces 7:2-8).",
+        "Un sueño en el campamento. Dios lo anima: Gedeón oye a un enemigo contar un sueño sobre su derrota, y adora a Dios (Jueces 7:9-15).",
+        "Trompetas, cántaros y antorchas. De noche, rompen los cántaros, brillan las antorchas y gritan. El enemigo huye confundido (Jueces 7:16-22).",
+        "«Jehová será vuestro Señor». El pueblo quiere hacerlo rey, y Gedeón se niega (Jueces 8:22-23).",
+        "Un tropiezo. Con el oro del botín hace un efod, una prenda sagrada. Israel lo convierte en un ídolo, y es una trampa para su familia (Jueces 8:24-27)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Dios eligió al más pequeño para mostrar que la victoria es suya. Pablo dice que Dios escoge lo débil del mundo (1 Corintios 1:27). Gedeón llamó a su altar «el Señor es paz». Siglos después, Jesús resucitado se presenta a sus discípulos asustados y les dice: «Paz a vosotros» (Juan 20:19). Él es nuestra paz (Efesios 2:14)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Dios ve lo que puedes llegar a ser. Gedeón se escondía, y Dios lo llamó valiente. Esta semana: escribe cómo te ve Dios según un versículo.",
+        "La victoria no depende de los números. Dios redujo el ejército para que nadie se gloriara. Esta semana: da gracias a Dios por un logro en vez de atribuírtelo.",
+        "Terminar bien importa. El oro fue una trampa para Gedeón. Esta semana: revisa si algo bueno que tienes se está volviendo más importante que Dios."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Gedeón tuvo miedo, hizo preguntas y pidió señales, y Dios no lo rechazó. ¿Qué te pide Dios que hagas aunque tengas miedo? Puedes dar el primer paso, aunque sea pequeño."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Jueces 6:11-24", "nota": "El llamado en el lagar" },
+        { "ref": "Jueces 6:36-40", "nota": "El vellón de lana" },
+        { "ref": "Jueces 7", "nota": "Los trescientos hombres" },
+        { "ref": "Jueces 8:22-35", "nota": "Rechaza ser rey; el efod" },
+        { "ref": "Hebreos 11:32", "nota": "Gedeón en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Gedeón se escondía porque tenía miedo, pero Dios lo llamó «valiente». ¿Cómo crees que te llama Dios a ti?",
+      "actividad": "Para el adulto: Dios le dijo «yo seré contigo» (Jueces 6:16). Metan una linterna en una caja y ábranla a oscuras: así brilló la luz de Gedeón."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, a veces me siento pequeño y con miedo. Tú me miras y me llamas valiente. Dame tu paz y ayúdame a darte a ti toda la gloria. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Gedeón le dijo a Dios «¿por qué?». ¿Está bien hacerle preguntas así a Dios?",
+        "¿Pedir señales es falta de fe o una ayuda para creer? ¿Qué muestra la paciencia de Dios con Gedeón?",
+        "¿Por qué es tan difícil terminar bien después de un gran éxito?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos hombres dejó Dios a Gedeón para la batalla?",
+      "opciones": ["Doce mil", "Trescientos", "Setenta"],
+      "correcta": 1,
+      "explicacion": "Dios dijo: con estos trescientos hombres os salvaré (Jueces 7:7)."
+    },
+    {
+      "pregunta": "¿Qué llevaban en las manos los hombres de Gedeón aquella noche?",
+      "opciones": ["Espadas y escudos", "Arcos y flechas", "Trompetas, cántaros y antorchas"],
+      "correcta": 2,
+      "explicacion": "Tocaron las trompetas, rompieron los cántaros y alzaron las antorchas (Jueces 7:16-20)."
+    },
+    {
+      "pregunta": "Gedeón llamó a su altar «el Señor es paz». ¿Qué dijo Jesús resucitado a sus discípulos?",
+      "opciones": ["«Paz a vosotros»", "«Id a la guerra»", "«Esperad una señal»"],
+      "correcta": 0,
+      "explicacion": "Jesús se puso en medio de ellos y les dijo: «Paz a vosotros» (Juan 20:19)."
+    }
+  ],
+  "estudio": ["jueces"],
+  "buscar": "Gedeón"
+}

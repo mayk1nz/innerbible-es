@@ -1,0 +1,95 @@
+{
+  "id": "hombre-de-gadara",
+  "titulo": "El hombre de Gadara",
+  "subtitulo": "Milagro 15 de 43 · Sentado, vestido y en paz",
+  "etiquetas": ["Tierra de los gadarenos", "Año 2 · c. 28 d.C.", "Liberación", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Al otro lado del lago vive entre los sepulcros un hombre atormentado que nadie puede ayudar.",
+    "Jesús lo libera, y la gente lo encuentra sentado, vestido y en su sano juicio.",
+    "Jesús lo envía a su casa a contar la misericordia que Dios tuvo con él."
+  ],
+  "versiculo": {
+    "texto": "Mas Jesús no le permitió, sino le dijo: Vete a tu casa, a los tuyos, y cuéntales cuán grandes cosas el Señor ha hecho contigo, y cómo ha tenido misericordia de ti.",
+    "referencia": "Marcos 5:19"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 8:28-34", "nota": "Mateo recuerda a dos hombres atormentados." },
+        { "ref": "Marcos 5:1-20", "nota": "Marcos, el relato más largo, se fija en uno solo." },
+        { "ref": "Lucas 8:26-39", "nota": "Lucas dice que el hombre quedó sentado a los pies de Jesús." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Después de calmar la tempestad, Jesús y sus discípulos llegaron a la otra orilla del lago, a la tierra de los gadarenos. Apenas bajó de la barca, salió a su encuentro un hombre que vivía entre los sepulcros.",
+        "Aquel hombre sufría mucho desde hacía tiempo. Un espíritu inmundo lo atormentaba. Andaba sin ropa y gritaba de día y de noche. Se hacía daño a sí mismo. Lo habían atado con cadenas, pero las rompía. Nadie podía ayudarlo.",
+        "Al ver a Jesús de lejos, corrió y se postró ante él. Jesús mandó salir al espíritu inmundo. Cuando preguntó su nombre, la respuesta fue «Legión», porque eran muchos. Jesús les permitió entrar en una gran piara de cerdos que pacía cerca, y la piara se lanzó al lago.",
+        "Los cuidadores huyeron y lo contaron en el pueblo. La gente vino y encontró al hombre sentado, vestido y en su sano juicio. Pero tuvieron miedo y pidieron a Jesús que se fuera. El hombre quería irse con él. Jesús le dijo que volviera a los suyos y les contara lo que el Señor había hecho. Y él lo anunció por toda la Decápolis."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Gadarenos: gente de la región al este del lago. Mateo dice «Gergesenos», y otras Biblias dicen gerasenos.",
+        "Decápolis: grupo de diez ciudades griegas al este del Jordán, con mayoría de población no judía."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús cruzó el lago y fue a buscar a alguien que todos daban por perdido. Ninguna cadena lo había podido ayudar, pero la palabra de Jesús lo liberó. Para Jesús vale más una persona que una piara entera. Y no se queda con el milagro: le devuelve al hombre su familia, su dignidad y una misión."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Tal vez conoces a alguien que otros ya dieron por perdido, o te sientes así tú mismo. Jesús cruza tormentas para llegar hasta él. Y fíjate en la misión que da: no un gran viaje, sino volver a casa y contar su misericordia. Para hoy: cuenta a alguien de tu familia una cosa buena que Dios hizo contigo."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú no das a nadie por perdido. Pon paz donde hay tormento, en mí y en los que amo. Siéntame a tus pies, en mi sano juicio, y envíame a contar tu misericordia. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre vivía solo y sufría mucho. Nadie podía ayudarlo. Jesús lo sanó, y el hombre quedó tranquilo, vestido y sentado junto a él. ¡Después volvió a su casa a contarlo! ¿Qué cosa buena de Jesús puedes contar tú?",
+      "actividad": "Dibuja al hombre ya en paz, contando a su familia lo que Jesús hizo por él."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los evangelios cuentan esta liberación con sobriedad, y así queremos leerla. No toda angustia o enfermedad mental tiene un origen espiritual. Quien sufre así necesita oración, compañía y ayuda profesional."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo recuerda a dos hombres; Marcos y Lucas se fijan en uno, el que después fue a contarlo. Es como cuando varios testigos cuentan el mismo hecho, cada uno desde donde estaba."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde vivía el hombre atormentado?",
+      "opciones": ["En la sinagoga", "Entre los sepulcros", "En una barca"],
+      "correcta": 1,
+      "explicacion": "Tenía su morada en los sepulcros (Marcos 5:3)."
+    },
+    {
+      "pregunta": "¿Cómo encontró la gente al hombre después?",
+      "opciones": ["Sentado, vestido y en su juicio", "Durmiendo en la orilla", "Huyendo a los montes"],
+      "correcta": 0,
+      "explicacion": "Lo vieron sentado y vestido, y en su juicio cabal (Marcos 5:15)."
+    },
+    {
+      "pregunta": "¿Qué milagro hizo Jesús justo antes de llegar a esa orilla?",
+      "opciones": ["Sanó a la suegra de Pedro", "Multiplicó los panes", "Calmó la tempestad"],
+      "correcta": 2,
+      "explicacion": "Marcos cuenta la tempestad calmada y luego la llegada a la otra orilla (Marcos 4:39-5:1)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 5:1-20"
+}

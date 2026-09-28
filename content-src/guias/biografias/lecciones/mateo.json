@@ -1,0 +1,129 @@
+{
+  "id": "mateo",
+  "titulo": "Mateo",
+  "subtitulo": "El cobrador de impuestos, también llamado Leví",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Capernaum"],
+  "enUnMinuto": [
+    "Mateo cobraba impuestos en Capernaum, un oficio mal visto por su pueblo.",
+    "Jesús pasó por su mesa de cobro y le dijo: «Sígueme», y Mateo se levantó y lo dejó todo.",
+    "Luego hizo una gran fiesta para que otros cobradores y pecadores conocieran a Jesús."
+  ],
+  "versiculo": {
+    "texto": "Y pasando Jesús de allí, vio a un hombre que estaba sentado al banco de los públicos tributos, el cual se llamaba Mateo; y dícele: Sígueme. Y se levantó, y le siguió.",
+    "referencia": "Mateo 9:9"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Mateo viene del hebreo y quiere decir «regalo de Dios». Marcos y Lucas lo llaman Leví, y Marcos añade que era hijo de Alfeo (Marcos 2:14).",
+        "Era publicano, es decir, cobrador de impuestos. Trabajaba sentado a una mesa de cobro junto al mar de Galilea, cerca de Capernaum (Marcos 2:13-14).",
+        "Los publicanos cobraban para los gobernantes que servían a Roma. Muchos cobraban de más. Por eso la gente los despreciaba y los ponía junto a los «pecadores» (Mateo 9:11)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Jesús pasa junto a su mesa de cobro, lo mira y le dice: «Sígueme» (Mateo 9:9).",
+        "Mateo se levanta, deja todas las cosas y sigue a Jesús (Lucas 5:27-28).",
+        "Hace un gran banquete en su casa. Invita a muchos publicanos y a otras personas mal vistas (Lucas 5:29).",
+        "Los fariseos y los escribas se quejan: ¿por qué come Jesús con publicanos y pecadores? (Marcos 2:16).",
+        "Jesús responde: «Los que están sanos no tienen necesidad de médico, sino los enfermos» (Mateo 9:12).",
+        "Y añade: «Misericordia quiero, y no sacrificio», porque vino a llamar a los pecadores (Mateo 9:13).",
+        "Es elegido entre los Doce. En su lista, el Evangelio de Mateo lo llama «Mateo el publicano» (Mateo 10:3).",
+        "En el grupo de los Doce convive con Simón el Zelote. Su sobrenombre quizás indica que se oponía a Roma (Lucas 6:15).",
+        "Después de la ascensión, ora con los demás apóstoles en Jerusalén (Hechos 1:13-14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Nadie esperaba que un maestro de Dios se acercara a una mesa de cobro. Jesús lo hizo. No le pidió a Mateo que cambiara primero para después llamarlo. Lo llamó primero, y el llamado lo cambió. Jesús se presenta como médico: vino por los enfermos, no por los que se creen sanos."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un publicano y un zelote",
+      "parrafos": [
+        "Entre los Doce estaba Mateo, que había trabajado para el sistema de impuestos. También estaba Simón, llamado el Zelote. Ese nombre quizás indica que había estado contra el dominio de Roma.",
+        "En otras circunstancias, quizás habrían sido enemigos. Con Jesús compartieron el camino, el pan y la misión. Él puede unir lo que parecía imposible de unir."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Nadie está demasiado lejos para Jesús. Esta semana: ora por alguien que te parece imposible de cambiar.",
+        "La fe se comparte en la mesa. Mateo abrió su casa. Esta semana: invita a comer a alguien que todavía no conoce a Jesús.",
+        "En Cristo cabe quien piensa distinto. Esta semana: busca a un hermano con quien no coincides y escúchalo sin discutir."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Casi todos entienden que Mateo y Leví son el mismo hombre. Los tres Evangelios cuentan el mismo llamado (Mateo 9:9; Marcos 2:14; Lucas 5:27).",
+        "Su padre se llamaba Alfeo (Marcos 2:14). El padre de Santiago el apóstol también. La Biblia no dice si eran hermanos.",
+        "El Evangelio de Mateo no dice quién lo escribió. Su título se añadió después."
+      ],
+      "tradicion": [
+        "Desde el siglo II, la tradición le atribuye el Evangelio que lleva su nombre.",
+        "Papías, citado por Eusebio, cuenta que Mateo reunió las palabras de Jesús en la lengua de los hebreos.",
+        "Según distintas tradiciones, predicó a los judíos y luego en otras tierras, como Etiopía o Persia. Muchos cristianos recuerdan que murió como mártir.",
+        "En el arte cristiano se lo representa con un ángel, uno de los cuatro seres vivientes de Apocalipsis 4."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Mateo 9:9-13", "nota": "Jesús lo llama" },
+        { "ref": "Marcos 2:13-17", "nota": "Leví, hijo de Alfeo" },
+        { "ref": "Lucas 5:27-32", "nota": "El gran banquete" },
+        { "ref": "Mateo 10:3", "nota": "«Mateo el publicano»" },
+        { "ref": "Hechos 1:13", "nota": "Orando con los once" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Mucha gente no quería a Mateo, pero Jesús lo invitó a ser su amigo. ¿A quién podrías invitar tú a jugar?",
+      "actividad": "Para el adulto: piensen en un niño que suele quedarse solo en la escuela o en la iglesia. Planeen juntos cómo incluirlo esta semana."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias porque me llamaste cuando yo no lo merecía. Ayúdame a abrir mi casa y mi mesa, para que otros te conozcan. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Quiénes son hoy los «publicanos», las personas que nadie quiere cerca?",
+        "¿Qué significa que Jesús sea médico y no juez de los enfermos?",
+        "Mateo y Simón el Zelote en el mismo grupo: ¿qué nos dice eso de nuestra iglesia?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuál era el oficio de Mateo antes de seguir a Jesús?",
+      "opciones": ["Pescador", "Cobrador de impuestos", "Carpintero"],
+      "correcta": 1,
+      "explicacion": "Mateo era publicano: estaba sentado al banco de los tributos cuando Jesús lo llamó (Mateo 9:9)."
+    },
+    {
+      "pregunta": "¿Con qué otro nombre llaman a Mateo los Evangelios de Marcos y Lucas?",
+      "opciones": ["Leví", "Lebeo", "Tadeo"],
+      "correcta": 0,
+      "explicacion": "Marcos y Lucas cuentan el mismo llamado, pero con el nombre de Leví (Marcos 2:14; Lucas 5:27)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús cuando criticaron que comiera en casa de Mateo?",
+      "opciones": ["Que los publicanos ya eran justos", "Que la fiesta era solo para sus discípulos", "Que los enfermos necesitan médico"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo: «Los que están sanos no tienen necesidad de médico, sino los enfermos» (Mateo 9:12)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Mateo, el publicano"
+}

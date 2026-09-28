@@ -1,0 +1,136 @@
+{
+  "id": "rahab",
+  "titulo": "Rahab",
+  "subtitulo": "La del cordón de grana",
+  "etiquetas": ["Conquista · c. 1406 a.C. (debatida)", "Josué 2 y 6", "Segundas oportunidades", "Valentía"],
+  "enUnMinuto": [
+    "Rahab vive en Jericó, en una casa sobre la muralla, y la Biblia no esconde que tenía un pasado difícil.",
+    "Ha oído lo que Dios hizo por Israel, cree en Él y arriesga su vida escondiendo a dos espías.",
+    "Un cordón rojo en su ventana salva a toda su familia, y Rahab termina en el árbol familiar de Jesús."
+  ],
+  "versiculo": {
+    "texto": "Oyendo esto, ha desmayado nuestro corazón; ni ha quedado más espíritu en alguno por causa de vosotros: porque Jehová vuestro Dios es Dios arriba en los cielos y abajo en la tierra.",
+    "referencia": "Josué 2:11"
+  },
+  "bloques": [
+    {
+      "tipo": "lista",
+      "titulo": "Su nombre y su tiempo",
+      "items": [
+        "Nombre: Rahab. Suele entenderse como “amplia” o “espaciosa”. En Mateo 1:5, la Reina-Valera 1909 escribe «Rachâb».",
+        "Origen: cananea, de la ciudad de Jericó.",
+        "Época: la entrada de Israel en Canaán, c. 1406 a.C. Otros proponen c. 1230 a.C.",
+        "Para leer: Josué 2; 6:22-25; Hebreos 11:31 y Mateo 1:5."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Israel está a punto de entrar en Canaán. Josué envía a dos espías a Jericó, y ellos se alojan en la casa de Rahab. La Biblia la llama «ramera». No esconde su pasado, pero tampoco la deja atrapada en él. Su casa está en la muralla de la ciudad.",
+        "El rey se entera y manda a buscarlos. Rahab los esconde en la azotea, entre manojos de lino. A los soldados les dice que los hombres ya se fueron y que corran tras ellos. Los soldados salen de la ciudad, y las puertas se cierran.",
+        "Esa noche, Rahab sube a hablar con los espías. Les cuenta que todo Jericó tiene miedo. Han oído cómo Dios secó el mar cuando Israel salió de Egipto. Y entonces confiesa su fe: «Jehová vuestro Dios es Dios arriba en los cielos y abajo en la tierra».",
+        "Rahab les pide que salven a su padre, a su madre y a sus hermanos. Ellos lo juran. Ella los baja con una cuerda por la ventana. Le dan una señal: un cordón de color rojo, de grana, atado a esa misma ventana. Toda su familia debe quedarse dentro de la casa.",
+        "Cuando Jericó cae, Josué manda sacar a Rahab y a toda su familia, como se había prometido. Rahab se queda a vivir en medio de Israel. Mateo cuenta que de Salmón y Rahab nació Booz, el bisabuelo del rey David."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una fe que se juega todo",
+      "parrafos": [
+        "Rahab no conocía la Ley ni había visto los milagros. Solo había oído hablar de Dios. Lo que oyó le bastó para creer. Y creyó con hechos: abrió su casa, escondió a los espías y ató el cordón. Hebreos 11:31 dice que lo hizo «por fe». Santiago 2:25 dice que su fe se vio en sus obras. Las dos cosas van juntas."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios salvó a una mujer extranjera, con un pasado del que otros se burlarían, y la puso en la familia del Mesías. Mateo la nombra entre los antepasados de Jesús (Mateo 1:5). El Salvador no se avergüenza de su árbol familiar. Vino precisamente por personas como Rahab, como tú y como yo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás hay algo en tu pasado que te da vergüenza, o que otros no te dejan olvidar. Rahab muestra que tu historia no termina ahí. Dios no te pide que primero te limpies para acercarte. Te invita a confiar en Él hoy. Y Él puede escribir tu nombre en una historia de gracia."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "También para ti",
+      "items": [
+        "Si te pesa lo que hiciste o lo que te hicieron: en la familia de Jesús hay lugar para ti.",
+        "Si oras por tu familia: Rahab pidió por su padre, su madre y sus hermanos, y Dios los salvó a todos.",
+        "Para los hombres: los espías y Josué cumplieron su palabra con una mujer despreciada. Un hombre de Dios honra sus promesas.",
+        "Para los jóvenes: Rahab creyó distinto a toda su ciudad. Se puede seguir a Dios aunque nadie a tu alrededor lo haga."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "La llama «ramera» varias veces, y también dice que fue salvada «por fe».",
+        "Rahab mintió a los soldados. La Biblia alaba su fe, pero no dice que mentir sea bueno."
+      ],
+      "tradicion": [
+        "Algunos lectores antiguos pensaron que también era posadera. El texto no da más detalles.",
+        "Desde el siglo I, algunos cristianos vieron en el cordón rojo una imagen de la sangre de Cristo."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Para quien guía: cuenta el pasado de Rahab con delicadeza y sin bromas. Con niños, basta decir que no era del pueblo de Dios, pero creyó en Él. La caída de Jericó también puede adaptarse sin detalles de guerra."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Josué 2", "nota": "Rahab esconde a los espías." },
+        { "ref": "Josué 6:22-25", "nota": "Rahab y su familia se salvan." },
+        { "ref": "Hebreos 11:31", "nota": "Salvada por fe." },
+        { "ref": "Santiago 2:25", "nota": "Una fe que se ve en obras." },
+        { "ref": "Mateo 1:5", "nota": "En la familia de Jesús." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque no me defines por mi pasado. Como Rahab, creo que tú eres Dios arriba en los cielos y abajo en la tierra. Salva a mi familia. Y gracias por Jesús, que me recibe en tu casa. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para romper el hielo: ¿alguna vez alguien te dio una segunda oportunidad que no esperabas?",
+        "Rahab solo había oído hablar de Dios, y creyó. ¿Qué te hizo creer a ti?",
+        "¿Por qué crees que Mateo incluyó a Rahab en la lista de los antepasados de Jesús?",
+        "¿A quién le cuesta hoy acercarse a la iglesia por su pasado? ¿Cómo podemos abrirle la puerta?",
+        "Rahab pidió por toda su familia. ¿Por quién de tu familia quieres orar?",
+        "Dinámica y cierre: cada una ata un hilo rojo en su muñeca como recordatorio de la gracia. Oren juntas por sus familias."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Rahab vivía en Jericó y no era del pueblo de Dios. Pero oyó lo que Dios había hecho y creyó. Escondió a dos espías, y Dios cuidó a su familia. ¿Por quién de tu familia quieres orar?",
+      "actividad": "Dibuja una casa con una ventana y pega un hilo o una lana roja colgando de ella."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde escondió Rahab a los espías?",
+      "opciones": ["En un pozo seco", "En la azotea, entre manojos de lino", "En el templo de la ciudad"],
+      "correcta": 1,
+      "explicacion": "Josué 2:6 dice que los escondió en el terrado, entre tascos de lino."
+    },
+    {
+      "pregunta": "¿Qué señal ató Rahab a su ventana?",
+      "opciones": ["Un pañuelo blanco", "Una lámpara encendida", "Un cordón de grana"],
+      "correcta": 2,
+      "explicacion": "Los espías le pidieron atar un cordón de grana a la ventana para salvar a su familia (Josué 2:18)."
+    },
+    {
+      "pregunta": "¿En qué lista del Nuevo Testamento aparece Rahab?",
+      "opciones": ["En la genealogía de Jesús", "En la lista de los Doce", "En los saludos de Romanos"],
+      "correcta": 0,
+      "explicacion": "Mateo 1:5 dice que Salmón engendró de Rahab a Booz. Rahab es antepasada de Jesús."
+    }
+  ],
+  "estudio": ["josue"],
+  "buscar": "Rahab"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "mujer-que-toco-su-manto",
+  "titulo": "La mujer que tocó su manto",
+  "subtitulo": "Milagro 16 de 43 · «Hija, tu fe te ha hecho salva»",
+  "etiquetas": ["Capernaúm, junto al lago", "Año 2 · c. 28 d.C.", "Curación", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Una mujer enferma desde hace doce años toca en secreto el manto de Jesús entre la multitud.",
+    "Queda sana al instante, y Jesús se detiene a buscar a quien lo tocó.",
+    "Ella le cuenta toda la verdad, y Jesús la llama «hija» y la despide en paz."
+  ],
+  "versiculo": {
+    "texto": "Y él le dijo: Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote.",
+    "referencia": "Marcos 5:34"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 9:20-22", "nota": "Mateo dice que tocó la franja del vestido de Jesús." },
+        { "ref": "Marcos 5:25-34", "nota": "Marcos cuenta todo lo que ella había sufrido con muchos médicos." },
+        { "ref": "Lucas 8:43-48", "nota": "Lucas cuenta que ella lo declaró delante de todo el pueblo." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús iba camino a la casa de Jairo, y la multitud lo apretaba por todos lados. Entre la gente había una mujer que llevaba doce años con un flujo de sangre. Había sufrido mucho con muchos médicos y había gastado todo lo que tenía. En vez de mejorar, estaba peor.",
+        "Según la ley, esa enfermedad la dejaba impura. Por eso vivía apartada del culto y de muchas cosas de la vida diaria. Ella pensaba: «Si tocare tan solamente su vestido, seré salva». Se acercó por detrás y tocó el borde de su manto. En ese mismo momento sintió que estaba sana.",
+        "Jesús se dio cuenta de que un poder había salido de él. Se volvió y preguntó: «¿Quién ha tocado mis vestidos?». Los discípulos se extrañaron: con tanta gente apretándolo, ¿cómo preguntaba eso? Pero Jesús seguía mirando alrededor.",
+        "La mujer, temblando de miedo, se acercó y se echó a sus pies. Le contó toda la verdad delante de todos. Jesús no la regañó. Le dijo: «Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús no es una fuerza anónima: es una persona que quiere encontrarse con nosotros. Pudo dejar que la mujer se fuera sanada y en silencio. Pero se detuvo para mirarla, escucharla y devolverle su lugar ante todos. La llamó «hija»: ya no era una extraña, era de la familia. Sanó su cuerpo y también su vergüenza."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizás llevas años cargando algo en silencio y ya lo intentaste todo. Esta mujer se acercó a Jesús con miedo, por detrás, casi a escondidas. Y Jesús la recibió igual. Tú también puedes acercarte como puedas. Él no quiere que te quedes escondido: quiere llamarte «hijo» o «hija». Para hoy: cuéntale a Jesús, en oración, toda la verdad."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, me acerco a ti como puedo, con mis miedos y mis años de cansancio. Quiero tocar tu manto con fe. Mírame, llámame por mi nombre y dame tu paz. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una señora estuvo enferma doce años. Pensó que, si tocaba la ropa de Jesús, sanaría. ¡Y sanó! Jesús la buscó entre la gente y la llamó «hija», con cariño. ¿Sabías que Jesús te conoce y te quiere?",
+      "actividad": "Busca una tela o un pañuelo. Mientras lo tocas, di una oración corta por alguien enfermo."
+    },
+    {
+      "tipo": "nota",
+      "texto": "La historia no habla en contra de los médicos. Cuenta el dolor de una mujer que lo había intentado todo. Orar y buscar ayuda médica van juntos, y Dios puede obrar por ambos caminos."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? La ley pedía a los israelitas llevar franjas en los bordes del manto, para recordar los mandamientos (Números 15:38-39). Probablemente eso fue lo que ella tocó."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Levítico 15:25", "nota": "La ley sobre la mujer con flujo de sangre, que la dejaba impura." },
+        { "ref": "Malaquías 4:2", "nota": "El Sol de justicia «en sus alas traerá salud»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos años llevaba enferma la mujer?",
+      "opciones": ["Doce", "Treinta y ocho", "Tres"],
+      "correcta": 0,
+      "explicacion": "Tenía flujo de sangre desde hacía doce años (Marcos 5:25)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús cuando sintió que alguien lo había tocado?",
+      "opciones": ["Siguió caminando sin decir nada", "Se detuvo y preguntó quién lo había tocado", "Pidió a la gente que se alejara"],
+      "correcta": 1,
+      "explicacion": "Se volvió y preguntó: ¿Quién ha tocado mis vestidos? (Marcos 5:30)."
+    },
+    {
+      "pregunta": "¿Adónde iba Jesús cuando la mujer lo tocó?",
+      "opciones": ["Al templo de Jerusalén", "A la casa de Pedro", "A la casa de Jairo"],
+      "correcta": 2,
+      "explicacion": "Iba con Jairo a ver a su hija enferma (Marcos 5:22-24)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 5:25-34"
+}

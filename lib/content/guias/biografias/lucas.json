@@ -1,0 +1,124 @@
+{
+  "id": "lucas",
+  "titulo": "Lucas",
+  "subtitulo": "El médico amado que escribió dos libros",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "Con Pablo, hasta Roma"],
+  "enUnMinuto": [
+    "Lucas era médico y compañero de viaje de Pablo.",
+    "La tradición cristiana le atribuye dos libros: el Evangelio de Lucas y los Hechos de los Apóstoles.",
+    "Cuando casi todos se habían ido, Lucas se quedó junto a Pablo hasta el final."
+  ],
+  "versiculo": {
+    "texto": "Me ha parecido también a mí, después de haber entendido todas las cosas desde el principio con diligencia, escribírtelas por orden, oh muy buen Teófilo, Para que conozcas la verdad de las cosas en las cuales has sido enseñado.",
+    "referencia": "Lucas 1:3-4"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "La Biblia nombra a Lucas solo tres veces. Pablo lo llama «el médico amado» (Colosenses 4:14) y su colaborador (Filemón 1:24). Su nombre es griego.",
+        "En Colosenses 4, Pablo nombra primero a sus ayudantes judíos y después a Lucas. Por eso muchos piensan que Lucas no era judío. Sería el único autor no judío de la Biblia, aunque no es seguro."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Investigar con cuidado. El autor del tercer Evangelio cuenta que averiguó todo desde el principio, con testigos. Lo escribió en orden para un tal Teófilo (Lucas 1:1-4).",
+        "La segunda parte. Hechos empieza hablando del «primer tratado» escrito a Teófilo. Así sabemos que el mismo autor escribió los dos libros (Hechos 1:1-2).",
+        "«Procuramos partir». En Troas, el relato de Hechos pasa de “ellos” a “nosotros”. El autor se sumó al viaje de Pablo a Macedonia (Hechos 16:8-10).",
+        "Junto al río, en Filipos. El “nosotros” sigue en Filipos, donde Lidia escuchó y creyó con toda su familia (Hechos 16:11-15).",
+        "Rumbo a Jerusalén. Más tarde, el “nosotros” vuelve a aparecer en el viaje de Pablo desde Filipos hasta Jerusalén (Hechos 20:5-21:18).",
+        "Un naufragio y Roma. El autor narra en primera persona el viaje por mar, la tormenta y la llegada a Roma (Hechos 27:1-28:16).",
+        "Fiel en la prisión. Con Pablo preso, Lucas seguía a su lado como colaborador (Colosenses 4:14; Filemón 1:24).",
+        "«Lucas solo está conmigo». En su última carta, Pablo dice que muchos se habían ido. Lucas se quedó (2 Timoteo 4:10-11)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "El Evangelio de Lucas muestra a un Jesús cercano a los pobres, a las mujeres, a los enfermos y a los extranjeros. Solo Lucas cuenta el buen samaritano, el hijo pródigo y Zaqueo. Su mensaje cabe en una frase: Jesús vino «a buscar y a salvar lo que se había perdido» (Lucas 19:10)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "La fe no teme a las preguntas. Lucas investigó con cuidado. Esta semana, lee Lucas 1:1-4 y anota una pregunta sobre Jesús para estudiar.",
+        "Quedarse cuando otros se van. Lucas acompañó a Pablo en la cárcel. Esta semana, visita o llama a alguien que está pasando un tiempo difícil.",
+        "Poner tus dones al servicio de Dios. Lucas fue médico y escritor para el Señor. Esta semana, ofrece a tu iglesia algo que sabes hacer bien."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Lucas escribió «para que conozcas la verdad». Él quería que la fe de Teófilo tuviera bases firmes. ¿Qué parte de tu fe quieres conocer mejor? Empieza a leer el Evangelio de Lucas, un capítulo por día."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era médico, amado por Pablo (Colosenses 4:14).",
+        "Fue colaborador de Pablo y estuvo con él en la prisión (Filemón 1:24; 2 Timoteo 4:11).",
+        "El Evangelio y Hechos no dicen el nombre de su autor. Los dos están dedicados a Teófilo (Lucas 1:3; Hechos 1:1).",
+        "La Biblia no cuenta el final de su vida."
+      ],
+      "tradicion": [
+        "Desde el siglo II, la Iglesia atribuye a Lucas el tercer Evangelio y los Hechos.",
+        "Algunos escritores antiguos dicen que era de Antioquía de Siria.",
+        "Un prólogo antiguo cuenta que murió en Grecia a los 84 años, sin casarse.",
+        "Una tradición querida, sobre todo en las iglesias ortodoxas, cuenta que pintó el primer retrato de María.",
+        "Es patrono de médicos y pintores. Muchas iglesias lo recuerdan el 18 de octubre."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "No lo confundas con Lucio de Cirene (Hechos 13:1), un maestro de la iglesia de Antioquía. Son nombres parecidos, pero la Biblia no dice que sean la misma persona."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Colosenses 4:14", "nota": "El médico amado" },
+        { "ref": "Filemón 1:24", "nota": "Colaborador de Pablo" },
+        { "ref": "2 Timoteo 4:11", "nota": "Solo Lucas está conmigo" },
+        { "ref": "Lucas 1:1-4", "nota": "Por qué escribió" },
+        { "ref": "Hechos 1:1-2", "nota": "El primer tratado" },
+        { "ref": "Hechos 16:10-17", "nota": "El primer “nosotros”" },
+        { "ref": "Hechos 27:1-28:16", "nota": "El viaje a Roma" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Lucas era médico y ayudaba a los enfermos. También escribió la historia de Jesús con mucho cuidado. ¿Te gustaría escribir o dibujar tu historia favorita de Jesús?",
+      "actividad": "Para papás y abuelos: Lucas escribió para que conozcamos la verdad sobre Jesús (Lucas 1:4). Lean juntos Lucas 15:3-7, la oveja perdida, y dibújenla."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias por Lucas, que contó tu historia con cuidado. Dame hambre de conocerte mejor. Y hazme un amigo fiel, que se queda cuando otros se van. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué oficio tenía Lucas, según Pablo?",
+      "opciones": ["Pescador", "Médico", "Cobrador de impuestos"],
+      "correcta": 1,
+      "explicacion": "Pablo lo llama «el médico amado» (Colosenses 4:14)."
+    },
+    {
+      "pregunta": "¿A quién están dedicados el Evangelio de Lucas y Hechos?",
+      "opciones": ["A Timoteo", "A Cornelio", "A Teófilo"],
+      "correcta": 2,
+      "explicacion": "Los dos libros se dirigen a Teófilo (Lucas 1:3; Hechos 1:1)."
+    },
+    {
+      "pregunta": "¿Qué parábola cuenta solo el Evangelio de Lucas?",
+      "opciones": ["El hijo pródigo", "El sembrador", "La semilla de mostaza"],
+      "correcta": 0,
+      "explicacion": "Solo Lucas narra el hijo pródigo (Lucas 15:11-32)."
+    }
+  ],
+  "estudio": ["anuncios", "hechos-15-18"],
+  "buscar": "Lucas"
+}

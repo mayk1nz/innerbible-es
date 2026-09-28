@@ -1,0 +1,133 @@
+{
+  "id": "david",
+  "titulo": "David",
+  "subtitulo": "El pastor que llegó a ser rey",
+  "etiquetas": ["Antiguo Testamento", "El reino", "Belén y Jerusalén"],
+  "enUnMinuto": [
+    "David es el hijo menor de una familia de pastores de Belén, y Dios lo elige como rey.",
+    "Vence a Goliat, escribe salmos y une a Israel, pero también peca gravemente con Betsabé y contra su esposo.",
+    "Cuando el profeta lo confronta, se arrepiente de corazón, y Dios le promete un reino eterno que se cumple en Jesús."
+  ],
+  "versiculo": {
+    "texto": "Crea en mí, oh Dios, un corazón limpio; y renueva un espíritu recto dentro de mí.",
+    "referencia": "Salmos 51:10"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "David probablemente quiere decir «amado». Dios lo describe como un hombre «según su corazón» (1 Samuel 13:14; Hechos 13:22). Él mismo se llamó «el suave en cánticos de Israel» (2 Samuel 23:1).",
+        "Nació en Belén, de la tribu de Judá, hacia el 1040 a.C. Empezó a reinar a los treinta años y reinó cuarenta. Fueron siete en Hebrón y treinta y tres en Jerusalén (2 Samuel 5:4-5). Es decir, hacia el 1010–970 a.C.",
+        "Era el menor de los ocho hijos de Isaí y bisnieto de Rut, la moabita (Rut 4:17). Tuvo varias esposas, entre ellas Mical, Abigail y Betsabé. Entre sus hijos están Absalón y Salomón."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Dios mira el corazón. Samuel llega a Belén a ungir un rey. Pasan siete hijos de Isaí, y Dios elige al menor, que cuida las ovejas (1 Samuel 16:1-13).",
+        "El arpa en el palacio. David toca el arpa para calmar al rey Saúl y se hace su ayudante (1 Samuel 16:14-23).",
+        "Frente a Goliat. Nadie se atreve con el gigante filisteo. David va «en el nombre de Jehová» y lo vence con una honda y una piedra (1 Samuel 17:32-50).",
+        "Un amigo del alma. Jonatán, el hijo de Saúl, lo ama como a sí mismo. Los dos hacen un pacto de amistad (1 Samuel 18:1-4).",
+        "Perseguido, pero sin venganza. Saúl quiere matarlo, y David huye. Dos veces tiene a Saúl a su alcance y no le hace daño (1 Samuel 24; 26).",
+        "Rey de todo Israel. Primero reina sobre Judá en Hebrón, y después todas las tribus lo ungen. Hace de Jerusalén su capital (2 Samuel 2:4; 5:1-10).",
+        "Baila delante de Dios. Lleva el arca de Dios a Jerusalén y baila con todas sus fuerzas de alegría (2 Samuel 6:12-16).",
+        "Una promesa para siempre. David quiere construir un templo. Dios le promete algo mayor: su familia y su reino durarán para siempre (2 Samuel 7:8-16).",
+        "Bondad con el hijo de su amigo. Busca a Mefiboset, el hijo de Jonatán, y lo sienta para siempre a su mesa (2 Samuel 9).",
+        "La caída. En vez de ir a la guerra, se queda en casa. Toma a Betsabé, esposa de Urías, y después hace que Urías muera en la batalla (2 Samuel 11).",
+        "«Tú eres aquel hombre». El profeta Natán le cuenta una historia y lo confronta. David no se defiende: «Pequé contra Jehová». Dios lo perdona (2 Samuel 12:1-13).",
+        "Un salmo de arrepentimiento. David pide a Dios un corazón limpio (Salmo 51). Más tarde nace Salomón, a quien Dios ama (2 Samuel 12:24).",
+        "Dolor en su casa. Su hijo Absalón se rebela y David tiene que huir de Jerusalén. Cuando Absalón muere, David llora por él (2 Samuel 15:13-14; 18:33).",
+        "El final. Ya anciano, deja el reino a Salomón y le encarga construir el templo. Muere y lo sepultan en la ciudad de David (1 Reyes 2:1-11)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Dios prometió a David que su trono duraría para siempre (2 Samuel 7:16). El ángel anunció que Jesús recibiría «el trono de David su padre». Su reino no tendría fin (Lucas 1:32-33). Jesús nació en Belén, la ciudad de David, y la gente lo aclamó como «Hijo de David» (Mateo 21:9). David fue un pastor; Jesús es el buen pastor que da la vida por sus ovejas (Juan 10:11)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Los gigantes se enfrentan con Dios. David no confió en la armadura, sino en el Señor. Esta semana: nombra tu «gigante» y ora por él cada día.",
+        "Nadie está libre de caer. David cayó cuando descuidó su lugar y sus ojos. Esta semana: identifica un momento del día en que eres más débil y protégelo.",
+        "El arrepentimiento sincero abre la puerta al perdón. David no se excusó ante Natán. Esta semana: lee despacio el Salmo 51 y haz tuya su oración."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "David no fue perfecto, pero volvía a Dios con el corazón quebrantado. Si hay algo que te pesa, no lo escondas. Dios no desprecia a quien vuelve a Él con sinceridad (Salmos 51:17)."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Muchos salmos llevan el título «Salmo de David», como el 23 y el 51.",
+        "David fue sepultado en la ciudad de David, la parte más antigua de Jerusalén (1 Reyes 2:10).",
+        "Dios no le permitió construir el templo porque había hecho muchas guerras; lo construiría su hijo Salomón (1 Crónicas 22:7-10)."
+      ],
+      "tradicion": [
+        "La tradición señala en el monte Sion, en Jerusalén, un sepulcro llamado la tumba de David. Se venera allí desde la Edad Media.",
+        "Desde los primeros siglos, los cristianos agrupan siete salmos de arrepentimiento. Entre ellos está el Salmo 51."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "1 Samuel 16", "nota": "Ungido en Belén" },
+        { "ref": "1 Samuel 17", "nota": "David y Goliat" },
+        { "ref": "1 Samuel 24", "nota": "Perdona la vida de Saúl" },
+        { "ref": "2 Samuel 7", "nota": "La promesa de un reino eterno" },
+        { "ref": "2 Samuel 11–12", "nota": "Su pecado y su arrepentimiento" },
+        { "ref": "Salmos 23", "nota": "«Jehová es mi pastor»" },
+        { "ref": "Salmos 51", "nota": "Su oración de arrepentimiento" },
+        { "ref": "Lucas 1:30-33", "nota": "Jesús recibe el trono de David" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "David era chico, y Goliat era un gigante. David no tenía miedo porque confiaba en Dios. ¿Qué cosa grande te da miedo a ti?",
+      "actividad": "Para el adulto: David dijo que Dios lo había librado antes y lo libraría otra vez (1 Samuel 17:37). Recuerden juntos una vez en que Dios los ayudó."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú eres mi pastor. Cuando enfrente gigantes, dame la fe de David. Cuando caiga, crea en mí un corazón limpio. Gracias por Jesús, el Hijo de David, mi Rey. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Dios llama a David un hombre «según su corazón», si cometió pecados tan graves?",
+        "¿Qué diferencia ven entre el arrepentimiento de David y el de Saúl?",
+        "David perdonó a Saúl y cuidó a Mefiboset. ¿A quién podrías mostrar hoy esa bondad?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Con qué venció David a Goliat?",
+      "opciones": ["Con la espada de Saúl", "Con una honda y una piedra", "Con un arco y flechas"],
+      "correcta": 1,
+      "explicacion": "David venció al filisteo con honda y piedra, sin espada en la mano (1 Samuel 17:50)."
+    },
+    {
+      "pregunta": "¿Qué respondió David cuando el profeta Natán lo confrontó?",
+      "opciones": ["«Pequé contra Jehová»", "«Yo no hice nada»", "«Fue culpa de otros»"],
+      "correcta": 0,
+      "explicacion": "David reconoció su culpa, y Natán le dijo que Dios había perdonado su pecado (2 Samuel 12:13)."
+    },
+    {
+      "pregunta": "Dios prometió a David un reino eterno. ¿Quién recibe «el trono de David su padre»?",
+      "opciones": ["Salomón", "Absalón", "Jesús"],
+      "correcta": 2,
+      "explicacion": "El ángel dijo a María que Jesús reinaría para siempre en el trono de David (Lucas 1:32-33)."
+    }
+  ],
+  "estudio": ["2-samuel", "1-samuel"],
+  "buscar": "David"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "suegra-de-pedro",
+  "titulo": "La suegra de Pedro",
+  "subtitulo": "Milagro 5 de 43 · Un milagro en casa",
+  "etiquetas": ["Casa de Pedro, Capernaúm", "Año 2 · c. 28 d.C.", "Curación", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Al salir de la sinagoga, Jesús entra en la casa de Simón Pedro.",
+    "La suegra de Pedro está en cama con mucha fiebre; Jesús la toma de la mano y la levanta.",
+    "La fiebre se va enseguida, y ella se pone a servirles."
+  ],
+  "versiculo": {
+    "texto": "Entonces llegando él, la tomó de su mano y la levantó; y luego la dejó la calentura, y les servía.",
+    "referencia": "Marcos 1:31"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 8:14-15", "nota": "Mateo dice que Jesús vio a la enferma y tocó su mano." },
+        { "ref": "Marcos 1:29-31", "nota": "Marcos nombra a los que estaban: Simón, Andrés, Jacobo y Juan." },
+        { "ref": "Lucas 4:38-39", "nota": "Lucas habla de una gran fiebre y dice que Jesús la reprendió." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Era sábado en Capernaúm. Jesús acababa de liberar a un hombre en la sinagoga. Al salir, fue a la casa de Simón y de Andrés, junto con Jacobo y Juan.",
+        "Allí estaba acostada la suegra de Simón, con una fiebre muy alta. Enseguida le hablaron a Jesús de ella y le rogaron que la ayudara. No era un milagro ante una multitud: era una necesidad dentro de una casa.",
+        "Jesús se acercó a la cama. Lucas dice que se inclinó hacia ella y reprendió a la fiebre. Marcos cuenta que la tomó de la mano y la levantó. En ese mismo momento la fiebre la dejó.",
+        "Ella no necesitó días para reponerse. Se levantó y comenzó a servirles. La casa que estaba preocupada ahora tenía a Jesús a la mesa, atendido por la mujer que él acababa de sanar."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús no solo obra en lugares públicos: entra en las casas y se ocupa de las necesidades de la familia. Su sanidad es cercana: se inclina, toma la mano, levanta. Y es completa: la mujer queda con fuerzas para servir enseguida. Jesús también vino a servir, y quienes reciben su ayuda aprenden a servir."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Los discípulos hicieron algo sencillo: le hablaron a Jesús de una persona enferma de la casa. Tú puedes hacer lo mismo por los tuyos. Y si Jesús te ha levantado de algún mal momento, tu gratitud puede tomar forma de servicio. Para hoy: ora por alguien de tu familia por su nombre y haz algo concreto para servirle."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, entra también en mi casa. Te hablo de los que están enfermos o cansados en mi familia. Tómalos de la mano y levántalos. Y a mí, enséñame a servir con alegría. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "La suegra de Pedro estaba en cama con fiebre. Jesús la tomó de la mano y la fiebre se fue. ¡Ella se levantó y preparó algo para todos! ¿A quién de tu casa puedes ayudar hoy?",
+      "actividad": "Ayuda a poner la mesa esta noche y cuenta en la cena la historia de la suegra de Pedro."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Simón Pedro y su hermano Andrés tenían una casa en Capernaúm (Marcos 1:29).",
+        "Allí vivía también la suegra de Pedro, y Jesús entró en esa casa (Mateo 8:14)."
+      ],
+      "tradicion": [
+        "En Capernaúm se conservan los restos de una casa del siglo I.",
+        "Una antigua tradición la identifica como la casa de Pedro, y hoy los peregrinos la visitan."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sanó a esta mujer con su toque. Esta historia no promete que toda fiebre se vaya así. Orar por los enfermos y cuidarlos con ayuda médica van juntos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Marcos 10:45", "nota": "Jesús dice que el Hijo del hombre «tampoco vino para ser servido, mas para servir»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué enfermedad tenía la suegra de Pedro?",
+      "opciones": ["Lepra", "Fiebre", "Ceguera"],
+      "correcta": 1,
+      "explicacion": "Estaba en cama con fiebre, y la fiebre la dejó (Marcos 1:30-31)."
+    },
+    {
+      "pregunta": "¿Qué hizo ella en cuanto sanó?",
+      "opciones": ["Se durmió para descansar", "Salió a contarlo en el pueblo", "Se levantó y les servía"],
+      "correcta": 2,
+      "explicacion": "Los tres evangelios dicen que se levantó y les servía."
+    },
+    {
+      "pregunta": "¿Qué había pasado en la sinagoga justo antes?",
+      "opciones": ["Jesús liberó a un hombre atormentado", "Jesús convirtió el agua en vino", "Jesús multiplicó los panes"],
+      "correcta": 0,
+      "explicacion": "Al salir de la sinagoga, donde liberó a un hombre, fue a esa casa (Marcos 1:29)."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "galilea-milagros"],
+  "buscar": "Marcos 1:29-31"
+}

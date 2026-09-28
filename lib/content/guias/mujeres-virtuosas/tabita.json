@@ -1,0 +1,105 @@
+{
+  "id": "tabita",
+  "titulo": "Tabita (Dorcas)",
+  "subtitulo": "Manos llenas de bien",
+  "etiquetas": ["c. 35–40 d.C.", "Jope, junto al mar", "servicio", "viudez"],
+  "enUnMinuto": [
+    "Tabita es una discípula de Jope, llena de buenas obras, que hace ropa para las viudas.",
+    "Cuando enferma y muere, las viudas lloran y le muestran a Pedro las túnicas que ella hacía.",
+    "Pedro ora, Dios le devuelve la vida, y muchos en Jope creen en el Señor."
+  ],
+  "versiculo": {
+    "texto": "Entonces en Joppe había una discípula llamada Tabita, que si lo declaras, quiere decir Dorcas. Esta era llena de buenas obras y de limosnas que hacía.",
+    "referencia": "Hechos 9:36"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "Tabita es un nombre arameo, y Dorcas es su traducción griega (Hechos 9:36). Los dos significan “gacela”."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "En Jope, un puerto junto al mar, vivía una creyente llamada Tabita. Lucas dice que «era llena de buenas obras y de limosnas que hacía». La llama «discípula». Es la única vez que la Biblia usa esa palabra.",
+        "Las viudas de Jope la querían mucho: Tabita les hacía túnicas y vestidos. En aquel tiempo, una viuda solía quedar pobre y sin protección. Un día, Tabita enfermó y murió. Lavaron su cuerpo y lo pusieron en una sala.",
+        "Los discípulos supieron que Pedro estaba cerca, en Lida. Le mandaron dos hombres con un ruego: «No te detengas en venir hasta nosotros». Pedro fue enseguida. Las viudas lo rodearon llorando. Le mostraban las túnicas y los vestidos que Dorcas hacía cuando estaba con ellas.",
+        "Pedro hizo salir a todos. Se arrodilló y oró. Luego se volvió al cuerpo y dijo: «Tabita, levántate». Ella abrió los ojos, vio a Pedro y se sentó. Pedro le dio la mano, llamó a los creyentes y a las viudas, y la presentó viva. La noticia corrió por toda Jope, y muchos creyeron en el Señor."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: un amor que se puede tocar",
+      "parrafos": [
+        "El amor de Tabita tenía forma de túnica. No sabemos que predicara ni que tuviera un cargo. Sabemos que cosía para quienes no tenían. Su fe se veía en sus manos. Por eso, cuando murió, sus amigas no hablaron de ella con discursos: le mostraron a Pedro la ropa que ella había hecho."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios escuchó la oración de Pedro y devolvió la vida a Tabita. Pedro hizo lo que había visto hacer a Jesús con la hija de Jairo (Marcos 5:40-41). Sacó a la gente y le habló a la muerta con sencillez. El poder era del Señor. Por medio de esta mujer buena, muchos en Jope creyeron. Su servicio sencillo abrió puertas al Evangelio."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tal vez tu manera de amar es práctica: coser, cocinar, arreglar, acompañar. Para Dios, eso es fe en acción. Si conoces a viudas o a personas solas, un gesto concreto puede cambiarles el día. Para los hombres: el servicio silencioso también es una forma de guiar a otros. Y para los jóvenes: pregúntate qué saben hacer tus manos para ayudar."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Hechos 9:36-43", "nota": "Tabita en Jope." },
+        { "ref": "Marcos 5:38-42", "nota": "Jesús y la hija de Jairo." },
+        { "ref": "Santiago 1:27", "nota": "Visitar a los huérfanos y a las viudas." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por las personas que me cuidaron con sus manos. Usa mis manos para servir a los que no tienen. Que mi fe se vea en cosas sencillas. Y que por mi vida otros te conozcan. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿tienes alguna prenda o regalo hecho a mano por alguien que amas? Cuéntanos.",
+        "Las viudas mostraron a Pedro lo que Tabita hacía. ¿Qué mostrarían otros de tu vida?",
+        "¿Qué necesidades concretas tienen hoy las personas solas o mayores de tu comunidad?",
+        "Pedro oró antes de hablarle a Tabita. ¿Qué lugar tiene la oración en nuestro servicio?",
+        "Dinámica: organicen una colecta de ropa, o una tarde de costura o de cocina, para ayudar a alguien de la comunidad.",
+        "Para cerrar: lean Hechos 9:36-42 y oren por quienes sirven con sus manos."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Tabita hacía ropa para las personas que no tenían. Un día se enfermó y murió, y sus amigas lloraron mucho. Pedro oró, y Dios le devolvió la vida. ¿Qué pueden hacer tus manos para ayudar a alguien?",
+      "actividad": "Dibujen el contorno de sus manos y, dentro, escriban una manera de ayudar esta semana. Para memorizar: «Tabita, levántate» (Hechos 9:40)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué significan los nombres Tabita y Dorcas?",
+      "opciones": ["Paloma", "Gacela", "Flor"],
+      "correcta": 1,
+      "explicacion": "Tabita es arameo y Dorcas es su traducción griega; los dos significan gacela (Hechos 9:36)."
+    },
+    {
+      "pregunta": "¿Qué le mostraron las viudas a Pedro?",
+      "opciones": ["Las túnicas y vestidos que Tabita hacía", "Una carta de Tabita", "El dinero que ella dejó"],
+      "correcta": 0,
+      "explicacion": "Le mostraban las túnicas y los vestidos que Dorcas hacía cuando estaba con ellas (Hechos 9:39)."
+    },
+    {
+      "pregunta": "¿Qué pasó en Jope cuando Tabita volvió a la vida?",
+      "opciones": ["Pedro tuvo que huir", "Nadie se enteró", "Muchos creyeron en el Señor"],
+      "correcta": 2,
+      "explicacion": "La noticia corrió por toda Jope, y muchos creyeron en el Señor (Hechos 9:42)."
+    }
+  ],
+  "estudio": ["hechos-8-12"],
+  "buscar": "Hechos 9:36-43"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "rebeca",
+  "titulo": "Rebeca",
+  "subtitulo": "La joven que dijo «Sí, iré»",
+  "etiquetas": ["Patriarcas · c. 2100–1800 a.C.", "Génesis 24–27", "Familia", "Juventud"],
+  "enUnMinuto": [
+    "Rebeca es una joven generosa: da de beber a un extranjero y a sus camellos, y acepta un viaje sin regreso.",
+    "Se casa con Isaac, espera veinte años y recibe una palabra de Dios sobre sus mellizos.",
+    "Después favorece a Jacob y organiza un engaño que parte a la familia, pero Dios sigue cumpliendo su promesa."
+  ],
+  "versiculo": {
+    "texto": "Y llamaron a Rebeca, y dijéronle: ¿Irás tú con este varón? Y ella respondió: Sí, iré.",
+    "referencia": "Génesis 24:58"
+  },
+  "bloques": [
+    {
+      "tipo": "lista",
+      "titulo": "Su nombre y su tiempo",
+      "items": [
+        "Nombre: Rebeca. Su significado es incierto; algunos lo relacionan con la idea de “lazo”.",
+        "Familia: nieta de Nacor, hermano de Abraham, y hermana de Labán.",
+        "Época: los patriarcas, c. 2100–1800 a.C. La fecha es aproximada.",
+        "Para leer: Génesis 24; 25:19-28; 27 y 28:1-5."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Abraham es anciano y envía a su criado más antiguo a buscar esposa para Isaac entre sus parientes. El criado llega con diez camellos a un pozo y ora. Pide una señal: que la joven elegida le ofrezca agua a él y también a sus camellos. Antes de terminar de orar, aparece Rebeca con su cántaro.",
+        "Rebeca le da de beber. Sin que nadie se lo pida, corre una y otra vez al pozo para dar agua a los camellos. El criado adora a Dios. Cuando la familia le pregunta si quiere ir, ella responde sin rodeos: «Sí, iré». Deja su casa para siempre. Isaac la recibe, la ama y encuentra consuelo tras la muerte de su madre.",
+        "Rebeca no puede tener hijos. Isaac ora por ella, y Dios responde. Pero el embarazo es difícil: los niños se empujan dentro de ella. Rebeca va a consultar a Dios. Él le dice que lleva dos pueblos y que «el mayor servirá al menor». Nacen Esaú y Jacob. Isaac prefiere a Esaú; Rebeca, a Jacob.",
+        "Cuando Isaac ya es anciano y casi ciego, quiere bendecir a Esaú. Rebeca lo oye y prepara un plan. Cocina el guiso que le gusta a Isaac. Viste a Jacob con la ropa de Esaú y le cubre las manos con piel de cabrito. Jacob engaña a su padre y recibe la bendición. Esaú llora y jura matar a su hermano.",
+        "Rebeca se entera y envía a Jacob con su hermano Labán, “por algunos días”. La Biblia no cuenta que volviera a verlo. Su historia termina en silencio. Más tarde sabemos que fue sepultada junto a Isaac en la cueva de Macpela."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: un sí generoso",
+      "parrafos": [
+        "Rebeca aparece llena de iniciativa: trabaja más de lo que le piden, recibe al extranjero y se atreve a partir. Cuando el embarazo la angustia, no se queda con la duda: va a preguntar a Dios. Pero esa misma fuerza, sin confianza, se volvió manipulación. Quiso asegurar la promesa con trampas. Su vida muestra lo mejor y lo más frágil de un corazón decidido."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios había dicho que el menor recibiría la promesa, y la cumplió. No necesitaba el engaño de nadie. Pablo recuerda esta historia para mostrar que Dios elige por gracia, «no por las obras» (Romanos 9:11). De Jacob, el hijo de Rebeca, vendrían las doce tribus y, con el tiempo, Jesús (Mateo 1:2). Dios escribió recto aun con líneas torcidas."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "A veces creemos que, si no controlamos todo, los planes de Dios fracasarán. Rebeca pagó caro ese miedo: perdió a su hijo querido. Dios no necesita nuestras trampas para cumplir lo que prometió. Hoy puedes soltar aquello que intentas forzar y decirle: “Hazlo tú, a tu manera”."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "También para ti",
+      "items": [
+        "Si tienes hijos: Isaac prefería a uno y Rebeca al otro. Las preferencias en casa hieren. Dios ama a cada hijo por igual.",
+        "Si Dios te pide dejar tu tierra: Rebeca dijo “Sí, iré” sin conocer el camino. Dios va delante de ti.",
+        "Para los hombres: Isaac también mintió sobre su esposa por miedo (Génesis 26:7). La verdad protege a la familia.",
+        "Para los jóvenes: la generosidad en lo pequeño, como dar agua a unos camellos, abre puertas que no imaginas."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Génesis 24", "nota": "El pozo y el sí de Rebeca." },
+        { "ref": "Génesis 25:19-28", "nota": "La espera y los mellizos." },
+        { "ref": "Génesis 26:6-11", "nota": "Isaac en Gerar." },
+        { "ref": "Génesis 27", "nota": "El engaño y la bendición." },
+        { "ref": "Génesis 49:31", "nota": "Sepultada en Macpela." },
+        { "ref": "Romanos 9:10-13", "nota": "Dios elige por gracia." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, dame un corazón generoso como el de Rebeca junto al pozo. Cuando me llames, quiero responder: sí, iré. Líbrame de querer controlarlo todo y de preferir a unos sobre otros. Confío en que tú cumples tus promesas. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para romper el hielo: ¿cuál ha sido la decisión más valiente que tomaste de joven?",
+        "Rebeca dio más de lo que le pidieron. ¿Dónde vemos hoy esa generosidad que sorprende?",
+        "Cuando el embarazo la angustió, fue a consultar a Dios. ¿Qué haces tú cuando algo te inquieta?",
+        "¿Por qué creen que Rebeca decidió engañar a Isaac, si Dios ya le había dado una promesa?",
+        "¿Cómo afectan las preferencias entre hijos o nietos a una familia?",
+        "Dinámica y cierre: cada una nombra algo que intenta controlar. Oren juntas entregándolo a Dios y lean Génesis 24:58."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre cansado llegó a un pozo con diez camellos. Rebeca le dio agua a él y también a todos sus camellos. ¡Eso era mucho trabajo! ¿Cómo puedes ayudar tú hoy sin que te lo pidan?",
+      "actividad": "Cuenta diez camellos dibujados en un papel y ponle a cada uno una gota de agua azul."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué señal pidió el criado de Abraham junto al pozo?",
+      "opciones": ["Que la joven supiera su nombre", "Que la joven diera agua también a los camellos", "Que la joven llegara con su padre"],
+      "correcta": 1,
+      "explicacion": "El criado pidió que la joven le diera de beber y ofreciera agua a sus camellos (Génesis 24:14)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Dios a Rebeca sobre sus mellizos?",
+      "opciones": ["Que los dos serían reyes", "Que Esaú recibiría la bendición", "Que el mayor serviría al menor"],
+      "correcta": 2,
+      "explicacion": "Dios le dijo que llevaba dos pueblos y que el mayor serviría al menor (Génesis 25:23)."
+    },
+    {
+      "pregunta": "¿Qué carta del Nuevo Testamento recuerda a Rebeca para hablar de la gracia?",
+      "opciones": ["Romanos", "Filemón", "Judas"],
+      "correcta": 0,
+      "explicacion": "Romanos 9:10-13 recuerda a Rebeca para mostrar que Dios elige por gracia, no por obras."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "Rebeca"
+}

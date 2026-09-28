@@ -1,0 +1,119 @@
+{
+  "id": "simeon-del-templo",
+  "titulo": "Simeón",
+  "subtitulo": "El anciano que tomó al niño en brazos",
+  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Templo de Jerusalén"],
+  "enUnMinuto": [
+    "Simeón era un hombre justo de Jerusalén que esperaba la ayuda de Dios para su pueblo.",
+    "El Espíritu Santo le prometió que no moriría sin ver al Mesías.",
+    "Un día tomó en brazos al niño Jesús en el templo y dio gracias: sus ojos ya habían visto la salvación."
+  ],
+  "versiculo": {
+    "texto": "Ahora despides, Señor, a tu siervo, conforme a tu palabra, en paz; Porque han visto mis ojos tu salvación, La cual has aparejado en presencia de todos los pueblos; Luz para ser revelada a los Gentiles, y la gloria de tu pueblo Israel.",
+    "referencia": "Lucas 2:29-32"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Simeón vivía en Jerusalén cuando nació Jesús. Su nombre viene del hebreo Shimón: “Dios ha oído”. Lucas lo describe como un hombre justo y piadoso, y dice que el Espíritu Santo estaba sobre él (Lucas 2:25).",
+        "La Biblia dice poco de él: solo aparece en Lucas 2:25-35. No sabemos su oficio, su familia ni su edad. Pero esos pocos versículos guardan una de las oraciones más amadas de la Iglesia."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un hombre que esperaba. Simeón esperaba «la consolación de Israel», es decir, el consuelo que Dios había prometido a su pueblo (Lucas 2:25).",
+        "Una promesa personal. El Espíritu Santo le había dicho que no moriría antes de ver al Cristo, el Mesías enviado por Dios (Lucas 2:26).",
+        "Una familia sencilla. José y María llevaron a Jesús al templo para presentarlo a Dios. Ofrecieron dos tórtolas o dos palomas, la ofrenda de quien no podía pagar un cordero (Lucas 2:22-24; Levítico 12:8).",
+        "Guiado al lugar justo. Ese mismo día, el Espíritu llevó a Simeón al templo. Tomó al niño en brazos y bendijo a Dios (Lucas 2:27-28).",
+        "Una oración de paz. Simeón dijo que ya podía partir en paz, porque había visto la salvación. Ese niño sería luz para todos los pueblos y gloria de Israel (Lucas 2:29-32).",
+        "Una palabra para María. Simeón bendijo a la familia. Anunció que muchos caerían o se levantarían ante Jesús. Y a María, una espada le traspasaría el alma (Lucas 2:34-35).",
+        "Ana se une a la alegría. En ese momento llegó Ana, una profetisa viuda y de edad muy avanzada. Dio gracias a Dios y habló del niño a todos los que esperaban (Lucas 2:36-38)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Simeón no vio milagros ni oyó sermones. Vio a un bebé de una familia pobre, y supo que era la salvación de Dios. Jesús es luz para todas las naciones, como anunció Isaías (Isaías 49:6). La espada en el alma de María anuncia la cruz, donde ella estuvo junto a su Hijo (Juan 19:25)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Esperar no es perder el tiempo. Simeón esperó en Dios y se mantuvo fiel. Esta semana, escribe una promesa de Dios que esperas ver y léela cada mañana.",
+        "Dejarse guiar por el Espíritu. Simeón llegó al templo en el momento justo. Esta semana, antes de salir de casa, pide a Dios que guíe tus pasos.",
+        "Bendecir a otros. Simeón bendijo a una familia joven. Esta semana, dile una palabra de ánimo a unos padres con hijos pequeños."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Simeón pudo decir: «han visto mis ojos tu salvación». ¿Dónde has visto tú la mano de Dios este año? Dale gracias hoy, con nombre y detalle."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era justo y piadoso, y el Espíritu Santo estaba sobre él (Lucas 2:25).",
+        "La Biblia no dice su edad. Por su oración de despedida, muchos entienden que era mayor (Lucas 2:29).",
+        "No dice que fuera sacerdote. Lucas lo presenta como un hombre de Jerusalén (Lucas 2:25)."
+      ],
+      "tradicion": [
+        "Por eso el arte cristiano lo pinta casi siempre como un anciano de barba blanca.",
+        "Su oración (Lucas 2:29-32) se reza cada noche en muchas iglesias. En latín se llama Nunc dimittis, “ahora despides”.",
+        "Católicos, ortodoxos y otras iglesias recuerdan la Presentación de Jesús el 2 de febrero. En América Latina es el Día de la Candelaria.",
+        "Los ortodoxos lo llaman “Simeón, el que recibió a Dios en sus brazos”."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "No lo confundas con Simeón, hijo de Jacob (Génesis 29:33), ni con Simón Pedro. Son nombres parecidos que vienen de la misma palabra hebrea."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Lucas 2:22-24", "nota": "La presentación de Jesús en el templo" },
+        { "ref": "Lucas 2:25-35", "nota": "Toda su historia" },
+        { "ref": "Lucas 2:36-38", "nota": "Ana, la profetisa" },
+        { "ref": "Levítico 12:6-8", "nota": "La ofrenda de los pobres" },
+        { "ref": "Isaías 49:6", "nota": "Luz para las naciones" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Simeón esperó mucho tiempo para ver a Jesús. ¡Y un día lo tuvo en sus brazos! ¿Qué le dirías tú a Jesús si lo vieras?",
+      "actividad": "Para papás y abuelos: Simeón dio gracias porque vio al Salvador (Lucas 2:30). Pidan al niño que diga en voz alta una cosa por la que agradece a Jesús hoy."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, como Simeón, quiero esperar en ti con paciencia. Guía mis pasos por tu Espíritu. Abre mis ojos para ver a Jesús en lo sencillo. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde tomó Simeón al niño Jesús en brazos?",
+      "opciones": ["En Belén", "En Nazaret", "En el templo de Jerusalén"],
+      "correcta": 2,
+      "explicacion": "José y María llevaron a Jesús al templo para presentarlo a Dios (Lucas 2:27-28)."
+    },
+    {
+      "pregunta": "¿Qué le había prometido el Espíritu Santo a Simeón?",
+      "opciones": ["Que no moriría sin ver al Cristo", "Que sería sacerdote del templo", "Que tendría un hijo profeta"],
+      "correcta": 0,
+      "explicacion": "El Espíritu le dijo que vería al Cristo del Señor antes de morir (Lucas 2:26)."
+    },
+    {
+      "pregunta": "Simeón llama a Jesús «luz» de las naciones. ¿Qué profeta lo había anunciado?",
+      "opciones": ["Jonás", "Isaías", "Amós"],
+      "correcta": 1,
+      "explicacion": "Isaías habló del siervo de Dios como luz de las gentes (Isaías 49:6)."
+    }
+  ],
+  "estudio": ["nacimiento"],
+  "buscar": "Lucas 2:25-35"
+}

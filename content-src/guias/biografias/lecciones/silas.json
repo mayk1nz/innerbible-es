@@ -1,0 +1,123 @@
+{
+  "id": "silas",
+  "titulo": "Silas",
+  "subtitulo": "Compañero de Pablo, cantando en la cárcel",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén, Macedonia y Corinto"],
+  "enUnMinuto": [
+    "Silas era un líder y profeta de la iglesia de Jerusalén.",
+    "Pablo lo eligió como compañero para su segundo viaje.",
+    "En Filipos los dos terminaron presos, y a medianoche cantaban a Dios en la cárcel."
+  ],
+  "versiculo": {
+    "texto": "Mas a media noche, orando Pablo y Silas, cantaban himnos a Dios: y los que estaban presos los oían.",
+    "referencia": "Hechos 16:25"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Silas era uno de los «varones principales entre los hermanos» de Jerusalén (Hechos 15:22). También era profeta (Hechos 15:32) y ciudadano romano, como Pablo (Hechos 16:37).",
+        "En las cartas aparece con su nombre en latín, Silvano (2 Corintios 1:19). La Biblia dice poco de su vida personal. Lo que sí muestra es su fidelidad en los viajes y en las pruebas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Mensajero de buenas noticias. Después de la reunión de Jerusalén, la iglesia envió a Silas a Antioquía con una carta. Allí animó a los hermanos con muchas palabras (Hechos 15:22-32).",
+        "Elegido por Pablo. Cuando Pablo y Bernabé se separaron, Pablo escogió a Silas y salió a visitar las iglesias (Hechos 15:40-41).",
+        "Presos en Filipos. Pablo liberó a una joven de un espíritu que la usaba para adivinar. Sus amos se enojaron, y Pablo y Silas fueron azotados y encarcelados (Hechos 16:16-24).",
+        "Canciones a medianoche. Con los pies en el cepo, oraban y cantaban himnos. Hubo un terremoto y el carcelero creyó en Jesús con su familia (Hechos 16:25-34).",
+        "Tesalónica y Berea. Muchos creyeron, pero hubo alborotos y tuvieron que irse de noche. En Berea, la gente examinaba las Escrituras cada día (Hechos 17:1-12).",
+        "De nuevo junto a Pablo. Silas se quedó en Berea con Timoteo y luego alcanzó a Pablo en Corinto. Allí anunciaron juntos a Jesús (Hechos 17:14-15; 18:5; 2 Corintios 1:19).",
+        "Coautor de cartas. Las dos cartas a los Tesalonicenses empiezan con tres nombres: Pablo, Silvano y Timoteo (1 Tesalonicenses 1:1).",
+        "«El hermano fiel». Pedro escribió su primera carta «por Silvano» y lo llama hermano fiel (1 Pedro 5:12)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "¿De dónde sacan fuerzas dos hombres heridos para cantar a medianoche? De Jesús, que está con los suyos en la cárcel y en el dolor. La alabanza de Silas abrió un corazón duro: el carcelero preguntó cómo ser salvo, y conoció a Jesús."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Alabar en la noche. Silas cantó cuando todo iba mal. Esta semana, en un momento difícil, pon una alabanza y cántala, aunque sea bajito.",
+        "Ser un compañero fiel. Silas no buscó el primer lugar. Esta semana, ayuda a un líder de tu iglesia en algo práctico, sin que nadie lo pida.",
+        "Otros escuchan. «Los que estaban presos los oían». Esta semana, recuerda que tu forma de enfrentar las pruebas habla de Jesús."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tal vez hoy estás en tu propia “medianoche”. No tienes que sentir alegría para alabar. Dile a Dios lo que duele, y luego dale gracias por una cosa concreta."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era líder y profeta en la iglesia de Jerusalén (Hechos 15:22, 32).",
+        "Era ciudadano romano (Hechos 16:37).",
+        "Casi todos entienden que Silas y Silvano son la misma persona (2 Corintios 1:19; 1 Pedro 5:12).",
+        "La Biblia no cuenta el final de su vida."
+      ],
+      "tradicion": [
+        "Una tradición antigua lo cuenta entre los setenta discípulos que Jesús envió (Lucas 10:1).",
+        "Otra tradición dice que fue obispo de Corinto.",
+        "La Iglesia católica lo recuerda el 13 de julio."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Pedro escribe «por Silvano» (1 Pedro 5:12). Puede querer decir que Silvano escribió la carta al dictado, o que la llevó. Las dos lecturas son posibles."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Hechos 15:22-35", "nota": "Enviado a Antioquía" },
+        { "ref": "Hechos 15:40-41", "nota": "Compañero de Pablo" },
+        { "ref": "Hechos 16:16-40", "nota": "Presos y cantando en Filipos" },
+        { "ref": "Hechos 17:1-15", "nota": "Tesalónica y Berea" },
+        { "ref": "Hechos 18:5", "nota": "Llega a Corinto" },
+        { "ref": "2 Corintios 1:19", "nota": "Predicó a Jesús en Corinto" },
+        { "ref": "1 Tesalonicenses 1:1", "nota": "Coautor de la carta" },
+        { "ref": "1 Pedro 5:12", "nota": "El hermano fiel" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Pablo y Silas estaban en la cárcel, pero cantaban a Dios a medianoche. ¿Qué canción le cantas tú a Dios?",
+      "actividad": "Para papás y abuelos: Dios estuvo con Pablo y Silas en la cárcel (Hechos 16:25-26). Canten juntos una alabanza y hablen de un momento en que Dios los ayudó."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, en mis noches oscuras, pon un canto en mi boca. Hazme un compañero fiel, como Silas. Y que otros vean a Jesús en la forma en que enfrento las pruebas. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hacían Pablo y Silas a medianoche en la cárcel?",
+      "opciones": ["Dormían", "Oraban y cantaban himnos", "Intentaban escapar"],
+      "correcta": 1,
+      "explicacion": "Oraban y cantaban himnos, y los otros presos los oían (Hechos 16:25)."
+    },
+    {
+      "pregunta": "¿Con qué otro nombre aparece Silas en las cartas?",
+      "opciones": ["Silvano", "Simeón", "Sóstenes"],
+      "correcta": 0,
+      "explicacion": "Las cartas usan su nombre latino, Silvano (1 Tesalonicenses 1:1)."
+    },
+    {
+      "pregunta": "¿Quién creyó en Jesús después del terremoto en Filipos?",
+      "opciones": ["El magistrado", "Lidia", "El carcelero y su familia"],
+      "correcta": 2,
+      "explicacion": "El carcelero preguntó cómo ser salvo y creyó con toda su casa (Hechos 16:30-34)."
+    }
+  ],
+  "estudio": ["hechos-15-18", "1-tesalonicenses"],
+  "buscar": "Silas"
+}

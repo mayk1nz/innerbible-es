@@ -1,0 +1,131 @@
+{
+  "id": "comienza-aqui",
+  "titulo": "Comienza aquí",
+  "subtitulo": "Cómo leer las fichas: Biblia y tradición",
+  "etiquetas": ["Herramientas", "Para empezar"],
+  "enUnMinuto": [
+    "Este regalo reúne fichas de personas de la Biblia: los Doce, gente cercana a Jesús, la primera iglesia y el Antiguo Testamento.",
+    "Cada ficha separa con claridad lo que dice la Biblia de lo que cuenta la tradición, con respeto por las dos.",
+    "Todas las historias llevan al mismo lugar: a Jesús."
+  ],
+  "versiculo": {
+    "texto": "Acordaos de vuestros pastores, que os hablaron la palabra de Dios; la fe de los cuales imitad, considerando cuál haya sido el éxito de su conducta.",
+    "referencia": "Hebreos 13:7"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Para qué sirve este regalo",
+      "parrafos": [
+        "La Biblia no es solo un libro de ideas. Está llena de personas: pescadores, madres, reyes, profetas, cobradores de impuestos. Dios los llamó por su nombre y caminó con ellos.",
+        "Conocer sus vidas te ayuda a leer mejor la Biblia. También te muestra cómo trata Dios a gente real, con miedos, caídas y esperanzas como las tuyas.",
+        "Este regalo acompaña al Estudio Cronológico de la Biblia. Cada ficha te lleva a las lecciones donde aparece esa persona."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cómo está hecha cada ficha",
+      "items": [
+        "«En 1 minuto»: lo esencial, en pocas frases. Si solo tienes un momento, lee esto.",
+        "«Quién era»: su nombre y lo que significa, su familia, su oficio y su tierra.",
+        "«Su historia, paso a paso»: los momentos de su vida en orden, cada uno con su cita bíblica.",
+        "«Jesús en esta historia»: lo que su vida nos muestra de Jesús.",
+        "«Lecciones para hoy»: tres enseñanzas, cada una con algo concreto para hacer esta semana.",
+        "«Lo que dice la Biblia y lo que cuenta la tradición»: los dos, separados y con respeto.",
+        "«No lo confundas con…»: otras personas con el mismo nombre, cuando hace falta.",
+        "Al final, una pregunta para los niños y una oración. Muchas fichas traen también preguntas para el grupo y un pequeño cuestionario."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Biblia y tradición: dos sellos",
+      "parrafos": [
+        "Bajo el sello «La Biblia dice» va lo que está escrito en la Palabra de Dios. Siempre lleva su cita, para que puedas leerlo tú mismo.",
+        "Bajo el sello «La tradición cuenta» va lo que los cristianos recuerdan desde hace siglos, aunque la Biblia no lo cuente. Por ejemplo, dónde predicaron los apóstoles o cómo murieron.",
+        "La tradición no se presenta como Biblia, ni se desprecia. Muchas de esas memorias son muy antiguas y queridas. Te decimos de dónde vienen, y tú lees con calma."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Ejemplo: Pedro estaba casado, y su esposa lo acompañaba en sus viajes (Marcos 1:30; 1 Corintios 9:5).",
+        "Ejemplo: Jesús le anunció a Pedro que un día glorificaría a Dios con su muerte (Juan 21:18-19)."
+      ],
+      "tradicion": [
+        "Ejemplo: escritores de los primeros siglos recuerdan que Pedro dio su vida por Cristo en Roma.",
+        "Ejemplo: la cruz en forma de X se llama «cruz de San Andrés» por una tradición sobre su muerte."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿De dónde viene la tradición?",
+      "items": [
+        "Escritores cristianos antiguos, como Clemente de Roma, Ireneo, Orígenes, Eusebio y Jerónimo. Vivieron entre los siglos I y V.",
+        "Escritos antiguos que no forman parte de la Biblia. Algunos son muy queridos, y otros los rechazaron los mismos cristianos de entonces.",
+        "La memoria de las iglesias: fiestas, lugares de peregrinación y costumbres que pasaron de generación en generación.",
+        "Cuando varias tradiciones no coinciden, te lo decimos con sencillez: «los relatos no coinciden»."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Estas fichas las leen católicos, evangélicos y ortodoxos. Donde las iglesias entienden algo de distinta manera, lo contamos con respeto y sin decidir quién tiene razón. Nos une lo más importante: Jesús, muerto y resucitado por amor."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Nombres, versiones y fechas",
+      "items": [
+        "Usamos los nombres más conocidos en español, como Santiago. La Biblia de la app, la Reina-Valera 1909, dice «Jacobo». La RVR1960 también.",
+        "Las citas bíblicas de las fichas vienen de la Reina-Valera 1909. Al tocarlas, se abren en la Biblia de la app.",
+        "Las fechas llevan «c.», que quiere decir «cerca de». Son aproximadas, y algunas se discuten.",
+        "Las fechas siguen la misma cronología del Estudio Cronológico, para que todo encaje."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en el centro",
+      "tono": "navy",
+      "texto": "Ninguna de estas personas es la protagonista de la Biblia. Pedro cayó, Tomás dudó, David pecó, Jonás huyó. Lo que las une es que Dios no las soltó. Cada ficha es una ventana: al mirar por ella, vemos a Jesús."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Elige una ficha por semana. El primer día, lee «En 1 minuto» y el versículo. Otro día, abre las citas de su historia en tu Biblia. Durante la semana, haz la práctica de una lección. El domingo, ora con su oración."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por los hombres y mujeres que caminaron contigo antes que yo. Enséñame con sus vidas. Y, sobre todo, llévame a conocerte más a ti. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué personaje de la Biblia te ha ayudado más en tu vida? ¿Por qué?",
+        "¿Por qué es útil distinguir lo que dice la Biblia de lo que cuenta la tradición?",
+        "Hebreos 13:7 dice que imitemos la fe de quienes nos enseñaron. ¿A quién imitarías tú?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué indica el sello «La tradición cuenta» en una ficha?",
+      "opciones": ["Algo inventado que no hay que creer", "Algo que está escrito en la Biblia", "Memorias cristianas que la Biblia no cuenta"],
+      "correcta": 2,
+      "explicacion": "La tradición guarda memorias antiguas de los cristianos. La presentamos con respeto, separada de lo que dice la Biblia."
+    },
+    {
+      "pregunta": "¿Cómo llama la Reina-Valera 1909 a los apóstoles que conocemos como Santiago?",
+      "opciones": ["Jacobo", "Jaime", "Diego"],
+      "correcta": 0,
+      "explicacion": "La RV1909 y la RVR1960 dicen «Jacobo». Santiago viene de «Sant Iago», es decir, san Jacobo."
+    },
+    {
+      "pregunta": "Según Hebreos 13:7, ¿qué debemos hacer con la fe de quienes nos enseñaron la Palabra?",
+      "opciones": ["Olvidarla", "Imitarla", "Discutirla"],
+      "correcta": 1,
+      "explicacion": "Hebreos 13:7 dice: «la fe de los cuales imitad». Por eso conocemos sus vidas."
+    }
+  ],
+  "estudio": ["comienza-aqui"],
+  "buscar": "Hebreos 11"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "dos-ciegos",
+  "titulo": "Dos ciegos que lo seguían",
+  "subtitulo": "Milagro 18 de 43 · «¿Creéis que puedo hacer esto?»",
+  "etiquetas": ["Capernaúm", "Año 2 · c. 28 d.C.", "Curación", "Solo lo cuenta Mateo"],
+  "enUnMinuto": [
+    "Dos ciegos siguen a Jesús gritando: «Ten misericordia de nosotros, Hijo de David».",
+    "En la casa, Jesús les pregunta si creen que él puede sanarlos, y ellos responden: «Sí, Señor».",
+    "Jesús toca sus ojos, y los dos pueden ver."
+  ],
+  "versiculo": {
+    "texto": "Y llegado a la casa, vinieron a él los ciegos; y Jesús les dice: ¿Creéis que puedo hacer esto? Ellos dicen: Sí, Señor.",
+    "referencia": "Mateo 9:28"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 9:27-31", "nota": "Solo lo cuenta Mateo. Viene justo después de la hija de Jairo." },
+        { "ref": "Mateo 20:29-34", "nota": "Otro encuentro con dos ciegos, más tarde, en Jericó. Es un hecho distinto." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús salía de la casa de Jairo. Por el camino lo siguieron dos ciegos que gritaban: «Ten misericordia de nosotros, Hijo de David». Ese era el título del rey prometido de la familia de David. Aquellos hombres no veían con los ojos, pero habían entendido quién era Jesús.",
+        "Jesús no se detuvo en la calle. Entró en la casa, y los ciegos entraron tras él. Allí, lejos de la multitud, les hizo una pregunta sencilla: «¿Creéis que puedo hacer esto?». Ellos respondieron: «Sí, Señor».",
+        "Entonces Jesús les tocó los ojos y les dijo: «Conforme a vuestra fe os sea hecho». Y sus ojos se abrieron. Por primera vez pudieron ver el rostro de quien los había sanado.",
+        "Jesús les pidió con firmeza que no lo contaran a nadie. Pero ellos salieron y hablaron de él por toda aquella región. Era difícil callar una alegría tan grande."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús es el Hijo de David, el rey prometido que viene con misericordia. No busca el aplauso: los lleva a la casa, lejos de la multitud, para un encuentro personal. Les pregunta por su fe, no por sus méritos. Y los sana con su toque, cumpliendo lo que Isaías había anunciado: los ojos de los ciegos serían abiertos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Estos hombres siguieron a Jesús aunque no lo veían, y no dejaron de pedir. Su oración fue corta: «Ten misericordia de nosotros». Tú también puedes orar así, en cualquier momento del día. Y Jesús te hace la misma pregunta: ¿crees que puedo hacer esto? Para hoy: repite varias veces esa oración corta y respóndele a Jesús con sinceridad."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, Hijo de David, ten misericordia de mí. Creo que tú puedes obrar en mi vida; ayuda mi poca fe. Toca mis ojos para que vea lo que tú quieres mostrarme. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Dos hombres ciegos seguían a Jesús y le pedían ayuda a gritos. Jesús les preguntó si creían que él podía sanarlos. «Sí, Señor», dijeron. Jesús tocó sus ojos, ¡y pudieron ver! ¿Qué le pedirías tú a Jesús?",
+      "actividad": "Con los ojos vendados, deja que alguien de tu familia te guíe por la casa. Luego hablen de cómo sería no ver."
+    },
+    {
+      "tipo": "nota",
+      "texto": "«Conforme a vuestra fe» no significa que quien no sana tenga poca fe. Dios obra con libertad y amor. Orar y buscar ayuda médica van juntos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Isaías 35:5", "nota": "«Entonces los ojos de los ciegos serán abiertos»." },
+        { "ref": "2 Samuel 7:12-13", "nota": "La promesa de un descendiente de David con un reino para siempre." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo llamaban los ciegos a Jesús?",
+      "opciones": ["Maestro de Galilea", "Profeta de Nazaret", "Hijo de David"],
+      "correcta": 2,
+      "explicacion": "Gritaban: Ten misericordia de nosotros, Hijo de David (Mateo 9:27)."
+    },
+    {
+      "pregunta": "¿Qué les preguntó Jesús antes de sanarlos?",
+      "opciones": ["Si creían que él podía hacerlo", "Cuántos años llevaban ciegos", "Si habían ido al templo"],
+      "correcta": 0,
+      "explicacion": "Les dijo: ¿Creéis que puedo hacer esto? (Mateo 9:28)."
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que los ojos de los ciegos serían abiertos?",
+      "opciones": ["Jonás", "Isaías", "Amós"],
+      "correcta": 1,
+      "explicacion": "Isaías lo anunció para el tiempo en que Dios viniera a salvar (Isaías 35:5)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Mateo 9:27-31"
+}

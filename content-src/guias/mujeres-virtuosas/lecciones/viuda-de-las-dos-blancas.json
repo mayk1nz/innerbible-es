@@ -1,0 +1,109 @@
+{
+  "id": "viuda-de-las-dos-blancas",
+  "titulo": "La viuda de las dos blancas",
+  "subtitulo": "La que dio todo lo que tenía",
+  "etiquetas": ["c. 30 o 33 d.C.", "Jerusalén, el templo", "viudez", "pobreza"],
+  "enUnMinuto": [
+    "En el templo, Jesús mira cómo la gente echa sus ofrendas; muchos ricos echan mucho.",
+    "Una viuda pobre echa dos moneditas, todo lo que tenía para vivir.",
+    "Jesús dice que ella dio más que todos, porque dio de su pobreza."
+  ],
+  "versiculo": {
+    "texto": "Entonces llamando a sus discípulos, les dice: De cierto os digo que esta viuda pobre echó más que todos los que han echado en el arca:",
+    "referencia": "Marcos 12:43"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "La Biblia no dice su nombre. Solo sabemos que era viuda y pobre. Las “dos blancas” eran dos monedas de cobre, las más pequeñas que circulaban entonces."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Eran los últimos días de Jesús antes de la cruz. Estaba en el templo de Jerusalén, enseñando. Acababa de advertir contra algunos escribas que buscaban honores y «devoran las casas de las viudas» (Marcos 12:40).",
+        "Luego se sentó frente al arca de las ofrendas. Miraba cómo la gente echaba su dinero. Muchos ricos echaban mucho. Entonces llegó una viuda pobre y echó dos blancas, las monedas más pequeñas de aquel tiempo.",
+        "Jesús la vio. Llamó a sus discípulos y les dijo: «esta viuda pobre echó más que todos los que han echado en el arca». Los demás habían dado de lo que les sobraba. Ella, de su pobreza, echó todo lo que tenía para vivir.",
+        "No sabemos nada más de ella. No sabemos cómo vivió ese día ni quién la ayudó después. Solo sabemos que Jesús la vio, y que su pequeña ofrenda quedó escrita en dos evangelios."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: dar con el corazón entero",
+      "parrafos": [
+        "Esta viuda no dio para ser vista: su ofrenda no hizo ruido. Dio lo poco que tenía, y parece que confiaba en Dios más que en sus dos monedas. Su gesto no se mide en dinero, sino en entrega. No dio lo que le sobraba: se dio a sí misma."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Jesús vio lo que nadie más valoró. Para él, la medida no es cuánto se da, sino cuánto cuesta y con qué corazón. Unos días después, Jesús mismo daría todo lo que tenía: su propia vida, por todos. La ofrenda de esta viuda es un pequeño reflejo de ese amor total."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si tienes poco y piensas que tu aporte no sirve, Jesús ve lo que das con amor. Esta historia no es una presión para dar dinero que no tienes: Jesús mismo denunció a quienes se aprovechaban de las viudas. Para los hombres: la grandeza no está en lo que se luce. Y para los jóvenes: un gesto pequeño, hecho con el corazón, vale mucho para Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Marcos 12:38-44", "nota": "La advertencia de Jesús y la ofrenda de la viuda." },
+        { "ref": "Lucas 21:1-4", "nota": "El mismo relato, contado por Lucas." },
+        { "ref": "2 Corintios 9:7", "nota": "Dar con alegría, no por obligación." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias porque ves lo que nadie ve. Te entrego lo poco que tengo, y también mi corazón. Cuida de las viudas y de los pobres. Y enséñame a dar con amor, no para ser visto. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿cuál es el regalo más sencillo que recibiste y que más te emocionó?",
+        "Jesús miraba cómo daba la gente. ¿Qué crees que ve Jesús cuando nosotros damos?",
+        "¿Por qué crees que Jesús habló de las viudas justo antes de esta escena (Marcos 12:40)?",
+        "¿Cómo podemos cuidar de las personas mayores y pobres de nuestra comunidad sin que se sientan humilladas?",
+        "Dinámica: elijan juntos una manera concreta de ayudar este mes a una viuda o a una persona que vive sola.",
+        "Para cerrar: lean Marcos 12:41-44 y oren por las viudas que conocen."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una señora muy pobre llegó al templo y dio dos moneditas, todo lo que tenía. Los ricos daban mucho más dinero. Pero Jesús dijo que ella dio más que todos, porque dio con todo su corazón. ¿Qué puedes compartir tú?",
+      "actividad": "Busquen dos monedas pequeñas y piensen juntos a quién pueden ayudar con ellas. Para memorizar: «Dios ama el dador alegre» (2 Corintios 9:7)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Muchos leen esta escena sobre todo como un elogio de la viuda. Otros ven también la tristeza de Jesús ante un sistema que dejaba sin nada a los pobres (Marcos 12:40). Las dos lecturas ayudan a mirar con los ojos de Jesús."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántas monedas echó la viuda en el arca de las ofrendas?",
+      "opciones": ["Dos", "Cinco", "Diez"],
+      "correcta": 0,
+      "explicacion": "Echó dos blancas, las monedas más pequeñas de aquel tiempo (Marcos 12:42)."
+    },
+    {
+      "pregunta": "¿Por qué dijo Jesús que la viuda dio más que todos?",
+      "opciones": ["Porque sus monedas eran de oro", "Porque dio todo lo que tenía", "Porque dio antes que los demás"],
+      "correcta": 1,
+      "explicacion": "Los demás dieron de lo que les sobraba; ella, de su pobreza, todo su sustento (Marcos 12:44)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús pocos días después que se parece a la ofrenda de la viuda?",
+      "opciones": ["Construyó un templo nuevo", "Pidió más ofrendas", "Dio su propia vida por todos"],
+      "correcta": 2,
+      "explicacion": "Jesús entregó su vida en la cruz: lo dio todo, por amor a todos."
+    }
+  ],
+  "estudio": ["ultima-semana"],
+  "buscar": "Marcos 12:41-44"
+}

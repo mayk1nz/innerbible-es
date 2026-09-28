@@ -1,0 +1,108 @@
+{
+  "id": "segunda-pesca",
+  "titulo": "La segunda pesca: 153 peces",
+  "subtitulo": "Milagro 42 de 43 · Desayuno con el Resucitado",
+  "etiquetas": ["Mar de Tiberíades, en Galilea", "Después de la Pascua · c. 30 d.C.", "Naturaleza y provisión", "Epílogo de las señales de Juan"],
+  "enUnMinuto": [
+    "Siete discípulos pescan toda la noche en el mar de Tiberíades y no sacan nada.",
+    "Jesús resucitado, desde la orilla, les dice dónde echar la red, y la sacan llena: 153 peces.",
+    "En la orilla, Jesús les prepara el desayuno y después le da a Pedro un nuevo comienzo."
+  ],
+  "versiculo": {
+    "texto": "Y él les dice: Echad la red a la mano derecha del barco, y hallaréis. Entonces la echaron, y no la podían en ninguna manera sacar, por la multitud de los peces.",
+    "referencia": "Juan 21:6"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 21:1-14", "nota": "Solo lo cuenta Juan. Es la tercera vez que Jesús resucitado se aparece a sus discípulos." },
+        { "ref": "Juan 21:15-19", "nota": "Después del desayuno: Jesús pregunta tres veces a Pedro si lo ama." },
+        { "ref": "Lucas 5:1-11", "nota": "La primera pesca milagrosa, cuando Jesús llamó a Pedro." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Después de la resurrección, siete discípulos estaban junto al mar de Tiberíades, en Galilea. Allí estaban Pedro, Tomás, Natanael, los hijos de Zebedeo y otros dos. Pedro dijo: «A pescar voy». Los demás fueron con él. Pescaron toda la noche y no sacaron nada.",
+        "Al amanecer, Jesús estaba en la orilla, pero no lo reconocieron. Les preguntó si tenían algo de comer. «No», respondieron. Él les dijo que echaran la red a la derecha de la barca. Lo hicieron, y la red se llenó tanto que no podían sacarla.",
+        "El discípulo al que Jesús amaba dijo a Pedro: «El Señor es». Pedro se ciñó la ropa y se echó al agua para llegar antes. Los otros llegaron en la barca, arrastrando la red. En la orilla ya había brasas, pescado encima y pan.",
+        "Jesús les pidió que trajeran de los peces que acababan de pescar. Pedro sacó la red a tierra: ciento cincuenta y tres peces grandes, y la red no se rompió. Jesús les dijo: «Venid, comed». Tomó el pan y se lo dio, y también el pescado. Sabían que era el Señor."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Mar de Tiberíades: otro nombre del mar de Galilea, por la ciudad de Tiberíades, en su orilla.",
+        "Brasas: carbón encendido para cocinar.",
+        "Doscientos codos: la distancia a la orilla, unos noventa metros."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús resucitado sigue cuidando de lo de cada día: el trabajo, el cansancio, el desayuno. Que conoce a sus amigos y los vuelve a llamar como al principio, con una pesca abundante. Y que prepara la mesa antes de pedir nada. Después de comer, le dará a Pedro, que lo había negado, un nuevo comienzo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizá vuelves a tu rutina después de una gran decepción, como Pedro. Trabajas y no sacas nada. Jesús te espera en la orilla de tu vida de todos los días. No te recibe con reproches, sino con fuego encendido y pan. Después le preguntó a Pedro tres veces si lo amaba. También a ti te ofrece empezar de nuevo. Para hoy: comparte una comida y da gracias por las nuevas oportunidades."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús resucitado, tú esperas en la orilla cuando mi noche fue larga y vacía. Gracias por tu mesa y tu perdón. Enséñame a reconocerte en lo de cada día y a decirte, como Pedro: tú sabes que te amo. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Los amigos de Jesús pescaron toda la noche y no sacaron nada. Jesús les dijo desde la orilla dónde echar la red, ¡y sacaron ciento cincuenta y tres peces! Luego desayunaron juntos. ¿Qué te gusta desayunar?",
+      "actividad": "Cuenten juntos hasta 153 con frijoles, piedritas o botones. ¡Eran muchos peces!"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Muchos se han preguntado por qué Juan anotó el número exacto, 153. Él no lo explica. Quizá simplemente contaron los peces, como hacen los pescadores después de una buena noche. Y la red, con tantos, no se rompió."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Juan 6:11", "nota": "El mismo gesto de Jesús con el pan y los peces junto al mar." },
+        { "ref": "Salmos 23:5", "nota": "El Señor prepara una mesa delante de los suyos." },
+        { "ref": "Ezequiel 47:10", "nota": "El profeta ve pescadores y peces en abundancia, donde Dios da vida." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Juan llama señales a los milagros de Jesús y cuenta siete. Esta pesca, junto con Juan 21, es como el epílogo de su evangelio. Al final dice que Jesús hizo muchas otras cosas que no están escritas (Juan 21:25)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos peces sacaron en la red?",
+      "opciones": ["Doce", "Ciento cincuenta y tres", "Cinco mil"],
+      "correcta": 1,
+      "explicacion": "Juan dice que la red estaba llena de grandes peces, ciento cincuenta y tres (Juan 21:11)."
+    },
+    {
+      "pregunta": "¿Quién reconoció primero a Jesús y dijo: «El Señor es»?",
+      "opciones": ["Pedro", "Tomás", "El discípulo al que Jesús amaba"],
+      "correcta": 2,
+      "explicacion": "El discípulo al que Jesús amaba se lo dijo a Pedro (Juan 21:7)."
+    },
+    {
+      "pregunta": "¿En qué otra pesca milagrosa había llamado Jesús a Pedro?",
+      "opciones": ["En la de Lucas 5", "En la de Jonás", "En la del mar Rojo"],
+      "correcta": 0,
+      "explicacion": "En Lucas 5:1-11, después de otra pesca abundante, Jesús le dijo: «desde ahora pescarás hombres»."
+    }
+  ],
+  "estudio": ["resurreccion"],
+  "buscar": "Juan 21:1-14"
+}

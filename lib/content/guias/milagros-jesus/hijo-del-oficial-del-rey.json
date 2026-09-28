@@ -1,0 +1,98 @@
+{
+  "id": "hijo-del-oficial-del-rey",
+  "titulo": "El hijo del oficial del rey",
+  "subtitulo": "Milagro 2 de 43 · Una palabra que viaja lejos",
+  "etiquetas": ["Caná y Capernaúm", "Año 1 · c. 27 d.C.", "Curación", "Señal de Juan · 2 de 7"],
+  "enUnMinuto": [
+    "Un oficial del rey camina desde Capernaúm hasta Caná porque su hijo se está muriendo.",
+    "Jesús no va a su casa: solo le dice «Ve, tu hijo vive», y el hombre le cree.",
+    "El niño sana a esa misma hora, y toda la familia cree en Jesús."
+  ],
+  "versiculo": {
+    "texto": "Dícele Jesús: Ve, tu hijo vive. Y el hombre creyó a la palabra que Jesús le dijo, y se fue.",
+    "referencia": "Juan 4:50"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 4:46-54", "nota": "Solo lo cuenta Juan. Él mismo la llama la segunda señal de Jesús." },
+        { "ref": "Juan 4:43-45", "nota": "Lo que pasó justo antes: Jesús vuelve de Judea a Galilea." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús volvió a Caná de Galilea, donde había convertido el agua en vino. En Capernaúm vivía un oficial del rey. Su hijo estaba tan enfermo que se estaba muriendo. Cuando el padre oyó que Jesús había llegado a Galilea, fue a buscarlo.",
+        "Le rogó que bajara a Capernaúm a sanar a su hijo. Jesús le dijo: «Si no viereis señales y milagros no creeréis». Pero el padre no se rindió: «Señor, desciende antes que mi hijo muera».",
+        "Jesús no fue con él. Solo le dijo: «Ve, tu hijo vive». El hombre creyó a esa palabra y emprendió el regreso. No había visto nada todavía, pero se fue confiando.",
+        "Mientras bajaba, sus siervos salieron a su encuentro con la noticia: ¡el niño vivía! Él les preguntó a qué hora había empezado a mejorar. Le dijeron: «Ayer a las siete le dejó la fiebre». Era la misma hora en que Jesús le había hablado. Entonces creyó él y toda su casa."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Oficial del rey: la RV1909 dice «uno del rey». Era alguien al servicio del rey que gobernaba Galilea, probablemente Herodes Antipas.",
+        "«A las siete»: la séptima hora del día, contando desde la salida del sol. Era cerca de la una de la tarde."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "La palabra de Jesús no necesita estar cerca para obrar. Desde Caná, sanó a un niño en Capernaúm con una sola frase. También vemos cómo Jesús hace crecer la fe. Primero el padre quería que Jesús fuera con él. Después creyó solo a su palabra. Al final creyó con toda su familia."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "A veces quisiéramos ver la respuesta antes de confiar. Este padre hizo lo contrario: creyó a la palabra y se puso en camino. Tal vez hoy tienes que volver a casa sin ver todavía el cambio. Puedes caminar apoyado en lo que Jesús ha dicho. Para hoy: nombra a alguien que amas y ponlo en las manos de Jesús, aunque esté lejos de ti."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tu palabra llega donde yo no puedo llegar. Te presento a las personas que amo, cerca o lejos. Enséñame a confiar en ti mientras camino, aun antes de ver la respuesta. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un papá tenía a su hijo muy enfermo y fue a buscar a Jesús. Jesús le dijo: «Ve, tu hijo vive». ¡Y el niño sanó en ese mismo momento! ¿Por quién quieres orar tú hoy?",
+      "actividad": "Dibuja un camino largo entre dos casas. En una pon a Jesús y en la otra al niño sano."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sana, pero esta historia no promete que toda enfermedad termine igual. Orar y buscar ayuda médica van juntos. Caná y Capernaúm estaban a unos 25 o 30 kilómetros, casi un día de camino."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Salmos 107:20", "nota": "«Envió su palabra, y curolos»: Dios sana con su palabra." },
+        { "ref": "Mateo 8:5-13", "nota": "Otro hombre con autoridad que confía en la palabra de Jesús: el centurión." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde estaba el hijo enfermo del oficial?",
+      "opciones": ["En Jerusalén", "En Nazaret", "En Capernaúm"],
+      "correcta": 2,
+      "explicacion": "El niño estaba en Capernaúm, y Jesús estaba en Caná (Juan 4:46)."
+    },
+    {
+      "pregunta": "¿Qué hizo el padre después de oír «Ve, tu hijo vive»?",
+      "opciones": ["Creyó a la palabra y se fue", "Insistió en que Jesús lo acompañara", "Se quedó esperando en Caná"],
+      "correcta": 0,
+      "explicacion": "El hombre creyó a la palabra que Jesús le dijo, y se fue (Juan 4:50)."
+    },
+    {
+      "pregunta": "¿Qué otro milagro había hecho Jesús antes en Caná?",
+      "opciones": ["La pesca milagrosa", "El agua convertida en vino", "La sanidad de un leproso"],
+      "correcta": 1,
+      "explicacion": "Juan lo recuerda: en Caná Jesús había hecho el vino del agua (Juan 4:46)."
+    }
+  ],
+  "estudio": ["inicio-ministerio"],
+  "buscar": "Juan 4:46-54"
+}

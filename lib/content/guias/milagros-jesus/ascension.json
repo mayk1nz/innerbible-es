@@ -1,0 +1,114 @@
+{
+  "id": "ascension",
+  "titulo": "La Ascensión",
+  "subtitulo": "Milagro 43 de 43 · Se fue bendiciendo",
+  "etiquetas": ["Betania, monte de los Olivos", "Tras la Pascua · c. 30 d.C.", "Señal en la vida de Jesús"],
+  "enUnMinuto": [
+    "Cuarenta días después de resucitar, Jesús lleva a sus discípulos hacia Betania.",
+    "Alza las manos, los bendice y, mientras los bendice, es llevado al cielo.",
+    "Los discípulos vuelven a Jerusalén con gran gozo, esperando el Espíritu Santo y su regreso."
+  ],
+  "versiculo": {
+    "texto": "Y aconteció que bendiciéndolos, se fue de ellos; y era llevado arriba al cielo.",
+    "referencia": "Lucas 24:51"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Lucas 24:50-53", "nota": "Lucas: Jesús los bendice cerca de Betania y es llevado al cielo." },
+        { "ref": "Hechos 1:6-11", "nota": "Hechos: la nube, los dos varones de blanco y la promesa de su regreso." },
+        { "ref": "Marcos 16:19-20", "nota": "Marcos: fue recibido en el cielo y se sentó a la diestra de Dios." },
+        { "ref": "Mateo 28:18-20", "nota": "Mateo termina con la misión y la promesa: «yo estoy con vosotros todos los días»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Durante cuarenta días después de resucitar, Jesús se apareció a sus discípulos. Les habló del reino de Dios y les abrió el entendimiento para comprender las Escrituras. Les pidió que esperaran en Jerusalén la promesa del Padre: el Espíritu Santo.",
+        "Un día los llevó fuera, hacia Betania, en la ladera del monte de los Olivos. Ellos le preguntaron si ya iba a restaurar el reino a Israel. Jesús les dijo que no les tocaba saber los tiempos. Pero recibirían la fuerza del Espíritu Santo y serían sus testigos hasta lo último de la tierra.",
+        "Entonces alzó las manos y los bendijo. Y mientras los bendecía, fue llevado arriba al cielo. Una nube lo ocultó de sus ojos. Ellos se quedaron mirando al cielo.",
+        "Dos varones vestidos de blanco se pusieron junto a ellos. Les dijeron: «Varones Galileos, ¿qué estáis mirando al cielo?». Este mismo Jesús volverá como lo vieron irse. Los discípulos lo adoraron y volvieron a Jerusalén con gran gozo. Y estaban siempre en el templo, alabando a Dios."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Ascensión: subida. Jesús sube al cielo, junto al Padre.",
+        "Monte de los Olivos: la colina frente a Jerusalén, al este. Betania está en su ladera.",
+        "La diestra de Dios: el lugar de honor y de autoridad junto al Padre."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús reina junto al Padre: Marcos dice que se sentó a la diestra de Dios. Que su último gesto en la tierra fue bendecir. Se fue con las manos alzadas sobre los suyos. Y que no nos deja solos: promete el Espíritu Santo, nos da una misión y volverá."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Los discípulos podían haber quedado tristes, pero volvieron con gran gozo. Sabían que Jesús no los abandonaba: estaba con el Padre, intercedía por ellos y les enviaría su Espíritu. Tú también puedes vivir con los pies en la tierra y el corazón en el cielo. No te quedes solo mirando arriba: hay una misión cerca de ti. Para hoy: habla de Jesús con alguien de tu casa o de tu barrio."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, que subiste al cielo bendiciendo a los tuyos, bendíceme también a mí. Gracias porque reinas y no me dejas solo. Lléname de tu Espíritu para ser tu testigo donde vivo. Ven pronto, Señor. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuarenta días después de resucitar, Jesús bendijo a sus amigos y subió al cielo. Una nube lo cubrió. ¡Y prometió que volverá! Sus amigos regresaron muy contentos. ¿Qué te gustaría decirle a Jesús?",
+      "actividad": "Dibuja a Jesús con los brazos abiertos, bendiciendo. Esta noche, pide a un adulto que te bendiga antes de dormir."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Lucas dice que fue cerca de Betania (Lucas 24:50). Hechos, que volvieron desde el monte de los Olivos (Hechos 1:12).",
+        "Hechos habla de cuarenta días de apariciones antes de la Ascensión (Hechos 1:3)."
+      ],
+      "tradicion": [
+        "Desde muy antiguo, los cristianos recuerdan este hecho en la cima del monte de los Olivos.",
+        "Muchas iglesias celebran la fiesta de la Ascensión cuarenta días después de Pascua."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Daniel 7:13-14", "nota": "Uno como hijo de hombre viene con las nubes y recibe un reino eterno." },
+        { "ref": "Salmos 110:1", "nota": "«Siéntate a mi diestra»: el salmo que los apóstoles aplicaron a Jesús." },
+        { "ref": "Hebreos 7:25", "nota": "Jesús vive siempre para interceder por nosotros." },
+        { "ref": "Juan 14:2-3", "nota": "Jesús va a preparar lugar y promete volver por los suyos." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Con esta gran señal terminan los 43. Pero la historia sigue: Jesús hizo muchas otras señales que no están escritas (Juan 20:30-31). Pocos días después llegaría Pentecostés, y con él el Espíritu Santo."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hacía Jesús mientras era llevado al cielo?",
+      "opciones": ["Enseñaba en el templo", "Bendecía a sus discípulos", "Oraba en silencio"],
+      "correcta": 1,
+      "explicacion": "Lucas dice que se fue de ellos mientras los bendecía (Lucas 24:51)."
+    },
+    {
+      "pregunta": "¿Durante cuántos días se apareció Jesús antes de subir al cielo?",
+      "opciones": ["Siete", "Doce", "Cuarenta"],
+      "correcta": 2,
+      "explicacion": "Hechos 1:3 dice que se les apareció durante cuarenta días."
+    },
+    {
+      "pregunta": "¿Qué salmo dice: «Siéntate a mi diestra»?",
+      "opciones": ["El Salmo 110", "El Salmo 23", "El Salmo 150"],
+      "correcta": 0,
+      "explicacion": "Es el Salmo 110:1, que el Nuevo Testamento aplica a Jesús."
+    }
+  ],
+  "estudio": ["resurreccion", "hechos-1-7"],
+  "buscar": "Hechos 1:6-11"
+}

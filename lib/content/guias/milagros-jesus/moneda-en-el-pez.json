@@ -1,0 +1,103 @@
+{
+  "id": "moneda-en-el-pez",
+  "titulo": "La moneda en la boca del pez",
+  "subtitulo": "Milagro 29 de 43 · «Por mí y por ti»",
+  "etiquetas": ["Capernaúm, junto al mar de Galilea", "Año 3 · c. 29 d.C.", "Naturaleza y provisión"],
+  "enUnMinuto": [
+    "En Capernaúm preguntan a Pedro si su Maestro paga el impuesto del templo.",
+    "Jesús explica que el Hijo es libre, pero decide pagar para no causar tropiezo.",
+    "Manda a Pedro a pescar: en la boca del primer pez hallará la moneda para los dos."
+  ],
+  "versiculo": {
+    "texto": "Mas porque no los escandalicemos, ve a la mar, y echa el anzuelo, y el primer pez que viniere, tómalo, y abierta su boca, hallarás un estatero: tómalo, y dáselo por mí y por ti.",
+    "referencia": "Mateo 17:27"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 17:24-27", "nota": "Solo lo cuenta Mateo." },
+        { "ref": "Mateo 17:22-23", "nota": "Justo antes: Jesús anuncia otra vez su muerte y su resurrección." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús y sus discípulos llegaron a Capernaúm. Allí los cobradores del impuesto del templo se acercaron a Pedro. Le preguntaron: «¿Vuestro Maestro no paga las dos dracmas?». Pedro respondió enseguida que sí.",
+        "Cuando Pedro entró en la casa, Jesús le habló primero. Le preguntó a quién cobran impuestos los reyes de la tierra: ¿a sus hijos o a los extraños? «De los extraños», dijo Pedro. «Luego los hijos son francos», respondió Jesús. Es decir, los hijos están libres de pagar.",
+        "El templo era la casa de Dios, y Jesús es el Hijo. No tenía por qué pagar. Pero, para no causar tropiezo, decidió hacerlo. Y mandó a Pedro, el pescador, a echar el anzuelo al mar.",
+        "Le dijo que tomara el primer pez que picara. En su boca encontraría un estatero, una moneda de plata. Con ella pagaría por los dos: «por mí y por ti». Mateo no cuenta el momento de la pesca; solo guarda las palabras de Jesús."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Las dos dracmas: el impuesto de cada año para el templo de Jerusalén. Lo pagaban los varones judíos adultos.",
+        "Estatero: una moneda de plata que valía cuatro dracmas. Alcanzaba justo para Jesús y para Pedro.",
+        "Francos: libres, que no tienen que pagar."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús es el Hijo. El templo es la casa de su Padre, y él no le debe nada. Pero, siendo libre, elige no ofender a nadie y pagar. También revela que conoce cada detalle: sabe lo que Pedro habló afuera y dónde hay un pez con una moneda. Y que no paga solo por él: incluye a Pedro. Por mí y por ti."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "A veces tenemos razón y aun así podemos ceder por amor, para no herir a otros. Jesús lo hizo. También te enseña que Dios provee lo justo, a veces de la manera más inesperada. Y fíjate: Jesús mandó a Pedro a hacer lo que sabía hacer, pescar. Dios suele obrar en tu trabajo de cada día. Para hoy: cumple un compromiso pendiente o cede en algo por amor."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú eres el Hijo libre y aun así elegiste servir. Enséñame a ceder por amor cuando haga falta. Gracias porque cuidas mis cuentas y mis necesidades, y porque me incluyes siempre contigo. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús le dijo a Pedro: ve a pescar, y en la boca del primer pez encontrarás una moneda. ¡Con ella pagaron el impuesto del templo! ¿Qué cosas pequeñas cuida Dios en tu casa?",
+      "actividad": "Recorta un pez de papel y pega dentro una moneda de juguete. Cuenta la historia a alguien de tu familia."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Solo Mateo cuenta esta historia. Tiene sentido: antes de seguir a Jesús, él cobraba impuestos (Mateo 9:9). Y el impuesto del templo venía de una antigua ofrenda: medio siclo por persona (Éxodo 30:13)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Éxodo 30:13-15", "nota": "La ofrenda de medio siclo para el santuario, igual para ricos y pobres." },
+        { "ref": "Mateo 22:17-21", "nota": "Jesús enseña a dar al César lo que es del César, y a Dios lo que es de Dios." },
+        { "ref": "1 Corintios 10:32", "nota": "Pablo pide vivir sin ser tropiezo para nadie." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde dijo Jesús que Pedro hallaría la moneda?",
+      "opciones": ["Debajo de una piedra", "En la boca de un pez", "En la barca"],
+      "correcta": 1,
+      "explicacion": "Jesús le dijo que la hallaría al abrir la boca del primer pez (Mateo 17:27)."
+    },
+    {
+      "pregunta": "¿Para qué era el impuesto de las dos dracmas?",
+      "opciones": ["Para el emperador", "Para el rey Herodes", "Para el templo"],
+      "correcta": 2,
+      "explicacion": "Era el impuesto anual para el templo de Jerusalén, la casa de Dios."
+    },
+    {
+      "pregunta": "¿Qué libro de Moisés habla de la ofrenda de medio siclo?",
+      "opciones": ["Éxodo", "Génesis", "Rut"],
+      "correcta": 0,
+      "explicacion": "Éxodo 30:13 pide medio siclo por persona para el santuario."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Mateo 17:24-27"
+}

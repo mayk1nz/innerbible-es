@@ -1,0 +1,126 @@
+{
+  "id": "miriam",
+  "titulo": "Miriam",
+  "subtitulo": "La que cantó junto al mar",
+  "etiquetas": ["Éxodo y desierto · c. 1446 a.C. (debatida)", "Éxodo 15; Números 12", "Liderazgo", "Alabanza"],
+  "enUnMinuto": [
+    "Miriam es la hermana de Moisés y de Aarón, y la Biblia la llama profetisa.",
+    "Después de cruzar el mar, toma un pandero y guía a las mujeres en un canto de victoria.",
+    "Más tarde murmura contra Moisés y Dios la corrige, pero la sana, y el pueblo la espera para seguir."
+  ],
+  "versiculo": {
+    "texto": "Y María les respondía: Cantad a Jehová; porque en extremo se ha engrandecido, echando en la mar al caballo, y al que en él subía.",
+    "referencia": "Éxodo 15:21"
+  },
+  "bloques": [
+    {
+      "tipo": "lista",
+      "titulo": "Su nombre y su tiempo",
+      "items": [
+        "Nombre: Miriam. Su significado es incierto. La Reina-Valera 1909 la llama «María», el mismo nombre de la madre de Jesús.",
+        "Familia: hija de Amram y Jocabed, hermana de Aarón y de Moisés.",
+        "Época: el éxodo y el desierto, c. 1446 a.C. Otros proponen c. 1270 a.C.",
+        "Para leer: Éxodo 15:19-21; Números 12; 20:1 y Miqueas 6:4."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Cuando Moisés era un bebé, su hermana vigiló el cesto entre los juncos y habló con la hija del faraón. Muchos entienden que era Miriam. Años después, Dios saca a Israel de Egipto. El pueblo cruza el mar en seco, y el ejército del faraón queda bajo las aguas.",
+        "Entonces «María la profetisa», hermana de Aarón, toma un pandero. Todas las mujeres salen detrás de ella con panderos y danzas. Miriam canta y ellas responden: canten al Señor, que ha triunfado. Es un canto breve y lleno de alegría.",
+        "En el desierto, Miriam y Aarón empiezan a hablar contra Moisés. El pretexto es la esposa etíope que él había tomado. En el fondo hay celos: «¿Solamente por Moisés ha hablado Jehová?». Dios los llama a los tres a la tienda del encuentro y defiende a Moisés, su siervo fiel.",
+        "Cuando la nube se aparta, Miriam tiene lepra, blanca como la nieve. Aarón pide perdón. Moisés, el hermano criticado, clama por ella: «Ruégote, oh Dios, que la sanes ahora». Miriam queda siete días fuera del campamento. Todo el pueblo espera y no avanza hasta que ella vuelve.",
+        "Miriam muere en Cades, en el desierto, antes de llegar a la tierra prometida. Siglos después, el profeta Miqueas recuerda que Dios envió delante de su pueblo a Moisés, a Aarón y a Miriam."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una voz que guía a alabar",
+      "parrafos": [
+        "Miriam supo poner música a la obra de Dios. Tras la mayor liberación de la historia de Israel, no habló de sí misma: llevó a las mujeres a cantar al Señor. También conoció la caída. Los celos y la crítica la alcanzaron. Pero Dios no la desechó: la corrigió, la sanó y la devolvió a su pueblo. Su historia no termina en la lepra, sino en el regreso."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Por medio de Miriam, Dios enseñó a su pueblo a celebrar la salvación. Miqueas la cuenta entre los que Dios envió para guiar a Israel (Miqueas 6:4). Su canto junto al mar anuncia otro. En el Apocalipsis, los salvados cantan «el cántico de Moisés» y «el cántico del Cordero» (Apocalipsis 15:3). Jesús es la gran victoria que celebramos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás tienes un don para animar a otros: cantar, organizar, reunir. Dios puede usarlo para que muchos le alaben. Y quizás también sientes celos del lugar de otra persona. Miriam conoció las dos cosas. Dios corrige con amor, restaura y te devuelve a tu lugar entre su pueblo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "También para ti",
+      "items": [
+        "Si sirves en la alabanza o lideras en la iglesia: tu tarea es señalar a Dios, no a ti misma.",
+        "Si criticaste a alguien por celos: Miriam fue corregida y restaurada. Pedir perdón abre camino.",
+        "Para los hombres: Moisés oró por la hermana que lo criticó. Esa es la mansedumbre que Jesús enseña.",
+        "Para los jóvenes: Miriam fue valiente desde niña. Dios puede usarte ya, no solo cuando seas grande."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "La Biblia llama profetisas a varias mujeres, como Miriam, Débora y Hulda. Aquí contamos lo que dice el texto. Las iglesias tienen distintas formas de organizar los ministerios de hombres y mujeres."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Éxodo 2:4-8", "nota": "La hermana que vigila el cesto." },
+        { "ref": "Éxodo 15:19-21", "nota": "El canto junto al mar." },
+        { "ref": "Números 12", "nota": "Los celos, la lepra y la sanidad." },
+        { "ref": "Números 20:1", "nota": "Su muerte en Cades." },
+        { "ref": "Miqueas 6:4", "nota": "Enviada delante del pueblo." },
+        { "ref": "Apocalipsis 15:3", "nota": "El cántico de Moisés y del Cordero." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, pon un canto nuevo en mi boca por todo lo que has hecho. Líbrame de los celos y de la crítica que hiere. Cuando me equivoque, corrígeme con tu amor y devuélveme a tu pueblo. Gracias por la victoria de Jesús. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para romper el hielo: ¿qué canción te recuerda algo bueno que Dios hizo en tu vida?",
+        "¿Por qué crees que Miriam respondió a la salvación con música y danza?",
+        "En Números 12, el problema parecía la esposa de Moisés, pero había celos. ¿Cómo se disfrazan hoy los celos?",
+        "Moisés oró por su hermana, y el pueblo la esperó siete días. ¿Qué nos enseña eso sobre la restauración?",
+        "¿Cómo podemos animar a las mujeres de nuestro grupo a usar sus dones?",
+        "Dinámica y cierre: canten juntas un canto de alabanza conocido. Terminen leyendo Éxodo 15:21."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Dios abrió el mar para que su pueblo pasara. Miriam tomó un pandero y cantó feliz con todas las mujeres. ¡Dios nos salvó! ¿Qué canción te gusta cantarle a Dios?",
+      "actividad": "Haz un pandero con dos platos de cartón y unos granos de arroz. Canta y da gracias a Dios."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hizo Miriam después de cruzar el mar?",
+      "opciones": ["Escribió los Diez Mandamientos", "Tomó un pandero y guió un canto", "Volvió a buscar a los egipcios"],
+      "correcta": 1,
+      "explicacion": "Éxodo 15:20-21 dice que tomó un pandero y las mujeres salieron tras ella con panderos y danzas."
+    },
+    {
+      "pregunta": "¿Quién oró para que Dios sanara a Miriam de la lepra?",
+      "opciones": ["Josué", "Su madre Jocabed", "Moisés"],
+      "correcta": 2,
+      "explicacion": "Moisés clamó: «Ruégote, oh Dios, que la sanes ahora» (Números 12:13)."
+    },
+    {
+      "pregunta": "¿Qué dos cánticos se cantan en Apocalipsis 15:3?",
+      "opciones": ["El de Moisés y el del Cordero", "El de David y el de Salomón", "El de Ana y el de María"],
+      "correcta": 0,
+      "explicacion": "Apocalipsis 15:3 habla del cántico de Moisés y del cántico del Cordero: la victoria de Dios."
+    }
+  ],
+  "estudio": ["exodo", "numeros"],
+  "buscar": "Éxodo 15:20-21"
+}

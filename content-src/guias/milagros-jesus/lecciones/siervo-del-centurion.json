@@ -1,0 +1,94 @@
+{
+  "id": "siervo-del-centurion",
+  "titulo": "El siervo del centurión",
+  "subtitulo": "Milagro 11 de 43 · Una fe que admiró a Jesús",
+  "etiquetas": ["Capernaúm", "Año 2 · c. 28 d.C.", "Curación", "En Mateo y Lucas"],
+  "enUnMinuto": [
+    "Un oficial romano de Capernaúm pide ayuda a Jesús para su siervo, que está a punto de morir.",
+    "No se siente digno de recibirlo en su casa y confía en que basta una palabra de Jesús.",
+    "Jesús admira su fe, y el siervo sana en ese mismo momento."
+  ],
+  "versiculo": {
+    "texto": "Y respondió el centurión, y dijo: Señor, no soy digno de que entres debajo de mi techado; mas solamente di la palabra, y mi mozo sanará.",
+    "referencia": "Mateo 8:8"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 8:5-13", "nota": "Mateo lo cuenta en breve, como si el centurión hablara en persona." },
+        { "ref": "Lucas 7:1-10", "nota": "Lucas cuenta que el centurión envió a ancianos judíos y luego a unos amigos." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "En Capernaúm vivía un centurión, un oficial del ejército romano. No era judío, pero amaba al pueblo de Israel. Lucas cuenta que había construido la sinagoga del lugar. Un siervo suyo, al que apreciaba mucho, estaba paralizado, sufría mucho y estaba a punto de morir.",
+        "El centurión envió a unos ancianos judíos a pedir ayuda a Jesús. Ellos hablaron bien de él, y Jesús se puso en camino. Cuando ya estaba cerca, el centurión mandó a unos amigos con un mensaje. «Señor, no te incomodes, que no soy digno que entres debajo de mi tejado».",
+        "Él entendía de autoridad. Dijo que también él daba órdenes a sus soldados, y ellos obedecían. Por eso sabía que Jesús no necesitaba ir. Bastaba una palabra suya.",
+        "Jesús se admiró. Se volvió a la gente que lo seguía y dijo que ni en Israel había encontrado tanta fe. Mateo cuenta que le dijo: «Ve, y como creiste te sea hecho». Cuando los enviados volvieron a la casa, encontraron sano al siervo."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Centurión: oficial romano que mandaba a unos cien soldados.",
+        "Mozo: la RV1909 llama así en Mateo al siervo joven del centurión."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "La autoridad de Jesús no tiene fronteras: sana con su palabra, a distancia. Y su amor tampoco tiene fronteras: atiende a un extranjero, a un oficial de un ejército que ocupaba el país. Jesús se admira de la fe humilde. El centurión no confiaba en sus méritos, sino en la palabra de Jesús."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "El centurión tenía poder, pero se acercó con humildad y pensando en otro, su siervo. Tú también puedes pedir por los que dependen de ti o trabajan contigo. Y puedes confiar en la palabra de Jesús aunque no lo veas llegar a tu casa. Para hoy: ora por alguien que trabaja contigo o para ti, y dile una palabra de aprecio."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no soy digno de que entres en mi casa, pero confío en tu palabra. Te presento a las personas que están a mi cargo y a las que sufren. Di tu palabra sobre ellas. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un soldado importante tenía a su ayudante muy enfermo. Le pidió a Jesús que solo dijera una palabra. ¡Y así pasó! Jesús se alegró de su gran fe. ¿Por quién quieres pedirle a Jesús hoy?",
+      "actividad": "Jueguen a dar órdenes sencillas, como «ven» o «siéntate». Luego hablen de por qué basta una palabra de Jesús."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo resume la historia como si el centurión hablara con Jesús en persona. Lucas cuenta que lo hizo por medio de enviados. Así contaba también la gente de entonces lo que alguien hacía por medio de sus mensajeros."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? Muchas iglesias repiten palabras del centurión antes de la comunión, como «Señor, no soy digno». Así su fe humilde se volvió oración de millones de cristianos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién era el centurión?",
+      "opciones": ["Un sacerdote del templo", "Un oficial del ejército romano", "Un pescador de Capernaúm"],
+      "correcta": 1,
+      "explicacion": "Era un oficial romano con soldados a su cargo (Mateo 8:9)."
+    },
+    {
+      "pregunta": "¿Qué pidió el centurión a Jesús?",
+      "opciones": ["Que solamente dijera la palabra", "Que fuera a comer a su casa", "Que sanara a su hija"],
+      "correcta": 0,
+      "explicacion": "Dijo: no soy digno; mas solamente di la palabra, y mi mozo sanará (Mateo 8:8)."
+    },
+    {
+      "pregunta": "¿Qué otro hombre confió en la palabra de Jesús para un hijo lejano?",
+      "opciones": ["Jairo", "Zaqueo", "El oficial del rey en Caná"],
+      "correcta": 2,
+      "explicacion": "El oficial del rey creyó cuando Jesús le dijo: Ve, tu hijo vive (Juan 4:50)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Lucas 7:1-10"
+}

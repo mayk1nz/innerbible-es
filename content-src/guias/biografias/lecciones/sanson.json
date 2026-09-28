@@ -1,0 +1,120 @@
+{
+  "id": "sanson",
+  "titulo": "Sansón",
+  "subtitulo": "Una fuerza que venía de Dios",
+  "etiquetas": ["Antiguo Testamento", "Conquista y jueces", "Tribu de Dan"],
+  "enUnMinuto": [
+    "Sansón nace por una promesa de Dios y crece consagrado a Él, con una fuerza que viene del Espíritu.",
+    "Pero se deja llevar por sus deseos, juega con su llamado y cae en manos de sus enemigos.",
+    "Ya ciego y humillado, vuelve a clamar a Dios, y Dios lo escucha."
+  ],
+  "versiculo": {
+    "texto": "Porque tú te harás embarazada, y parirás un hijo: y no subirá navaja sobre su cabeza, porque aquel niño será Nazareo a Dios desde el vientre, y él comenzará a salvar a Israel de mano de los Filisteos.",
+    "referencia": "Jueces 13:5"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Su nombre probablemente viene de la palabra hebrea para «sol». La Reina-Valera 1909 lo escribe Samsón.",
+        "Era de la tribu de Dan, del pueblo de Sora, hijo de Manoa. Vivió al final del tiempo de los jueces, hacia el 1100 a.C., cuando los filisteos dominaban a Israel. Fue juez de Israel veinte años (Jueces 16:31).",
+        "Era nazareo: una persona consagrada a Dios que no bebía vino ni se cortaba el cabello (Números 6:1-8). Su cabello largo era la señal de esa entrega."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un hijo anunciado. La esposa de Manoa no puede tener hijos. Un ángel le anuncia que tendrá uno, consagrado a Dios desde antes de nacer (Jueces 13:2-7).",
+        "Padres que oran. Manoa pide a Dios que les enseñe cómo criar al niño (Jueces 13:8).",
+        "Bendecido. Sansón crece, Dios lo bendice y el Espíritu del Señor empieza a moverlo (Jueces 13:24-25).",
+        "Sus ojos mandan. Se enamora de una filistea y no escucha los consejos de sus padres (Jueces 14:1-3).",
+        "Fuerza del Espíritu. El Espíritu viene sobre él, y vence a un león joven con sus propias manos (Jueces 14:5-6).",
+        "Enemigos y venganzas. Sansón enfrenta solo a los filisteos una y otra vez. Después de una gran victoria, tiene sed y clama a Dios, que le da agua (Jueces 15:14-19).",
+        "Dalila. Se enamora de Dalila. Los jefes filisteos le pagan para descubrir el secreto de su fuerza (Jueces 16:4-5).",
+        "Juega con su llamado. Tres veces la engaña. Al final, cansado de sus ruegos, le cuenta que es nazareo (Jueces 16:6-17).",
+        "La caída. Mientras duerme, le cortan el cabello. Sansón no sabe que el Señor se ha apartado de él. Los filisteos lo dejan ciego y lo ponen a moler en la cárcel (Jueces 16:19-21).",
+        "El cabello vuelve a crecer. En la cárcel, poco a poco, su cabello crece otra vez (Jueces 16:22).",
+        "Su última oración. En la fiesta de su dios Dagón, los filisteos se burlan de él. Sansón pide a Dios: «acuérdate ahora de mí». Empuja las columnas, el templo cae y él muere con sus enemigos (Jueces 16:23-30)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "El ángel dijo que Sansón «comenzará a salvar a Israel». Sansón solo comenzó, y con muchos errores. Siglos después, otro ángel anunció a un niño que salvaría a su pueblo de sus pecados (Mateo 1:21). Jesús no se dejó vencer por sus deseos: obedeció al Padre hasta el final. Lo que Sansón empezó a medias, Jesús lo cumple del todo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Los dones son de Dios. La fuerza de Sansón venía del Espíritu, no de él. Esta semana: agradece a Dios por un talento tuyo y úsalo para servir a alguien.",
+        "No se juega con el llamado. Sansón se acercó al peligro una y otra vez. Esta semana: aléjate de una situación que sabes que te hace caer.",
+        "Nunca es tarde para clamar. En la cárcel, Sansón volvió a orar y Dios lo escuchó. Esta semana: vuelve a orar por algo que creías perdido."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "La Biblia cuenta un detalle pequeño: en la cárcel, el cabello de Sansón empezó a crecer. Aun en las consecuencias de nuestros errores, Dios no se olvida de nosotros. ¿Hay algo en tu vida que sientes que ya no tiene arreglo? Háblale hoy a Dios de eso."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Sansón es un personaje difícil: tuvo fe, pero también mucho orgullo y deseo de venganza. La Biblia no lo presenta como ejemplo en todo. Aun así, Hebreos 11:32 lo nombra entre los que vivieron por la fe. Dios obra también con personas muy imperfectas."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Jueces 13", "nota": "El anuncio de su nacimiento" },
+        { "ref": "Jueces 14", "nota": "La boda en Timnat y el león" },
+        { "ref": "Jueces 15", "nota": "Sus luchas con los filisteos" },
+        { "ref": "Jueces 16", "nota": "Dalila, su caída y su muerte" },
+        { "ref": "Números 6:1-8", "nota": "Qué era un nazareo" },
+        { "ref": "Hebreos 11:32", "nota": "Sansón en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Sansón era muy fuerte, pero su fuerza venía de Dios. ¿Qué cosas buenas te ha dado Dios a ti?",
+      "actividad": "Para el adulto: el Espíritu del Señor le daba fuerza (Jueces 14:6). Hagan una lista de los dones del niño y oren para que los use bien."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, todo lo bueno que tengo viene de ti. Guárdame de jugar con lo que me confiaste. Y si caigo, acuérdate de mí, como te acordaste de Sansón. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Sansón no sabía que el Señor se había apartado de él. ¿Cómo podemos notar que nos alejamos de Dios?",
+        "¿Por qué creen que Dios escuchó a Sansón al final, después de tantos errores?",
+        "¿Qué dones de Dios estamos usando solo para nosotros?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué era un nazareo, como Sansón?",
+      "opciones": ["Un soldado del rey", "Una persona consagrada a Dios", "Un sacerdote del templo"],
+      "correcta": 1,
+      "explicacion": "El nazareo se consagraba a Dios: no bebía vino ni se cortaba el cabello (Números 6:1-8)."
+    },
+    {
+      "pregunta": "¿De dónde venía la fuerza de Sansón?",
+      "opciones": ["Del Espíritu del Señor", "De la comida que comía", "De una espada especial"],
+      "correcta": 0,
+      "explicacion": "La Biblia repite que el Espíritu del Señor venía sobre él (Jueces 14:6; 15:14)."
+    },
+    {
+      "pregunta": "Sansón comenzó a salvar a Israel. ¿Qué anunció el ángel sobre Jesús en Mateo 1:21?",
+      "opciones": ["Que sería un gran guerrero", "Que viviría en un palacio", "Que salvaría a su pueblo de sus pecados"],
+      "correcta": 2,
+      "explicacion": "El ángel dijo a José que Jesús salvaría a su pueblo de sus pecados (Mateo 1:21)."
+    }
+  ],
+  "estudio": ["jueces"],
+  "buscar": "Sansón"
+}

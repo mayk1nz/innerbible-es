@@ -1,0 +1,93 @@
+{
+  "id": "cinco-mil",
+  "titulo": "Cinco panes y dos peces",
+  "subtitulo": "Milagro 20 de 43 · Los cinco mil, en los cuatro evangelios",
+  "etiquetas": ["Cerca de Betsaida", "Año 3 · c. 29 d.C.", "Naturaleza y provisión", "Señal de Juan · 4 de 7"],
+  "enUnMinuto": [
+    "Una multitud sigue a Jesús a un lugar apartado, y al caer la tarde no hay qué comer.",
+    "Un muchacho tiene cinco panes y dos peces; Jesús da gracias, los parte, y comen todos.",
+    "Sobran doce cestas, y la gente entiende que Jesús es alguien muy especial."
+  ],
+  "versiculo": {
+    "texto": "Y tomó Jesús aquellos panes, y habiendo dado gracias, repartió a los discípulos, y los discípulos a los que estaban recostados: asimismo de los peces, cuanto querían.",
+    "referencia": "Juan 6:11"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 14:13-21", "nota": "Mateo precisa: cinco mil hombres, sin contar mujeres y niños." },
+        { "ref": "Marcos 6:30-44", "nota": "Marcos cuenta los grupos de cien y de cincuenta sobre la hierba verde." },
+        { "ref": "Lucas 9:10-17", "nota": "Lucas lo sitúa cerca de Betsaida." },
+        { "ref": "Juan 6:1-14", "nota": "Juan nombra a Felipe, a Andrés y al muchacho de los panes de cebada." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Los apóstoles volvieron de su misión, y Jesús quiso llevarlos a descansar a un lugar apartado. Pero mucha gente los siguió a pie. Jesús los vio como ovejas sin pastor y tuvo compasión. Les enseñó y sanó a los enfermos.",
+        "Al caer la tarde, los discípulos le propusieron despedir a la gente para que buscara comida. Jesús respondió: «Dadles vosotros de comer». Felipe calculó que ni doscientos denarios de pan alcanzarían. Andrés encontró a un muchacho con cinco panes de cebada y dos pececillos. «¿mas qué es esto entre tantos?», dijo.",
+        "Jesús mandó que la gente se sentara sobre la hierba, en grupos. Tomó los panes, miró al cielo, dio gracias y los partió. Los discípulos repartieron el pan y los peces. Comieron todos hasta quedar satisfechos: unos cinco mil hombres, además de mujeres y niños.",
+        "Jesús pidió recoger lo que sobró, «porque no se pierda nada». Llenaron doce cestas. La gente decía que Jesús era el profeta que había de venir. Quisieron llevárselo por la fuerza para hacerlo rey, pero él se retiró solo al monte."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús se compadece de la gente entera: del alma y también del estómago. Toma lo poco y lo multiplica con abundancia. Y lo hace a través de sus discípulos, que reparten. Al día siguiente él mismo explica la señal: «Yo soy el pan de vida». No vino a ser un rey de pan gratis, sino el alimento que da vida."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Andrés pensó lo mismo que pensamos a menudo: ¿qué es esto entre tantos? Tus fuerzas, tu tiempo o tu dinero parecen poco ante tanta necesidad. Pero en manos de Jesús, lo poco alcanza. Él solo pide que se lo entregues. Para hoy: comparte algo concreto, aunque sea pequeño, con alguien que lo necesita."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, te entrego lo poco que tengo. Bendícelo y multiplícalo para bien de otros. Dame un corazón compasivo como el tuyo, y aliméntame con tu vida, pan que no se acaba. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Miles de personas tenían hambre. Un niño tenía solo cinco panes y dos peces, ¡y se los dio a Jesús! Jesús dio gracias, y alcanzó para todos. ¡Hasta sobraron doce canastas! ¿Qué puedes compartir tú hoy?",
+      "actividad": "Dibuja cinco panes y dos peces. Después comparte tu merienda con alguien de tu familia."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? Es el único milagro, antes de la resurrección, que cuentan los cuatro evangelios. El pan de cebada era el pan de la gente sencilla. Juan llama «señales» a los milagros; esta suele contarse como la cuarta."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "2 Reyes 4:42-44", "nota": "Eliseo alimenta a cien hombres con veinte panes de cebada, y sobra." },
+        { "ref": "Éxodo 16:14-15", "nota": "Dios da el maná a su pueblo en el desierto." },
+        { "ref": "Juan 6:35", "nota": "Jesús explica la señal: «Yo soy el pan de vida»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos panes y peces tenía el muchacho?",
+      "opciones": ["Siete panes y pocos peces", "Cinco panes y dos peces", "Doce panes y cinco peces"],
+      "correcta": 1,
+      "explicacion": "Tenía cinco panes de cebada y dos pececillos (Juan 6:9)."
+    },
+    {
+      "pregunta": "¿Cuántas cestas llenaron con lo que sobró?",
+      "opciones": ["Doce", "Siete", "Cinco"],
+      "correcta": 0,
+      "explicacion": "Llenaron doce cestas de pedazos (Juan 6:13)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús de sí mismo después de esta señal?",
+      "opciones": ["Yo soy la luz del mundo", "Yo soy la vid verdadera", "Yo soy el pan de vida"],
+      "correcta": 2,
+      "explicacion": "En Capernaúm explicó la señal: Yo soy el pan de vida (Juan 6:35)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Juan 6:1-14"
+}

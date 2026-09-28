@@ -1,0 +1,105 @@
+{
+  "id": "cuatro-mil",
+  "titulo": "Siete panes para cuatro mil",
+  "subtitulo": "Milagro 25 de 43 · Compasión por una multitud cansada",
+  "etiquetas": ["Decápolis, junto al mar de Galilea", "Año 3 · c. 29 d.C.", "Naturaleza y provisión"],
+  "enUnMinuto": [
+    "Una gran multitud lleva tres días con Jesús y ya no tiene qué comer.",
+    "Con siete panes y unos pocos peces, Jesús da de comer a unos cuatro mil hombres.",
+    "Todos quedan satisfechos, y sobran siete espuertas llenas."
+  ],
+  "versiculo": {
+    "texto": "Tengo compasión de la multitud, porque ya hace tres días que están conmigo, y no tienen qué comer:",
+    "referencia": "Marcos 8:2"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 15:32-39", "nota": "Mateo precisa: cuatro mil hombres, sin contar mujeres ni niños." },
+        { "ref": "Marcos 8:1-10", "nota": "Marcos añade que algunos habían venido de lejos." },
+        { "ref": "Mateo 15:29-31", "nota": "Antes, en el mismo monte, Jesús sanó a muchos enfermos." },
+        { "ref": "Marcos 8:14-21", "nota": "Jesús recuerda este milagro y el de los cinco mil. Lucas y Juan no lo cuentan." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús seguía en la Decápolis, cerca del mar de Galilea. Una gran multitud llevaba tres días con él. Le traían cojos, ciegos, mudos y muchos enfermos, y él los sanaba. Pero la comida se había terminado.",
+        "Jesús llamó a sus discípulos y les dijo: «Tengo compasión de la multitud». No quería despedirlos en ayunas, porque podían desmayarse en el camino. Algunos habían venido de lejos. Los discípulos preguntaron de dónde iban a sacar pan en aquel lugar desierto.",
+        "Jesús les preguntó cuántos panes tenían. «Siete», dijeron, y unos pocos pececillos. Mandó que la gente se sentara en el suelo. Tomó los panes, dio gracias, los partió y los dio a sus discípulos para repartir. Lo mismo hizo con los peces.",
+        "Todos comieron hasta quedar satisfechos. Con lo que sobró llenaron siete espuertas. Eran unos cuatro mil hombres, sin contar mujeres y niños. Después Jesús despidió a la gente y se fue en barca hacia Dalmanuta."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Espuerta: canasta grande, tejida, para llevar cosas.",
+        "Dalmanuta: un lugar junto al lago que hoy no se conoce con certeza. Mateo lo llama Magdala.",
+        "En ayunas: sin haber comido nada."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús ve el cansancio del cuerpo, no solo el del alma. Él mismo lo dijo: tengo compasión. Que no se cansa de dar: ya había alimentado a cinco mil, y lo vuelve a hacer. Y que su mesa es amplia. Esto sucedió en la Decápolis, una tierra donde vivían muchos que no eran judíos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Los discípulos miraron lo que faltaba: estamos en un desierto. Jesús preguntó por lo que había: «¿Cuántos panes tenéis?». Tal vez hoy solo ves lo que no alcanza. Empieza por lo que sí tienes, aunque sea poco, y ponlo en sus manos con gratitud. Él sabe multiplicarlo a su manera. Para hoy: da gracias antes de comer y comparte algo con alguien que lo necesite."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú tuviste compasión de una multitud cansada. Mira también mi cansancio y el de mi familia. Te doy lo poco que tengo: bendícelo y enséñame a compartirlo. Gracias por el pan de cada día. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Mucha gente llevaba tres días escuchando a Jesús y ya no tenía comida. Con siete panes y unos pececillos, Jesús dio de comer a miles, ¡y sobraron siete canastas! ¿Con quién puedes compartir algo hoy?",
+      "actividad": "Cuenten siete panes o galletas y compártanlos en familia. Antes de comer, den gracias juntos como hizo Jesús."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Algunos piensan que es la misma historia que la de los cinco mil. Pero Jesús mismo recuerda los dos milagros por separado. Cinco panes para cinco mil, con doce canastas de sobra. Siete panes para cuatro mil, con siete espuertas (Marcos 8:19-20)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "2 Reyes 4:42-44", "nota": "Eliseo da de comer a cien hombres con veinte panes, y sobra." },
+        { "ref": "Éxodo 16:15", "nota": "Dios alimenta a su pueblo en el desierto con el maná." },
+        { "ref": "Salmos 145:15-16", "nota": "Dios abre su mano y da a todos su comida a su tiempo." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos panes tenían los discípulos?",
+      "opciones": ["Cinco", "Siete", "Doce"],
+      "correcta": 1,
+      "explicacion": "Tenían siete panes y unos pocos pececillos (Marcos 8:5-7)."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo llevaba la gente con Jesús?",
+      "opciones": ["Tres días", "Un día", "Una semana"],
+      "correcta": 0,
+      "explicacion": "Jesús dijo que llevaban tres días con él y no tenían qué comer (Marcos 8:2)."
+    },
+    {
+      "pregunta": "¿Qué profeta dio de comer a cien hombres con veinte panes, y sobró?",
+      "opciones": ["Samuel", "Daniel", "Eliseo"],
+      "correcta": 2,
+      "explicacion": "Eliseo lo hizo según la palabra de Dios (2 Reyes 4:42-44)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 8:1-10"
+}

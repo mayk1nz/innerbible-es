@@ -1,0 +1,120 @@
+{
+  "id": "jose-de-arimatea",
+  "titulo": "José de Arimatea",
+  "subtitulo": "El que dio su sepulcro a Jesús",
+  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Jerusalén"],
+  "enUnMinuto": [
+    "José de Arimatea era un hombre rico y miembro del consejo de los jefes de su pueblo.",
+    "Seguía a Jesús en secreto, pero el día de la cruz se llenó de valor.",
+    "Pidió a Pilato el cuerpo de Jesús y lo puso en su propio sepulcro nuevo."
+  ],
+  "versiculo": {
+    "texto": "José de Arimatea, senador noble, que también esperaba el reino de Dios, vino, y osadamente entró a Pilato, y pidió el cuerpo de Jesús.",
+    "referencia": "Marcos 15:43"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "José era de Arimatea, «ciudad de la Judea» (Lucas 23:51). Muchos piensan que es Ramá, el pueblo del profeta Samuel, pero no es seguro. Su nombre viene del hebreo Yosef: “Dios añade”.",
+        "Era rico (Mateo 27:57) y formaba parte del consejo que gobernaba al pueblo judío en Jerusalén. Lucas lo describe como un hombre bueno y justo, que esperaba el reino de Dios (Lucas 23:50-51)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un discípulo escondido. José seguía a Jesús, pero en secreto, por miedo a las autoridades (Juan 19:38).",
+        "No estuvo de acuerdo. Cuando el consejo decidió contra Jesús, José no dio su voto a esa decisión (Lucas 23:50-51).",
+        "Se llena de valor. La tarde de la cruz, antes del sábado, José fue con valentía a Pilato. Le pidió el cuerpo de Jesús (Marcos 15:42-43).",
+        "Pilato lo permite. Pilato se sorprendió de que Jesús ya hubiera muerto. Lo confirmó con el centurión y entregó el cuerpo a José (Marcos 15:44-45).",
+        "Un sepulcro nuevo. José compró una sábana de lino y envolvió el cuerpo. Con Nicodemo, lo puso en su propio sepulcro nuevo, cavado en la roca (Marcos 15:46; Juan 19:39-41).",
+        "Una piedra en la entrada. José hizo rodar una gran piedra a la puerta. María Magdalena y otra María miraban dónde lo ponían (Mateo 27:60-61).",
+        "Una tumba que no retuvo a nadie. Al tercer día, las mujeres encontraron la piedra movida. El ángel les dijo: «No está aquí; porque ha resucitado» (Mateo 28:1-6)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Isaías había anunciado que el Siervo de Dios estaría «con los ricos» en su muerte (Isaías 53:9). Por medio de José, eso se cumplió. José prestó una tumba nueva, y Jesús la dejó vacía. Lo que damos a Jesús nunca se pierde: él lo llena de vida."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Nunca es tarde para dar la cara. José dejó de esconderse en el peor momento. Esta semana, di a alguien con sencillez que tú sigues a Jesús.",
+        "Dar lo mejor, no lo que sobra. José dio su propia tumba nueva. Esta semana, dale a Dios algo valioso: tu mejor hora del día para orar.",
+        "No seguir a la mayoría cuando está mal. José no apoyó la decisión del consejo. Esta semana, cuando algo injusto se aplauda, no te sumes."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "José tenía mucho que perder: fama, puesto y amigos. Aun así, se atrevió. ¿Qué te da miedo perder si otros saben que amas a Jesús? Pídele hoy el valor de José."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era rico, miembro del consejo y discípulo de Jesús (Mateo 27:57; Marcos 15:43).",
+        "No estuvo de acuerdo con la decisión contra Jesús (Lucas 23:51).",
+        "Sepultó a Jesús en su propio sepulcro nuevo, junto con Nicodemo (Mateo 27:60; Juan 19:39-41).",
+        "La Biblia no vuelve a hablar de él después de la sepultura."
+      ],
+      "tradicion": [
+        "El Evangelio de Nicodemo, un escrito del siglo IV que no forma parte de la Biblia, cuenta que José fue encarcelado. Y que Dios lo liberó.",
+        "Leyendas de la Edad Media lo llevan hasta Inglaterra y lo unen a la historia del Santo Grial.",
+        "Historia: desde el siglo IV, muchos cristianos veneran su tumba en la Basílica del Santo Sepulcro, en Jerusalén.",
+        "Muchos visitantes, sobre todo evangélicos, oran también en la Tumba del Jardín, un lugar propuesto en el siglo XIX."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "No lo confundas con José de Nazaret, esposo de María, ni con José, hijo de Jacob, en Génesis. Tampoco con José llamado Barsabás (Hechos 1:23)."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Mateo 27:57-61", "nota": "El rico que pidió el cuerpo" },
+        { "ref": "Marcos 15:42-47", "nota": "Entró con valentía a Pilato" },
+        { "ref": "Lucas 23:50-56", "nota": "Bueno y justo" },
+        { "ref": "Juan 19:38-42", "nota": "Con Nicodemo, en el huerto" },
+        { "ref": "Isaías 53:9", "nota": "Con los ricos en su muerte" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "José le prestó a Jesús su tumba nueva. ¡Y Jesús se la devolvió vacía, porque resucitó! ¿Qué te gustaría regalarle tú a Jesús?",
+      "actividad": "Para papás y abuelos: José tuvo valor para ayudar a Jesús (Marcos 15:43). Hagan juntos una piedra de papel que se mueve y cuenten que Jesús resucitó."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, como José de Arimatea, no quiero seguirte a escondidas. Dame valor para mostrar que te amo. Recibe lo mejor que tengo, y llénalo de tu vida. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde puso José el cuerpo de Jesús?",
+      "opciones": ["En la tumba de su familia en Galilea", "En su propio sepulcro nuevo", "En una cueva del desierto"],
+      "correcta": 1,
+      "explicacion": "José lo puso en su sepulcro nuevo, cavado en la roca (Mateo 27:60)."
+    },
+    {
+      "pregunta": "¿Por qué José seguía a Jesús en secreto al principio?",
+      "opciones": ["Por miedo a las autoridades", "Porque vivía lejos", "Porque Jesús se lo pidió"],
+      "correcta": 0,
+      "explicacion": "Juan dice que era discípulo en secreto, por miedo (Juan 19:38)."
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que el Siervo estaría con los ricos en su muerte?",
+      "opciones": ["Jeremías", "Malaquías", "Isaías"],
+      "correcta": 2,
+      "explicacion": "Isaías 53:9 lo anunció, y se cumplió en la tumba de José."
+    }
+  ],
+  "estudio": ["pasion-y-muerte", "resurreccion"],
+  "buscar": "José de Arimatea"
+}

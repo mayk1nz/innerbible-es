@@ -1,0 +1,126 @@
+{
+  "id": "rut",
+  "titulo": "Rut",
+  "subtitulo": "La moabita que eligió quedarse",
+  "etiquetas": ["Jueces · c. 1100 a.C.", "Rut 1–4", "Migración", "Viudez"],
+  "enUnMinuto": [
+    "Rut es moabita y queda viuda muy joven; en vez de volver con los suyos, acompaña a su suegra Noemí a Belén.",
+    "Allí trabaja recogiendo espigas para sostenerlas a las dos, y Dios la guía al campo de Booz.",
+    "Booz la redime y se casa con ella: de Rut nace el abuelo del rey David, y de esa familia vendrá Jesús."
+  ],
+  "versiculo": {
+    "texto": "Y Ruth respondió: No me ruegues que te deje, y me aparte de ti: porque donde quiera que tú fueres, iré yo; y donde quiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios.",
+    "referencia": "Rut 1:16"
+  },
+  "bloques": [
+    {
+      "tipo": "lista",
+      "titulo": "Su nombre y su tiempo",
+      "items": [
+        "Nombre: Rut. Su significado es incierto; muchos lo han entendido como “amiga” o “compañera”.",
+        "Origen: moabita, de un pueblo vecino de Israel.",
+        "Época: el tiempo de los jueces, c. 1100 a.C.",
+        "Para leer: Rut 1–4 y Mateo 1:5."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Hay hambre en Belén, y una familia se va a Moab: Elimelec, su esposa Noemí y sus dos hijos. Los hijos se casan con dos moabitas, Orfa y Rut. En pocos años mueren los tres hombres. Quedan tres viudas, sin tierra y sin nadie que las proteja.",
+        "Noemí decide volver a Belén y pide a sus nueras que se queden en su tierra. Orfa se despide llorando. Rut se abraza a ella y le dice: «Tu pueblo será mi pueblo, y tu Dios mi Dios». Solo la muerte las separará.",
+        "Llegan a Belén al comienzo de la cosecha de la cebada. La ley de Dios mandaba dejar espigas para el pobre y el extranjero. Rut sale a recogerlas y, sin saberlo, llega al campo de Booz, pariente de Elimelec. Booz ya sabe cómo ha cuidado a su suegra. La protege, le da agua y pan, y pide a sus criados que dejen caer espigas para ella.",
+        "En Israel, un pariente cercano podía “redimir” a una familia arruinada: recuperar su tierra y darle descendencia. Siguiendo el consejo de Noemí, Rut pide a Booz, con respeto y valentía, que la cubra con su protección. Booz la llama «mujer virtuosa». Al día siguiente, a la puerta de la ciudad, lo arregla todo de forma honrada y pública.",
+        "Booz y Rut se casan, y Dios les da un hijo, Obed. Las mujeres de Belén dicen que Rut vale para Noemí más que siete hijos. Obed será el padre de Isaí, y Isaí, el padre del rey David."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: una lealtad que ama",
+      "parrafos": [
+        "Para lo que Rut vivió, la Biblia usa una palabra hebrea muy rica: jésed. Es un amor fiel que se queda cuando sería más fácil irse. Rut no tenía obligación de acompañar a Noemí. Lo hizo por amor, y ese amor se vio en obras: madrugó, trabajó bajo el sol y se atrevió a pedir ayuda. Es la única mujer con nombre a quien la Biblia llama «mujer virtuosa»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "En Rut casi no hay milagros visibles. Dios actúa en una cosecha, un campo “casual” y una ley pensada para los pobres. A través de una viuda extranjera, devolvió la alegría a Noemí y dio a Israel la familia de David. Mateo la nombra entre los antepasados de Jesús (Mateo 1:5). Booz, el pariente que redime por amor, nos hace pensar en Cristo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si tuviste que dejar tu tierra, sabes lo que es empezar de cero siendo “la extranjera”. Si cuidas a un familiar mayor, sabes lo que es servir sin aplausos. Dios ve ese amor silencioso. Él sabe abrir puertas en campos que no son tuyos. Bajo sus alas hay lugar para ti."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "También para ti",
+      "items": [
+        "Si estás de luto: el libro empieza con tres tumbas y termina con una cuna. Dios no apura tu dolor, pero sigue escribiendo.",
+        "Para los hombres: Booz fue generoso, protegió sin aprovecharse y fue honesto cuando podía tomar un atajo.",
+        "Para los jóvenes: Rut no heredó la fe, la eligió. Tu fe también puede ser una decisión tuya, no solo una costumbre de casa.",
+        "Para la iglesia: ¿quién es hoy la extranjera entre nosotros? Podemos dejarle “espigas” a propósito."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "La escena de la era (Rut 3) es un pedido formal de protección y redención, según las costumbres de la época. No es una escena de seducción. Con niños, basta decir que Rut pidió a Booz que cuidara de su familia."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Rut 1", "nota": "La decisión de Rut." },
+        { "ref": "Rut 2", "nota": "Espigas en el campo de Booz." },
+        { "ref": "Levítico 19:9-10", "nota": "La ley que protegía al pobre y al extranjero." },
+        { "ref": "Rut 3", "nota": "El pedido de redención." },
+        { "ref": "Rut 4", "nota": "La boda y el nacimiento de Obed." },
+        { "ref": "Mateo 1:5", "nota": "Rut en la familia de Jesús." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque me cuidas aun en los días de pérdida. Dame un amor fiel como el de Rut, para quedarme junto a quienes me necesitan. Cuando me sienta lejos de casa, recuérdame que bajo tus alas tengo refugio. En el nombre de Jesús, amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para romper el hielo: ¿quién ha sido tu “Rut”, alguien que se quedó contigo cuando todo se vino abajo?",
+        "Orfa y Rut amaban a Noemí, pero decidieron distinto. ¿Qué crees que pesó en el corazón de Rut?",
+        "¿Dónde ves la mano de Dios en los detalles “casuales” de esta historia? ¿Y en tu vida?",
+        "Booz dejó caer espigas a propósito. ¿Cómo podemos ayudar a otros sin humillarlos?",
+        "¿Quién es hoy la extranjera en tu barrio o en tu iglesia?",
+        "Dinámica y cierre: cada una escribe el nombre de alguien a quien cuida o que la cuidó. Oren por esas personas y lean Rut 1:16-17."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Rut quería mucho a su suegra Noemí y no la dejó sola. Recogía espigas para que las dos pudieran comer. Booz, un hombre bueno, la ayudó. ¡De su familia nació Jesús! ¿A quién puedes ayudar tú?",
+      "actividad": "Dibuja un campo de trigo. En cada espiga, escribe el nombre de una persona a la que quieres ayudar."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿De qué pueblo era Rut?",
+      "opciones": ["De Egipto", "De Moab", "De Belén"],
+      "correcta": 1,
+      "explicacion": "Rut era moabita. Se casó con un hijo de Noemí cuando la familia vivía en Moab."
+    },
+    {
+      "pregunta": "¿Qué hacía Rut en el campo de Booz?",
+      "opciones": ["Cuidaba ovejas", "Vendía pan", "Recogía espigas"],
+      "correcta": 2,
+      "explicacion": "Rut recogía las espigas que quedaban detrás de los segadores, como permitía la ley para los pobres."
+    },
+    {
+      "pregunta": "¿De qué rey fue bisabuela Rut?",
+      "opciones": ["Del rey David", "Del rey Saúl", "Del rey Salomón"],
+      "correcta": 0,
+      "explicacion": "Rut fue madre de Obed, abuela de Isaí y bisabuela del rey David (Rut 4:17)."
+    }
+  ],
+  "estudio": ["rut"],
+  "buscar": "Rut"
+}

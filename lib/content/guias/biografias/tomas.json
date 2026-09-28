@@ -1,0 +1,125 @@
+{
+  "id": "tomas",
+  "titulo": "Tomás",
+  "subtitulo": "El que dijo: «¡Señor mío, y Dios mío!»",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Galilea y Jerusalén"],
+  "enUnMinuto": [
+    "Tomás, llamado el Dídimo, era valiente y hablaba con sinceridad.",
+    "Cuando le contaron que Jesús había resucitado, dijo que no creería sin ver las marcas de los clavos.",
+    "Jesús vino a buscarlo, y Tomás hizo una de las confesiones de fe más grandes: «¡Señor mío, y Dios mío!»."
+  ],
+  "versiculo": {
+    "texto": "Entonces Tomás respondió, y díjole: ¡Señor mío, y Dios mío!",
+    "referencia": "Juan 20:28"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Tomás viene del arameo y quiere decir «gemelo». Dídimo es la misma palabra en griego (Juan 11:16). La Biblia no dice quién era su hermano gemelo.",
+        "Tampoco dice su oficio ni su pueblo. Después de la resurrección aparece pescando con Pedro en Galilea (Juan 21:2-3).",
+        "Muchos lo llaman «Tomás el incrédulo». Pero la Biblia muestra también a un hombre valiente, sincero y capaz de una fe muy honda."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Jesús lo elige como uno de los Doce (Mateo 10:3; Lucas 6:15).",
+        "Jesús quiere volver a Judea, donde antes quisieron apedrearlo. Los discípulos tienen miedo (Juan 11:7-8).",
+        "Tomás anima a los demás: «Vamos también nosotros, para que muramos con él» (Juan 11:16).",
+        "En la última cena, Jesús habla de ir a preparar lugar. Tomás confiesa: «no sabemos a dónde vas» (Juan 14:2-5).",
+        "Jesús le responde: «Yo soy el camino, y la verdad, y la vida» (Juan 14:6).",
+        "El domingo de la resurrección, Jesús se aparece a los discípulos. Tomás no está con ellos (Juan 20:19-24).",
+        "Le dicen: «Al Señor hemos visto». Tomás dice que no creerá si no ve y toca las marcas de los clavos (Juan 20:25).",
+        "Ocho días después, Tomás está con ellos. Jesús entra, los saluda con paz e invita a Tomás a tocar sus manos (Juan 20:26-27).",
+        "Tomás exclama: «¡Señor mío, y Dios mío!». Jesús llama dichosos a los que creen sin haber visto (Juan 20:28-29).",
+        "Más tarde, en Galilea, está con Pedro y otros cuando Jesús se aparece junto al mar (Juan 21:1-2).",
+        "Ora con los demás apóstoles en Jerusalén, esperando al Espíritu Santo (Hechos 1:13-14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jesús no regañó a Tomás delante de todos ni lo dejó afuera. Volvió por él. Le mostró sus heridas y le dio justo lo que necesitaba para creer. Así trata Jesús nuestras dudas sinceras: con paciencia, con paz y con su presencia."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "La duda sincera puede llevar a una fe más honda. Esta semana: lleva a Dios en oración una duda que guardas en silencio.",
+        "No te aísles en tu tristeza. Tomás no estaba con el grupo cuando Jesús vino. Esta semana: vuelve a reunirte con tus hermanos en la fe.",
+        "Tú eres de los que creen sin haber visto. Esta semana: cada mañana, repite la confesión de Tomás: «¡Señor mío, y Dios mío!»."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Se le llamaba el Dídimo, es decir, «el gemelo» (Juan 11:16; 20:24; 21:2).",
+        "Estuvo dispuesto a morir con Jesús (Juan 11:16).",
+        "Su confesión llama a Jesús «Señor» y «Dios» (Juan 20:28).",
+        "La Biblia no cuenta nada de él después de Hechos 1:13, ni cómo murió."
+      ],
+      "tradicion": [
+        "Una tradición antigua, recogida por Orígenes y Eusebio, lo relaciona con Partia, en el actual Irán.",
+        "Otra tradición muy arraigada cuenta que llevó el Evangelio a la India. Allí hay cristianos que se llaman a sí mismos «cristianos de santo Tomás».",
+        "Esos cristianos de Kerala, en el sur de la India, lo recuerdan como su padre en la fe.",
+        "Muchos cristianos recuerdan que dio su vida por Cristo cerca de la actual Chennai. Allí una basílica honra su memoria."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Mateo 10:3", "nota": "En la lista de los Doce" },
+        { "ref": "Juan 11:7-16", "nota": "«Vamos también nosotros»" },
+        { "ref": "Juan 14:1-7", "nota": "«¿cómo, pues, podemos saber el camino?»" },
+        { "ref": "Juan 20:24-29", "nota": "«¡Señor mío, y Dios mío!»" },
+        { "ref": "Juan 21:1-2", "nota": "Junto al mar de Tiberias" },
+        { "ref": "Hechos 1:13", "nota": "Orando con los once" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Tomás quería ver a Jesús para creer. ¿Qué hizo Jesús cuando volvió? ¿Puedes creer en Jesús aunque no lo veas?",
+      "actividad": "Para el adulto: Jesús volvió por Tomás y le habló con paz (Juan 20:26-29). Enséñenle a decir: «¡Señor mío, y Dios mío!»."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, conoces mis dudas y no te alejas de mí. Muéstrame tus manos cuando me cueste creer. Tú eres mi Señor y mi Dios. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Es justo el apodo «Tomás el incrédulo»? ¿Qué otros rasgos suyos ven?",
+        "¿Qué dudas son difíciles de decir en voz alta en la iglesia?",
+        "¿Qué cambia saber que Jesús llama dichosos a los que creen sin haber visto?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué quiere decir «Dídimo», el sobrenombre de Tomás?",
+      "opciones": ["Piedra", "Gemelo", "Pescador"],
+      "correcta": 1,
+      "explicacion": "Dídimo es una palabra griega que quiere decir «gemelo», igual que Tomás en arameo (Juan 11:16)."
+    },
+    {
+      "pregunta": "¿Qué dijo Tomás cuando Jesús quiso volver a Judea?",
+      "opciones": ["Vamos también nosotros, para que muramos con él", "Quedémonos en Galilea", "Maestro, no vayas allá"],
+      "correcta": 0,
+      "explicacion": "Tomás animó a los demás: «Vamos también nosotros, para que muramos con él» (Juan 11:16)."
+    },
+    {
+      "pregunta": "Jesús le dijo a Tomás: «Yo soy el camino». ¿Qué confesó Tomás al ver a Jesús resucitado?",
+      "opciones": ["Rabbí, ¿dónde moras?", "Tú eres Juan el Bautista", "¡Señor mío, y Dios mío!"],
+      "correcta": 2,
+      "explicacion": "Al ver las manos de Jesús, Tomás exclamó: «¡Señor mío, y Dios mío!» (Juan 20:28)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen", "resurreccion"],
+  "buscar": "Tomás, el Dídimo"
+}

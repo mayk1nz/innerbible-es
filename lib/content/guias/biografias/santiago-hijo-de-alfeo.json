@@ -1,0 +1,126 @@
+{
+  "id": "santiago-hijo-de-alfeo",
+  "titulo": "Santiago, hijo de Alfeo",
+  "subtitulo": "En la RVR1960, Jacobo",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "La Biblia dice poco"],
+  "enUnMinuto": [
+    "Santiago, hijo de Alfeo, fue uno de los Doce apóstoles de Jesús.",
+    "La Biblia solo da su nombre en las cuatro listas de los apóstoles, y nada más.",
+    "Su vida nos recuerda que Jesús llama a cada uno por su nombre, aunque el mundo no lo conozca."
+  ],
+  "versiculo": {
+    "texto": "Y estableció doce, para que estuviesen con él, y para enviarlos a predicar,",
+    "referencia": "Marcos 3:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "En la Biblia de nuestra app (RV1909) y en la RVR1960 se llama «Jacobo hijo de Alfeo». Santiago es la forma española de Jacobo.",
+        "Aparece en las cuatro listas de los apóstoles, siempre en el noveno lugar. Así sabemos que era uno de los Doce.",
+        "Su padre se llamaba Alfeo. El padre de Leví, es decir Mateo, también se llamaba Alfeo (Marcos 2:14). La Biblia no dice si eran hermanos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Por qué la Biblia dice tan poco?",
+      "parrafos": [
+        "Los Evangelios no son biografías de los apóstoles. Cuentan la vida de Jesús. Por eso de algunos discípulos solo conocemos el nombre.",
+        "Hechos sigue sobre todo a Pedro y a Pablo. Los otros apóstoles también sirvieron, pero su historia no quedó escrita en la Biblia.",
+        "No hace falta llenar ese silencio con inventos. Basta saber lo que Marcos 3:14 dice de los Doce: Jesús los llamó para estar con él y enviarlos a predicar."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Lo que sabemos, paso a paso",
+      "items": [
+        "Jesús sube al monte y pasa la noche orando a Dios (Lucas 6:12).",
+        "Al llegar el día, elige a doce de sus discípulos y los llama apóstoles. Entre ellos está Santiago, hijo de Alfeo (Lucas 6:13-15).",
+        "Como todos los Doce, recibe poder para sanar y es enviado a anunciar el reino (Mateo 10:1-7).",
+        "Después de la ascensión, persevera en oración con los demás en Jerusalén (Hechos 1:13-14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jesús oró toda una noche antes de elegir a los Doce. Santiago, hijo de Alfeo, estuvo en esa oración. No fue un nombre de relleno: fue elegido con amor, como Pedro o Juan. En el reino de Dios no hay apóstoles de segunda."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Ser fiel vale más que ser famoso. Esta semana: haz un servicio escondido en tu iglesia o tu casa, sin contarlo a nadie.",
+        "Estar con Jesús es lo primero. Esta semana: separa diez minutos diarios solo para estar con él, antes de hacer cosas para él.",
+        "Tu nombre está en su lista. Esta semana: lee Lucas 6:12-16 y agradece que Jesús también te llama por tu nombre."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era hijo de Alfeo y uno de los Doce (Mateo 10:3).",
+        "Marcos habla de un «Jacobo el menor», hijo de una María que estaba junto a la cruz (Marcos 15:40). La Biblia no dice si es el mismo.",
+        "Hay otro Santiago muy importante: el hermano del Señor, líder de la iglesia de Jerusalén (Gálatas 1:19; Hechos 15:13)."
+      ],
+      "tradicion": [
+        "Desde san Jerónimo, en el siglo IV, la tradición latina lo identifica con «Santiago el Menor». También con Santiago, el hermano del Señor.",
+        "Las iglesias ortodoxas y muchos evangélicos los ven como dos personas distintas, y los recuerdan en fechas diferentes.",
+        "La Iglesia católica lo celebra junto con el apóstol Felipe, el 3 de mayo.",
+        "Las tradiciones sobre su misión y su muerte son pocas y no coinciden."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Es el mismo que Santiago, el hermano del Señor? Las Biblias no lo dicen. Muchos católicos entienden que sí. Muchos evangélicos y los ortodoxos entienden que son dos personas. Aquí los presentamos en fichas separadas, sin decidir la cuestión."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Santiago, hijo de Zebedeo, hermano de Juan, el primero de los Doce que murió por Jesús (Hechos 12:2).",
+        "Santiago, el hermano del Señor, a quien se atribuye la carta de Santiago (Santiago 1:1)."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Casi nadie sabe cómo era Santiago, hijo de Alfeo, pero Jesús lo eligió. ¿Sabías que Jesús conoce tu nombre?",
+      "actividad": "Para el adulto: escriban el nombre del niño en un papel con la frase «Jesús me eligió». Pónganlo en su cuarto."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias porque me llamas por mi nombre, aunque nadie me conozca. Quiero estar contigo y servirte con fidelidad. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué nos cuesta servir cuando nadie lo ve?",
+        "¿Qué significa para ti que Jesús eligiera «para que estuviesen con él»?",
+        "¿Conoces a alguien que sirve a Dios en silencio? ¿Cómo podrías animarlo esta semana?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llama este apóstol en la RV1909 y en la RVR1960?",
+      "opciones": ["Jacobo hijo de Alfeo", "Jacobo hijo de Zebedeo", "Judas hermano de Jacobo"],
+      "correcta": 0,
+      "explicacion": "Las dos versiones lo llaman «Jacobo hijo de Alfeo» (Mateo 10:3). Santiago es la forma española de Jacobo."
+    },
+    {
+      "pregunta": "¿Dónde aparece Santiago, hijo de Alfeo, en la Biblia?",
+      "opciones": ["En muchas escenas de Hechos", "En las listas de los apóstoles", "En sus propias cartas"],
+      "correcta": 1,
+      "explicacion": "Solo aparece en las cuatro listas de los apóstoles (Mateo 10:3; Marcos 3:18; Lucas 6:15; Hechos 1:13)."
+    },
+    {
+      "pregunta": "Según Marcos 3:14, ¿para qué eligió Jesús a los Doce?",
+      "opciones": ["Para gobernar Jerusalén", "Para escribir libros", "Para estar con él y predicar"],
+      "correcta": 2,
+      "explicacion": "Jesús los estableció «para que estuviesen con él, y para enviarlos a predicar» (Marcos 3:14)."
+    }
+  ],
+  "estudio": ["galilea-milagros", "hechos-1-7"],
+  "buscar": "Jacobo hijo de Alfeo"
+}

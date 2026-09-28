@@ -1,0 +1,125 @@
+{
+  "id": "abigail",
+  "titulo": "Abigail",
+  "subtitulo": "La que detuvo una venganza",
+  "etiquetas": ["c. 1015 a.C.", "1 Samuel 25", "Paz", "Sabiduría"],
+  "enUnMinuto": [
+    "Abigail es una mujer sabia casada con Nabal, un hombre rico, duro y necio.",
+    "Cuando Nabal insulta a David y este sale a vengarse con cuatrocientos hombres, Abigail le sale al encuentro.",
+    "Con regalos y palabras llenas de fe, lo convence de no derramar sangre, y David bendice a Dios por enviarla."
+  ],
+  "versiculo": {
+    "texto": "Y dijo David a Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases;",
+    "referencia": "1 Samuel 25:32"
+  },
+  "bloques": [
+    {
+      "tipo": "lista",
+      "titulo": "Su nombre y su tiempo",
+      "items": [
+        "Nombre: Abigail suele entenderse como “mi padre es alegría”.",
+        "Familia: esposa de Nabal, de Maón, y después esposa de David.",
+        "Época: cuando David huía de Saúl y aún no era rey, c. 1015 a.C.",
+        "Para leer: 1 Samuel 25."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Nabal es muy rico: tiene tres mil ovejas y mil cabras. La Biblia lo describe como un hombre duro y de malas obras. De su esposa, Abigail, dice que era «de buen entendimiento». David y sus hombres, en el desierto, han protegido a los pastores de Nabal. Nadie les ha robado nada.",
+        "En tiempo de esquila, que era tiempo de fiesta, David envía a diez jóvenes a pedirle a Nabal algo de comida. Nabal los desprecia: «¿Quién es David?». Cuando David lo oye, se enoja. Toma la espada y sale con cuatrocientos hombres para acabar con todos los varones de la casa de Nabal.",
+        "Un criado corre a avisar a Abigail. Ella no pierde tiempo: prepara panes, vino, ovejas, grano, pasas e higos, y los carga en asnos. No le dice nada a su marido. Baja por el monte y se encuentra de frente con David y sus hombres armados.",
+        "Abigail baja del asno, se inclina ante David y le dice: «sobre mí sea el pecado». Le pide que no se vengue por su propia mano. Le recuerda que Dios le dará una casa firme y lo hará jefe de Israel. Y le advierte que no cargue su conciencia con sangre inocente. David la escucha y bendice a Dios por haberla enviado.",
+        "Al día siguiente, Abigail le cuenta todo a Nabal. Él queda como una piedra, y diez días después muere. David ve que Dios hizo justicia sin que él levantara la espada. Luego manda a pedir a Abigail en matrimonio, y ella acepta."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: la sabiduría que hace la paz",
+      "parrafos": [
+        "Abigail actuó rápido, con humildad y con valentía. Se puso entre dos hombres enojados y cargó sobre sí una culpa que no era suya. No manipuló a David: le habló de Dios y de su futuro. Le recordó quién era y lo ayudó a no arruinar su historia con una venganza. Supo ver más allá del momento."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Por medio de Abigail, Dios guardó a David de derramar sangre inocente. Abigail se ofreció a cargar la culpa ajena para traer paz. Eso nos hace pensar en Jesús, que «llevó nuestros pecados en su cuerpo sobre el madero» (1 Pedro 2:24). Él es el gran pacificador. Y dijo: «Bienaventurados los pacificadores» (Mateo 5:9)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás vives entre personas que se hieren con palabras o con enojo. Quizás tú misma tienes ganas de vengarte. Abigail te muestra otro camino: hablar con humildad, recordar lo que Dios promete y dejarle a Él la justicia. Una palabra sabia a tiempo puede evitar una tragedia."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "También para ti",
+      "items": [
+        "Si hay peleas en tu familia o tu barrio: puedes ser quien calma, no quien echa leña al fuego.",
+        "Para los hombres: David escuchó el consejo de una mujer y cambió de camino. Saber rectificar es de sabios.",
+        "Para los jóvenes: la venganza en redes o en persona parece fuerza, pero deja heridas. Deja la justicia a Dios (Romanos 12:19).",
+        "Para quien convive con alguien necio: Dios ve tu esfuerzo por proteger a los tuyos."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Abigail no es un modelo para quedarse en una relación con violencia. Si tú o alguien que conoces sufre maltrato, busca ayuda en tu iglesia y en las autoridades. En tiempos de David, un hombre podía tener varias esposas; la Biblia lo cuenta sin presentarlo como ideal."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "1 Samuel 25:1-13", "nota": "Nabal desprecia a David." },
+        { "ref": "1 Samuel 25:14-35", "nota": "Abigail detiene a David." },
+        { "ref": "1 Samuel 25:36-42", "nota": "El fin de Nabal." },
+        { "ref": "Romanos 12:18-21", "nota": "Vence con el bien el mal." },
+        { "ref": "Mateo 5:9", "nota": "Bienaventurados los pacificadores." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, hazme instrumento de tu paz. Cuando el enojo me gane, detenme como detuviste a David. Dame palabras sabias y humildes para calmar a otros. Gracias por Jesús, que cargó mis culpas para traerme paz contigo. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para romper el hielo: ¿quién es la persona más pacificadora que conoces? ¿Qué hace diferente?",
+        "Nabal era rico, pero necio. ¿Qué diferencia hay entre tener mucho y ser sabio?",
+        "Abigail le recordó a David las promesas de Dios. ¿Por qué eso lo ayudó a no vengarse?",
+        "¿Cuándo es sabio actuar rápido, como Abigail, y cuándo es mejor esperar?",
+        "¿Qué conflicto de tu entorno necesita hoy una “Abigail”? ¿Qué podrías hacer tú?",
+        "Dinámica y cierre: lean juntas Romanos 12:18-21 y oren por una relación rota que cada una tenga en mente."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "David estaba muy enojado y quería pelear. Abigail le llevó comida y le habló con amor y respeto. David se calmó y dio gracias a Dios. ¿Qué puedes hacer tú cuando alguien está enojado?",
+      "actividad": "Dibuja una canasta con panes y frutas. Escribe encima: “Bienaventurados los pacificadores”."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hizo Nabal cuando David le pidió comida para sus hombres?",
+      "opciones": ["Les dio el doble de lo pedido", "Los despreció y no les dio nada", "Les pidió trabajar a cambio"],
+      "correcta": 1,
+      "explicacion": "Nabal respondió con desprecio: ¿Quién es David? y no quiso compartir (1 Samuel 25:10-11)."
+    },
+    {
+      "pregunta": "¿Qué le pidió Abigail a David cuando lo encontró?",
+      "opciones": ["Que atacara a Nabal", "Que la llevara a vivir al palacio", "Que no se vengara por su mano"],
+      "correcta": 2,
+      "explicacion": "Abigail le pidió que no derramara sangre ni se vengara por su propia mano (1 Samuel 25:26-31)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús de los que hacen la paz?",
+      "opciones": ["Serán llamados hijos de Dios", "Recibirán muchas riquezas", "Nunca tendrán enemigos"],
+      "correcta": 0,
+      "explicacion": "Jesús dijo: bienaventurados los pacificadores, porque serán llamados hijos de Dios (Mateo 5:9)."
+    }
+  ],
+  "estudio": ["1-samuel"],
+  "buscar": "Abigail"
+}

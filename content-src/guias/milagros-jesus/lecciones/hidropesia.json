@@ -1,0 +1,107 @@
+{
+  "id": "hidropesia",
+  "titulo": "El hombre hinchado (hidropesía)",
+  "subtitulo": "Milagro 32 de 43 · Un enfermo en medio de la mesa",
+  "etiquetas": ["Casa de un jefe de los fariseos", "Año 3 · c. 29–30 d.C.", "Curación"],
+  "enUnMinuto": [
+    "Un sábado, Jesús come en casa de un jefe de los fariseos, y todos lo observan.",
+    "Delante de él hay un hombre con el cuerpo hinchado por la hidropesía.",
+    "Jesús pregunta si es lícito sanar en sábado, nadie responde, y él lo sana."
+  ],
+  "versiculo": {
+    "texto": "Y respondiendo Jesús, habló a los doctores de la ley y a los Fariseos, diciendo: ¿Es lícito sanar en sábado? Y ellos callaron. Entonces él tomándole, le sanó, y despidiole.",
+    "referencia": "Lucas 14:3-4"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Lucas 14:1-6", "nota": "Solo lo cuenta Lucas." },
+        { "ref": "Lucas 14:7-14", "nota": "En la misma comida, Jesús habla de humildad y de invitar a los pobres." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Un sábado, un jefe de los fariseos invitó a Jesús a comer en su casa. Era una ocasión para compartir la mesa y conversar. Pero los presentes lo observaban de cerca, para ver qué haría.",
+        "Delante de Jesús estaba un hombre enfermo de hidropesía. Su cuerpo estaba hinchado por el líquido acumulado. Jesús preguntó a los maestros de la ley y a los fariseos: «¿Es lícito sanar en sábado?». Nadie respondió.",
+        "Entonces Jesús tomó al hombre, lo sanó y lo despidió. Luego les hizo otra pregunta. Si a uno se le cae el asno o el buey en un pozo, ¿no lo saca enseguida, aunque sea sábado? Tampoco a esto pudieron responder.",
+        "La comida siguió. Jesús habló de no buscar los primeros lugares en la mesa. Y dijo que, al hacer un banquete, había que invitar a los pobres, los mancos, los cojos y los ciegos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Hidropesía: hinchazón del cuerpo por líquido acumulado. Hoy se sabe que suele venir de males del corazón, del hígado o de los riñones.",
+        "Doctores de la ley: maestros que estudiaban y explicaban la ley de Moisés.",
+        "Lícito: permitido por la ley de Dios."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús se sienta a la mesa con todos, también con quienes lo miraban con desconfianza. Que ve a la persona antes que la discusión: primero sana al hombre y después conversa. Y que el día de Dios es día para hacer el bien. Si se rescata a un animal del pozo, cuánto más a una persona."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "A veces estamos tan atentos a las reglas o a lo que hacen otros que no vemos a quien sufre. Jesús te invita a mirar primero a la persona. En tu mesa, en tu trabajo o en tu comunidad puede haber alguien que necesita ayuda y no se atreve a pedirla. Para hoy: haz un bien concreto a alguien, sin esperar el momento perfecto."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú viste al hombre enfermo en medio de una comida llena de miradas. Dame ojos para ver a quien sufre cerca de mí. Que ninguna costumbre me impida hacer el bien. Enséñame a amar como tú. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre tenía el cuerpo muy hinchado y se sentía mal. Jesús lo sanó en el día de descanso, porque siempre es buen día para ayudar. ¿A quién puedes ayudar tú hoy en casa?",
+      "actividad": "Pongan la mesa para la familia y dejen una silla de más. Conversen: ¿a quién les gustaría invitar un día?"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Lucas cuenta tres veces que un fariseo invitó a Jesús a comer (Lucas 7:36; 11:37; 14:1). Jesús aceptaba esas invitaciones. En cada mesa dejó una enseñanza sobre el perdón, el corazón o la humildad."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Oseas 6:6", "nota": "Dios dice: «misericordia quise, y no sacrificio»." },
+        { "ref": "Deuteronomio 22:4", "nota": "La ley mandaba ayudar a levantar al animal caído del prójimo." },
+        { "ref": "Mateo 12:11-12", "nota": "Jesús enseña: «lícito es en los sábados hacer bien»." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esta historia no está contra el sábado ni contra los fariseos. Muestra que Dios quiere el bien del necesitado. Jesús sana, pero no promete que toda enfermedad termine igual. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde estaba Jesús cuando sanó a este hombre?",
+      "opciones": ["En el templo", "En casa de un jefe fariseo", "En la barca de Pedro"],
+      "correcta": 1,
+      "explicacion": "Jesús comía un sábado en casa de un jefe de los fariseos (Lucas 14:1)."
+    },
+    {
+      "pregunta": "¿Qué hicieron los maestros cuando Jesús preguntó si era lícito sanar?",
+      "opciones": ["Callaron", "Dijeron que sí", "Se fueron de la casa"],
+      "correcta": 0,
+      "explicacion": "Lucas dice: «Y ellos callaron» (Lucas 14:4). Entonces Jesús sanó al hombre."
+    },
+    {
+      "pregunta": "¿Qué profeta escribió: «misericordia quise, y no sacrificio»?",
+      "opciones": ["Isaías", "Jonás", "Oseas"],
+      "correcta": 2,
+      "explicacion": "Está en Oseas 6:6, y Jesús lo citó más de una vez."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Lucas 14:1-6"
+}

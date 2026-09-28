@@ -1,0 +1,132 @@
+{
+  "id": "simon-el-zelote",
+  "titulo": "Simón el Zelote",
+  "subtitulo": "En la RVR1960, Simón el cananista",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "La Biblia dice poco"],
+  "enUnMinuto": [
+    "Simón el Zelote fue uno de los Doce, y la Biblia solo da su nombre en las listas.",
+    "Su sobrenombre quiere decir «el celoso», quizás por su celo por Dios o por su lucha contra Roma.",
+    "Con Jesús, compartió la mesa con Mateo, que había cobrado impuestos para los que servían a Roma."
+  ],
+  "versiculo": {
+    "texto": "Todos éstos perseveraban unánimes en oración y ruego, con las mujeres, y con María la madre de Jesús, y con sus hermanos.",
+    "referencia": "Hechos 1:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Simón viene del hebreo y quiere decir «Dios ha oído». Como había otro Simón entre los Doce, a él lo distinguían con un sobrenombre.",
+        "En la RV1909 de nuestra app, Mateo y Marcos lo llaman «Simón el Cananita» (Mateo 10:4; Marcos 3:18). Lucas lo llama «Simón el que se llama Celador» (Lucas 6:15). Hechos dice «Simón Zelotes» (Hechos 1:13).",
+        "Cananita no quiere decir que fuera de Canaán ni de Caná. Viene de una palabra aramea que significa «celoso». Zelote es la misma palabra en griego."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Qué quiere decir «zelote»?",
+      "parrafos": [
+        "Un zelote era alguien lleno de celo, es decir, de pasión. Podía ser celo por la Ley de Dios. También podía indicar a quienes se oponían con fuerza al dominio de Roma.",
+        "La Biblia no dice cuál de las dos cosas era Simón. Algunos estudiosos piensan que el partido de los zelotes se organizó años después. Por eso es mejor no afirmar más de lo que sabemos."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Lo que sabemos, paso a paso",
+      "items": [
+        "Después de orar toda la noche, Jesús lo elige entre los Doce (Lucas 6:12-15).",
+        "Es enviado con los demás a anunciar el reino y a sanar (Mateo 10:1-7).",
+        "En el grupo convive con Mateo, el publicano, que había trabajado para el sistema de impuestos (Mateo 10:3-4).",
+        "Después de la ascensión, ora con los apóstoles, con María y con los hermanos de Jesús (Hechos 1:13-14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Simón tenía un corazón apasionado. Jesús no le pidió que dejara de sentir con fuerza. Le dio un motivo mayor: el reino de Dios, que no se impone con violencia sino con amor. Y lo sentó a la mesa con Mateo. Solo Jesús podía reunir a esos dos."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Jesús cambia el rumbo de la pasión, no la apaga. Esta semana: pon tu energía en servir a alguien que lo necesite.",
+        "En Cristo, los enemigos pueden ser hermanos. Esta semana: da un paso de paz con alguien que piensa muy distinto de ti.",
+        "La oración une al grupo. Simón perseveraba en oración con todos. Esta semana: ora con otros, en tu casa o en tu iglesia."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Fue uno de los Doce (Mateo 10:4; Lucas 6:15).",
+        "Su sobrenombre significa «celoso». La Biblia no explica por qué lo llamaban así.",
+        "La Biblia no cuenta nada de él después de Hechos 1:13, ni cómo murió."
+      ],
+      "tradicion": [
+        "Una tradición antigua cuenta que predicó en Persia junto a Judas Tadeo. Por eso la Iglesia católica los celebra juntos el 28 de octubre.",
+        "Otras tradiciones lo sitúan en Egipto, en el norte de África o en otras tierras. Los relatos no coinciden.",
+        "Muchos cristianos recuerdan que murió como mártir, dando su vida por Cristo.",
+        "Algunas tradiciones orientales lo identifican con el novio de las bodas de Caná. La Biblia no lo dice."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Simón Pedro, el primero de los Doce (Mateo 10:2).",
+        "Simón, uno de los hermanos de Jesús (Marcos 6:3).",
+        "Simón de Cirene, que llevó la cruz de Jesús (Marcos 15:21)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Mateo 10:4", "nota": "Simón el Cananita" },
+        { "ref": "Marcos 3:18", "nota": "Simón el Cananita" },
+        { "ref": "Lucas 6:15", "nota": "Simón el que se llama Celador" },
+        { "ref": "Hechos 1:13-14", "nota": "Simón Zelotes, orando con los once" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "En el grupo de Jesús había dos amigos que antes pensaban muy distinto: Mateo y Simón. ¿Puedes ser amigo de alguien distinto de ti?",
+      "actividad": "Para el adulto: pregunten al niño con quién se pelea a veces. Oren juntos por esa persona y piensen en un gesto amable."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, toma mi pasión y mi fuerza, y ponlas al servicio de tu reino. Enséñame a sentarme a la mesa con quien piensa distinto. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué divisiones de hoy se parecen a la de un publicano y un zelote?",
+        "¿Cómo se vive el celo por Dios sin dureza ni violencia?",
+        "¿Qué nos enseña que la Biblia no «rellene» la historia de Simón?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué significa el sobrenombre «Zelote» o «Cananita»?",
+      "opciones": ["Nacido en Caná", "Celoso", "Pescador"],
+      "correcta": 1,
+      "explicacion": "Cananita viene de una palabra aramea que quiere decir «celoso». Zelote es la misma palabra en griego."
+    },
+    {
+      "pregunta": "¿Cómo llama a Simón el libro de Hechos en la RV1909?",
+      "opciones": ["Simón el curtidor", "Simón Pedro", "Simón Zelotes"],
+      "correcta": 2,
+      "explicacion": "Hechos 1:13 lo nombra entre los once como «Simón Zelotes»."
+    },
+    {
+      "pregunta": "¿Con qué apóstol, antes cobrador de impuestos, compartió Simón el grupo de los Doce?",
+      "opciones": ["Mateo", "Tomás", "Andrés"],
+      "correcta": 0,
+      "explicacion": "Mateo era publicano (Mateo 10:3). En Jesús, un publicano y un zelote se hicieron compañeros."
+    }
+  ],
+  "estudio": ["galilea-milagros", "hechos-1-7"],
+  "buscar": "Simón el Zelote"
+}

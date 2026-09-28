@@ -1,0 +1,103 @@
+{
+  "id": "senales-en-la-cruz",
+  "titulo": "Señales en la cruz",
+  "subtitulo": "Milagro 40 de 43 · Tinieblas, velo y terremoto",
+  "etiquetas": ["Gólgota, fuera de Jerusalén", "Viernes de la Pasión · c. 30 d.C.", "Señal en la vida de Jesús"],
+  "enUnMinuto": [
+    "Mientras Jesús está en la cruz, hay tinieblas sobre la tierra desde el mediodía hasta las tres.",
+    "Cuando entrega su espíritu, el velo del templo se rasga y la tierra tiembla.",
+    "Al ver todo esto, el centurión romano dice: «Verdaderamente Hijo de Dios era éste»."
+  ],
+  "versiculo": {
+    "texto": "Y el centurión, y los que estaban con él guardando a Jesús, visto el terremoto, y las cosas que habían sido hechas, temieron en gran manera, diciendo: Verdaderamente Hijo de Dios era éste.",
+    "referencia": "Mateo 27:54"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 27:45-54", "nota": "Mateo: tinieblas, velo rasgado, terremoto, sepulcros abiertos y el centurión." },
+        { "ref": "Marcos 15:33-39", "nota": "Marcos: el centurión lo ve morir y reconoce que era el Hijo de Dios." },
+        { "ref": "Lucas 23:44-48", "nota": "Lucas: el sol se oscurece y Jesús encomienda su espíritu al Padre." },
+        { "ref": "Juan 19:28-30", "nota": "Juan guarda su última palabra: «Consumado es»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús fue crucificado en el Gólgota, fuera de Jerusalén. Desde el mediodía hasta las tres de la tarde, hubo tinieblas sobre toda la tierra. Lucas dice que el sol se oscureció. En pleno día, la luz se apagó.",
+        "Cerca de las tres, Jesús clamó con gran voz: «Dios mío, Dios mío, ¿por qué me has desamparado?». Son las primeras palabras del Salmo 22. Lucas recuerda otra frase: «Padre, en tus manos encomiendo mi espíritu». Y Jesús entregó su espíritu.",
+        "En ese momento, el velo del templo se rasgó en dos, de arriba abajo. Mateo añade que la tierra tembló y las piedras se partieron. También cuenta, con pocas palabras, que se abrieron sepulcros. Muchos santos que habían muerto resucitaron y, después de la resurrección de Jesús, se aparecieron a muchos en Jerusalén.",
+        "El centurión romano que vigilaba la cruz vio todo aquello. Tuvo mucho temor y dijo: «Verdaderamente Hijo de Dios era éste». La gente que había venido a mirar volvió a casa golpeándose el pecho. Las mujeres que lo habían seguido desde Galilea miraban de lejos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Hora de sexta y hora de nona: así contaban el mediodía y las tres de la tarde.",
+        "Velo del templo: una gran cortina que separaba el lugar santísimo. Solo el sumo sacerdote entraba allí, una vez al año.",
+        "Centurión: un oficial romano al mando de unos cien soldados."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que en la cruz sucede algo que toca a toda la creación. La luz se apaga, la tierra tiembla y la muerte empieza a perder. Que el camino hacia Dios queda abierto: el velo se rasga de arriba abajo, desde Dios. Y que Jesús es el Hijo de Dios también en su muerte. Lo reconoce primero un soldado extranjero."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Ante la cruz no hacen falta muchas palabras. Jesús entregó su vida por ti y por todos. El velo roto te dice que ya puedes acercarte al Padre con confianza. Y si alguna vez clamas «¿por qué?», recuerda que Jesús también lo dijo, y se lo dijo a su Dios. Para hoy: quédate un momento en silencio delante de una cruz y da gracias."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, en la cruz entregaste tu vida por mí. Gracias por abrir el camino hacia el Padre. Cuando mi vida se oscurezca, que no deje de clamar a Dios, como tú. Con el centurión te digo: eres el Hijo de Dios. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuando Jesús murió en la cruz, el cielo se oscureció y la tierra tembló. Un soldado dijo: «Verdaderamente Hijo de Dios era éste». Jesús dio su vida porque nos ama. ¿Cómo le das gracias a Jesús?",
+      "actividad": "Hagan una cruz sencilla con dos palitos y un hilo. Escriban junto a ella: Jesús me ama."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Amós 8:9", "nota": "Dios anuncia un día en que el sol se pondrá al mediodía." },
+        { "ref": "Éxodo 26:33", "nota": "El velo separaba el lugar santo del santísimo." },
+        { "ref": "Hebreos 10:19-20", "nota": "Jesús nos abrió un camino nuevo y vivo a través del velo." },
+        { "ref": "Salmos 22:1", "nota": "El salmo que Jesús oró en la cruz, un salmo que termina en esperanza." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo 27:52-53 cuenta con sobriedad que algunos santos resucitaron. No da más detalles, y hay varias maneras de entenderlo. Lo seguro es el mensaje: la muerte de Jesús empieza a vencer a la muerte. La fecha es aproximada; otros proponen el año 33."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué se rasgó en el templo cuando Jesús murió?",
+      "opciones": ["El altar", "El velo", "La puerta"],
+      "correcta": 1,
+      "explicacion": "El velo del templo se rasgó en dos, de alto a bajo (Marcos 15:38)."
+    },
+    {
+      "pregunta": "¿Quién dijo: «Verdaderamente Hijo de Dios era éste»?",
+      "opciones": ["Pedro", "Pilato", "El centurión"],
+      "correcta": 2,
+      "explicacion": "Lo dijo el centurión que vigilaba la cruz, al ver lo que había pasado (Mateo 27:54)."
+    },
+    {
+      "pregunta": "¿Qué salmo comienza con las palabras «Dios mío, Dios mío»?",
+      "opciones": ["El Salmo 22", "El Salmo 1", "El Salmo 100"],
+      "correcta": 0,
+      "explicacion": "Jesús oró en la cruz las primeras palabras del Salmo 22 (Mateo 27:46)."
+    }
+  ],
+  "estudio": ["pasion-y-muerte"],
+  "buscar": "Mateo 27:45-54"
+}

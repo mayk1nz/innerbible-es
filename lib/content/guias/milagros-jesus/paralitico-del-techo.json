@@ -1,0 +1,87 @@
+{
+  "id": "paralitico-del-techo",
+  "titulo": "El paralítico que bajaron por el techo",
+  "subtitulo": "Milagro 8 de 43 · Cuatro amigos y un techo abierto",
+  "etiquetas": ["Una casa en Capernaúm", "Año 2 · c. 28 d.C.", "Curación", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "La casa donde Jesús enseña está tan llena que cuatro hombres no pueden entrar con su amigo paralítico.",
+    "Abren el techo y lo bajan delante de Jesús, que primero le perdona los pecados.",
+    "Después le dice que se levante, y el hombre sale caminando con su camilla."
+  ],
+  "versiculo": {
+    "texto": "Y viendo Jesús la fe de ellos, dice al paralítico: Hijo, tus pecados te son perdonados.",
+    "referencia": "Marcos 2:5"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 9:1-8", "nota": "Mateo dice que Jesús llamó al hombre «hijo» y le pidió confiar." },
+        { "ref": "Marcos 2:1-12", "nota": "Marcos cuenta que eran cuatro y que abrieron el techo." },
+        { "ref": "Lucas 5:17-26", "nota": "Lucas dice que lo bajaron por el tejado, con camilla y todo." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús volvió a Capernaúm y se supo que estaba en casa. Se juntó tanta gente que no cabían ni en la puerta. Entre los que escuchaban había fariseos y maestros de la ley, llegados de muchos lugares.",
+        "Cuatro hombres llegaron cargando a un amigo paralítico en una camilla. No podían acercarse por la multitud. Entonces subieron al techo, hicieron una abertura y bajaron la camilla justo delante de Jesús.",
+        "Jesús vio la fe de ellos y le dijo al enfermo: «Hijo, tus pecados te son perdonados». Algunos maestros de la ley pensaron: ¿quién puede perdonar pecados, sino solo Dios? Jesús conoció lo que pensaban. Les preguntó qué era más fácil: perdonar los pecados o decir a un paralítico que caminara.",
+        "Jesús quería que supieran que el Hijo del hombre tiene autoridad para perdonar pecados. Entonces dijo al paralítico: «A ti te digo: Levántate, y toma tu lecho, y vete a tu casa». El hombre se levantó, tomó su camilla y salió delante de todos. La gente glorificaba a Dios: «Nunca tal hemos visto»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Los maestros de la ley tenían razón en algo: solo Dios puede perdonar pecados. Por eso el gesto de Jesús dice mucho. Él perdona con autoridad, y la sanidad visible confirma el perdón invisible. Jesús ve lo que más necesitamos, aunque no sea lo primero que pedimos. Y valora la fe de los amigos que traen a otros."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Aquel hombre no llegó solo: lo llevaron cuatro amigos que no se rindieron ante la multitud. ¿Quién necesita hoy que lo lleves a Jesús con tu oración y tu compañía? Y si eres tú quien no puede caminar, deja que otros te ayuden. Para hoy: escribe los nombres de cuatro personas y ora por ellas esta semana."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias por tu perdón, que llega a lo más hondo. Hoy te traigo a las personas que amo y que no pueden venir solas. Dame fe y constancia para no rendirme. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuatro amigos llevaron a su amigo enfermo a Jesús. ¡Como había mucha gente, lo bajaron por el techo! Jesús lo perdonó y lo sanó, y el hombre salió caminando. ¿Qué amigo puedes llevar tú a Jesús con una oración?",
+      "actividad": "Con una caja de zapatos y unos hilos, bajen una camilla de papel desde lo alto de una silla."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esta historia une perdón y sanidad, pero la Biblia no dice que toda enfermedad venga del pecado (Juan 9:2-3). Jesús perdona y cuida. Orar y buscar ayuda médica van juntos."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? Las casas de Galilea solían tener techos planos, hechos de vigas, ramas y barro. Se subía por una escalera exterior. Por eso los amigos pudieron abrir el techo."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos hombres llevaban al paralítico, según Marcos?",
+      "opciones": ["Dos", "Cuatro", "Doce"],
+      "correcta": 1,
+      "explicacion": "Marcos dice que era traído por cuatro (Marcos 2:3)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Jesús primero al paralítico?",
+      "opciones": ["Que sus pecados le eran perdonados", "Que se lavara en el estanque", "Que volviera otro día"],
+      "correcta": 0,
+      "explicacion": "Viendo la fe de ellos, le dijo: tus pecados te son perdonados (Marcos 2:5)."
+    },
+    {
+      "pregunta": "¿Qué pensaron algunos maestros de la ley al oírlo?",
+      "opciones": ["Que Jesús era Elías", "Que el hombre fingía", "Que solo Dios puede perdonar pecados"],
+      "correcta": 2,
+      "explicacion": "Pensaron: ¿quién puede perdonar pecados, sino solo Dios? (Marcos 2:7)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 2:1-12"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "paralitico-de-betesda",
+  "titulo": "El paralítico del estanque de Betesda",
+  "subtitulo": "Milagro 9 de 43 · Treinta y ocho años esperando",
+  "etiquetas": ["Estanque de Betesda, Jerusalén", "Año 2 · c. 28 d.C.", "Curación", "Señal de Juan · 3 de 7"],
+  "enUnMinuto": [
+    "Junto al estanque de Betesda, un hombre lleva treinta y ocho años enfermo y sin nadie que lo ayude.",
+    "Jesús le pregunta si quiere ser sano y le dice: «Levántate, toma tu lecho, y anda».",
+    "El hombre camina, aunque es sábado, y más tarde Jesús lo busca en el templo."
+  ],
+  "versiculo": {
+    "texto": "Dícele Jesús: Levántate, toma tu lecho, y anda.",
+    "referencia": "Juan 5:8"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 5:1-15", "nota": "Solo lo cuenta Juan." },
+        { "ref": "Juan 5:16-18", "nota": "Lo que vino después: la discusión sobre el sábado." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús subió a Jerusalén para una fiesta de los judíos. Cerca de la puerta de las ovejas había un estanque llamado Betesda, con cinco pórticos. Allí esperaban muchos enfermos: ciegos, cojos y paralíticos. Creían que el primero en entrar cuando el agua se movía quedaba sano.",
+        "Entre ellos había un hombre que llevaba treinta y ocho años enfermo. Jesús lo vio y supo que llevaba mucho tiempo así. Le preguntó: «¿Quieres ser sano?». El hombre le explicó su tristeza: no tenía a nadie que lo metiera en el agua. Siempre otro llegaba antes.",
+        "Jesús le dijo: «Levántate, toma tu lecho, y anda». Al instante el hombre quedó sano, tomó su camilla y caminó. Pero ese día era sábado. Algunos le reprocharon que cargara la camilla en día de descanso. Él respondió que quien lo había sanado se lo había mandado.",
+        "El hombre ni siquiera sabía quién era Jesús, porque se había perdido entre la gente. Más tarde Jesús lo encontró en el templo. Le recordó que había sido sanado y le dijo que no pecara más, para que no le pasara algo peor."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús se acerca al que nadie ayuda. El hombre dependía de ser el más rápido, y Jesús no le pidió competir. Su palabra bastó. Además, Jesús no se queda en el milagro: busca al hombre otra vez para cuidar también su corazón. Cuando lo critican por obrar en sábado, responde: «Mi Padre hasta ahora obra, y yo obro»."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizás llevas mucho tiempo esperando un cambio y sientes que siempre otro llega antes. Jesús te hace la misma pregunta: «¿Quieres ser sano?». Es una invitación a mirar con él lo que necesitas de verdad. Y quizás tú puedes ser para alguien el que ayuda a llegar. Para hoy: acompaña a alguien que lleva mucho tiempo sufriendo."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú ves cuánto tiempo llevo esperando. Pregúntame lo que quieras y ayúdame a responderte con sinceridad. Levántame y enséñame a ayudar a los que no tienen a nadie. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre estuvo enfermo treinta y ocho años. ¡Eso es más que la edad de muchos papás! Nadie lo ayudaba. Jesús le dijo: «Levántate», y el hombre caminó. ¿A quién puedes ayudar tú hoy?",
+      "actividad": "Con ayuda, cuenta hasta treinta y ocho dando un paso por cada número. Piensa en lo larga que fue esa espera."
+    },
+    {
+      "tipo": "nota",
+      "texto": "El versículo 4, sobre el ángel que movía el agua, falta en varios manuscritos antiguos. Por eso algunas Biblias lo ponen en nota. La RV1909 lo incluye."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? En Jerusalén se excavaron restos de un gran estanque doble con pórticos, cerca de la antigua puerta de las ovejas. Muchos lo identifican con Betesda. Juan llama «señales» a los milagros de Jesús; esta suele contarse como la tercera."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sanó a este hombre sin pedirle nada. Esta historia no promete que toda enfermedad larga se cure así. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos años llevaba enfermo el hombre de Betesda?",
+      "opciones": ["Doce", "Treinta y ocho", "Cuarenta"],
+      "correcta": 1,
+      "explicacion": "Había treinta y ocho años que estaba enfermo (Juan 5:5)."
+    },
+    {
+      "pregunta": "¿Por qué el hombre no había podido entrar al agua?",
+      "opciones": ["Porque no tenía quien lo ayudara", "Porque no quería sanarse", "Porque el estanque estaba cerrado"],
+      "correcta": 0,
+      "explicacion": "Dijo: no tengo hombre que me meta en el estanque (Juan 5:7)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús cuando lo criticaron por sanar en sábado?",
+      "opciones": ["Que el sábado ya no importaba", "Que lo haría otro día", "Que su Padre obra, y él también"],
+      "correcta": 2,
+      "explicacion": "Respondió: Mi Padre hasta ahora obra, y yo obro (Juan 5:17)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Juan 5:1-15"
+}

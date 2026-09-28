@@ -1,0 +1,107 @@
+{
+  "id": "ciegos-y-cojos-en-el-templo",
+  "titulo": "Ciegos y cojos en el templo",
+  "subtitulo": "Milagro 37 de 43 · La casa de oración se llena de sanados",
+  "etiquetas": ["Templo de Jerusalén", "Última semana · c. 30 d.C.", "Jornada de muchas sanaciones"],
+  "enUnMinuto": [
+    "Jesús entra en Jerusalén, limpia el templo y lo llama casa de oración.",
+    "Enseguida se acercan ciegos y cojos, y él los sana allí mismo.",
+    "Los niños lo aclaman como Hijo de David, y Jesús acepta su alabanza."
+  ],
+  "versiculo": {
+    "texto": "Entonces vinieron a él ciegos y cojos en el templo, y los sanó.",
+    "referencia": "Mateo 21:14"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 21:12-17", "nota": "Solo Mateo cuenta estas sanaciones y el grito de los niños en el templo." },
+        { "ref": "Marcos 11:15-18", "nota": "Marcos cuenta la limpieza del templo." },
+        { "ref": "Lucas 19:45-48", "nota": "Lucas añade que Jesús enseñaba cada día en el templo." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús entró en Jerusalén montado en un asno, y la gente lo aclamaba. Después entró en el templo. Echó fuera a los que vendían y compraban, y volcó las mesas de los cambistas. Dijo: «Mi casa, casa de oración será llamada».",
+        "Entonces sucedió algo hermoso. Ciegos y cojos se acercaron a él en el templo, y los sanó. La casa de oración se llenó de personas sanadas. Y los niños gritaban en el templo: «¡Hosanna al Hijo de David!».",
+        "Los jefes de los sacerdotes y los escribas vieron las maravillas y oyeron a los niños. Se molestaron y le preguntaron si oía lo que decían. Jesús respondió con un salmo: Dios saca alabanza de la boca de los niños. Luego salió de la ciudad y pasó la noche en Betania."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Hosanna: grito de alabanza que pide a Dios salvación. La gente lo usaba para aclamar al Mesías.",
+        "Cambistas: cambiaban monedas extranjeras por las que se usaban en el templo.",
+        "Escribas: maestros que copiaban y explicaban la ley de Moisés."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús es el Hijo de David que el pueblo esperaba. Los niños lo entendieron con el corazón. Que en su casa hay lugar para los que antes se sentían fuera. Y que limpia para sanar, no para alejar. Apenas salieron los que vendían, entraron los ciegos y los cojos, y él los recibió."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Jesús limpió el templo y enseguida lo llenó de sanidad y alabanza. Así quiere obrar en ti: quitar lo que estorba para que haya lugar para Dios. No importa cómo llegues: cansado, herido o con las manos vacías. En su casa hay sitio para ti. Para hoy: busca un rincón tranquilo o entra a un templo, y alaba a Dios con la sencillez de un niño."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, Hijo de David, limpia mi corazón para que sea casa de oración. Recíbeme como recibiste a los ciegos y los cojos. Dame la alegría sencilla de los niños para alabarte. Hosanna, Señor. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "En el templo, Jesús sanó a personas que no veían o no podían caminar. ¡Y los niños gritaban de alegría: «Hosanna»! A Jesús le gustó su alabanza. ¿Qué canción te gusta cantarle a Dios?",
+      "actividad": "Hagan palmas con papel verde y canten juntos una alabanza, como los niños en el templo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "En tiempos de David se decía: «Ciego ni cojo no entrará en casa» (2 Samuel 5:8). En el templo, Jesús hace lo contrario: recibe a ciegos y cojos, y los sana. Y a los que se quejan les responde con el Salmo 8:2."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Isaías 56:7", "nota": "La casa de Dios será casa de oración para todos los pueblos." },
+        { "ref": "Isaías 35:5-6", "nota": "Los ciegos verán y el cojo saltará como un ciervo." },
+        { "ref": "Salmos 8:2", "nota": "De la boca de los pequeños Dios saca fuerza y alabanza." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Es un resumen: Mateo no dice cuántos fueron sanados ni sus nombres. Por eso lo contamos como una jornada de muchas sanaciones. Jesús sana, pero no promete que toda enfermedad termine igual."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿A quiénes sanó Jesús en el templo?",
+      "opciones": ["A soldados romanos", "A ciegos y cojos", "A leprosos"],
+      "correcta": 1,
+      "explicacion": "Mateo 21:14 dice que ciegos y cojos vinieron a él en el templo, y los sanó."
+    },
+    {
+      "pregunta": "¿Qué gritaban los niños en el templo?",
+      "opciones": ["¡Viva el César!", "¡Paz en la tierra!", "¡Hosanna al Hijo de David!"],
+      "correcta": 2,
+      "explicacion": "Los niños aclamaban a Jesús como Hijo de David (Mateo 21:15)."
+    },
+    {
+      "pregunta": "¿Qué salmo citó Jesús sobre la alabanza de los niños?",
+      "opciones": ["El Salmo 8", "El Salmo 23", "El Salmo 51"],
+      "correcta": 0,
+      "explicacion": "Jesús citó el Salmo 8:2: Dios saca alabanza de la boca de los niños (Mateo 21:16)."
+    }
+  ],
+  "estudio": ["ultima-semana"],
+  "buscar": "Mateo 21:12-17"
+}

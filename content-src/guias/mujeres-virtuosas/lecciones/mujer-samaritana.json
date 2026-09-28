@@ -1,0 +1,117 @@
+{
+  "id": "mujer-samaritana",
+  "titulo": "La mujer samaritana",
+  "subtitulo": "El encuentro junto al pozo",
+  "etiquetas": ["c. 27–28 d.C.", "Sicar, en Samaria", "rechazo", "nuevo comienzo"],
+  "enUnMinuto": [
+    "Una mujer de Samaria va a sacar agua al pozo de Jacob y encuentra allí a Jesús, cansado del camino.",
+    "Él le pide de beber, le ofrece agua viva y le revela que él es el Mesías.",
+    "Ella deja su cántaro, corre a su pueblo, y muchos creen en Jesús por su palabra."
+  ],
+  "versiculo": {
+    "texto": "Mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él una fuente de agua que salte para vida eterna.",
+    "referencia": "Juan 4:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "La Biblia no dice su nombre. La conocemos por su pueblo: era de Samaria, la región entre Judea y Galilea. En ese tiempo, judíos y samaritanos no se trataban (Juan 4:9)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Jesús iba de Judea a Galilea y pasó por Samaria. Cerca del pueblo de Sicar estaba el pozo de Jacob. Jesús, cansado del camino, se sentó junto al pozo. Era cerca del mediodía, y sus discípulos habían ido a comprar comida. Entonces llegó una mujer samaritana a sacar agua.",
+        "Jesús le dijo: «Dame de beber». Ella se sorprendió: un judío no le pedía nada a una samaritana. Jesús le respondió que, si conociera el don de Dios, ella le pediría a él, y él le daría agua viva. Quien bebe de esa agua, le dijo, no volverá a tener sed.",
+        "La mujer le pidió esa agua. Jesús le dijo: «Ve, llama a tu marido». Ella respondió que no tenía marido. Jesús le mostró que conocía su vida: había tenido cinco maridos, y el hombre con quien estaba ahora no era su esposo. Jesús no la humilló ni la echó. Siguió conversando con ella.",
+        "Ella le habló de dónde se debía adorar a Dios: en aquel monte o en Jerusalén. Jesús le dijo que el Padre busca adoradores «en espíritu y en verdad». Ella dijo que sabía que el Mesías iba a venir. Y Jesús le reveló: «Yo soy, que hablo contigo».",
+        "La mujer dejó su cántaro y corrió a la ciudad. Decía: «Venid, ved un hombre que me ha dicho todo lo que he hecho». La gente salió a ver a Jesús, y él se quedó allí dos días. Muchos creyeron y decían: «éste es el Salvador del mundo»."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: dejar el cántaro y contar",
+      "parrafos": [
+        "La samaritana no era una experta en religión. Tenía preguntas, dudas y una historia complicada. Pero hizo preguntas de verdad y escuchó las respuestas. Cuando entendió quién era Jesús, se olvidó del cántaro. Su testimonio fue sencillo: «me ha dicho todo lo que he hecho». No esperó a tener todas las respuestas para invitar a otros."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Jesús cruzó tres barreras en una sola conversación: la de su pueblo, la de ser mujer y la de su pasado. A ella le dijo con claridad que él es el Mesías. Y por medio de ella llevó la buena noticia a todo un pueblo. Jesús es el agua viva: lo que ella buscaba en el pozo, y en su vida, lo encontró en él."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si tu historia tiene capítulos difíciles, Jesús no se aleja: se sienta contigo y te habla con verdad y con amor. Si llega a tu barrio alguien de otro país o de otra fe, este encuentro te invita a acortar la distancia. Para los hombres: Jesús trató a esta mujer con respeto, sin prejuicios. Y para los jóvenes: no hace falta saberlo todo para contar lo que Jesús hizo en ti."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Juan 4:1-26", "nota": "El encuentro junto al pozo." },
+        { "ref": "Juan 4:27-42", "nota": "La mujer lo cuenta y el pueblo sale a ver a Jesús." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, tú me conoces por completo y aun así me buscas. Dame de tu agua viva, porque tengo sed de ti. Quita de mí la vergüenza que me aleja de los demás. Y dame valor para invitar a otros a conocerte. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿qué se siente tener mucha sed en un día de calor? ¿Qué es lo primero que buscas?",
+        "Jesús le pidió ayuda a una mujer que otros evitaban. ¿A quiénes evitamos nosotros hoy?",
+        "Jesús conocía su vida y aun así le habló con respeto. ¿Cómo cambia eso la manera en que miramos nuestro pasado?",
+        "La mujer dejó su cántaro para ir a contarlo. ¿Qué te cuesta dejar para hablar de Jesús a otros?",
+        "Dinámica: cada persona piensa en alguien a quien puede invitar a conocer a Jesús. El grupo ora por esos nombres.",
+        "Para cerrar: lean Juan 4:13-14 y den gracias a Dios por su agua viva."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una mujer fue a buscar agua a un pozo. Allí Jesús le habló con cariño de un agua que quita la sed del corazón. Ella corrió a contarlo a su pueblo. ¿A quién le contarías tú de Jesús?",
+      "actividad": "Dibujen un pozo y un cántaro. Dentro del cántaro, escriban: “Jesús me quita la sed”. Para memorizar: «Venid, ved» (Juan 4:29)."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "El texto dice que tuvo cinco maridos y que el hombre con quien estaba no era su esposo (Juan 4:18). No explica por qué.",
+        "Pudo haber enviudado, haber sido abandonada o algo más. La Biblia no lo dice, y Jesús no la acusa: le ofrece agua viva."
+      ],
+      "tradicion": [
+        "En muchas predicaciones se la describe como una mujer de mala fama. El texto no lo afirma.",
+        "También se dice a menudo que iba al pozo al mediodía para no encontrarse con nadie. Es una suposición: el texto solo da la hora.",
+        "Una antigua tradición de las iglesias de Oriente la llama Fotina y la recuerda como testigo de Cristo."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué le pidió Jesús primero a la mujer samaritana?",
+      "opciones": ["Que lo llevara a su casa", "Que le diera de beber", "Que llamara a los discípulos"],
+      "correcta": 1,
+      "explicacion": "Jesús, cansado del camino, le dijo: «Dame de beber» (Juan 4:6-7)."
+    },
+    {
+      "pregunta": "¿Qué dejó la mujer cuando corrió a la ciudad?",
+      "opciones": ["Su cántaro", "Su manto", "Su dinero"],
+      "correcta": 0,
+      "explicacion": "La mujer dejó su cántaro y fue a decir a todos: «Venid, ved» (Juan 4:28-29)."
+    },
+    {
+      "pregunta": "¿Qué dijeron los samaritanos después de escuchar a Jesús?",
+      "opciones": ["Que era un profeta más", "Que era hijo de Jacob", "Que era el Salvador del mundo"],
+      "correcta": 2,
+      "explicacion": "Dijeron: «éste es el Salvador del mundo, el Cristo» (Juan 4:42)."
+    }
+  ],
+  "estudio": ["inicio-ministerio"],
+  "buscar": "Juan 4:1-42"
+}

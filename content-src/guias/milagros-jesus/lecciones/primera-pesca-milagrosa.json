@@ -1,0 +1,91 @@
+{
+  "id": "primera-pesca-milagrosa",
+  "titulo": "La primera pesca milagrosa",
+  "subtitulo": "Milagro 3 de 43 · «Pescarás hombres»",
+  "etiquetas": ["Lago de Genesaret", "Año 2 · c. 28 d.C.", "Naturaleza y provisión", "Solo lo cuenta Lucas"],
+  "enUnMinuto": [
+    "Pedro y sus compañeros pescan toda la noche y no sacan nada.",
+    "Jesús le pide echar las redes otra vez, y la pesca es tan grande que las redes se rompen.",
+    "Pedro cae de rodillas, y Jesús lo llama: desde ahora pescará personas."
+  ],
+  "versiculo": {
+    "texto": "Y respondiendo Simón, le dijo: Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red.",
+    "referencia": "Lucas 5:5"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Lucas 5:1-11", "nota": "La pesca solo la cuenta Lucas." },
+        { "ref": "Mateo 4:18-22", "nota": "Mateo cuenta el llamado de los pescadores, sin la pesca." },
+        { "ref": "Marcos 1:16-20", "nota": "Marcos también cuenta el llamado junto al mar de Galilea." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Una mañana, junto al lago de Genesaret, la gente se apretaba alrededor de Jesús para oír la palabra de Dios. En la orilla había dos barcas. Los pescadores habían bajado de ellas y lavaban sus redes. Jesús subió a la barca de Simón y le pidió que la apartara un poco de tierra. Sentado allí, enseñaba a la gente.",
+        "Cuando terminó de hablar, le dijo a Simón: «Tira a alta mar, y echad vuestras redes para pescar». Simón le contestó con honestidad: «Maestro, habiendo trabajado toda la noche, nada hemos tomado». Pero añadió: «mas en tu palabra echaré la red».",
+        "Echaron las redes y atraparon tantos peces que las redes se rompían. Hicieron señas a sus compañeros de la otra barca para que vinieran a ayudar. Llenaron las dos barcas, y de tanto peso casi se hundían.",
+        "Al ver esto, Simón Pedro cayó de rodillas ante Jesús: «Apártate de mí, Señor, porque soy hombre pecador». Él y sus socios, Jacobo y Juan, estaban llenos de asombro. Jesús le dijo: «No temas: desde ahora pescarás hombres». Llegaron a tierra, lo dejaron todo y lo siguieron."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús es Señor también del trabajo diario: el lago y los peces le obedecen. Pero lo más grande no fue la pesca. Pedro se sintió pecador y quiso alejarlo, y Jesús no se fue. Le dijo «No temas» y le dio una misión. Jesús no llama a los perfectos: llama a los que se saben necesitados."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizás tú también trabajaste toda la noche y no sacaste nada. Pedro no escondió su cansancio, pero obedeció: «en tu palabra». Hoy puedes hacer lo mismo en tu trabajo, en tu casa o en tus estudios. Y si te sientes indigno, recuerda que Jesús no se apartó de Pedro. Para hoy: haz una tarea difícil diciendo en voz baja, como Pedro: «en tu palabra»."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, a veces trabajo mucho y no veo fruto. Hoy vuelvo a echar la red porque tú lo dices. Gracias porque no te apartas de mí cuando me siento pecador. Úsame para acercar a otros a ti. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Pedro pescó toda la noche y no sacó ni un pez. Jesús le pidió echar la red otra vez. ¡Y la red se llenó tanto que se rompía! ¿Qué cosa te cuesta hacer, pero quieres hacerla con Jesús?",
+      "actividad": "Recorta peces de papel, ponlos en una bolsa y cuéntalos con tu familia. Luego oren por alguien que quieren invitar a conocer a Jesús."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? Genesaret es otro nombre del mar de Galilea, un lago de agua dulce. Mateo y Marcos cuentan el llamado de Pedro, Andrés, Jacobo y Juan sin mencionar la pesca. Algunos lectores ven en ellos el mismo día; otros, dos momentos distintos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Isaías 6:5-8", "nota": "Isaías también se siente indigno ante Dios, es perdonado y enviado." },
+        { "ref": "Juan 21:6", "nota": "Después de la resurrección, otra pesca abundante junto al mismo mar." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuánto habían pescado Pedro y sus compañeros durante la noche?",
+      "opciones": ["Nada", "Pocos peces", "Una red llena"],
+      "correcta": 0,
+      "explicacion": "Pedro dijo: habiendo trabajado toda la noche, nada hemos tomado (Lucas 5:5)."
+    },
+    {
+      "pregunta": "¿Qué dijo Pedro al ver la pesca tan grande?",
+      "opciones": ["Que ya no tendrían que trabajar", "Que se apartara, porque él era pecador", "Que irían a venderlos al mercado"],
+      "correcta": 1,
+      "explicacion": "Pedro cayó de rodillas y se reconoció pecador (Lucas 5:8)."
+    },
+    {
+      "pregunta": "¿En qué otro momento Jesús da una pesca abundante a sus discípulos?",
+      "opciones": ["En las bodas de Caná", "En el monte de la Transfiguración", "Después de su resurrección"],
+      "correcta": 2,
+      "explicacion": "En Juan 21 Jesús resucitado les dice dónde echar la red, y la llenan de peces."
+    }
+  ],
+  "estudio": ["galilea-milagros", "inicio-ministerio"],
+  "buscar": "Lucas 5:1-11"
+}

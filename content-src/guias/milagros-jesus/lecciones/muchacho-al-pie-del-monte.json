@@ -1,0 +1,91 @@
+{
+  "id": "muchacho-al-pie-del-monte",
+  "titulo": "El muchacho que el padre trajo",
+  "subtitulo": "Milagro 28 de 43 · «Creo, ayuda mi incredulidad»",
+  "etiquetas": ["Al pie del monte, en Galilea", "Año 3 · c. 29 d.C.", "Liberación"],
+  "enUnMinuto": [
+    "Al bajar del monte, Jesús encuentra a un padre desesperado: su único hijo sufre desde niño.",
+    "El padre le dice con sinceridad: «Creo, ayuda mi incredulidad».",
+    "Jesús libera al muchacho, lo toma de la mano, lo levanta y se lo devuelve a su padre."
+  ],
+  "versiculo": {
+    "texto": "Y luego el padre del muchacho dijo clamando: Creo, ayuda mi incredulidad.",
+    "referencia": "Marcos 9:24"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 17:14-21", "nota": "Mateo añade la fe como un grano de mostaza." },
+        { "ref": "Marcos 9:14-29", "nota": "Marcos da más detalles: el diálogo con el padre y su grito de fe." },
+        { "ref": "Lucas 9:37-43", "nota": "Lucas dice que era hijo único y que Jesús se lo devolvió a su padre." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Al bajar del monte, Jesús encontró a mucha gente alrededor de sus discípulos. Unos escribas discutían con ellos. Un padre se acercó y se arrodilló. Su único hijo sufría desde niño: un espíritu lo tiraba al suelo, a veces al fuego o al agua. Los discípulos no habían podido ayudarlo.",
+        "Jesús dijo: «Traédmele». Cuando el muchacho llegó, cayó al suelo con otra crisis. Jesús, sin prisa, preguntó al padre desde cuándo le pasaba. «Desde niño», respondió. Y suplicó: «si puedes algo, ayúdanos, teniendo misericordia de nosotros».",
+        "Jesús le contestó: «Si puedes creer, al que cree todo es posible». Y el padre gritó: «Creo, ayuda mi incredulidad». Entonces Jesús mandó al espíritu salir y no volver. El muchacho quedó quieto, como muerto. Pero Jesús lo tomó de la mano y lo levantó. Y se lo devolvió a su padre.",
+        "Más tarde, en casa, los discípulos preguntaron por qué ellos no habían podido. Jesús les habló de la oración. También les habló de la fe, aunque sea pequeña como un grano de mostaza."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús no se aparta del sufrimiento. Deja la gloria del monte y baja a una familia en crisis. Que acepta una fe con dudas: el padre no tenía una fe perfecta, y Jesús no lo rechazó. Y que devuelve la vida con ternura. Toma de la mano al muchacho, lo levanta y lo entrega a su padre."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Tal vez tu oración suena como la de este padre: creo, pero me cuesta. Puedes decírselo así a Jesús, con honestidad. La fe no es no tener dudas; es llevarle tus dudas a él. Si en tu familia alguien sufre desde hace años, no estás solo. Para hoy: repite varias veces durante el día la oración de este padre: «Creo, ayuda mi incredulidad»."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, creo en ti, pero a veces me cuesta. Ayuda mi falta de fe. Te traigo a quien sufre en mi casa desde hace tiempo. Tómalo de la mano, levántalo y danos tu paz. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un papá trajo a Jesús a su hijo, que sufría mucho. Le dijo: «Creo, ayuda mi incredulidad». Jesús sanó al muchacho, lo tomó de la mano y lo levantó. ¿Qué le dices tú a Jesús cuando algo te da miedo?",
+      "actividad": "Siembren una semilla pequeña en un vaso con tierra. Cada vez que la rieguen, díganle a Jesús: creo en ti, ayúdame."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Salmos 145:14", "nota": "Dios sostiene a los que caen y levanta a los oprimidos." },
+        { "ref": "Lucas 17:5-6", "nota": "Los apóstoles piden: «Auméntanos la fe», y Jesús habla del grano de mostaza." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los síntomas se parecen a lo que hoy llamamos epilepsia; la RV1909 dice «lunático». Los evangelios cuentan este caso como la obra de un espíritu. No toda enfermedad tiene un origen espiritual. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quiénes no habían podido ayudar al muchacho?",
+      "opciones": ["Los sacerdotes", "Los discípulos", "Los fariseos"],
+      "correcta": 1,
+      "explicacion": "El padre dijo que había rogado a los discípulos, y no pudieron (Marcos 9:18)."
+    },
+    {
+      "pregunta": "¿Qué gritó el padre del muchacho?",
+      "opciones": ["«Creo, ayuda mi incredulidad»", "«Señor, no soy digno»", "«Apártate de mí»"],
+      "correcta": 0,
+      "explicacion": "Es su oración sincera en Marcos 9:24: cree, y pide ayuda para creer más."
+    },
+    {
+      "pregunta": "¿Dónde estaba Jesús justo antes de este milagro?",
+      "opciones": ["En Jerusalén", "En una barca", "En el monte de la Transfiguración"],
+      "correcta": 2,
+      "explicacion": "Jesús bajaba del monte con Pedro, Santiago y Juan (Lucas 9:37)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 9:14-29"
+}

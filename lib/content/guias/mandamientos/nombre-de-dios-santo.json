@@ -1,0 +1,128 @@
+{
+  "id": "nombre-de-dios-santo",
+  "titulo": "El nombre de Dios es santo",
+  "subtitulo": "Evangélico: 3.º · Católico: 2.º",
+  "etiquetas": ["Éxodo 20:7", "Amor a Dios"],
+  "enUnMinuto": [
+    "En la Biblia, el nombre de Dios es Dios mismo: su persona, su fama y su amor.",
+    "Tomarlo “en vano” es usarlo a la ligera, para mentir, jurar en falso o maldecir.",
+    "Jesús nos enseñó a empezar la oración así: «santificado sea tu nombre»."
+  ],
+  "versiculo": {
+    "texto": "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano.",
+    "referencia": "Éxodo 20:7"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "La Palabra",
+      "items": [
+        { "ref": "Éxodo 20:7", "nota": "“En vano” quiere decir vacío, sin valor, a la ligera." },
+        { "ref": "Deuteronomio 5:11", "nota": "Moisés lo repite casi palabra por palabra." },
+        { "ref": "Levítico 19:12", "nota": "Un ejemplo claro: jurar en nombre de Dios para mentir." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Qué significa en palabras simples",
+      "parrafos": [
+        "En la Biblia, el nombre es la persona. Decir “el nombre de Dios” es hablar de Dios mismo. Por eso su nombre merece respeto y cariño.",
+        "Tomarlo en vano es usarlo vacío, sin respeto. Por ejemplo: jurar por Dios para que te crean una mentira. Usarlo como palabrota o como chiste. O decir “Dios me dijo” para conseguir lo que tú quieres.",
+        "También hay un lado positivo. Usar bien su nombre es orar, dar gracias, bendecir y cumplir la palabra dada."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un poco de contexto",
+      "parrafos": [
+        "En tiempos antiguos, la gente juraba por sus dioses para cerrar un trato. Jurar por el Dios de Israel y después mentir era usar su nombre como escudo del engaño. Por eso la ley dice: «no juraréis en mi nombre con mentira» (Levítico 19:12).",
+        "La advertencia es seria: Dios «no dará por inocente» al que use así su nombre. No es solo una regla de vocabulario. Se trata de no manchar la fama de Dios delante de los demás."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Cómo Jesús lo vivió y lo enseñó",
+      "tono": "navy",
+      "texto": "Jesús enseñó a orar empezando por aquí: «santificado sea tu nombre» (Mateo 6:9). Antes de pedir el pan, pedimos que Dios sea honrado. También enseñó a no jurar a la ligera: «sea vuestro hablar: Sí, sí; No, no» (Mateo 5:37). Y en su última oración le dijo al Padre: «He manifestado tu nombre» (Juan 17:6). Con su vida, Jesús mostró quién es Dios."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "En tu día a día",
+      "items": [
+        "Niños: no uses “¡Dios mío!” o “¡Jesús!” como grito de enojo o de broma. Guárdalos para hablar con él.",
+        "Jóvenes: no compartas memes que se burlan de Dios. No digas “te lo juro por Dios” para que te crean.",
+        "Adultos: cumple tu palabra en el trabajo y en los negocios. Si dices “sí”, que sea sí.",
+        "Mayores: enseña a tus nietos a orar con respeto y cariño. Ellos aprenden de cómo tú dices “Dios”.",
+        "Todos: usa el nombre de Dios para bendecir. “Que Dios te bendiga” y “Gracias a Dios”, dichos de verdad."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Si ya lo usaste mal",
+      "parrafos": [
+        "Muchos crecimos oyendo el nombre de Dios en palabrotas, y se nos pegó. No te angusties. Pídele perdón y pídele ayuda. Cambiar una costumbre lleva tiempo, y Dios es paciente contigo. Si confesamos nuestros pecados, «él es fiel y justo para que nos perdone» (1 Juan 1:9)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Ora el Padre Nuestro despacio. Detente en «santificado sea tu nombre».",
+        "Fíjate cuántas veces dices “Dios” o “Jesús” sin pensarlo. Anótalo.",
+        "Cambia una expresión de enojo por otra más limpia.",
+        "Cumple hoy una promesa pequeña que tenías pendiente.",
+        "Bendice a alguien en serio: “Que Dios te bendiga”.",
+        "Lee Salmos 103:1-5 y alaba a Dios por tres cosas.",
+        "Aprende Mateo 5:37 de memoria y vívelo en una conversación."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Versículos para seguir leyendo",
+      "items": [
+        { "ref": "Mateo 6:9", "nota": "Jesús pone el nombre de Dios al comienzo de la oración." },
+        { "ref": "Mateo 5:33-37", "nota": "Que tu palabra valga sin necesidad de juramentos." },
+        { "ref": "Santiago 3:9-10", "nota": "De la misma boca no deberían salir bendición y maldición." },
+        { "ref": "Salmos 103:1", "nota": "Bendecir su santo nombre con todo lo que somos." },
+        { "ref": "Filipenses 2:9-11", "nota": "El nombre de Jesús está sobre todo nombre." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "El nombre de Dios es especial, como el de alguien muy querido. ¿Te gustaría que se burlaran de tu nombre? Por eso lo decimos con cariño: al orar, al cantar y al dar gracias.",
+      "actividad": "Escribe “Dios” con letras bonitas en un papel y decóralo. Pégalo en el lugar donde oran en familia."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, santificado sea tu nombre en mi boca y en mi vida. Perdóname por las veces que lo usé sin respeto. Que mis palabras sean limpias y mi “sí” sea sí. En el nombre de Jesús. Amén."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "El nombre de Dios no se honra solo con la boca, también con la vida. Si dices que eres cristiano y tratas mal a los demás, su nombre queda mal. Si vives con amor, la gente ve cómo es Dios. Esta semana, que tu forma de hablar y de actuar hable bien de él."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué significa tomar el nombre de Dios «en vano»?",
+      "opciones": ["Orar en voz alta", "Usarlo a la ligera o para mentir", "Cantar en la iglesia"],
+      "correcta": 1,
+      "explicacion": "“En vano” es vacío, sin respeto: jurar en falso, maldecir o usarlo como broma."
+    },
+    {
+      "pregunta": "En el Padre Nuestro, ¿qué pide Jesús antes que el pan?",
+      "opciones": ["El perdón de las deudas", "Ser librados del mal", "Que el nombre de Dios sea santificado"],
+      "correcta": 2,
+      "explicacion": "«santificado sea tu nombre» (Mateo 6:9) va antes de pedir el pan de cada día."
+    },
+    {
+      "pregunta": "¿Qué enseñó Jesús sobre jurar?",
+      "opciones": ["Que tu sí sea sí, y tu no, no", "Que se jure solo en el templo", "Que se jure siempre por el cielo"],
+      "correcta": 0,
+      "explicacion": "«sea vuestro hablar: Sí, sí; No, no» (Mateo 5:37)."
+    }
+  ],
+  "estudio": ["exodo", "galilea-ensenanzas"],
+  "buscar": "Éxodo 20:7"
+}

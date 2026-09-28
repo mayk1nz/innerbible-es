@@ -1,0 +1,94 @@
+{
+  "id": "mudo-que-volvio-a-hablar",
+  "titulo": "El mudo que volvió a hablar",
+  "subtitulo": "Milagro 19 de 43 · «Nunca ha sido vista cosa semejante»",
+  "etiquetas": ["Capernaúm", "Año 2 · c. 28 d.C.", "Liberación", "Solo lo cuenta Mateo"],
+  "enUnMinuto": [
+    "Le traen a Jesús un hombre mudo, atormentado por un espíritu malo.",
+    "Jesús lo libera, y el hombre vuelve a hablar mientras la gente se maravilla.",
+    "Después Jesús mira a las multitudes con compasión y pide orar por más obreros."
+  ],
+  "versiculo": {
+    "texto": "Y echado fuera el demonio, el mudo habló; y las gentes se maravillaron, diciendo: Nunca ha sido vista cosa semejante en Israel.",
+    "referencia": "Mateo 9:33"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 9:32-34", "nota": "Solo lo cuenta Mateo, justo después de los dos ciegos." },
+        { "ref": "Mateo 9:35-38", "nota": "Lo que sigue: la compasión de Jesús por las multitudes." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Los dos ciegos acababan de salir contando que Jesús les había abierto los ojos. En ese momento le trajeron a otro hombre. No podía hablar, y los evangelios dicen que lo atormentaba un demonio.",
+        "Alguien se preocupó por él y lo llevó hasta Jesús. El hombre no podía pedir ayuda con su voz. Otros la pidieron por él.",
+        "Jesús echó fuera al demonio, y el mudo habló. La gente se maravilló y decía: «Nunca ha sido vista cosa semejante en Israel». Pero algunos fariseos no lo aceptaron. Decían que Jesús echaba los demonios por el poder del príncipe de los demonios.",
+        "Jesús siguió adelante. Recorría los pueblos y aldeas, enseñando y sanando. Al ver a tanta gente sintió compasión, porque estaban cansados y dispersos, «como ovejas que no tienen pastor». Entonces dijo a sus discípulos que la cosecha era mucha y los obreros pocos. Les pidió que rogaran al Señor de la cosecha que enviara obreros."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús devuelve la voz a quien no la tenía. No discute con quienes lo critican: sigue haciendo el bien. Su mirada va más allá de un solo milagro. Ve a las multitudes cansadas y siente compasión, como un pastor que busca a sus ovejas. Y nos invita a unirnos a su obra con la oración."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Este hombre no podía pedir ayuda, y otros la pidieron por él. Hay personas a tu alrededor que hoy no tienen voz: por timidez, por miedo o por dolor. Puedes ser su voz ante Jesús y ante los demás. Para hoy: pide a Dios que envíe obreros a su cosecha, y pregúntale qué parte te toca a ti."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú devuelves la voz a los que no pueden hablar. Hoy hablo por los que sufren en silencio. Envía obreros a tu cosecha, y si quieres, envíame también a mí. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre no podía hablar. Unas personas lo llevaron a Jesús, y Jesús lo sanó. ¡Y el hombre habló! Todos decían que nunca habían visto algo así. ¿Qué es lo primero que le dirías tú a Jesús?",
+      "actividad": "Jueguen a explicar algo sin hablar, solo con gestos. Luego den gracias a Dios por la voz."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los evangelios cuentan esta liberación con sobriedad. No toda dificultad para hablar tiene un origen espiritual. Orar y buscar ayuda médica o terapéutica van juntos."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo cuenta más adelante otro caso parecido, el de un hombre que no veía ni hablaba (Mateo 12:22). Son dos hechos distintos, con reacciones parecidas de la gente."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Isaías 35:6", "nota": "El profeta anuncia que «cantará la lengua del mudo»." },
+        { "ref": "Ezequiel 34:11-12", "nota": "Dios promete buscar a sus ovejas dispersas, como un buen pastor." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué dijo la gente al ver hablar al mudo?",
+      "opciones": ["Que Jesús era un romano", "Que nunca se había visto cosa semejante", "Que era un truco"],
+      "correcta": 1,
+      "explicacion": "Decían: Nunca ha sido vista cosa semejante en Israel (Mateo 9:33)."
+    },
+    {
+      "pregunta": "¿Cómo veía Jesús a las multitudes?",
+      "opciones": ["Como ovejas sin pastor", "Como soldados en guerra", "Como niños jugando"],
+      "correcta": 0,
+      "explicacion": "Tuvo compasión, porque estaban como ovejas que no tienen pastor (Mateo 9:36)."
+    },
+    {
+      "pregunta": "¿Qué pidió Jesús a sus discípulos después de este milagro?",
+      "opciones": ["Que construyeran una sinagoga", "Que se callaran", "Que rogaran por más obreros"],
+      "correcta": 2,
+      "explicacion": "Les dijo: Rogad al Señor de la mies, que envíe obreros a su mies (Mateo 9:38)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Mateo 9:32-38"
+}

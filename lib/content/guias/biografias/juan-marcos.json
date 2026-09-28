@@ -1,0 +1,124 @@
+{
+  "id": "juan-marcos",
+  "titulo": "Juan Marcos",
+  "subtitulo": "El que volvió a ser útil",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén, Chipre y Roma"],
+  "enUnMinuto": [
+    "Juan Marcos era un joven de Jerusalén, en cuya casa oraba la iglesia.",
+    "Acompañó a Pablo y a Bernabé en su primer viaje, pero se volvió a mitad de camino.",
+    "Bernabé le dio otra oportunidad, y años después Pablo dijo que le era útil."
+  ],
+  "versiculo": {
+    "texto": "Lucas solo está conmigo. Toma a Marcos, y tráele contigo; porque me es útil para el ministerio.",
+    "referencia": "2 Timoteo 4:11"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Tenía dos nombres: Juan, su nombre judío, y Marcos, un nombre romano (Hechos 12:12). Su madre se llamaba María y tenía una casa en Jerusalén donde se reunía la iglesia.",
+        "Era pariente de Bernabé (Colosenses 4:10). Trabajó junto a Pablo, a Bernabé y a Pedro. Pedro lo llama con cariño «Marcos mi hijo» (1 Pedro 5:13)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Una casa de oración. Cuando Pedro estaba preso, muchos oraban en casa de María, la madre de Marcos. Al salir de la cárcel, Pedro fue directo allí (Hechos 12:12-17).",
+        "Un joven que se suma. Bernabé y Saulo volvieron de Jerusalén a Antioquía y llevaron consigo a Juan Marcos (Hechos 12:25).",
+        "Ayudante en la misión. En el primer viaje, Marcos ayudaba a Pablo y a Bernabé en Chipre (Hechos 13:5).",
+        "Se vuelve a casa. Al llegar a Perge, Marcos los dejó y regresó a Jerusalén. La Biblia no dice por qué (Hechos 13:13).",
+        "Motivo de una discusión. Para el segundo viaje, Bernabé quiso llevarlo otra vez y Pablo no. Se separaron, y Bernabé viajó con Marcos a Chipre (Hechos 15:37-39).",
+        "Otra vez junto a Pablo. Años después, Marcos estaba con Pablo preso. Pablo lo llama su colaborador y pide que lo reciban bien (Colosenses 4:10; Filemón 1:24).",
+        "«Me es útil». Al final de su vida, Pablo pidió a Timoteo que trajera a Marcos, porque le servía mucho (2 Timoteo 4:11).",
+        "Como un hijo para Pedro. Pedro manda saludos de parte de «Marcos mi hijo» (1 Pedro 5:13)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "La historia de Marcos se parece a la de Pedro. Los dos se echaron atrás, y los dos recibieron otra oportunidad. Jesús no descarta a quien falla; lo restaura con paciencia, muchas veces por medio de hermanos como Bernabé."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Un fracaso no es tu nombre. Marcos se volvió, pero su historia siguió. Esta semana, retoma algo bueno que dejaste a medias por miedo o cansancio.",
+        "Dar segundas oportunidades. Bernabé apostó por Marcos. Esta semana, llama a alguien que te falló y ofrécele empezar de nuevo.",
+        "Saber reconocer el cambio. Pablo cambió de opinión sobre Marcos y lo dijo. Esta semana, dile a alguien que ha crecido cuánto lo notas."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás alguien te recuerda por el día en que te echaste atrás. Dios no te ve así. ¿Qué paso sencillo puedes dar esta semana para volver a servir?"
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Su madre era María, de Jerusalén (Hechos 12:12).",
+        "Era pariente de Bernabé (Colosenses 4:10).",
+        "Trabajó con Pablo y con Pedro (Filemón 1:24; 1 Pedro 5:13).",
+        "El Evangelio de Marcos no dice quién lo escribió."
+      ],
+      "tradicion": [
+        "Desde el siglo II, Papías y otros cuentan que Marcos escribió lo que Pedro predicaba. Por eso el segundo Evangelio lleva su nombre.",
+        "Muchos piensan que el joven que huyó en Getsemaní era el mismo Marcos (Marcos 14:51-52). Es una suposición.",
+        "La tradición dice que fundó la iglesia de Alejandría, en Egipto. La Iglesia copta lo honra como su primer obispo.",
+        "Venecia guarda sus restos desde el siglo IX. Su símbolo es el león."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Colosenses 4:10 dice «el sobrino de Bernabé». La palabra griega también puede traducirse “primo”. Por eso algunas Biblias dicen “primo”."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Hechos 12:12-17", "nota": "La casa de su madre" },
+        { "ref": "Hechos 12:25", "nota": "Se une a Bernabé y Saulo" },
+        { "ref": "Hechos 13:5-13", "nota": "El primer viaje" },
+        { "ref": "Hechos 15:36-39", "nota": "La discusión por Marcos" },
+        { "ref": "Colosenses 4:10", "nota": "Pariente de Bernabé" },
+        { "ref": "Filemón 1:24", "nota": "Colaborador de Pablo" },
+        { "ref": "2 Timoteo 4:11", "nota": "Útil para el ministerio" },
+        { "ref": "1 Pedro 5:13", "nota": "Como un hijo para Pedro" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Marcos se cansó y se volvió a casa, pero después le dieron otra oportunidad. ¿Alguna vez dejaste algo sin terminar? ¿Lo quieres intentar otra vez?",
+      "actividad": "Para papás y abuelos: Pablo dijo al final que Marcos era útil (2 Timoteo 4:11). Elijan juntos una tarea pequeña que el niño dejó a medias y termínenla."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque no me descartas cuando fallo. Dame otra oportunidad para servirte, y hazme útil en tus manos. Ayúdame a dar a otros la misma gracia. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué pasaba en la casa de la madre de Marcos?",
+      "opciones": ["La iglesia se reunía a orar", "Se vendía pescado", "Vivía el sumo sacerdote"],
+      "correcta": 0,
+      "explicacion": "Muchos estaban allí orando cuando Pedro salió de la cárcel (Hechos 12:12)."
+    },
+    {
+      "pregunta": "¿Dónde dejó Marcos a Pablo y a Bernabé en el primer viaje?",
+      "opciones": ["En Roma", "En Atenas", "En Perge"],
+      "correcta": 2,
+      "explicacion": "En Perge, Marcos se apartó de ellos y volvió a Jerusalén (Hechos 13:13)."
+    },
+    {
+      "pregunta": "¿Qué apóstol llama a Marcos «mi hijo» en una carta?",
+      "opciones": ["Juan", "Pedro", "Santiago"],
+      "correcta": 1,
+      "explicacion": "Pedro envía saludos de «Marcos mi hijo» (1 Pedro 5:13)."
+    }
+  ],
+  "estudio": ["hechos-13-14", "2-timoteo"],
+  "buscar": "Juan Marcos"
+}

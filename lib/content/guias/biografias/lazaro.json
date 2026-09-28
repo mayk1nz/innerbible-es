@@ -1,0 +1,123 @@
+{
+  "id": "lazaro",
+  "titulo": "Lázaro de Betania",
+  "subtitulo": "El amigo de Jesús",
+  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Betania, cerca de Jerusalén"],
+  "enUnMinuto": [
+    "Lázaro vivía en Betania con sus hermanas, Marta y María, y era amigo de Jesús.",
+    "Cayó enfermo y murió, y Jesús lloró junto a su tumba.",
+    "Después de cuatro días, Jesús lo llamó por su nombre y Lázaro salió vivo del sepulcro."
+  ],
+  "versiculo": {
+    "texto": "Dícele Jesús: Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá.",
+    "referencia": "Juan 11:25"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Lázaro vivía en Betania, una aldea a unos tres kilómetros de Jerusalén (Juan 11:18). Era hermano de Marta y de María. Su nombre viene del hebreo Eleazar: “Dios ayuda”.",
+        "La Biblia no dice su oficio ni su edad. Lo más importante es lo que dice de él Jesús: «Lázaro nuestro amigo» (Juan 11:11). Curiosamente, los Evangelios no guardan ni una sola palabra dicha por Lázaro."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Una casa amiga. Jesús amaba a Marta, a María y a Lázaro (Juan 11:5). Su casa en Betania era un lugar de descanso para él.",
+        "«El que amas está enfermo». Así avisaron las hermanas a Jesús. Él dijo que esa enfermedad serviría para mostrar la gloria de Dios (Juan 11:1-4).",
+        "Una espera difícil. Jesús se quedó dos días más donde estaba. Cuando llegó a Betania, Lázaro llevaba cuatro días en el sepulcro (Juan 11:6, 17).",
+        "Marta sale al encuentro. Jesús le dijo: «Yo soy la resurrección y la vida». Marta respondió con fe que él era el Cristo, el Hijo de Dios (Juan 11:20-27).",
+        "Jesús llora. María cayó a los pies de Jesús, llorando. Jesús se conmovió y lloró con ellos. La gente decía: «Mirad cómo le amaba» (Juan 11:32-36).",
+        "«Lázaro, ven fuera». Jesús mandó quitar la piedra y dio gracias al Padre en voz alta. Luego llamó a su amigo, y Lázaro salió vivo, envuelto en vendas (Juan 11:38-44).",
+        "Una reacción dividida. Muchos creyeron en Jesús. Pero los jefes de los sacerdotes y algunos fariseos decidieron que Jesús debía morir (Juan 11:45-53).",
+        "Otra vez a la mesa. Seis días antes de la Pascua, hicieron una cena para Jesús en Betania. Marta servía, Lázaro estaba sentado a la mesa y María ungió los pies de Jesús (Juan 12:1-3).",
+        "Una vida que habla. Mucha gente iba a ver a Lázaro y creía en Jesús. Por eso los jefes de los sacerdotes pensaron en matarlo también (Juan 12:9-11)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "En Betania vemos las dos caras de Jesús. Es hombre de verdad: ama a sus amigos y llora ante la tumba. Y es Dios con poder sobre la muerte: con su palabra devuelve la vida. Lo que hizo por Lázaro anuncia su propia resurrección, pocos días después."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Jesús llora contigo. No se burla de tu dolor ni lo apura. Esta semana, visita o llama a alguien que está de luto, y simplemente acompáñalo.",
+        "Los retrasos de Dios no son olvidos. Jesús llegó tarde para las hermanas, pero a tiempo para algo mayor. Esta semana, escribe una oración que parece sin respuesta y entrégasela otra vez.",
+        "Una vida cambiada habla sola. Lázaro no predicó, y muchos creyeron por él. Esta semana, cuenta a alguien una cosa que Jesús hizo en tu vida."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Jesús le preguntó a Marta: «¿Crees esto?». Hoy te lo pregunta a ti. ¿Qué parte de tu vida parece cerrada como una tumba? Llévala a Jesús, que llama por el nombre."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era hermano de Marta y de María, y vivía en Betania (Juan 11:1).",
+        "Jesús lo llamó «nuestro amigo» y lloró por él (Juan 11:11, 35).",
+        "Después de volver a la vida, compartió la mesa con Jesús (Juan 12:2).",
+        "La Biblia no cuenta qué hizo Lázaro después, ni cuándo ni cómo murió."
+      ],
+      "tradicion": [
+        "Los cristianos ortodoxos recuerdan que Lázaro fue obispo en Chipre. Su iglesia en Lárnaca guarda su memoria.",
+        "Una leyenda medieval de Francia cuenta que viajó a Marsella con sus hermanas.",
+        "Las iglesias ortodoxas celebran el Sábado de Lázaro, el día antes del Domingo de Ramos.",
+        "En Cuba y otros lugares, muchos veneran a San Lázaro el 17 de diciembre. Esa imagen, con muletas y perros, viene del Lázaro de una parábola de Jesús."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "No lo confundas con Lázaro, el pobre de la parábola del rico (Lucas 16:19-31). Ese es un personaje de un relato de Jesús. El amigo de Betania es otra persona."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Juan 11:1-16", "nota": "La enfermedad de Lázaro" },
+        { "ref": "Juan 11:17-44", "nota": "Jesús lo vuelve a la vida" },
+        { "ref": "Juan 11:45-57", "nota": "La reacción de las autoridades" },
+        { "ref": "Juan 12:1-11", "nota": "La cena en Betania" },
+        { "ref": "Juan 12:17-19", "nota": "La gente hablaba de él" },
+        { "ref": "Lucas 10:38-42", "nota": "La casa de Marta y María" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús lloró cuando su amigo Lázaro murió. ¿Sabías que Jesús también está contigo cuando estás triste?",
+      "actividad": "Para papás y abuelos: Jesús lloró con sus amigos y luego devolvió la vida a Lázaro (Juan 11:35, 43). Pregunten al niño qué lo pone triste y oren juntos por eso."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, amigo de Lázaro, gracias porque lloras conmigo. Tú eres la resurrección y la vida. Llama por su nombre lo que en mí está muerto, y dame vida nueva. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaban las hermanas de Lázaro?",
+      "opciones": ["Marta y María", "Ana y Elisabet", "Lidia y Priscila"],
+      "correcta": 0,
+      "explicacion": "Lázaro vivía en Betania con sus hermanas Marta y María (Juan 11:1)."
+    },
+    {
+      "pregunta": "¿Cuántos días llevaba Lázaro en el sepulcro cuando llegó Jesús?",
+      "opciones": ["Un día", "Tres días", "Cuatro días"],
+      "correcta": 2,
+      "explicacion": "Jesús halló que Lázaro llevaba ya cuatro días en el sepulcro (Juan 11:17)."
+    },
+    {
+      "pregunta": "¿Qué pasó en Jerusalén pocos días después de la cena en Betania?",
+      "opciones": ["Lázaro fue elegido apóstol", "La gente recibió a Jesús con ramos de palmas", "Marta se fue a vivir a Galilea"],
+      "correcta": 1,
+      "explicacion": "Muchos salieron con palmas a recibir a Jesús, porque habían oído lo de Lázaro (Juan 12:12-18)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen", "ultima-semana"],
+  "buscar": "Lázaro"
+}

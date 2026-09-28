@@ -1,0 +1,129 @@
+{
+  "id": "saul",
+  "titulo": "Saúl",
+  "subtitulo": "El primer rey de Israel",
+  "etiquetas": ["Antiguo Testamento", "El reino", "Benjamín"],
+  "enUnMinuto": [
+    "Saúl es un joven alto y humilde que Dios elige como primer rey de Israel.",
+    "Empieza bien, pero poco a poco deja de obedecer a Dios y se llena de celos contra David.",
+    "Su historia es triste, y enseña que un gran comienzo no basta: hace falta un corazón que escuche a Dios."
+  ],
+  "versiculo": {
+    "texto": "Y Samuel dijo: ¿Tiene Jehová tanto contentamiento con los holocaustos y víctimas, como en obedecer a las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios; y el prestar atención que el sebo de los carneros:",
+    "referencia": "1 Samuel 15:22"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Saúl quiere decir «pedido» en hebreo. Fue el rey que el pueblo pidió a Dios (1 Samuel 8:5).",
+        "Reinó hacia el 1050–1010 a.C. Era hijo de Cis, de la tribu de Benjamín, la más pequeña de Israel. Tuvo varios hijos; el más conocido es Jonatán, gran amigo de David."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Buscando unas burras. Saúl sale a buscar los animales perdidos de su padre y termina ante el profeta Samuel (1 Samuel 9:1-20).",
+        "«¿No soy yo hijo de Benjamín?». Saúl se siente poca cosa: su tribu es de las más pequeñas. Samuel lo unge en secreto como rey (1 Samuel 9:21; 10:1).",
+        "Un corazón nuevo. Dios le cambia el corazón, y el Espíritu de Dios viene sobre él (1 Samuel 10:9-10).",
+        "Escondido entre el equipaje. El día de su presentación, Saúl se esconde. Lo encuentran, y el pueblo grita: «Viva el rey» (1 Samuel 10:21-24).",
+        "Una buena victoria. Salva a la ciudad de Jabes. No deja que castiguen a quienes lo despreciaban: «hoy ha obrado Jehová» (1 Samuel 11:1-13).",
+        "La impaciencia. Samuel tarda, el pueblo se va y Saúl ofrece él mismo el sacrificio. No espera a Dios (1 Samuel 13:8-14).",
+        "Obedecer a medias. Dios le manda no quedarse con nada de la guerra contra Amalec. Saúl guarda lo mejor del botín y culpa al pueblo (1 Samuel 15:9-23).",
+        "Un reino que se va. Samuel le dice que Dios le quitará el reino. Saúl reconoce su pecado, pero le importa más quedar bien ante el pueblo (1 Samuel 15:24-30).",
+        "La música de David. Saúl vive atormentado. Un joven pastor, David, toca el arpa y lo calma (1 Samuel 16:14-23).",
+        "Los celos. Las mujeres cantan que David venció a más enemigos que él. Desde ese día, Saúl mira a David con envidia y quiere matarlo (1 Samuel 18:6-12).",
+        "Perdonado por su enemigo. David tiene a Saúl a su alcance y no le hace daño. Saúl llora: «Más justo eres tú que yo» (1 Samuel 24:16-20).",
+        "En busca de una adivina. Ante los filisteos, Dios no le responde. Saúl consulta a una adivina en Endor, algo que él mismo había prohibido (1 Samuel 28:3-15).",
+        "El final en Gilboa. Gravemente herido en la batalla, Saúl muere en el monte Gilboa, junto a tres de sus hijos (1 Samuel 31:1-6)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Israel pidió un rey para ser como las demás naciones. Saúl era alto y fuerte, pero su corazón se alejó de Dios. La Biblia sigue esperando otro rey: humilde y obediente. Ese rey es Jesús, que se hizo obediente hasta la muerte (Filipenses 2:8). David sentó a su mesa al nieto de Saúl (2 Samuel 9:7). Así también Jesús nos hace un lugar en su mesa."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Obedecer a medias es desobedecer. Saúl hizo parte de lo que Dios pidió y lo llamó obediencia. Esta semana: termina algo que sabes que Dios te pidió y dejaste a medias.",
+        "La impaciencia nos hace adelantarnos a Dios. Saúl no supo esperar. Esta semana: antes de una decisión apurada, espera un día y ora.",
+        "Los celos destruyen por dentro. Saúl perdió la paz por compararse con David. Esta semana: felicita de corazón a alguien a quien le va mejor que a ti."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Saúl se preocupó más por lo que pensaba la gente que por lo que pensaba Dios. ¿Te pasa a ti también? Hoy puedes decirle a Dios: quiero agradarte a ti primero. Él recibe a quien vuelve de verdad."
+    },
+    {
+      "tipo": "nota",
+      "texto": "La Biblia cuenta el final de Saúl con tristeza y sin juzgarlo en detalle. David no se alegró de su muerte: le compuso un canto de duelo (2 Samuel 1:17-27). Solo Dios conoce el corazón de cada persona."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "1 Samuel 9–10", "nota": "Elegido y ungido como rey" },
+        { "ref": "1 Samuel 13:8-14", "nota": "No sabe esperar" },
+        { "ref": "1 Samuel 15", "nota": "Obedece a medias" },
+        { "ref": "1 Samuel 18:6-16", "nota": "Celos de David" },
+        { "ref": "1 Samuel 24", "nota": "David le perdona la vida" },
+        { "ref": "1 Samuel 31", "nota": "Su muerte en Gilboa" },
+        { "ref": "2 Samuel 1:17-27", "nota": "El canto de David por Saúl y Jonatán" }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Saulo de Tarso, el apóstol Pablo. Llevaba el mismo nombre y también era de la tribu de Benjamín (Hechos 13:9; Filipenses 3:5)."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Saúl se puso muy celoso de David porque la gente lo aplaudía más. ¿Alguna vez sentiste celos de alguien? ¿Qué puedes hacer?",
+      "actividad": "Para el adulto: los celos se vencen alegrándonos por los demás. Ayuda al niño a decir algo bueno de un hermano o amigo."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, no quiero obedecerte a medias. Líbrame de la impaciencia y de los celos. Dame un corazón que te escuche y que se alegre por el bien de los demás. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Saúl empezó humilde. ¿Qué cosas pueden cambiar el corazón de alguien que empieza bien?",
+        "¿Qué diferencia hay entre el arrepentimiento de Saúl y el de David?",
+        "David no quiso vengarse de Saúl. ¿Qué nos enseña su actitud?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué estaba buscando Saúl cuando conoció a Samuel?",
+      "opciones": ["Un pozo de agua", "Unas burras perdidas de su padre", "Un lugar para sacrificar"],
+      "correcta": 1,
+      "explicacion": "Saúl buscaba las burras perdidas de su padre Cis (1 Samuel 9:3-20)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Samuel a Saúl cuando guardó lo mejor del botín?",
+      "opciones": ["Que el obedecer es mejor que los sacrificios", "Que había hecho bien", "Que volviera a pelear"],
+      "correcta": 0,
+      "explicacion": "Samuel le dijo: «el obedecer es mejor que los sacrificios» (1 Samuel 15:22)."
+    },
+    {
+      "pregunta": "Saúl no supo obedecer. ¿Cómo describe Filipenses 2:8 a Jesús?",
+      "opciones": ["Como un rey guerrero", "Como un gran maestro de la Ley", "Obediente hasta la muerte de cruz"],
+      "correcta": 2,
+      "explicacion": "Jesús se humilló y fue «obediente hasta la muerte, y muerte de cruz» (Filipenses 2:8)."
+    }
+  ],
+  "estudio": ["1-samuel"],
+  "buscar": "Saúl"
+}

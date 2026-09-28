@@ -1,0 +1,101 @@
+{
+  "id": "hijo-de-la-viuda-de-nain",
+  "titulo": "El hijo de la viuda de Naín",
+  "subtitulo": "Milagro 12 de 43 · «No llores»",
+  "etiquetas": ["Naín, en Galilea", "Año 2 · c. 28 d.C.", "Resurrección", "Solo lo cuenta Lucas"],
+  "enUnMinuto": [
+    "A la entrada de Naín, Jesús se cruza con el entierro del único hijo de una viuda.",
+    "Siente compasión por la madre, toca el féretro y dice: «Mancebo, a ti digo, levántate».",
+    "El joven se sienta y habla, y Jesús se lo devuelve a su madre."
+  ],
+  "versiculo": {
+    "texto": "Y como el Señor la vio, compadeciose de ella, y le dice: No llores.",
+    "referencia": "Lucas 7:13"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Lucas 7:11-17", "nota": "Solo lo cuenta Lucas." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús iba hacia un pueblo llamado Naín. Lo acompañaban sus discípulos y mucha gente. Al llegar cerca de la puerta del pueblo, se encontraron con otro grupo que salía: era un entierro.",
+        "Llevaban a enterrar a un joven. Era el único hijo de su madre, y ella era viuda. Mucha gente del pueblo la acompañaba en su dolor. Sin esposo y sin hijo, aquella mujer se quedaba sola en el mundo.",
+        "Cuando el Señor la vio, sintió compasión y le dijo: «No llores». Nadie le había pedido nada. Jesús se acercó y tocó el féretro, y los que lo llevaban se detuvieron. Entonces dijo: «Mancebo, a ti digo, levántate».",
+        "El que había muerto se sentó y comenzó a hablar. Y Jesús se lo entregó a su madre. Todos sintieron un temor lleno de respeto y alababan a Dios. Decían que un gran profeta había aparecido y que Dios había visitado a su pueblo."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Féretro: la camilla abierta en la que se llevaba al difunto para enterrarlo.",
+        "Mancebo: joven, muchacho."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús ve el dolor antes de que se lo cuenten. Aquí nadie le pidió ayuda: él tomó la iniciativa por pura compasión. También muestra que tiene poder sobre la muerte. Le basta una palabra. Y su gesto final es tierno: no se queda con el milagro, le devuelve el hijo a su madre."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Si has perdido a alguien, esta historia no te pide que dejes de llorar a la fuerza. Te dice que Jesús ve tu dolor y se acerca. Su «No llores» nace de su compasión, no de un reproche. Él tiene la última palabra sobre la muerte. Para hoy: acompaña a alguien que está de luto con una visita, una llamada o un mensaje."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú viste a aquella madre y te conmoviste. Mira también a los que hoy lloran a alguien. Consuélalos, acompáñalos y dales la esperanza de tu vida, más fuerte que la muerte. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una mamá estaba muy triste porque su hijo había muerto. Jesús le dijo: «No llores». Tocó la camilla, y el joven volvió a vivir. ¡Jesús se lo devolvió a su mamá! ¿Cómo puedes consolar a alguien triste?",
+      "actividad": "Hagan juntos una tarjeta con un abrazo dibujado para alguien que esté triste."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esta historia no promete que nuestros seres queridos vuelvan hoy a la vida. Anuncia que Jesús vence la muerte. Él dijo: «Yo soy la resurrección y la vida» (Juan 11:25)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? Naín quedaba muy cerca de Sunem. Allí, siglos antes, el profeta Eliseo devolvió la vida al hijo de una mujer (2 Reyes 4:32-37). Por eso la gente dijo: «Que un gran profeta se ha levantado entre nosotros»."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "1 Reyes 17:17-24", "nota": "Elías devuelve la vida al hijo de otra viuda y lo entrega a su madre." },
+        { "ref": "Apocalipsis 21:4", "nota": "La promesa final: «limpiará Dios toda lágrima de los ojos de ellos»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién era el joven que llevaban a enterrar en Naín?",
+      "opciones": ["El siervo de un centurión", "El único hijo de una viuda", "El hermano de Pedro"],
+      "correcta": 1,
+      "explicacion": "Era unigénito de su madre, y ella era viuda (Lucas 7:12)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Jesús primero a la madre?",
+      "opciones": ["Ten fe", "Ve a tu casa", "No llores"],
+      "correcta": 2,
+      "explicacion": "Se compadeció de ella y le dijo: No llores (Lucas 7:13)."
+    },
+    {
+      "pregunta": "¿Qué profeta del Antiguo Testamento también devolvió la vida al hijo de una viuda?",
+      "opciones": ["Elías", "Jonás", "Daniel"],
+      "correcta": 0,
+      "explicacion": "Elías lo hizo en Sarepta y se lo dio a su madre (1 Reyes 17:23)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Lucas 7:11-17"
+}

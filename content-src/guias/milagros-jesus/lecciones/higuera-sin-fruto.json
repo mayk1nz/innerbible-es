@@ -1,0 +1,101 @@
+{
+  "id": "higuera-sin-fruto",
+  "titulo": "La higuera sin fruto",
+  "subtitulo": "Milagro 36 de 43 · Una parábola en acción",
+  "etiquetas": ["Camino de Betania a Jerusalén", "Última semana · c. 30 d.C.", "Naturaleza y provisión"],
+  "enUnMinuto": [
+    "En su última semana, Jesús busca fruto en una higuera llena de hojas y no encuentra nada.",
+    "Con palabras de profeta, dice que nadie comerá más de ella, y al día siguiente está seca.",
+    "Es una señal: Dios busca fruto verdadero, y Jesús enseña a tener fe y a perdonar."
+  ],
+  "versiculo": {
+    "texto": "Y respondiendo Jesús, les dice: Tened fe en Dios.",
+    "referencia": "Marcos 11:22"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 21:18-22", "nota": "Mateo lo cuenta en una sola escena: la higuera se seca enseguida." },
+        { "ref": "Marcos 11:12-14", "nota": "Marcos: de camino a Jerusalén, cuando no era tiempo de higos." },
+        { "ref": "Marcos 11:20-25", "nota": "A la mañana siguiente: fe en Dios, oración y perdón." },
+        { "ref": "Lucas 13:6-9", "nota": "Una parábola de Jesús: la higuera que recibe un año más de cuidado." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Era la última semana de Jesús antes de la cruz. Cada noche dormía en Betania, y cada mañana subía a Jerusalén. Un día, al salir de Betania, tuvo hambre. Vio de lejos una higuera llena de hojas y se acercó a buscar fruto.",
+        "No encontró nada, solo hojas. Marcos añade: «no era tiempo de higos». Jesús dijo a la higuera: «Nunca más coma nadie fruto de ti para siempre». Sus discípulos lo oyeron. Después entraron en Jerusalén, y Jesús echó del templo a los que vendían y compraban.",
+        "A la mañana siguiente, al pasar, vieron la higuera seca desde las raíces. Pedro se acordó y se lo dijo a Jesús. Mateo cuenta la historia más breve: la higuera se secó enseguida, y los discípulos se maravillaron.",
+        "Jesús no les habló de castigo, sino de fe: «Tened fe en Dios». Les dijo que la oración con fe puede mover montes. Y añadió algo más: cuando oren, perdonen, si tienen algo contra alguien."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Una señal, no un enojo",
+      "parrafos": [
+        "Los profetas a veces hablaban con gestos. Jeremías escondió un cinto hasta que se pudrió (Jeremías 13:1-11). Así el pueblo entendía un mensaje de Dios. Muchos lectores ven en la higuera algo parecido: una parábola en acción.",
+        "Que no fuera tiempo de higos muestra que Jesús no actuó por enojo ni por hambre. En la Biblia, la higuera con fruto es imagen del pueblo de Dios cuando da buen fruto. Jesús iba al templo, la casa de oración. El gesto nos habla a cada corazón: no basta con hojas, Dios busca fruto."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús busca fruto porque ama. No se conforma con apariencias, porque quiere para nosotros una vida verdadera. Que tiene autoridad sobre la creación, como la tuvo sobre el viento y el mar. Y que su poder nunca se volvió contra una persona. Aquí lo usa con un árbol, y solo para enseñar."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Una higuera con hojas se ve bien de lejos. Pero Jesús busca fruto: paciencia, perdón, bondad, oración. Esta historia no quiere asustarte, sino despertarte. Jesús también contó de una higuera que recibió otro año de cuidado. Él es paciente contigo. Para hoy: perdona a alguien o pide perdón, como Jesús enseñó justo después de este milagro."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, no quiero solo hojas: quiero dar fruto para ti. Límpiame de lo que es pura apariencia. Aumenta mi fe y enséñame a perdonar de corazón. Gracias por tu paciencia conmigo. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús buscó higos en un árbol lleno de hojas, pero no había ninguno. Con ese árbol enseñó que Dios quiere que demos frutos buenos, como el amor y la bondad. ¿Qué fruto bueno puedes dar tú hoy?",
+      "actividad": "Dibuja un árbol con frutas de colores. En cada fruta escribe algo bueno: ayudar, perdonar, compartir."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Oseas 9:10", "nota": "Dios recuerda a su pueblo como la fruta temprana de la higuera." },
+        { "ref": "Miqueas 7:1", "nota": "El profeta busca fruto y no lo encuentra." },
+        { "ref": "Juan 15:5", "nota": "Jesús es la vid: quien permanece en él lleva mucho fruto." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Hay varias maneras de leer este gesto de Jesús. Los cristianos coinciden en lo esencial: Dios busca fruto verdadero, y Jesús nos invita a la fe y al perdón. No es un mensaje contra un pueblo ni contra una iglesia."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué encontró Jesús en la higuera?",
+      "opciones": ["Higos maduros", "Solo hojas", "Flores"],
+      "correcta": 1,
+      "explicacion": "No halló nada en ella, sino hojas solamente (Mateo 21:19)."
+    },
+    {
+      "pregunta": "¿Qué enseñó Jesús al ver la higuera seca?",
+      "opciones": ["Que cortaran los árboles", "Que no volvieran a Betania", "Que tuvieran fe en Dios y perdonaran"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo: «Tened fe en Dios», y pidió perdonar al orar (Marcos 11:22-25)."
+    },
+    {
+      "pregunta": "¿Qué profeta enseñó con un gesto: un cinto escondido que se pudrió?",
+      "opciones": ["Jeremías", "Jonás", "Abdías"],
+      "correcta": 0,
+      "explicacion": "Dios mandó a Jeremías hacer ese gesto para dar un mensaje al pueblo (Jeremías 13:1-11)."
+    }
+  ],
+  "estudio": ["ultima-semana"],
+  "buscar": "Marcos 11:12-25"
+}

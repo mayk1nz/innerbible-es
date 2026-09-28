@@ -1,0 +1,126 @@
+{
+  "id": "comienza-aqui",
+  "titulo": "Comienza aquí: un Dios que primero libera",
+  "subtitulo": "Éxodo 20:2",
+  "etiquetas": ["Antes de empezar", "Monte Sinaí", "Éxodo 19–20"],
+  "enUnMinuto": [
+    "Antes de dar una sola regla, Dios le recuerda a Israel quién es: el que lo sacó de Egipto.",
+    "Primero viene la libertad, y después las palabras para vivir libres.",
+    "Los Diez Mandamientos no son una escalera para ganar el amor de Dios, sino el camino de quien ya es amado."
+  ],
+  "versiculo": {
+    "texto": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de siervos.",
+    "referencia": "Éxodo 20:2"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "La historia en palabras simples",
+      "parrafos": [
+        "El pueblo de Israel vivió muchos años como esclavo en Egipto. Trabajaba sin descanso y sin esperanza. Dios escuchó su clamor y lo sacó de allí. Cruzaron el mar y caminaron por el desierto.",
+        "Al tercer mes llegaron al monte Sinaí (Éxodo 19:1). Allí Dios les habló con ternura: «os tomé sobre alas de águilas, y os he traído a mí» (Éxodo 19:4). No los sacó solo de un lugar. Los trajo cerca de él.",
+        "Después hubo truenos, humo y fuego sobre el monte, y todo el pueblo temblaba. Entonces Dios habló «todas estas palabras» (Éxodo 20:1). Son las que hoy llamamos los Diez Mandamientos."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Lo primero que Dios dice",
+      "parrafos": [
+        "La primera frase no es una orden. Es una presentación: «Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto». Dios dice primero lo que ya hizo. Solo después dice lo que pide. Ese orden importa mucho: la gracia va delante de la ley.",
+        "Piensa en un padre que rescata a su hijo de un incendio. Ya en la calle, lo abraza y le dice: “No vuelvas a jugar con fósforos”. Esa regla no es para que el padre lo quiera. Es porque ya lo quiere."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Dos tablas y diez palabras",
+      "parrafos": [
+        "Dios dio a Moisés dos tablas de piedra, «escritas con el dedo de Dios» (Éxodo 31:18). La Biblia llama a su contenido «las diez palabras» (Éxodo 34:28). Por eso también se les dice “el Decálogo”, que significa justamente eso.",
+        "Cuando Moisés bajó del monte, encontró al pueblo adorando un becerro de oro. Rompió las tablas al pie del monte (Éxodo 32:19). Pero Dios no se rindió con su pueblo. Pidió tablas nuevas y prometió escribir las mismas palabras (Éxodo 34:1).",
+        "Cuarenta años después, antes de entrar en la tierra prometida, Moisés las repitió a una nueva generación. Están en Deuteronomio 5. Son casi iguales, con pequeños cambios que veremos en cada lección."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús y los mandamientos",
+      "tono": "navy",
+      "texto": "Jesús no vino a borrar estas palabras. Dijo: «no he venido para abrogar, sino a cumplir» (Mateo 5:17). Él las vivió completas, con un amor perfecto. Las resumió en dos: amar a Dios y amar al prójimo (Mateo 22:37-39). Y en la cruz dio su vida por todos los que fallamos. Por eso no leas cada mandamiento pensando: “Tengo que ganarme a Dios”. Piensa: “Dios ya me amó en Jesús; quiero vivir como él”."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cómo aprovechar esta guía",
+      "items": [
+        "Lee una lección por semana. Cada una trae el texto bíblico, una explicación sencilla y ejemplos para tu día.",
+        "Haz el reto de la semana: siete pasos pequeños, uno por día.",
+        "Lee con tus hijos o nietos la parte “Para los niños”.",
+        "Responde el quiz del final. No es un examen: te ayuda a recordar.",
+        "Si fallas, no te rindas. Cada lección termina con una oración para volver a empezar."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "En esta guía seguimos el orden del texto bíblico, con títulos por tema. Cada lección muestra el número que usan los evangélicos y el que usan los católicos. En la próxima lección verás por qué hay dos maneras de contarlos."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Lee despacio Éxodo 19. Imagina el monte, el humo y la voz de Dios.",
+        "Escribe una cosa de la que Dios te sacó o te liberó.",
+        "Lee Éxodo 20:2 en voz alta tres veces. La última vez, di tu nombre al final.",
+        "Cuéntale a alguien de tu familia algo bueno que Dios hizo por ti.",
+        "Lee los Diez Mandamientos en Éxodo 20:3-17, sin prisa.",
+        "Marca cuál te parece más fácil y cuál más difícil de vivir.",
+        "Ora dando gracias antes de pedir nada. Empieza por lo que Dios ya hizo."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para seguir leyendo",
+      "items": [
+        { "ref": "Éxodo 19:1-8", "nota": "Dios llama a Israel su «especial tesoro»." },
+        { "ref": "Éxodo 20:18-21", "nota": "El pueblo tiembla, y Moisés le dice: «No temáis»." },
+        { "ref": "Deuteronomio 5:1-6", "nota": "Moisés repite las palabras a una nueva generación." },
+        { "ref": "Juan 1:17", "nota": "La ley vino por Moisés; la gracia y la verdad, por Jesucristo." },
+        { "ref": "Salmos 119:32", "nota": "Los mandamientos como un camino por el que se corre con alegría." },
+        { "ref": "Gálatas 5:13", "nota": "Libres para servirnos unos a otros por amor." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "¿Sabes qué hizo Dios antes de dar sus reglas? ¡Rescató a su pueblo! Sus reglas son como las de una mamá que te cuida: te protegen porque te ama.",
+      "actividad": "Dibuja un águila grande con pollitos sobre sus alas. Escribe debajo: “Dios me lleva cerca de él” (Éxodo 19:4)."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, tú me buscaste antes de que yo te buscara. Me sacaste de lo que me tenía atado. Enséñame a leer tus palabras como un regalo, no como una carga. Quiero vivir libre contigo. En el nombre de Jesús. Amén."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Antes de pensar en lo que debes hacer para Dios, recuerda lo que Dios ya hizo por ti. Pregúntate: ¿de qué me sacó el Señor? Esa respuesta es tu propio Éxodo 20:2. Escríbela y guárdala en tu Biblia."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué dice Dios antes del primer mandamiento?",
+      "opciones": ["Que obedezcan o serán castigados", "Que él es su Dios y los liberó", "Que construyan un templo en el monte"],
+      "correcta": 1,
+      "explicacion": "En Éxodo 20:2 Dios se presenta como el que los sacó de Egipto. La gracia va primero."
+    },
+    {
+      "pregunta": "¿Cómo llama Éxodo 34:28 a los mandamientos?",
+      "opciones": ["Las diez palabras", "Las leyes de Moisés", "Los diez consejos"],
+      "correcta": 0,
+      "explicacion": "Éxodo 34:28 dice «las diez palabras». De ahí viene el nombre “Decálogo”."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús sobre la ley en Mateo 5:17?",
+      "opciones": ["Que venía a borrarla", "Que era solo para los antiguos", "Que venía a cumplirla"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo que no venía a abrogar la ley, sino a cumplirla."
+    }
+  ],
+  "estudio": ["exodo", "deuteronomio"],
+  "buscar": "Éxodo 20:2"
+}

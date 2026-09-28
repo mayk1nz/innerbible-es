@@ -1,0 +1,126 @@
+{
+  "id": "isaac",
+  "titulo": "Isaac",
+  "subtitulo": "El hijo de la promesa",
+  "etiquetas": ["Antiguo Testamento", "Patriarcas", "Canaán"],
+  "enUnMinuto": [
+    "Isaac es el hijo que Dios prometió a Abraham y Sara cuando ya eran ancianos.",
+    "En el monte Moriah, Dios lo libra y da un carnero en su lugar.",
+    "Es un hombre de oración y de paz, aunque también falla: prefiere a un hijo y su familia se divide."
+  ],
+  "versiculo": {
+    "texto": "Y apareciósele Jehová aquella noche, y dijo: Yo soy el Dios de Abraham tu padre; no temas, que yo soy contigo, y yo te bendeciré, y multiplicaré tu simiente por amor de Abraham mi siervo.",
+    "referencia": "Génesis 26:24"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Isaac quiere decir «ríe» en hebreo. Cuando nació, su madre Sara dijo que Dios la había hecho reír (Génesis 21:6).",
+        "Vivió en la época de los patriarcas, hacia el 2000 a.C. Las fechas de esta época se debaten. Su tierra fue el sur de Canaán: Beerseba, Gerar y Hebrón.",
+        "Era hijo de Abraham y Sara. Se casó con Rebeca y fue padre de dos mellizos, Esaú y Jacob."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un hijo imposible. Abraham tiene cien años y Sara es anciana. Dios cumple su palabra y nace Isaac (Génesis 21:1-7).",
+        "El heredero de la promesa. Dios le dice a Abraham que su descendencia vendrá por medio de Isaac (Génesis 21:12).",
+        "En el monte Moriah. Isaac carga la leña y pregunta por el cordero. Dios detiene a Abraham y da un carnero en lugar de Isaac (Génesis 22:1-14).",
+        "Rebeca. Isaac sale a orar al campo por la tarde y ve llegar los camellos. Se casa con Rebeca, la ama y encuentra consuelo tras la muerte de su madre (Génesis 24:62-67).",
+        "Veinte años de oración. Rebeca no puede tener hijos. Isaac ora por ella, y Dios le da mellizos: Esaú y Jacob (Génesis 25:20-26).",
+        "Un error repetido. En Gerar, Isaac tiene miedo y dice que Rebeca es su hermana, como había hecho su padre. El rey descubre la verdad (Génesis 26:6-11).",
+        "Pozos de paz. Los pastores de Gerar le disputan dos pozos. Isaac no pelea: se va más lejos y cava otro. Dios le da un lugar amplio (Génesis 26:17-22).",
+        "«No temas». En Beerseba, Dios se le aparece y le promete estar con él. Isaac levanta un altar y ora (Génesis 26:23-25).",
+        "Una familia dividida. Isaac prefiere a Esaú y Rebeca prefiere a Jacob. Ya ciego, Isaac es engañado y bendice a Jacob en lugar de Esaú (Génesis 27).",
+        "Lleno de días. Muere a los ciento ochenta años. Sus dos hijos, ya reconciliados, lo sepultan juntos (Génesis 35:27-29)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Isaac sube al monte cargando la leña, y Dios da un carnero en su lugar. Hebreos dice que Abraham recibió a su hijo de vuelta como una figura de la resurrección (Hebreos 11:19). Siglos después, Jesús carga su cruz. Esta vez nadie detiene el sacrificio: Jesús mismo es el Cordero que Dios da por nosotros (Juan 1:29)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Lo que Dios promete, lo cumple. Isaac nació cuando ya parecía imposible. Esta semana: copia una promesa de Dios y léela cada mañana.",
+        "Buscar la paz también es valentía. Isaac prefirió cavar otro pozo antes que pelear. Esta semana: en una discusión, cede en algo pequeño por amor.",
+        "Los favoritos hieren. Preferir a un hijo dividió la casa de Isaac. Esta semana: dedica un rato a solas a cada persona de tu familia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Isaac oraba en el campo, al caer la tarde. ¿Tienes un momento del día para estar a solas con Dios? Aunque tu familia tenga heridas, Dios sigue siendo «el Dios de Abraham» y también tu Dios."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Isaac fue sepultado en la cueva de Macpela, junto a Abraham, Sara y Rebeca (Génesis 49:30-31).",
+        "La Biblia no dice qué edad tenía Isaac en el monte Moriah. Solo dice que podía cargar la leña (Génesis 22:6)."
+      ],
+      "tradicion": [
+        "El historiador judío Flavio Josefo, del siglo I, escribió que Isaac tenía veinticinco años en el monte Moriah.",
+        "En Hebrón, un antiguo edificio guarda el lugar que la tradición señala como la tumba de los patriarcas. Lo visitan judíos, cristianos y musulmanes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Génesis 21:1-12", "nota": "Nace el hijo prometido" },
+        { "ref": "Génesis 22:1-19", "nota": "En el monte Moriah" },
+        { "ref": "Génesis 24:62-67", "nota": "Se casa con Rebeca" },
+        { "ref": "Génesis 26", "nota": "Los pozos y la promesa de Dios" },
+        { "ref": "Génesis 27", "nota": "La bendición de Jacob y Esaú" },
+        { "ref": "Hebreos 11:17-20", "nota": "Isaac en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Camino al monte, Isaac le preguntó a su papá dónde estaba el cordero. ¿Qué le respondió Abraham? ¿Qué cosas buenas nos da Dios cada día?",
+      "actividad": "Para el adulto: Abraham dijo que Dios lo iba a proveer, y así pasó (Génesis 22:8, 13). Nombren juntos tres regalos de Dios de hoy y denle gracias."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, como a Isaac, dame un corazón que busca la paz. Cuando me falte fe, recuérdame que tú provees. Gracias por Jesús, el Cordero que diste por mí. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Isaac repitió en Gerar el mismo error de su padre?",
+        "¿Qué «pozo», es decir qué pelea, te convendría soltar para vivir en paz?",
+        "¿Cómo puede sanar una familia donde hubo hijos preferidos?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué quiere decir el nombre Isaac?",
+      "opciones": ["Fuerte", "Ríe", "Hijo mío"],
+      "correcta": 1,
+      "explicacion": "Isaac quiere decir «ríe». Sara dijo que Dios la había hecho reír (Génesis 21:6)."
+    },
+    {
+      "pregunta": "¿Qué hacía Isaac cuando los pastores de Gerar le disputaban un pozo?",
+      "opciones": ["Se iba más lejos y cavaba otro", "Llamaba a sus hombres a pelear", "Pedía ayuda al faraón"],
+      "correcta": 0,
+      "explicacion": "Isaac no peleó: se apartó y cavó otro pozo, y Dios le dio un lugar amplio (Génesis 26:17-22)."
+    },
+    {
+      "pregunta": "En Moriah, Dios dio un carnero en lugar de Isaac. ¿A quién anuncia esa imagen?",
+      "opciones": ["A Moisés", "A Esaú", "A Jesús, el Cordero de Dios"],
+      "correcta": 2,
+      "explicacion": "Juan el Bautista presentó a Jesús como «el Cordero de Dios» (Juan 1:29)."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "Isaac"
+}

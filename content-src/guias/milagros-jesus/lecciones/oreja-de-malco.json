@@ -1,0 +1,109 @@
+{
+  "id": "oreja-de-malco",
+  "titulo": "La oreja de Malco",
+  "subtitulo": "Milagro 39 de 43 · Jesús sana a quien venía a arrestarlo",
+  "etiquetas": ["Getsemaní", "Última semana · c. 30 d.C.", "Curación"],
+  "enUnMinuto": [
+    "Cuando arrestan a Jesús, Pedro saca una espada y corta la oreja de Malco, un siervo del sumo sacerdote.",
+    "Jesús detiene la violencia y le pide a Pedro que guarde la espada.",
+    "Luego toca la oreja del siervo y lo sana."
+  ],
+  "versiculo": {
+    "texto": "Entonces respondiendo Jesús, dijo: Dejad hasta aquí. Y tocando su oreja, le sanó.",
+    "referencia": "Lucas 22:51"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 26:51-54", "nota": "Mateo: la espada vuelve a su lugar; el Padre podía enviar doce legiones de ángeles." },
+        { "ref": "Marcos 14:47", "nota": "Marcos cuenta el golpe en una sola frase." },
+        { "ref": "Lucas 22:49-51", "nota": "Solo Lucas cuenta que Jesús tocó la oreja y la sanó." },
+        { "ref": "Juan 18:10-11", "nota": "Juan da los nombres: Simón Pedro y Malco." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "En el huerto, la tropa se acercó para arrestar a Jesús. Judas lo saludó con un beso. Los discípulos vieron lo que iba a pasar y preguntaron: «Señor, ¿heriremos a cuchillo?». Sin esperar respuesta, uno de ellos sacó una espada.",
+        "Hirió a un siervo del sumo sacerdote y le cortó la oreja derecha. Juan nos dice quiénes eran. El que atacó fue Simón Pedro, y el siervo se llamaba Malco.",
+        "Jesús detuvo todo: «Dejad hasta aquí». Le dijo a Pedro que guardara la espada, porque quien toma la espada, a espada muere. Si quisiera, el Padre le enviaría más de doce legiones de ángeles. Pero Jesús había decidido beber la copa que el Padre le daba.",
+        "Entonces tocó la oreja del siervo y lo sanó. Fue su último milagro de sanidad antes de la cruz. Lo hizo por un hombre que había venido con los que lo arrestaban."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Siervo del sumo sacerdote: un criado del jefe de los sacerdotes, que iba con la tropa.",
+        "Legión: una unidad grande del ejército romano, de miles de soldados.",
+        "Beber la copa: aceptar el sufrimiento que venía, en obediencia al Padre."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús ama a sus enemigos, y no solo con palabras. En el momento de su arresto, cura la herida de un siervo que estaba en el bando contrario. Que no quiere un reino defendido con espadas. Y que va a la cruz por decisión propia: podía pedir ángeles, y eligió la copa del Padre."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Pedro quiso defender a Jesús a su manera, con violencia. Jesús lo detuvo y reparó el daño. Tal vez tú también has herido a alguien queriendo hacer el bien. Jesús puede sanar lo que rompimos. Y te enseña otro camino: bendecir a quien está en contra. Para hoy: ora por una persona que te ha hecho daño y pide a Dios que la bendiga."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú sanaste la herida de quien venía a arrestarte. Enséñame a amar a quien me hace daño. Guarda mis palabras y mis manos de herir. Y sana lo que yo haya roto con mi impaciencia. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuando vinieron a arrestar a Jesús, Pedro sacó una espada y le cortó la oreja a Malco. Jesús le pidió que parara, ¡y sanó la oreja de Malco! ¿Cómo puedes ser amable con quien no es amable contigo?",
+      "actividad": "Pon una curita a un muñeco y cuenta cómo Jesús sanó a Malco. Piensa en alguien a quien puedes cuidar hoy."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Esa misma noche, un pariente de Malco reconoció a Pedro en el patio del sumo sacerdote. Le preguntó: «¿No te vi yo en el huerto con él?» (Juan 18:26). Fue una de las veces en que Pedro negó conocer a Jesús."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Mateo 5:44", "nota": "Jesús había enseñado: «Amad a vuestros enemigos»." },
+        { "ref": "Isaías 53:7", "nota": "El siervo de Dios, como cordero, no se defiende." },
+        { "ref": "Isaías 2:4", "nota": "Dios anuncia un día en que las espadas se volverán arados." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Solo Lucas cuenta la curación. La tradición atribuye este evangelio a Lucas, a quien Pablo llama «el médico amado» (Colosenses 4:14). Mateo y Marcos cuentan el golpe sin nombres; Juan nombra a Pedro y a Malco."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaba el siervo herido?",
+      "opciones": ["Barrabás", "Malco", "Nicodemo"],
+      "correcta": 1,
+      "explicacion": "Juan 18:10 dice que el siervo se llamaba Malco."
+    },
+    {
+      "pregunta": "¿Qué evangelio cuenta que Jesús sanó la oreja?",
+      "opciones": ["Mateo", "Marcos", "Lucas"],
+      "correcta": 2,
+      "explicacion": "Solo Lucas lo cuenta: «tocando su oreja, le sanó» (Lucas 22:51)."
+    },
+    {
+      "pregunta": "¿Qué había enseñado Jesús sobre los enemigos en el Sermón del monte?",
+      "opciones": ["Que los amemos", "Que los evitemos siempre", "Que devolvamos el golpe"],
+      "correcta": 0,
+      "explicacion": "Jesús dijo: «Amad a vuestros enemigos» (Mateo 5:44), y lo cumplió con Malco."
+    }
+  ],
+  "estudio": ["pasion-y-muerte"],
+  "buscar": "Lucas 22:49-51"
+}

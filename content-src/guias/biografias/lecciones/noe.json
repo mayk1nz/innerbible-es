@@ -1,0 +1,124 @@
+{
+  "id": "noe",
+  "titulo": "Noé",
+  "subtitulo": "El que construyó el arca",
+  "etiquetas": ["Los orígenes", "Antiguo Testamento", "Del arca a los montes"],
+  "enUnMinuto": [
+    "En un mundo lleno de violencia, Noé caminaba con Dios.",
+    "Dios le pidió construir un arca para salvar a su familia y a los animales del gran diluvio.",
+    "Después, Dios hizo un pacto con Noé y con toda la tierra, y puso el arco iris como señal."
+  ],
+  "versiculo": {
+    "texto": "Empero Noé halló gracia en los ojos de Jehová.",
+    "referencia": "Génesis 6:8"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Noé era hijo de Lamec. Su nombre suena en hebreo como “descanso”. Su padre esperaba que ese niño trajera alivio en medio del trabajo duro (Génesis 5:28-29).",
+        "Estaba casado y tuvo tres hijos: Sem, Cam y Jafet (Génesis 6:10). La Biblia lo llama «varón justo» y dice que «con Dios caminó Noé» (Génesis 6:9). No da fechas para esta época."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un mundo herido. La tierra estaba llena de violencia, y a Dios le dolió en el corazón. Pero Noé halló gracia ante Dios (Génesis 6:5-8).",
+        "Un encargo enorme. Dios le pidió construir un arca de madera, de unos ciento treinta y cinco metros de largo. Noé hizo todo lo que Dios le mandó (Génesis 6:13-22).",
+        "Todos adentro. Noé entró al arca con su esposa, sus hijos y sus nueras. Con ellos entraron los animales, como Dios había dicho (Génesis 7:1-9).",
+        "Llueve cuarenta días. Las aguas subieron y cubrieron la tierra. El arca flotaba y protegía a los que estaban dentro (Génesis 7:10-24).",
+        "Dios se acuerda. Dios se acordó de Noé y de los animales. Hizo soplar un viento, y las aguas bajaron. El arca se detuvo en los montes de Armenia (Génesis 8:1-5).",
+        "La paloma y el olivo. Noé soltó un cuervo y luego una paloma. La paloma volvió con una hoja de olivo: la tierra ya se secaba (Génesis 8:6-12).",
+        "Lo primero, un altar. Al salir del arca, Noé construyó un altar y adoró a Dios (Génesis 8:15-20).",
+        "El arco en las nubes. Dios bendijo a Noé e hizo un pacto con toda la tierra. Prometió no destruirla más con un diluvio, y puso su arco en las nubes (Génesis 9:1-17).",
+        "También tenía fallas. Noé plantó una viña, bebió vino de más y se embriagó en su tienda (Génesis 9:20-21). La Biblia no esconde las debilidades de sus héroes."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jesús habló de los días de Noé para invitarnos a estar atentos (Mateo 24:37-39). Pedro ve en el arca y sus aguas una imagen del bautismo (1 Pedro 3:20-21). Como el arca, Jesús es refugio seguro: quien entra en él está a salvo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "La gracia va primero. Antes de construir nada, Noé «halló gracia». Esta semana, empieza cada día dando gracias por el amor de Dios, antes de pedir.",
+        "Obedecer aunque otros no entiendan. Noé construyó un barco lejos del mar. Esta semana, haz lo correcto aunque nadie a tu alrededor lo haga.",
+        "Adorar después de la tormenta. Lo primero que hizo Noé fue un altar. Esta semana, agradece a Dios en voz alta por una prueba que ya pasó."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "La próxima vez que veas un arco iris, recuerda que Dios cumple sus promesas. ¿Qué promesa de Dios necesitas recordar hoy? Escríbela y ponla donde la veas cada día."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Ocho personas se salvaron en el arca: Noé, su esposa, sus tres hijos y sus nueras (1 Pedro 3:20).",
+        "Pedro lo llama «pregonero de justicia»: anunciaba lo que es justo (2 Pedro 2:5).",
+        "Ezequiel lo nombra con Daniel y Job como hombres justos (Ezequiel 14:14).",
+        "La Biblia no dice el nombre de la esposa de Noé."
+      ],
+      "tradicion": [
+        "Muchos identifican los “montes de Armenia” con el monte Ararat, en la actual Turquía. Ha habido expediciones, pero nada se ha comprobado.",
+        "Historia: en la antigua Mesopotamia existían otros relatos de un gran diluvio, como el poema de Gilgamesh.",
+        "Muchos padres de la Iglesia vieron en el arca una imagen de la Iglesia, que acoge a todos los que buscan salvación."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los cristianos leen el relato del diluvio de distintas maneras: sobre toda la tierra o sobre una gran región. Todos ven en él a un Dios que juzga el mal y salva a los que confían en él."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Génesis 5:28-32", "nota": "Su nacimiento" },
+        { "ref": "Génesis 6:5-22", "nota": "Dios le pide construir el arca" },
+        { "ref": "Génesis 7", "nota": "El diluvio" },
+        { "ref": "Génesis 8", "nota": "Las aguas bajan" },
+        { "ref": "Génesis 9:1-17", "nota": "El pacto y el arco iris" },
+        { "ref": "Hebreos 11:7", "nota": "Por la fe, Noé" },
+        { "ref": "Mateo 24:37-39", "nota": "Como en los días de Noé" },
+        { "ref": "1 Pedro 3:20-21", "nota": "El arca y el bautismo" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Noé construyó un barco enorme y Dios cuidó a su familia y a los animales. ¿Qué animal te gustaría haber visto en el arca?",
+      "actividad": "Para papás y abuelos: el arco iris es la señal de que Dios cumple sus promesas (Génesis 9:13). Dibujen juntos un arco iris y escriban: “Dios cumple”."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, como Noé, quiero caminar contigo. Gracias por tu gracia, que llega antes que mi obediencia. Cuando lleguen las tormentas, sé mi refugio. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué trajo la paloma a Noé en su segundo vuelo?",
+      "opciones": ["Una rama de palmera", "Una hoja de olivo", "Una piedra"],
+      "correcta": 1,
+      "explicacion": "La paloma volvió con una hoja de olivo en el pico (Génesis 8:11)."
+    },
+    {
+      "pregunta": "¿Cuántas personas se salvaron en el arca?",
+      "opciones": ["Ocho", "Doce", "Tres"],
+      "correcta": 0,
+      "explicacion": "Pedro dice que fueron ocho personas (1 Pedro 3:20)."
+    },
+    {
+      "pregunta": "¿Con qué comparó Jesús los días de Noé?",
+      "opciones": ["Con la fiesta de la Pascua", "Con el bautismo de Juan", "Con su venida"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo: «como los días de Noé, así será la venida del Hijo del hombre» (Mateo 24:37)."
+    }
+  ],
+  "estudio": ["genesis-1-11"],
+  "buscar": "Noé"
+}

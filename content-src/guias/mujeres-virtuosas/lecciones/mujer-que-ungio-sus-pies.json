@@ -1,0 +1,120 @@
+{
+  "id": "mujer-que-ungio-sus-pies",
+  "titulo": "La mujer perdonada",
+  "subtitulo": "La que ungió los pies de Jesús",
+  "etiquetas": ["c. 28–29 d.C.", "Galilea", "perdón", "vergüenza"],
+  "enUnMinuto": [
+    "Durante una cena en casa de Simón, un fariseo, entra una mujer conocida en la ciudad como pecadora.",
+    "Llorando, moja los pies de Jesús con sus lágrimas y los unge con perfume.",
+    "Jesús la defiende, le dice que sus pecados son perdonados y la despide en paz."
+  ],
+  "versiculo": {
+    "texto": "Por lo cual te digo que sus muchos pecados son perdonados, porque amó mucho; mas al que se perdona poco, poco ama.",
+    "referencia": "Lucas 7:47"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "La Biblia no dice su nombre. Lucas la presenta solo como «una mujer que había sido pecadora en la ciudad» (Lucas 7:37). Tampoco dice cuál era su pecado."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Un fariseo llamado Simón invitó a Jesús a comer en su casa. En aquel tiempo, en los banquetes se comía recostado, con los pies hacia atrás. De pronto entró una mujer a quien todos en la ciudad conocían como pecadora. Había oído que Jesús estaba allí. Traía un frasco de alabastro con perfume.",
+        "Se quedó detrás, a los pies de Jesús, y empezó a llorar. Con sus lágrimas le mojaba los pies. Los secaba con sus cabellos, los besaba y los ungía con el perfume. Simón pensó: si Jesús fuera profeta, sabría qué clase de mujer lo está tocando.",
+        "Jesús le contó a Simón una historia. Dos hombres debían dinero a un prestamista: uno quinientos denarios y otro cincuenta. Ninguno podía pagar, y él les perdonó la deuda a los dos. Entonces Jesús preguntó: «¿cuál de éstos le amará más?». Simón respondió que aquel a quien más perdonó.",
+        "Jesús se volvió hacia la mujer y le habló a Simón. Tú no me diste agua para los pies, le dijo; ella los regó con lágrimas. Tú no me diste un beso; ella no ha dejado de besar mis pies. Tú no ungiste mi cabeza con aceite; ella ungió mis pies con perfume.",
+        "Y añadió: «sus muchos pecados son perdonados, porque amó mucho». A ella le dijo: «Los pecados te son perdonados». Los demás invitados se preguntaban quién era este que hasta perdonaba pecados. Jesús le dijo a la mujer: «Tu fe te ha salvado, ve en paz»."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: un amor agradecido",
+      "parrafos": [
+        "Esta mujer entró en una casa donde nadie la esperaba. Sabía lo que pensarían de ella, y aun así fue. No dijo ni una palabra: habló con lágrimas, besos y perfume. La historia de los dos deudores explica su gesto: quien sabe cuánto se le perdona, ama mucho. Su amor no compró el perdón; fue su respuesta al perdón."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Jesús no la juzgó por su pasado. La defendió delante de todos y la puso como ejemplo de amor. Le dio lo que más necesitaba: perdón y paz. Así mostró quién es él: el que perdona pecados. A Simón tampoco lo rechazó: le habló con una historia para abrirle el corazón. Nadie está tan lejos que su amor no lo alcance."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si cargas un pasado que te avergüenza, Jesús no te pide que te arregles primero: puedes venir tal como estás. Si a veces miras a otros desde arriba, como Simón, Jesús también te habla con paciencia. Para los hombres: el amor también se muestra con lágrimas y gestos humildes. Y para los jóvenes: tu valor no depende de lo que otros digan de ti."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Lucas 7:36-50", "nota": "La cena en casa de Simón." },
+        { "ref": "Lucas 7:41-43", "nota": "La historia de los dos deudores." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, tú conoces mis pecados y aun así me recibes. Gracias por tu perdón. Quita de mí la vergüenza, y también el orgullo que juzga a otros. Que mi vida sea un gesto de amor agradecido. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿cómo te sientes cuando entras a un lugar donde no conoces a nadie?",
+        "¿Con quién te identificas más en esta escena: con la mujer, con Simón o con los invitados? ¿Por qué?",
+        "Jesús dijo que ama mucho aquel a quien se le perdona mucho. ¿Cómo se unen el perdón y el amor en tu vida?",
+        "¿Qué haría falta para que alguien como esta mujer se sintiera recibida en nuestra iglesia?",
+        "Dinámica: cada persona escribe en silencio algo por lo que agradece el perdón de Dios. Luego rompen juntos los papeles.",
+        "Para cerrar: lean Lucas 7:47-50 y den gracias a Dios por su perdón."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una mujer que había hecho cosas malas se acercó a Jesús llorando. Le lavó los pies con sus lágrimas y les puso perfume. Jesús la perdonó y le dijo: “Ve en paz”. ¿Cómo le das gracias tú a Jesús?",
+      "actividad": "Hagan una tarjeta que diga “¡Gracias, Jesús!” y decórenla. Para memorizar: «Tu fe te ha salvado, ve en paz» (Lucas 7:50)."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Lucas no dice su nombre ni cuál era su pecado.",
+        "Juan cuenta otra unción en Betania, poco antes de la Pascua, hecha por María, la hermana de Lázaro (Juan 12:1-8). Muchos lectores la ven como una escena distinta."
+      ],
+      "tradicion": [
+        "Desde hace siglos, en parte de la tradición occidental, se unió a esta mujer con María Magdalena.",
+        "Hoy muchos lectores, católicos y evangélicos, distinguen a estas mujeres, porque el texto no las une."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Nota para quien guía: con niños, basta decir que la mujer había hecho cosas malas y que Jesús la perdonó. No hace falta suponer cuál era su pecado."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿En casa de quién ocurrió esta historia?",
+      "opciones": ["De Simón, un fariseo", "De Zaqueo, el publicano", "De Marta y María"],
+      "correcta": 0,
+      "explicacion": "Un fariseo llamado Simón había invitado a Jesús a comer (Lucas 7:36, 40)."
+    },
+    {
+      "pregunta": "¿Con qué mojó la mujer los pies de Jesús?",
+      "opciones": ["Con agua del pozo", "Con aceite de oliva", "Con sus lágrimas"],
+      "correcta": 2,
+      "explicacion": "Llorando, regó sus pies con lágrimas y los secó con sus cabellos (Lucas 7:38)."
+    },
+    {
+      "pregunta": "En la historia de los dos deudores, ¿quién amará más al que perdonó?",
+      "opciones": ["El que debía menos", "El que debía más", "Ninguno de los dos"],
+      "correcta": 1,
+      "explicacion": "Simón respondió: aquel a quien más perdonó. Jesús le dijo: «Rectamente has juzgado» (Lucas 7:43)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Lucas 7:36-50"
+}

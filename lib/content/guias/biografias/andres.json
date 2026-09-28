@@ -1,0 +1,133 @@
+{
+  "id": "andres",
+  "titulo": "Andrés",
+  "subtitulo": "El hermano que llevó a Pedro a Jesús",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Betsaida y Capernaum"],
+  "enUnMinuto": [
+    "Andrés era pescador y discípulo de Juan el Bautista, hasta que Juan le mostró a Jesús.",
+    "Pasó una tarde con Jesús y enseguida fue a buscar a su hermano Simón: «Hemos hallado al Mesías».",
+    "Casi siempre lo vemos en segundo plano, llevando a otros hacia Jesús."
+  ],
+  "versiculo": {
+    "texto": "Este halló primero a su hermano Simón, y díjole: Hemos hallado al Mesías (que declarado es, el Cristo).",
+    "referencia": "Juan 1:41"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Andrés es un nombre griego que quiere decir «varonil» o «valiente». Era hermano de Simón Pedro y vivía de la pesca en el mar de Galilea (Mateo 4:18).",
+        "Su pueblo era Betsaida, igual que el de Pedro y Felipe (Juan 1:44). Más tarde compartía casa con Pedro en Capernaum (Marcos 1:29).",
+        "Antes de conocer a Jesús, era discípulo de Juan el Bautista (Juan 1:35-40). Es decir, ya buscaba a Dios con el corazón abierto."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Juan el Bautista ve pasar a Jesús y dice: «He aquí el Cordero de Dios». Andrés y otro discípulo empiezan a seguirlo (Juan 1:35-37).",
+        "Jesús se vuelve y les pregunta: «¿Qué buscáis?». Ellos quieren saber dónde vive. Él responde: «Venid y ved» (Juan 1:38-39).",
+        "Van, ven dónde vive y se quedan con él aquel día. El Evangelio recuerda hasta la hora (Juan 1:39).",
+        "Andrés busca primero a su hermano Simón y le dice que han hallado al Mesías. Luego lo lleva a Jesús (Juan 1:40-42).",
+        "Más tarde, junto al mar, Jesús llama a los dos hermanos: «Venid en pos de mí». Ellos dejan las redes y lo siguen (Mateo 4:18-20).",
+        "Es elegido como uno de los Doce. En las listas aparece entre los cuatro primeros (Mateo 10:2; Marcos 3:18).",
+        "Ante una multitud con hambre, Andrés encuentra a un muchacho con cinco panes y dos peces. Duda, pero se lo presenta a Jesús (Juan 6:8-9).",
+        "Jesús da de comer a unos cinco mil hombres con esos panes, y sobran doce cestas (Juan 6:10-13).",
+        "Unos griegos quieren ver a Jesús. Felipe se lo dice a Andrés, y los dos se lo cuentan a Jesús (Juan 12:20-22).",
+        "En el monte de los Olivos está con Pedro, Santiago y Juan. Juntos preguntan a Jesús por el futuro del templo (Marcos 13:3-4).",
+        "Después de la resurrección, ora con los demás en Jerusalén, esperando al Espíritu Santo (Hechos 1:13-14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "La primera palabra de Jesús a Andrés fue una pregunta: «¿Qué buscáis?». Y la segunda, una invitación: «Venid y ved». Jesús no le dio un discurso. Le abrió su casa y su tiempo. Andrés no volvió a ser el mismo, y quiso que su hermano viviera lo mismo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Lo que encuentras en Jesús se comparte. Andrés empezó por su propia casa. Esta semana: cuéntale a alguien de tu familia algo que Jesús hizo en tu vida.",
+        "Lo poco en manos de Jesús alcanza. Cinco panes parecían nada. Esta semana: ofrece a Dios algo pequeño que tienes, como tu tiempo, un talento o una comida.",
+        "No hace falta estar en primer plano. Andrés casi siempre acercaba a otros. Esta semana: ayuda a alguien sin buscar que te lo reconozcan."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Pedro llegó a predicar ante miles de personas. Pero primero hubo un hermano que le dijo: «Hemos hallado al Mesías». Piensa en quién te acercó a ti a Jesús. ¿A quién podrías acercar tú, con una palabra sencilla?"
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Fue discípulo de Juan el Bautista antes de seguir a Jesús (Juan 1:35-40).",
+        "Es el primer discípulo con nombre que sigue a Jesús en el Evangelio de Juan (Juan 1:40).",
+        "Tres veces lo vemos acercando a alguien a Jesús. Son su hermano, el muchacho de los panes y los griegos (Juan 1:42; 6:8-9; 12:22).",
+        "La Biblia no cuenta nada de su vida después de Hechos 1:13, ni cómo murió."
+      ],
+      "tradicion": [
+        "Las iglesias ortodoxas lo llaman «el primer llamado», porque fue el primero en seguir a Jesús.",
+        "Según Orígenes, citado por Eusebio, predicó en Escitia, al norte del mar Negro.",
+        "Relatos antiguos cuentan que dio su vida por Cristo en Patras, Grecia. Según una tradición posterior, murió en una cruz en forma de X.",
+        "Por eso la cruz en forma de X se llama «cruz de San Andrés». Escocia, Grecia y Rusia lo honran como patrono."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Juan 1:35-42", "nota": "Sigue a Jesús y lleva a su hermano" },
+        { "ref": "Mateo 4:18-20", "nota": "Deja las redes" },
+        { "ref": "Marcos 1:29", "nota": "Su casa en Capernaum" },
+        { "ref": "Mateo 10:2", "nota": "En la lista de los Doce" },
+        { "ref": "Juan 6:8-9", "nota": "El muchacho de los panes" },
+        { "ref": "Juan 12:20-22", "nota": "Los griegos que buscan a Jesús" },
+        { "ref": "Marcos 13:3-4", "nota": "En el monte de los Olivos" },
+        { "ref": "Hechos 1:13", "nota": "Orando con los once" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Andrés conoció a Jesús y corrió a contárselo a su hermano. ¿A quién le contarías tú algo bonito de Jesús?",
+      "actividad": "Para el adulto: hagan juntos una tarjeta o un dibujo de Jesús para regalar a un hermano, un primo o un amigo."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú me invitas: «Venid y ved». Quiero quedarme contigo. Dame alegría para llevar a otros hacia ti, empezando por mi casa. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Quién fue tu «Andrés», la persona que te acercó a Jesús?",
+        "Andrés dijo: «¿mas qué es esto entre tantos?». ¿Qué te parece poco para ofrecer a Dios?",
+        "¿Por qué creen que Jesús respondió con una invitación y no con una explicación?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿De quién era discípulo Andrés antes de seguir a Jesús?",
+      "opciones": ["De un fariseo de Jerusalén", "De Juan el Bautista", "De su hermano Pedro"],
+      "correcta": 1,
+      "explicacion": "Andrés oyó a Juan el Bautista decir «He aquí el Cordero de Dios» y siguió a Jesús (Juan 1:35-40)."
+    },
+    {
+      "pregunta": "¿Qué encontró Andrés cuando la multitud tenía hambre?",
+      "opciones": ["Un muchacho con cinco panes y dos peces", "Una barca llena de peces", "Una bolsa con doscientos denarios"],
+      "correcta": 0,
+      "explicacion": "Andrés presentó a un muchacho con cinco panes de cebada y dos pececillos (Juan 6:8-9)."
+    },
+    {
+      "pregunta": "¿A quién llevó Andrés a Jesús, y quién llegó a predicar en Pentecostés?",
+      "opciones": ["A Felipe, que luego predicó en Samaria", "A Natanael, que luego escribió un Evangelio", "A su hermano Simón, que luego fue Pedro"],
+      "correcta": 2,
+      "explicacion": "Andrés llevó a Simón a Jesús (Juan 1:42). Ese mismo Simón Pedro predicó en Pentecostés (Hechos 2:14)."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "galilea-milagros"],
+  "buscar": "Andrés"
+}

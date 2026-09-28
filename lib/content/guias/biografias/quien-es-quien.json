@@ -1,0 +1,150 @@
+{
+  "id": "quien-es-quien",
+  "titulo": "Quién es quién",
+  "subtitulo": "Simones, Santiagos, Judas, Josés y otros nombres repetidos",
+  "etiquetas": ["Herramientas", "Nuevo Testamento"],
+  "enUnMinuto": [
+    "En tiempos de Jesús, muchas personas llevaban los mismos nombres: Simón, Santiago, Judas, María, José o Juan.",
+    "Por eso la Biblia los distingue con un apodo, un pueblo, un oficio o el nombre de su familia.",
+    "Esta guía te ayuda a no confundirlos."
+  ],
+  "versiculo": {
+    "texto": "A éste abre el portero, y las ovejas oyen su voz: y a sus ovejas llama por nombre, y las saca.",
+    "referencia": "Juan 10:3"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "¿Por qué se repiten tanto los nombres?",
+      "parrafos": [
+        "Las familias judías solían poner nombres de los patriarcas y de los héroes de su historia. Por eso había muchos Simones, Judas, Josés y Marías.",
+        "Para distinguirlos, se añadía algo más. A veces el padre: «hijo de Zebedeo». Otras veces el pueblo: «de Magdala», «de Arimatea». También el oficio o un apodo: «el publicano», «el Zelote».",
+        "Recuerda también que la RV1909 y la RVR1960 dicen «Jacobo» donde nosotros decimos Santiago. Es el mismo nombre."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los Simones",
+      "items": [
+        "Simón Pedro, el pescador, primero de los Doce. Jesús lo llamó Cefas, «piedra» (Juan 1:42).",
+        "Simón el Zelote, también de los Doce. En la RV1909, «el Cananita» o «Celador» (Lucas 6:15).",
+        "Simón, uno de los hermanos de Jesús (Marcos 6:3).",
+        "Simón el fariseo, que invitó a Jesús a comer en su casa (Lucas 7:36-40).",
+        "Simón el leproso, de Betania, en cuya casa una mujer ungió a Jesús (Marcos 14:3).",
+        "Simón de Cirene, que llevó la cruz de Jesús (Marcos 15:21).",
+        "Simón Iscariote, el padre de Judas (Juan 6:71).",
+        "Simón el curtidor, de Jope, que hospedó a Pedro (Hechos 10:6), y Simón el mago, de Samaria (Hechos 8:9)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los Santiagos (Jacobos)",
+      "items": [
+        "Santiago, hijo de Zebedeo, hermano de Juan y de los Doce. Fue el primer apóstol que murió por Jesús (Hechos 12:2).",
+        "Santiago, hijo de Alfeo, también de los Doce (Mateo 10:3).",
+        "Jacobo «el menor», hijo de una María que estuvo cerca de la cruz (Marcos 15:40). No se sabe con certeza si es el hijo de Alfeo.",
+        "Santiago, hermano del Señor, líder de la iglesia de Jerusalén (Gálatas 1:19; Hechos 15:13). Se le atribuye la carta de Santiago.",
+        "Jacobo, pariente del apóstol Judas Tadeo. Lucas lo llama «Judas hermano de Jacobo» (Lucas 6:16)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los Judas",
+      "items": [
+        "Judas Iscariote, de los Doce, el que entregó a Jesús (Mateo 10:4).",
+        "Judas Tadeo, también de los Doce. Juan lo llama «Judas, no el Iscariote» (Juan 14:22).",
+        "Judas, uno de los hermanos de Jesús (Marcos 6:3). La carta de Judas la firma un «hermano de Jacobo» (Judas 1:1).",
+        "Judas Barsabás, enviado a Antioquía con Silas (Hechos 15:22).",
+        "Judas de Damasco, en cuya casa oraba Saulo después de ver a Jesús (Hechos 9:11).",
+        "Judas el Galileo, que encabezó una revuelta años antes (Hechos 5:37)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Las Marías",
+      "items": [
+        "María, la madre de Jesús (Lucas 1:27; Hechos 1:14).",
+        "María Magdalena, de Magdala. Jesús la libró de siete demonios, y fue la primera en verlo resucitado (Lucas 8:2; Juan 20:16). La Biblia nunca dice que fuera prostituta.",
+        "María de Betania, hermana de Marta y de Lázaro (Lucas 10:39; Juan 11:1).",
+        "María, madre de Jacobo el menor y de José (Marcos 15:40). Mateo la llama «la otra María» (Mateo 28:1). Quizás es «María mujer de Cleofas» (Juan 19:25).",
+        "María, madre de Juan Marcos. En su casa oraba la iglesia de Jerusalén (Hechos 12:12).",
+        "María, una cristiana de Roma que «ha trabajado mucho» (Romanos 16:6)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los Josés",
+      "items": [
+        "José, hijo de Jacob, el soñador que llegó a gobernar Egipto (Génesis 37:3).",
+        "José de Nazaret, esposo de María, que cuidó a Jesús (Mateo 1:24).",
+        "José de Arimatea, discípulo rico que dio su sepulcro a Jesús (Mateo 27:57-60).",
+        "José, uno de los hermanos de Jesús (Mateo 13:55).",
+        "José Barsabás, llamado Justo, candidato cuando eligieron a Matías (Hechos 1:23).",
+        "José, a quien los apóstoles llamaron Bernabé, «Hijo de consolación» (Hechos 4:36)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los Juanes y los Felipes",
+      "items": [
+        "Juan el Bautista, hijo de Zacarías, que bautizó a Jesús (Lucas 3:2; Mateo 3:13).",
+        "Juan el apóstol, hijo de Zebedeo y hermano de Santiago (Marcos 1:19).",
+        "Juan Marcos, compañero de Pablo y Bernabé (Hechos 12:12, 25).",
+        "Felipe el apóstol, de Betsaida (Juan 1:44). Felipe el evangelista, uno de los siete, que bautizó al etíope (Hechos 8:38). Son dos personas distintas.",
+        "Felipe, hermano de Herodes Antipas (Marcos 6:17), y Felipe el tetrarca, que gobernaba Iturea (Lucas 3:1)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los Herodes y los Lázaros",
+      "items": [
+        "Herodes el Grande, rey cuando nació Jesús (Mateo 2:1).",
+        "Herodes Antipas, que encarceló a Juan el Bautista y vio a Jesús en la pasión (Marcos 6:17; Lucas 23:7).",
+        "Herodes Agripa, el «rey Herodes» que persiguió a la iglesia en Hechos 12 (Hechos 12:1). Agripa, su hijo, escuchó a Pablo (Hechos 25:13).",
+        "Lázaro de Betania, amigo de Jesús, a quien él devolvió la vida (Juan 11:1, 43).",
+        "Lázaro, el mendigo de una parábola de Jesús (Lucas 16:20). En algunos lugares, como Cuba, la devoción popular a San Lázaro une rasgos de los dos."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Marcos 6:3 nombra a cuatro «hermanos» de Jesús: Jacobo, José, Judas y Simón. Católicos y ortodoxos los entienden como parientes cercanos. Muchos evangélicos, como hijos de José y María. Aquí no decidimos la cuestión."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Para nosotros, tantos nombres iguales pueden confundir. Para Jesús, nadie es un número ni un nombre más. El buen pastor llama a sus ovejas por su nombre (Juan 10:3). Conocía a cada Simón y a cada María, y también te conoce a ti."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué confusión de nombres tenías antes de leer esta guía?",
+        "¿Por qué creen que la Biblia cuida tanto los nombres de las personas?",
+        "¿Qué sientes al saber que Jesús te llama por tu nombre?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué Felipe bautizó al etíope en el camino a Gaza?",
+      "opciones": ["Felipe el apóstol, de Betsaida", "Felipe el evangelista, uno de los siete", "Felipe el tetrarca"],
+      "correcta": 1,
+      "explicacion": "Fue Felipe el evangelista, uno de los siete servidores (Hechos 6:5; 8:26-40). No es el apóstol."
+    },
+    {
+      "pregunta": "¿Qué Santiago mandó matar el rey Herodes en Hechos 12?",
+      "opciones": ["El hijo de Zebedeo, hermano de Juan", "El hermano del Señor", "El hijo de Alfeo"],
+      "correcta": 0,
+      "explicacion": "Hechos 12:2 dice que Herodes mató «a Jacobo, hermano de Juan», el hijo de Zebedeo."
+    },
+    {
+      "pregunta": "¿Quién fue la primera persona en ver a Jesús resucitado, según Juan 20?",
+      "opciones": ["María de Betania", "María, madre de Juan Marcos", "María Magdalena"],
+      "correcta": 2,
+      "explicacion": "Jesús resucitado llamó por su nombre a María Magdalena junto al sepulcro (Juan 20:16)."
+    }
+  ],
+  "estudio": ["galilea-milagros", "hechos-1-7"],
+  "buscar": "Marcos 6:3"
+}

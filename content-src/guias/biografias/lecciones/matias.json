@@ -1,0 +1,119 @@
+{
+  "id": "matias",
+  "titulo": "Matías",
+  "subtitulo": "El elegido para completar a los Doce",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Jerusalén"],
+  "enUnMinuto": [
+    "Matías siguió a Jesús desde el bautismo de Juan hasta la ascensión, sin que los Evangelios lo nombren.",
+    "Después de la caída de Judas, los apóstoles oraron y Matías fue elegido para ocupar su lugar.",
+    "Así volvieron a ser doce testigos de la resurrección, justo antes de Pentecostés."
+  ],
+  "versiculo": {
+    "texto": "Y orando, dijeron: Tú, Señor, que conoces los corazones de todos, muestra cuál escoges de estos dos,",
+    "referencia": "Hechos 1:24"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Matías viene del hebreo y quiere decir «regalo de Dios», igual que Mateo. La Biblia solo lo nombra en Hechos 1.",
+        "No era nuevo en el grupo. Había acompañado a Jesús todo el tiempo, desde el bautismo de Juan hasta la ascensión (Hechos 1:21-22).",
+        "Los Evangelios nunca lo nombran. Fue un discípulo fiel en segundo plano durante años, hasta que llegó su momento."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Después de la ascensión, unas ciento veinte personas se reúnen en Jerusalén para orar (Hechos 1:14-15).",
+        "Pedro explica que hace falta alguien que ocupe el lugar que dejó Judas (Hechos 1:16-20).",
+        "Tiene que ser alguien que estuvo con Jesús desde el principio. Será testigo de su resurrección (Hechos 1:21-22).",
+        "Presentan a dos: José, llamado Barsabás, y Matías (Hechos 1:23).",
+        "Oran: «Tú, Señor, que conoces los corazones de todos, muestra cuál escoges» (Hechos 1:24).",
+        "Echan suertes, como se hacía en Israel para buscar la voluntad de Dios. La suerte cae sobre Matías (Hechos 1:26).",
+        "Queda contado con los once apóstoles. Poco después llega Pentecostés, y Pedro se levanta «con los once» (Hechos 2:14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jesús había elegido a doce. La traición de uno no deshizo su plan. El Señor, que conoce los corazones, completó el grupo con un discípulo que había estado ahí todo el tiempo. Jesús sigue su obra aun después de las caídas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "La fidelidad escondida prepara el llamado. Matías siguió a Jesús por años sin título. Esta semana: sigue sirviendo donde estás, aunque nadie lo note.",
+        "Las decisiones importantes se toman orando. Esta semana: antes de decidir algo, ora y pide consejo a hermanos maduros.",
+        "Perder no es fracasar. José Barsabás no fue elegido, y siguió siendo discípulo. Esta semana: alégrate sinceramente por el logro de otro."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Siguió a Jesús desde el bautismo de Juan hasta la ascensión (Hechos 1:21-22).",
+        "Fue elegido después de orar y echar suertes, y contado con los once (Hechos 1:24-26).",
+        "Echar suertes era una práctica conocida en Israel (Proverbios 16:33). Después de Pentecostés, Hechos no vuelve a mencionarla.",
+        "La Biblia no vuelve a nombrarlo después de Hechos 1."
+      ],
+      "tradicion": [
+        "Eusebio cuenta que, según algunos, Matías había sido uno de los setenta discípulos que Jesús envió (Lucas 10:1).",
+        "Distintas tradiciones dicen que predicó en Judea y en otras tierras, como Etiopía. Los relatos no coinciden.",
+        "Muchos cristianos recuerdan que murió como mártir.",
+        "Sus reliquias se veneran en la ciudad de Tréveris, en Alemania."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Hechos 1:15-22", "nota": "Hace falta un testigo" },
+        { "ref": "Hechos 1:23-26", "nota": "Matías es elegido" },
+        { "ref": "Hechos 2:14", "nota": "Pedro, en pie con los once" },
+        { "ref": "Proverbios 16:33", "nota": "La suerte y la voluntad de Dios" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Matías siguió a Jesús mucho tiempo sin que nadie hablara de él. ¿Sabes que Dios ve todo lo bueno que haces?",
+      "actividad": "Para el adulto: esta semana, busquen juntos una buena acción secreta, como ordenar algo sin que se lo pidan."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú conoces los corazones de todos. Guíame en mis decisiones. Hazme fiel en lo pequeño, y úsame cuando tú quieras. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué nos enseña que Matías hubiera seguido a Jesús tanto tiempo sin ser nombrado?",
+        "¿Cómo reaccionarías si fueras José Barsabás?",
+        "¿Cómo buscamos hoy la voluntad de Dios en las decisiones de la iglesia?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿A quién reemplazó Matías entre los Doce?",
+      "opciones": ["A Santiago, hijo de Zebedeo", "A Judas Iscariote", "A Tomás"],
+      "correcta": 1,
+      "explicacion": "Matías ocupó el lugar del que cayó Judas (Hechos 1:25-26)."
+    },
+    {
+      "pregunta": "¿Quién fue el otro candidato junto a Matías?",
+      "opciones": ["José, llamado Barsabás", "Esteban", "Bernabé"],
+      "correcta": 0,
+      "explicacion": "Presentaron a José, llamado Barsabás, que tenía por sobrenombre Justo, y a Matías (Hechos 1:23)."
+    },
+    {
+      "pregunta": "¿Qué condición debía cumplir el nuevo apóstol?",
+      "opciones": ["Ser de la tribu de Leví", "Saber leer griego", "Haber estado con Jesús desde el bautismo de Juan"],
+      "correcta": 2,
+      "explicacion": "Debía haber acompañado a Jesús desde el bautismo de Juan, para ser testigo de su resurrección (Hechos 1:21-22)."
+    }
+  ],
+  "estudio": ["hechos-1-7"],
+  "buscar": "Matías"
+}

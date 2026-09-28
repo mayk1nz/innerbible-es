@@ -1,0 +1,131 @@
+{
+  "id": "jeremias",
+  "titulo": "Jeremías",
+  "subtitulo": "El profeta de las lágrimas y la esperanza",
+  "etiquetas": ["Antiguo Testamento", "Reino dividido y profetas", "Jerusalén"],
+  "enUnMinuto": [
+    "Dios llama a Jeremías siendo muy joven para avisar a Jerusalén que, si no vuelve a Dios, caerá.",
+    "Durante cuarenta años habla sin que lo escuchen: lo golpean, queman sus escritos y lo echan en un pozo.",
+    "Llora por su pueblo, pero también anuncia esperanza: Dios hará un pacto nuevo y escribirá su ley en el corazón."
+  ],
+  "versiculo": {
+    "texto": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+    "referencia": "Jeremías 29:11"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Jeremías probablemente quiere decir «el Señor levanta». Era hijo de Hilcías, de una familia de sacerdotes de Anatot, cerca de Jerusalén (Jeremías 1:1).",
+        "Profetizó hacia el 627–580 a.C., desde el rey Josías hasta la caída de Jerusalén en manos de Babilonia. Dios le pidió no casarse (Jeremías 16:2). Su fiel ayudante fue el escriba Baruc."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "«Soy niño». Dios le dice que lo conocía antes de formarlo. Jeremías responde que no sabe hablar. Dios toca su boca y le promete estar con él (Jeremías 1:4-10).",
+        "Un corazón que llora. Jeremías sufre por el pecado y el dolor de su pueblo. Desea que sus ojos sean fuentes de lágrimas (Jeremías 9:1).",
+        "En casa del alfarero. Una vasija se estropea, y el alfarero hace otra nueva. Así es el pueblo en las manos de Dios (Jeremías 18:1-6).",
+        "Golpeado y humillado. Un sacerdote lo golpea y lo pone en el cepo. Jeremías se queja ante Dios, pero no puede callar su palabra (Jeremías 20:1-9).",
+        "Una carta a los exiliados. Escribe a los que ya están en Babilonia: Dios tiene para ellos pensamientos de paz y un futuro (Jeremías 29:4-11).",
+        "El pacto nuevo. Anuncia que Dios escribirá su ley en el corazón y perdonará el pecado del pueblo (Jeremías 31:31-34).",
+        "Un campo en tiempo de guerra. Preso y con la ciudad sitiada, compra un terreno. Es una señal: habrá futuro en esa tierra (Jeremías 32:6-15).",
+        "El rollo quemado. Baruc escribe sus palabras. El rey corta el rollo y lo quema, y Dios le manda escribirlo otra vez (Jeremías 36).",
+        "En el pozo de barro. Lo echan en una cisterna llena de lodo. Ebed-melec, un etíope, pide al rey sacarlo, y lo rescata con cuerdas y trapos (Jeremías 38:6-13).",
+        "Jerusalén cae. Se cumple lo que anunció. Los babilonios le dejan elegir, y se queda con los pobres de su tierra (Jeremías 39:11-14; 40:1-6).",
+        "Llevado a Egipto. Un grupo de su pueblo huye a Egipto, contra la palabra de Dios. Se llevan con ellos a Jeremías y a Baruc (Jeremías 43:4-7)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jeremías anunció un pacto nuevo, escrito en el corazón. En la última cena, Jesús tomó la copa y dijo: «Este vaso es el nuevo pacto en mi sangre» (Lucas 22:20). Algunos pensaban que Jesús era Jeremías (Mateo 16:14). Como Jeremías, Jesús lloró por Jerusalén (Lucas 19:41), pero también cargó el pecado que la hacía llorar."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Dios te conoce desde antes de nacer. Jeremías se sentía demasiado joven, y Dios le dijo «contigo soy». Esta semana: agradece a Dios por cómo te formó.",
+        "Se puede ser fiel sin ver resultados. Pocos escucharon a Jeremías, y aun así no calló. Esta semana: sigue haciendo el bien que nadie parece valorar.",
+        "La esperanza también es obediencia. Jeremías compró un campo cuando todo se derrumbaba. Esta semana: da un paso concreto de fe hacia tu futuro."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Jeremías lloró, se quejó y aun así siguió confiando. Dios no le pidió esconder su tristeza. Si hoy estás en un «pozo de barro», dile a Dios lo que sientes. Él tiene para ti pensamientos de paz."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "La Biblia no cuenta cómo ni dónde murió Jeremías. Su última escena es en Egipto (Jeremías 43–44).",
+        "Algunos pensaban que Jesús era Jeremías que había vuelto (Mateo 16:14)."
+      ],
+      "tradicion": [
+        "La tradición atribuye a Jeremías el libro de Lamentaciones, escrito tras la caída de Jerusalén.",
+        "Escritores cristianos antiguos, como Tertuliano y Jerónimo, recuerdan que Jeremías murió en Egipto por su fe."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Las Biblias católicas incluyen además el libro de Baruc, su ayudante, que termina con una «Carta de Jeremías». Las Biblias evangélicas no los incluyen."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Jeremías 1:4-10", "nota": "Su llamado" },
+        { "ref": "Jeremías 18:1-6", "nota": "El alfarero" },
+        { "ref": "Jeremías 29:4-14", "nota": "La carta a los exiliados" },
+        { "ref": "Jeremías 31:31-34", "nota": "El pacto nuevo" },
+        { "ref": "Jeremías 36", "nota": "El rollo quemado" },
+        { "ref": "Jeremías 38:1-13", "nota": "En el pozo de barro" },
+        { "ref": "Lamentaciones 3:22-23", "nota": "«Nuevas son cada mañana»" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jeremías vio a un alfarero que arreglaba una vasija de barro rota haciendo una nueva. ¿Crees que Dios puede arreglar lo que se rompe en nosotros?",
+      "actividad": "Para el adulto: somos como barro en las manos de Dios (Jeremías 18:6). Hagan juntos una figura con plastilina y rehagan la que salga mal."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú me conociste antes de que yo naciera. Cuando nadie me escuche y me sienta en un pozo, sé tú mi esperanza. Escribe tu ley en mi corazón. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Jeremías se quejó a Dios con palabras muy fuertes (Jeremías 20:7-9). ¿Está bien orar así?",
+        "¿Por qué creen que Dios le pidió comprar un campo en plena guerra?",
+        "¿Qué significa que Dios escriba su ley en el corazón y no solo en piedra?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué respondió Jeremías cuando Dios lo llamó?",
+      "opciones": ["Que no sabía hablar porque era niño", "Que ya estaba listo", "Que prefería ser sacerdote"],
+      "correcta": 0,
+      "explicacion": "Jeremías dijo: «no sé hablar, porque soy niño». Dios le prometió estar con él (Jeremías 1:6-8)."
+    },
+    {
+      "pregunta": "¿Quién sacó a Jeremías del pozo de barro?",
+      "opciones": ["El rey Sedequías", "Su ayudante Baruc", "Ebed-melec, un etíope"],
+      "correcta": 2,
+      "explicacion": "Ebed-melec habló con el rey y sacó a Jeremías con cuerdas y trapos viejos (Jeremías 38:7-13)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús de la copa en la última cena, cumpliendo lo que anunció Jeremías?",
+      "opciones": ["Que era la copa de la ira", "Que era el nuevo pacto en su sangre", "Que era para los sacerdotes"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo: «Este vaso es el nuevo pacto en mi sangre» (Lucas 22:20)."
+    }
+  ],
+  "estudio": ["jeremias", "lamentaciones"],
+  "buscar": "Jeremías"
+}

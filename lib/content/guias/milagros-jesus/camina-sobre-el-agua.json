@@ -1,0 +1,92 @@
+{
+  "id": "camina-sobre-el-agua",
+  "titulo": "Jesús camina sobre el agua",
+  "subtitulo": "Milagro 21 de 43 · «Confiad, yo soy; no tengáis miedo»",
+  "etiquetas": ["Mar de Galilea", "Año 3 · c. 29 d.C.", "Naturaleza y provisión", "Señal de Juan · 5 de 7"],
+  "enUnMinuto": [
+    "De noche, los discípulos reman contra el viento en medio del lago, y Jesús llega caminando sobre el agua.",
+    "Se asustan, pero él les dice: «Confiad, yo soy; no tengáis miedo».",
+    "Pedro camina hacia él, se hunde al dudar, y Jesús lo sostiene de la mano."
+  ],
+  "versiculo": {
+    "texto": "Mas luego Jesús les habló, diciendo: Confiad, yo soy; no tengáis miedo.",
+    "referencia": "Mateo 14:27"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 14:22-33", "nota": "Solo Mateo cuenta que Pedro caminó sobre el agua." },
+        { "ref": "Marcos 6:45-52", "nota": "Marcos dice que Jesús los vio fatigados de remar." },
+        { "ref": "Juan 6:16-21", "nota": "Juan cuenta que, al recibirlo, la barca llegó enseguida a tierra." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Después de alimentar a los cinco mil, Jesús mandó a sus discípulos cruzar el lago en la barca. Él despidió a la gente y subió al monte a orar a solas. Cayó la noche. La barca estaba en medio del lago, golpeada por las olas, porque el viento era contrario.",
+        "De madrugada, Jesús fue hacia ellos caminando sobre el agua. Al verlo, los discípulos se asustaron y gritaron: «Fantasma es». Enseguida Jesús les habló: «Confiad, yo soy; no tengáis miedo».",
+        "Pedro le dijo: «Señor, si tú eres, manda que yo vaya a ti sobre las aguas». Jesús le dijo: «Ven». Pedro bajó de la barca y caminó sobre el agua hacia Jesús. Pero al ver la fuerza del viento, tuvo miedo y empezó a hundirse. Gritó: «Señor, sálvame».",
+        "Al momento Jesús extendió la mano y lo sostuvo. Le dijo: «Oh hombre de poca fe, ¿por qué dudaste?». Cuando subieron a la barca, el viento se calmó. Los que estaban en la barca se postraron ante él y dijeron: «Verdaderamente eres Hijo de Dios»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Mientras oraba en el monte, Jesús no se olvidó de sus discípulos: los vio luchar y fue hacia ellos. Camina sobre el mar, como la Biblia dice de Dios. Su «yo soy» calma el miedo. Y cuando Pedro se hunde, no lo deja caer: su mano llega a tiempo. Los discípulos terminan adorándolo como Hijo de Dios."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Pedro caminó mientras miraba a Jesús, y se hundió cuando miró el viento. A nosotros nos pasa igual. Cuando los problemas ocupan toda la vista, el miedo crece. Pero aun al hundirte, puedes orar como Pedro: «Señor, sálvame». Jesús extiende la mano. Para hoy: cuando llegue el miedo, di esa oración corta y vuelve a mirar a Jesús."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú ves cuando remo contra el viento. Háblame en la noche: «yo soy; no tengáis miedo». Cuando me hunda, extiende tu mano y sostenme. Aumenta mi fe. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Era de noche y había mucho viento. ¡Jesús llegó caminando sobre el agua! Pedro quiso ir hacia él, pero se asustó y empezó a hundirse. Jesús le dio la mano enseguida. ¿Qué haces tú cuando tienes miedo?",
+      "actividad": "Jueguen a caminar sobre una línea en el suelo mirando a alguien al final. Luego intenten hacerlo mirando a otro lado."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? La «cuarta vela» era el último turno de guardia de la noche, antes del amanecer. Los discípulos llevaban horas remando. Juan cuenta que habían avanzado unos veinticinco o treinta estadios, cerca de cinco kilómetros."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Job 9:8", "nota": "Dios es quien «anda sobre las alturas de la mar»." },
+        { "ref": "Salmos 77:19", "nota": "«En la mar fue tu camino, y tus sendas en las muchas aguas»." },
+        { "ref": "Éxodo 3:14", "nota": "Dios revela su nombre a Moisés: «YO SOY»." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué pensaron los discípulos al ver a Jesús sobre el agua?",
+      "opciones": ["Que era un fantasma", "Que era un ángel", "Que era Elías"],
+      "correcta": 0,
+      "explicacion": "Se turbaron y dijeron: Fantasma es (Mateo 14:26)."
+    },
+    {
+      "pregunta": "¿Por qué empezó Pedro a hundirse?",
+      "opciones": ["Porque la barca se alejó", "Porque vio el viento fuerte y tuvo miedo", "Porque Jesús lo soltó"],
+      "correcta": 1,
+      "explicacion": "Viendo el viento fuerte, tuvo miedo y comenzó a hundirse (Mateo 14:30)."
+    },
+    {
+      "pregunta": "¿Qué dijeron los de la barca al final?",
+      "opciones": ["Que Jesús era un gran maestro", "Que era mejor volver a tierra", "Que verdaderamente era Hijo de Dios"],
+      "correcta": 2,
+      "explicacion": "Le adoraron diciendo: Verdaderamente eres Hijo de Dios (Mateo 14:33)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Mateo 14:22-33"
+}

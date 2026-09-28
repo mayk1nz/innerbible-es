@@ -1,0 +1,138 @@
+{
+  "id": "jacob",
+  "titulo": "Jacob",
+  "subtitulo": "El que luchó y fue llamado Israel",
+  "etiquetas": ["Antiguo Testamento", "Patriarcas", "Canaán, Harán y Egipto"],
+  "enUnMinuto": [
+    "Jacob es astuto: engaña a su hermano y a su padre, y tiene que huir de casa.",
+    "Dios no lo abandona: le promete estar con él, lo cuida veinte años y le cambia el nombre por Israel.",
+    "De sus doce hijos nacen las doce tribus del pueblo de Dios."
+  ],
+  "versiculo": {
+    "texto": "Y he aquí, yo soy contigo, y te guardaré por donde quiera que fueres, y te volveré a esta tierra; porque no te dejaré hasta tanto que haya hecho lo que te he dicho.",
+    "referencia": "Génesis 28:15"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Nació agarrado del talón de su hermano mellizo, y por eso lo llamaron Jacob (Génesis 25:26). El nombre suena en hebreo a «talón» y también a «el que suplanta». Dios le dio después un nombre nuevo: Israel (Génesis 32:28).",
+        "Vivió en la época de los patriarcas, hacia el 1900 a.C. Las fechas se debaten. Pasó su vida entre Canaán, Harán y, al final, Egipto.",
+        "Era hijo de Isaac y Rebeca, y hermano de Esaú. Se casó con Lea y con Raquel. Tuvo doce hijos y una hija, Dina."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un plato de lentejas. Esaú llega cansado del campo. Jacob le da comida a cambio de sus derechos de hijo mayor (Génesis 25:29-34).",
+        "El engaño. Con ayuda de su madre, Jacob se disfraza de Esaú. Su padre, ya ciego, lo bendice creyendo que es el mayor (Génesis 27:1-29).",
+        "La huida. Esaú quiere vengarse, y Jacob escapa a Harán, a casa de su tío Labán (Génesis 27:41-45).",
+        "La escalera de Betel. Duerme con una piedra por almohada. En sueños ve una escalera hasta el cielo, y Dios le promete: «no te dejaré» (Génesis 28:10-22).",
+        "El engañador engañado. Jacob trabaja siete años por Raquel. Labán le da a Lea, y Jacob sirve otros siete años más (Génesis 29:15-30).",
+        "Veinte años de trabajo duro. Labán le cambia el salario muchas veces, pero Dios lo cuida y lo prospera (Génesis 31:38-42).",
+        "Una oración humilde. Dios lo manda volver. Con miedo de Esaú, Jacob ora: «Menor soy que todas las misericordias» (Génesis 32:9-12).",
+        "La lucha en Peniel. Jacob lucha toda la noche y no suelta sin bendición. Sale cojeando y con un nombre nuevo: Israel (Génesis 32:24-31).",
+        "El abrazo. Esaú corre a su encuentro, lo abraza y los dos lloran. Jacob le dice que ver su rostro es como ver el rostro de Dios (Génesis 33:1-11).",
+        "Heridas en casa. Muere Raquel al dar a luz a Benjamín. Jacob prefiere a José, y los hermanos se llenan de envidia (Génesis 35:16-20; 37:3-4).",
+        "«José vive». Tras años de luto, Jacob descubre que su hijo vive. Dios le dice que no tema bajar a Egipto (Génesis 45:25-28; 46:1-4).",
+        "Un final en paz. Bendice al faraón, a sus nietos y a sus doce hijos. Muere en Egipto y lo sepultan en Canaán (Génesis 49:28-33; 50:12-13)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jacob soñó con una escalera que unía la tierra y el cielo. Jesús usó esa imagen para hablar de sí mismo. Dijo que los ángeles de Dios suben y bajan sobre el Hijo del hombre (Juan 1:51). Jesús es el camino abierto entre Dios y nosotros. Y como Dios buscó a Jacob sin merecerlo, Jesús viene a buscar a los que no lo merecemos."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Dios no abandona a los imperfectos. Jacob engañó y fue engañado, y Dios siguió con él. Esta semana: habla con Dios de un error que te avergüenza.",
+        "La bendición se pide con humildad. Jacob dejó de manipular y se aferró a Dios. Esta semana: ora cada día con sus palabras: «no te dejaré».",
+        "Siempre se puede volver al hermano. Jacob y Esaú se abrazaron después de veinte años. Esta semana: da un primer paso hacia alguien de quien te alejaste."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Jacob salió de Peniel cojeando, pero bendecido. A veces Dios nos cambia a través de una lucha. ¿Qué lucha estás viviendo hoy? No sueltes a Dios en medio de ella."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Siglos después, Jesús se sentó junto a «la fuente de Jacob», en Samaria. La mujer que llegó allí dijo que Jacob les había dado ese pozo (Juan 4:5-6, 12).",
+        "Fue sepultado en la cueva de Macpela, con Abraham, Isaac y Lea (Génesis 49:29-31; 50:13)."
+      ],
+      "tradicion": [
+        "Muchos peregrinos visitan un pozo antiguo en Nablus, dentro de una iglesia ortodoxa. La tradición lo identifica con el pozo de Jacob.",
+        "La tradición señala en Hebrón la tumba de los patriarcas, visitada por judíos, cristianos y musulmanes."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Génesis 25:19-34", "nota": "Nace y compra la primogenitura" },
+        { "ref": "Génesis 27", "nota": "Engaña a su padre" },
+        { "ref": "Génesis 28:10-22", "nota": "La escalera de Betel" },
+        { "ref": "Génesis 29", "nota": "Raquel y Lea" },
+        { "ref": "Génesis 32", "nota": "Lucha y recibe el nombre Israel" },
+        { "ref": "Génesis 33", "nota": "Se reconcilia con Esaú" },
+        { "ref": "Génesis 49", "nota": "Bendice a sus hijos" },
+        { "ref": "Hebreos 11:21", "nota": "Jacob en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Jacob, el padre de José de Nazaret, que aparece en la lista de los antepasados de Jesús (Mateo 1:16).",
+        "Los apóstoles llamados Jacobo en la Reina-Valera, que en español también se llaman Santiago (Mateo 10:2-3)."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jacob se fue de casa solo y con miedo. Esa noche, Dios le dijo: «no te dejaré». ¿Dónde está Dios cuando tú tienes miedo?",
+      "actividad": "Para el adulto: Dios estaba con Jacob en todo lugar (Génesis 28:15). Dibujen juntos una escalera y escriban arriba: «Dios está conmigo»."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Dios de Jacob, tú no me dejas aunque yo falle. Cambia mi corazón como cambiaste el de Jacob. Dame humildad para pedir perdón y valor para abrazar a mi hermano. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Jacob engañó y después fue engañado. ¿Qué nos enseña eso sobre las consecuencias de nuestros actos?",
+        "¿Por qué creen que Dios le cambió el nombre después de una lucha?",
+        "¿Qué hizo posible el abrazo entre Jacob y Esaú?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Por qué le vendió Esaú a Jacob sus derechos de hijo mayor?",
+      "opciones": ["Por un plato de lentejas", "Por una túnica de colores", "Por un rebaño de ovejas"],
+      "correcta": 0,
+      "explicacion": "Esaú llegó cansado y cambió su primogenitura por pan y lentejas (Génesis 25:29-34)."
+    },
+    {
+      "pregunta": "¿Qué nombre nuevo recibió Jacob después de luchar toda la noche?",
+      "opciones": ["Abraham", "Judá", "Israel"],
+      "correcta": 2,
+      "explicacion": "En Peniel, Dios le dijo que ya no se llamaría Jacob, sino Israel (Génesis 32:28)."
+    },
+    {
+      "pregunta": "Jesús habló de ángeles que suben y bajan. ¿Sobre quién dijo que lo hacen?",
+      "opciones": ["Sobre el templo", "Sobre el Hijo del hombre", "Sobre el monte Sinaí"],
+      "correcta": 1,
+      "explicacion": "Como en la escalera de Jacob, Jesús dijo que los ángeles suben y descienden sobre el Hijo del hombre (Juan 1:51)."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "Jacob"
+}

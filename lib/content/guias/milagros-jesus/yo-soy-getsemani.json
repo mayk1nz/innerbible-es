@@ -1,0 +1,113 @@
+{
+  "id": "yo-soy-getsemani",
+  "titulo": "«Yo soy»: los soldados caen en tierra",
+  "subtitulo": "Milagro 38 de 43 · Jesús se entrega libremente",
+  "etiquetas": ["Getsemaní, al otro lado del Cedrón", "Última semana · c. 30 d.C.", "Señal en la vida de Jesús"],
+  "enUnMinuto": [
+    "De noche, en el huerto, Judas llega con soldados y guardias para arrestar a Jesús.",
+    "Jesús sale a su encuentro y dice: «Yo soy». Ellos retroceden y caen en tierra.",
+    "Jesús pide que dejen ir a sus discípulos y se entrega por su propia voluntad."
+  ],
+  "versiculo": {
+    "texto": "Y como les dijo, Yo soy, volvieron atrás, y cayeron en tierra.",
+    "referencia": "Juan 18:6"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 18:1-9", "nota": "Solo Juan cuenta que cayeron en tierra." },
+        { "ref": "Mateo 26:36-50", "nota": "Mateo: la oración en Getsemaní y el beso de Judas." },
+        { "ref": "Marcos 14:32-46", "nota": "Marcos: la angustia de Jesús y su arresto." },
+        { "ref": "Lucas 22:39-48", "nota": "Lucas: Jesús ora en el monte de los Olivos, como solía." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Era de noche, después de la última cena. Jesús cruzó con sus discípulos el arroyo de Cedrón y entró en un huerto. Solía reunirse allí con ellos. Mateo y Marcos llaman a ese lugar Getsemaní. Allí Jesús había orado al Padre con angustia.",
+        "Judas conocía el lugar. Llegó con una tropa de soldados y guardias de los jefes de los sacerdotes. Traían linternas, antorchas y armas. Jesús sabía todo lo que iba a pasar. No se escondió: salió a su encuentro y les preguntó: «¿A quién buscáis?».",
+        "«A Jesús Nazareno», respondieron. Él les dijo: «Yo soy». Al oír esas palabras, retrocedieron y cayeron en tierra. Jesús volvió a preguntar, y ellos repitieron lo mismo.",
+        "Entonces Jesús dijo: «Os he dicho que yo soy: pues si a mí buscáis, dejad ir a éstos». Protegió a sus discípulos hasta el final. Así se cumplió su palabra: no perdió a ninguno de los que el Padre le dio. Y luego se entregó."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Getsemaní: su nombre significa «prensa de aceite». Era un huerto de olivos.",
+        "Cedrón: un arroyo en el valle que separa Jerusalén del monte de los Olivos.",
+        "Compañía: así llama la RV1909 a la tropa, un grupo grande de soldados."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús va a la cruz libremente. Nadie le quita la vida: él la entrega. Con dos palabras, los que venían armados cayeron al suelo. «Yo soy» recuerda el nombre con que Dios se reveló a Moisés. Y que su poder se usa para proteger. En la hora de su arresto, pide que dejen ir a sus amigos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "En la hora más oscura, Jesús no huyó ni atacó. Dio un paso al frente y se puso entre el peligro y sus amigos. Así sigue haciéndolo por ti. Cuando tengas miedo, recuerda que el mismo que dijo «Yo soy» en el huerto está contigo. No tienes que cargar solo con tu noche. Para hoy: lee despacio Juan 18:1-11 y dale gracias por entregarse por ti."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú saliste al encuentro de los que venían a prenderte. Te entregaste por amor, para que nosotros quedáramos libres. Cuando llegue mi noche, recuérdame que tú estás conmigo. Gracias por tu entrega. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Unos soldados vinieron de noche a buscar a Jesús. Él les dijo: «Yo soy», ¡y todos cayeron al suelo! Jesús podía escapar, pero se quedó por amor a nosotros. ¿Cómo cuida Jesús a sus amigos?",
+      "actividad": "Apaguen la luz un momento y luego enciendan una linterna. Digan juntos: Jesús está con nosotros en la noche."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Juan dice que era un huerto al otro lado del arroyo de Cedrón (Juan 18:1).",
+        "Mateo y Marcos lo llaman Getsemaní; Lucas dice que Jesús fue al monte de los Olivos, como solía."
+      ],
+      "tradicion": [
+        "La tradición lo sitúa al pie del monte de los Olivos, frente a la ciudad.",
+        "Allí se conservan olivos muy antiguos, y desde hace siglos los peregrinos oran en ese lugar."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Éxodo 3:14", "nota": "Dios revela su nombre a Moisés: «YO SOY EL QUE SOY»." },
+        { "ref": "Salmos 27:2", "nota": "Los enemigos que se acercan tropiezan y caen." },
+        { "ref": "Juan 10:17-18", "nota": "Jesús dice que nadie le quita la vida: él la da por sí mismo." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Lo contamos entre las grandes señales de la vida de Jesús. No sana a nadie, pero muestra quién es: el Hijo que se entrega por amor."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué respondió Jesús cuando dijeron que buscaban a Jesús Nazareno?",
+      "opciones": ["Aquí no está", "Yo soy", "Huyamos"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo «Yo soy», y ellos retrocedieron y cayeron en tierra (Juan 18:5-6)."
+    },
+    {
+      "pregunta": "¿Qué pidió Jesús para sus discípulos?",
+      "opciones": ["Que pelearan por él", "Que los arrestaran también", "Que los dejaran ir"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo: «si a mí buscáis, dejad ir a éstos» (Juan 18:8)."
+    },
+    {
+      "pregunta": "¿A quién reveló Dios su nombre «YO SOY EL QUE SOY»?",
+      "opciones": ["A Moisés", "A Abraham", "A David"],
+      "correcta": 0,
+      "explicacion": "Dios se lo reveló a Moisés junto a la zarza (Éxodo 3:14)."
+    }
+  ],
+  "estudio": ["pasion-y-muerte"],
+  "buscar": "Juan 18:1-11"
+}

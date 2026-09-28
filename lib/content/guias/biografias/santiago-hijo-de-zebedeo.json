@@ -1,0 +1,137 @@
+{
+  "id": "santiago-hijo-de-zebedeo",
+  "titulo": "Santiago, hijo de Zebedeo",
+  "subtitulo": "En la RVR1960, Jacobo; hermano de Juan",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Galilea y Jerusalén"],
+  "enUnMinuto": [
+    "Santiago era pescador en Galilea, hijo de Zebedeo y hermano de Juan.",
+    "Jesús llamó a los dos hermanos «Hijos del trueno», por su carácter fuerte, y los hizo parte de su círculo más cercano.",
+    "Santiago aprendió que ser grande es servir, y fue el primero de los Doce en dar la vida por Jesús."
+  ],
+  "versiculo": {
+    "texto": "Mas no será así entre vosotros: antes cualquiera que quisiere hacerse grande entre vosotros, será vuestro servidor;",
+    "referencia": "Marcos 10:43"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "En la Biblia de nuestra app (RV1909) y en la RVR1960 se llama Jacobo. Es el mismo nombre que Jacob, el patriarca. Santiago viene de «Sant Iago», es decir, san Jacobo.",
+        "Su padre, Zebedeo, tenía barca y jornaleros en el mar de Galilea (Marcos 1:20). Su hermano era Juan. Los dos pescaban en sociedad con Simón Pedro (Lucas 5:10).",
+        "Su madre también seguía a Jesús y estuvo cerca de la cruz (Mateo 27:56). Casi siempre se lo nombra antes que a Juan. Quizás era el mayor de los dos."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Está arreglando las redes con Juan en la barca de su padre. Jesús los llama, y los dos lo siguen enseguida (Marcos 1:19-20).",
+        "Ve la pesca que casi hunde dos barcas y se llena de asombro, igual que Pedro (Lucas 5:9-10).",
+        "Jesús lo elige entre los Doce. A él y a Juan les da un sobrenombre: Boanerges, «Hijos del trueno» (Marcos 3:17).",
+        "Con Pedro y Juan entra en la casa de Jairo. Allí ve a Jesús devolver la vida a una niña (Marcos 5:37-42).",
+        "Sube al monte con Jesús, Pedro y Juan. Allí ve a Jesús transfigurado, con el rostro brillante como el sol (Mateo 17:1-2).",
+        "Un pueblo de Samaria no recibe a Jesús. Santiago y Juan quieren pedir fuego del cielo, y Jesús los reprende (Lucas 9:51-56).",
+        "Con Juan, pide sentarse a los lados de Jesús en su gloria. Jesús enseña que el más grande es el que sirve (Marcos 10:35-45).",
+        "Jesús le anuncia que beberá de su «vaso», es decir, que sufrirá por él. Santiago responde: «Podemos» (Marcos 10:38-39).",
+        "En Getsemaní, Jesús lo lleva más cerca, con Pedro y Juan, para que velen con él (Marcos 14:33).",
+        "Resucitado, Jesús se aparece a los hijos de Zebedeo junto al mar de Tiberias (Juan 21:1-2).",
+        "Ora con los demás apóstoles en Jerusalén después de la ascensión (Hechos 1:13-14).",
+        "El rey Herodes Agripa persigue a la iglesia y manda matar a Santiago. Es el primero de los Doce que muere por Jesús (Hechos 12:1-2)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Santiago quería un lugar de honor y fuego contra quienes rechazaban a Jesús. Jesús no lo echó por eso. Lo corrigió con paciencia y le mostró otro camino: el Hijo del hombre vino a servir y a dar su vida. Aquel «hijo del trueno» terminó dando la vida por su Señor."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Jesús transforma el carácter fuerte. No lo apaga: lo pone al servicio del amor. Esta semana: cuando te enojes, espera un momento y ora antes de responder.",
+        "Ser grande es servir. Santiago pidió un trono y Jesús le enseñó a servir. Esta semana: haz una tarea que nadie quiere hacer, en casa o en tu iglesia.",
+        "La fidelidad no siempre se ve larga. Santiago fue fiel hasta el final. Esta semana: ora por los cristianos que hoy sufren por su fe."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Es el único de los Doce cuya muerte narra la Biblia: el rey Herodes lo mandó matar (Hechos 12:2).",
+        "Murió pronto, hacia el año 44 d.C., mucho antes que los demás apóstoles.",
+        "Jesús le había anunciado que compartiría su sufrimiento (Marcos 10:39).",
+        "Su madre estuvo cerca de la cruz (Mateo 27:56). Comparando con Marcos 15:40, muchos piensan que se llamaba Salomé, pero no es seguro."
+      ],
+      "tradicion": [
+        "Una tradición antigua, muy querida en España y América Latina, cuenta que Santiago predicó en Hispania, la actual España.",
+        "Según esa tradición, sus restos fueron llevados a Compostela, en Galicia. Allí llegan cada año miles de peregrinos por el Camino de Santiago.",
+        "Muchos cristianos lo llaman «Santiago el Mayor» para distinguirlo del otro apóstol, Santiago hijo de Alfeo.",
+        "La Iglesia católica lo recuerda el 25 de julio. Es patrono de España y de muchas ciudades de América Latina."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Santiago, hijo de Alfeo, otro de los Doce (Mateo 10:3).",
+        "Santiago, hermano del Señor, líder de la iglesia de Jerusalén (Gálatas 1:19). Él vivió muchos años más.",
+        "Jacobo el menor, hijo de una María que estuvo junto a la cruz (Marcos 15:40)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Marcos 1:19-20", "nota": "Deja la barca de su padre" },
+        { "ref": "Marcos 3:17", "nota": "Hijos del trueno" },
+        { "ref": "Marcos 5:37", "nota": "En casa de Jairo" },
+        { "ref": "Mateo 17:1-8", "nota": "La transfiguración" },
+        { "ref": "Lucas 9:51-56", "nota": "El fuego que Jesús no quiso" },
+        { "ref": "Marcos 10:35-45", "nota": "Ser grande es servir" },
+        { "ref": "Marcos 14:32-34", "nota": "En Getsemaní" },
+        { "ref": "Hechos 12:1-2", "nota": "Primer apóstol que muere por Jesús" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Santiago y Juan querían los mejores asientos junto a Jesús. ¿Qué les enseñó Jesús? ¿Cómo puedes ayudar tú hoy?",
+      "actividad": "Para el adulto: Jesús dijo que el más grande es el que sirve (Marcos 10:43). Elijan juntos una ayuda concreta en casa, como poner la mesa."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, conoces mi carácter y mis ganas de ser importante. Enséñame a servir como tú. Dame un corazón fiel hasta el final. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué parte de tu carácter necesita pasar por las manos de Jesús?",
+        "¿Por qué creen que Jesús no echó a Santiago cuando pidió fuego del cielo?",
+        "¿Dónde buscamos hoy los «primeros asientos» en la iglesia o en el trabajo?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo llamó Jesús a Santiago y a su hermano Juan?",
+      "opciones": ["Pescadores de Galilea", "Hijos del trueno", "Hijos de la luz"],
+      "correcta": 1,
+      "explicacion": "Jesús les puso por sobrenombre Boanerges, que quiere decir «Hijos del trueno» (Marcos 3:17)."
+    },
+    {
+      "pregunta": "¿Qué pidieron Santiago y Juan cuando un pueblo de Samaria no recibió a Jesús?",
+      "opciones": ["Que bajara fuego del cielo", "Que Jesús se fuera de allí", "Que el pueblo pagara una multa"],
+      "correcta": 0,
+      "explicacion": "Quisieron pedir fuego del cielo, y Jesús los reprendió (Lucas 9:54-55)."
+    },
+    {
+      "pregunta": "Jesús le dijo a Santiago que bebería de su «vaso». ¿Cómo se cumplió?",
+      "opciones": ["Fue el primero en ver la tumba vacía", "Escribió una carta sobre el sufrimiento", "Fue el primero de los Doce en morir por Jesús"],
+      "correcta": 2,
+      "explicacion": "Herodes lo mandó matar (Hechos 12:2). Santiago compartió el sufrimiento de su Señor, como Jesús le había anunciado."
+    }
+  ],
+  "estudio": ["galilea-milagros", "hechos-8-12"],
+  "buscar": "Santiago, hijo de Zebedeo"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "maria-de-betania",
+  "titulo": "María de Betania",
+  "subtitulo": "La que se sentó a los pies de Jesús",
+  "etiquetas": ["c. 29–30 d.C.", "Betania, cerca de Jerusalén", "adoración", "duelo"],
+  "enUnMinuto": [
+    "María se sienta a los pies de Jesús para escuchar su palabra, mientras su hermana Marta sirve.",
+    "Cuando muere su hermano Lázaro, llora a los pies de Jesús, y Jesús llora con ella.",
+    "Días antes de la cruz, unge los pies de Jesús con un perfume muy caro, y él la defiende."
+  ],
+  "versiculo": {
+    "texto": "Empero una cosa es necesaria; y María escogió la buena parte, la cual no le será quitada.",
+    "referencia": "Lucas 10:42"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "María es la forma griega del nombre hebreo Miriam; su significado es incierto. La llamamos María de Betania para distinguirla de las otras Marías de los evangelios."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "María vivía en Betania con su hermana Marta y su hermano Lázaro. Cuando Jesús llegó a su casa, María se sentó a sus pies para oír su palabra (Lucas 10:39). En aquella época, sentarse a los pies de un maestro era el lugar de un discípulo (Hechos 22:3).",
+        "Marta, ocupada con el servicio, se quejó de que su hermana no la ayudaba. Jesús no mandó a María a la cocina. Dijo que ella había escogido «la buena parte, la cual no le será quitada».",
+        "Tiempo después, Lázaro murió. Cuando Jesús llegó, María se levantó enseguida y fue a su encuentro. Se echó a sus pies y le dijo: «Señor, si hubieras estado aquí, no fuera muerto mi hermano». Lloraba. Al verla llorar, Jesús se conmovió. «Y lloró Jesús». Luego resucitó a Lázaro.",
+        "Seis días antes de la Pascua, hicieron una cena para Jesús en Betania. Marta servía y Lázaro estaba a la mesa. María tomó una libra de perfume de nardo puro, muy caro. Ungió los pies de Jesús y los secó con sus cabellos. La casa se llenó del olor del perfume.",
+        "Judas protestó: ese perfume se podía vender por trescientos denarios para dar a los pobres. Juan aclara que Judas no lo decía por amor a los pobres. Jesús defendió a María: «Déjala: para el día de mi sepultura ha guardado esto». Su gesto preparaba el cuerpo de Jesús para la sepultura."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: escuchar y adorar",
+      "parrafos": [
+        "María habla poco en la Biblia. Sus gestos hablan por ella: se sienta a escuchar, llora sin esconderse y derrama lo más valioso que tiene. Eligió estar cerca de Jesús cuando había mucho que hacer. Y dio sin calcular, aunque otros la criticaron. Su adoración nació de haber escuchado primero."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Jesús defendió dos veces a María: ante la queja de su hermana y ante la crítica de Judas. Así mostró que escucharlo y amarlo nunca es tiempo perdido. Con su perfume, María honró a Jesús días antes de la cruz. Sin decir una palabra, anunció su muerte y su sepultura. Y Jesús recibió su amor como un regalo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si tu día está lleno de tareas, busca un rato para sentarte a los pies de Jesús. No es tiempo perdido. Si alguien critica tu manera de amar a Dios, Jesús mira tu corazón. Para los hombres: escuchar también es fuerza, no debilidad. Y para los jóvenes: lo más valioso que tienes, tu tiempo y tus talentos, puede ser un perfume para Jesús."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Lucas 10:38-42", "nota": "María a los pies de Jesús." },
+        { "ref": "Juan 11:28-45", "nota": "María llora, y Jesús llora con ella." },
+        { "ref": "Juan 12:1-8", "nota": "El perfume de nardo en Betania." },
+        { "ref": "Marcos 14:3-9", "nota": "Una unción en Betania, contada por Marcos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, quiero sentarme a tus pies y escuchar tu voz. Calma mi afán y mi prisa. Recibe lo más valioso que tengo como un perfume para ti. Y cuando llore, recuérdame que tú lloras conmigo. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿cuál es tu olor favorito, y qué recuerdo te trae?",
+        "María eligió escuchar cuando había mucho que hacer. ¿Qué te impide sentarte a los pies de Jesús?",
+        "Jesús lloró con María aunque iba a resucitar a Lázaro. ¿Qué nos enseña eso sobre acompañar el dolor?",
+        "Judas criticó el gesto de María. ¿Cómo reaccionamos cuando otros expresan su fe de manera distinta?",
+        "Dinámica: pasen de mano en mano un pequeño frasco de perfume o una flor. Cada persona dice algo que quiere ofrecer a Jesús esta semana.",
+        "Para cerrar: lean Juan 12:3 y oren en silencio unos minutos."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "María se sentaba a los pies de Jesús para escuchar sus historias. Un día le puso a Jesús un perfume muy caro para mostrarle su amor. ¡Toda la casa olía rico! ¿Cómo puedes mostrarle tú a Jesús que lo amas?",
+      "actividad": "Hagan una tarjeta con una flor o un poco de perfume, y escriban: “Te amo, Jesús”. Para memorizar: «María escogió la buena parte» (Lucas 10:42)."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Juan dice que fue María, la hermana de Lázaro, quien ungió los pies de Jesús en Betania (Juan 11:2; 12:3).",
+        "Marcos y Mateo cuentan una unción en Betania sin dar el nombre de la mujer (Marcos 14:3-9)."
+      ],
+      "tradicion": [
+        "Muchos lectores piensan que Marcos y Juan hablan de la misma escena. Otros ven dos escenas distintas.",
+        "Parte de la tradición occidental unió a María de Betania con María Magdalena y con la mujer de Lucas 7. El texto bíblico no las une."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde se sentó María cuando Jesús visitó su casa?",
+      "opciones": ["En la cocina", "A los pies de Jesús", "Junto a la puerta"],
+      "correcta": 1,
+      "explicacion": "María, sentada a los pies de Jesús, oía su palabra (Lucas 10:39)."
+    },
+    {
+      "pregunta": "¿Con qué ungió María los pies de Jesús en Betania?",
+      "opciones": ["Con aceite de oliva", "Con agua fresca", "Con perfume de nardo"],
+      "correcta": 2,
+      "explicacion": "Tomó una libra de perfume de nardo muy caro y ungió sus pies (Juan 12:3)."
+    },
+    {
+      "pregunta": "¿Para qué dijo Jesús que María había guardado ese perfume?",
+      "opciones": ["Para el día de su sepultura", "Para venderlo y ayudar a los pobres", "Para la fiesta de Lázaro"],
+      "correcta": 0,
+      "explicacion": "Jesús dijo: «Déjala: para el día de mi sepultura ha guardado esto» (Juan 12:7)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen", "ultima-semana"],
+  "buscar": "Juan 12:1-8"
+}

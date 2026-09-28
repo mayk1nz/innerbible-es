@@ -1,0 +1,100 @@
+{
+  "id": "ciego-de-nacimiento",
+  "titulo": "El ciego de nacimiento",
+  "subtitulo": "Milagro 30 de 43 · Era ciego, y ahora ve",
+  "etiquetas": ["Jerusalén, estanque de Siloé", "Año 3 · c. 29 d.C.", "Curación", "Señal de Juan · 6 de 7"],
+  "enUnMinuto": [
+    "En Jerusalén, Jesús da la vista a un hombre que había nacido ciego.",
+    "Los fariseos lo interrogan y lo echan fuera, pero él repite: «ahora veo».",
+    "Jesús lo busca, se le revela como el Hijo de Dios, y el hombre cree y lo adora."
+  ],
+  "versiculo": {
+    "texto": "Entonces él respondió, y dijo: Si es pecador, no lo sé: una cosa sé, que habiendo yo sido ciego, ahora veo.",
+    "referencia": "Juan 9:25"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 9:1-41", "nota": "Solo lo cuenta Juan. Es la sexta de las siete señales de su evangelio." },
+        { "ref": "Juan 8:12", "nota": "Poco antes, en la misma fiesta, Jesús dice: «Yo soy la luz del mundo»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "En Jerusalén, Jesús vio a un hombre ciego desde que nació. Los discípulos preguntaron quién había pecado, él o sus padres. Jesús respondió que ni él ni sus padres. Era para que las obras de Dios se mostraran en él. Y dijo: «luz soy del mundo».",
+        "Jesús escupió en tierra, hizo lodo y lo puso sobre los ojos del ciego. Le dijo que fuera a lavarse al estanque de Siloé, que significa «Enviado». El hombre fue, se lavó y volvió viendo. Sus vecinos no podían creerlo: ¿no era este el que se sentaba a pedir limosna?",
+        "Era sábado, y lo llevaron ante los fariseos. Ellos no se ponían de acuerdo. Unos decían que Jesús no era de Dios, porque no guardaba el sábado. Otros preguntaban cómo un pecador podía hacer tales señales. Llamaron a sus padres, que tenían miedo de ser expulsados de la sinagoga.",
+        "El hombre repetía su testimonio sencillo: «una cosa sé, que habiendo yo sido ciego, ahora veo». Al final lo echaron fuera. Entonces Jesús lo buscó y le preguntó si creía en el Hijo de Dios. Jesús le dijo que era él mismo. El hombre respondió: «Creo, Señor», y lo adoró."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Siloé: un estanque al sur de Jerusalén. Juan explica que su nombre significa «Enviado».",
+        "Fariseos: un grupo judío que amaba la ley de Dios y cuidaba mucho su cumplimiento. Nicodemo también era fariseo.",
+        "Echar de la sinagoga: apartar a alguien de la comunidad de oración de su pueblo."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús es la luz del mundo, y lo muestra abriendo unos ojos que nunca habían visto. Que no mira la enfermedad como un castigo: donde otros buscaban culpables, él vio una ocasión para la obra de Dios. Y que busca a quien ha sido echado fuera. El hombre perdió su lugar, pero encontró a Jesús cara a cara."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "No necesitas saberlo todo para hablar de Jesús. Este hombre no tenía respuesta para cada pregunta. Solo contaba lo que le había pasado: era ciego y ahora veía. Tu historia con Dios, sencilla y verdadera, también vale. Y si alguna vez te sientes rechazado, recuerda que Jesús salió a buscar a este hombre. Para hoy: cuéntale a alguien, en una frase, algo bueno que Dios hizo en tu vida."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, luz del mundo, abre mis ojos para verte. Líbrame de buscar culpables en el dolor ajeno. Dame valor para contar con sencillez lo que has hecho por mí. Y cuando me sienta fuera, búscame. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre nunca había visto nada. Jesús le puso barro en los ojos y lo mandó a lavarse. ¡Volvió viendo! Él decía feliz: era ciego y ahora veo. ¿Qué te gustaría ver hoy?",
+      "actividad": "Con ayuda de un adulto, jueguen a guiar a alguien con los ojos vendados. Luego den gracias por el regalo de ver."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Isaías 42:6-7", "nota": "El siervo de Dios será luz de las naciones, para abrir ojos de ciegos." },
+        { "ref": "Salmos 146:8", "nota": "El Señor abre los ojos a los ciegos." },
+        { "ref": "Juan 20:30-31", "nota": "Juan escribe sus señales para que creamos y tengamos vida en el nombre de Jesús." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sana, pero esta historia no promete que toda enfermedad termine igual. Tampoco la enfermedad es un castigo por el pecado de alguien: así lo dijo Jesús (Juan 9:3). Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿En qué estanque se lavó el ciego?",
+      "opciones": ["Betesda", "Siloé", "Jordán"],
+      "correcta": 1,
+      "explicacion": "Jesús lo envió al estanque de Siloé, que significa «Enviado» (Juan 9:7)."
+    },
+    {
+      "pregunta": "¿Qué respondió Jesús sobre quién había pecado?",
+      "opciones": ["Que había pecado el hombre", "Que habían pecado sus padres", "Que ni él ni sus padres"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo que era para que las obras de Dios se mostraran en él (Juan 9:3)."
+    },
+    {
+      "pregunta": "¿Qué dice Jesús de sí mismo en esta historia y en Juan 8:12?",
+      "opciones": ["Que es la luz del mundo", "Que es el buen pastor", "Que es la vid verdadera"],
+      "correcta": 0,
+      "explicacion": "Jesús dice: «luz soy del mundo» (Juan 9:5), y lo muestra dando la vista."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Juan 9:1-41"
+}

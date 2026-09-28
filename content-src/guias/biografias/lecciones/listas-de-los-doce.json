@@ -1,0 +1,131 @@
+{
+  "id": "listas-de-los-doce",
+  "titulo": "Las listas de los Doce",
+  "subtitulo": "Las cuatro listas y sus nombres, lado a lado",
+  "etiquetas": ["Herramientas", "Los Doce"],
+  "enUnMinuto": [
+    "La Biblia da cuatro listas de los Doce apóstoles: en Mateo, Marcos, Lucas y Hechos.",
+    "Los nombres casi coinciden, pero algunos apóstoles tienen dos o tres nombres distintos.",
+    "Comparar las listas ayuda a entender quién era quién y muestra un orden sorprendente."
+  ],
+  "versiculo": {
+    "texto": "Y como fue de día, llamó a sus discípulos, y escogió doce de ellos, a los cuales también llamó apóstoles:",
+    "referencia": "Lucas 6:13"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "¿Qué es un apóstol?",
+      "parrafos": [
+        "Apóstol es una palabra griega que quiere decir «enviado». Jesús tenía muchos discípulos, pero eligió a doce para estar con él y enviarlos a predicar (Marcos 3:14).",
+        "El número doce recuerda a las doce tribus de Israel. Jesús estaba reuniendo de nuevo al pueblo de Dios (Mateo 19:28).",
+        "Las cuatro listas están en Mateo 10:2-4, Marcos 3:16-19, Lucas 6:14-16 y Hechos 1:13. La de Hechos tiene once nombres, porque Judas Iscariote ya no estaba."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Primer grupo: siempre encabeza Pedro",
+      "items": [
+        "Simón Pedro: primero en las cuatro listas. También se llama Cefas (Juan 1:42).",
+        "Andrés, hermano de Pedro: segundo en Mateo y Lucas, cuarto en Marcos y Hechos.",
+        "Santiago, hijo de Zebedeo (en la RV1909, Jacobo): tercero en Mateo y Lucas, segundo en Marcos y Hechos.",
+        "Juan, hermano de Santiago: cuarto en Mateo y Lucas, tercero en Marcos y Hechos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Segundo grupo: siempre encabeza Felipe",
+      "items": [
+        "Felipe: quinto en las cuatro listas.",
+        "Bartolomé: sexto en los tres Evangelios, séptimo en Hechos. Muchos lo identifican con Natanael (Juan 1:45).",
+        "Tomás, llamado el Dídimo: séptimo en Mateo, octavo en Marcos y Lucas, sexto en Hechos.",
+        "Mateo: octavo en Mateo y Hechos, séptimo en Marcos y Lucas. El Evangelio de Mateo lo llama «el publicano». Marcos y Lucas lo llaman Leví al contar su llamado."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tercer grupo: siempre encabeza Santiago, hijo de Alfeo",
+      "items": [
+        "Santiago, hijo de Alfeo (en la RV1909, Jacobo): noveno en las cuatro listas.",
+        "Judas Tadeo: en Mateo, «Lebeo, por sobrenombre Tadeo»; en Marcos, «Tadeo»; en Lucas y Hechos, «Judas hermano de Jacobo».",
+        "Simón el Zelote: en Mateo y Marcos, «el Cananita»; en Lucas, «el que se llama Celador»; en Hechos, «Zelotes». Todo quiere decir «celoso».",
+        "Judas Iscariote: último en los tres Evangelios, siempre con la nota de que entregó a Jesús. En Hechos, su lugar lo ocupa Matías (Hechos 1:26)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un orden que se repite",
+      "parrafos": [
+        "Si miras con atención, las cuatro listas forman tres grupos de cuatro. Los grupos tienen siempre los mismos nombres, aunque el orden cambie dentro de cada grupo.",
+        "Y cada grupo empieza siempre con el mismo apóstol: Pedro, Felipe y Santiago, hijo de Alfeo. Quizás eran los que coordinaban cada grupo. La Biblia no lo explica."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué cambian los nombres?",
+      "items": [
+        "Muchos tenían un nombre y un sobrenombre, como Simón, a quien Jesús llamó Pedro.",
+        "Algunos tenían un nombre hebreo y otro griego, como Cefas y Pedro, que significan «piedra».",
+        "Otros se distinguían por su familia: «hijo de Zebedeo», «hijo de Alfeo», «hermano de Jacobo».",
+        "Y a veces, por un apodo: «el publicano», «el Zelote», «el Dídimo», que quiere decir «gemelo»."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Los nombres cambian según la versión. La RV1909 y la RVR1960 dicen «Jacobo» por Santiago. La RVR1960 dice «Simón el cananista», y la RV1909, «el Cananita». En Lucas 6:16, algunas versiones dicen «Judas hijo de Jacobo», porque el griego solo dice «Judas de Jacobo»."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Las cuatro listas en la Biblia",
+      "items": [
+        { "ref": "Mateo 10:1-4", "nota": "Jesús los envía a predicar y sanar" },
+        { "ref": "Marcos 3:13-19", "nota": "Los elige en el monte" },
+        { "ref": "Lucas 6:12-16", "nota": "Después de orar toda la noche" },
+        { "ref": "Hechos 1:13-14", "nota": "Los once, orando en Jerusalén" },
+        { "ref": "Hechos 1:21-26", "nota": "Matías completa a los Doce" }
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Antes de elegir a los Doce, Jesús pasó la noche orando a Dios (Lucas 6:12). Eligió pescadores, un cobrador de impuestos, un zelote, un hombre que dudaba y uno que lo traicionaría. No buscó a los mejores. Los llamó para estar con él y así transformarlos."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "¿Puedes decir los nombres de los doce amigos que Jesús eligió? Empieza por Pedro y Andrés.",
+      "actividad": "Recorten doce figuras de papel y escriban un nombre en cada una. Agrúpenlas de cuatro en cuatro, como en las listas."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué les dice que Jesús orara toda la noche antes de elegir a los Doce?",
+        "¿Qué apóstol de la lista conocen menos? ¿Por qué creen que la Biblia dice poco de algunos?",
+        "Jesús reunió a personas muy distintas. ¿Cómo se ve eso hoy en nuestra iglesia?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué apóstol aparece primero en las cuatro listas?",
+      "opciones": ["Juan", "Andrés", "Pedro"],
+      "correcta": 2,
+      "explicacion": "Simón Pedro encabeza las cuatro listas (Mateo 10:2; Marcos 3:16; Lucas 6:14; Hechos 1:13)."
+    },
+    {
+      "pregunta": "¿Con qué nombre aparece Tadeo en Lucas y en Hechos?",
+      "opciones": ["Judas hermano de Jacobo", "Simón el Cananita", "Leví, hijo de Alfeo"],
+      "correcta": 0,
+      "explicacion": "Lucas 6:16 y Hechos 1:13 lo llaman «Judas hermano de Jacobo». Mateo lo llama Lebeo o Tadeo."
+    },
+    {
+      "pregunta": "¿Por qué la lista de Hechos 1:13 tiene solo once nombres?",
+      "opciones": ["Porque Tomás no creía", "Porque Judas Iscariote ya no estaba", "Porque Mateo se había ido"],
+      "correcta": 1,
+      "explicacion": "Judas Iscariote ya no estaba. Poco después eligieron a Matías para ocupar su lugar (Hechos 1:26)."
+    }
+  ],
+  "estudio": ["galilea-milagros", "hechos-1-7"],
+  "buscar": "Lucas 6:12-16"
+}

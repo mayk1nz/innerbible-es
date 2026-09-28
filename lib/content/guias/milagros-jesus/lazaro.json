@@ -1,0 +1,109 @@
+{
+  "id": "lazaro",
+  "titulo": "Lázaro, ¡sal fuera!",
+  "subtitulo": "Milagro 33 de 43 · Jesús llora y da vida",
+  "etiquetas": ["Betania, cerca de Jerusalén", "Año 3 · c. 30 d.C.", "Resurrección", "Señal de Juan · 7 de 7"],
+  "enUnMinuto": [
+    "Lázaro, amigo de Jesús, muere en Betania, y sus hermanas Marta y María lloran.",
+    "Jesús llega cuatro días después, llora con ellas y dice: «Yo soy la resurrección y la vida».",
+    "Ante el sepulcro abierto, Jesús llama a Lázaro, y el muerto sale vivo."
+  ],
+  "versiculo": {
+    "texto": "Dícele Jesús: Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá.",
+    "referencia": "Juan 11:25"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 11:1-44", "nota": "Solo lo cuenta Juan. Es la séptima señal de su evangelio." },
+        { "ref": "Juan 11:45-57", "nota": "Después: muchos creen, y los jefes de los sacerdotes deciden matar a Jesús." },
+        { "ref": "Juan 12:1-11", "nota": "Seis días antes de la Pascua, Lázaro cena con Jesús en Betania." },
+        { "ref": "Lucas 10:38-42", "nota": "Otra visita de Jesús a la casa de Marta y María." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "En Betania vivían tres hermanos amigos de Jesús: Marta, María y Lázaro. Lázaro enfermó, y sus hermanas mandaron avisar: «Señor, he aquí, el que amas está enfermo». Jesús los amaba. Aun así, se quedó dos días más donde estaba. Dijo que aquella enfermedad era para la gloria de Dios.",
+        "Cuando llegó, Lázaro llevaba cuatro días en el sepulcro. Marta salió a su encuentro: «Señor, si hubieses estado aquí, mi hermano no fuera muerto». Jesús le dijo: «Yo soy la resurrección y la vida». Y le preguntó: «¿Crees esto?». Ella respondió que creía que él era el Cristo, el Hijo de Dios.",
+        "Luego vino María, llorando, y cayó a sus pies con las mismas palabras. Jesús vio su llanto y el de todos, y se conmovió en su espíritu. Preguntó dónde lo habían puesto. Y Jesús lloró. La gente decía: «Mirad cómo le amaba».",
+        "El sepulcro era una cueva con una piedra encima. Jesús mandó quitar la piedra. Marta dudó, porque ya eran cuatro días. Jesús dio gracias al Padre en voz alta. Después gritó: «Lázaro, ven fuera». Y el muerto salió, atado con vendas. Jesús dijo: «Desatadle, y dejadle ir»."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Betania: una aldea a unos tres kilómetros de Jerusalén. Juan dice «como quince estadios».",
+        "Sudario: la tela con que se cubría el rostro del difunto.",
+        "Cuatro días: Marta lo recuerda porque, a esas alturas, ya no quedaba ninguna esperanza humana."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús es verdadero hombre y verdadero Dios. Llora con sus amigos y, al mismo tiempo, llama a un muerto fuera de la tumba. Que su amor no siempre llega a nuestra hora, pero llega. Y que él mismo es la resurrección y la vida. Esta séptima señal de Juan anuncia la mañana de Pascua."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizá tú también le has dicho a Jesús: «si hubieses estado aquí…». Él no se ofende por esa queja. Escucha, se acerca y llora contigo. El duelo no es falta de fe: Jesús mismo lloró. Pero la muerte no tiene la última palabra. Si has perdido a alguien, puedes llorar con esperanza. Para hoy: pon ante Jesús el nombre de un ser querido que partió y da gracias por su vida."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú lloraste junto a la tumba de tu amigo. Gracias porque entiendes mi dolor. Tú eres la resurrección y la vida. Quita las piedras que me encierran, desata lo que me ata y dame esperanza. Creo en ti. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Lázaro, el amigo de Jesús, murió, y sus hermanas estaban muy tristes. Jesús lloró con ellas. Luego gritó: «Lázaro, ven fuera». ¡Y Lázaro salió vivo! ¿Por qué crees que Jesús lloró?",
+      "actividad": "Recorten una piedra grande de papel. Detrás escriban: «Yo soy la resurrección y la vida», y léanla juntos."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "«Y lloró Jesús» (Juan 11:35) es uno de los versículos más cortos de la Biblia. Y muy poco después, Lázaro estaba sentado a la mesa con Jesús en una cena en Betania (Juan 12:1-2). Mucha gente venía a verlo."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Ezequiel 37:12-13", "nota": "Dios promete abrir los sepulcros de su pueblo y darle vida." },
+        { "ref": "Isaías 25:8", "nota": "Dios destruirá la muerte para siempre y secará toda lágrima." },
+        { "ref": "1 Tesalonicenses 4:13-14", "nota": "Los que creen en Jesús no se entristecen como los que no tienen esperanza." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Lázaro volvió a esta vida, y un día volvería a morir. La resurrección de Jesús es distinta: él vive para siempre. Por eso esta señal apunta hacia la Pascua."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos días llevaba Lázaro en el sepulcro cuando llegó Jesús?",
+      "opciones": ["Dos", "Cuatro", "Siete"],
+      "correcta": 1,
+      "explicacion": "Juan dice que ya había cuatro días que estaba en el sepulcro (Juan 11:17)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Jesús a Marta?",
+      "opciones": ["«Yo soy la puerta»", "«Yo soy el pan de vida»", "«Yo soy la resurrección y la vida»"],
+      "correcta": 2,
+      "explicacion": "Jesús le dijo: «Yo soy la resurrección y la vida» (Juan 11:25), y le preguntó si lo creía."
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que Dios abriría los sepulcros de su pueblo?",
+      "opciones": ["Ezequiel", "Amós", "Jonás"],
+      "correcta": 0,
+      "explicacion": "En Ezequiel 37:12-13 Dios promete abrir los sepulcros y dar vida a su pueblo."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Juan 11:1-44"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "josue",
+  "titulo": "Josué",
+  "subtitulo": "El que guió al pueblo a la tierra prometida",
+  "etiquetas": ["Antiguo Testamento", "Conquista y jueces", "Canaán"],
+  "enUnMinuto": [
+    "Josué es el ayudante fiel de Moisés, y uno de los dos espías que confiaron en Dios.",
+    "Después de Moisés, guía a Israel a cruzar el Jordán y a entrar en la tierra prometida.",
+    "Al final de su vida, invita a todos a elegir a Dios: «yo y mi casa serviremos a Jehová»."
+  ],
+  "versiculo": {
+    "texto": "Mira que te mando que te esfuerces y seas valiente: no temas ni desmayes, porque Jehová tu Dios será contigo en donde quiera que fueres.",
+    "referencia": "Josué 1:9"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Se llamaba Oseas, y Moisés le cambió el nombre por Josué (Números 13:17). Josué quiere decir «el Señor salva». Es el mismo nombre que, en griego, se escribe Jesús.",
+        "Era de la tribu de Efraín, hijo de Nun. La entrada en Canaán fue hacia el 1406 a.C., según el cálculo tradicional; otros la sitúan hacia el 1230 a.C. Murió a los ciento diez años (Josué 24:29)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "El ayudante de Moisés. Josué dirige a Israel en su primera batalla y acompaña a Moisés al monte de Dios (Éxodo 17:9-10; 24:13).",
+        "Siempre cerca de Dios. Cuando Moisés sale de la tienda donde habla con Dios, el joven Josué se queda allí (Éxodo 33:11).",
+        "Un espía con fe. Doce hombres exploran Canaán. Diez tienen miedo; Josué y Caleb dicen que Dios está con ellos (Números 14:6-9).",
+        "El relevo. Dios manda a Moisés poner las manos sobre Josué ante todo el pueblo (Números 27:18-23).",
+        "«Esfuérzate y sé valiente». Muerto Moisés, Dios le promete estar con él como estuvo con Moisés (Josué 1:1-9).",
+        "Rahab. Dos espías entran en Jericó. Rahab los esconde por fe, y después Josué salva su vida y la de su familia (Josué 2; 6:25).",
+        "El Jordán se abre. Los sacerdotes entran en el río con el arca. El agua se detiene y el pueblo cruza en seco (Josué 3:14-17).",
+        "Los muros de Jericó. Siete días rodean la ciudad en silencio y con trompetas. Al grito del pueblo, los muros caen (Josué 6:1-20).",
+        "Un error. Unos vecinos de Gabaón lo engañan con ropa vieja. Josué hace un pacto con ellos sin consultar a Dios (Josué 9:3-15).",
+        "La tierra se reparte. Josué reparte la tierra entre las tribus, y Caleb recibe Hebrón como Dios le había prometido (Josué 14:6-13).",
+        "«Escogeos hoy». Ya anciano, reúne a todo Israel y les pide elegir a quién servir. Él ya eligió (Josué 24:14-15)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Josué y Jesús llevan el mismo nombre: «el Señor salva». Josué llevó al pueblo a la tierra prometida, pero Hebreos dice que ese no fue el descanso final (Hebreos 4:8-9). Jesús nos lleva más lejos: nos da descanso para el alma y un hogar con Dios para siempre (Mateo 11:28)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "La valentía nace de una promesa. Dios no le dijo a Josué que sería fácil, sino que estaría con él. Esta semana: memoriza Josué 1:9.",
+        "Pregunta a Dios antes de decidir. El error de Gabaón llegó por no consultar a Dios. Esta semana: ora antes de tomar una decisión importante.",
+        "La fe se elige cada día. Josué decidió por él y por su casa. Esta semana: oren juntos en familia al menos una vez."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Josué tuvo que ocupar el lugar de un gran líder. Quizás tú también te sientes pequeño para lo que te toca vivir. Dios te dice lo mismo que a él: no temas, porque estaré contigo dondequiera que vayas."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Josué fue sepultado en su tierra de Timnat-sera, en los montes de Efraín (Josué 24:30).",
+        "Mientras vivieron Josué y los ancianos de su generación, Israel sirvió a Dios (Josué 24:31)."
+      ],
+      "tradicion": [
+        "El Talmud, una antigua obra judía, dice que Josué escribió su libro. Solo los versículos sobre su muerte serían de otra mano."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "El libro de Josué narra guerras de una época muy distinta a la nuestra, y no es fácil leerlas. Los cristianos las leen con respeto y a la luz de Jesús. Él nos manda amar aun a los enemigos (Mateo 5:44)."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Números 14:1-10", "nota": "Josué y Caleb confían en Dios" },
+        { "ref": "Números 27:15-23", "nota": "Moisés lo nombra sucesor" },
+        { "ref": "Josué 1:1-9", "nota": "«Esfuérzate y sé valiente»" },
+        { "ref": "Josué 3", "nota": "El paso del Jordán" },
+        { "ref": "Josué 6", "nota": "Los muros de Jericó" },
+        { "ref": "Josué 24", "nota": "Su despedida y su muerte" },
+        { "ref": "Hebreos 11:30-31", "nota": "Jericó y Rahab en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Josué tenía que guiar a mucha gente y le daba miedo. Dios le dijo: «Esfuérzate y sé valiente». ¿Para qué necesitas tú ser valiente?",
+      "actividad": "Para el adulto: Dios le prometió estar con él en todo lugar (Josué 1:9). Marchen juntos siete vueltas alrededor de una mesa y repitan el versículo."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, como a Josué, dame valor para seguirte. Enséñame a preguntarte antes de decidir. Hoy vuelvo a elegir: yo y mi casa te serviremos. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Diez espías vieron gigantes; Josué y Caleb vieron a Dios. ¿Qué miramos nosotros primero ante un problema?",
+        "¿Qué nos enseña el pacto con Gabaón sobre las decisiones rápidas?",
+        "¿Qué significa hoy decir: «yo y mi casa serviremos» al Señor?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué pasó con el río Jordán cuando los sacerdotes entraron con el arca?",
+      "opciones": ["Se desbordó", "El agua se detuvo y cruzaron en seco", "Se volvió sangre"],
+      "correcta": 1,
+      "explicacion": "Las aguas se detuvieron y todo Israel pasó en seco (Josué 3:14-17)."
+    },
+    {
+      "pregunta": "¿Por qué se equivocó Josué con los de Gabaón?",
+      "opciones": ["No consultó a Dios", "Tuvo miedo de pelear", "Desobedeció a Moisés"],
+      "correcta": 0,
+      "explicacion": "Hicieron el pacto sin preguntar al Señor, y los engañaron con ropa vieja (Josué 9:14-15)."
+    },
+    {
+      "pregunta": "¿Qué quiere decir el nombre Josué, el mismo nombre que Jesús?",
+      "opciones": ["Hijo de la promesa", "Fuerte en batalla", "El Señor salva"],
+      "correcta": 2,
+      "explicacion": "Josué y Jesús son el mismo nombre en hebreo y en griego: «el Señor salva»."
+    }
+  ],
+  "estudio": ["josue", "numeros"],
+  "buscar": "Josué"
+}

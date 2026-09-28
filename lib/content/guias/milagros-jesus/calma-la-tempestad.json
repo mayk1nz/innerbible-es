@@ -1,0 +1,91 @@
+{
+  "id": "calma-la-tempestad",
+  "titulo": "Jesús calma la tempestad",
+  "subtitulo": "Milagro 14 de 43 · «Calla, enmudece»",
+  "etiquetas": ["Mar de Galilea", "Año 2 · c. 28 d.C.", "Naturaleza y provisión", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Mientras cruzan el lago, se levanta una tormenta tan fuerte que la barca se llena de agua.",
+    "Jesús duerme; los discípulos lo despiertan asustados, y él manda callar al viento y al mar.",
+    "Llega una gran calma, y ellos se preguntan quién es este a quien la naturaleza obedece."
+  ],
+  "versiculo": {
+    "texto": "Y levantándose, increpó al viento, y dijo a la mar: Calla, enmudece. Y cesó el viento, y fue hecha grande bonanza.",
+    "referencia": "Marcos 4:39"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 8:23-27", "nota": "Mateo recoge el grito: «Señor, sálvanos, que perecemos»." },
+        { "ref": "Marcos 4:35-41", "nota": "Marcos da detalles: era de tarde y Jesús dormía sobre un cabezal." },
+        { "ref": "Lucas 8:22-25", "nota": "Lucas cuenta la pregunta de Jesús: «¿Qué es de vuestra fe?»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Al caer la tarde, después de un largo día enseñando, Jesús dijo a sus discípulos: «Pasemos de la otra parte». Dejaron a la gente y subieron a la barca. Otras barcas iban con ellos.",
+        "De pronto se levantó una gran tempestad de viento. Las olas entraban en la barca, y ya se estaba llenando de agua. Varios discípulos eran pescadores y conocían el lago, pero tuvieron miedo. Mientras tanto, Jesús dormía en la parte de atrás, con la cabeza sobre un cabezal.",
+        "Lo despertaron gritando: «¿Maestro, no tienes cuidado que perecemos?». Jesús se levantó, reprendió al viento y dijo al mar: «Calla, enmudece». El viento se detuvo, y todo quedó en una gran calma.",
+        "Luego les preguntó: «¿Por qué estáis así amedrentados? ¿Cómo no tenéis fe?». Ellos sintieron un temor todavía más grande. Se decían unos a otros: «¿Quién es éste, que aun el viento y la mar le obedecen?»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús es verdadero hombre: se cansa y se duerme en una barca. Y tiene la autoridad que la Biblia atribuye a Dios sobre el mar y el viento. Con dos palabras trae la calma. La pregunta de los discípulos queda abierta para el lector. ¿Quién es éste? Los evangelios van respondiendo: es el Hijo de Dios."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Hay tormentas que llegan de repente: una noticia, una pérdida, una deuda. Como los discípulos, a veces sentimos que a Jesús no le importa. Pero él estaba en la misma barca. Tu miedo no lo ofende: llévaselo, aunque sea gritando. Para hoy: nombra tu tormenta y repite despacio: «Calla, enmudece», pidiéndole su paz."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú estás en mi barca aunque parezcas dormido. Te traigo el viento que me asusta. Habla a mi tormenta y a mi corazón. Dame tu calma y una fe que confíe en ti. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús y sus amigos iban en una barca cuando vino una tormenta enorme. ¡Jesús estaba dormido! Lo despertaron, y él le dijo al viento: «Calla». Y todo quedó en calma. ¿Qué te da miedo cuando hay tormenta?",
+      "actividad": "Hagan un barquito de papel y pónganlo en un recipiente con agua. Soplen fuerte y después dejen el agua tranquila."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? El mar de Galilea es un lago rodeado de colinas. Todavía hoy pueden levantarse allí vientos fuertes y repentinos, sobre todo por la tarde."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Salmos 107:23-30", "nota": "Los marineros claman en la tormenta. Y de Dios dice: «Hace parar la tempestad en sosiego»." },
+        { "ref": "Jonás 1:4-6", "nota": "Otro que dormía en medio de una tormenta, pero huyendo de Dios." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hacía Jesús cuando empezó la tormenta?",
+      "opciones": ["Remaba con los discípulos", "Dormía en la barca", "Oraba en el monte"],
+      "correcta": 1,
+      "explicacion": "Estaba en la popa, durmiendo sobre un cabezal (Marcos 4:38)."
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús al mar?",
+      "opciones": ["Aquiétate por un rato", "Vuelve a tu lugar", "Calla, enmudece"],
+      "correcta": 2,
+      "explicacion": "Dijo a la mar: Calla, enmudece. Y cesó el viento (Marcos 4:39)."
+    },
+    {
+      "pregunta": "¿Qué salmo habla de Dios calmando la tempestad de los marineros?",
+      "opciones": ["El Salmo 107", "El Salmo 1", "El Salmo 150"],
+      "correcta": 0,
+      "explicacion": "El Salmo 107 dice que Dios hace parar la tempestad en sosiego (Salmos 107:29)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 4:35-41"
+}

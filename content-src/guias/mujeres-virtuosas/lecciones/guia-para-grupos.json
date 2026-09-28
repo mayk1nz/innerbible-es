@@ -1,0 +1,136 @@
+{
+  "id": "guia-para-grupos",
+  "titulo": "Cómo usar esta guía en grupo",
+  "subtitulo": "Un encuentro de 45 minutos, paso a paso",
+  "etiquetas": ["Introducción", "Para quien guía", "Células y grupos de mujeres"],
+  "enUnMinuto": [
+    "Cada ficha sirve para un encuentro de unos 45 minutos en una célula, un grupo de mujeres o en familia.",
+    "Se lee la historia en la Biblia, se conversa con las preguntas y se ora juntas.",
+    "Quien guía no necesita saberlo todo: solo preparar el corazón, escuchar y dejar que la Palabra hable."
+  ],
+  "versiculo": {
+    "texto": "Porque donde están dos o tres congregados en mi nombre, allí estoy en medio de ellos.",
+    "referencia": "Mateo 18:20"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Para quién es esta página",
+      "parrafos": [
+        "Es para ti, que guías una célula, un grupo de mujeres, un círculo bíblico o una reunión en casa. También sirve para madres y abuelas que leen con sus hijos y nietos.",
+        "No hace falta ser pastora ni maestra. Basta con amar a Dios, preparar el tema con tiempo y cuidar a las personas. Jesús prometió estar en medio de los que se reúnen en su nombre. Él es el verdadero maestro del grupo."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Un encuentro de 45 minutos",
+      "items": [
+        "Bienvenida y pregunta para romper el hielo (5 minutos).",
+        "Lectura del pasaje en la Biblia, en voz alta y por turnos (10 minutos).",
+        "Alguien cuenta con sus palabras la historia, o se lee la parte Su historia (5 minutos).",
+        "Conversación con las preguntas de la ficha. Elige dos o tres; no hace falta usarlas todas (15 minutos).",
+        "Para tu vida hoy: cada una elige una acción pequeña para la semana (5 minutos).",
+        "Oración juntas, con la oración de la ficha o con palabras propias (5 minutos)."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Antes del encuentro",
+      "items": [
+        "Lee el pasaje bíblico dos veces durante la semana, sin prisa.",
+        "Lee la ficha completa y marca las preguntas que mejor sirven a tu grupo.",
+        "Ora por cada persona del grupo por su nombre.",
+        "Ten a mano Biblias, papel, lápices y, si hay niños, colores."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Primero, lo que Dios hizo",
+      "tono": "navy",
+      "texto": "Antes de preguntar “¿qué debo hacer yo?”, pregunten “¿qué hizo Dios en esta historia?”. Así el grupo no termina en culpa, sino en gratitud. Estas mujeres no son modelos perfectos. Son testigos de un Dios fiel, y ese Dios se muestra por completo en Jesús."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cuidar a las personas",
+      "items": [
+        "Nadie está obligada a hablar ni a leer en voz alta. Invita, no presiones.",
+        "Lo que se comparte en el grupo se queda en el grupo.",
+        "Escucha más de lo que hablas. No corras a dar consejos ni respuestas rápidas.",
+        "Temas como la infertilidad, la viudez o la migración pueden doler. Trátalos con ternura.",
+        "Si alguien cuenta que sufre violencia o abuso, háblale en privado y busca ayuda de tu pastor o de un profesional."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Algunas fichas tocan temas delicados, como Rahab o Débora y Jael. Cuéntalos con respeto y sin detalles crudos. Si hay niños presentes, usa solo la parte para niños de la ficha."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Grupos mixtos, jóvenes y niños",
+      "items": [
+        "Cada ficha trae ideas para hombres y jóvenes en Para tu vida hoy. Úsalas si el grupo es mixto.",
+        "Con adolescentes, pide que cuenten la historia como si fuera una noticia de hoy.",
+        "Con niños, lee el bloque para ellos y haz la actividad mientras los adultos conversan."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Series posibles",
+      "items": [
+        "En orden: una ficha por semana, de Eva en adelante. Así el grupo recorre la historia de la Biblia.",
+        "Cuando la espera duele: Sara, Raquel, Ana y la sunamita.",
+        "Viudez y nuevos comienzos: Noemí, Rut y la viuda de Sarepta.",
+        "Valentía que protege: Sifra y Fúa, Jocabed, Rahab, Abigail y la niña de la casa de Naamán.",
+        "La Palabra y el liderazgo: Miriam, las hijas de Zelofehad, Débora y Hulda."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si te sientes poco preparada para guiar, no estás sola. Moisés, Barac y muchos otros también dudaron. Dios no busca expertas, busca corazones disponibles. Prepara lo que puedas, confía el resto al Espíritu Santo y disfruta de ver a tu grupo crecer."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Preguntas para cualquier ficha",
+      "items": [
+        "¿Qué te sorprendió de esta historia al leerla hoy?",
+        "¿Dónde ves a Dios actuando, aunque no se nombre?",
+        "¿Con qué parte de la vida de esta mujer te identificas?",
+        "¿Qué nos muestra esta historia sobre Jesús?",
+        "¿Qué paso pequeño puedes dar esta semana?"
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú prometiste estar en medio de nosotras. Prepara mi corazón y el de cada persona del grupo. Dame oídos para escuchar y palabras sencillas para animar. Que al final no hablemos de nosotras, sino de ti. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Cuando el grupo se reúne, tú también puedes participar. Puedes leer un versículo, hacer un dibujo o pedir por alguien. ¿Por quién te gustaría orar hoy?",
+      "actividad": "Dibuja a tu familia o a tu grupo sentados en círculo. En el centro, dibuja una Biblia abierta."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuánto dura el encuentro que propone esta guía?",
+      "opciones": ["Unos 15 minutos", "Unos 45 minutos", "Unas dos horas"],
+      "correcta": 1,
+      "explicacion": "El encuentro propuesto dura unos 45 minutos: bienvenida, lectura, conversación, aplicación y oración."
+    },
+    {
+      "pregunta": "Si alguien cuenta en el grupo que sufre violencia, ¿qué conviene hacer?",
+      "opciones": ["Hablarle en privado y buscar ayuda", "Pedirle que lo cuente a todo el grupo", "Cambiar de tema y no volver a hablarlo"],
+      "correcta": 0,
+      "explicacion": "Se le habla en privado y se busca la ayuda del pastor o de un profesional. Cuidar a la persona es lo primero."
+    },
+    {
+      "pregunta": "¿Qué prometió Jesús a los que se reúnen en su nombre, según Mateo 18:20?",
+      "opciones": ["Que nunca tendrán problemas", "Que siempre estarán de acuerdo", "Que Él estará en medio de ellos"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo que donde están dos o tres congregados en su nombre, allí está Él en medio de ellos."
+    }
+  ],
+  "estudio": ["como-usar"],
+  "buscar": "Mateo 18:20"
+}

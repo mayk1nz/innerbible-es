@@ -1,0 +1,100 @@
+{
+  "id": "bartimeo",
+  "titulo": "Bartimeo y los ciegos de Jericó",
+  "subtitulo": "Milagro 35 de 43 · Jesús se detiene por uno",
+  "etiquetas": ["Jericó, en el valle del Jordán", "Año 3 · c. 30 d.C.", "Curación"],
+  "enUnMinuto": [
+    "En Jericó, un ciego llamado Bartimeo grita a Jesús, aunque todos le mandan callar.",
+    "Jesús se detiene, lo llama y le pregunta: «¿Qué quieres que te haga?».",
+    "Bartimeo recibe la vista y sigue a Jesús por el camino."
+  ],
+  "versiculo": {
+    "texto": "Y Jesús le dijo: Ve, tu fe te ha salvado. Y luego cobró la vista, y seguía a Jesús en el camino.",
+    "referencia": "Marcos 10:52"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 20:29-34", "nota": "Mateo recuerda a dos ciegos, al salir de Jericó." },
+        { "ref": "Marcos 10:46-52", "nota": "Marcos da el nombre: Bartimeo, hijo de Timeo." },
+        { "ref": "Lucas 18:35-43", "nota": "Lucas cuenta que todo el pueblo alabó a Dios." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús subía a Jerusalén para la Pascua, rodeado de mucha gente. Al pasar por Jericó, un ciego llamado Bartimeo estaba sentado junto al camino pidiendo limosna. Oyó que pasaba Jesús de Nazaret. Y empezó a gritar: «Jesús, Hijo de David, ten misericordia de mí».",
+        "Muchos lo regañaban para que se callara. Pero él gritaba todavía más fuerte. Jesús se detuvo y mandó llamarlo. Entonces le dijeron: «Ten confianza: levántate, te llama». Bartimeo tiró su capa, se levantó y fue hacia Jesús.",
+        "Jesús le preguntó: «¿Qué quieres que te haga?». Él respondió: «Maestro, que cobre la vista». Jesús le dijo: «Ve, tu fe te ha salvado». Al instante vio. Y en lugar de irse, siguió a Jesús por el camino, alabando a Dios."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Jericó: ciudad del valle del Jordán. Desde allí se subía a Jerusalén en una jornada de camino.",
+        "Hijo de David: así llamaban al Mesías, el rey prometido de la familia de David.",
+        "Capa: el manto que servía de abrigo de día y de noche. Quizá era lo único que tenía."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús se detiene por uno. Iba hacia la cruz, rodeado de multitudes, y se paró por un mendigo al que todos mandaban callar. Que respeta a la persona: le pregunta qué quiere, aunque la respuesta parezca obvia. Y que la fe se convierte en camino. Bartimeo recibió la vista y siguió a Jesús."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizá hay voces que te dicen que te calles, que tu clamor molesta o no vale la pena. Bartimeo no les hizo caso. Jesús te hace hoy la misma pregunta: ¿qué quieres que haga por ti? Díselo con palabras concretas. Y si algo te frena, como aquella capa, suéltalo para ir hacia él. Para hoy: escribe tu respuesta a esa pregunta y ora con ella."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, Hijo de David, ten misericordia de mí. Tú te detienes cuando te llamo. Hoy te digo lo que necesito, con sencillez. Ayúdame a soltar lo que me frena y a seguirte en el camino. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Bartimeo no veía y pedía limosna junto al camino. Gritó a Jesús, aunque la gente le decía que se callara. Jesús se detuvo, lo llamó, ¡y Bartimeo pudo ver! ¿Qué le pedirías tú a Jesús hoy?",
+      "actividad": "Jueguen a que alguien llama desde lejos y los demás se detienen a escuchar. Conversen: Jesús siempre escucha."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo recuerda a dos ciegos; Marcos y Lucas se fijan en uno, y Marcos nos da su nombre: Bartimeo. También sitúan el hecho al salir o al llegar a Jericó. Es como cuando tres testigos cuentan el mismo hecho, cada uno desde donde estaba."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco en la Biblia",
+      "items": [
+        { "ref": "Isaías 35:5", "nota": "Cuando Dios venga, los ojos de los ciegos serán abiertos." },
+        { "ref": "Lucas 4:18", "nota": "Jesús anuncia en Nazaret que vino a dar vista a los ciegos." },
+        { "ref": "Jeremías 23:5", "nota": "Dios promete levantar a David un renuevo justo que reinará." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué tiró Bartimeo para ir hacia Jesús?",
+      "opciones": ["Su bastón", "Su capa", "Su plato"],
+      "correcta": 1,
+      "explicacion": "Marcos cuenta que echó su capa, se levantó y vino a Jesús (Marcos 10:50)."
+    },
+    {
+      "pregunta": "¿Qué le preguntó Jesús a Bartimeo?",
+      "opciones": ["«¿Crees esto?»", "«¿Me amas?»", "«¿Qué quieres que te haga?»"],
+      "correcta": 2,
+      "explicacion": "Jesús le preguntó qué quería, y él respondió: «Maestro, que cobre la vista»."
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que los ojos de los ciegos serían abiertos?",
+      "opciones": ["Isaías", "Nahúm", "Abdías"],
+      "correcta": 0,
+      "explicacion": "Isaías 35:5 lo anuncia como señal de que Dios viene a salvar."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Marcos 10:46-52"
+}

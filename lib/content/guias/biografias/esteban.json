@@ -1,0 +1,124 @@
+{
+  "id": "esteban",
+  "titulo": "Esteban",
+  "subtitulo": "El primer mártir de la Iglesia",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén"],
+  "enUnMinuto": [
+    "Esteban era uno de los siete hombres elegidos para servir a las viudas de la primera iglesia.",
+    "Lleno de fe y del Espíritu Santo, habló de Jesús con valentía ante el consejo de Jerusalén.",
+    "Lo mataron por su fe, y murió como Jesús: perdonando a quienes le hacían daño."
+  ],
+  "versiculo": {
+    "texto": "Y puesto de rodillas, clamó a gran voz: Señor, no les imputes este pecado. Y habiendo dicho esto, durmió.",
+    "referencia": "Hechos 7:60"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Esteban era un judío de lengua griega que creía en Jesús y vivía en Jerusalén. Su nombre es griego, Stéfanos, y significa “corona”. Hechos lo describe como un hombre «lleno de fe y de Espíritu Santo» (Hechos 6:5).",
+        "Lo llamamos el primer mártir. “Mártir” viene de una palabra griega que significa “testigo”. Pablo mismo lo llamó así: «Esteban tu testigo» (Hechos 22:20)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un problema en la iglesia. Las viudas de habla griega quedaban olvidadas en el reparto diario de comida. Los apóstoles pidieron elegir a siete hombres para ese servicio (Hechos 6:1-4).",
+        "Elegido para servir. La iglesia eligió a Esteban, a Felipe y a otros cinco. Los apóstoles oraron y les pusieron las manos encima (Hechos 6:5-6).",
+        "Gracia y poder. Esteban hacía grandes señales entre el pueblo. Algunos de una sinagoga discutieron con él, pero no podían resistir su sabiduría (Hechos 6:8-10).",
+        "Testigos falsos. Esos hombres pagaron a otros para acusarlo de hablar contra Moisés y el templo. Lo llevaron ante el consejo (Hechos 6:11-14).",
+        "Un rostro de ángel. Todos los del consejo lo miraron y vieron su rostro como el de un ángel (Hechos 6:15).",
+        "Un repaso de la historia. Esteban contó la historia de Israel, desde Abraham hasta Salomón. Mostró que Dios siempre guio a su pueblo, aunque muchas veces le costó escuchar (Hechos 7:1-50).",
+        "Palabras que dolieron. Al final, acusó a sus jueces de resistir al Espíritu Santo, como antes se resistió a los profetas. Ellos se llenaron de ira (Hechos 7:51-54).",
+        "Los cielos abiertos. Lleno del Espíritu, Esteban miró al cielo y vio a Jesús de pie a la derecha de Dios (Hechos 7:55-56).",
+        "Muere perdonando. Lo sacaron de la ciudad y lo apedrearon. Esteban oró: «Señor Jesús, recibe mi espíritu». De rodillas, pidió perdón para ellos (Hechos 7:57-60).",
+        "Una semilla que da fruto. Saulo estaba allí y aprobaba su muerte. Muchos creyentes huyeron y anunciaron a Jesús en otras tierras (Hechos 8:1-4; 11:19)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Esteban murió como su Maestro. Jesús dijo en la cruz: «Padre, perdónalos» (Lucas 23:34). Esteban dijo: «Señor, no les imputes este pecado». Jesús entregó su espíritu al Padre, y Esteban se lo entregó a Jesús. Y Jesús, de pie en el cielo, recibió a su testigo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Ningún servicio es pequeño. Esteban empezó repartiendo comida a viudas. Esta semana, ofrécete para una tarea sencilla que nadie quiere hacer en tu iglesia o tu casa.",
+        "Perdonar es posible con Jesús. Esteban perdonó en el peor momento. Esta semana, di en oración el nombre de alguien que te hirió y pide a Dios que lo bendiga.",
+        "Mirar al cielo en la prueba. Esteban vio a Jesús cuando todo era oscuro. Esta semana, cuando tengas miedo, detente y ora: “Señor Jesús, recibe mi vida”."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Esteban no guardó rencor. Soltó a sus acusadores en manos de Dios. ¿A quién necesitas soltar tú hoy? No tienes que sentirlo todo de golpe. Empieza con una oración sincera."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era uno de los siete elegidos para servir a las mesas (Hechos 6:3-5).",
+        "Hacía grandes señales entre el pueblo (Hechos 6:8).",
+        "Es el primer seguidor de Jesús que, según la Biblia, murió por su fe (Hechos 7:58-60).",
+        "Hombres piadosos lo enterraron y lloraron mucho por él (Hechos 8:2)."
+      ],
+      "tradicion": [
+        "Muchas iglesias ven a los siete como los primeros diáconos. Hechos no usa esa palabra para ellos.",
+        "La Iglesia católica recuerda a Esteban el 26 de diciembre, y las ortodoxas el 27. Así, el primer mártir sigue a la Navidad.",
+        "Según un relato del siglo V, sus restos se hallaron cerca de Jerusalén en el año 415."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Esteban era judío, como los apóstoles y como sus acusadores. No fue una lucha entre pueblos. Lo acusaron unos hombres concretos y lo juzgó el consejo de aquel tiempo."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Hechos 6:1-7", "nota": "Los siete servidores" },
+        { "ref": "Hechos 6:8-15", "nota": "Acusado con testigos falsos" },
+        { "ref": "Hechos 7:1-53", "nota": "Su discurso ante el consejo" },
+        { "ref": "Hechos 7:54-8:2", "nota": "Su muerte y su sepultura" },
+        { "ref": "Hechos 11:19", "nota": "La buena noticia se extiende" },
+        { "ref": "Hechos 22:20", "nota": "Pablo lo recuerda" },
+        { "ref": "Lucas 23:34", "nota": "El perdón de Jesús en la cruz" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Esteban perdonó a quienes le hacían daño, como hizo Jesús. ¿Hay alguien a quien te cuesta perdonar?",
+      "actividad": "Para papás y abuelos: Esteban pidió a Dios perdón para otros (Hechos 7:60). Oren juntos por alguien que molestó al niño, con palabras sencillas."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, dame la fe de Esteban. Que te sirva con alegría en lo pequeño. Y cuando me hieran, enséñame a perdonar como tú perdonaste. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Para qué servicio fue elegido Esteban al principio?",
+      "opciones": ["Para cuidar el templo", "Para escribir un Evangelio", "Para servir a las viudas en las mesas"],
+      "correcta": 2,
+      "explicacion": "Fue uno de los siete elegidos para el reparto diario a las viudas (Hechos 6:1-5)."
+    },
+    {
+      "pregunta": "¿Qué vio Esteban al mirar al cielo?",
+      "opciones": ["A Jesús a la derecha de Dios", "Un carro de fuego", "Una escalera con ángeles"],
+      "correcta": 0,
+      "explicacion": "Vio la gloria de Dios y a Jesús a su derecha (Hechos 7:55-56)."
+    },
+    {
+      "pregunta": "¿Qué joven estaba presente en la muerte de Esteban?",
+      "opciones": ["Timoteo", "Saulo, que después sería Pablo", "Juan Marcos"],
+      "correcta": 1,
+      "explicacion": "Los testigos dejaron sus ropas a los pies de un joven llamado Saulo (Hechos 7:58)."
+    }
+  ],
+  "estudio": ["hechos-1-7"],
+  "buscar": "Esteban"
+}

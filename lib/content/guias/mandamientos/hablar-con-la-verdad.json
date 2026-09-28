@@ -1,0 +1,128 @@
+{
+  "id": "hablar-con-la-verdad",
+  "titulo": "Hablar con la verdad",
+  "subtitulo": "Evangélico: 9.º · Católico: 8.º",
+  "etiquetas": ["Éxodo 20:16", "Amor al prójimo"],
+  "enUnMinuto": [
+    "Dios pide no decir mentiras que dañen a otros, sobre todo para acusarlos o arruinar su nombre.",
+    "Jesús es «la verdad», y él mismo sufrió el daño de los testigos falsos.",
+    "Hablar con la verdad es también hablar con amor: sin chismes, sin exagerar y sin herir."
+  ],
+  "versiculo": {
+    "texto": "No hablarás contra tu prójimo falso testimonio.",
+    "referencia": "Éxodo 20:16"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "La Palabra",
+      "items": [
+        { "ref": "Éxodo 20:16", "nota": "“Falso testimonio” es declarar algo falso sobre otra persona, sobre todo en un juicio." },
+        { "ref": "Deuteronomio 5:20", "nota": "Moisés lo dice así: «No dirás falso testimonio contra tu prójimo»." },
+        { "ref": "Proverbios 12:22", "nota": "Dios se alegra con los que obran con verdad." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Qué significa en palabras simples",
+      "parrafos": [
+        "Dios te pide no mentir sobre otras personas. No acusarlas de algo que no hicieron. No inventar ni repetir chismes que dañan su nombre.",
+        "Un “testimonio” es lo que alguien declara que vio u oyó. El “prójimo” es cualquier persona cercana: tu vecino, tu compañero, el que tienes al lado.",
+        "La tradición católica lo resume así: “No dirás falso testimonio ni mentirás”. En el fondo, Dios quiere que tu palabra sea digna de confianza."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un poco de contexto",
+      "parrafos": [
+        "En Israel, los juicios dependían de los testigos. Un testigo falso podía arruinar a un inocente, y hasta costarle la vida. Por eso la ley pedía por lo menos dos o tres testigos (Deuteronomio 19:15).",
+        "Eso le pasó a Nabot. Dos hombres declararon en falso contra él, y lo mataron a pedradas (1 Reyes 21:13). Así el rey Acab se quedó con su viña. Una mentira puede destruir una vida."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Cómo Jesús lo vivió y lo enseñó",
+      "tono": "navy",
+      "texto": "Jesús dijo: «Yo soy el camino, y la verdad, y la vida» (Juan 14:6). Y él mismo sufrió este pecado. Ante el concilio, se presentaron muchos testigos falsos contra él (Mateo 26:60). Jesús no respondió con mentiras ni con insultos: «Mas Jesús callaba» (Mateo 26:63). También enseñó que la verdad nos hace libres (Juan 8:32)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "En tu día a día",
+      "items": [
+        "Niños: si rompiste algo, dilo aunque te dé miedo. Decir la verdad es de valientes.",
+        "Jóvenes: no compartas rumores ni capturas de pantalla para humillar a alguien. Antes de reenviar, pregúntate si es verdad y si ayuda.",
+        "Adultos: no exageres en el trabajo ni escondas errores. Habla de quien no está como si estuviera presente.",
+        "Mayores: usa tu experiencia para calmar los chismes en la familia. Una palabra sabia puede apagar un incendio.",
+        "Todos: di la verdad «en amor» (Efesios 4:15). Una verdad dicha para herir también hace daño."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Cuando fallamos con la lengua",
+      "parrafos": [
+        "Pedro negó tres veces que conocía a Jesús, y después «lloró amargamente» (Mateo 26:75). Pero Jesús resucitado lo buscó. Tres veces le preguntó: «¿me amas?» (Juan 21:15-17). No lo avergonzó: lo restauró. Si mentiste, habla con Dios. Pide perdón a quien dañaste y, si puedes, repara su nombre."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Pasa un día entero sin exagerar y sin “mentiras piadosas”.",
+        "Antes de reenviar un mensaje, averigua si es verdad.",
+        "Si escuchas un chisme, cambia de tema con amabilidad.",
+        "Di algo bueno y verdadero de alguien que no está presente.",
+        "Reconoce un error tuyo sin buscar excusas.",
+        "Si dañaste el nombre de alguien, habla con quien te escuchó y corrige lo que dijiste.",
+        "Aprende Efesios 4:25 de memoria y ora por tus palabras de cada día."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Versículos para seguir leyendo",
+      "items": [
+        { "ref": "Efesios 4:25", "nota": "Dejar la mentira y hablar verdad unos con otros." },
+        { "ref": "Juan 8:32", "nota": "«la verdad os libertará»." },
+        { "ref": "Santiago 3:5", "nota": "La lengua es pequeña, pero puede encender un gran bosque." },
+        { "ref": "Mateo 26:59-63", "nota": "Jesús ante los testigos falsos." },
+        { "ref": "Juan 21:15-17", "nota": "Jesús restaura a Pedro después de sus negaciones." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "La verdad es como una luz: cuando la dices, todo queda claro. Las mentiras esconden cosas y lastiman a otros. Jesús siempre dijo la verdad, ¡y te ayuda a decirla tú también!",
+      "actividad": "Juego en familia: uno dice una frase y los demás gritan “¡verdad!” o “¡mentira!”. Terminen diciendo algo bueno y verdadero de cada uno."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Jesús, tú eres la verdad. Limpia mi boca de mentiras, chismes y palabras que hieren. Dame valor para decir la verdad y amor para decirla bien. Perdóname, y ayúdame a reparar lo que dañé. Amén."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Tu palabra es como tu firma. Cada vez que dices la verdad, los demás pueden confiar un poco más en ti y en el Dios que sigues. Esta semana, antes de hablar de otro, usa tres filtros: ¿es verdad?, ¿es necesario?, ¿lo digo con amor?"
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué es un “falso testimonio”?",
+      "opciones": ["Olvidar una promesa", "Declarar algo falso sobre otra persona", "Hablar muy poco"],
+      "correcta": 1,
+      "explicacion": "Es acusar o hablar de alguien con mentiras, como pasó con Nabot (1 Reyes 21:13)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús ante los testigos falsos?",
+      "opciones": ["Callaba", "Les respondió con insultos", "Huyó del concilio"],
+      "correcta": 0,
+      "explicacion": "«Mas Jesús callaba» (Mateo 26:63). No devolvió mentira por mentira."
+    },
+    {
+      "pregunta": "¿Cómo pide Pablo que sigamos la verdad?",
+      "opciones": ["En voz muy alta", "Solo con los amigos", "En amor"],
+      "correcta": 2,
+      "explicacion": "«siguiendo la verdad en amor» (Efesios 4:15)."
+    }
+  ],
+  "estudio": ["exodo", "pasion-y-muerte"],
+  "buscar": "Éxodo 20:16"
+}

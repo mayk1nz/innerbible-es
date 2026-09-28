@@ -1,0 +1,144 @@
+{
+  "id": "dos-maneras-de-contarlos",
+  "titulo": "¿Por qué hay dos maneras de contarlos?",
+  "subtitulo": "Evangélicos y católicos: el mismo texto de Dios",
+  "etiquetas": ["Antes de empezar", "Éxodo 20 y Deuteronomio 5"],
+  "enUnMinuto": [
+    "La Biblia habla de «las diez palabras», pero no les pone números.",
+    "Con los siglos, los cristianos agruparon los versículos de dos maneras, y por eso los números cambian.",
+    "Ninguna manera quita ni agrega nada a lo que Dios dijo."
+  ],
+  "versiculo": {
+    "texto": "Y él os anunció su pacto, el cual os mandó poner por obra, las diez palabras; y escribiolas en dos tablas de piedra.",
+    "referencia": "Deuteronomio 4:13"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "El mismo texto, dos maneras de contar",
+      "parrafos": [
+        "Si abres Éxodo 20:3-17, no vas a encontrar números. Dios dio «las diez palabras» (Deuteronomio 4:13). Pero el texto no marca dónde termina una y dónde empieza la otra. Algunos versículos se pueden leer juntos o separados.",
+        "Por eso, a lo largo de la historia, nacieron distintas maneras de contarlos. Todas usan las mismas palabras de Dios. Todas llegan a diez. Solo cambia dónde se pone cada número."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Dónde está la diferencia?",
+      "parrafos": [
+        "La cuenta cambia en dos lugares. El primero está al comienzo: “No tendrás dioses ajenos” y “No te harás imagen” (Éxodo 20:3-6). ¿Es un solo mandamiento o son dos?",
+        "El segundo está al final: “No codiciarás” (Éxodo 20:17). Ese versículo habla de la casa del prójimo y también de su mujer. ¿Es un solo mandamiento o son dos?",
+        "Si juntas los del comienzo, tienes que separar el del final para llegar a diez. Si separas los del comienzo, juntas el del final. Así de sencillo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Cómo cuenta cada tradición",
+      "parrafos": [
+        "Los católicos, y también los luteranos, siguen la división que enseñó San Agustín hace unos mil seiscientos años. Juntan “dioses ajenos” e “imagen” en el primero. Y separan la codicia en dos: el noveno y el décimo.",
+        "Deuteronomio 5:21 ayuda a entender esa división. Allí “la mujer de tu prójimo” va primero. Los bienes van después, con otro verbo: «ni desearás la casa de tu prójimo».",
+        "Los evangélicos y los ortodoxos siguen otra división, también muy antigua. Cuentan “imagen” como segundo mandamiento y dejan la codicia en uno solo, el décimo.",
+        "El pueblo judío, por su parte, cuenta como primera palabra la presentación de Dios: «Yo soy Jehová tu Dios» (Éxodo 20:2). Muchos evangélicos memorizan los mandamientos con las palabras de Éxodo 20. Muchos católicos los aprenden con frases cortas del catecismo."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lado a lado, en el orden de la Biblia",
+      "items": [
+        "Solo Dios en el primer lugar (Éxodo 20:3). Evangélico: 1.º · Católico: 1.º",
+        "Adorar solo a Dios (Éxodo 20:4-6). Evangélico: 2.º · Católico: parte del 1.º",
+        "El nombre de Dios es santo (Éxodo 20:7). Evangélico: 3.º · Católico: 2.º",
+        "Un día para Dios y para descansar (Éxodo 20:8-11). Evangélico: 4.º · Católico: 3.º",
+        "Honra a tu padre y a tu madre (Éxodo 20:12). Evangélico: 5.º · Católico: 4.º",
+        "Cuidar la vida (Éxodo 20:13). Evangélico: 6.º · Católico: 5.º",
+        "Fidelidad y pureza (Éxodo 20:14). Evangélico: 7.º · Católico: 6.º",
+        "Lo que es de otro, es de otro (Éxodo 20:15). Evangélico: 8.º · Católico: 7.º",
+        "Hablar con la verdad (Éxodo 20:16). Evangélico: 9.º · Católico: 8.º",
+        "Un corazón contento (Éxodo 20:17). Evangélico: 10.º · Católico: 9.º y 10.º"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Las frases cortas del catecismo católico",
+      "items": [
+        "1.º Amarás a Dios sobre todas las cosas.",
+        "2.º No tomarás el nombre de Dios en vano.",
+        "3.º Santificarás las fiestas.",
+        "4.º Honrarás a tu padre y a tu madre.",
+        "5.º No matarás.",
+        "6.º No cometerás actos impuros.",
+        "7.º No robarás.",
+        "8.º No dirás falso testimonio ni mentirás.",
+        "9.º No consentirás pensamientos ni deseos impuros.",
+        "10.º No codiciarás los bienes ajenos."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús y las diez palabras",
+      "tono": "navy",
+      "texto": "Un joven rico le preguntó a Jesús qué mandamientos debía guardar. Jesús nombró varios, sin números y en otro orden: «No matarás: No adulterarás: No hurtarás» (Mateo 19:18). A Jesús no le preocupaba el número. Le importaba el corazón. Por eso resumió toda la ley en dos amores: a Dios y al prójimo."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que nos une",
+      "tono": "gold",
+      "texto": "Ninguna manera de contar quita ni agrega nada a lo que Dios dijo. El texto es el mismo para todos. Si en tu iglesia aprendiste otro número, no estás equivocado. Aprendiste otra forma de ordenar las mismas palabras. Lo que de verdad importa es vivirlas."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Lee Éxodo 20:1-17 y cuenta tú mismo los mandamientos. ¿Dónde pondrías cada número?",
+        "Lee Deuteronomio 5:6-21 y busca una diferencia con Éxodo 20.",
+        "Compara Éxodo 20:17 con Deuteronomio 5:21. ¿Qué cambió de lugar?",
+        "Pregunta a alguien de otra iglesia cómo aprendió los mandamientos. Escucha sin discutir.",
+        "Aprende de memoria los tres primeros, con la numeración de tu iglesia.",
+        "Ora por los cristianos de otras iglesias de tu barrio.",
+        "Explícale a un niño qué dice un mandamiento, no solo qué número tiene."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para seguir leyendo",
+      "items": [
+        { "ref": "Éxodo 20:1-17", "nota": "Las diez palabras, tal como Dios las dio en el Sinaí." },
+        { "ref": "Deuteronomio 5:6-21", "nota": "Moisés las repite cuarenta años después, con pequeños cambios." },
+        { "ref": "Éxodo 34:28", "nota": "La Biblia las llama «las diez palabras»." },
+        { "ref": "Mateo 19:16-19", "nota": "Jesús cita varios mandamientos al joven rico." },
+        { "ref": "Romanos 13:9", "nota": "Pablo cita algunos y los resume todos en el amor al prójimo." },
+        { "ref": "Juan 17:21", "nota": "Jesús pide al Padre que los suyos sean uno." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Imagina diez caramelos. Tu amigo los guarda en bolsitas de una forma y tú de otra. ¡Siguen siendo los mismos diez caramelos! Así pasa con los mandamientos: son los mismos para todos.",
+      "actividad": "Escribe los diez mandamientos en papelitos. Con un adulto, ordénalos de las dos maneras y compárenlas."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tu Palabra es una sola y es para todos. Gracias por los hermanos que te aman en otras iglesias. Líbrame de discutir por números. Ayúdame a vivir tus palabras con amor. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿La Biblia pone números a los Diez Mandamientos?",
+      "opciones": ["Sí, del uno al diez", "No, los llama «las diez palabras»", "Solo en Deuteronomio"],
+      "correcta": 1,
+      "explicacion": "El texto no los numera. Éxodo 34:28 y Deuteronomio 4:13 hablan de «las diez palabras»."
+    },
+    {
+      "pregunta": "En la cuenta católica, ¿qué mandamiento se divide en dos?",
+      "opciones": ["No codiciarás (Éxodo 20:17)", "El día de reposo", "Honrar a los padres"],
+      "correcta": 0,
+      "explicacion": "Los católicos separan la codicia en noveno y décimo, como sugiere Deuteronomio 5:21."
+    },
+    {
+      "pregunta": "¿Qué cambia entre las dos maneras de contar?",
+      "opciones": ["Las palabras de Dios", "La cantidad de mandamientos", "Solo dónde va cada número"],
+      "correcta": 2,
+      "explicacion": "Las palabras son las mismas y siempre son diez. Solo cambia la división."
+    }
+  ],
+  "estudio": ["exodo", "tu-biblia"],
+  "buscar": "Deuteronomio 5:6-21"
+}

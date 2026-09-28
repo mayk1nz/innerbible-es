@@ -1,0 +1,143 @@
+{
+  "id": "moises",
+  "titulo": "Moisés",
+  "subtitulo": "El que sacó a Israel de Egipto",
+  "etiquetas": ["Antiguo Testamento", "Éxodo y desierto", "Egipto, Sinaí y Moab"],
+  "enUnMinuto": [
+    "Moisés nace esclavo en Egipto, crece en el palacio del faraón y huye al desierto después de matar a un egipcio.",
+    "Dios lo llama desde una zarza que arde y lo envía a liberar a su pueblo.",
+    "Guía a Israel cuarenta años, recibe la Ley en el Sinaí y habla con Dios como con un amigo."
+  ],
+  "versiculo": {
+    "texto": "Jehová peleará por vosotros, y vosotros estaréis quedos.",
+    "referencia": "Éxodo 14:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Su nombre suena en hebreo a «sacar». La hija del faraón se lo puso porque lo había sacado de las aguas (Éxodo 2:10).",
+        "Según el cálculo tradicional, nació hacia el 1526 a.C., y la salida de Egipto fue hacia el 1446 a.C. Otros estudiosos proponen hacia el 1270 a.C. Su vida se divide en tres partes de cuarenta años: Egipto, Madián y el desierto (Hechos 7:23, 30; Deuteronomio 34:7).",
+        "Era de la tribu de Leví, hijo de Amram y Jocabed (Éxodo 6:20). Sus hermanos mayores eran Aarón y María, la profetisa, a quien muchos llaman Miriam. Se casó con Séfora, hija de Jetro, y tuvo dos hijos: Gersón y Eliezer (Éxodo 18:2-4)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Salvado de las aguas. El faraón persigue a los bebés hebreos. Su madre lo esconde en una canasta en el río, y la hija del faraón lo adopta (Éxodo 2:1-10).",
+        "Un error y una huida. Ya adulto, ve a un egipcio golpear a un hebreo y lo mata. Descubierto, huye al desierto de Madián (Éxodo 2:11-15).",
+        "Pastor en Madián. Defiende a las hijas de Jetro en un pozo, se casa con Séfora y cuida ovejas durante años (Éxodo 2:16-22).",
+        "La zarza que arde. Dios lo llama por su nombre y le revela su nombre: «YO SOY EL QUE SOY». Lo envía a sacar a su pueblo de Egipto (Éxodo 3:1-14).",
+        "«¿Quién soy yo?». Moisés pone excusas: no sabe hablar. Dios le promete estar en su boca y le da a su hermano Aarón como ayuda (Éxodo 3:11; 4:10-16).",
+        "Ante el faraón. Moisés le pide que deje ir al pueblo, y el faraón se niega. Dios envía diez plagas sobre Egipto (Éxodo 5–11).",
+        "La primera Pascua. Las familias de Israel marcan sus puertas con la sangre de un cordero, y la muerte pasa de largo. Esa noche salen de Egipto (Éxodo 12:1-42).",
+        "El mar se abre. Con el ejército egipcio detrás, Moisés dice al pueblo que no tema. Dios abre el mar y cruzan en seco (Éxodo 14).",
+        "Pan del cielo. En el desierto, Dios da el maná cada mañana y agua de la roca (Éxodo 16; 17:1-7).",
+        "La Ley en el Sinaí. Dios da a su pueblo los Diez Mandamientos y hace pacto con ellos (Éxodo 19–20).",
+        "El becerro de oro. Mientras Moisés está en el monte, el pueblo adora un ídolo. Moisés se enoja, pero después pide perdón por ellos con todo su corazón (Éxodo 32).",
+        "Cara a cara. Dios habla con Moisés como con un amigo, y su rostro brilla al bajar del monte (Éxodo 33:11; 34:29-35).",
+        "La roca golpeada. Cansado del pueblo, Moisés golpea la roca en vez de hablarle, como Dios había dicho. Por eso no entra en la tierra prometida (Números 20:7-12).",
+        "Desde el monte Nebo. A los ciento veinte años, Dios le muestra la tierra desde lejos. Moisés muere allí, y Josué toma su lugar (Deuteronomio 34)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Moisés anunció que Dios levantaría un profeta como él, y los apóstoles vieron ese profeta en Jesús (Hechos 3:22). En la primera Pascua, la sangre del cordero salvó a las familias; Pablo llama a Cristo «nuestra pascua» (1 Corintios 5:7). La Ley llegó por medio de Moisés, y la gracia y la verdad por Jesucristo (Juan 1:17). En el monte de la transfiguración, Moisés habló con Jesús de lo que iba a cumplir en Jerusalén (Lucas 9:30-31)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Dios usa a quien se siente incapaz. Moisés decía que no sabía hablar, y Dios le dijo: «yo seré en tu boca». Esta semana: acepta una tarea para Dios que te da un poco de miedo.",
+        "Un buen líder ora por su gente. Moisés intercedió por un pueblo que le fallaba. Esta semana: ora cada día por alguien que te cuesta tratar.",
+        "Nadie puede solo. Aarón y Hur sostuvieron los brazos cansados de Moisés (Éxodo 17:12). Esta semana: ofrece tu ayuda concreta a alguien que sirve en tu iglesia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Moisés tuvo un pasado que lo avergonzaba y una lengua torpe. Aun así, Dios lo llamó por su nombre. ¿Qué excusa le estás poniendo a Dios hoy? Él responde lo mismo que a Moisés: «yo seré contigo»."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Nadie conoce el lugar de su sepultura (Deuteronomio 34:6).",
+        "La Biblia lo llama el hombre más manso de la tierra (Números 12:3).",
+        "La carta de Judas dice que el arcángel Miguel discutió con el diablo por el cuerpo de Moisés (Judas 1:9).",
+        "El Salmo 90 se presenta como una oración de Moisés."
+      ],
+      "tradicion": [
+        "La tradición judía y la cristiana llaman a los cinco primeros libros de la Biblia los libros de Moisés. Los estudiosos discuten cuánto escribió él mismo.",
+        "Según Orígenes y otros escritores antiguos, Judas 1:9 recuerda un libro judío, la «Asunción de Moisés». Ese libro no está en la Biblia.",
+        "En el monte Nebo, en Jordania, un antiguo santuario recuerda el lugar donde Moisés vio la tierra prometida."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Éxodo 2", "nota": "Nacimiento y huida a Madián" },
+        { "ref": "Éxodo 3:1-15", "nota": "La zarza que arde" },
+        { "ref": "Éxodo 12:1-42", "nota": "La primera Pascua" },
+        { "ref": "Éxodo 14", "nota": "El paso del mar" },
+        { "ref": "Éxodo 20:1-17", "nota": "Los Diez Mandamientos" },
+        { "ref": "Éxodo 32", "nota": "El becerro de oro" },
+        { "ref": "Números 20:1-13", "nota": "El agua de la roca" },
+        { "ref": "Deuteronomio 34", "nota": "Su muerte en el monte Nebo" },
+        { "ref": "Hebreos 11:23-29", "nota": "Moisés en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No confundas…",
+      "items": [
+        "A María, la hermana de Moisés y Aarón (Éxodo 15:20), con María, la madre de Jesús. Muchos la llaman Miriam para distinguirlas."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Moisés tenía miedo de hablar ante el rey. Dios le dijo que no iría solo. ¿Qué cosa te da miedo hacer a ti?",
+      "actividad": "Para el adulto: Dios le prometió «yo seré contigo» (Éxodo 3:12). Hagan con papel una zarza con llamas y escriban en ella esa promesa."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú llamaste a Moisés aunque se sentía incapaz. Llámame a mí también. Quita mis excusas, abre caminos donde no los hay y enséñame a hablar contigo como con un amigo. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Por qué creen que Dios esperó cuarenta años en el desierto antes de llamar a Moisés?",
+        "Moisés pidió perdón por un pueblo que le fallaba. ¿Qué nos enseña eso sobre orar por otros?",
+        "Moisés no entró en la tierra prometida, pero la vio. ¿Cómo vivimos las promesas que no vemos cumplidas?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Desde dónde llamó Dios a Moisés en el monte Horeb?",
+      "opciones": ["Desde una nube oscura", "Desde una zarza que ardía", "Desde un río"],
+      "correcta": 1,
+      "explicacion": "Dios le habló desde una zarza que ardía sin consumirse (Éxodo 3:2-4)."
+    },
+    {
+      "pregunta": "¿Por qué Moisés no entró en la tierra prometida?",
+      "opciones": ["Golpeó la roca en vez de hablarle", "Tuvo miedo de los gigantes", "Se quedó en Egipto"],
+      "correcta": 0,
+      "explicacion": "Dios le había dicho que hablara a la roca, y él la golpeó dos veces (Números 20:8-12)."
+    },
+    {
+      "pregunta": "¿A quién llama Pablo «nuestra pascua», como el cordero de Egipto?",
+      "opciones": ["A Moisés", "A Aarón", "A Cristo"],
+      "correcta": 2,
+      "explicacion": "Pablo escribe que «nuestra pascua, que es Cristo, fue sacrificada por nosotros» (1 Corintios 5:7)."
+    }
+  ],
+  "estudio": ["exodo", "deuteronomio"],
+  "buscar": "Moisés"
+}

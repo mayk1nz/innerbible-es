@@ -1,0 +1,101 @@
+{
+  "id": "el-leproso",
+  "titulo": "El leproso: «Quiero, sé limpio»",
+  "subtitulo": "Milagro 7 de 43 · La mano que tocó al intocable",
+  "etiquetas": ["Un pueblo de Galilea", "Año 2 · c. 28 d.C.", "Curación", "En Mateo, Marcos y Lucas"],
+  "enUnMinuto": [
+    "Un hombre con lepra, que debía vivir apartado de todos, se arrodilla ante Jesús.",
+    "Le dice: «Si quieres, puedes limpiarme», y Jesús lo toca y lo sana.",
+    "Jesús lo envía al sacerdote, para que pueda volver a su familia y a su pueblo."
+  ],
+  "versiculo": {
+    "texto": "Y Jesús, teniendo misericordia de él, extendió su mano, y le tocó, y le dice: Quiero, sé limpio.",
+    "referencia": "Marcos 1:41"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 8:1-4", "nota": "Mateo lo pone al bajar Jesús del monte, con mucha gente detrás." },
+        { "ref": "Marcos 1:40-45", "nota": "Marcos dice que Jesús tuvo misericordia de él." },
+        { "ref": "Lucas 5:12-16", "nota": "Lucas dice que el hombre estaba «lleno de lepra»." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "En tiempos de Jesús, la lepra no era solo una enfermedad de la piel. La ley mandaba que el enfermo viviera fuera del pueblo, separado de todos. Debía avisar de lejos para que nadie se le acercara. Nadie lo tocaba.",
+        "Un día, un hombre con lepra se acercó a Jesús. Se arrodilló, se inclinó hasta el suelo y le rogó: «Si quieres, puedes limpiarme». No dudaba del poder de Jesús. Lo que no sabía era si Jesús querría ayudar a alguien como él.",
+        "Jesús tuvo misericordia de él. Extendió la mano y lo tocó, algo que nadie hacía. Y le dijo: «Quiero, sé limpio». Al instante la lepra se fue.",
+        "Jesús le pidió que no lo contara, y que fuera a mostrarse al sacerdote. Así podría ofrecer lo que Moisés mandó y volver oficialmente a su pueblo. Pero el hombre salió y lo contó por todas partes. Tanto se habló que Jesús ya no podía entrar abiertamente en los pueblos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Lepra: en la Biblia, este nombre abarca varias enfermedades graves de la piel.",
+        "Limpio: sano y otra vez apto para vivir con su familia y participar en el culto.",
+        "Mostrarse al sacerdote: el sacerdote examinaba al enfermo y declaraba su curación, según Levítico 14."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Jesús no solo puede: también quiere. Su respuesta a la gran duda del leproso fue «Quiero». Y su compasión se ve en el gesto: pudo sanarlo de lejos, pero eligió tocarlo. Además, respetó la ley de Moisés y lo envió al sacerdote. Así el hombre recuperó la salud y también su lugar en la comunidad."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizás no dudas de que Dios puede, sino de que quiera ayudarte a ti. Esta historia responde con el gesto de Jesús: se acercó al que todos evitaban. Si te sientes rechazado o avergonzado, puedes acercarte a él como estás. Para hoy: piensa en alguien que vive aislado y haz algo para acercarte: una visita, una llamada o un mensaje."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, me acerco a ti como aquel hombre: tú puedes limpiarme. Gracias porque no te alejas de mí. Tócame con tu misericordia y hazme cercano a los que otros apartan. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre muy enfermo vivía solito, porque nadie quería acercarse a él. Jesús lo tocó con cariño y lo sanó. ¡Ya podía volver a abrazar a su familia! ¿Conoces a alguien que se siente solo?",
+      "actividad": "Haz un dibujo o una tarjeta para alguien que está solo o enfermo y entrégasela con un adulto."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Hoy la enfermedad de Hansen, llamada lepra, se cura con tratamiento médico. Jesús nos enseña a no dejar solo a ningún enfermo. Orar y buscar atención médica van juntos."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Levítico 13:45-46", "nota": "La ley sobre el leproso: «habitará solo; fuera del real será su morada»." },
+        { "ref": "Levítico 14:2-4", "nota": "Lo que el sacerdote hacía cuando un leproso quedaba sano." },
+        { "ref": "2 Reyes 5:14", "nota": "Naamán, curado de la lepra en el Jordán en tiempos de Eliseo." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué le dijo el leproso a Jesús?",
+      "opciones": ["Que no tenía fe", "Si quieres, puedes limpiarme", "Que lo llevara al templo"],
+      "correcta": 1,
+      "explicacion": "Le rogó de rodillas: si quieres, puedes limpiarme (Marcos 1:40)."
+    },
+    {
+      "pregunta": "¿Adónde lo envió Jesús después de sanarlo?",
+      "opciones": ["Al sacerdote", "Al río Jordán", "A la sinagoga de Nazaret"],
+      "correcta": 0,
+      "explicacion": "Lo envió a mostrarse al sacerdote, como mandó Moisés (Marcos 1:44)."
+    },
+    {
+      "pregunta": "¿Qué personaje del Antiguo Testamento también fue sanado de lepra?",
+      "opciones": ["Abraham", "David", "Naamán"],
+      "correcta": 2,
+      "explicacion": "Naamán se sumergió siete veces en el Jordán y quedó limpio (2 Reyes 5:14)."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "galilea-milagros"],
+  "buscar": "Marcos 1:40-45"
+}

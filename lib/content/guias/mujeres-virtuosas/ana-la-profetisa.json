@@ -1,0 +1,105 @@
+{
+  "id": "ana-la-profetisa",
+  "titulo": "Ana, la profetisa",
+  "subtitulo": "La que esperaba en el templo",
+  "etiquetas": ["c. 6–4 a.C.", "Jerusalén, el templo", "viudez", "vejez"],
+  "enUnMinuto": [
+    "Ana es una viuda muy anciana que pasa sus días en el templo, orando y ayunando.",
+    "Cuando José y María llevan al niño Jesús al templo, ella lo reconoce y da gracias a Dios.",
+    "Después habla de él a todos los que esperaban la salvación de Jerusalén."
+  ],
+  "versiculo": {
+    "texto": "Y ésta, sobreviniendo en la misma hora, juntamente confesaba al Señor, y hablaba de él a todos los que esperaban la redención en Jerusalem.",
+    "referencia": "Lucas 2:38"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "Ana viene del hebreo Hana, que significa “gracia” o “favor”. Es el mismo nombre de la madre de Samuel. Su padre se llamaba Fanuel, un nombre que recuerda “el rostro de Dios”."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Ana era profetisa, hija de Fanuel, de la tribu de Aser. Se había casado joven, pero su esposo murió a los siete años de matrimonio. Desde entonces vivió como viuda. Lucas dice que era viuda «de hasta ochenta y cuatro años». Puede entenderse como su edad o como los años que llevaba viuda.",
+        "Ana no se apartaba del templo. Servía a Dios de noche y de día, con ayunos y oraciones (Lucas 2:37). No sabemos si tenía hijos o familia cerca. Sí sabemos que su vida entera estaba puesta en Dios.",
+        "Un día, José y María llegaron al templo con el niño Jesús, para presentarlo al Señor como mandaba la ley. El anciano Simeón lo tomó en brazos y bendijo a Dios. Dijo que ya podía morir en paz, porque sus ojos habían visto la salvación.",
+        "En ese mismo momento llegó Ana. Reconoció al niño y comenzó a dar gracias a Dios. Luego habló de él a todos los que esperaban la redención en Jerusalén. Una viuda anciana fue una de las primeras en anunciar a Jesús en el templo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: perseverar en la espera",
+      "parrafos": [
+        "Ana perdió a su esposo muy pronto, y su vida tomó otro camino: el de la oración. Durante años sirvió a Dios en el templo, sin que nadie la aplaudiera. Por eso estaba allí cuando llegó el momento. Sus ojos cansados vieron lo que muchos no vieron: la salvación de Dios en un bebé. Y no se guardó la noticia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Dios no se olvidó de una viuda anciana. Le dio la alegría de ver al Salvador con sus propios ojos. Y la usó para anunciarlo: después de ver a Jesús, Ana no pudo callar. Junto a Simeón, fue testigo de que las promesas de Dios se cumplían en ese niño. Dios valora la fidelidad escondida de muchos años."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si eres mayor y sientes que ya no sirves, mira a Ana: su oración era un servicio. Si enviudaste o vives sola, Dios ve tus noches y tus días. Para los hombres: Simeón y Ana muestran que la fe se cultiva con constancia, no solo con emoción. Y para los jóvenes: escuchen a los ancianos que oran; han visto la fidelidad de Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Lucas 2:22-35", "nota": "Presentan a Jesús en el templo; Simeón lo bendice." },
+        { "ref": "Lucas 2:36-38", "nota": "Ana da gracias y habla del niño." },
+        { "ref": "1 Timoteo 5:5", "nota": "La viuda que espera en Dios y ora noche y día." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias porque ves mi fidelidad escondida. Cuando la espera sea larga, sostén mi fe. Abre mis ojos para reconocer a Jesús en mi día. Y dame palabras para hablar de él a los que esperan. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿qué persona mayor te enseñó a orar o a confiar en Dios?",
+        "Ana perdió a su esposo muy joven. ¿Cómo podemos acompañar mejor a las viudas de nuestra comunidad?",
+        "Ana estaba en el lugar justo porque estaba allí siempre. ¿Qué costumbres nos ayudan a estar atentos a Dios?",
+        "Después de ver a Jesús, Ana habló de él a todos. ¿A quién podrías contarle lo que Dios ha hecho en ti?",
+        "Dinámica: escriban juntos un mensaje para una persona mayor o viuda de la comunidad, y entréguenlo esta semana.",
+        "Para cerrar: lean Lucas 2:36-38 y oren por los ancianos de sus familias."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Ana era una abuelita que oraba en el templo todos los días. Un día vio al bebé Jesús y se puso muy feliz. ¡Dio gracias a Dios y les contó a todos! ¿Con qué abuelo o abuela puedes orar tú?",
+      "actividad": "Llamen o visiten a una persona mayor y díganle que Dios la ama. Para memorizar: «confesaba al Señor, y hablaba de él» (Lucas 2:38)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde pasaba Ana sus días?",
+      "opciones": ["En el templo de Jerusalén", "En el mercado de Belén", "En la sinagoga de Nazaret"],
+      "correcta": 0,
+      "explicacion": "Ana no se apartaba del templo, sirviendo de noche y de día (Lucas 2:37)."
+    },
+    {
+      "pregunta": "¿A qué tribu de Israel pertenecía Ana?",
+      "opciones": ["Judá", "Leví", "Aser"],
+      "correcta": 2,
+      "explicacion": "Lucas dice que era hija de Fanuel, de la tribu de Aser (Lucas 2:36)."
+    },
+    {
+      "pregunta": "¿Qué otro anciano reconoció a Jesús en el templo ese mismo día?",
+      "opciones": ["Zacarías", "Simeón", "Nicodemo"],
+      "correcta": 1,
+      "explicacion": "Simeón tomó al niño en brazos y bendijo a Dios; Ana llegó en esa misma hora (Lucas 2:28, 38)."
+    }
+  ],
+  "estudio": ["nacimiento"],
+  "buscar": "Lucas 2:36-38"
+}

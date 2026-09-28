@@ -1,0 +1,135 @@
+{
+  "id": "eliseo",
+  "titulo": "Eliseo",
+  "subtitulo": "El que recibió el manto de Elías",
+  "etiquetas": ["Antiguo Testamento", "Reino dividido y profetas", "Israel del norte"],
+  "enUnMinuto": [
+    "Eliseo es un agricultor que deja su arado para seguir al profeta Elías.",
+    "Recibe su manto y su espíritu, y Dios hace por medio de él muchos milagros de cuidado y de vida.",
+    "Ayuda a viudas, a madres, a pobres y hasta a un general enemigo, Naamán."
+  ],
+  "versiculo": {
+    "texto": "Y él le dijo: No hayas miedo: porque más son los que están con nosotros que los que están con ellos.",
+    "referencia": "2 Reyes 6:16"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Eliseo quiere decir «mi Dios salva». Era hijo de Safat, de Abel-mehola, y trabajaba la tierra con doce yuntas de bueyes (1 Reyes 19:16, 19).",
+        "Fue profeta en el reino del norte durante unos cincuenta años, hacia el 850–790 a.C. Aconsejó a varios reyes de Israel y vivió cerca de los grupos de profetas."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "El manto sobre los hombros. Elías echa su manto sobre Eliseo mientras ara. Eliseo deja los bueyes, hace una comida de despedida y lo sigue (1 Reyes 19:19-21).",
+        "«No te dejaré». Tres veces Elías le dice que se quede, y tres veces Eliseo responde que no lo dejará (2 Reyes 2:1-6).",
+        "Una doble porción. Eliseo pide recibir una doble parte del espíritu de Elías. Ve el carro de fuego y recoge su manto (2 Reyes 2:9-14).",
+        "Agua sana. En Jericó, echa sal en un manantial malo, y Dios sana sus aguas (2 Reyes 2:19-22).",
+        "El aceite de la viuda. Una viuda está por perder a sus hijos por una deuda. El poco aceite llena todas las vasijas prestadas (2 Reyes 4:1-7).",
+        "La mujer de Sunem. Una familia le prepara un cuarto. Eliseo le anuncia un hijo y, años después, ora y Dios le devuelve la vida al niño (2 Reyes 4:8-37).",
+        "Pan para cien. Con veinte panes de cebada da de comer a cien hombres, y sobra (2 Reyes 4:42-44).",
+        "Naamán. Un general sirio con lepra se baña siete veces en el Jordán y queda limpio. Eliseo no acepta su dinero (2 Reyes 5:1-16).",
+        "La codicia de Giezi. Su criado pide a escondidas regalos a Naamán y miente. Queda enfermo de lepra (2 Reyes 5:20-27).",
+        "El hacha que flota. A un joven se le cae al río un hacha prestada. Eliseo la hace flotar (2 Reyes 6:1-7).",
+        "Carros de fuego. Un ejército rodea la ciudad. Eliseo ora, y su criado ve que Dios los protege. Después, Eliseo manda dar de comer a los enemigos (2 Reyes 6:13-23).",
+        "Su final. Eliseo enferma y muere. Aun en su tumba, Dios muestra su poder: un muerto revive al tocar sus huesos (2 Reyes 13:14, 20-21)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Eliseo dio de comer a cien con veinte panes de cebada. Jesús alimentó a cinco mil con cinco panes de cebada, y también sobró (Juan 6:9-13). Jesús recordó que Eliseo sanó a Naamán, un extranjero, para mostrar que Dios ama a todos los pueblos (Lucas 4:27). Eliseo quiere decir «mi Dios salva»; en Jesús, Dios salva del todo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Seguir a Dios a veces es soltar el arado. Eliseo dejó su trabajo y siguió a Elías. Esta semana: da a Dios un tiempo que antes usabas en otra cosa.",
+        "Dios se ocupa de lo pequeño. Una deuda, un niño enfermo, un hacha prestada. Esta semana: cuéntale a Dios un problema pequeño y confía en Él.",
+        "Los ojos de la fe ven más. Su criado vio el peligro; Eliseo vio a Dios. Esta semana: ante un miedo, ora como Eliseo: «abre mis ojos»."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "La viuda solo tenía un poco de aceite, y Dios lo multiplicó en vasijas vacías. ¿Qué «poco» tienes tú hoy? Ponlo en manos de Dios. Él empieza con lo que hay."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Eliseo pidió «las dos partes» del espíritu de Elías, la parte que recibía el hijo mayor como herencia (2 Reyes 2:9).",
+        "El rey Joás lloró en su lecho de muerte y lo llamó «carro de Israel» (2 Reyes 13:14)."
+      ],
+      "tradicion": [
+        "En Jericó, un manantial que aún da agua se llama la fuente de Eliseo. La tradición lo une a este milagro.",
+        "Antiguos escritores cristianos sitúan su tumba en Sebaste, la antigua Samaria."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "1 Reyes 19:19-21", "nota": "Elías lo llama" },
+        { "ref": "2 Reyes 2:1-15", "nota": "Recibe el manto de Elías" },
+        { "ref": "2 Reyes 4", "nota": "La viuda, la sunamita y el pan" },
+        { "ref": "2 Reyes 5", "nota": "Naamán queda limpio" },
+        { "ref": "2 Reyes 6:8-23", "nota": "Los carros de fuego" },
+        { "ref": "2 Reyes 13:14-21", "nota": "Su muerte" },
+        { "ref": "Lucas 4:27", "nota": "Jesús recuerda a Naamán" }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Elías, su maestro, que subió al cielo en un torbellino (2 Reyes 2:11)."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "El criado de Eliseo vio un ejército y tuvo miedo. Cuando Dios abrió sus ojos, vio que Dios los cuidaba. ¿Quién te cuida a ti?",
+      "actividad": "Para el adulto: «más son los que están con nosotros» (2 Reyes 6:16). Dibujen su casa y alrededor pongan a Dios cuidándola."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, abre mis ojos para ver que estás conmigo. Toma lo poco que tengo y multiplícalo. Hazme generoso como Eliseo, aun con los que no me quieren. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "Eliseo no aceptó el dinero de Naamán, y Giezi sí. ¿Qué nos enseña ese contraste?",
+        "¿Por qué creen que Eliseo mandó dar de comer a los soldados enemigos?",
+        "¿Qué significa hoy «seguir a alguien» en la fe, como Eliseo siguió a Elías?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué estaba haciendo Eliseo cuando Elías lo llamó?",
+      "opciones": ["Pescando", "Arando con bueyes", "Cuidando ovejas"],
+      "correcta": 1,
+      "explicacion": "Eliseo araba con doce yuntas de bueyes cuando Elías echó su manto sobre él (1 Reyes 19:19)."
+    },
+    {
+      "pregunta": "¿Qué le mandó hacer Eliseo a Naamán para quedar limpio?",
+      "opciones": ["Pagarle mucho dinero", "Subir al monte Carmelo", "Lavarse siete veces en el Jordán"],
+      "correcta": 2,
+      "explicacion": "Naamán se bañó siete veces en el Jordán y su piel quedó como la de un niño (2 Reyes 5:10-14)."
+    },
+    {
+      "pregunta": "Eliseo alimentó a cien con veinte panes. ¿A cuántos alimentó Jesús con cinco panes?",
+      "opciones": ["A unos cinco mil", "A doce", "A setenta"],
+      "correcta": 0,
+      "explicacion": "Jesús dio de comer a unos cinco mil hombres, y recogieron doce cestas de sobras (Juan 6:9-13)."
+    }
+  ],
+  "estudio": ["2-reyes-1-14"],
+  "buscar": "Eliseo"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "efata",
+  "titulo": "«Efata»: el sordo que hablaba mal",
+  "subtitulo": "Milagro 24 de 43 · Una palabra que abre",
+  "etiquetas": ["Decápolis, junto al mar de Galilea", "Año 3 · c. 29 d.C.", "Curación"],
+  "enUnMinuto": [
+    "En la Decápolis le traen a Jesús un hombre sordo que casi no podía hablar.",
+    "Jesús lo lleva aparte, toca sus oídos y su lengua, mira al cielo y dice: «Efata».",
+    "El hombre oye y habla bien, y la gente exclama que Jesús todo lo hace bien."
+  ],
+  "versiculo": {
+    "texto": "Y en gran manera se maravillaban, diciendo: Bien lo ha hecho todo: hace a los sordos oir, y a los mudos hablar.",
+    "referencia": "Marcos 7:37"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Marcos 7:31-37", "nota": "Solo lo cuenta Marcos, con todos los gestos de Jesús." },
+        { "ref": "Mateo 15:29-31", "nota": "En la misma región, Mateo cuenta que Jesús sanó a muchos mudos, cojos y ciegos." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús salió de la región de Tiro, pasó por Sidón y bajó hasta el mar de Galilea. Llegó a la Decápolis, una zona de ciudades de cultura griega. Allí le trajeron a un hombre sordo que apenas podía hablar. Le rogaron que pusiera la mano sobre él.",
+        "Jesús lo apartó de la gente. Metió los dedos en sus oídos, escupió y le tocó la lengua. Después miró al cielo y gimió. Entonces le dijo una palabra en arameo: Efata. Quiere decir «Sé abierto».",
+        "Al instante se abrieron sus oídos y se soltó su lengua. Y hablaba bien. Jesús les pidió que no lo contaran a nadie. Pero cuanto más lo pedía, más lo contaban. La gente, llena de asombro, decía: «Bien lo ha hecho todo»."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Decápolis: significa «diez ciudades». Era una región al este del mar de Galilea, donde vivía mucha gente no judía.",
+        "Efata: palabra aramea, la lengua que hablaba Jesús. La RV1909 la escribe «Ephphatha».",
+        "Tartamudo: así lo llama la RV1909. Hablaba con mucha dificultad y no se le entendía bien."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que trata a cada persona con delicadeza. Lo sacó de la multitud y le habló con gestos que el hombre podía ver y sentir. Que siente el dolor ajeno: antes de sanar, miró al cielo y gimió. Y que en él se cumple lo que anunció Isaías: los oídos de los sordos se abrirán. La gente lo dijo sin saberlo: todo lo hace bien."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Jesús no sanó a este hombre en medio del ruido. Lo llevó aparte. Quizá tú también necesitas un rato a solas con él, lejos de tantas voces. ¿Hay algo cerrado en ti? Tal vez el oído para escuchar a otros, o la boca para pedir perdón o decir «te quiero». Jesús todavía dice: sé abierto. Para hoy: busca cinco minutos de silencio y pídele que abra lo que está cerrado."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, llévame aparte, lejos del ruido. Abre mis oídos para escuchar tu voz y la de quienes me rodean. Suelta mi lengua para alabarte y decir palabras que sanen. Tú todo lo haces bien. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Un hombre no oía y casi no podía hablar. Jesús tocó sus oídos y su lengua y dijo: «Efata», que significa «Sé abierto». ¡Y el hombre oyó y habló bien! ¿Qué sonido te gusta escuchar?",
+      "actividad": "Tápate los oídos un momento y luego destápalos. Da gracias a Dios por tres sonidos que puedes oír hoy."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Marcos guarda varias palabras de Jesús en arameo, tal como sonaron. Talita cumi, a la hija de Jairo (Marcos 5:41). Efata, al sordo (Marcos 7:34). Y Abba, al orar en Getsemaní (Marcos 14:36). Son como ecos de su propia voz."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Isaías 35:4-6", "nota": "Dios vendrá a salvar: los oídos de los sordos se abrirán y cantará la lengua del mudo." },
+        { "ref": "Éxodo 4:11", "nota": "Dios le recuerda a Moisés que él hizo la boca y el oído." },
+        { "ref": "Génesis 1:31", "nota": "Dios vio todo lo que había hecho, y era bueno en gran manera." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sana, pero esta historia no promete que toda discapacidad desaparezca. Las personas sordas son amadas por Dios tal como son. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué significa la palabra Efata?",
+      "opciones": ["Levántate", "Sé abierto", "Ten fe"],
+      "correcta": 1,
+      "explicacion": "Marcos traduce la palabra aramea: «Sé abierto» (Marcos 7:34)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús antes de sanar al hombre?",
+      "opciones": ["Lo llevó aparte de la gente", "Lo mandó al templo", "Le pidió una ofrenda"],
+      "correcta": 0,
+      "explicacion": "Jesús lo apartó de la multitud y lo sanó con gestos sencillos y cercanos."
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que los oídos de los sordos se abrirían?",
+      "opciones": ["Jeremías", "Amós", "Isaías"],
+      "correcta": 2,
+      "explicacion": "Isaías 35:5 lo anuncia como señal de que Dios viene a salvar a su pueblo."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Marcos 7:31-37"
+}

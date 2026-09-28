@@ -1,0 +1,123 @@
+{
+  "id": "comienza-aqui",
+  "titulo": "Comienza aquí",
+  "subtitulo": "Qué significa «virtuosa» y cómo usar esta guía",
+  "etiquetas": ["Introducción", "Para leer primero"],
+  "enUnMinuto": [
+    "Esta guía te presenta a las mujeres de fe de la Biblia, en el orden en que vivieron.",
+    "No fueron perfectas: rieron, dudaron, lloraron y a veces se equivocaron.",
+    "Su valor vino de caminar con Dios, y en cada historia el héroe es Él."
+  ],
+  "versiculo": {
+    "texto": "Ahora pues, no temas, hija mía: yo haré contigo lo que tú dijeres, pues que toda la puerta de mi pueblo sabe que eres mujer virtuosa.",
+    "referencia": "Rut 3:11"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "¿Qué significa «virtuosa»?",
+      "parrafos": [
+        "En hebreo, la expresión es eshet jáyil. Quiere decir “mujer de valor”, “mujer de fuerza”. No habla de una mujer sin defectos. Habla de una mujer firme, que no se rinde y que confía en Dios.",
+        "La Reina-Valera 1909 traduce esa misma expresión de dos maneras. En Proverbios 31:10 dice «Mujer fuerte». En Rut 3:11, Booz le dice a Rut que todos saben que es «mujer virtuosa». Rut es una extranjera, viuda y pobre. Aun así, la Biblia la llama así.",
+        "Por eso esta guía no es una lista de exigencias. Las mujeres de estas páginas rieron de una promesa, murmuraron, tuvieron miedo o hicieron trampa. Dios no las escondió en sus defectos. Las buscó, las levantó y obró por medio de ellas. Esa es la buena noticia que queremos contarte."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué encontrarás en cada ficha",
+      "items": [
+        "Su nombre y su tiempo: qué significa su nombre, cuándo vivió y dónde leer su historia.",
+        "En 1 minuto: lo esencial, para leer rápido o en voz alta.",
+        "Su historia: lo que cuenta la Biblia, en palabras sencillas y sin añadir nada.",
+        "Su virtud: lo que vemos en ella, con sus luchas y sus caídas.",
+        "Lo que Dios hizo: cómo obró Dios por medio de ella y el hilo que lleva a Jesús.",
+        "Para tu vida hoy, una oración, preguntas para grupos y una parte para los niños."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en el centro",
+      "tono": "navy",
+      "texto": "Cada ficha termina mirando a Jesús. Rahab y Rut aparecen en su árbol familiar (Mateo 1:5). Ana canta lo que siglos después cantará María. Las historias del Antiguo Testamento preparan el camino del Salvador. No te pedimos que seas como ellas. Te invitamos a conocer al Dios que ellas conocieron."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cómo leer una ficha",
+      "items": [
+        "Ora un momento y pide a Dios que te hable.",
+        "Lee En 1 minuto para tener la idea general.",
+        "Abre tu Biblia y lee el pasaje de la ficha. La historia completa vale la pena.",
+        "Lee la ficha con calma. Subraya lo que te toque.",
+        "Elige una sola idea de Para tu vida hoy y llévala contigo toda la semana.",
+        "Termina con la oración y, si quieres, responde el cuestionario."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El camino de esta guía",
+      "items": [
+        "Los comienzos y los patriarcas: Eva, Sara, Agar, Rebeca, Lea y Raquel.",
+        "Egipto y el desierto: las parteras, Jocabed, Miriam y las hijas de Zelofehad.",
+        "La tierra prometida y los jueces: Rahab, Débora, Noemí, Rut y Ana.",
+        "Reyes y profetas: Abigail, la viuda de Sarepta, la sunamita, una niña y Hulda.",
+        "Después vienen Ester, las mujeres de los evangelios y las de la iglesia naciente."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Esta guía es para mujeres, pero no solo para ellas. Un hombre aprenderá de Booz, de Barac o de Elcana. Un joven verá que la fe puede ser una decisión propia. Un niño descubrirá que Dios usa también a los pequeños. Todos encontraremos a un Dios que ve, escucha y cumple."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Citamos la Reina-Valera 1909. Por eso verás nombres antiguos dentro de las citas: «Rachêl» por Raquel y «Anna» por Ana. La hermana de Moisés aparece como «María»; aquí la llamamos Miriam. Seguimos los libros que católicos y evangélicos leen en común."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Algunas historias tocan temas duros: violencia, pérdidas, abusos de poder. Las contamos con respeto y sin detalles crudos. En la parte para niños las adaptamos. Tamar y Betsabé aparecen en la ficha sobre las mujeres en la genealogía de Jesús."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer",
+      "items": [
+        { "ref": "Rut 3:11", "nota": "La Biblia llama a Rut «mujer virtuosa»." },
+        { "ref": "Proverbios 31:10-31", "nota": "El retrato de la mujer fuerte." },
+        { "ref": "Hebreos 11:11", "nota": "La fe de Sara." },
+        { "ref": "Hebreos 11:31", "nota": "La fe de Rahab." },
+        { "ref": "Hechos 2:17-18", "nota": "El Espíritu sobre hijos e hijas." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, gracias por las mujeres que caminaron contigo antes que yo. Abre mis ojos para ver lo que hiciste en sus vidas. No necesito aparentar perfección. Quiero conocerte más y confiar en ti como ellas. En el nombre de Jesús, amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "En la Biblia hay muchas mujeres valientes. Una mamá escondió a su bebé. Una niña habló de Dios. Una joven cuidó a su suegra. ¿Qué mujer de tu familia te habla de Dios?",
+      "actividad": "Haz una tarjeta para esa mujer de tu familia. Dibuja un corazón y escribe: “Gracias por enseñarme de Dios”."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué quiere decir la expresión hebrea que se traduce «mujer virtuosa»?",
+      "opciones": ["Mujer que nunca se equivoca", "Mujer de valor y de fuerza", "Mujer rica y famosa"],
+      "correcta": 1,
+      "explicacion": "Eshet jáyil significa mujer de valor o de fuerza. No habla de perfección, sino de firmeza y confianza en Dios."
+    },
+    {
+      "pregunta": "¿A qué mujer llama Booz «mujer virtuosa» en la Biblia?",
+      "opciones": ["A Rut, la moabita", "A Sara, la esposa de Abraham", "A Débora, la profetisa"],
+      "correcta": 0,
+      "explicacion": "En Rut 3:11, Booz le dice a Rut que todo su pueblo sabe que es mujer virtuosa."
+    },
+    {
+      "pregunta": "¿Qué mujeres de esta guía aparecen en el árbol familiar de Jesús en Mateo 1:5?",
+      "opciones": ["Eva y Sara", "Miriam y Débora", "Rahab y Rut"],
+      "correcta": 2,
+      "explicacion": "Mateo 1:5 nombra a Rahab y a Rut entre los antepasados de Jesús."
+    }
+  ],
+  "estudio": ["rut", "proverbios"],
+  "buscar": "Rut 3:11"
+}

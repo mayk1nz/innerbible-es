@@ -1,0 +1,113 @@
+{
+  "id": "ester",
+  "titulo": "Ester",
+  "subtitulo": "Para esta hora",
+  "etiquetas": ["c. 483–473 a.C.", "Persia, lejos de su tierra", "valentía", "migración"],
+  "enUnMinuto": [
+    "Ester es una joven judía y huérfana que vive en Susa, la capital del Imperio persa.",
+    "Llega a ser reina y, cuando una ley ordena destruir a su pueblo, arriesga su vida ante el rey.",
+    "Dios no se nombra en el texto hebreo del libro, pero cuida a su pueblo en cada detalle."
+  ],
+  "versiculo": {
+    "texto": "Porque si absolutamente callares en este tiempo, respiro y libertación tendrán los Judíos de otra parte; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora te han hecho llegar al reino?",
+    "referencia": "Ester 4:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "Su nombre hebreo era Hadasa, que significa “mirto”, un arbusto de flores blancas y perfumadas (Ester 2:7). Ester es el nombre con el que la conocieron en Persia. Muchos lo relacionan con una palabra persa que quiere decir “estrella”, pero no es seguro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Ester vivía en Susa, la capital de Persia. Su familia había llegado allí desde Jerusalén, llevada cautiva por Babilonia. Ester había perdido a su padre y a su madre. Su primo Mardoqueo la crió como a una hija (Ester 2:7). Cuando el rey Asuero buscó una nueva reina, muchas jóvenes fueron llevadas al palacio. Ester también. No fue una decisión suya.",
+        "Por consejo de Mardoqueo, Ester no dijo a nadie que era judía. Se ganó el cariño de todos los que la veían. El rey la amó más que a todas y la hizo reina. Poco después, Mardoqueo descubrió un plan para matar al rey. Ester avisó al rey en nombre de Mardoqueo, y quedó escrito en el libro de las crónicas.",
+        "Entonces subió al poder Amán, el hombre más importante del reino. Mardoqueo no se inclinaba ante él, y Amán se llenó de ira. Convenció al rey de firmar una ley terrible: destruir a todos los judíos del imperio en un solo día. Mardoqueo se vistió de luto y pidió a Ester que hablara con el rey por su pueblo.",
+        "Ester tuvo miedo, y con razón. Quien entraba ante el rey sin ser llamado podía morir (Ester 4:11). Mardoqueo le respondió: «¿Y quién sabe si para esta hora te han hecho llegar al reino?». Ester pidió a todos los judíos de Susa que ayunaran por ella tres días. Ella también ayunaría. Y decidió: «si perezco, que perezca».",
+        "Al tercer día se presentó ante el rey, y él le extendió el cetro de oro. Con paciencia, lo invitó a dos banquetes junto con Amán. Entre uno y otro, el rey no pudo dormir y descubrió que Mardoqueo le había salvado la vida. En el segundo banquete, Ester habló claro: «séame dada mi vida por mi petición, y mi pueblo por mi demanda».",
+        "El plan de Amán quedó al descubierto y cayó sobre él. Una nueva ley del rey permitió a los judíos defender su vida. El luto se volvió alegría. Ester y Mardoqueo escribieron para que cada año se recordara esa salvación con la fiesta de Purim (Ester 9:29-32)."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: un valor que primero ayuna",
+      "parrafos": [
+        "Ester no fue valiente porque no tuviera miedo. Primero dudó y explicó el peligro. Después ayunó y pidió a su pueblo que ayunara con ella. Solo entonces actuó. Su valor tampoco fue impulsivo: esperó el momento, preparó dos banquetes y habló con prudencia. Había callado quién era; en la hora decisiva, dijo «mi pueblo» delante del hombre más poderoso del mundo."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "En el texto hebreo de Ester, Dios no se nombra ni una vez. Aun así, su mano se ve en todo. Una huérfana llega a reina, un rey no puede dormir y un plan malvado se vuelve contra su autor. Así Dios guardó al pueblo del que nacería Jesús. Ester estuvo dispuesta a morir por los suyos. Jesús fue más lejos: dio su vida por todos."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás vives en un lugar que no elegiste: otro país, un trabajo duro, una casa difícil. Dios también está allí, aunque no lo veas. Si te cuesta hablar por alguien que sufre, empieza como Ester: busca a Dios y pide a otros que te acompañen. Para los hombres, Mardoqueo muestra cómo cuidar y animar sin imponer. Y si eres joven, tu lugar de hoy no es pequeño para Dios."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Ester 2:5-23", "nota": "Ester llega al palacio y es reina." },
+        { "ref": "Ester 4:1-17", "nota": "«Para esta hora»: la decisión de Ester." },
+        { "ref": "Ester 5:1-8", "nota": "Ester se presenta ante el rey." },
+        { "ref": "Ester 7:1-10", "nota": "El segundo banquete." },
+        { "ref": "Ester 9:20-32", "nota": "La fiesta de Purim." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, a veces me siento lejos de casa y con miedo. Gracias porque estás conmigo aunque no te vea. Dame valor para hablar cuando alguien necesita ayuda. Enséñame a buscarte primero y a actuar con prudencia. En el nombre de Jesús, amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿alguna vez tuviste que hablar por otra persona, aunque te costaba? ¿Qué te ayudó?",
+        "Ester vivía lejos de su tierra y callaba quién era. ¿Qué situaciones de hoy se parecen a la suya?",
+        "Mardoqueo habló de «esta hora». ¿Dónde te ha puesto Dios ahora, y quién necesita que estés allí?",
+        "Dios no se nombra en el libro, pero actúa. ¿Dónde has visto su mano en detalles pequeños?",
+        "Dinámica: cada persona escribe el nombre de alguien que sufre una injusticia. El grupo ora por esos nombres y elige un gesto concreto de ayuda.",
+        "Para cerrar: lean juntos Ester 4:13-16 y oren por quienes viven lejos de su tierra."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Ester no tenía papá ni mamá, y llegó a ser reina. Un hombre malo quería hacer daño a su pueblo. Ester tuvo miedo, pero habló con el rey, y Dios salvó a su pueblo. ¿Cuándo necesitas tú ser valiente?",
+      "actividad": "Hagan una corona de papel y escriban dentro: “Dios está conmigo”. Para memorizar: «para esta hora» (Ester 4:14)."
+    },
+    {
+      "tipo": "nota",
+      "texto": "Las Biblias católicas incluyen además unas partes griegas de Ester, con oraciones de Mardoqueo y de Ester. Las Biblias evangélicas traen solo el texto hebreo. Esta ficha sigue el texto que ambas comparten."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién crió a Ester como a una hija?",
+      "opciones": ["Su primo Mardoqueo", "El rey Asuero", "Hegai, el guarda del palacio"],
+      "correcta": 0,
+      "explicacion": "Ester era huérfana, y su primo Mardoqueo la tomó por hija (Ester 2:7)."
+    },
+    {
+      "pregunta": "¿Qué pidió Ester a los judíos de Susa antes de ir ante el rey?",
+      "opciones": ["Que prepararan un banquete", "Que ayunaran por ella tres días", "Que huyeran de la ciudad"],
+      "correcta": 1,
+      "explicacion": "Ester pidió que ayunaran por ella tres días; ella y sus doncellas ayunaron también (Ester 4:16)."
+    },
+    {
+      "pregunta": "¿Qué fiesta recuerda cada año cómo Dios salvó a su pueblo en tiempos de Ester?",
+      "opciones": ["La Pascua", "Pentecostés", "Purim"],
+      "correcta": 2,
+      "explicacion": "Purim viene de «Pur», la suerte que echó Amán. El luto se volvió alegría (Ester 9:26)."
+    }
+  ],
+  "estudio": ["ester"],
+  "buscar": "Ester"
+}

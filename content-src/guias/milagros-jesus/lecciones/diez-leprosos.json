@@ -1,0 +1,107 @@
+{
+  "id": "diez-leprosos",
+  "titulo": "Los diez leprosos y el que volvió",
+  "subtitulo": "Milagro 34 de 43 · El camino de vuelta de la gratitud",
+  "etiquetas": ["Entre Samaria y Galilea", "Año 3 · c. 30 d.C.", "Curación"],
+  "enUnMinuto": [
+    "Camino a Jerusalén, diez leprosos gritan a Jesús desde lejos pidiendo misericordia.",
+    "Jesús los envía a los sacerdotes, y mientras van, los diez quedan limpios.",
+    "Solo uno vuelve a darle gracias, un samaritano, y Jesús le dice: «tu fe te ha salvado»."
+  ],
+  "versiculo": {
+    "texto": "Entonces uno de ellos, como se vio que estaba limpio, volvió, glorificando a Dios a gran voz; Y derribose sobre el rostro a sus pies, dándole gracias: y éste era Samaritano.",
+    "referencia": "Lucas 17:15-16"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Lucas 17:11-19", "nota": "Solo lo cuenta Lucas." },
+        { "ref": "Lucas 5:12-16", "nota": "Otra curación de un leproso, al comienzo del ministerio." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús iba de camino a Jerusalén, por la frontera entre Samaria y Galilea. Al entrar en una aldea, salieron a su encuentro diez hombres con lepra. Se quedaron lejos, como mandaba la ley. Y gritaron: «Jesús, Maestro, ten misericordia de nosotros».",
+        "Jesús los vio y les dijo: «Id, mostraos a los sacerdotes». Así se hacía cuando alguien quedaba limpio de la lepra. Ellos obedecieron antes de ver ningún cambio. Y mientras iban por el camino, quedaron limpios.",
+        "Uno de ellos, al ver que estaba sano, volvió alabando a Dios a gran voz. Se echó a los pies de Jesús y le dio gracias. Era samaritano, de un pueblo que tenía viejas diferencias con los judíos.",
+        "Jesús preguntó: «¿No son diez los que fueron limpios? ¿Y los nueve dónde están?». Luego dijo al samaritano: «Levántate, vete; tu fe te ha salvado». Los diez recibieron la sanidad. Uno recibió, además, el encuentro con Jesús."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Lepra: en la Biblia, varias enfermedades de la piel. Quien la tenía debía vivir apartado de los demás.",
+        "Mostrarse a los sacerdotes: el sacerdote comprobaba la sanidad y permitía volver a la vida normal (Levítico 14:2).",
+        "Samaritano: habitante de Samaria. Judíos y samaritanos tenían viejas diferencias de fe y de historia."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que Jesús tiene misericordia de todos: sanó a los diez, no solo al que volvió. Que su amor no mira fronteras. El que volvió era samaritano, un extranjero, y fue él quien quedó más cerca de Jesús. Y que la gratitud nos acerca a él. Los diez quedaron limpios; uno escuchó además de sus labios: «tu fe te ha salvado»."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Es fácil pedir con fuerza y olvidar volver a dar gracias. No siempre es por maldad: la alegría nos lleva a otras cosas. Este hombre se detuvo y volvió. Tal vez hoy puedes regresar a Jesús por una respuesta que ya recibiste. La gratitud no paga su favor: lo celebra. Para hoy: escribe tres cosas por las que nunca le diste gracias a Dios, y agradécelas en voz alta."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, cuántas veces te pedí ayuda y me olvidé de volver. Hoy regreso a tus pies para decirte gracias. Gracias por tu misericordia, que alcanza a todos. Que mi vida entera sea una respuesta agradecida. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Diez hombres enfermos pidieron ayuda a Jesús, y los diez quedaron sanos. Pero solo uno volvió a decirle gracias. Jesús le dijo: tu fe te ha salvado. ¿A quién le puedes decir gracias hoy?",
+      "actividad": "Hagan un frasco de gracias. Cada día, escriban en un papelito algo por lo que dan gracias a Dios y guárdenlo dentro."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Jesús ya había recordado a otro leproso extranjero: Naamán el sirio, sanado en tiempos del profeta Eliseo (Lucas 4:27). Naamán también volvió al hombre de Dios para dar gracias (2 Reyes 5:15)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Levítico 13:45-46", "nota": "El leproso debía vivir apartado, fuera del campamento." },
+        { "ref": "2 Reyes 5:14-15", "nota": "Naamán, un extranjero, queda limpio y vuelve a reconocer a Dios." },
+        { "ref": "Salmos 103:2", "nota": "«no olvides ninguno de sus beneficios»." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Jesús sana, pero esta historia no promete que toda enfermedad termine igual. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos de los leprosos volvieron a dar gracias?",
+      "opciones": ["Nueve", "Uno", "Diez"],
+      "correcta": 1,
+      "explicacion": "Los diez quedaron limpios, pero solo uno volvió a dar gracias (Lucas 17:15-17)."
+    },
+    {
+      "pregunta": "¿De dónde era el que volvió a dar gracias?",
+      "opciones": ["De Galilea", "De Roma", "De Samaria"],
+      "correcta": 2,
+      "explicacion": "Lucas dice: «éste era Samaritano» (Lucas 17:16)."
+    },
+    {
+      "pregunta": "¿Qué otro extranjero sanado de lepra volvió a dar gracias en tiempos de Eliseo?",
+      "opciones": ["Naamán", "Goliat", "Nabucodonosor"],
+      "correcta": 0,
+      "explicacion": "Naamán el sirio volvió al hombre de Dios después de quedar limpio (2 Reyes 5:15)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Lucas 17:11-19"
+}

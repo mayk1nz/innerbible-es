@@ -1,0 +1,133 @@
+{
+  "id": "felipe",
+  "titulo": "Felipe",
+  "subtitulo": "El de Betsaida que dijo: «Ven y ve»",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Betsaida de Galilea"],
+  "enUnMinuto": [
+    "Felipe era de Betsaida, el mismo pueblo de Pedro y Andrés, y Jesús lo llamó con una sola palabra: «Sígueme».",
+    "Enseguida buscó a su amigo Natanael y, ante sus dudas, le dijo: «Ven y ve».",
+    "Hizo preguntas sinceras, y Jesús le respondió: quien lo ha visto a él ha visto al Padre."
+  ],
+  "versiculo": {
+    "texto": "Y díjole Natanael: ¿De Nazaret puede haber algo de bueno? Dícele Felipe: Ven y ve.",
+    "referencia": "Juan 1:46"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Felipe es un nombre griego que quiere decir «amigo de los caballos». Era de Betsaida de Galilea, la ciudad de Andrés y de Pedro (Juan 1:44; 12:21).",
+        "La Biblia no dice cuál era su oficio. Tampoco habla de su familia. Casi todo lo que sabemos de él está en el Evangelio de Juan.",
+        "Felipe, el apóstol, es una persona distinta de Felipe el evangelista, uno de los siete servidores de Hechos 6. Son dos hombres con el mismo nombre."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Jesús va a Galilea, encuentra a Felipe y le dice: «Sígueme» (Juan 1:43).",
+        "Felipe busca a Natanael: «Hemos hallado a aquel de quien escribió Moisés en la ley». Es Jesús de Nazaret (Juan 1:45).",
+        "Natanael duda que algo bueno salga de Nazaret. Felipe no discute. Solo lo invita: «Ven y ve» (Juan 1:46).",
+        "Es elegido como uno de los Doce. En las tres listas de los Evangelios aparece en quinto lugar (Mateo 10:3; Marcos 3:18; Lucas 6:14).",
+        "Ante cinco mil hombres con hambre, Jesús le pregunta dónde comprar pan. Lo hace para probarlo (Juan 6:5-6).",
+        "Felipe hace cuentas: doscientos denarios de pan no alcanzarían. Luego ve a Jesús alimentar a todos (Juan 6:7-13).",
+        "Unos griegos se acercan a Felipe: «querríamos ver a Jesús». Felipe va con Andrés a decírselo a Jesús (Juan 12:20-22).",
+        "En la última cena le pide: «Señor, muéstranos el Padre, y nos basta» (Juan 14:8).",
+        "Jesús le responde con cariño: «El que me ha visto, ha visto al Padre» (Juan 14:9).",
+        "Después de la ascensión, ora con los demás apóstoles en el aposento alto de Jerusalén (Hechos 1:13-14)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Felipe hacía cuentas y hacía preguntas. Jesús no se cansó de él. Lo probó con cariño en el monte y le abrió el corazón en la última cena. Quien quiere conocer a Dios no necesita buscar lejos: al mirar a Jesús, vemos al Padre."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Invitar vale más que discutir. Felipe no ganó la discusión con Natanael: lo invitó. Esta semana: invita a alguien a leer contigo un pasaje de los Evangelios.",
+        "Las cuentas no tienen la última palabra. Felipe vio que el dinero no alcanzaba. Esta semana: presenta a Dios en oración una necesidad que te parece imposible.",
+        "Las preguntas sinceras son bienvenidas. Esta semana: escribe una pregunta que tengas sobre Dios y búscala en el Evangelio de Juan."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era de Betsaida de Galilea (Juan 1:44; 12:21).",
+        "La Biblia no dice su oficio. No hay que suponer que era pescador.",
+        "Felipe el evangelista predicó en Samaria y bautizó al etíope. Es otra persona, uno de los siete (Hechos 6:5; 8:5-40; 21:8).",
+        "La Biblia no cuenta nada de Felipe el apóstol después de Hechos 1:13."
+      ],
+      "tradicion": [
+        "Escritores antiguos, como Polícrates de Éfeso, citado por Eusebio, cuentan que Felipe murió y fue sepultado en Hierápolis, en la actual Turquía.",
+        "Ya en esos relatos antiguos los dos Felipes a veces se mezclan. Por ejemplo, ambos aparecen con hijas.",
+        "Muchos cristianos recuerdan que dio su vida por Cristo en Hierápolis.",
+        "Católicos lo celebran junto con Santiago, hijo de Alfeo. Los ortodoxos lo recuerdan en noviembre."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "Felipe el evangelista, uno de los siete. Predicó en Samaria, bautizó al etíope y vivió en Cesarea (Hechos 8; 21:8).",
+        "Felipe, hermano del rey Herodes Antipas, esposo de Herodías (Marcos 6:17).",
+        "Felipe, el tetrarca que gobernaba Iturea y Traconite (Lucas 3:1)."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Juan 1:43-46", "nota": "«Sígueme» y «Ven y ve»" },
+        { "ref": "Mateo 10:3", "nota": "En la lista de los Doce" },
+        { "ref": "Juan 6:5-7", "nota": "La prueba del pan" },
+        { "ref": "Juan 12:20-22", "nota": "Los griegos quieren ver a Jesús" },
+        { "ref": "Juan 14:8-11", "nota": "«Muéstranos el Padre»" },
+        { "ref": "Hechos 1:13", "nota": "Orando con los once" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Felipe no sabía cómo dar de comer a tanta gente. ¿Qué hizo Jesús con cinco panes y dos peces?",
+      "actividad": "Para el adulto: cuenten juntos cinco galletas y dos peces de papel. Recuerden que Jesús alimentó a miles y que también cuida de ustedes."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, como Felipe, quiero ver al Padre. Abre mis ojos para verlo en ti. Y dame valor para decir a otros: «Ven y ve». Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué preguntas sinceras le harías hoy a Jesús?",
+        "¿Por qué funciona mejor invitar que discutir?",
+        "¿Qué nos enseña que Jesús «probara» a Felipe antes del milagro?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿De qué ciudad era Felipe?",
+      "opciones": ["Nazaret", "Betsaida", "Jerusalén"],
+      "correcta": 1,
+      "explicacion": "Felipe era de Betsaida, la ciudad de Andrés y de Pedro (Juan 1:44)."
+    },
+    {
+      "pregunta": "¿Qué le pidió Felipe a Jesús en la última cena?",
+      "opciones": ["Un lugar a su derecha", "Una señal del cielo", "Que les mostrara al Padre"],
+      "correcta": 2,
+      "explicacion": "Felipe dijo: «Señor, muéstranos el Padre, y nos basta». Jesús respondió: «El que me ha visto, ha visto al Padre» (Juan 14:8-9)."
+    },
+    {
+      "pregunta": "¿Quién predicó en Samaria y bautizó al etíope?",
+      "opciones": ["Felipe el evangelista, uno de los siete", "Felipe el apóstol, de Betsaida", "Felipe, el hermano de Herodes"],
+      "correcta": 0,
+      "explicacion": "Fue Felipe el evangelista, elegido entre los siete servidores (Hechos 6:5; 8:5-40). Es distinto del apóstol."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "galilea-milagros"],
+  "buscar": "Felipe, el apóstol"
+}

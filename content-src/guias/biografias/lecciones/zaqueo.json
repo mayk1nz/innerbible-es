@@ -1,0 +1,118 @@
+{
+  "id": "zaqueo",
+  "titulo": "Zaqueo",
+  "subtitulo": "El cobrador que bajó del árbol",
+  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Jericó"],
+  "enUnMinuto": [
+    "Zaqueo era el jefe de los cobradores de impuestos de Jericó, rico y mal visto por todos.",
+    "Era bajito, así que se subió a un árbol para ver pasar a Jesús.",
+    "Jesús lo llamó por su nombre, fue a su casa, y Zaqueo cambió de vida con alegría."
+  ],
+  "versiculo": {
+    "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.",
+    "referencia": "Lucas 19:10"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Zaqueo vivía en Jericó y era «el principal de los publicanos» (Lucas 19:2). Los publicanos cobraban impuestos para Roma. Muchos cobraban de más, y la gente los veía como traidores y ladrones.",
+        "Su nombre viene del hebreo Zakai: “puro” o “inocente”. Era rico. Solo Lucas cuenta su historia, en diez versículos, poco antes de la última semana de Jesús en Jerusalén."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Quiere ver a Jesús. Jesús pasaba por Jericó y había mucha gente. Zaqueo quería ver quién era, pero era de baja estatura (Lucas 19:1-3).",
+        "Sube a un árbol. Corrió delante y se subió a un sicómoro, un árbol de ramas bajas. Jesús iba a pasar por allí (Lucas 19:4).",
+        "Jesús lo llama por su nombre. Jesús se detuvo, miró hacia arriba y le dijo: «Zaqueo, date priesa, desciende». Quería quedarse en su casa ese mismo día (Lucas 19:5).",
+        "Baja con alegría. Zaqueo bajó enseguida y recibió a Jesús feliz. Pero todos murmuraban porque Jesús entraba en la casa de un pecador (Lucas 19:6-7).",
+        "Un cambio que se ve. Zaqueo se puso de pie y prometió dar la mitad de sus bienes a los pobres. Y devolver cuatro veces lo que hubiera robado (Lucas 19:8).",
+        "La salvación llega a casa. Jesús dijo que ese día había llegado la salvación a esa casa. Zaqueo también era hijo de Abraham (Lucas 19:9-10)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Zaqueo buscaba ver a Jesús, pero Jesús lo buscaba a él primero. No lo regañó desde abajo ni le puso condiciones. Lo llamó por su nombre y se sentó a su mesa. El cambio de Zaqueo vino después, como fruto de ese amor. Así es Jesús: busca a los perdidos."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Nadie está demasiado lejos. Todos habían descartado a Zaqueo, menos Jesús. Esta semana, ora por nombre por alguien que tú habías dado por perdido.",
+        "La gracia lleva a reparar. Zaqueo no se quedó en palabras: devolvió lo robado. Esta semana, si le debes algo a alguien, págalo o pide perdón.",
+        "No te quedes en la multitud. Zaqueo hizo algo raro para ver a Jesús. Esta semana, busca un momento a solas para leer Lucas 19:1-10 y orar."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Jesús le dijo a Zaqueo: «hoy es necesario que pose en tu casa». ¿Qué parte de tu casa o de tu vida quieres abrirle hoy? La alegría llega cuando lo recibes."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era jefe de los cobradores de impuestos en Jericó, y era rico (Lucas 19:2).",
+        "Era de baja estatura y se subió a un sicómoro (Lucas 19:3-4).",
+        "Prometió dar la mitad de sus bienes y devolver cuatro veces lo robado (Lucas 19:8).",
+        "La Biblia no vuelve a hablar de él."
+      ],
+      "tradicion": [
+        "Un escrito cristiano antiguo, del siglo IV, dice que Pedro lo nombró obispo de Cesarea. La Biblia no narra este hecho.",
+        "Clemente de Alejandría, escritor del siglo II, menciona una opinión que lo identifica con Matías. No es seguro.",
+        "En Jericó, los peregrinos visitan hoy un viejo sicómoro que la tradición local llama “el árbol de Zaqueo”."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "La ley de Moisés pedía devolver lo robado con un quinto más (Números 5:7). Zaqueo ofreció mucho más: el cuatro tanto, como en Éxodo 22:1."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Lucas 19:1-10", "nota": "Toda su historia" },
+        { "ref": "Lucas 15:1-2", "nota": "Jesús recibe a los publicanos" },
+        { "ref": "Lucas 5:27-32", "nota": "Otro publicano llamado por Jesús: Leví" },
+        { "ref": "Éxodo 22:1", "nota": "Devolver cuatro veces" },
+        { "ref": "Ezequiel 34:16", "nota": "Dios busca a la oveja perdida" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Zaqueo era bajito y se subió a un árbol para ver a Jesús. ¿Qué harías tú para ver a Jesús?",
+      "actividad": "Para papás y abuelos: Jesús llamó a Zaqueo por su nombre (Lucas 19:5). Digan juntos: “Jesús conoce mi nombre”, poniendo cada uno su nombre, y den gracias."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, gracias porque me buscas y me llamas por mi nombre. Entra hoy en mi casa. Dame un corazón generoso y valor para reparar lo que hice mal. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Por qué Zaqueo se subió a un árbol?",
+      "opciones": ["Para esconderse de la gente", "Para ver a Jesús, porque era bajito", "Para cortar fruta"],
+      "correcta": 1,
+      "explicacion": "Era de baja estatura y quería ver a Jesús (Lucas 19:3-4)."
+    },
+    {
+      "pregunta": "¿Qué prometió dar Zaqueo a los pobres?",
+      "opciones": ["La mitad de sus bienes", "Todo lo que tenía", "Una ofrenda en el templo"],
+      "correcta": 0,
+      "explicacion": "Dijo que daría la mitad de sus bienes a los pobres (Lucas 19:8)."
+    },
+    {
+      "pregunta": "Jesús llamó a Zaqueo «hijo de Abraham». ¿Qué otro publicano llamó Jesús?",
+      "opciones": ["Nicodemo", "Bernabé", "Leví, también llamado Mateo"],
+      "correcta": 2,
+      "explicacion": "Jesús llamó a Leví, un publicano, y comió en su casa (Lucas 5:27-29)."
+    }
+  ],
+  "estudio": ["camino-a-jerusalen"],
+  "buscar": "Zaqueo"
+}

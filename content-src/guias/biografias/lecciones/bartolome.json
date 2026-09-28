@@ -1,0 +1,128 @@
+{
+  "id": "bartolome",
+  "titulo": "Bartolomé",
+  "subtitulo": "También llamado Natanael",
+  "etiquetas": ["Los Doce", "Siglo I d.C.", "Caná de Galilea"],
+  "enUnMinuto": [
+    "Bartolomé es uno de los Doce, pero los Evangelios solo dan su nombre en las listas.",
+    "Muchos cristianos lo identifican con Natanael, el amigo de Felipe que dudó de Nazaret.",
+    "Jesús lo vio antes de que llegara y lo llamó «un verdadero Israelita, en el cual no hay engaño»."
+  ],
+  "versiculo": {
+    "texto": "Jesús vio venir a sí a Natanael, y dijo de él: He aquí un verdadero Israelita, en el cual no hay engaño.",
+    "referencia": "Juan 1:47"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Bartolomé viene del arameo «bar Talmai», que quiere decir «hijo de Tolmai». Es decir, parece más un apellido que un nombre propio.",
+        "Mateo, Marcos y Lucas lo nombran entre los Doce, siempre junto a Felipe (Mateo 10:3; Marcos 3:18; Lucas 6:14). Hechos lo nombra entre los once que oraban (Hechos 1:13).",
+        "La Biblia dice poco de él. No es un olvido: de varios apóstoles solo conocemos el nombre. Su vida quedó escondida en el grupo."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Bartolomé es Natanael?",
+      "parrafos": [
+        "El Evangelio de Juan nunca nombra a Bartolomé. En cambio, cuenta el llamado de Natanael, a quien los otros Evangelios no nombran.",
+        "En las listas, Bartolomé va junto a Felipe, y en Juan es Felipe quien lleva a Natanael a Jesús. Además, Natanael aparece entre los discípulos al final del Evangelio (Juan 21:2).",
+        "Por eso, desde hace muchos siglos, muchos cristianos piensan que son la misma persona. Es una deducción antigua y razonable, pero la Biblia no lo dice."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Lo que cuenta la Biblia de Natanael",
+      "items": [
+        "Felipe le anuncia que han hallado a aquel de quien escribió Moisés: Jesús de Nazaret (Juan 1:45).",
+        "Natanael duda: «¿De Nazaret puede haber algo de bueno?». Felipe responde: «Ven y ve» (Juan 1:46).",
+        "Jesús lo ve venir y dice que es un israelita sin engaño (Juan 1:47).",
+        "Natanael se sorprende. Jesús le dice que lo vio debajo de la higuera, antes de que Felipe lo llamara (Juan 1:48).",
+        "Natanael confiesa: «Rabbí, tú eres el Hijo de Dios; tú eres el Rey de Israel» (Juan 1:49).",
+        "Jesús le promete que verá cosas mayores: el cielo abierto sobre el Hijo del hombre (Juan 1:50-51).",
+        "Después de la resurrección, Natanael está con Pedro y otros junto al mar. Allí Jesús se les aparece (Juan 21:1-2)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Natanael llegó con un prejuicio contra Nazaret. Jesús no lo rechazó por eso. Lo conocía desde antes, debajo de la higuera, y vio lo bueno de su corazón. Ser conocido así por Jesús cambió su duda en fe."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Los prejuicios se caen al conocer a Jesús. Esta semana: identifica un prejuicio tuyo hacia un lugar o grupo, y ora por esas personas.",
+        "Dios te ve antes de que lo busques. Esta semana: busca un lugar tranquilo, como Natanael bajo la higuera, y habla con Dios cinco minutos al día.",
+        "La sinceridad le agrada a Jesús. Esta semana: en una conversación difícil, di la verdad con amor, sin disfrazarla."
+      ]
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Bartolomé está en las cuatro listas de los apóstoles (Mateo 10:3; Marcos 3:18; Lucas 6:14; Hechos 1:13).",
+        "Natanael era de Caná de Galilea (Juan 21:2).",
+        "Que Bartolomé y Natanael sean la misma persona es una deducción, no un dato del texto.",
+        "La Biblia no cuenta cómo terminó su vida."
+      ],
+      "tradicion": [
+        "Eusebio cuenta que un maestro llamado Panteno viajó a la «India». Allí halló un Evangelio de Mateo que Bartolomé habría dejado.",
+        "La Iglesia armenia lo honra, junto con Judas Tadeo, como uno de los apóstoles que llevaron el Evangelio a Armenia.",
+        "Muchos cristianos recuerdan que dio su vida por Cristo en Armenia.",
+        "Sus reliquias se veneran en Roma, en una iglesia de la isla Tiberina, y también en otros lugares."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Mateo 10:3", "nota": "Bartolomé en la lista de los Doce" },
+        { "ref": "Hechos 1:13", "nota": "Orando con los once" },
+        { "ref": "Juan 1:45-51", "nota": "Natanael conoce a Jesús" },
+        { "ref": "Juan 21:1-2", "nota": "Natanael junto al mar" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús vio a Natanael debajo de un árbol antes de conocerlo. ¿Sabías que Jesús también te conoce a ti?",
+      "actividad": "Para el adulto: dibujen juntos una higuera y al niño debajo. Escriban: «Jesús me conoce y me ama»."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú me conoces antes de que yo te busque. Quita mis prejuicios y mis dudas. Dame un corazón sincero, sin engaño. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué «Nazaret» nos cuesta aceptar hoy? ¿De quién pensamos que no puede salir nada bueno?",
+        "¿Qué sientes al saber que Jesús te conoce antes de que llegues?",
+        "¿Por qué creen que la Biblia cuenta tan poco de algunos apóstoles?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué preguntó Natanael cuando oyó de Jesús de Nazaret?",
+      "opciones": ["¿De Nazaret puede haber algo de bueno?", "¿Dónde vive el Maestro?", "¿Quién es su padre?"],
+      "correcta": 0,
+      "explicacion": "Natanael dudó de Nazaret, y Felipe le dijo: «Ven y ve» (Juan 1:46)."
+    },
+    {
+      "pregunta": "¿Dónde vio Jesús a Natanael antes de que Felipe lo llamara?",
+      "opciones": ["En la sinagoga", "En una barca", "Debajo de la higuera"],
+      "correcta": 2,
+      "explicacion": "Jesús le dijo: «cuando estabas debajo de la higuera te vi» (Juan 1:48)."
+    },
+    {
+      "pregunta": "¿Por qué muchos piensan que Bartolomé y Natanael son la misma persona?",
+      "opciones": ["Porque Hechos lo dice claramente", "Porque en las listas va junto a Felipe", "Porque los dos eran de Betsaida"],
+      "correcta": 1,
+      "explicacion": "Bartolomé aparece junto a Felipe en las listas, y Felipe llevó a Natanael a Jesús. Es una deducción, no un dato bíblico."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "resurreccion"],
+  "buscar": "Natanael"
+}

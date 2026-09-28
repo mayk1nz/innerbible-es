@@ -1,0 +1,119 @@
+{
+  "id": "nicodemo",
+  "titulo": "Nicodemo",
+  "subtitulo": "El maestro que vino de noche",
+  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Jerusalén"],
+  "enUnMinuto": [
+    "Nicodemo era un fariseo, maestro y jefe de su pueblo, que buscó a Jesús de noche.",
+    "Jesús le habló de nacer de nuevo y del amor de Dios, que dio a su Hijo.",
+    "Poco a poco, Nicodemo se atrevió a más: defendió a Jesús y ayudó a sepultarlo."
+  ],
+  "versiculo": {
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+    "referencia": "Juan 3:16"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Nicodemo era fariseo, es decir, parte de un grupo que estudiaba y cuidaba mucho la Ley de Dios. Juan lo llama «príncipe de los Judíos», un jefe del pueblo (Juan 3:1). Jesús lo llamó «el maestro de Israel» (Juan 3:10).",
+        "Su nombre es griego y significa “vencedor del pueblo”. Vivía en Jerusalén en tiempos de Jesús. Solo el Evangelio de Juan habla de él, en tres momentos."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Una visita de noche. Nicodemo fue a ver a Jesús de noche. Le dijo que sus señales mostraban que venía de Dios (Juan 3:1-2).",
+        "Nacer otra vez. Jesús le dijo que, para ver el reino de Dios, hay que nacer de nuevo. Nicodemo no entendía: ¿cómo puede nacer un hombre ya viejo? (Juan 3:3-4).",
+        "El viento y el Espíritu. Jesús le explicó que ese nuevo nacimiento viene del Espíritu. Es como el viento: no lo ves, pero oyes su sonido (Juan 3:5-8).",
+        "La serpiente en el desierto. Jesús le recordó la serpiente de metal que Moisés levantó. Así él también sería levantado, para dar vida a quien crea (Juan 3:14-15; Números 21:8-9).",
+        "El amor más grande. En esa conversación aparece el versículo más conocido de la Biblia. Dios amó tanto al mundo que dio a su Hijo (Juan 3:16-17).",
+        "Una voz a favor de la justicia. Tiempo después, los jefes querían arrestar a Jesús. Nicodemo pidió que no lo juzgaran sin escucharlo primero (Juan 7:45-52).",
+        "A plena luz. Cuando Jesús murió, Nicodemo llevó unas cien libras de mirra y áloe, unos treinta kilos. Junto con José de Arimatea, envolvió el cuerpo y lo sepultó (Juan 19:38-42)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Jesús recibe a Nicodemo de noche, sin reproches, y le da la mejor noticia. No lo manda a esforzarse más, sino a recibir una vida nueva de Dios. Le anuncia la cruz con la imagen de la serpiente levantada. Y en la cruz, Nicodemo por fin da la cara por Jesús."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Jesús recibe tus preguntas. Nicodemo llegó con dudas y Jesús conversó con él. Esta semana, lleva a Jesús en oración la pregunta que nunca te atreviste a hacer.",
+        "La fe puede crecer despacio. Nicodemo pasó de la noche a la luz del día. Esta semana, da un paso visible de fe: ora en la mesa o comparte un versículo.",
+        "Defender lo justo. Nicodemo pidió que escucharan a Jesús antes de juzgarlo. Esta semana, cuando alguien critique a un ausente, pide escuchar su versión."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Nicodemo era un hombre religioso y respetado, y aun así necesitaba nacer de nuevo. ¿Confías en lo que haces para Dios, o en lo que Dios hace en ti? Lee despacio Juan 3:16 y pon tu nombre donde dice «el mundo»."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Era fariseo y jefe de su pueblo (Juan 3:1).",
+        "Fue a ver a Jesús de noche (Juan 3:2; 19:39).",
+        "Defendió que Jesús fuera escuchado antes de ser juzgado (Juan 7:50-51).",
+        "Ayudó a sepultar a Jesús con José de Arimatea (Juan 19:39-40).",
+        "La Biblia no dice qué fue de él después."
+      ],
+      "tradicion": [
+        "Un escrito del siglo IV, que no forma parte de la Biblia, lleva su nombre: el Evangelio de Nicodemo.",
+        "Muchos cristianos, especialmente católicos y ortodoxos, lo recuerdan como santo y discípulo de Jesús.",
+        "Algunas tradiciones cuentan que fue bautizado y que sufrió por su fe. La Biblia no narra estos hechos."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "En Juan 3 no hay comillas en el griego original. Algunos piensan que Juan 3:16-21 son palabras de Jesús a Nicodemo. Otros, que es un comentario del evangelista. El mensaje es el mismo."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Juan 3:1-21", "nota": "La conversación de noche" },
+        { "ref": "Juan 7:45-52", "nota": "Defiende que Jesús sea escuchado" },
+        { "ref": "Juan 19:38-42", "nota": "La sepultura de Jesús" },
+        { "ref": "Números 21:4-9", "nota": "La serpiente de metal" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Nicodemo fue a ver a Jesús de noche para hacerle preguntas. ¿Qué pregunta te gustaría hacerle tú a Jesús?",
+      "actividad": "Para papás y abuelos: Jesús respondió a Nicodemo con paciencia y le habló del amor de Dios (Juan 3:16). Ayuden al niño a aprender Juan 3:16 con su propio nombre."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, gracias porque amaste tanto al mundo que diste a tu Hijo. Dame una vida nueva por tu Espíritu. Quita mi miedo, para seguir a Jesús a plena luz. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿En qué momento del día fue Nicodemo a ver a Jesús?",
+      "opciones": ["Al mediodía", "De noche", "Al amanecer"],
+      "correcta": 1,
+      "explicacion": "Juan dice que Nicodemo «vino a Jesús de noche» (Juan 3:2)."
+    },
+    {
+      "pregunta": "¿Qué le dijo Jesús que hacía falta para ver el reino de Dios?",
+      "opciones": ["Estudiar más la Ley", "Dar ofrendas en el templo", "Nacer de nuevo"],
+      "correcta": 2,
+      "explicacion": "Jesús le dijo que hay que nacer otra vez, del Espíritu (Juan 3:3-5)."
+    },
+    {
+      "pregunta": "¿Qué imagen de Moisés usó Jesús para hablar de la cruz?",
+      "opciones": ["La serpiente de metal", "La zarza que ardía", "Las tablas de piedra"],
+      "correcta": 0,
+      "explicacion": "Como Moisés levantó la serpiente, Jesús sería levantado para dar vida (Juan 3:14; Números 21:9)."
+    }
+  ],
+  "estudio": ["inicio-ministerio", "pasion-y-muerte"],
+  "buscar": "Nicodemo"
+}

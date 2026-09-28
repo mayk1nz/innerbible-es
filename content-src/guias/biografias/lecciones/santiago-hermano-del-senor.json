@@ -1,0 +1,126 @@
+{
+  "id": "santiago-hermano-del-senor",
+  "titulo": "Santiago, hermano del Señor",
+  "subtitulo": "Líder de la iglesia de Jerusalén",
+  "etiquetas": ["Siglo I", "La Iglesia naciente", "Jerusalén"],
+  "enUnMinuto": [
+    "Santiago creció cerca de Jesús, pero al principio no creía en él.",
+    "Después de la resurrección, Jesús se le apareció y Santiago llegó a ser un líder de la iglesia de Jerusalén.",
+    "La tradición le atribuye la carta de Santiago, que pide una fe que se vea en las obras."
+  ],
+  "versiculo": {
+    "texto": "Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "referencia": "Santiago 1:22"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "En la Reina-Valera su nombre es Jacobo; en español lo solemos llamar Santiago. Los Evangelios lo nombran entre los «hermanos» de Jesús, junto con José, Simón y Judas (Mateo 13:55). Pablo lo llama «Jacobo el hermano del Señor» (Gálatas 1:19).",
+        "Vivió en Nazaret y luego en Jerusalén, en el siglo I. Pablo lo cuenta entre las «columnas» de la iglesia, con Pedro y Juan (Gálatas 2:9). No era uno de los Doce: es otro Santiago."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Cerca, pero sin creer. En Nazaret, la gente conocía a Jesús y a su familia (Marcos 6:3). Durante el ministerio de Jesús, «ni aun sus hermanos creían en él» (Juan 7:5).",
+        "Un encuentro que lo cambia. Después de resucitar, Jesús «apareció a Jacobo» (1 Corintios 15:7). Muchos entienden que se trata de este Santiago.",
+        "En oración con la iglesia. Tras la ascensión, los hermanos de Jesús oraban junto con María y los apóstoles (Hechos 1:14).",
+        "Un líder reconocido. Al salir de la cárcel, Pedro pidió: «Haced saber esto a Jacobo y a los hermanos» (Hechos 12:17).",
+        "Pablo lo visita. Tres años después de su conversión, Pablo fue a Jerusalén. Allí vio a Pedro y a Santiago (Gálatas 1:18-19).",
+        "La reunión de Jerusalén. Hubo una discusión sobre los no judíos que creían. Santiago citó a los profetas y propuso no ponerles cargas de más (Hechos 15:13-21).",
+        "Recibe a Pablo otra vez. Años después, Pablo contó a Santiago y a los ancianos lo que Dios hacía entre las naciones. Todos alabaron a Dios (Hechos 21:17-20)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Santiago vivió años junto a Jesús sin creer en él. No fue la cercanía la que lo cambió, sino el encuentro con Jesús resucitado. Jesús no guardó rencor: buscó a quien dudaba y lo hizo pastor de su iglesia."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Estar cerca no es lo mismo que creer. Santiago lo vio todo y tardó en creer. Esta semana, pregúntate con sinceridad: ¿conozco a Jesús o solo sé de él?",
+        "Una fe que se ve. La carta de Santiago pide cuidar de huérfanos y viudas (Santiago 1:27). Esta semana, visita o ayuda a una persona sola.",
+        "Buscar la paz en los desacuerdos. En Jerusalén, Santiago ayudó a encontrar un camino común. Esta semana, en una discusión, busca primero lo que los une."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Quizás tienes en casa a alguien que todavía no cree. Santiago tardó, pero Jesús lo alcanzó. No pierdas la esperanza: ora esta semana por esa persona cada día."
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Los Evangelios lo nombran entre los hermanos de Jesús (Mateo 13:55; Marcos 6:3).",
+        "Al principio no creía en Jesús (Juan 7:5).",
+        "Fue líder de la iglesia de Jerusalén (Hechos 15:13; 21:18; Gálatas 2:9).",
+        "El autor de la carta se presenta como «Jacobo, siervo de Dios» (Santiago 1:1). Y el autor de Judas se llama «hermano de Jacobo» (Judas 1).",
+        "La Biblia no narra su muerte."
+      ],
+      "tradicion": [
+        "La tradición le atribuye la carta de Santiago. Se le conoce como “Santiago el Justo”.",
+        "Hegesipo, del siglo II, cuenta que oraba tanto de rodillas que tenía callos como un camello.",
+        "Historia: Flavio Josefo, historiador judío del siglo I, cuenta que murió por su fe en Jerusalén, hacia el año 62.",
+        "Algunos, siguiendo a san Jerónimo, lo identifican con Santiago hijo de Alfeo, uno de los Doce. Otros los ven como dos personas distintas."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Sobre los «hermanos del Señor» hay dos lecturas. Los evangélicos suelen entender que eran hijos de María y José, nacidos después de Jesús. Católicos y ortodoxos entienden que eran parientes cercanos de Jesús."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Mateo 13:55", "nota": "Entre los hermanos de Jesús" },
+        { "ref": "Juan 7:3-5", "nota": "Todavía no creían en él" },
+        { "ref": "1 Corintios 15:7", "nota": "Jesús resucitado se le aparece" },
+        { "ref": "Hechos 1:14", "nota": "En oración con la iglesia" },
+        { "ref": "Hechos 12:17", "nota": "Pedro le manda aviso" },
+        { "ref": "Hechos 15:13-21", "nota": "Habla en la reunión de Jerusalén" },
+        { "ref": "Hechos 21:17-20", "nota": "Recibe a Pablo" },
+        { "ref": "Gálatas 1:18-19", "nota": "El hermano del Señor" },
+        { "ref": "Gálatas 2:9", "nota": "Una de las columnas" },
+        { "ref": "Santiago 1:1", "nota": "El saludo de la carta" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Santiago tardó en creer en Jesús, pero un día se encontró con él resucitado y cambió. ¿Por quién de tu familia quieres orar para que conozca a Jesús?",
+      "actividad": "Para papás y abuelos: Jesús no se olvidó de Santiago (1 Corintios 15:7). Escriban juntos el nombre de esa persona y oren por ella cada noche de esta semana."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, como a Santiago, encuéntrame donde estoy. Que mi fe no se quede en palabras, sino que se vea en lo que hago. Y alcanza a los míos que todavía no creen. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llama Santiago en la Reina-Valera?",
+      "opciones": ["Jacobo", "Jonás", "Josías"],
+      "correcta": 0,
+      "explicacion": "La Reina-Valera lo llama «Jacobo el hermano del Señor» (Gálatas 1:19)."
+    },
+    {
+      "pregunta": "¿Qué dice Juan 7:5 de los hermanos de Jesús?",
+      "opciones": ["Que eran pescadores", "Que no creían en él", "Que vivían en Egipto"],
+      "correcta": 1,
+      "explicacion": "Durante el ministerio de Jesús, sus hermanos todavía no creían en él (Juan 7:5)."
+    },
+    {
+      "pregunta": "¿En qué reunión habló Santiago sobre los no judíos que creían?",
+      "opciones": ["En la cena de Betania", "En el camino a Damasco", "En la reunión de Jerusalén"],
+      "correcta": 2,
+      "explicacion": "Propuso no poner cargas de más a los no judíos (Hechos 15:13-21)."
+    }
+  ],
+  "estudio": ["santiago", "hechos-15-18"],
+  "buscar": "Santiago hermano del Señor"
+}

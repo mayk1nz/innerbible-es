@@ -1,0 +1,105 @@
+{
+  "id": "lidia",
+  "titulo": "Lidia",
+  "subtitulo": "Un corazón abierto",
+  "etiquetas": ["c. 50 d.C.", "Filipos, en Macedonia", "trabajo", "hospitalidad"],
+  "enUnMinuto": [
+    "Lidia es una comerciante de púrpura, de la ciudad de Tiatira, que adora a Dios en Filipos.",
+    "Un sábado, junto al río, escucha a Pablo, y el Señor le abre el corazón.",
+    "Se bautiza con su familia y abre su casa a los misioneros y a la nueva iglesia."
+  ],
+  "versiculo": {
+    "texto": "Entonces una mujer llamada Lidia, que vendía púrpura en la ciudad de Tiatira, temerosa de Dios, estaba oyendo; el corazón de la cual abrió el Señor para que estuviese atenta a lo que Pablo decía.",
+    "referencia": "Hechos 16:14"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Su nombre",
+      "parrafos": [
+        "Lidia era también el nombre de una región de Asia Menor, donde estaba su ciudad, Tiatira. Quizás su nombre recordaba su origen, pero no es seguro."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su historia",
+      "parrafos": [
+        "Pablo tuvo una visión: un hombre de Macedonia le pedía ayuda. Entonces él y sus compañeros cruzaron el mar hasta Filipos, una colonia romana. El sábado salieron por la puerta de la ciudad, junto al río, a un lugar donde se solía orar.",
+        "Allí encontraron a unas mujeres reunidas. Una de ellas era Lidia, vendedora de púrpura, de la ciudad de Tiatira. La púrpura era un tinte caro, que usaba la gente importante. Lidia era «temerosa de Dios»: adoraba al Dios de Israel, aunque probablemente no era judía de nacimiento.",
+        "Lidia escuchaba a Pablo. Y Lucas dice algo hermoso: el Señor le abrió el corazón para que estuviera atenta. Creyó en Jesús y fue bautizada con toda su familia. Enseguida invitó a los misioneros: «entrad en mi casa, y posad». Insistió tanto que no pudieron decir que no.",
+        "Después, Pablo y Silas fueron azotados y encarcelados en Filipos. Cuando los soltaron, lo primero que hicieron fue ir a casa de Lidia. Allí vieron a los hermanos, los consolaron y siguieron su camino (Hechos 16:40). La casa de Lidia se había vuelto un hogar para la iglesia."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Su virtud: un corazón abierto y una casa abierta",
+      "parrafos": [
+        "Lidia ya buscaba a Dios antes de conocer a Pablo: estaba en el lugar de oración. Escuchó con atención. Y cuando creyó, su fe se notó enseguida en su casa. No separó su fe de su trabajo ni de sus bienes. Abrió las puertas a unos extranjeros y, más tarde, a unos presos recién liberados."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Lo que Dios hizo a través de ella",
+      "tono": "navy",
+      "texto": "Fue el Señor quien abrió el corazón de Lidia. Ella escuchaba, pero Dios hizo la obra. A través de esta mujer trabajadora, el Evangelio echó raíces en Filipos. Años después, Pablo escribió a esa iglesia una carta llena de cariño: «Doy gracias a mi Dios en toda memoria de vosotros» (Filipenses 1:3)."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Si trabajas mucho, tu oficio también puede ser un lugar para servir a Dios. Si buscas a Dios y no entiendes todo, pídele que abra tu corazón: él lo hace. Tu casa, grande o pequeña, puede ser un lugar de encuentro y descanso para otros. Para los hombres y los jóvenes: recibir a otros es una manera sencilla de amar a Jesús."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para leer la historia completa",
+      "items": [
+        { "ref": "Hechos 16:9-15", "nota": "Pablo llega a Filipos y conoce a Lidia." },
+        { "ref": "Hechos 16:40", "nota": "Pablo y Silas vuelven a casa de Lidia." },
+        { "ref": "Filipenses 1:3-5", "nota": "Pablo agradece a la iglesia de Filipos." }
+      ]
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, abre mi corazón para escuchar tu palabra. Que mi trabajo y mi casa sean para ti. Dame un corazón generoso para recibir a otros. Y gracias porque tú haces la obra en mí. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para compartir en grupo",
+      "items": [
+        "Para empezar: ¿qué persona te recibió en su casa de una manera que nunca olvidaste?",
+        "Lidia buscaba a Dios antes de conocer a Pablo. ¿Cómo reconocemos hoy a alguien que busca a Dios?",
+        "Lucas dice que el Señor abrió su corazón. ¿Qué significa para ti que la fe sea obra de Dios?",
+        "¿Cómo pueden nuestras casas ser lugares de encuentro para la fe?",
+        "Dinámica: planeen una comida sencilla en la casa de alguien del grupo e inviten a una persona nueva.",
+        "Para cerrar: lean Hechos 16:14-15 y oren por los que buscan a Dios."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Lidia vendía telas de color morado. Un día escuchó a Pablo hablar de Jesús junto a un río, y Dios le abrió el corazón. Después invitó a Pablo y a sus amigos a su casa. ¿A quién podrías invitar tú?",
+      "actividad": "Coloreen un corazón de morado y escriban dentro: “Señor, abre mi corazón”. Para memorizar: «el corazón de la cual abrió el Señor» (Hechos 16:14)."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué vendía Lidia?",
+      "opciones": ["Pan y pescado", "Púrpura", "Aceite"],
+      "correcta": 1,
+      "explicacion": "Lidia vendía púrpura, un tinte caro, y era de la ciudad de Tiatira (Hechos 16:14)."
+    },
+    {
+      "pregunta": "¿Dónde conoció Lidia a Pablo?",
+      "opciones": ["Junto a un río, en un lugar de oración", "En la sinagoga de Jerusalén", "En la cárcel"],
+      "correcta": 0,
+      "explicacion": "El sábado salieron junto al río, donde solía ser la oración (Hechos 16:13)."
+    },
+    {
+      "pregunta": "¿Adónde fueron Pablo y Silas al salir de la cárcel de Filipos?",
+      "opciones": ["Al puerto", "Al templo", "A casa de Lidia"],
+      "correcta": 2,
+      "explicacion": "Entraron en casa de Lidia, vieron a los hermanos y los consolaron (Hechos 16:40)."
+    }
+  ],
+  "estudio": ["hechos-15-18"],
+  "buscar": "Hechos 16:11-15"
+}

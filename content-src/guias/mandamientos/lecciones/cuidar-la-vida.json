@@ -1,0 +1,128 @@
+{
+  "id": "cuidar-la-vida",
+  "titulo": "Cuidar la vida",
+  "subtitulo": "Evangélico: 6.º · Católico: 5.º",
+  "etiquetas": ["Éxodo 20:13", "Amor al prójimo"],
+  "enUnMinuto": [
+    "Toda vida humana es valiosa, porque Dios nos hizo a su imagen.",
+    "Jesús fue más hondo: el enojo que desprecia y el insulto también hieren la vida.",
+    "Cuidar la vida es protegerla, sanar heridas y buscar la paz, empezando por casa."
+  ],
+  "versiculo": {
+    "texto": "No matarás.",
+    "referencia": "Éxodo 20:13"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "La Palabra",
+      "items": [
+        { "ref": "Éxodo 20:13", "nota": "Dos palabras que protegen a cada persona." },
+        { "ref": "Deuteronomio 5:17", "nota": "Moisés lo repite igual: «No matarás»." },
+        { "ref": "Génesis 1:27", "nota": "La razón de fondo: Dios creó al ser humano a su imagen." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Qué significa en palabras simples",
+      "parrafos": [
+        "Dios te pide no quitarle la vida a nadie. Cada persona es un regalo suyo, hecha a su imagen. Nadie tiene derecho a destruir lo que Dios ama.",
+        "Pero el mandamiento no solo prohíbe. También te invita a cuidar la vida, la tuya y la de los demás. A proteger al débil, ayudar al herido y buscar la paz."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Un poco de contexto",
+      "parrafos": [
+        "La primera muerte de la Biblia ocurrió entre hermanos. Antes, Dios le advirtió a Caín que dominara su enojo: «el pecado está a la puerta» (Génesis 4:7). Caín no escuchó, y mató a su hermano Abel en el campo.",
+        "La ley de Israel también pedía cuidar la vida en lo cotidiano. Quien construía una casa debía poner una baranda en la azotea, para que nadie cayera (Deuteronomio 22:8). Cuidar la vida también es prevenir accidentes."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Cómo Jesús lo vivió y lo enseñó",
+      "tono": "navy",
+      "texto": "Jesús fue a la raíz: «cualquiera que se enojare locamente con su hermano, será culpado del juicio» (Mateo 5:22). El desprecio y el insulto también hieren. Por eso pidió hacer las paces antes de ofrecer algo a Dios (Mateo 5:24). Uno de los suyos hirió a un siervo con la espada. Jesús lo detuvo y sanó al herido (Lucas 22:50-51). Él vino «para que tengan vida» (Juan 10:10)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "En tu día a día",
+      "items": [
+        "Niños: no pegues ni empujes. Si estás enojado, respira, cuenta hasta diez y habla con un adulto.",
+        "Jóvenes: no te burles de nadie ni lo humilles, tampoco en las redes. Si ves acoso, defiende a la víctima o avisa a un adulto.",
+        "Adultos: maneja con cuidado y nunca después de beber. Resuelve los conflictos hablando, sin gritos ni golpes.",
+        "Mayores: tu vida sigue siendo valiosa. Visita a los enfermos y a los que están solos: una visita también cuida la vida.",
+        "Todos: «no se ponga el sol sobre vuestro enojo» (Efesios 4:26). Busca hoy la paz con alguien."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Si esto te toca de cerca",
+      "parrafos": [
+        "Si alguna vez pensaste en quitarte la vida, no estás solo, y tu vida importa mucho. Habla hoy con alguien de confianza. Llama a una línea de ayuda de tu país o a emergencias. Pedir ayuda no es falta de fe. «Cercano está Jehová a los quebrantados de corazón» (Salmos 34:18).",
+        "Si en tu casa hay violencia, busca un lugar seguro y pide ayuda. Y si cargas con la culpa de haber dañado a alguien, Dios no te rechaza. Él perdona al que vuelve a él (1 Juan 1:9). Busca a un pastor o a un sacerdote para hablar y orar."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Escribe los nombres de las personas con las que estás enojado. Ora por cada una.",
+        "Da el primer paso para hacer las paces con alguien, como pide Mateo 5:24.",
+        "Cuida tu cuerpo: duerme bien, come sano o sal a caminar.",
+        "Visita o llama a un enfermo o a alguien que vive solo.",
+        "Pasa un día sin insultos ni apodos que hieren.",
+        "Da gracias a Dios por la vida de tres personas, y díselo a ellas.",
+        "Ayuda a quien cuida la vida: un hospital, un hogar de ancianos o una familia necesitada."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Versículos para seguir leyendo",
+      "items": [
+        { "ref": "Mateo 5:21-24", "nota": "Jesús lleva el mandamiento hasta el enojo y el insulto." },
+        { "ref": "Lucas 10:30-37", "nota": "El buen samaritano se detiene y cuida al herido." },
+        { "ref": "Salmos 139:13-14", "nota": "Dios nos formó con cuidado desde el vientre de la madre." },
+        { "ref": "1 Juan 3:15", "nota": "El odio al hermano ya es una forma de matar." },
+        { "ref": "Romanos 12:21", "nota": "Vence con el bien el mal." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Dios hizo a cada persona con mucho amor, ¡también a ti! Por eso no lastimamos a nadie. Cuando te enojes, no pegues: respira, habla y pide ayuda.",
+      "actividad": "Dibuja tu mano. En cada dedo escribe algo que puedes hacer en vez de pegar: respirar, contar, hablar, abrazar, pedir ayuda."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Dios de la vida, gracias por mi vida y por la de cada persona. Sana mi enojo y mis heridas. Hazme alguien que cuida, protege y busca la paz. Y abraza hoy a los que ya no quieren vivir. Amén."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Hoy puedes cuidar una vida con algo pequeño: una llamada, una palabra amable, un plato de comida o un perdón. Jesús vino a dar vida en abundancia. Esta semana, lleva un poco de esa vida a alguien que la necesita."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quién fue el primero en matar en la Biblia?",
+      "opciones": ["Caín", "Esaú", "El faraón"],
+      "correcta": 0,
+      "explicacion": "Caín no dominó su enojo y mató a su hermano Abel (Génesis 4:8)."
+    },
+    {
+      "pregunta": "Según Jesús, ¿qué otra cosa hiere, además de matar?",
+      "opciones": ["Trabajar en día de reposo", "El enojo que desprecia e insulta", "Comer sin lavarse las manos"],
+      "correcta": 1,
+      "explicacion": "Jesús enseñó que el enojo y el insulto también hieren la vida (Mateo 5:22)."
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús con el siervo herido por la espada?",
+      "opciones": ["Lo dejó en el suelo", "Lo mandó al templo", "Tocó su oreja y lo sanó"],
+      "correcta": 2,
+      "explicacion": "«Y tocando su oreja, le sanó» (Lucas 22:51)."
+    }
+  ],
+  "estudio": ["exodo", "galilea-ensenanzas"],
+  "buscar": "Éxodo 20:13"
+}

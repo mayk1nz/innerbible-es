@@ -1,0 +1,134 @@
+{
+  "id": "repaso-final",
+  "titulo": "Repaso final",
+  "subtitulo": "Quiz de diez preguntas y «Los 10 en tus manos»",
+  "etiquetas": ["El gran mandamiento", "Repaso"],
+  "enUnMinuto": [
+    "Repasa los diez con un juego de manos y diez preguntas sencillas.",
+    "La mano izquierda recuerda el amor a Dios; la derecha, el amor al prójimo.",
+    "No se trata de sacar nota, sino de guardar la Palabra de Dios en el corazón."
+  ],
+  "versiculo": {
+    "texto": "En mi corazón he guardado tus dichos, para no pecar contra ti.",
+    "referencia": "Salmos 119:11"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Cómo hacer este repaso",
+      "parrafos": [
+        "Este repaso tiene dos partes. Primero, un juego con tus manos para recordar los diez. Después, diez preguntas, una por cada mandamiento.",
+        "Hazlo solo, en familia o con tu grupo. Si no recuerdas una respuesta, vuelve a la lección. No es un examen: es una forma de guardar lo aprendido."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los 10 en tus manos: mano izquierda",
+      "items": [
+        "Pulgar: Solo Dios en el primer lugar. Pulgar arriba: Dios va primero.",
+        "Índice: Adorar solo a Dios. El índice señala al cielo.",
+        "Medio: El nombre de Dios es santo. Es el dedo más alto, como su nombre.",
+        "Anular: Un día para Dios y para descansar. Como un anillo: una cita fiel cada semana.",
+        "Meñique: Honra a tu padre y a tu madre. El más pequeño, como un hijo que honra."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los 10 en tus manos: mano derecha",
+      "items": [
+        "Pulgar: Cuidar la vida. Pulgar arriba: cada vida vale.",
+        "Índice: Fidelidad y pureza. Un solo dedo, un solo amor fiel.",
+        "Medio: Lo que es de otro, es de otro. Manos que trabajan y comparten.",
+        "Anular: Hablar con la verdad. Tu palabra vale como una promesa.",
+        "Meñique: Un corazón contento. Lo pequeño alcanza cuando Dios está contigo."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "En las dos tradiciones, los cuatro primeros dedos de la mano izquierda hablan del amor a Dios. Los evangélicos cuentan ahí cuatro mandamientos; los católicos, tres. El meñique, honrar a los padres, es el puente: ya habla del prójimo."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Diez preguntas de repaso",
+      "items": [
+        "¿Qué respondió Jesús cuando el diablo le pidió que lo adorara? Respuesta: «Al Señor tu Dios adorarás y a él solo servirás» (Mateo 4:10).",
+        "¿Qué hizo el pueblo mientras Moisés estaba en el monte? Respuesta: un becerro de oro, y lo llamó su dios (Éxodo 32:4).",
+        "¿Qué pedimos en el Padre Nuestro antes que el pan? Respuesta: «santificado sea tu nombre» (Mateo 6:9).",
+        "Según Jesús, ¿para quién fue hecho el día de reposo? Respuesta: para el ser humano (Marcos 2:27).",
+        "¿Cuál es «el primer mandamiento con promesa»? Respuesta: honrar a tu padre y a tu madre (Efesios 6:2).",
+        "¿Qué enseñó Jesús sobre el enojo? Respuesta: que el desprecio también hiere, y que hay que hacer las paces primero (Mateo 5:22-24).",
+        "Según Jesús, ¿dónde empieza la pureza? Respuesta: en la mirada y en el corazón (Mateo 5:28).",
+        "¿Qué prometió Zaqueo después de recibir a Jesús? Respuesta: dar a los pobres y devolver cuatro veces lo que quitó (Lucas 19:8).",
+        "¿Qué hizo Jesús ante los testigos falsos? Respuesta: «Mas Jesús callaba» (Mateo 26:63).",
+        "¿Qué aprendió Pablo, según Filipenses 4:11? Respuesta: a contentarse con lo que tenía."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús, el centro de todo",
+      "tono": "navy",
+      "texto": "Los diez mandamientos muestran cómo es el amor. Jesús los cumplió por nosotros y nos da su Espíritu para vivirlos. Por eso este repaso no termina con una nota, sino con una mirada a él. Él dijo: «Si me amáis, guardad mis mandamientos» (Juan 14:15). Primero nos amó; ahora nos enseña a amar."
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Reto de la semana",
+      "items": [
+        "Aprende la mano izquierda: di los cinco en voz alta tocando cada dedo.",
+        "Aprende la mano derecha de la misma forma.",
+        "Enséñale el juego de las manos a un niño o a un nieto.",
+        "Responde las diez preguntas sin mirar. Después revisa las que fallaste.",
+        "Elige el mandamiento que más te cuesta y vuelve a leer su lección.",
+        "Escribe una oración de gracias por lo que aprendiste en esta guía.",
+        "Conversa con alguien de otra iglesia sobre los mandamientos. Busquen juntos lo que los une."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Para seguir leyendo",
+      "items": [
+        { "ref": "Deuteronomio 6:6-7", "nota": "Repetir estas palabras a los hijos, en casa y en el camino." },
+        { "ref": "Salmos 119:9-16", "nota": "Guardar la Palabra en el corazón." },
+        { "ref": "Salmos 1:1-3", "nota": "Quien medita en la ley de Dios es como un árbol junto al agua." },
+        { "ref": "Santiago 1:22", "nota": "Hacedores de la palabra, y no solo oidores." },
+        { "ref": "Juan 14:15", "nota": "Guardar sus mandamientos por amor a Jesús." }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "¡Tienes los diez mandamientos en tus manos! Diez dedos, diez palabras de Dios. Cuando juntes tus manos para orar, acuérdate: una mano para amar a Dios y otra para amar a los demás.",
+      "actividad": "Dibuja el contorno de tus dos manos en un papel. En cada dedo escribe o dibuja un mandamiento. Pégalo en tu cuarto."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Padre, gracias por tus diez palabras, que me muestran el camino del amor. Gracias por Jesús, que las cumplió por mí. Guarda tu Palabra en mi corazón, y que mis manos te sirvan cada día. Amén."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Junta tus manos para orar. Ahí están los diez: el amor a Dios y el amor al prójimo, unidos. Esta semana, cada vez que ores, recuerda que esas mismas manos sirven para amar y obedecer."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué hizo Dios antes de dar los mandamientos?",
+      "opciones": ["Liberó a su pueblo de Egipto", "Construyó un templo", "Eligió a un rey"],
+      "correcta": 0,
+      "explicacion": "«Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto» (Éxodo 20:2). La gracia va primero."
+    },
+    {
+      "pregunta": "¿Qué cambia entre la cuenta católica y la evangélica?",
+      "opciones": ["El texto de la Biblia", "Solo cómo se agrupan los versículos", "La cantidad de mandamientos"],
+      "correcta": 1,
+      "explicacion": "Las palabras de Dios son las mismas y siempre son diez. Solo cambia la división."
+    },
+    {
+      "pregunta": "¿En qué dos amores resumió Jesús toda la ley?",
+      "opciones": ["En amar a la familia y a la patria", "En amar el templo y la ley", "En amar a Dios y al prójimo"],
+      "correcta": 2,
+      "explicacion": "«De estos dos mandamientos depende toda la ley y los profetas» (Mateo 22:40)."
+    }
+  ],
+  "estudio": ["exodo", "deuteronomio"],
+  "buscar": "Éxodo 20:1-17"
+}

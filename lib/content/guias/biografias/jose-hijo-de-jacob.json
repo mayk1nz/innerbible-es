@@ -1,0 +1,137 @@
+{
+  "id": "jose-hijo-de-jacob",
+  "titulo": "José, hijo de Jacob",
+  "subtitulo": "De esclavo a gobernador de Egipto",
+  "etiquetas": ["Antiguo Testamento", "Patriarcas", "Canaán y Egipto"],
+  "enUnMinuto": [
+    "José es el hijo preferido de Jacob, y sus hermanos, llenos de envidia, lo venden como esclavo.",
+    "En Egipto sufre injusticias, pero Dios está con él y llega a gobernar el país.",
+    "Cuando sus hermanos llegan con hambre, José los perdona y salva a toda la familia."
+  ],
+  "versiculo": {
+    "texto": "Vosotros pensasteis mal sobre mí, mas Dios lo encaminó a bien, para hacer lo que vemos hoy, para mantener en vida a mucho pueblo.",
+    "referencia": "Génesis 50:20"
+  },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "José quiere decir «que Dios añada». Su madre Raquel le puso ese nombre pidiendo otro hijo (Génesis 30:24). En Egipto, el faraón lo llamó Zafnat-panea (Génesis 41:45).",
+        "Vivió al final de la época de los patriarcas. Según el cálculo tradicional, murió hacia el 1805 a.C.; otros cálculos lo sitúan más tarde.",
+        "Era el hijo número once de Jacob y el primero de Raquel. Su hermano menor era Benjamín. En Egipto se casó con Asenat y tuvo dos hijos: Manasés y Efraín."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "El hijo preferido. Jacob ama a José más que a los otros y le regala una ropa de colores. Sus hermanos no le pueden hablar en paz (Génesis 37:3-4).",
+        "Los sueños. José sueña que su familia se inclina ante él y lo cuenta. La envidia de sus hermanos crece (Génesis 37:5-11).",
+        "Vendido. Sus hermanos lo echan en un pozo seco y después lo venden por veinte piezas de plata. A su padre le dicen que una fiera lo mató (Génesis 37:18-35).",
+        "Fiel en casa ajena. José sirve a Potifar, un oficial egipcio. Dios está con él, y todo lo que hace prospera (Génesis 39:1-6).",
+        "Dice que no. La esposa de su amo quiere llevarlo a pecar. José se niega por respeto a Dios, y ella lo acusa con mentiras (Génesis 39:7-20).",
+        "Olvidado en la cárcel. Allí también Dios está con él. José explica los sueños de dos presos, pero el que sale se olvida de él (Génesis 39:21-40:23).",
+        "Ante el faraón. José le dice que la respuesta viene de Dios, no de él. Anuncia siete años de abundancia y siete de hambre (Génesis 41:14-36).",
+        "Gobernador a los treinta años. El faraón lo pone sobre todo Egipto. José guarda trigo en los años buenos (Génesis 41:37-49).",
+        "Los hermanos llegan. Vienen a comprar comida y se inclinan ante él sin reconocerlo. José pone a prueba sus corazones (Génesis 42:6-8).",
+        "Un corazón cambiado. Judá, el que propuso venderlo, se ofrece como esclavo para salvar a Benjamín (Génesis 44:18-34).",
+        "«Yo soy José». Llora a gritos y les dice que Dios lo envió delante para salvar vidas. Toda la familia se muda a Egipto (Génesis 45:1-11).",
+        "El perdón final. Muerto Jacob, sus hermanos temen su venganza. José llora, los consuela y les promete cuidarlos (Génesis 50:15-21)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Muchos cristianos ven en José un anticipo de Jesús. José fue rechazado por los suyos y vendido por plata. Sufrió sin culpa y después fue exaltado para salvar a muchos. También Jesús fue rechazado, vendido y entregado, y desde la cruz pidió perdón para los que lo herían (Lucas 23:34). Por medio de su dolor, Dios trae vida a todos."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres lecciones de su vida",
+      "items": [
+        "Dios está contigo también en el pozo. La Biblia repite que Dios estaba con José, aun en la cárcel. Esta semana: en un momento difícil, di en voz baja: «Dios está conmigo».",
+        "La integridad se vive a solas. José fue fiel aunque nadie lo viera. Esta semana: haz bien un trabajo que nadie va a revisar.",
+        "El perdón abre el futuro. José pudo vengarse y eligió cuidar. Esta semana: ora por alguien que te hizo daño y pide a Dios un corazón como el de José."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "José no negó el mal que le hicieron. Dijo: ustedes pensaron mal, pero Dios lo encaminó a bien. ¿Qué parte de tu historia necesitas poner en manos de Dios para que Él la convierta en bien?"
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "José pidió que llevaran sus huesos a la tierra prometida. Moisés los llevó al salir de Egipto (Génesis 50:25; Éxodo 13:19).",
+        "Fue sepultado en Siquem, en el campo que Jacob había comprado (Josué 24:32)."
+      ],
+      "tradicion": [
+        "En Nablus, la antigua Siquem, hay un sepulcro que la tradición llama la tumba de José."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Génesis 37", "nota": "Los sueños y la venta" },
+        { "ref": "Génesis 39", "nota": "En casa de Potifar y en la cárcel" },
+        { "ref": "Génesis 41", "nota": "Ante el faraón" },
+        { "ref": "Génesis 45:1-15", "nota": "Se da a conocer a sus hermanos" },
+        { "ref": "Génesis 50:15-26", "nota": "El perdón y su muerte" },
+        { "ref": "Hechos 7:9-14", "nota": "Esteban cuenta su historia" },
+        { "ref": "Hebreos 11:22", "nota": "José en la lista de la fe" }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No lo confundas con…",
+      "items": [
+        "José de Nazaret, el esposo de María (Mateo 1:16).",
+        "José de Arimatea, que dio su sepulcro para Jesús (Mateo 27:57-60).",
+        "José Bernabé, compañero de Pablo (Hechos 4:36)."
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Los hermanos de José fueron muy malos con él. Años después, José los abrazó y les dio comida. ¿Tú qué habrías hecho?",
+      "actividad": "Para el adulto: José perdonó porque confiaba en que Dios lo había cuidado (Génesis 50:20). Ayuda al niño a pensar a quién necesita perdonar hoy."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor, tú estuviste con José en el pozo y en la cárcel. Quédate conmigo en mis días difíciles. Dame un corazón limpio y la fuerza para perdonar. Amén."
+    },
+    {
+      "tipo": "grupo",
+      "titulo": "Para conversar en grupo",
+      "items": [
+        "¿Qué errores de la familia de Jacob ayudaron a que creciera la envidia?",
+        "¿Por qué creen que José puso a prueba a sus hermanos antes de darse a conocer?",
+        "¿Perdonar significa decir que el mal no fue malo? ¿Qué hizo José?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Por cuánto vendieron a José sus hermanos?",
+      "opciones": ["Por treinta monedas de oro", "Por veinte piezas de plata", "Por un camello"],
+      "correcta": 1,
+      "explicacion": "Lo vendieron a unos mercaderes por veinte piezas de plata (Génesis 37:28)."
+    },
+    {
+      "pregunta": "¿Qué dijo José cuando el faraón le pidió explicar su sueño?",
+      "opciones": ["Que la respuesta venía de Dios", "Que él era el más sabio", "Que no sabía nada de sueños"],
+      "correcta": 0,
+      "explicacion": "José respondió: «No está en mí; Dios será el que responda» (Génesis 41:16)."
+    },
+    {
+      "pregunta": "José perdonó a quienes le hicieron daño. ¿Qué pidió Jesús desde la cruz?",
+      "opciones": ["Que castigaran a sus enemigos", "Que lo bajaran de la cruz", "Que el Padre perdonara a los que lo herían"],
+      "correcta": 2,
+      "explicacion": "Jesús dijo: «Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34)."
+    }
+  ],
+  "estudio": ["genesis-12-50"],
+  "buscar": "José"
+}

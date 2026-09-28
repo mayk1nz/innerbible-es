@@ -1,0 +1,113 @@
+{
+  "id": "transfiguracion",
+  "titulo": "La Transfiguración",
+  "subtitulo": "Milagro 27 de 43 · La gloria del Hijo amado",
+  "etiquetas": ["Un monte alto (Tabor o Hermón)", "Año 3 · c. 29 d.C.", "Señal en la vida de Jesús"],
+  "enUnMinuto": [
+    "Jesús sube a un monte a orar con Pedro, Santiago y Juan, y su rostro brilla como el sol.",
+    "Moisés y Elías hablan con él, y desde una nube el Padre dice: «Este es mi Hijo amado».",
+    "Cuando todo pasa, los discípulos no ven a nadie más que a Jesús."
+  ],
+  "versiculo": {
+    "texto": "Y estando aún él hablando, he aquí una nube de luz que los cubrió; y he aquí una voz de la nube, que dijo: Este es mi Hijo amado, en el cual tomo contentamiento: a él oid.",
+    "referencia": "Mateo 17:5"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 17:1-13", "nota": "Mateo: el rostro brilla como el sol y la ropa es blanca como la luz." },
+        { "ref": "Marcos 9:2-13", "nota": "Marcos: una ropa tan blanca como ningún lavador podría dejarla." },
+        { "ref": "Lucas 9:28-36", "nota": "Lucas: sucedió mientras Jesús oraba, y hablaban de su salida en Jerusalén." },
+        { "ref": "2 Pedro 1:16-18", "nota": "Pedro recuerda lo que vio y oyó en el monte santo. Juan no narra este momento." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Pocos días después de anunciar su muerte y resurrección, Jesús tomó a Pedro, Santiago y Juan. Subió con ellos a un monte alto para orar. Mientras oraba, su aspecto cambió. Su rostro brilló como el sol, y su ropa se volvió blanca como la luz.",
+        "De pronto aparecieron Moisés y Elías, y hablaban con Jesús. Lucas cuenta de qué hablaban: de su salida, que iba a cumplir en Jerusalén. Los discípulos se habían dormido, pero despertaron y vieron su gloria.",
+        "Pedro, sin saber bien qué decir, propuso hacer tres pabellones: uno para Jesús, otro para Moisés y otro para Elías. Mientras hablaba, una nube de luz los cubrió. Desde la nube se oyó una voz: «Este es mi Hijo amado, en el cual tomo contentamiento: a él oid».",
+        "Los discípulos cayeron con el rostro en tierra, llenos de miedo. Jesús se acercó, los tocó y les dijo: «Levantaos, y no temáis». Al alzar los ojos, solo vieron a Jesús. Al bajar, les pidió que no contaran la visión hasta que él resucitara."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Transfiguración: cambio de aspecto. Por un momento, los discípulos vieron la gloria de Jesús.",
+        "Pabellones: tiendas o chozas sencillas, como las que se armaban para acampar.",
+        "Su salida: Lucas usa una palabra griega que suena como «éxodo». Habla de su muerte, su resurrección y su vuelta al Padre."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Quién es Jesús de verdad. El mismo que caminaba cansado por los caminos es el Hijo amado del Padre, lleno de gloria. Moisés, que recibió la Ley, y Elías, el gran profeta, hablan con él. El Padre da una sola orden: escúchenlo. Y al final solo queda Jesús. Él basta."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Pedro quería quedarse en el monte. Pero había que bajar, y abajo esperaba un padre angustiado. Los momentos de luz con Dios no son para huir de la vida, sino para vivirla con otros ojos. Cuando tengas miedo, recuerda el gesto de Jesús: se acercó, tocó a los suyos y les dijo que no temieran. Para hoy: lee despacio un pasaje de los evangelios y escúchalo a él."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, Hijo amado del Padre, gracias por dejarnos ver tu gloria. Cuando tenga miedo, tócame y levántame. Ayúdame a escucharte a ti antes que a cualquier otra voz, en el monte y en el valle. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Jesús subió a un monte con tres amigos. ¡Su cara brilló como el sol y su ropa se puso blanca como la luz! Dios dijo desde una nube: «Este es mi Hijo amado».",
+      "actividad": "Con ayuda de un adulto, enciendan una linterna bajo una sábana blanca. Conversen: ¿quién es Jesús para ti?"
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Los evangelios dicen solo «un monte alto» (Mateo 17:1), sin darle nombre.",
+        "Años después, Pedro lo llama «el monte santo» (2 Pedro 1:18)."
+      ],
+      "tradicion": [
+        "Una tradición antigua lo sitúa en el monte Tabor, en Galilea, donde hoy hay una iglesia.",
+        "Otros proponen el monte Hermón, más al norte, cerca de Cesarea de Filipo."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Éxodo 24:15-16", "nota": "Una nube cubre el monte, y Dios llama a Moisés desde la nube." },
+        { "ref": "Deuteronomio 18:15", "nota": "Dios promete un profeta como Moisés: «a él oiréis»." },
+        { "ref": "Malaquías 4:5", "nota": "Dios anuncia que enviará a Elías el profeta." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Mateo y Marcos dicen «seis días después»; Lucas, «como ocho días», un número aproximado. Contamos este momento entre las grandes señales de la vida de Jesús: no sana a nadie, pero muestra quién es."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Quiénes aparecieron hablando con Jesús en el monte?",
+      "opciones": ["Abraham y David", "Moisés y Elías", "Isaías y Jeremías"],
+      "correcta": 1,
+      "explicacion": "Moisés y Elías hablaban con Jesús de su salida en Jerusalén (Lucas 9:30-31)."
+    },
+    {
+      "pregunta": "¿Qué pidió la voz del Padre desde la nube?",
+      "opciones": ["Que lo escucharan a él", "Que construyeran un templo", "Que bajaran enseguida"],
+      "correcta": 0,
+      "explicacion": "La voz dijo: «Este es mi Hijo amado… a él oid» (Mateo 17:5)."
+    },
+    {
+      "pregunta": "¿Qué apóstol que estuvo allí escribió después sobre «el monte santo»?",
+      "opciones": ["Pablo", "Santiago", "Pedro"],
+      "correcta": 2,
+      "explicacion": "Pedro recuerda la voz que oyeron en el monte santo (2 Pedro 1:16-18)."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Lucas 9:28-36"
+}
