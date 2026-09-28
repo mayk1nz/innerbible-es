@@ -31,8 +31,8 @@ export const DEALS: Record<UpsellId, Deal> = {
   upsell1: {
     fullPrice: 4.9,
     discountPrice: 2.45,
-    discountUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_DISCOUNT_URL || '',
-    fullUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_URL || '',
+    discountUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_DISCOUNT_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790362040779',
+    fullUrl: process.env.NEXT_PUBLIC_CHECKOUT_UPSELL1_URL || 'https://checkout.kashpay.com.br/checkout/checkout-1790361961988',
     benefits: [
       `${audioCount()} audios: la introducción, toda la historia bíblica en orden cronológico y la conclusión`,
       `Antiguo Testamento: ${audioCount('antiguo-testamento')} audios, de Génesis a Malaquías`,
