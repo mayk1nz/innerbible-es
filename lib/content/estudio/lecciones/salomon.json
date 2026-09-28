@@ -1,0 +1,154 @@
+{
+  "id": "salomon",
+  "orden": 19,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "Salomón: sabiduría y un templo para Dios",
+  "pasajes": ["1Kgs.1.1-1Kgs.11.43", "2Chr.1.1-2Chr.9.31"],
+  "libros": ["1Kgs"],
+
+  "enUnMinuto": [
+    "Salomón, hijo de David, pide a Dios sabiduría y construye el templo en Jerusalén.",
+    "Su fama llega lejos, pero en su vejez su corazón se aparta de Dios.",
+    "Dios revela que quiere vivir con su pueblo y que da sabiduría a quien se la pide."
+  ],
+
+  "versiculo": {
+    "texto": "Da pues a tu siervo corazón dócil para juzgar a tu pueblo, para discernir entre lo bueno y lo malo: porque ¿quién podrá gobernar este tu pueblo tan grande?",
+    "referencia": "1 Reyes 3:9",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 970–930 a.C.",
+    "desde": -970,
+    "hasta": -930,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Terminado c. 560 a.C., durante el exilio",
+    "desde": -561,
+    "hasta": -538,
+    "certeza": "aprox",
+    "nota": "1 y 2 Reyes eran un solo libro. El último hecho que cuenta es de c. 561 a.C. (2 Reyes 25:27)."
+  },
+
+  "autor": {
+    "texto": "Anónimo; la tradición judía lo atribuye a Jeremías.",
+    "nota": "Usa fuentes antiguas, como «el libro de los hechos de Salomón» (1 Reyes 11:41)."
+  },
+
+  "lugar": { "nombre": "Jerusalén y Gabaón", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "salomon", "nombre": "Salomón", "linea": "Hijo de David; pide sabiduría, construye el templo y después se desvía." },
+    { "id": "david", "nombre": "David", "linea": "Ya anciano, hace ungir a Salomón y le pide andar con Dios." },
+    { "id": "betsabe", "nombre": "Betsabé", "linea": "Madre de Salomón; con Natán, recuerda a David su promesa." },
+    { "id": "natan", "nombre": "Natán", "linea": "Profeta que ayuda a que Salomón sea rey." },
+    { "id": "roboam", "nombre": "Roboam", "linea": "Hijo de Salomón; reina cuando él muere." }
+  ],
+
+  "eventos": [
+    { "texto": "Salomón es ungido rey en lugar de David", "ref": "1 Reyes 1:32-40" },
+    { "texto": "Salomón pide a Dios un corazón sabio", "ref": "1 Reyes 3:5-14" },
+    { "texto": "Salomón descubre a la verdadera madre del niño", "ref": "1 Reyes 3:16-28" },
+    { "texto": "La gloria de Dios llena el templo", "ref": "1 Reyes 8:10-11" },
+    { "texto": "La reina de Sabá visita a Salomón", "ref": "1 Reyes 10:1-10" },
+    { "texto": "En su vejez, Salomón se aparta de Dios", "ref": "1 Reyes 11:1-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un nuevo rey",
+      "texto": "David ya es anciano. Uno de sus hijos, Adonías, intenta quedarse con el trono. Natán y Betsabé se lo cuentan a David. David manda ungir a Salomón, y el pueblo grita: «¡Viva el rey Salomón!». Antes de morir, David le pide a su hijo que ande en los caminos de Dios."
+    },
+    {
+      "subtitulo": "Pide lo que quieras",
+      "texto": "En Gabaón, Dios se aparece a Salomón en sueños: «Pide lo que quisieres». Salomón no pide riquezas ni una vida larga. Pide un corazón que sepa escuchar, para gobernar bien al pueblo. A Dios le agrada su pedido. Le da sabiduría, y además riquezas y honra."
+    },
+    {
+      "subtitulo": "Dos madres y un niño",
+      "texto": "Dos mujeres discuten por un bebé, y cada una dice que es suyo. Salomón pide una espada y dice que partan al niño en dos. Es solo una prueba. La verdadera madre ruega que se lo den a la otra, con tal de que viva. Así Salomón sabe quién es la madre."
+    },
+    {
+      "subtitulo": "Una casa para Dios",
+      "texto": "Durante siete años, Salomón construye el templo con cedro del Líbano, piedra y oro. Los sacerdotes llevan el arca al lugar santísimo. Entonces una nube llena la casa: es la gloria de Dios. Salomón ora sabiendo que «los cielos de los cielos, no te pueden contener». Aun así, Dios promete escuchar allí a su pueblo."
+    },
+    {
+      "subtitulo": "Fama en todo el mundo",
+      "texto": "Salomón compone tres mil proverbios y mil cinco cantos. Su fama llega muy lejos. La reina de Sabá viene a probarlo con preguntas difíciles. Al ver su sabiduría, dice que no le contaron ni la mitad. Y bendice al Dios de Israel."
+    },
+    {
+      "subtitulo": "Un corazón dividido",
+      "texto": "Pero Salomón se casa con muchísimas mujeres de otros pueblos. En su vejez, ellas inclinan su corazón hacia otros dioses, y él construye altares a sus ídolos. Dios le anuncia que el reino se dividirá. El profeta Ahías rompe una capa en doce pedazos y da diez a Jeroboam."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Precisa que el templo se construyó en el monte Moriah, en la era que había comprado David (2 Crónicas 3:1)." },
+    { "libro": "2Chr", "texto": "La nube llena la casa mientras los cantores alaban a Dios «porque su misericordia es para siempre» (2 Crónicas 5:13)." },
+    { "libro": "2Chr", "texto": "Añade que baja fuego del cielo al terminar la oración. Y Dios promete: si mi pueblo se humilla y ora, «sanaré su tierra»." },
+    { "libro": "2Chr", "texto": "No cuenta cómo Salomón se apartó de Dios. Lo recuerda sobre todo como el rey que construyó el templo." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús dijo de sí mismo: «he aquí más que Salomón en este lugar». Salomón construyó un templo de piedra. Jesús habló del templo de su cuerpo, que levantaría en tres días. En él, Dios vive con nosotros de un modo nuevo.",
+    "refs": ["Mateo 12:42", "Juan 2:19-21"]
+  },
+
+  "mundo": "En Egipto, los faraones han perdido fuerza. Uno de ellos da a su hija como esposa a Salomón. En Tiro, el rey Hiram comercia por el mar y le envía cedros.",
+
+  "antes": "David reinó cuarenta años y cantó a Dios en los salmos. Dios le prometió un reino para siempre.",
+  "despues": "Los Proverbios reúnen la sabiduría de Salomón: consejos para vivir cada día con Dios.",
+
+  "conexiones": [
+    { "ref": "Santiago 1:5", "motivo": "Como Salomón, quien necesita sabiduría puede pedírsela a Dios." },
+    { "ref": "Hechos 17:24", "motivo": "Pablo dice lo que Salomón intuyó: Dios no cabe en templos humanos." },
+    { "ref": "Mateo 12:42", "motivo": "Jesús recuerda a la reina que vino a oír a Salomón." },
+    { "ref": "Santiago 4:10", "motivo": "Como en 2 Crónicas 7:14, Dios levanta al que se humilla." }
+  ],
+
+  "glosario": ["templo", "sabiduria", "lugar-santisimo", "gloria-de-dios", "idolo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de una decisión difícil, pide a Dios sabiduría con tus propias palabras.",
+    "pregunta": "Si Dios te dijera «Pide lo que quisieres», ¿qué le pedirías?"
+  },
+
+  "meditar": "Señor, dame un corazón que sepa escuchar. Que mi vida sea una casa donde tú vivas. No dejes que nada divida mi corazón. Amén.",
+
+  "ninos": {
+    "pregunta": "Salomón pudo pedir dinero o fama, pero pidió sabiduría. ¿Qué pedirías tú a Dios?",
+    "actividad": "Con cajas o bloques, construyan juntos un templo y hablen de dónde vive Dios hoy."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué le pidió Salomón a Dios en Gabaón?",
+      "opciones": ["Muchas riquezas", "Un corazón sabio para gobernar", "Vencer a sus enemigos"],
+      "correcta": 1,
+      "explicacion": "Pidió un corazón dócil para juzgar al pueblo, y Dios se lo dio (1 Reyes 3:9-12).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué llenó el templo cuando llevaron el arca al lugar santísimo?",
+      "opciones": ["Una nube: la gloria de Dios", "Un viento muy fuerte", "Una luz de colores"],
+      "correcta": 0,
+      "explicacion": "La nube llenó la casa, y los sacerdotes no podían servir allí (1 Reyes 8:10-11).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién dijo «he aquí más que Salomón en este lugar»?",
+      "opciones": ["El profeta Natán", "La reina de Sabá", "Jesús"],
+      "correcta": 2,
+      "explicacion": "Jesús lo dijo de sí mismo, recordando a la reina que visitó a Salomón (Mateo 12:42).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Kgs.3", "1Kgs.8", "1Kgs.10", "1Kgs.11"], "minutos": 34 },
+
+  "temas": ["sabiduria", "oracion", "obediencia", "templo"],
+  "cadenas": ["el-templo", "el-rey-de-david"]
+}

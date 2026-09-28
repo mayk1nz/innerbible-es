@@ -1,0 +1,146 @@
+{
+  "id": "1-juan",
+  "orden": 86,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "1 Juan: Dios es amor",
+  "pasajes": ["1John.1.1-1John.5.21"],
+  "libros": ["1John"],
+
+  "enUnMinuto": [
+    "Juan escribe como un abuelo a sus «hijitos», para que tengan gozo y seguridad.",
+    "Les enseña a caminar en la luz, a confesar sus pecados y a amarse de verdad.",
+    "Dios revela lo más hondo de sí mismo: Dios es amor, y nos amó primero."
+  ],
+
+  "versiculo": {
+    "texto": "Carísimos, amémonos unos a otros; porque el amor es de Dios. Cualquiera que ama, es nacido de Dios, y conoce a Dios. El que no ama, no conoce a Dios; porque Dios es amor.",
+    "referencia": "1 Juan 4:7-8",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 85–95 d.C.",
+    "desde": 85,
+    "hasta": 95,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 85–95 d.C.",
+    "desde": 85,
+    "hasta": 95,
+    "certeza": "aprox",
+    "nota": "Hacia el final del siglo I. La carta no trae fecha."
+  },
+
+  "autor": {
+    "texto": "La tradición la atribuye al apóstol Juan",
+    "nota": "La carta no da su nombre. El autor dice que vio y tocó al Verbo de vida (1 Juan 1:1)."
+  },
+
+  "lugar": { "nombre": "Iglesias de Asia Menor", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "juan-apostol", "nombre": "Juan", "linea": "La tradición le atribuye la carta; escribe a sus «hijitos»." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Verbo de vida; nuestro abogado ante el Padre." },
+    { "id": "cain", "nombre": "Caín", "linea": "Mató a su hermano: lo contrario del amor." },
+    { "id": "abel", "nombre": "Abel", "linea": "El hermano justo a quien Caín mató por envidia." }
+  ],
+
+  "eventos": [
+    { "texto": "Juan anuncia lo que vio y tocó", "ref": "1 Juan 1:1-4" },
+    { "texto": "Si confesamos nuestros pecados, Dios nos perdona", "ref": "1 Juan 1:5-10" },
+    { "texto": "El Padre nos llama hijos de Dios", "ref": "1 Juan 3:1-3" },
+    { "texto": "Amar con obras y en verdad", "ref": "1 Juan 3:16-18" },
+    { "texto": "Dios es amor y nos amó primero", "ref": "1 Juan 4:7-19" },
+    { "texto": "Quien tiene al Hijo tiene la vida", "ref": "1 Juan 5:11-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Lo vimos y lo tocamos",
+      "texto": "Juan empieza con algo que vivió. Vio, oyó y tocó con sus manos al Verbo de vida. Lo anuncia para que sus lectores tengan comunión con el Padre y con su Hijo Jesucristo. Así su gozo será completo."
+    },
+    {
+      "subtitulo": "Caminar en la luz",
+      "texto": "«Dios es luz, y en él no hay ningunas tinieblas». Quien camina con él deja la mentira. Nadie puede decir que no tiene pecado. Pero si confesamos nuestros pecados, Dios es fiel y nos perdona. Jesús es nuestro abogado ante el Padre. Murió por los pecados de todo el mundo."
+    },
+    {
+      "subtitulo": "Hijos de Dios",
+      "texto": "«Mirad cuál amor nos ha dado el Padre»: nos llama hijos de Dios. Aún no sabemos todo lo que seremos. Pero cuando Jesús aparezca, seremos semejantes a él. Mientras tanto, no amamos solo con palabras, sino con obras. Si un hermano pasa necesidad, le abrimos el corazón y la mano."
+    },
+    {
+      "subtitulo": "Dios es amor",
+      "texto": "Aquí está el centro de la carta: Dios es amor. No lo amamos nosotros primero; él nos amó y envió a su Hijo por nuestros pecados. Por eso debemos amarnos unos a otros. En el amor no hay temor. «Nosotros le amamos a él, porque él nos amó primero»."
+    },
+    {
+      "subtitulo": "No creer a todos",
+      "texto": "Juan avisa que algunos enseñan mentiras sobre Jesús. Niegan que el Hijo de Dios vino de verdad en carne. Por eso pide no creer a todo el que habla. El Espíritu de Dios, que vive en los creyentes, es mayor que el que está en el mundo."
+    },
+    {
+      "subtitulo": "Para que sepan",
+      "texto": "Juan termina con una certeza. Todo el que cree que Jesús es el Hijo de Dios vence al mundo. Dios nos dio vida eterna, y esa vida está en su Hijo. Juan escribe para que sepan que tienen vida eterna. Y se despide: «Hijitos, guardaos de los ídolos»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Juan dice que Jesús es «la propiciación por nuestros pecados». Es decir, se entregó para quitar lo que nos separaba de Dios. Así mostró el amor del Padre. El Evangelio de Juan lo dice así: tanto amó Dios al mundo, que dio a su Hijo.",
+    "refs": ["1 Juan 4:9-10", "Juan 3:16"]
+  },
+
+  "mundo": "A fines del siglo I, Domiciano gobierna el Imperio romano y quiere que lo llamen señor y dios. Éfeso es una de las grandes ciudades de Asia.",
+
+  "antes": "Judas escribió una carta breve para cuidar la fe recibida.",
+  "despues": "En una carta muy breve, el anciano pide caminar juntos en la verdad y en el amor.",
+
+  "conexiones": [
+    { "ref": "Juan 3:16", "motivo": "Dios amó tanto al mundo que dio a su Hijo." },
+    { "ref": "Salmos 32:5", "motivo": "David confesó su pecado, y Dios lo perdonó." },
+    { "ref": "Juan 1:12", "motivo": "A los que reciben a Jesús, Dios los hace sus hijos." },
+    { "ref": "Juan 8:12", "motivo": "Jesús es la luz del mundo; quien lo sigue no anda en tinieblas." }
+  ],
+
+  "glosario": ["verbo", "perdon", "espiritu-santo", "idolo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ayuda con algo concreto a alguien que lo necesita: una comida, una visita, tu tiempo.",
+    "pregunta": "¿A quién te cuesta amar con obras y en verdad?"
+  },
+
+  "meditar": "Padre, tú me amaste primero. Perdona mis pecados y límpiame. Enséñame a amar a mis hermanos con obras y en verdad. Amén.",
+
+  "ninos": {
+    "pregunta": "Juan dice que Dios es amor. ¿Cómo sabes tú que Dios te ama?",
+    "actividad": "Recorta un corazón de papel y escribe dentro: «Dios es amor». Regálaselo a alguien de tu casa."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué dice 1 Juan 4:8 sobre Dios?",
+      "opciones": ["Que Dios es amor", "Que Dios está lejos", "Que Dios es severo"],
+      "correcta": 0,
+      "explicacion": "«Dios es amor»: por eso quien ama conoce a Dios (1 Juan 4:7-8).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Juan, ¿qué hace Dios si confesamos nuestros pecados?",
+      "opciones": ["Nos castiga", "Nos perdona y nos limpia", "Nos ignora"],
+      "correcta": 1,
+      "explicacion": "Dios es fiel y justo para perdonarnos y limpiarnos de toda maldad (1 Juan 1:9).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué versículo del Evangelio de Juan dice que Dios dio a su Hijo por amor?",
+      "opciones": ["Juan 1:1", "Juan 11:35", "Juan 3:16"],
+      "correcta": 2,
+      "explicacion": "Juan 3:16 y 1 Juan 4:9 dicen lo mismo: Dios mostró su amor enviando a su Hijo.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1John.1", "1John.3", "1John.4", "1John.5"], "minutos": 10 },
+
+  "temas": ["amor-de-dios", "perdon", "fe", "esperanza"],
+  "cadenas": ["dios-es-amor"]
+}

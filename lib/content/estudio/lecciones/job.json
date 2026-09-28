@@ -1,0 +1,148 @@
+{
+  "id": "job",
+  "orden": 8,
+  "seccion": "patriarcas",
+  "formato": "completo",
+  "titulo": "Job: fe en medio del dolor",
+  "pasajes": ["Job.1.1-Job.42.17"],
+  "libros": ["Job"],
+
+  "enUnMinuto": [
+    "Job, un hombre justo, lo pierde casi todo: sus bienes, sus hijos y su salud.",
+    "Sus amigos dicen que sufre por algún pecado, pero Dios le responde desde un torbellino.",
+    "Dios revela que es más grande que nuestro dolor y que no abandona al que sufre."
+  ],
+
+  "versiculo": {
+    "texto": "De oídas te había oído; mas ahora mis ojos te ven.",
+    "referencia": "Job 42:5",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Época de los patriarcas (fecha incierta)",
+    "desde": -2100,
+    "hasta": -1800,
+    "certeza": "incierta",
+    "nota": "La Biblia no dice cuándo vivió Job. Sus costumbres recuerdan a los patriarcas. Tampoco se sabe cuándo se escribió."
+  },
+
+  "fechaEscrito": {
+    "texto": "Fecha incierta",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "El libro no dice cuándo se escribió. Muchos proponen la época de Salomón o algo después; otros, tiempos más antiguos."
+  },
+
+  "autor": {
+    "texto": "Desconocido",
+    "nota": "La Biblia no dice quién escribió Job. Una antigua tradición judía lo atribuye a Moisés."
+  },
+
+  "lugar": { "nombre": "Tierra de Uz, en Oriente", "mapa": "patriarcas" },
+
+  "personajes": [
+    { "id": "job", "nombre": "Job", "linea": "Hombre justo que sufre sin entender y sigue hablando con Dios." },
+    { "id": "elifaz", "nombre": "Elifaz", "linea": "Amigo de Job, de Temán; ve el sufrimiento como castigo." },
+    { "id": "bildad", "nombre": "Bildad", "linea": "Amigo de Job; le pide volverse a Dios para ser restaurado." },
+    { "id": "zofar", "nombre": "Zofar", "linea": "Amigo de Job; lo acusa de hablar mucho y merecer castigo." },
+    { "id": "eliu", "nombre": "Eliú", "linea": "Joven que habla al final; dice que Dios enseña por el dolor." }
+  ],
+
+  "eventos": [
+    { "texto": "Satanás pone en duda la fe de Job", "ref": "Job 1:6-12" },
+    { "texto": "Job pierde sus bienes y a sus hijos", "ref": "Job 1:13-22" },
+    { "texto": "Tres amigos se sientan con él siete días", "ref": "Job 2:11-13" },
+    { "texto": "Job confía: «Yo sé que mi Redentor vive»", "ref": "Job 19:25-27" },
+    { "texto": "Dios responde a Job desde un torbellino", "ref": "Job 38:1-7" },
+    { "texto": "Job ora por sus amigos y Dios lo restaura", "ref": "Job 42:7-17" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un hombre justo",
+      "texto": "En la tierra de Uz vive Job, un hombre recto que vive en el temor de Dios. Tiene siete hijos, tres hijas y muchísimos animales. Cuando sus hijos hacen fiesta, Job ora por ellos y ofrece sacrificios. Es el hombre más grande de todo el Oriente."
+    },
+    {
+      "subtitulo": "La prueba",
+      "texto": "Un día, Satanás se presenta ante Dios. Dice que Job es fiel solo porque todo le va bien. Dios le permite probarlo. En un solo día, Job pierde sus animales, sus siervos y a sus hijos. Job rasga su manto y adora: «Jehová dio, y Jehová quitó». Después se llena de llagas."
+    },
+    {
+      "subtitulo": "Amigos que no entienden",
+      "texto": "Tres amigos, Elifaz, Bildad y Zofar, vienen a consolarlo. Durante siete días se sientan con él en silencio. Luego Job lamenta el día en que nació. Sus amigos responden que Dios castiga al malo y premia al bueno. Si Job sufre, piensan, algo malo habrá hecho."
+    },
+    {
+      "subtitulo": "Job clama a Dios",
+      "texto": "Job sabe que no ha hecho nada para merecer tanto dolor. Se queja con palabras muy fuertes, pero nunca deja de hablarle a Dios. Desea un árbitro entre Dios y él. En medio de la oscuridad dice: «Yo sé que mi Redentor vive». Al final habla Eliú, un joven que también quiere explicar el dolor."
+    },
+    {
+      "subtitulo": "Dios responde",
+      "texto": "Por fin, Dios habla desde un torbellino. No le explica la causa de su dolor. Le hace preguntas: «¿Dónde estabas cuando yo fundaba la tierra?». Le muestra el mar, las estrellas y los animales salvajes. Job ve que la sabiduría de Dios es más grande que la suya. Dice: «ahora mis ojos te ven»."
+    },
+    {
+      "subtitulo": "Un final de gracia",
+      "texto": "Dios dice a los amigos que no hablaron bien de él, como Job. Les pide que Job ore por ellos. Cuando Job ora por sus amigos, Dios le devuelve el doble de lo que tenía. Tiene otros siete hijos y tres hijas. Job muere anciano y «lleno de días»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Job pide un árbitro que pueda estar entre Dios y él. Y confía en su Redentor, el pariente que rescata al familiar en apuros. Los cristianos ven ese deseo cumplido en Jesús, el único mediador entre Dios y los hombres. Jesús también sufrió sin culpa, y el Padre lo levantó.",
+    "refs": ["1 Timoteo 2:5", "1 Pedro 2:23"]
+  },
+
+  "mundo": "En Egipto y Mesopotamia también se escribieron poemas sobre un hombre bueno que sufre. Job es distinto: le habla con franqueza al Dios vivo, y Dios le responde.",
+
+  "antes": "Dios guió a Abraham, Isaac y Jacob, y José salvó a su familia en Egipto.",
+  "despues": "Los hijos de Israel crecen en Egipto hasta ser esclavos. Dios llamará a Moisés para liberarlos.",
+
+  "conexiones": [
+    { "ref": "Santiago 5:11", "motivo": "Santiago recuerda la paciencia de Job y la misericordia del Señor." },
+    { "ref": "Ezequiel 14:14", "motivo": "Ezequiel nombra a Job junto a Noé y Daniel por su justicia." },
+    { "ref": "1 Pedro 1:7", "motivo": "La fe probada es más preciosa que el oro probado en el fuego." },
+    { "ref": "Salmos 111:10", "motivo": "El temor del Señor es el principio de la sabiduría." }
+  ],
+
+  "glosario": ["satanas", "temor-de-dios", "sabiduria", "pariente-redentor", "sacrificio"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, acompaña a alguien que sufre. Escucha más de lo que hablas, como los amigos de Job al principio.",
+    "pregunta": "¿Qué le dirías hoy a Dios, con toda sinceridad, sobre tu dolor?"
+  },
+
+  "meditar": "Señor, cuando no entienda mi dolor, ayúdame a seguir hablando contigo. Tú eres más grande que mis preguntas. Gracias porque mi Redentor vive. Amén.",
+
+  "ninos": {
+    "pregunta": "Los amigos de Job se sentaron con él en silencio. ¿Cómo puedes acompañar a alguien triste?",
+    "actividad": "Haz una tarjeta para alguien enfermo o triste y entrégasela con un abrazo."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué hicieron los amigos de Job durante los primeros siete días?",
+      "opciones": ["Lo acusaron de pecar", "Se sentaron con él en silencio", "Volvieron a sus casas"],
+      "correcta": 1,
+      "explicacion": "Nadie le hablaba, porque veían que su dolor era muy grande (Job 2:13).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Desde dónde respondió Dios a Job?",
+      "opciones": ["Desde un torbellino", "Desde una zarza", "Desde el templo"],
+      "correcta": 0,
+      "explicacion": "«respondió Jehová a Job desde un torbellino» (Job 38:1).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué recuerda Santiago de Job en su carta?",
+      "opciones": ["Su gran riqueza", "Sus muchos hijos", "Su paciencia"],
+      "correcta": 2,
+      "explicacion": "«Habéis oído la paciencia de Job», escribe Santiago; el Señor es muy misericordioso (Santiago 5:11).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Job.1", "Job.2", "Job.19", "Job.38", "Job.42"], "minutos": 12 },
+
+  "temas": ["sufrimiento", "fe", "sabiduria", "esperanza", "oracion"],
+  "cadenas": ["el-justo-que-sufre", "el-redentor"]
+}

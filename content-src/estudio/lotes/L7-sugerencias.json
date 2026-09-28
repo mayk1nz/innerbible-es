@@ -1,0 +1,12 @@
+{
+  "glosario": [
+    { "id": "transfiguracion", "termino": "Transfiguración", "definicion": "Momento en que el rostro y la ropa de Jesús brillaron ante Pedro, Santiago y Juan." },
+    { "id": "consolador", "termino": "Consolador", "definicion": "Nombre que Jesús da al Espíritu Santo: el que acompaña, ayuda y defiende a los discípulos." }
+  ],
+  "personajes": [
+    { "id": "gabriel", "nombre": "Gabriel", "linea": "Ángel que anuncia los nacimientos de Juan y de Jesús." },
+    { "id": "mujer-samaritana", "nombre": "La mujer samaritana", "linea": "Habla con Jesús junto al pozo y lo anuncia a su pueblo." },
+    { "id": "jairo", "nombre": "Jairo", "linea": "Jefe de la sinagoga; Jesús devuelve la vida a su hija." },
+    { "id": "bartimeo", "nombre": "Bartimeo", "linea": "Ciego de Jericó que clama a Jesús, recobra la vista y lo sigue." }
+  ]
+}

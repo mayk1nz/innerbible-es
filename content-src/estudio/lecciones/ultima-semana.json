@@ -1,0 +1,146 @@
+{
+  "id": "ultima-semana",
+  "orden": 59,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "La última semana y la última cena",
+  "pasajes": ["Matt.21.1-Matt.26.35", "Mark.11.1-Mark.14.31", "Luke.19.28-Luke.22.38", "John.12.1-John.17.26"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Jesús entra en Jerusalén como rey humilde, enseña en el templo y celebra la Pascua con los Doce.",
+    "En la última cena lava los pies a sus discípulos, parte el pan y les da un mandamiento nuevo.",
+    "Dios revela un amor que sirve y se entrega hasta el fin."
+  ],
+
+  "versiculo": {
+    "texto": "Un mandamiento nuevo os doy: Que os améis unos a otros: como os he amado, que también os améis los unos a los otros.",
+    "referencia": "Juan 13:34",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 30 o 33 d.C.",
+    "desde": 30,
+    "hasta": 33,
+    "certeza": "debatida",
+    "nota": "Los estudiosos proponen el año 30 o el 33 d.C. Los dos años encajan con la Pascua judía."
+  },
+
+  "lugar": { "nombre": "Betania, Jerusalén y el templo", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "Entra como rey humilde y se entrega por amor." },
+    { "id": "maria-de-betania", "nombre": "María de Betania", "linea": "Unge los pies de Jesús con perfume, para su sepultura." },
+    { "id": "lazaro", "nombre": "Lázaro", "linea": "Resucitado por Jesús, cena con él; muchos creen por su causa." },
+    { "id": "judas-iscariote", "nombre": "Judas Iscariote", "linea": "Uno de los Doce; acuerda entregar a Jesús por treinta monedas." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "Se deja lavar los pies y promete no negarlo nunca." },
+    { "id": "tomas", "nombre": "Tomás", "linea": "Pregunta por el camino, y Jesús responde: yo soy el camino." },
+    { "id": "caifas", "nombre": "Caifás", "linea": "Sumo sacerdote; con otros jefes planea prender a Jesús con engaño." }
+  ],
+
+  "eventos": [
+    { "texto": "María unge a Jesús en Betania", "ref": "Juan 12:1-8" },
+    { "texto": "Jesús entra en Jerusalén entre gritos de hosanna", "ref": "Mateo 21:1-11" },
+    { "texto": "Jesús echa a los vendedores del templo", "ref": "Mateo 21:12-17" },
+    { "texto": "Jesús alaba la ofrenda de una viuda pobre", "ref": "Marcos 12:41-44" },
+    { "texto": "Jesús lava los pies de sus discípulos", "ref": "Juan 13:1-17" },
+    { "texto": "Jesús parte el pan y da la copa", "ref": "Mateo 26:26-29" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Perfume en Betania",
+      "texto": "Seis días antes de la Pascua, Jesús cena en Betania con Lázaro, Marta y María. María unge los pies de Jesús con un perfume muy caro y los seca con sus cabellos. Judas protesta por el gasto. Jesús la defiende: ella lo prepara para su sepultura."
+    },
+    {
+      "subtitulo": "¡Hosanna!",
+      "texto": "Al día siguiente, Jesús entra en Jerusalén montado en un pollino, como anunció Zacarías. La multitud extiende mantos y ramos, y grita: «¡Hosanna al Hijo de David!». En el templo, Jesús echa a los que venden y compran. La casa de Dios debe ser casa de oración."
+    },
+    {
+      "subtitulo": "Preguntas en el templo",
+      "texto": "Cada día enseña en el templo, y algunos buscan atraparlo con preguntas. Le preguntan por el tributo. Él responde: «Pagad pues a César lo que es de César, y a Dios lo que es de Dios». Resume la ley en amar a Dios y al prójimo. Y alaba a una viuda pobre que da todo lo que tiene."
+    },
+    {
+      "subtitulo": "Velad",
+      "texto": "En el monte de los Olivos, Jesús anuncia su regreso. Nadie sabe el día ni la hora; por eso hay que velar. Hay varias maneras de leer estas palabras, pero todos esperan su venida. El Rey dirá: lo que hicieron a uno de estos pequeños, a mí lo hicieron. Mientras tanto, Judas acuerda entregarlo."
+    },
+    {
+      "subtitulo": "La última cena",
+      "texto": "Jesús celebra la Pascua con los Doce. Se quita el manto y les lava los pies, como un siervo. Luego toma el pan y dice: «Tomad, comed: esto es mi cuerpo». Da la copa: es su sangre del nuevo pacto, derramada para el perdón de los pecados. Les pide hacerlo en memoria de él."
+    },
+    {
+      "subtitulo": "Que todos sean uno",
+      "texto": "En la mesa, Jesús anuncia que Pedro lo negará tres veces. Les da un mandamiento nuevo: amarse como él los amó. Les dice: «Yo soy el camino, y la verdad, y la vida». Promete enviarles el Espíritu Santo, el Consolador. Al final ora al Padre por ellos y por todos los que creerán."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Matt", "texto": "Reúne las parábolas finales: las diez vírgenes, los talentos y el Rey que separa a las ovejas de los cabritos." },
+    { "libro": "Mark", "texto": "Cuenta la higuera que se seca y la ofrenda de la viuda pobre. Es el relato más breve y directo." },
+    { "libro": "Luke", "texto": "Recuerda que Jesús lloró por Jerusalén. En la cena, los discípulos discuten quién es el mayor, y Jesús se presenta como el que sirve." },
+    { "libro": "John", "texto": "Cuenta el lavatorio de los pies y la larga conversación de la cena. Termina con la oración de Jesús por la unidad." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Zacarías había anunciado a un rey humilde, montado en un asno. Jesús entra así en Jerusalén. En la cena habla del nuevo pacto en su sangre, el que había prometido Jeremías. Pablo lo dirá así: Cristo es nuestra Pascua, el Cordero que se entrega por nosotros.",
+    "refs": ["Zacarías 9:9", "1 Corintios 5:7"]
+  },
+
+  "mundo": "En la Pascua, Jerusalén se llena de peregrinos. Pilato sube desde Cesarea con soldados para vigilar la fiesta. El templo de Herodes brilla con piedras blancas y adornos de oro.",
+
+  "antes": "Camino a Jerusalén, Jesús contó parábolas, devolvió la vida a Lázaro y llamó a Zaqueo.",
+  "despues": "Jesús ora en Getsemaní, es arrestado y juzgado, y entrega su vida en la cruz.",
+
+  "conexiones": [
+    { "ref": "Zacarías 9:9-10", "motivo": "Zacarías anunció al Rey humilde que llega montado en un asno." },
+    { "ref": "Jeremías 31:31", "motivo": "Dios prometió un nuevo pacto; Jesús lo sella en la cena." },
+    { "ref": "Deuteronomio 6:5", "motivo": "Jesús cita este mandamiento como el primero y el más grande." },
+    { "ref": "Isaías 40:8", "motivo": "La palabra de Dios permanece para siempre, como dice Jesús." }
+  ],
+
+  "glosario": ["hosanna", "cena-del-senor", "pascua", "pacto", "espiritu-santo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, haz en secreto un servicio humilde en casa, como Jesús al lavar los pies.",
+    "pregunta": "¿A quién te cuesta amar como Jesús nos amó?"
+  },
+
+  "meditar": "Señor Jesús, tú lavaste los pies de tus amigos y te entregaste por nosotros. Enséñame a servir y a amar como tú. Haz que tus discípulos seamos uno. Amén.",
+
+  "ninos": {
+    "pregunta": "Jesús lavó los pies de sus amigos. ¿Cómo puedes servir tú hoy a tu familia?",
+    "actividad": "Con una vasija de agua y una toalla, laven por turnos las manos de todos en casa."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cómo entró Jesús en Jerusalén?",
+      "opciones": ["En un caballo blanco", "Montado en un pollino", "En un carro de guerra"],
+      "correcta": 1,
+      "explicacion": "Así se cumplió lo que anunció el profeta Zacarías (Mateo 21:5).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús con sus discípulos en la cena, según Juan 13?",
+      "opciones": ["Les contó los panes", "Escribió en el suelo", "Les lavó los pies"],
+      "correcta": 2,
+      "explicacion": "Se ciñó una toalla y les lavó los pies para darles ejemplo (Juan 13:14-15).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta prometió el nuevo pacto que Jesús menciona en la cena?",
+      "opciones": ["Jeremías", "Abdías", "Hageo"],
+      "correcta": 0,
+      "explicacion": "Jeremías 31:31 lo promete; Jesús habla del «nuevo pacto en mi sangre» (Lucas 22:20).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Matt.21", "Luke.22", "John.13", "John.14"], "minutos": 22 },
+
+  "notaEcumenica": "Jesús dejó la Cena del Señor para que lo recordemos. Los católicos la celebran como Eucaristía en la misa; los evangélicos, como Santa Cena. Todos repiten sus palabras: «haced esto en memoria de mí».",
+
+  "temas": ["pacto", "amor-de-dios", "servicio", "oracion", "profecia-cumplida"],
+  "cadenas": ["el-cordero", "el-pacto-nuevo"]
+}

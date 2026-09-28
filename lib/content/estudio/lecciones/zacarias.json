@@ -1,0 +1,146 @@
+{
+  "id": "zacarias",
+  "orden": 45,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Zacarías: tu Rey viene a ti",
+  "pasajes": ["Zech.1.1-Zech.14.21"],
+  "libros": ["Zech"],
+
+  "enUnMinuto": [
+    "Zacarías anima a los que reconstruyen el templo con visiones de noche y promesas de Dios.",
+    "Anuncia a un Rey humilde sobre un asno, a un pastor herido y un manantial que limpia el pecado.",
+    "Dios revela que da el primer paso hacia su pueblo y que un día reinará sobre toda la tierra."
+  ],
+
+  "versiculo": {
+    "texto": "Alégrate mucho, hija de Sión; da voces de júbilo, hija de Jerusalem: he aquí, tu rey vendrá a ti, justo y salvador, humilde, y cabalgando sobre un asno, así sobre un pollino hijo de asna.",
+    "referencia": "Zacarías 9:9",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "520–c. 480 a.C.",
+    "desde": -520,
+    "hasta": -480,
+    "certeza": "aprox",
+    "nota": "Los capítulos 1–8 tienen fechas exactas (520–518 a.C.). Los capítulos 9–14 son posteriores."
+  },
+
+  "fechaEscrito": {
+    "texto": "520–c. 480 a.C.",
+    "desde": -520,
+    "hasta": -480,
+    "certeza": "aprox",
+    "nota": "Los capítulos 1–8 fechan sus mensajes en el reinado de Darío. Los capítulos 9–14 no traen fecha."
+  },
+
+  "autor": {
+    "texto": "El profeta Zacarías, hijo de Berequías",
+    "nota": "La tradición le atribuye todo el libro. Algunos estudiosos piensan que los capítulos 9–14 son de otra mano."
+  },
+
+  "lugar": { "nombre": "Jerusalén, durante la reconstrucción", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "zacarias-profeta", "nombre": "Zacarías", "linea": "Profeta del regreso; ve visiones y anuncia al Rey humilde." },
+    { "id": "zorobabel", "nombre": "Zorobabel", "linea": "Gobernador; terminará el templo con el espíritu de Dios." },
+    { "id": "david", "nombre": "David", "linea": "Sobre su casa Dios derramará espíritu de gracia y de oración." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios llama a su pueblo a volver a él", "ref": "Zacarías 1:1-6" },
+    { "texto": "Zacarías ve visiones en una sola noche", "ref": "Zacarías 1:7-6:8" },
+    { "texto": "El sumo sacerdote Josué recibe ropas limpias", "ref": "Zacarías 3:1-5" },
+    { "texto": "Dios anima a Zorobabel: con mi espíritu", "ref": "Zacarías 4:6-10" },
+    { "texto": "Tu Rey viene, humilde, sobre un asno", "ref": "Zacarías 9:9-10" },
+    { "texto": "Mirarán al que traspasaron y llorarán por él", "ref": "Zacarías 12:10" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Vuelvan a mí",
+      "texto": "Es el segundo año del rey Darío, y el templo sigue sin terminar. Dios habla por medio del profeta Zacarías. Les recuerda que sus padres no escucharon. Ahora los invita a volver a él: «y yo me volveré a vosotros». Dios da el primer paso hacia su pueblo."
+    },
+    {
+      "subtitulo": "Visiones de una noche",
+      "texto": "Una noche, Zacarías ve una serie de visiones. Hay jinetes que recorren la tierra, un hombre que mide Jerusalén y un candelero de oro. Dios promete ser para la ciudad «muro de fuego en derredor». Al gobernador Zorobabel le dice: no con ejército ni con fuerza, «sino con mi espíritu»."
+    },
+    {
+      "subtitulo": "Ropas limpias",
+      "texto": "En otra visión, el sumo sacerdote Josué está ante el ángel del Señor, con ropas sucias. Satanás lo acusa, pero Dios lo reprende. El ángel manda quitarle esas ropas y vestirlo de gala: «he hecho pasar tu pecado de ti». Dios anuncia que traerá a su siervo, el Renuevo."
+    },
+    {
+      "subtitulo": "Justicia y alegría",
+      "texto": "Unos preguntan si deben seguir ayunando por la ruina de Jerusalén. Dios responde que lo importante es la justicia y la misericordia. No hay que oprimir a la viuda, al huérfano, al extranjero ni al pobre. Y promete un futuro feliz: ancianos sentados en las plazas y niños jugando en las calles."
+    },
+    {
+      "subtitulo": "Tu Rey viene a ti",
+      "texto": "La segunda parte del libro mira más lejos. Jerusalén debe alegrarse: su rey viene, justo y humilde, montado en un asno. Hablará paz a las naciones. Después aparece un pastor rechazado, pagado con treinta piezas de plata. El pueblo mirará al que traspasaron y llorará por él."
+    },
+    {
+      "subtitulo": "El Señor, Rey de todo",
+      "texto": "Dios promete abrir un manantial que lava el pecado. Habla de un día en que sus pies estarán sobre el monte de los Olivos. De Jerusalén saldrán aguas vivas, y el Señor será rey sobre toda la tierra. Hay varias maneras de leer estos capítulos, pero todas esperan ese reinado."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Zacarías 9:9 se cumple cuando Jesús entra en Jerusalén montado en un pollino. Mateo lo cita: «He aquí, tu Rey viene a ti, manso». El pastor herido, las treinta piezas de plata y el que traspasaron vuelven a aparecer en la pasión de Jesús.",
+    "refs": ["Mateo 21:4-5", "Juan 19:37"]
+  },
+
+  "mundo": "Darío I vence varias rebeliones en su imperio. Manda grabar sus victorias en la roca de Behistún, en tres lenguas. Siglos después, esas inscripciones ayudaron a leer la escritura cuneiforme.",
+
+  "antes": "Hageo animó al pueblo a construir: la gloria de la casa nueva sería mayor.",
+  "despues": "En Persia, una joven judía llamada Ester llega a ser reina y salva a su pueblo.",
+
+  "conexiones": [
+    { "ref": "Mateo 21:4-7", "motivo": "Jesús entra en Jerusalén montado en un pollino, como el Rey humilde." },
+    { "ref": "Mateo 26:31", "motivo": "Jesús cita la profecía: heriré al Pastor y las ovejas se dispersarán." },
+    { "ref": "Apocalipsis 1:7", "motivo": "Todo ojo verá al que traspasaron." },
+    { "ref": "Juan 7:38", "motivo": "De quien cree en Jesús correrán ríos de agua viva." }
+  ],
+
+  "glosario": ["vision", "sumo-sacerdote", "satanas", "ayuno"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cuando te falten fuerzas, repite: «No con ejército, ni con fuerza, sino con mi espíritu».",
+    "pregunta": "¿Qué comienzo pequeño necesitas confiar hoy a Dios?"
+  },
+
+  "meditar": "Señor Jesús, Rey humilde, entra en mi vida como entraste en Jerusalén. Quita mis ropas sucias y vísteme de tu perdón. Amén.",
+
+  "ninos": {
+    "pregunta": "Jesús eligió un burrito y no un caballo de guerra. ¿Por qué crees que lo hizo?",
+    "actividad": "Dibuja a Jesús entrando en Jerusalén y a la gente que lo recibe con alegría."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Sobre qué animal viene el rey humilde de Zacarías 9:9?",
+      "opciones": ["Un caballo blanco", "Un asno", "Un camello"],
+      "correcta": 1,
+      "explicacion": "Viene «cabalgando sobre un asno». Así entró Jesús en Jerusalén (Mateo 21:5).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué le quitan al sumo sacerdote Josué en la visión?",
+      "opciones": ["Sus ropas sucias", "Su corona de oro", "Su vara de pastor"],
+      "correcta": 0,
+      "explicacion": "Le quitan las ropas sucias: Dios quitó su pecado y lo vistió de gala (Zacarías 3:4).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué frase de Zacarías recuerda Juan junto a la cruz?",
+      "opciones": ["«Alégrate mucho, hija de Sión»", "«Yo soy el buen pastor»", "«Mirarán al que traspasaron»"],
+      "correcta": 2,
+      "explicacion": "Un soldado abre el costado de Jesús, y Juan cita Zacarías 12:10 (Juan 19:37).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Zech.3", "Zech.4", "Zech.8", "Zech.9", "Zech.12"], "minutos": 15 },
+
+  "temas": ["arrepentimiento", "esperanza", "profecia-cumplida", "reino-de-dios", "espiritu-santo"],
+  "cadenas": ["el-rey-de-david", "el-pastor"]
+}

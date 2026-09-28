@@ -1,0 +1,146 @@
+{
+  "id": "levitico",
+  "orden": 10,
+  "seccion": "exodo",
+  "formato": "completo",
+  "titulo": "Un Dios santo vive entre su pueblo",
+  "pasajes": ["Lev.1.1-Lev.27.34"],
+  "libros": ["Lev"],
+
+  "enUnMinuto": [
+    "Al pie del Sinaí, Dios enseña a Israel cómo acercarse a él con ofrendas, sacerdotes y fiestas.",
+    "El centro del libro es el Día de la expiación, cuando se pide perdón por todo el pueblo.",
+    "Dios revela que es santo y, aun así, quiere vivir en medio de su pueblo."
+  ],
+
+  "versiculo": {
+    "texto": "Y andaré entre vosotros, y yo seré vuestro Dios, y vosotros seréis mi pueblo.",
+    "referencia": "Levítico 26:12",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1445 a.C., al pie del Sinaí",
+    "desde": -1445,
+    "hasta": -1445,
+    "certeza": "debatida",
+    "nota": "Depende de la fecha del éxodo: c. 1446 o c. 1270 a.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 1446–1406 a.C., según la tradición",
+    "desde": -1446,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Si lo escribió Moisés, fue durante el desierto. Muchos estudiosos piensan que el libro se completó siglos después."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Moisés.",
+    "nota": "El libro presenta estas leyes como palabras de Dios a Moisés. La tradición judía y la cristiana se lo atribuyen a él."
+  },
+
+  "lugar": { "nombre": "Al pie del monte Sinaí", "mapa": "exodo" },
+
+  "personajes": [
+    { "id": "moises", "nombre": "Moisés", "linea": "Recibe de Dios las leyes y consagra a los sacerdotes." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Primer sumo sacerdote; ofrece por el pueblo y lo bendice." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Dios promete recordar su pacto con él, aunque Israel falle." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios explica las ofrendas del altar", "ref": "Levítico 1-7" },
+    { "texto": "Aarón y sus hijos son consagrados sacerdotes", "ref": "Levítico 8:1-13" },
+    { "texto": "El fuego de Dios consume la primera ofrenda", "ref": "Levítico 9:22-24" },
+    { "texto": "Nadab y Abiú ofrecen un fuego extraño y mueren", "ref": "Levítico 10:1-3" },
+    { "texto": "El sumo sacerdote pide perdón por todo el pueblo", "ref": "Levítico 16:29-34" },
+    { "texto": "Dios fija las fiestas del año", "ref": "Levítico 23:1-44" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un Dios santo, cerca",
+      "texto": "El tabernáculo ya está en pie, y la gloria de Dios lo llena. Desde allí, Dios llama a Moisés. Quiere vivir en medio de su pueblo. Pero Dios es santo, y el pueblo es pecador. ¿Cómo acercarse a él? Levítico responde: Dios mismo abre el camino."
+    },
+    {
+      "subtitulo": "Las ofrendas del altar",
+      "texto": "Dios enseña varias ofrendas. En el holocausto, el animal se quema entero: es una entrega total. La ofrenda de harina es un regalo de gratitud. La ofrenda de paz es una comida de amistad con Dios. Otras ofrendas piden perdón por el pecado y la culpa. Quien ofrece pone la mano sobre la cabeza del animal."
+    },
+    {
+      "subtitulo": "Sacerdotes para servir",
+      "texto": "Moisés consagra a Aarón y a sus hijos como sacerdotes. Aarón ofrece por primera vez y bendice al pueblo. Sale fuego de delante de Dios y consume la ofrenda. Todos alaban y se postran. Pero Nadab y Abiú ofrecen un fuego que Dios no mandó, y mueren. Acercarse a Dios es algo muy serio."
+    },
+    {
+      "subtitulo": "Santos en la vida diaria",
+      "texto": "Dios da reglas sobre la comida, las enfermedades de la piel y lo puro y lo impuro. Toda la vida le importa. Dios repite: «Santos seréis, porque santo soy yo». Esa santidad se vive con los demás. Hay que dejar espigas para el pobre, honrar al anciano y amar al prójimo como a uno mismo."
+    },
+    {
+      "subtitulo": "El gran día del perdón",
+      "texto": "Una vez al año, el sumo sacerdote entra detrás del velo, en el lugar santísimo. Rocía sangre sobre la tapa del arca. Después pone las manos sobre un macho cabrío y confiesa los pecados del pueblo. El animal se va al desierto, como llevándose las culpas lejos. Es el Día de la expiación."
+    },
+    {
+      "subtitulo": "Fiestas y libertad",
+      "texto": "Dios también regala fiestas: la Pascua, los Panes sin levadura, las Primicias y las Semanas. Después vienen las Trompetas, la Expiación y las Cabañas. Jesús morirá en una Pascua, y el Espíritu llegará en la fiesta de las Semanas. Cada cincuenta años llega el jubileo: las tierras vuelven a sus familias y los siervos quedan libres."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "La carta a los Hebreos lee Levítico mirando a Jesús. Él es el sumo sacerdote que entra en el santuario de Dios. No lleva sangre de animales, sino la suya, y entra «una sola vez». Su entrega basta para siempre. Por eso los cristianos ya no ofrecen animales en el altar.",
+    "refs": ["Hebreos 9:11-12", "Hebreos 10:10"]
+  },
+
+  "mundo": "Los pueblos vecinos tenían templos, sacerdotes y sacrificios para muchos dioses. Israel también ofrece sacrificios, pero a un solo Dios, que además manda cuidar al pobre y al extranjero.",
+
+  "antes": "Dios sacó a Israel de Egipto, le dio su Ley en el Sinaí y llenó el tabernáculo con su gloria.",
+  "despues": "Israel cuenta a su gente y se pone en marcha hacia la tierra prometida. El viaje será largo.",
+
+  "conexiones": [
+    { "ref": "Hebreos 9:22", "motivo": "Sin sangre derramada no hay perdón: Levítico prepara para entender la cruz." },
+    { "ref": "1 Pedro 1:16", "motivo": "Pedro repite a los cristianos la llamada de Levítico a ser santos." },
+    { "ref": "Mateo 22:39", "motivo": "Jesús llama «segundo» mandamiento a amar al prójimo como a uno mismo." },
+    { "ref": "Lucas 4:18-19", "motivo": "Jesús anuncia libertad a los cautivos, como un jubileo nuevo." }
+  ],
+
+  "glosario": ["sacrificio", "sumo-sacerdote", "expiacion", "dia-de-la-expiacion", "jubileo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, deja algo tuyo para alguien que lo necesite, como las espigas para el pobre.",
+    "pregunta": "¿Qué culpa necesitas dejar hoy en manos de Jesús?"
+  },
+
+  "meditar": "Dios santo, gracias porque en Jesús puedo acercarme a ti sin miedo. Limpia mi corazón y enséñame a amar a mi prójimo. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Por qué Dios pedía dejar espigas sin cortar en los campos?",
+    "actividad": "Dibuja un campo de trigo y colorea las espigas que dejarías para quien tiene hambre."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cada cuántos años llegaba el año del jubileo?",
+      "opciones": ["Cada siete años", "Cada cincuenta años", "Cada cien años"],
+      "correcta": 1,
+      "explicacion": "El año cincuenta se pregonaba libertad en la tierra (Levítico 25:10).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "En el Día de la expiación, ¿qué llevaba el macho cabrío al desierto?",
+      "opciones": ["Los pecados del pueblo", "El arca del pacto", "Comida para los sacerdotes"],
+      "correcta": 0,
+      "explicacion": "Aarón confesaba sobre él los pecados de Israel y lo enviaba lejos (Levítico 16:21-22).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Hebreos, ¿con qué sangre entró Cristo en el santuario?",
+      "opciones": ["Con sangre de becerros", "Con sangre de corderos", "Con su propia sangre"],
+      "correcta": 2,
+      "explicacion": "Cristo entró «una sola vez» con su propia sangre y nos dio eterna redención (Hebreos 9:12).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Lev.1", "Lev.16", "Lev.19", "Lev.23"], "minutos": 20 },
+
+  "temas": ["santidad", "perdon", "gracia", "cordero"],
+  "cadenas": ["el-cordero", "el-sumo-sacerdote"]
+}

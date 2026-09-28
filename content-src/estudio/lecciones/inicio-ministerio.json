@@ -1,0 +1,159 @@
+{
+  "id": "inicio-ministerio",
+  "orden": 55,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Jesús comienza su misión",
+  "pasajes": ["Matt.3.1-Matt.4.25", "Mark.1.1-Mark.1.45", "Luke.3.1-Luke.4.44", "John.1.19-John.4.54"],
+  "libros": ["Mark"],
+
+  "enUnMinuto": [
+    "Juan bautiza a Jesús en el Jordán, y Jesús vence la tentación en el desierto.",
+    "Llama a sus primeros discípulos, hace su primera señal en Caná y ofrece vida nueva.",
+    "Dios revela a su Hijo amado, que viene lleno del Espíritu a salvar al mundo."
+  ],
+
+  "versiculo": {
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+    "referencia": "Juan 3:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 27–28 d.C.",
+    "desde": 27,
+    "hasta": 28,
+    "certeza": "aprox",
+    "nota": "Lucas 3:1 fecha el comienzo en el año 15 de Tiberio, c. 28 d.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 55–70 d.C.",
+    "desde": 55,
+    "hasta": 70,
+    "certeza": "debatida",
+    "nota": "Muchos lo consideran el primer Evangelio escrito. Algunos estudiosos lo sitúan poco después del año 70 d.C."
+  },
+
+  "autor": {
+    "texto": "La tradición lo atribuye a Juan Marcos, compañero de Pedro.",
+    "nota": "Papías, un obispo del siglo II, cuenta que Marcos escribió lo que Pedro predicaba."
+  },
+
+  "lugar": { "nombre": "El Jordán, Galilea, Jerusalén y Samaria", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Hijo amado; lleno del Espíritu, empieza a anunciar el reino." },
+    { "id": "juan-el-bautista", "nombre": "Juan el Bautista", "linea": "Bautiza en el Jordán y señala a Jesús como el Cordero." },
+    { "id": "andres", "nombre": "Andrés", "linea": "Discípulo de Juan que sigue a Jesús y trae a su hermano." },
+    { "id": "pedro", "nombre": "Simón Pedro", "linea": "Pescador a quien Jesús llama Cefas, que quiere decir Piedra." },
+    { "id": "natanael", "nombre": "Natanael", "linea": "Duda de Nazaret, pero confiesa: tú eres el Hijo de Dios." },
+    { "id": "maria-madre-de-jesus", "nombre": "María", "linea": "En Caná avisa a Jesús que falta vino y confía en él." },
+    { "id": "nicodemo", "nombre": "Nicodemo", "linea": "Maestro fariseo que visita a Jesús de noche con preguntas sinceras." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús es bautizado y el Padre habla desde el cielo", "ref": "Mateo 3:13-17" },
+    { "texto": "Jesús vence la tentación en el desierto", "ref": "Mateo 4:1-11" },
+    { "texto": "Los primeros discípulos siguen a Jesús", "ref": "Juan 1:35-51" },
+    { "texto": "En Caná, Jesús convierte el agua en vino", "ref": "Juan 2:1-11" },
+    { "texto": "Jesús enseña a Nicodemo a nacer de nuevo", "ref": "Juan 3:1-21" },
+    { "texto": "Jesús ofrece agua viva a una mujer samaritana", "ref": "Juan 4:1-42" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una voz en el desierto",
+      "texto": "Es el año quince del emperador Tiberio. Juan predica en el desierto: «Arrepentíos, que el reino de los cielos se ha acercado». Mucha gente confiesa sus pecados y recibe el bautismo en el Jordán. Es un bautismo de arrepentimiento. Juan anuncia a alguien más poderoso que él, que bautizará con el Espíritu Santo."
+    },
+    {
+      "subtitulo": "Mi Hijo amado",
+      "texto": "Jesús, de unos treinta años, llega al Jordán. Juan no se siente digno de bautizarlo, pero Jesús insiste. Al salir del agua, el cielo se abre. El Espíritu baja sobre él como una paloma. Y la voz del Padre dice: «Este es mi Hijo amado». El Padre, el Hijo y el Espíritu están allí."
+    },
+    {
+      "subtitulo": "Escrito está",
+      "texto": "Después, el Espíritu lleva a Jesús al desierto. Allí ayuna cuarenta días, y el diablo lo tienta. Le propone convertir piedras en pan, tirarse desde el templo y adorarlo a cambio de los reinos del mundo. Jesús responde cada vez con la Escritura. Al final le dice: «Vete, Satanás». Los ángeles vienen a servirle."
+    },
+    {
+      "subtitulo": "Venid y ved",
+      "texto": "Juan señala a Jesús: «He aquí el Cordero de Dios». Andrés lo sigue y trae a su hermano Simón, a quien Jesús llama Pedro. Felipe invita a Natanael: «Ven y ve». Junto al mar de Galilea, Jesús llama a unos pescadores. Los hará pescadores de hombres. Ellos dejan sus redes y lo siguen."
+    },
+    {
+      "subtitulo": "Vino nuevo en Caná",
+      "texto": "En una boda en Caná se acaba el vino. María dice a los sirvientes: «Haced todo lo que os dijere». Jesús convierte el agua en un vino excelente. Es su primera señal, y sus discípulos creen en él. En Jerusalén, echa del templo a los vendedores. La casa de su Padre no es un mercado."
+    },
+    {
+      "subtitulo": "Nacer de nuevo",
+      "texto": "Nicodemo, un fariseo importante, visita a Jesús de noche. Jesús le dice que hay que nacer otra vez, del Espíritu. Tanto amó Dios al mundo que dio a su Hijo. Junto a un pozo, Jesús pide agua a una mujer samaritana y le ofrece agua viva. Ella corre a su pueblo, y muchos creen."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Matt", "texto": "Cuenta las tres tentaciones con detalle. Jesús se va a vivir a Capernaum, y así brilla la luz en «Galilea de los Gentiles»." },
+    { "libro": "Mark", "texto": "Es el más breve: bautismo, desierto y primeras llamadas en pocas líneas. Usa mucho la palabra «luego»: todo va de prisa." },
+    { "libro": "Luke", "texto": "Fecha el comienzo con los gobernantes de la época. Muestra a Jesús orando en su bautismo y leyendo a Isaías en Nazaret." },
+    { "libro": "John", "texto": "Cuenta lo que los otros no narran: los primeros discípulos, Caná, Nicodemo y la mujer samaritana." }
+  ],
+
+  "jesusAqui": {
+    "texto": "En la sinagoga de Nazaret, Jesús lee a Isaías: «El Espíritu del Señor es sobre mí». Después dice: «Hoy se ha cumplido esta Escritura». Él es el Ungido que trae buenas noticias a los pobres y libertad a los cautivos. Donde Israel cayó en el desierto, Jesús permanece fiel.",
+    "refs": ["Isaías 61:1", "Hechos 10:38"]
+  },
+
+  "mundo": "Tiberio es emperador de Roma. Poncio Pilato gobierna Judea, y Herodes Antipas, hijo de Herodes el Grande, gobierna Galilea. Capernaum es un pueblo de pescadores junto al lago.",
+
+  "antes": "Jesús nació en Belén y creció en Nazaret. A los doce años habló de las cosas de su Padre.",
+  "despues": "En un monte de Galilea, Jesús enseña a sus discípulos las bienaventuranzas y el Padrenuestro.",
+
+  "conexiones": [
+    { "ref": "Deuteronomio 8:3", "motivo": "Jesús vence al tentador con palabras que Moisés dijo a Israel." },
+    { "ref": "Isaías 61:1", "motivo": "Jesús lee este pasaje en Nazaret y dice que hoy se cumple." },
+    { "ref": "Números 21:7-9", "motivo": "La serpiente levantada en el desierto anuncia a Jesús levantado en la cruz." },
+    { "ref": "Romanos 5:8", "motivo": "Dios muestra su amor: Cristo murió por nosotros siendo pecadores." }
+  ],
+
+  "glosario": ["bautismo", "arrepentimiento", "satanas", "samaritano", "fariseo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, aprende de memoria un versículo, como Jesús en el desierto, y repítelo cuando llegue la tentación.",
+    "pregunta": "¿A quién puedes invitar a conocer a Jesús, como hizo Andrés?"
+  },
+
+  "meditar": "Señor Jesús, tú venciste la tentación con la Palabra. Dame tu agua viva y un corazón nuevo. Quiero seguirte como tus primeros discípulos. Amén.",
+
+  "ninos": {
+    "pregunta": "Andrés corrió a buscar a su hermano para presentarle a Jesús. ¿A quién se lo presentarías tú?",
+    "actividad": "Llena una jarra con agua y cuenta con tu familia lo que pasó en Caná."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Dónde bautizó Juan a Jesús?",
+      "opciones": ["En el mar de Galilea", "En el río Jordán", "En el pozo de Jacob"],
+      "correcta": 1,
+      "explicacion": "Jesús vino de Galilea al Jordán para que Juan lo bautizara (Mateo 3:13).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué respondió Jesús a cada tentación del diablo?",
+      "opciones": ["Con una señal del cielo", "Con silencio", "Con palabras de la Escritura"],
+      "correcta": 2,
+      "explicacion": "Cada vez dijo «Escrito está» y citó el libro de Deuteronomio (Mateo 4:4-10).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Juan 3:14, ¿qué levantó Moisés en el desierto?",
+      "opciones": ["Una serpiente", "Una estrella", "Un altar de piedras"],
+      "correcta": 0,
+      "explicacion": "Quien miraba la serpiente vivía (Números 21:8). Así Jesús será levantado para dar vida.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Matt.3", "Matt.4", "Luke.4", "John.2", "John.3", "John.4"], "minutos": 30 },
+
+  "notaEcumenica": "En Caná, muchos católicos ven a María que intercede ante su Hijo. Muchos evangélicos subrayan sus palabras: «Haced todo lo que os dijere». Unos y otros ven en ella a quien lleva a Jesús.",
+
+  "temas": ["arrepentimiento", "espiritu-santo", "fe", "amor-de-dios", "reino-de-dios"],
+  "cadenas": ["el-cordero", "el-espiritu"]
+}

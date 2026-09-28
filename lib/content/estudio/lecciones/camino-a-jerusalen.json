@@ -1,0 +1,143 @@
+{
+  "id": "camino-a-jerusalen",
+  "orden": 58,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Camino a Jerusalén",
+  "pasajes": ["Luke.9.51-Luke.19.27", "John.7.1-John.11.57", "Matt.19.1-Matt.20.34", "Mark.10.1-Mark.10.52"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Jesús sube decidido a Jerusalén y, en el camino, cuenta parábolas y devuelve la vida a Lázaro.",
+    "Habla del buen samaritano, del hijo que vuelve a casa y del buen pastor que da su vida.",
+    "Dios revela que busca a los perdidos y hace fiesta cuando alguien vuelve a él."
+  ],
+
+  "versiculo": {
+    "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.",
+    "referencia": "Lucas 19:10",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 29–30 d.C.",
+    "desde": 29,
+    "hasta": 30,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "De Galilea a Jerusalén y Betania", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "El buen pastor que va a Jerusalén a dar su vida." },
+    { "id": "marta", "nombre": "Marta", "linea": "Recibe a Jesús en su casa y confiesa que es el Cristo." },
+    { "id": "maria-de-betania", "nombre": "María de Betania", "linea": "Escucha a Jesús a sus pies; llora ante él por Lázaro." },
+    { "id": "lazaro", "nombre": "Lázaro", "linea": "Amigo de Jesús que sale vivo del sepulcro después de cuatro días." },
+    { "id": "nicodemo", "nombre": "Nicodemo", "linea": "Fariseo que pide escuchar a Jesús antes de juzgarlo." },
+    { "id": "zaqueo", "nombre": "Zaqueo", "linea": "Jefe de publicanos en Jericó; recibe a Jesús y cambia de vida." },
+    { "id": "caifas", "nombre": "Caifás", "linea": "Sumo sacerdote que propone que un hombre muera por el pueblo." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús cuenta la parábola del buen samaritano", "ref": "Lucas 10:25-37" },
+    { "texto": "El padre recibe con fiesta al hijo que vuelve", "ref": "Lucas 15:11-32" },
+    { "texto": "Jesús da la vista a un ciego de nacimiento", "ref": "Juan 9:1-41" },
+    { "texto": "Jesús devuelve la vida a Lázaro en Betania", "ref": "Juan 11:1-44" },
+    { "texto": "Jesús bendice a los niños", "ref": "Marcos 10:13-16" },
+    { "texto": "Zaqueo recibe a Jesús y cambia de vida", "ref": "Lucas 19:1-10" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Rumbo a Jerusalén",
+      "texto": "Jesús sabe que se acerca su hora, y emprende decidido el camino a Jerusalén. Un maestro de la ley le pregunta quién es su prójimo. Jesús cuenta de un samaritano que cuida a un herido junto al camino. Un sacerdote y un levita habían pasado de largo. «Ve, y haz tú lo mismo», le dice."
+    },
+    {
+      "subtitulo": "Una cosa es necesaria",
+      "texto": "En una aldea, Marta recibe a Jesús en su casa. Ella se afana sirviendo, mientras su hermana María escucha sentada a sus pies. Jesús le dice con cariño que María escogió la buena parte. Después enseña a sus discípulos a orar y a pedir con confianza al Padre."
+    },
+    {
+      "subtitulo": "Perdido y hallado",
+      "texto": "Los publicanos y los pecadores se acercan a escucharlo, y algunos fariseos murmuran. Jesús cuenta tres historias: una oveja perdida, una moneda perdida y un hijo que se va de casa. Cuando el hijo vuelve, el padre corre a abrazarlo y hace fiesta. Así se alegra Dios cuando alguien vuelve."
+    },
+    {
+      "subtitulo": "Luz y buen pastor",
+      "texto": "En la fiesta de los tabernáculos, en Jerusalén, Jesús invita a todo el que tenga sed a venir a él. Dice: «Yo soy la luz del mundo», y da la vista a un ciego de nacimiento. También dice: «Yo soy el buen pastor». El buen pastor da su vida por las ovejas."
+    },
+    {
+      "subtitulo": "Lázaro, ven fuera",
+      "texto": "Lázaro, amigo de Jesús, muere en Betania. Cuando Jesús llega, lleva cuatro días en el sepulcro. Jesús dice a Marta: «Yo soy la resurrección y la vida». Llora con María y sus amigos. Luego clama: «Lázaro, ven fuera». Y Lázaro sale vivo. Desde ese día, Caifás y el concilio buscan matar a Jesús."
+    },
+    {
+      "subtitulo": "Buscar lo perdido",
+      "texto": "En el camino, Jesús bendice a los niños y sana a diez leprosos. Anuncia otra vez que morirá y resucitará. No vino a ser servido, sino a servir. En Jericó devuelve la vista al ciego Bartimeo. Y Zaqueo, jefe de publicanos, baja de un árbol, recibe a Jesús y cambia de vida."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Luke", "texto": "Guarda parábolas que solo él cuenta: el buen samaritano, el hijo pródigo, el rico y Lázaro." },
+    { "libro": "John", "texto": "Lleva a Jesús a las fiestas de Jerusalén. Allí dice que él es la luz, la puerta, el buen pastor y la resurrección." },
+    { "libro": "Matt", "texto": "Cuenta la parábola de los obreros de la viña: el dueño paga con generosidad, también a los últimos." },
+    { "libro": "Mark", "texto": "Cuenta cómo el ciego Bartimeo grita: «Hijo de David, ten misericordia de mí», y después sigue a Jesús." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Ezequiel anunció que Dios mismo buscaría a sus ovejas perdidas. Jesús cumple esa promesa: «vino a buscar y a salvar lo que se había perdido». Él es el buen pastor que da su vida por las ovejas. Y en Betania se muestra como la resurrección y la vida.",
+    "refs": ["Ezequiel 34:16", "Juan 10:11"]
+  },
+
+  "mundo": "Jericó es una ciudad de palmeras y un cruce de caminos con mucho comercio. Allí viven ricos cobradores de impuestos, como Zaqueo. Desde Jericó, el camino sube a Jerusalén entre montes secos.",
+
+  "antes": "En Galilea, Jesús hizo muchos milagros, eligió a los Doce, y Pedro lo confesó como el Cristo.",
+  "despues": "Jesús entra en Jerusalén montado en un asno, y la gente lo aclama con palmas: ¡Hosanna!",
+
+  "conexiones": [
+    { "ref": "Ezequiel 34:16", "motivo": "Dios promete buscar a la oveja perdida y cuidar a la enferma." },
+    { "ref": "Isaías 44:3", "motivo": "Dios prometió derramar agua y su Espíritu sobre el sediento." },
+    { "ref": "Deuteronomio 6:5", "motivo": "El maestro de la ley cita este mandamiento de amar a Dios." },
+    { "ref": "Juan 12:46", "motivo": "Jesús vino como luz, para que nadie quede en tinieblas." }
+  ],
+
+  "glosario": ["samaritano", "publicano", "fiesta-de-los-tabernaculos", "parabola", "resurreccion"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, sé un buen samaritano: ayuda a alguien que no puede devolverte el favor.",
+    "pregunta": "¿En qué personaje de la parábola del hijo pródigo te reconoces hoy?"
+  },
+
+  "meditar": "Buen Pastor, gracias por buscarme cuando me pierdo. Dame un corazón como el del samaritano. Tú eres la resurrección y la vida: en ti confío. Amén.",
+
+  "ninos": {
+    "pregunta": "Zaqueo era bajito y se subió a un árbol para ver a Jesús. ¿Qué harías tú para verlo?",
+    "actividad": "Esconde una moneda en casa y búsquenla juntos. Cuando la encuentren, ¡hagan una pequeña fiesta!"
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Quién ayudó al hombre herido en la parábola de Jesús?",
+      "opciones": ["Un sacerdote", "Un levita", "Un samaritano"],
+      "correcta": 2,
+      "explicacion": "El samaritano tuvo misericordia: vendó sus heridas y lo llevó al mesón (Lucas 10:33-35).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús a Marta antes de resucitar a Lázaro?",
+      "opciones": ["«Yo soy la resurrección y la vida»", "«Yo soy la puerta»", "«Yo soy el pan de vida»"],
+      "correcta": 0,
+      "explicacion": "Se lo dijo en Betania, y Marta respondió que creía en él (Juan 11:25-27).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que Dios buscaría a sus ovejas perdidas?",
+      "opciones": ["Jonás", "Ezequiel", "Nahúm"],
+      "correcta": 1,
+      "explicacion": "Ezequiel 34:16 lo prometió. Jesús dice que vino a buscar lo perdido (Lucas 19:10).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Luke.10", "Luke.15", "John.10", "John.11", "Luke.19"], "minutos": 28 },
+
+  "temas": ["misericordia", "perdon", "arrepentimiento", "resurreccion", "amor-de-dios"],
+  "cadenas": ["el-pastor", "la-luz-del-mundo"]
+}

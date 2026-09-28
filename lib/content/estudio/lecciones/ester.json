@@ -1,0 +1,148 @@
+{
+  "id": "ester",
+  "orden": 46,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Ester: valor para salvar a su pueblo",
+  "pasajes": ["Esth.1.1-Esth.10.3"],
+  "libros": ["Esth"],
+
+  "enUnMinuto": [
+    "Ester, una joven judía huérfana, llega a ser reina de Persia justo cuando su pueblo corre peligro.",
+    "Arriesga su vida ante el rey, y el plan de Amán para destruir a los judíos se da vuelta.",
+    "El libro nunca nombra a Dios, pero revela que él guía la historia aun cuando parece escondido."
+  ],
+
+  "versiculo": {
+    "texto": "Porque si absolutamente callares en este tiempo, respiro y libertación tendrán los Judíos de otra parte; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora te han hecho llegar al reino?",
+    "referencia": "Ester 4:14",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 483–473 a.C.",
+    "desde": -483,
+    "hasta": -473,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Siglo V o IV a.C.",
+    "desde": -470,
+    "hasta": -330,
+    "certeza": "incierta",
+    "nota": "El libro no dice cuándo se escribió. Habla de Asuero como de un rey del pasado."
+  },
+
+  "autor": {
+    "texto": "Autor desconocido",
+    "nota": "Algunas tradiciones judías pensaron en Mardoqueo. El libro no lo dice."
+  },
+
+  "lugar": { "nombre": "Susa, capital de Persia", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "ester", "nombre": "Ester", "linea": "Huérfana judía que llega a reina y arriesga su vida." },
+    { "id": "mardoqueo", "nombre": "Mardoqueo", "linea": "Primo que la crió; fiel y atento al bien de su pueblo." },
+    { "id": "asuero", "nombre": "Asuero", "linea": "Rey de Persia, poderoso pero fácil de manejar." },
+    { "id": "aman", "nombre": "Amán", "linea": "Alto oficial del rey; por orgullo planea destruir a los judíos." }
+  ],
+
+  "eventos": [
+    { "texto": "Ester llega a ser reina de Persia", "ref": "Ester 2:15-18" },
+    { "texto": "Mardoqueo descubre un plan contra el rey", "ref": "Ester 2:21-23" },
+    { "texto": "Amán logra un decreto contra los judíos", "ref": "Ester 3:8-15" },
+    { "texto": "Ester ayuna y se presenta ante el rey", "ref": "Ester 4:15-5:3" },
+    { "texto": "Una noche sin sueño cambia la historia", "ref": "Ester 6:1-11" },
+    { "texto": "Mardoqueo manda celebrar la fiesta de Purim", "ref": "Ester 9:20-28" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una reina inesperada",
+      "texto": "El rey Asuero gobierna desde la India hasta Etiopía. Su reina Vasti se niega a presentarse en un banquete, y el rey la aparta. Buscan una nueva reina entre muchas jóvenes. El rey elige a Ester, una huérfana judía criada por su primo Mardoqueo. Ella no dice de qué pueblo es."
+    },
+    {
+      "subtitulo": "Un enemigo poderoso",
+      "texto": "Mardoqueo descubre un plan para matar al rey y avisa a tiempo. El hecho queda escrito en las crónicas del reino. Después, el rey pone a Amán por encima de todos. Mardoqueo no se arrodilla ante él. Amán, lleno de ira, consigue un decreto para destruir a todos los judíos en un solo día."
+    },
+    {
+      "subtitulo": "Para esta hora",
+      "texto": "Mardoqueo le pide a Ester que hable con el rey. Pero entrar sin ser llamada puede costarle la vida. Mardoqueo le dice: «¿quién sabe si para esta hora te han hecho llegar al reino?». Ester pide a todos los judíos de la ciudad ayunar tres días. Luego decide: «si perezco, que perezca»."
+    },
+    {
+      "subtitulo": "Una noche sin sueño",
+      "texto": "El rey extiende su cetro de oro, y Ester lo invita a un banquete con Amán. Esa noche, el rey no puede dormir. Pide que le lean las crónicas y descubre que Mardoqueo le salvó la vida. Al día siguiente, Amán tiene que honrar en público al hombre que odiaba."
+    },
+    {
+      "subtitulo": "Todo se da vuelta",
+      "texto": "En el segundo banquete, Ester revela que es judía y pide por la vida de su pueblo. Señala a Amán como el enemigo. Amán recibe el castigo que había preparado para Mardoqueo. Una ley del rey no se podía anular. Por eso el rey da otra: los judíos pueden defenderse."
+    },
+    {
+      "subtitulo": "Del luto a la fiesta",
+      "texto": "El día señalado, los judíos se defienden de quienes querían destruirlos. El luto se convierte en fiesta. Mardoqueo ordena recordarlo cada año con la fiesta de Purim: banquetes, regalos a los vecinos y ayuda a los pobres. El libro nunca nombra a Dios, pero su mano se ve en cada giro."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Ester arriesga su vida y se presenta ante el rey para pedir por su pueblo. Jesús fue más lejos: dio su vida y ahora vive «siempre para interceder» por nosotros. Como en Ester, Dios obra aun cuando no lo vemos. Todo ayuda a bien a los que lo aman.",
+    "refs": ["Hebreos 7:25", "Romanos 8:28"]
+  },
+
+  "mundo": "Asuero es, muy probablemente, Jerjes I de Persia. En esos años lanza una gran guerra contra Grecia y pierde la batalla naval de Salamina, en el 480 a.C.",
+
+  "antes": "Zacarías animó a los constructores del templo y anunció a un Rey humilde.",
+  "despues": "Unos años después, el sacerdote Esdras viaja de Persia a Jerusalén para enseñar la Ley.",
+
+  "conexiones": [
+    { "ref": "Génesis 45:4-8", "motivo": "Como José, Ester llega a un palacio y Dios la usa para salvar." },
+    { "ref": "1 Samuel 12:22", "motivo": "Dios no desampara a su pueblo." },
+    { "ref": "Hechos 20:24", "motivo": "Pablo tampoco tiene su vida por preciosa si cumple su misión." },
+    { "ref": "Lucas 1:48-52", "motivo": "María canta que Dios levanta a los humildes." }
+  ],
+
+  "glosario": ["purim", "ayuno", "judio", "persia"],
+
+  "notaEcumenica": "Las Biblias católicas incluyen partes griegas de Ester, con oraciones de Mardoqueo y de Ester que nombran a Dios. Las evangélicas siguen el texto hebreo, que no lo nombra.",
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, habla o actúa a favor de alguien que no puede defenderse.",
+    "pregunta": "¿Para qué «hora» te habrá puesto Dios donde estás hoy?"
+  },
+
+  "meditar": "Señor, aunque no te vea, sé que guías mi historia. Dame el valor de Ester para hablar cuando hace falta. Amén.",
+
+  "ninos": {
+    "pregunta": "Ester fue valiente aunque tenía miedo. ¿Cuándo necesitaste tú ser valiente?",
+    "actividad": "Haz una corona de papel y cuenta la historia de Ester a tu familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Quién crió a Ester cuando quedó huérfana?",
+      "opciones": ["El rey Asuero", "Amán, el oficial", "Su primo Mardoqueo"],
+      "correcta": 2,
+      "explicacion": "Mardoqueo la había tomado por hija suya (Ester 2:7).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué fiesta nació de la historia de Ester?",
+      "opciones": ["Purim", "Pascua", "Pentecostés"],
+      "correcta": 0,
+      "explicacion": "Purim recuerda cómo la tristeza se volvió alegría (Ester 9:22-26).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué historia de Génesis se parece más a la de Ester?",
+      "opciones": ["Noé y el arca", "José en Egipto", "La torre de Babel"],
+      "correcta": 1,
+      "explicacion": "Como Ester, José llegó a un palacio, y Dios lo usó para salvar a muchos (Génesis 45:5).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Esth.3", "Esth.4", "Esth.5", "Esth.6", "Esth.7"], "minutos": 16 },
+
+  "temas": ["providencia", "fe", "oracion", "esperanza"],
+  "cadenas": ["la-providencia"]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "hechos-21-28",
+  "orden": 74,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Pablo, preso, llega a Roma",
+  "pasajes": ["Acts.21.1-Acts.28.31"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Pablo es arrestado en Jerusalén, pasa años preso y sobrevive a un naufragio camino a Roma.",
+    "Ante gobernadores y reyes cuenta su encuentro con Jesús, y en Roma sigue anunciándolo.",
+    "Dios revela que nada detiene su palabra: ni cadenas, ni tormentas, ni tribunales."
+  ],
+
+  "versiculo": {
+    "texto": "Y la noche siguiente, presentándosele el Señor, le dijo: Confía, Pablo; que como has testificado de mí en Jerusalem, así es menester testifiques también en Roma.",
+    "referencia": "Hechos 23:11",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 57–62 d.C.",
+    "desde": 57,
+    "hasta": 62,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "Jerusalén, Cesarea, el mar y Roma", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Preso por anunciar a Jesús, da testimonio ante gobernadores y reyes." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Se aparece a Pablo de noche y le dice: «Confía, Pablo»." },
+    { "id": "felipe-evangelista", "nombre": "Felipe, el evangelista", "linea": "Recibe a Pablo en Cesarea; sus cuatro hijas profetizaban." },
+    { "id": "santiago-hermano-del-senor", "nombre": "Santiago", "linea": "Guía a la iglesia de Jerusalén; recibe a Pablo con los ancianos." },
+    { "id": "ananias-de-damasco", "nombre": "Ananías de Damasco", "linea": "Pablo recuerda cómo este discípulo le devolvió la vista." },
+    { "id": "gamaliel", "nombre": "Gamaliel", "linea": "Maestro de Pablo en su juventud, en Jerusalén." }
+  ],
+
+  "eventos": [
+    { "texto": "Agabo anuncia que atarán a Pablo en Jerusalén", "ref": "Hechos 21:10-14" },
+    { "texto": "Arrestan a Pablo en el templo", "ref": "Hechos 21:27-36" },
+    { "texto": "Pablo apela al César ante el gobernador Festo", "ref": "Hechos 25:6-12" },
+    { "texto": "Pablo cuenta al rey Agripa cómo lo llamó Jesús", "ref": "Hechos 26:1-29" },
+    { "texto": "Tormenta y naufragio: todos llegan a tierra", "ref": "Hechos 27:13-44" },
+    { "texto": "Pablo anuncia a Jesús en Roma con libertad", "ref": "Hechos 28:16-31" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Rumbo a Jerusalén",
+      "texto": "Pablo viaja a Jerusalén con una ofrenda para su pueblo. En Cesarea, el profeta Agabo se ata con el cinto de Pablo. Anuncia que así lo atarán en Jerusalén. Todos lloran y le ruegan que no vaya. Pablo está listo para morir por Jesús. Ellos dicen: «Hágase la voluntad del Señor»."
+    },
+    {
+      "subtitulo": "Arrestado en el templo",
+      "texto": "En Jerusalén, Santiago y los ancianos lo reciben con alegría. Pero unos judíos de Asia lo ven en el templo y alborotan a la gente. Creen que metió a un no judío en el templo. Quieren matarlo, y los soldados romanos lo rescatan. Desde las gradas, Pablo cuenta cómo Jesús lo encontró camino a Damasco."
+    },
+    {
+      "subtitulo": "Un plan de noche",
+      "texto": "Ante el Sanedrín hay una gran discusión. Esa noche, el Señor se le aparece: «Confía, Pablo». Tendrá que dar testimonio también en Roma. Más de cuarenta hombres juran matarlo, pero un sobrino de Pablo descubre el plan. El comandante lo envía de noche a Cesarea, protegido por cientos de soldados."
+    },
+    {
+      "subtitulo": "Ante gobernadores y reyes",
+      "texto": "En Cesarea, el gobernador Félix lo escucha, pero lo deja preso dos años. Llega el nuevo gobernador, Festo. Pablo es ciudadano romano y dice: «A César apelo». Después habla ante el rey Agripa y le cuenta su encuentro con Jesús. Agripa responde: «Por poco me persuades a ser Cristiano»."
+    },
+    {
+      "subtitulo": "Tormenta en el mar",
+      "texto": "Pablo viaja a Roma en barco, como preso. Una tormenta muy fuerte los arrastra catorce días, y pierden la esperanza. Pero un ángel le dice a Pablo que nadie morirá. Pablo anima a todos, da gracias a Dios por el pan y come. El barco se rompe, y las doscientas setenta y seis personas llegan a tierra."
+    },
+    {
+      "subtitulo": "Por fin en Roma",
+      "texto": "Están en la isla de Malta. Una víbora se le prende de la mano a Pablo, pero no le pasa nada. Él ora por los enfermos, y sanan. Tres meses después llegan a Roma, y los hermanos salen a recibirlo. Pablo vive dos años en una casa alquilada, vigilado por un soldado. Anuncia a Jesús «con toda libertad»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús no abandona a su testigo: se le aparece de noche y le promete que llegará a Roma. Pablo anuncia lo que dijeron Moisés y los profetas: el Cristo padecería y sería el primero en resucitar. Así la buena noticia llega hasta el centro del imperio.",
+    "refs": ["Hechos 23:11", "Hechos 26:22-23"]
+  },
+
+  "mundo": "Nerón gobernaba el Imperio romano. Un ciudadano romano podía apelar al emperador, el «César». Después del otoño, navegar por el Mediterráneo era muy peligroso, y casi nadie viajaba por mar en invierno.",
+
+  "antes": "Desde Corinto, Pablo escribió a Roma. Quería visitarlos camino a España.",
+  "despues": "Durante su prisión, Pablo escribe cartas llenas de esperanza, como la carta a los Efesios.",
+
+  "conexiones": [
+    { "ref": "Isaías 6:9", "motivo": "En Roma, Pablo cita a Isaías: oír sin entender." },
+    { "ref": "Isaías 42:7", "motivo": "El Siervo de Dios viene a abrir los ojos de los ciegos." },
+    { "ref": "Hechos 9:15", "motivo": "Jesús eligió a Pablo para llevar su nombre ante reyes." },
+    { "ref": "1 Pedro 2:9", "motivo": "Dios llama de las tinieblas a su luz, como Pablo anunciaba." }
+  ],
+
+  "glosario": ["sanedrin", "gobernador", "roma", "templo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cuenta a alguien con sencillez cómo conociste a Jesús, como hizo Pablo ante Agripa.",
+    "pregunta": "¿En qué tormenta necesitas oír hoy: «no temas»?"
+  },
+
+  "meditar": "Señor Jesús, en mis tormentas dime como a Pablo: «Confía». Dame valor para hablar de ti con amor, a pequeños y a grandes. Amén.",
+
+  "ninos": {
+    "pregunta": "En el barco había doscientas setenta y seis personas. ¿Cuántas se salvaron?",
+    "actividad": "Haz un barquito de papel y cuenta con él la historia de la tormenta."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A qué isla llegaron después del naufragio?",
+      "opciones": ["Chipre", "Creta", "Malta (Melita)"],
+      "correcta": 2,
+      "explicacion": "Al salir a tierra supieron que la isla se llamaba Melita, hoy Malta (Hechos 28:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué dijo Pablo para que su caso lo juzgara el emperador?",
+      "opciones": ["«A César apelo»", "«Hágase tu voluntad»", "«Yo soy fariseo»"],
+      "correcta": 0,
+      "explicacion": "Como ciudadano romano, Pablo pidió ser juzgado ante el César (Hechos 25:11).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta cita Pablo en Roma, al final de Hechos?",
+      "opciones": ["Jeremías", "Isaías", "Daniel"],
+      "correcta": 1,
+      "explicacion": "Cita Isaías 6:9-10. Aun así, la buena noticia sigue llegando a todos (Hechos 28:25-28).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.26", "Acts.27", "Acts.28"], "minutos": 15 },
+
+  "temas": ["esperanza", "providencia", "sufrimiento", "testimonio"],
+  "cadenas": ["hasta-lo-ultimo-de-la-tierra"]
+}

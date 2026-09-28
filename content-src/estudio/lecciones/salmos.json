@@ -1,0 +1,150 @@
+{
+  "id": "salmos",
+  "orden": 18,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "Salmos: oraciones para toda la vida",
+  "pasajes": ["Ps.1.1-Ps.150.6"],
+  "libros": ["Ps"],
+
+  "enUnMinuto": [
+    "Salmos reúne ciento cincuenta oraciones y cantos escritos durante unos mil años, muchos por David.",
+    "En ellos cabe toda la vida: alegría, miedo, culpa, lágrimas, gratitud y alabanza.",
+    "Dios revela que podemos hablarle con el corazón abierto, porque él escucha y es fiel."
+  ],
+
+  "versiculo": {
+    "texto": "Salmo de David. Jehová es mi pastor; nada me faltará.",
+    "referencia": "Salmos 23:1",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Sobre todo en tiempos de David, c. 1000 a.C.",
+    "desde": -1010,
+    "hasta": -970,
+    "certeza": "aprox",
+    "nota": "Los salmos se escribieron durante siglos: desde Moisés (c. 1400 a.C.) hasta después del exilio (c. 450 a.C.)."
+  },
+
+  "fechaEscrito": {
+    "texto": "Durante siglos: c. 1400–450 a.C.",
+    "desde": -1400,
+    "hasta": -450,
+    "certeza": "aprox",
+    "nota": "Se reunieron poco a poco en cinco libros. La colección se completó después del exilio."
+  },
+
+  "autor": {
+    "texto": "David y otros: Asaf, los hijos de Coré, Salomón y Moisés.",
+    "nota": "Los títulos nombran a los autores. Cerca de cincuenta salmos no dicen quién los escribió."
+  },
+
+  "lugar": { "nombre": "Jerusalén y todo Israel", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "david", "nombre": "David", "linea": "Rey músico; casi la mitad de los salmos llevan su nombre." },
+    { "id": "moises", "nombre": "Moisés", "linea": "El Salmo 90, el más antiguo, se presenta como oración suya." },
+    { "id": "salomon", "nombre": "Salomón", "linea": "Su nombre aparece en los títulos de los Salmos 72 y 127." },
+    { "id": "absalon", "nombre": "Absalón", "linea": "David escribe el Salmo 3 cuando huye de este hijo." },
+    { "id": "melquisedec", "nombre": "Melquisedec", "linea": "El Salmo 110 anuncia un rey que será sacerdote como él." }
+  ],
+
+  "eventos": [
+    { "texto": "Moisés ora: Dios es nuestro refugio", "ref": "Salmos 90:1-2" },
+    { "texto": "David canta a Dios, su pastor", "ref": "Salmos 23" },
+    { "texto": "David pide perdón y un corazón limpio", "ref": "Salmos 51:1-12" },
+    { "texto": "Los peregrinos suben cantando a Jerusalén", "ref": "Salmos 122:1-2" },
+    { "texto": "Los desterrados lloran junto a los ríos de Babilonia", "ref": "Salmos 137:1-4" },
+    { "texto": "Todo lo que respira alaba a Dios", "ref": "Salmos 150" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un libro para orar",
+      "texto": "Salmos es el libro de oraciones y cantos del pueblo de Dios. Tiene ciento cincuenta salmos, reunidos en cinco partes. Jesús oraba con ellos, y hoy los oran católicos y evangélicos en todo el mundo. Aquí caben la alegría, el miedo, la culpa y la gratitud. Todo se le puede decir a Dios."
+    },
+    {
+      "subtitulo": "Mil años de cantos",
+      "texto": "Los salmos se escribieron durante unos mil años. El más antiguo es una oración de Moisés, el Salmo 90. La mayoría viene de los tiempos de David, que tocaba el arpa y organizó a los cantores. Otros llevan el nombre de Asaf, de los hijos de Coré o de Salomón. El Salmo 137 llora en Babilonia, durante el exilio."
+    },
+    {
+      "subtitulo": "Un pastor que guía",
+      "texto": "El Salmo 1 abre la puerta: feliz quien ama la palabra de Dios. Es como un árbol plantado junto al agua. El Salmo 23 lo dice con otra imagen: «Jehová es mi pastor; nada me faltará». Quien confía en Dios no está solo, ni siquiera en el valle más oscuro."
+    },
+    {
+      "subtitulo": "Llorar delante de Dios",
+      "texto": "Muchos salmos son quejas y lamentos. El Salmo 22 empieza así: «Dios mío, Dios mío, ¿por qué me has dejado?». Pero casi siempre el lamento termina en confianza. Dios no se ofende con nuestras preguntas. Nos enseña a llevarle el dolor, en lugar de esconderlo."
+    },
+    {
+      "subtitulo": "Perdón y gratitud",
+      "texto": "En el Salmo 51, David pide perdón: «Crea en mí, oh Dios, un corazón limpio». El Salmo 103 invita a no olvidar ninguno de los beneficios de Dios. El Salmo 119, el más largo, celebra su palabra: «Lámpara es a mis pies tu palabra»."
+    },
+    {
+      "subtitulo": "Todo lo que respira",
+      "texto": "Los salmos también miran al futuro. Anuncian un rey ungido que gobernará a todos los pueblos, como los Salmos 2 y 110. Los últimos salmos son pura alabanza. El libro termina con una invitación para toda la creación: «Todo lo que respira alabe a JAH. Aleluya»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús oraba con los salmos. En la cruz clamó con las palabras del Salmo 22. Después de resucitar, explicó que los salmos hablaban de él. El Salmo 110 anuncia al Señor sentado a la derecha de Dios. Y el pastor del Salmo 23 tiene rostro en Jesús, el buen pastor.",
+    "refs": ["Lucas 24:44", "Juan 10:11"]
+  },
+
+  "mundo": "En Egipto y en Mesopotamia se cantaban himnos con arpas, liras y tambores. Israel usaba instrumentos parecidos, pero cantaba a un solo Dios, cercano al pobre y al que sufre.",
+
+  "antes": "David reinó en Jerusalén, llevó allí el arca y organizó a los cantores para alabar a Dios.",
+  "despues": "Salomón, hijo de David, pide sabiduría a Dios y construye el templo en Jerusalén.",
+
+  "conexiones": [
+    { "ref": "Juan 10:11", "motivo": "Jesús se presenta como el buen pastor que da su vida." },
+    { "ref": "Mateo 27:46", "motivo": "En la cruz, Jesús ora con el comienzo del Salmo 22." },
+    { "ref": "1 Pedro 5:7", "motivo": "Como en el Salmo 55, echamos nuestras cargas sobre Dios." },
+    { "ref": "Jeremías 17:8", "motivo": "Quien confía en Dios es como un árbol junto al agua." }
+  ],
+
+  "glosario": ["salmo", "aleluya", "exilio", "ungido"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee un salmo cada día y subraya una frase que puedas decirle a Dios.",
+    "pregunta": "¿Qué sentimiento te cuesta contarle a Dios?"
+  },
+
+  "meditar": "Señor, tú eres mi pastor. Enséñame a hablarte con el corazón abierto, en la alegría y en las lágrimas. Que todo lo que soy te alabe. Amén.",
+
+  "ninos": {
+    "pregunta": "El Salmo 23 dice que Dios es como un pastor. ¿Cómo cuida un pastor a sus ovejas?",
+    "actividad": "Aprendan juntos de memoria el Salmo 23:1 y díganlo cada noche antes de dormir."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos salmos tiene el libro de los Salmos?",
+      "opciones": ["Ciento cincuenta", "Setenta", "Cuarenta"],
+      "correcta": 0,
+      "explicacion": "Son ciento cincuenta, reunidos en cinco partes o libros.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué salmo, el más antiguo, se presenta como oración de Moisés?",
+      "opciones": ["El Salmo 23", "El Salmo 150", "El Salmo 90"],
+      "correcta": 2,
+      "explicacion": "Su título dice: «Oración de Moisés varón de Dios» (Salmos 90:1).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién dijo «Yo soy el buen pastor», como en el Salmo 23?",
+      "opciones": ["El rey David", "Jesús", "El profeta Samuel"],
+      "correcta": 1,
+      "explicacion": "Jesús lo dijo en Juan 10:11: el buen pastor da su vida por las ovejas.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Ps.1", "Ps.22", "Ps.23", "Ps.51", "Ps.90", "Ps.103", "Ps.137"], "minutos": 12 },
+
+  "notaEcumenica": "Algunas Biblias católicas siguen la numeración griega de los salmos: muchos llevan un número menos (el 23 es el 22). Muchas ediciones ponen los dos números.",
+
+  "temas": ["oracion", "alabanza", "sufrimiento", "perdon", "esperanza"],
+  "cadenas": ["el-pastor", "el-rey-de-david"]
+}

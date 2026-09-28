@@ -1,0 +1,149 @@
+{
+  "id": "1-corintios",
+  "orden": 71,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "1 Corintios: el camino del amor",
+  "pasajes": ["1Cor.1.1-1Cor.16.24"],
+  "libros": ["1Cor"],
+
+  "enUnMinuto": [
+    "Pablo escribe a una iglesia dividida en Corinto, con peleas, pecados y muchas preguntas.",
+    "A todo responde con la cruz de Cristo, el amor que edifica y la esperanza de la resurrección.",
+    "Dios revela que su fuerza está en la cruz y que su amor nunca deja de ser."
+  ],
+
+  "versiculo": {
+    "texto": "Y ahora permanecen la fe, la esperanza, y la caridad, estas tres: empero la mayor de ellas es la caridad.",
+    "referencia": "1 Corintios 13:13",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 54–55 d.C.",
+    "desde": 54,
+    "hasta": 55,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 54–55 d.C., desde Éfeso",
+    "desde": 54,
+    "hasta": 55,
+    "certeza": "aprox",
+    "nota": "Pablo dice que se quedará en Éfeso hasta Pentecostés (1 Corintios 16:8)."
+  },
+  "autor": { "texto": "El apóstol Pablo, junto con el hermano Sóstenes (1 Corintios 1:1)." },
+
+  "lugar": { "nombre": "Corinto, escrita desde Éfeso", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Fundó la iglesia de Corinto; les escribe como un padre." },
+    { "id": "apolos", "nombre": "Apolos", "linea": "Predicador que regó lo que Pablo plantó; algunos se decían suyos." },
+    { "id": "pedro", "nombre": "Pedro (Cefas)", "linea": "Algunos en Corinto decían seguirlo a él y no a otros." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Hijo amado de Pablo; lo envía a Corinto para enseñarles." },
+    { "id": "priscila-y-aquila", "nombre": "Priscila y Aquila", "linea": "Matrimonio amigo de Pablo; saludan con la iglesia de su casa." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Crucificado y resucitado: el único fundamento de la iglesia." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo pide unidad: Cristo no está dividido", "ref": "1 Corintios 1:10-17" },
+    { "texto": "Anuncia a Cristo crucificado, poder y sabiduría de Dios", "ref": "1 Corintios 1:18-25" },
+    { "texto": "Recuerda cómo Jesús dejó la Cena del Señor", "ref": "1 Corintios 11:23-26" },
+    { "texto": "Un solo cuerpo con muchos miembros y dones", "ref": "1 Corintios 12:12-27" },
+    { "texto": "El camino más excelente: el amor", "ref": "1 Corintios 13:1-13" },
+    { "texto": "Cristo resucitó y se apareció a muchos testigos", "ref": "1 Corintios 15:3-8" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una iglesia dividida",
+      "texto": "Pablo fundó la iglesia de Corinto, una ciudad griega llena de templos de ídolos. Ahora le llegan malas noticias: hay peleas. Unos dicen que son de Pablo; otros, de Apolos o de Cefas. Pablo pregunta: «¿Está dividido Cristo?» Nadie fue crucificado por ellos, sino Jesús. Todos le pertenecen a él."
+    },
+    {
+      "subtitulo": "La locura de la cruz",
+      "texto": "Algunos admiran los discursos sabios. Pablo no llegó con palabras bonitas, sino con «Jesucristo, y a éste crucificado». Para muchos, un Salvador en una cruz parece locura. Pero Dios escogió lo débil del mundo, y así nadie puede presumir. Pablo plantó y Apolos regó, pero Dios da el crecimiento."
+    },
+    {
+      "subtitulo": "Tu cuerpo es templo",
+      "texto": "Hay problemas serios: pleitos entre hermanos y pecados que nadie corrige. Pablo les recuerda que su cuerpo es templo del Espíritu Santo. También responde preguntas sobre el matrimonio y la carne ofrecida a los ídolos. Su regla es sencilla: saber mucho puede hinchar, pero el amor edifica. Hay que cuidar al hermano más débil."
+    },
+    {
+      "subtitulo": "Una mesa y un cuerpo",
+      "texto": "En la Cena del Señor, unos comen y beben de más, y otros pasan hambre. Pablo recuerda lo que Jesús hizo la noche en que fue entregado. Tomó el pan y dijo: «haced esto en memoria de mí». Además, cada creyente recibe dones del Espíritu. Como en un cuerpo, cada miembro necesita a los demás."
+    },
+    {
+      "subtitulo": "El camino más excelente",
+      "texto": "Entonces Pablo escribe su canto al amor. La Biblia de 1909 lo llama «caridad». Sin amor, hablar lenguas es solo ruido, y darlo todo no sirve de nada. El amor es paciente y bondadoso. No tiene envidia ni busca lo suyo. Todo lo espera y todo lo soporta. Los dones pasarán; el amor nunca deja de ser."
+    },
+    {
+      "subtitulo": "Cristo resucitó",
+      "texto": "Algunos dicen que los muertos no resucitan. Pablo les recuerda lo esencial: Cristo murió por nuestros pecados, fue sepultado y resucitó al tercer día. Se apareció a Cefas, a los doce, a más de quinientos y, al final, a Pablo. Por eso la muerte será vencida. Pablo exclama: «¿Dónde está, oh muerte, tu aguijón?»"
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Acts", "texto": "Hechos 18 cuenta cómo nació esta iglesia: Pablo vivió en Corinto año y medio, trabajando con Aquila y Priscila." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo llama a Jesús «nuestra pascua»: como el cordero de Egipto, él murió por nosotros. Es también el nuevo Adán. Por Adán entró la muerte, y por Cristo llega la vida. Su resurrección es la primera de muchas, como las primicias de una cosecha.",
+    "refs": ["1 Corintios 5:7", "1 Corintios 15:20-22"]
+  },
+
+  "mundo": "Corinto era la capital de la provincia romana de Acaya. Tenía dos puertos y mucho comercio. Cerca se celebraban los Juegos Ístmicos; por eso Pablo habla de carreras y de coronas.",
+
+  "antes": "En Éfeso, Pablo enseñó más de dos años, y el mensaje de Jesús se extendió por Asia.",
+  "despues": "Pablo vuelve a escribir a Corinto: la fuerza de Dios se muestra en la debilidad.",
+
+  "conexiones": [
+    { "ref": "Isaías 64:4", "motivo": "Pablo recuerda a Isaías: nadie imagina lo que Dios prepara." },
+    { "ref": "Colosenses 3:14", "motivo": "También a Colosas: el amor es el lazo que lo une todo." },
+    { "ref": "Oseas 13:14", "motivo": "El profeta ya anunciaba la derrota de la muerte." },
+    { "ref": "Lucas 22:19", "motivo": "Las mismas palabras de Jesús con el pan en la última cena." }
+  ],
+
+  "glosario": ["iglesia", "cena-del-senor", "resurreccion", "espiritu-santo", "primicias"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee 1 Corintios 13 despacio y elige una frase para vivirla en tu casa.",
+    "pregunta": "¿Con quién te cuesta más ser paciente y bondadoso?"
+  },
+
+  "meditar": "Señor Jesús, gracias por morir por mí y resucitar. Enséñame a amar con paciencia, sin envidia y sin orgullo. Haz de tu Iglesia un solo cuerpo. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué pasaría si el ojo le dijera a la mano que no la necesita?",
+    "actividad": "Dibuja un cuerpo y escribe en cada parte el nombre de alguien de tu iglesia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "Según 1 Corintios 13, ¿qué es lo mayor de todo?",
+      "opciones": ["La fe", "La esperanza", "El amor (la caridad)"],
+      "correcta": 2,
+      "explicacion": "Permanecen la fe, la esperanza y el amor, pero el mayor es el amor (1 Corintios 13:13).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué imagen explica Pablo que la iglesia tiene dones distintos?",
+      "opciones": ["Un cuerpo con muchos miembros", "Un ejército en batalla", "Una casa con muchos cuartos"],
+      "correcta": 0,
+      "explicacion": "Todos forman un cuerpo, y cada miembro necesita a los demás (1 Corintios 12:12-27).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué palabras de Jesús en la última cena repite Pablo?",
+      "opciones": ["«Consumado es»", "«Haced esto en memoria de mí»", "«Padre, perdónalos»"],
+      "correcta": 1,
+      "explicacion": "Pablo transmite lo que Jesús dijo con el pan y la copa (Lucas 22:19).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Cor.1", "1Cor.12", "1Cor.13", "1Cor.15"], "minutos": 15 },
+
+  "notaEcumenica": "Católicos y evangélicos celebran la Cena del Señor con distintos nombres: Eucaristía, Misa, Santa Cena. Todos la reciben de las palabras de Jesús que Pablo transmite aquí.",
+
+  "temas": ["amor", "unidad", "cruz", "espiritu-santo", "resurreccion"],
+  "cadenas": ["el-cuerpo-de-cristo", "la-resurreccion"]
+}

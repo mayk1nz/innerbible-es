@@ -1,0 +1,146 @@
+{
+  "id": "nehemias",
+  "orden": 48,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Nehemías levanta los muros",
+  "pasajes": ["Neh.1.1-Neh.13.31"],
+  "libros": ["Neh"],
+
+  "enUnMinuto": [
+    "Nehemías, copero del rey de Persia, llora por Jerusalén y pide permiso para reconstruir sus muros.",
+    "Con oración y trabajo en equipo levantan el muro en cincuenta y dos días, y Esdras lee la Ley.",
+    "Dios revela que su gozo es la fuerza de su pueblo."
+  ],
+
+  "versiculo": {
+    "texto": "Díjoles luego: Id, comed grosuras, y bebed vino dulce, y enviad porciones a los que no tienen prevenido; porque día santo es a nuestro Señor: y no os entristezcáis, porque el gozo de Jehová es vuestra fortaleza.",
+    "referencia": "Nehemías 8:10",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "445–c. 430 a.C.",
+    "desde": -445,
+    "hasta": -430,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 430–400 a.C.",
+    "desde": -430,
+    "hasta": -400,
+    "certeza": "aprox",
+    "nota": "Recoge las memorias de Nehemías, que llegan al año treinta y dos de Artajerjes."
+  },
+
+  "autor": {
+    "texto": "Nehemías, en gran parte en primera persona",
+    "nota": "La tradición judía unía Esdras y Nehemías en un solo libro."
+  },
+
+  "lugar": { "nombre": "De Susa a Jerusalén", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "nehemias", "nombre": "Nehemías", "linea": "Copero del rey; ora, organiza y reconstruye los muros." },
+    { "id": "esdras", "nombre": "Esdras", "linea": "Sacerdote y escriba; lee la Ley al pueblo reunido." },
+    { "id": "moises", "nombre": "Moisés", "linea": "El pueblo escucha el libro de la Ley de Moisés." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "La oración del pueblo recuerda que Dios lo escogió." }
+  ],
+
+  "eventos": [
+    { "texto": "Nehemías llora, ayuna y ora por Jerusalén", "ref": "Nehemías 1:1-11" },
+    { "texto": "El rey lo envía a reconstruir la ciudad", "ref": "Nehemías 2:1-8" },
+    { "texto": "Trabajan con una mano y vigilan con la otra", "ref": "Nehemías 4:15-23" },
+    { "texto": "Nehemías defiende a los pobres del pueblo", "ref": "Nehemías 5:1-13" },
+    { "texto": "El muro se termina en cincuenta y dos días", "ref": "Nehemías 6:15-16" },
+    { "texto": "Esdras lee la Ley y el pueblo se alegra", "ref": "Nehemías 8:1-12" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un copero que llora",
+      "texto": "Nehemías vive en Susa y sirve como copero del rey Artajerjes. Unos hermanos le traen malas noticias: los muros de Jerusalén siguen derribados y sus puertas, quemadas. Nehemías se sienta y llora. Durante días ayuna y ora. Confiesa el pecado de su pueblo y recuerda las promesas de Dios."
+    },
+    {
+      "subtitulo": "Una oración rápida",
+      "texto": "Meses después, el rey ve triste a Nehemías y le pregunta qué pide. Nehemías siente miedo. Ora al Dios de los cielos y luego responde. Pide ir a reconstruir la ciudad. El rey acepta y le da cartas y madera. La buena mano de Dios está sobre él."
+    },
+    {
+      "subtitulo": "Una mano en la obra",
+      "texto": "En Jerusalén, Nehemías recorre los muros de noche. Luego anima a todos: «Levantémonos, y edifiquemos». Cada familia repara un tramo. Sanbalat y Tobías se burlan y amenazan. El pueblo ora y pone guardia. Con una mano trabajan, y con la otra sostienen la espada."
+    },
+    {
+      "subtitulo": "Justicia para los pobres",
+      "texto": "También hay problemas dentro del pueblo. Los pobres empeñan sus campos para comer, y algunos hijos quedan como siervos. Nehemías se enoja y reúne a los ricos. Les pide devolver lo que tomaron y dejar de cobrar intereses. Él mismo no cobra lo que le toca como gobernador."
+    },
+    {
+      "subtitulo": "Cincuenta y dos días",
+      "texto": "Los enemigos intentan asustar a Nehemías con mentiras y trampas, pero él no se detiene. El muro se termina en cincuenta y dos días. Hasta los pueblos vecinos reconocen que Dios hizo esa obra. Entonces el pueblo se reúne en la plaza y le pide a Esdras que lea la Ley."
+    },
+    {
+      "subtitulo": "El gozo del Señor",
+      "texto": "Esdras lee desde el alba hasta el mediodía, y los levitas explican el sentido. El pueblo llora al escuchar. Nehemías les dice que no lloren, porque es un día santo. La alegría de Dios será su fuerza. Confiesan su pecado, hacen pacto y dedican el muro con cantos."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En Nehemías 8, los levitas leen la Ley y explican su sentido. El pueblo llora y después se alegra. En el camino a Emaús, Jesús explica las Escrituras y muestra lo que decían de él. Y a sus amigos les promete: «mi gozo esté en vosotros».",
+    "refs": ["Lucas 24:27", "Juan 15:11"]
+  },
+
+  "mundo": "En Atenas gobierna Pericles, y se construye el Partenón. En esos mismos años, Nehemías levanta muros sencillos de piedra en una ciudad pequeña y pobre.",
+
+  "antes": "Esdras llegó a Jerusalén para enseñar la Ley y llamó al pueblo a volver a Dios.",
+  "despues": "Crónicas vuelve a contar la historia de Israel, desde Adán, para los que volvieron del exilio.",
+
+  "conexiones": [
+    { "ref": "Salmos 28:7-8", "motivo": "El Señor es mi fortaleza; en él confió mi corazón." },
+    { "ref": "2 Corintios 12:8-9", "motivo": "El poder de Dios se muestra en nuestra debilidad." },
+    { "ref": "Isaías 61:10", "motivo": "Una alegría honda en Dios, que viste de salvación." },
+    { "ref": "Éxodo 20:6", "motivo": "Dios muestra misericordia a los que lo aman y guardan su palabra." }
+  ],
+
+  "glosario": ["escriba", "levita", "ley", "pacto"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de una conversación difícil, haz una oración breve, como Nehemías ante el rey.",
+    "pregunta": "¿Qué «muro» caído de tu vida quieres reconstruir con ayuda de Dios?"
+  },
+
+  "meditar": "Señor, tu gozo es mi fuerza. Enséñame a orar y a trabajar, y a cuidar de los más pobres. Acuérdate de mí para bien. Amén.",
+
+  "ninos": {
+    "pregunta": "Cada familia reparó un pedazo del muro. ¿Cómo puedes ayudar tú en casa?",
+    "actividad": "Construyan juntos un muro con cajas o bloques, y que cada uno ponga una pieza."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué reconstruyó Nehemías en Jerusalén?",
+      "opciones": ["Los muros de la ciudad", "El palacio del rey", "Un gran barco"],
+      "correcta": 0,
+      "explicacion": "El muro se terminó en cincuenta y dos días (Nehemías 6:15).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué trabajo tenía Nehemías en el palacio de Persia?",
+      "opciones": ["General del ejército", "Escriba de la Ley", "Copero del rey"],
+      "correcta": 2,
+      "explicacion": "Él mismo lo dice: «yo servía de copero al rey» (Nehemías 1:11).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús en el camino a Emaús, como los levitas de Nehemías 8?",
+      "opciones": ["Multiplicó los panes", "Explicó las Escrituras", "Sanó a un ciego"],
+      "correcta": 1,
+      "explicacion": "Les explicaba en todas las Escrituras lo que decían de él (Lucas 24:27).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Neh.1", "Neh.2", "Neh.4", "Neh.8"], "minutos": 16 },
+
+  "temas": ["oracion", "obediencia", "esperanza", "arrepentimiento"],
+  "cadenas": ["la-palabra-de-dios"]
+}

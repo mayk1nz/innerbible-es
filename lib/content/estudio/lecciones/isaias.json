@@ -1,0 +1,141 @@
+{
+  "id": "isaias",
+  "orden": 30,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Isaías: el Santo que viene a salvar",
+  "pasajes": ["Isa.1.1-Isa.66.24"],
+  "libros": ["Isa"],
+
+  "enUnMinuto": [
+    "Isaías ve al Señor en su trono y habla a Judá en tiempos de cuatro reyes.",
+    "Anuncia juicio por el pecado, pero también un niño rey, un siervo que sufre y un regreso a casa.",
+    "Dios revela que es santo y que viene él mismo a salvar a su pueblo."
+  ],
+
+  "versiculo": {
+    "texto": "Mas él herido fue por nuestras rebeliones, molido por nuestros pecados: el castigo de nuestra paz sobre él; y por su llaga fuimos nosotros curados.",
+    "referencia": "Isaías 53:5",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 740–680 a.C.",
+    "desde": -740,
+    "hasta": -680,
+    "certeza": "aprox",
+    "nota": "Los capítulos 40–66 miran hacia el exilio y el regreso, más de cien años después."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 740–680 a.C.",
+    "desde": -740,
+    "hasta": -680,
+    "certeza": "aprox",
+    "nota": "Los capítulos 40–66 miran hacia el exilio y el regreso, más de cien años después."
+  },
+
+  "autor": { "texto": "Isaías hijo de Amoz, profeta en Jerusalén (Isaías 1:1)." },
+
+  "lugar": { "nombre": "Jerusalén, en el reino de Judá", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "isaias", "nombre": "Isaías", "linea": "Profeta en Jerusalén; responde a Dios: «Heme aquí, envíame a mí»." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá; ora cuando Asiria rodea Jerusalén, y Dios lo libra." },
+    { "id": "senaquerib", "nombre": "Senaquerib", "linea": "Rey de Asiria; se burla del Dios de Judá y vuelve derrotado." },
+    { "id": "david", "nombre": "David", "linea": "Dios promete un rey eterno sobre su trono (Isaías 9:7)." },
+    { "id": "ciro", "nombre": "Ciro", "linea": "Rey persa; Isaías lo nombra como quien mandará reconstruir Jerusalén." }
+  ],
+
+  "eventos": [
+    { "texto": "Isaías ve al Señor en el templo", "ref": "Isaías 6:1-8" },
+    { "texto": "Una señal: la virgen dará a luz un hijo", "ref": "Isaías 7:14" },
+    { "texto": "Promesa de un niño, Príncipe de paz", "ref": "Isaías 9:6-7" },
+    { "texto": "Dios libra a Jerusalén del ejército de Asiria", "ref": "Isaías 37:14-37" },
+    { "texto": "«Consolaos»: Dios anuncia consuelo para su pueblo", "ref": "Isaías 40:1-11" },
+    { "texto": "El siervo sufre y carga el pecado de todos", "ref": "Isaías 52:13-53:12" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Santo, santo, santo",
+      "texto": "Isaías vive en Jerusalén, la capital de Judá. El año en que muere el rey Uzías, ve al Señor sentado en su trono. Unos serafines cantan: «Santo, santo, santo». Isaías siente su pecado. Un serafín toca sus labios con un carbón encendido y le quita la culpa. Entonces Isaías responde: «Heme aquí, envíame a mí»."
+    },
+    {
+      "subtitulo": "Un niño nos es nacido",
+      "texto": "Judá tiene miedo de sus vecinos y busca ayuda en reyes poderosos. Isaías le pide confiar solo en Dios. Denuncia la injusticia y los ídolos, pero siempre deja una puerta abierta: «como la nieve serán emblanquecidos». Anuncia una señal: la virgen dará a luz un hijo. Y un niño reinará en el trono de David: el Príncipe de paz."
+    },
+    {
+      "subtitulo": "Asiria ante los muros",
+      "texto": "Asiria, el gran imperio del norte, ya se llevó cautivo al reino de Israel. Ahora el rey Senaquerib rodea Jerusalén y se burla del Dios de Judá. El rey Ezequías extiende en el templo la carta de amenaza y ora. Esa noche, el ángel del Señor hiere al ejército asirio. Jerusalén queda libre."
+    },
+    {
+      "subtitulo": "Consuelo para el exilio",
+      "texto": "Isaías avisa que un día Judá irá cautiva a Babilonia. El libro tiene dos grandes partes: los capítulos 40–66 miran hacia ese exilio. Dios dice: «Consolaos, consolaos, pueblo mío». Promete sacar a su pueblo como en un nuevo éxodo. Hasta nombra a Ciro, el rey que mandará reconstruir Jerusalén."
+    },
+    {
+      "subtitulo": "El siervo que sufre",
+      "texto": "En esta parte aparece el siervo del Señor, luz para todas las naciones. Pero lo desprecian y lo hieren. Isaías 53 dice que carga el pecado de todos y calla como un cordero. Por sus heridas somos sanados. Al final, Dios promete algo nuevo: «nuevos cielos y nueva tierra»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Los Evangelios leen a Isaías y encuentran a Jesús. Mateo recuerda la señal de la virgen y el nombre Emmanuel: «Con nosotros Dios». Jesús lee Isaías 61 en Nazaret y dice que se cumple ese día. Y Felipe le explica Isaías 53 a un etíope: el cordero que calla es Jesús.",
+    "refs": ["Mateo 1:23", "Hechos 8:32-35"]
+  },
+
+  "mundo": "Asiria domina el Oriente con un ejército temido. En el año 722 a.C. conquista Samaria, la capital del reino de Israel. Más tarde, Babilonia ocupará su lugar como gran imperio.",
+
+  "antes": "El reino de Israel, en el norte, cayó ante Asiria. Judá, en el sur, sigue en pie.",
+  "despues": "Miqueas, que profetiza en los mismos años, anuncia que el rey prometido nacerá en Belén.",
+
+  "conexiones": [
+    { "ref": "Lucas 4:18", "motivo": "En Nazaret, Jesús lee Isaías 61 y dice que habla de él." },
+    { "ref": "1 Pedro 2:24", "motivo": "Pedro usa Isaías 53: por su herida fuimos sanados." },
+    { "ref": "Mateo 3:3", "motivo": "Juan el Bautista es la voz que prepara el camino del Señor." },
+    { "ref": "Apocalipsis 21:4", "motivo": "Como anunció Isaías, Dios secará toda lágrima." }
+  ],
+
+  "glosario": ["serafin", "santo", "profeta", "asiria", "exilio"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee despacio Isaías 53 y pon tu nombre donde dice «nosotros».",
+    "pregunta": "¿Qué culpa necesitas dejar hoy en las manos de Jesús?"
+  },
+
+  "meditar": "Señor santo, como a Isaías, límpiame y envíame. Gracias porque Jesús cargó mi pecado. Dame nuevas fuerzas para esperar en ti. Amén.",
+
+  "ninos": {
+    "pregunta": "Isaías le dijo a Dios: «envíame a mí». ¿A quién te gustaría llevar una buena noticia?",
+    "actividad": "Dibuja un águila volando alto y escribe debajo: «tendrán nuevas fuerzas» (Isaías 40:31)."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué cantaban los serafines que Isaías vio en el templo?",
+      "opciones": ["Santo, santo, santo", "Aleluya, aleluya, amén", "Gloria a Dios en las alturas"],
+      "correcta": 0,
+      "explicacion": "Isaías oyó: «Santo, santo, santo», y sintió su propio pecado (Isaías 6:3-5).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué rey de Asiria rodeó Jerusalén en tiempos de Ezequías?",
+      "opciones": ["Nabucodonosor", "Senaquerib", "Ciro"],
+      "correcta": 1,
+      "explicacion": "Senaquerib amenazó Jerusalén, pero Dios la libró esa misma noche (Isaías 37:36-37).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué parte de Isaías le explicó Felipe al etíope, hablándole de Jesús?",
+      "opciones": ["El canto de la viña", "La visión del templo", "El cordero que no abrió su boca"],
+      "correcta": 2,
+      "explicacion": "Felipe empezó por Isaías 53 y le anunció a Jesús (Hechos 8:32-35).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Isa.6", "Isa.9", "Isa.37", "Isa.40", "Isa.53", "Isa.55"], "minutos": 23 },
+
+  "temas": ["profecia-cumplida", "esperanza", "cordero", "perdon", "reino-de-dios"],
+  "cadenas": ["el-siervo-sufriente", "el-rey-de-david"]
+}

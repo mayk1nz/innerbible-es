@@ -217,6 +217,7 @@
       "deuteronomio",
       "josue",
       "jeremias",
+      "lamentaciones",
       "abdias",
       "cronicas",
       "malaquias",
@@ -231,6 +232,7 @@
     "lecciones": [
       "genesis-12-50",
       "exodo",
+      "abdias",
       "anuncios",
       "inicio-ministerio",
       "hechos-1-7",
@@ -555,6 +557,9 @@
       "2-samuel",
       "salmos",
       "salomon",
+      "proverbios",
+      "cantares",
+      "eclesiastes",
       "1-reyes-12-22",
       "2-reyes-1-14",
       "amos",
@@ -588,6 +593,7 @@
     "lecciones": [
       "2-samuel",
       "salomon",
+      "cantares",
       "anuncios"
     ]
   },
@@ -624,6 +630,7 @@
       "salomon",
       "proverbios",
       "cantares",
+      "eclesiastes",
       "1-reyes-12-22",
       "2-reyes-18-21",
       "2-reyes-22-23",
@@ -646,6 +653,7 @@
     "linea": "Hijo de Salomón; su dureza dividió el reino.",
     "lecciones": [
       "salomon",
+      "eclesiastes",
       "1-reyes-12-22",
       "cronicas",
       "anuncios"
@@ -736,6 +744,7 @@
     "lecciones": [
       "2-reyes-1-14",
       "jonas",
+      "nahum",
       "galilea-milagros",
       "camino-a-jerusalen"
     ]
@@ -817,7 +826,8 @@
     "linea": "Rey de Asiria que rodeó Jerusalén y tuvo que retirarse.",
     "lecciones": [
       "isaias",
-      "2-reyes-18-21"
+      "2-reyes-18-21",
+      "nahum"
     ]
   },
   {
@@ -836,6 +846,7 @@
     "nombre": "Nahúm",
     "linea": "Profeta que anunció la caída de Nínive.",
     "lecciones": [
+      "jonas",
       "nahum"
     ]
   },
@@ -870,6 +881,7 @@
       "2-reyes-22-23",
       "jeremias",
       "2-reyes-24-25",
+      "lamentaciones",
       "daniel",
       "esdras-1-6",
       "nacimiento",
@@ -901,7 +913,9 @@
     "linea": "Rey de Babilonia que destruyó Jerusalén y conoció al Dios de Daniel.",
     "lecciones": [
       "jeremias",
+      "habacuc",
       "2-reyes-24-25",
+      "lamentaciones",
       "ezequiel",
       "daniel",
       "esdras-1-6",
@@ -985,6 +999,7 @@
     "linea": "Profeta del regreso que anunció al Rey humilde sobre un asno.",
     "lecciones": [
       "esdras-1-6",
+      "hageo",
       "zacarias"
     ]
   },
@@ -1055,6 +1070,7 @@
     "nombre": "Jesús",
     "linea": "El Hijo de Dios hecho hombre, el Mesías prometido y Salvador.",
     "lecciones": [
+      "jonas",
       "el-verbo",
       "anuncios",
       "nacimiento",
@@ -1193,6 +1209,7 @@
     "nombre": "Pedro (Simón)",
     "linea": "Pescador llamado por Jesús; negó a Jesús y fue restaurado.",
     "lecciones": [
+      "joel",
       "inicio-ministerio",
       "galilea-milagros",
       "camino-a-jerusalen",
@@ -1481,6 +1498,8 @@
     "nombre": "Pablo (Saulo)",
     "linea": "Perseguidor transformado por Jesús; apóstol de los no judíos.",
     "lecciones": [
+      "joel",
+      "habacuc",
       "hechos-1-7",
       "hechos-8-12",
       "hechos-13-14",
@@ -1557,6 +1576,7 @@
       "1-corintios",
       "2-corintios",
       "romanos",
+      "efesios",
       "colosenses",
       "filemon",
       "filipenses",
@@ -1678,6 +1698,364 @@
     "linea": "Siervo de Dios que recibió las visiones del Apocalipsis en Patmos.",
     "lecciones": [
       "apocalipsis"
+    ]
+  },
+  {
+    "id": "elifaz",
+    "nombre": "Elifaz",
+    "rv1909": "Eliphaz",
+    "linea": "Amigo de Job, de Temán; ve el sufrimiento como castigo.",
+    "lecciones": [
+      "job"
+    ]
+  },
+  {
+    "id": "bildad",
+    "nombre": "Bildad",
+    "linea": "Amigo de Job; le pide volverse a Dios para ser restaurado.",
+    "lecciones": [
+      "job"
+    ]
+  },
+  {
+    "id": "zofar",
+    "nombre": "Zofar",
+    "rv1909": "Sophar",
+    "linea": "Amigo de Job; lo acusa de hablar mucho y merecer castigo.",
+    "lecciones": [
+      "job"
+    ]
+  },
+  {
+    "id": "eliu",
+    "nombre": "Eliú",
+    "linea": "Joven que habla al final; dice que Dios enseña por el dolor.",
+    "lecciones": [
+      "job"
+    ]
+  },
+  {
+    "id": "senora-elegida",
+    "nombre": "La señora elegida",
+    "linea": "Destinataria de 2 Juan: quizá una iglesia, quizá una hermana.",
+    "lecciones": [
+      "2-juan"
+    ]
+  },
+  {
+    "id": "gayo",
+    "nombre": "Gayo",
+    "rv1909": "Gaio",
+    "linea": "Amigo del anciano; recibía en su casa a los hermanos.",
+    "lecciones": [
+      "3-juan"
+    ]
+  },
+  {
+    "id": "diotrefes",
+    "nombre": "Diótrefes",
+    "linea": "Líder que quería ser el primero y no recibía a nadie.",
+    "lecciones": [
+      "3-juan"
+    ]
+  },
+  {
+    "id": "demetrio-hermano",
+    "nombre": "Demetrio",
+    "linea": "Hermano de quien todos daban buen testimonio (3 Juan 1:12).",
+    "lecciones": [
+      "3-juan"
+    ]
+  },
+  {
+    "id": "loida-y-eunice",
+    "nombre": "Loida y Eunice",
+    "linea": "Abuela y madre de Timoteo; le pasaron una fe sincera.",
+    "lecciones": [
+      "2-timoteo"
+    ]
+  },
+  {
+    "id": "nadab-y-abiu",
+    "nombre": "Nadab y Abiú",
+    "rv1909": "Nadab y Abiú",
+    "linea": "Hijos de Aarón; ofrecieron un fuego que Dios no mandó.",
+    "lecciones": [
+      "exodo",
+      "levitico",
+      "numeros"
+    ]
+  },
+  {
+    "id": "eleazar",
+    "nombre": "Eleazar",
+    "linea": "Hijo de Aarón; sumo sacerdote después de su padre.",
+    "lecciones": [
+      "levitico",
+      "numeros",
+      "josue"
+    ]
+  },
+  {
+    "id": "core",
+    "nombre": "Coré",
+    "linea": "Levita que se rebeló contra Moisés y Aarón en el desierto.",
+    "lecciones": [
+      "numeros"
+    ]
+  },
+  {
+    "id": "balac",
+    "nombre": "Balac",
+    "linea": "Rey de Moab que pagó a Balaam para maldecir a Israel.",
+    "lecciones": [
+      "numeros"
+    ]
+  },
+  {
+    "id": "acan",
+    "nombre": "Acán",
+    "rv1909": "Achân",
+    "linea": "Tomó lo que Dios prohibió en Jericó; Israel perdió en Hai.",
+    "lecciones": [
+      "josue"
+    ]
+  },
+  {
+    "id": "otoniel",
+    "nombre": "Otoniel",
+    "rv1909": "Othoniel",
+    "linea": "Primer juez de Israel, hermano menor de Caleb.",
+    "lecciones": [
+      "jueces"
+    ]
+  },
+  {
+    "id": "barac",
+    "nombre": "Barac",
+    "linea": "Guerrero que venció a Sísara, animado por la jueza Débora.",
+    "lecciones": [
+      "jueces"
+    ]
+  },
+  {
+    "id": "jefte",
+    "nombre": "Jefté",
+    "rv1909": "Jephté",
+    "linea": "Juez de Galaad; hizo un voto apresurado que le costó mucho.",
+    "lecciones": [
+      "jueces"
+    ]
+  },
+  {
+    "id": "dalila",
+    "nombre": "Dalila",
+    "linea": "Mujer que descubrió el secreto de Sansón y lo entregó.",
+    "lecciones": [
+      "jueces"
+    ]
+  },
+  {
+    "id": "orfa",
+    "nombre": "Orfa",
+    "rv1909": "Orpha",
+    "linea": "Nuera de Noemí; se despidió y volvió a Moab.",
+    "lecciones": [
+      "rut"
+    ]
+  },
+  {
+    "id": "obed",
+    "nombre": "Obed",
+    "linea": "Hijo de Rut y Booz; abuelo del rey David.",
+    "lecciones": [
+      "rut"
+    ]
+  },
+  {
+    "id": "la-sulamita",
+    "nombre": "La sulamita",
+    "rv1909": "Sulamita",
+    "linea": "La esposa de Cantares; ama a su esposo con un amor fiel.",
+    "lecciones": [
+      "cantares"
+    ]
+  },
+  {
+    "id": "el-amado",
+    "nombre": "El amado",
+    "linea": "El esposo de Cantares; busca a su esposa y la llama hermosa.",
+    "lecciones": [
+      "cantares"
+    ]
+  },
+  {
+    "id": "el-predicador",
+    "nombre": "El Predicador",
+    "linea": "Voz de Eclesiastés; la tradición lo identifica con Salomón.",
+    "lecciones": [
+      "eclesiastes"
+    ]
+  },
+  {
+    "id": "mefiboset",
+    "nombre": "Mefiboset",
+    "rv1909": "Mephi-boseth",
+    "linea": "Hijo cojo de Jonatán; David lo sienta a su mesa.",
+    "lecciones": [
+      "2-samuel"
+    ]
+  },
+  {
+    "id": "reina-de-saba",
+    "nombre": "La reina de Sabá",
+    "rv1909": "reina de Seba",
+    "linea": "Viene de lejos a probar la sabiduría de Salomón.",
+    "lecciones": [
+      "salomon"
+    ]
+  },
+  {
+    "id": "agur",
+    "nombre": "Agur",
+    "linea": "Sabio que reconoce con humildad que no lo entiende todo.",
+    "lecciones": [
+      "proverbios"
+    ]
+  },
+  {
+    "id": "lemuel",
+    "nombre": "El rey Lemuel",
+    "linea": "Rey que guarda los consejos de su madre en Proverbios 31.",
+    "lecciones": [
+      "proverbios"
+    ]
+  },
+  {
+    "id": "josafat",
+    "nombre": "Josafat",
+    "rv1909": "Josaphat",
+    "linea": "Rey de Judá que buscó a Dios y enseñó su ley.",
+    "lecciones": [
+      "1-reyes-12-22",
+      "2-reyes-1-14"
+    ]
+  },
+  {
+    "id": "micaias-hijo-de-imla",
+    "nombre": "Micaías, hijo de Imla",
+    "rv1909": "Michêas",
+    "linea": "Profeta que dijo la verdad a Acab aunque lo encarcelaron.",
+    "lecciones": [
+      "1-reyes-12-22"
+    ]
+  },
+  {
+    "id": "nabot",
+    "nombre": "Nabot",
+    "rv1909": "Naboth",
+    "linea": "Dueño de una viña; murió por las mentiras de Jezabel.",
+    "lecciones": [
+      "1-reyes-12-22"
+    ]
+  },
+  {
+    "id": "joas-rey-de-juda",
+    "nombre": "Joás, rey de Judá",
+    "rv1909": "Joas",
+    "linea": "Rey niño salvado en el templo; fiel mientras vivió Joiada.",
+    "lecciones": [
+      "2-reyes-1-14"
+    ]
+  },
+  {
+    "id": "joiada",
+    "nombre": "Joiada",
+    "linea": "Sacerdote que escondió y coronó al niño Joás.",
+    "lecciones": [
+      "2-reyes-1-14"
+    ]
+  },
+  {
+    "id": "gomer",
+    "nombre": "Gomer",
+    "linea": "Esposa de Oseas; su historia muestra el amor fiel de Dios.",
+    "lecciones": [
+      "oseas"
+    ]
+  },
+  {
+    "id": "uzias",
+    "nombre": "Uzías (Azarías)",
+    "rv1909": "Uzzías / Azarías",
+    "linea": "Rey de Judá, próspero y después orgulloso; murió leproso.",
+    "lecciones": [
+      "amos",
+      "oseas",
+      "2-reyes-15-17",
+      "isaias"
+    ]
+  },
+  {
+    "id": "acaz",
+    "nombre": "Acaz",
+    "rv1909": "Achâz",
+    "linea": "Rey de Judá que confió en Asiria en vez de en Dios.",
+    "lecciones": [
+      "oseas",
+      "2-reyes-15-17",
+      "isaias"
+    ]
+  },
+  {
+    "id": "oseas-rey-de-israel",
+    "nombre": "Oseas, rey de Israel",
+    "linea": "Último rey del norte; en su tiempo cayó Samaria.",
+    "lecciones": [
+      "2-reyes-15-17"
+    ]
+  },
+  {
+    "id": "herodes-agripa-i",
+    "nombre": "Herodes Agripa I",
+    "rv1909": "Herodes",
+    "linea": "Rey de Judea que mató a Santiago y encarceló a Pedro.",
+    "lecciones": [
+      "hechos-8-12"
+    ]
+  },
+  {
+    "id": "etiope",
+    "nombre": "El funcionario etíope",
+    "rv1909": "Etiope",
+    "linea": "Servidor de la reina de Etiopía; Felipe le anunció a Jesús.",
+    "lecciones": [
+      "hechos-8-12"
+    ]
+  },
+  {
+    "id": "sergio-paulo",
+    "nombre": "Sergio Paulo",
+    "linea": "Gobernador romano de Chipre que creyó al oír la palabra.",
+    "lecciones": [
+      "hechos-13-14"
+    ]
+  },
+  {
+    "id": "demetrio",
+    "nombre": "Demetrio",
+    "linea": "Platero de Éfeso que alborotó la ciudad por la diosa Diana.",
+    "lecciones": [
+      "hechos-18-20"
+    ]
+  },
+  {
+    "id": "eutico",
+    "nombre": "Eutico",
+    "rv1909": "Eutichô",
+    "linea": "Joven de Troas que cayó de una ventana y volvió a vivir.",
+    "lecciones": [
+      "hechos-18-20"
     ]
   }
 ]

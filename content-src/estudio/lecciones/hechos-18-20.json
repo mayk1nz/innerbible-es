@@ -1,0 +1,129 @@
+{
+  "id": "hechos-18-20",
+  "orden": 70,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Tercer viaje: Pablo en Éfeso",
+  "pasajes": ["Acts.18.23-Acts.20.38"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Pablo pasa unos tres años en Éfeso, y la palabra del Señor llega a toda la provincia de Asia.",
+    "Muchos dejan la magia y los ídolos; luego Pablo visita Grecia y se despide con lágrimas en Mileto.",
+    "Dios se revela más fuerte que todo poder oscuro y fiel con los que sirven con humildad."
+  ],
+
+  "versiculo": {
+    "texto": "Mas de ninguna cosa hago caso, ni estimo mi vida preciosa para mí mismo; solamente que acabe mi carrera con gozo, y el ministerio que recibí del Señor Jesús, para dar testimonio del evangelio de la gracia de Dios.",
+    "referencia": "Hechos 20:24",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 53–57 d.C.", "desde": 53, "hasta": 57, "certeza": "aprox" },
+
+  "lugar": { "nombre": "Éfeso, Macedonia, Grecia y Mileto", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Enseña tres años en Éfeso y se despide con lágrimas." },
+    { "id": "apolos", "nombre": "Apolos", "linea": "Predicador de Alejandría que aprende mejor el camino de Dios." },
+    { "id": "priscila-y-aquila", "nombre": "Priscila y Aquila", "linea": "Explican a Apolos con paciencia el camino de Dios." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Pablo lo envía a Macedonia y viaja con él." },
+    { "id": "juan-el-bautista", "nombre": "Juan el Bautista", "linea": "Algunos en Éfeso solo conocen su bautismo." }
+  ],
+
+  "eventos": [
+    { "texto": "Priscila y Aquila enseñan a Apolos en Éfeso", "ref": "Hechos 18:24-28" },
+    { "texto": "Dos años enseñando en la escuela de Tirano", "ref": "Hechos 19:8-10" },
+    { "texto": "Los que practicaban magia queman sus libros", "ref": "Hechos 19:18-20" },
+    { "texto": "Alboroto en el teatro por la diosa Diana", "ref": "Hechos 19:23-40" },
+    { "texto": "En Troas, Eutico cae de la ventana y vive", "ref": "Hechos 20:7-12" },
+    { "texto": "Pablo se despide de los ancianos en Mileto", "ref": "Hechos 20:17-38" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Apolos aprende más",
+      "texto": "Pablo sale otra vez de Antioquía y recorre Galacia y Frigia animando a los discípulos. Mientras tanto, llega a Éfeso Apolos, un judío de Alejandría que conoce bien las Escrituras. Habla de Jesús con entusiasmo, pero solo conoce el bautismo de Juan. Priscila y Aquila lo llaman aparte y le explican mejor el camino de Dios."
+    },
+    {
+      "subtitulo": "Dos años en Éfeso",
+      "texto": "Pablo llega a Éfeso. Encuentra a unos doce discípulos que solo conocen el bautismo de Juan. Se bautizan en el nombre de Jesús y reciben el Espíritu Santo. Pablo enseña tres meses en la sinagoga. Luego, durante dos años, enseña cada día en la escuela de Tirano. Toda la provincia de Asia oye la palabra."
+    },
+    {
+      "subtitulo": "Libros al fuego",
+      "texto": "Dios hace milagros extraordinarios por medio de Pablo. Unos hombres quieren usar el nombre de Jesús como un conjuro, y salen huyendo, heridos. Muchos que practicaban la magia confiesan lo que hacían. Traen sus libros y los queman delante de todos. Valían cincuenta mil monedas de plata. La palabra del Señor crece con fuerza."
+    },
+    {
+      "subtitulo": "¡Grande es Diana!",
+      "texto": "Demetrio, un platero, fabrica pequeños templos de plata de la diosa Diana. Ve que su negocio se hunde, porque muchos dejan los ídolos. Reúne a los artesanos, y la ciudad se llena de confusión. En el teatro, la multitud grita casi dos horas: «¡Grande es Diana de los Efesios!». Al fin, el secretario de la ciudad calma a todos."
+    },
+    {
+      "subtitulo": "Una noche en Troas",
+      "texto": "Pablo visita Macedonia y Grecia. Después, en Troas, los discípulos se reúnen el primer día de la semana para partir el pan. Pablo habla hasta medianoche. Un joven llamado Eutico se duerme en la ventana y cae desde un tercer piso. Lo levantan muerto. Pablo lo abraza, y el joven vuelve a vivir."
+    },
+    {
+      "subtitulo": "Despedida en Mileto",
+      "texto": "Pablo tiene prisa por llegar a Jerusalén. En Mileto llama a los ancianos de Éfeso. Les recuerda sus años de servicio, con lágrimas. Les pide cuidar el rebaño que el Señor ganó con su sangre. Y cita a Jesús: «Más bienaventurada cosa es dar que recibir». Oran de rodillas, lloran y lo acompañan al barco."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En Mileto, Pablo recuerda que la iglesia es del Señor, que la ganó con su sangre. Jesús es el buen pastor que da la vida por sus ovejas. Pablo también cita una frase de Jesús que no aparece en los Evangelios: «Más bienaventurada cosa es dar que recibir».",
+    "refs": ["Juan 10:11", "Hechos 20:35"]
+  },
+
+  "mundo": "En Éfeso está el templo de Artemisa, la Diana de los romanos. Es una de las siete maravillas del mundo antiguo. El teatro de la ciudad, donde gritó la multitud, recibía a miles de personas.",
+
+  "antes": "Pablo escribió a los tesalonicenses que se mantuvieran firmes y trabajando mientras esperan al Señor.",
+  "despues": "Desde Éfeso, Pablo escribe a la iglesia de Corinto, dividida y llena de preguntas.",
+
+  "conexiones": [
+    { "ref": "2 Timoteo 4:7", "motivo": "Al final de su vida, Pablo dirá: he acabado la carrera." },
+    { "ref": "1 Pedro 5:2", "motivo": "Pedro también pide a los ancianos cuidar el rebaño de Dios." },
+    { "ref": "Proverbios 19:17", "motivo": "Quien da al pobre, presta al Señor." },
+    { "ref": "2 Corintios 8:9", "motivo": "Jesús, siendo rico, se hizo pobre para enriquecernos." }
+  ],
+
+  "glosario": ["bautismo", "anciano", "idolo", "espiritu-santo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, da algo sin esperar nada a cambio: tu tiempo, una ayuda o un regalo sencillo.",
+    "pregunta": "¿Qué te cuesta soltar para seguir a Jesús, como los de Éfeso con sus libros?"
+  },
+
+  "meditar": "Señor Jesús, quiero terminar mi carrera con gozo. Líbrame de todo lo que me aparta de ti y enséñame que dar trae más alegría que recibir. Amén.",
+
+  "ninos": {
+    "pregunta": "Eutico se durmió mientras Pablo hablaba. ¿Qué hizo Pablo cuando el joven se cayó?",
+    "actividad": "Con cajas o bloques, arma el teatro de Éfeso y cuenta la historia a tu familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué gritaba la multitud en el teatro de Éfeso?",
+      "opciones": ["¡Grande es Diana de los Efesios!", "¡Viva el emperador de Roma!", "¡Fuera los griegos de Éfeso!"],
+      "correcta": 0,
+      "explicacion": "La gente gritó casi dos horas por la diosa Diana (Hechos 19:34).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Quiénes explicaron a Apolos mejor el camino de Dios?",
+      "opciones": ["Pedro y Juan", "Bernabé y Silas", "Priscila y Aquila"],
+      "correcta": 2,
+      "explicacion": "Lo llamaron aparte y le enseñaron con más detalle (Hechos 18:26).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Al final de su vida, ¿qué dirá Pablo de su carrera?",
+      "opciones": ["Que la dejó a medias", "Que la acabó", "Que nunca la empezó"],
+      "correcta": 1,
+      "explicacion": "En Mileto quería acabarla con gozo; en 2 Timoteo 4:7 dice: «he acabado la carrera».",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.19", "Acts.20"], "minutos": 12 },
+
+  "temas": ["espiritu-santo", "gracia", "idolatria", "generosidad", "esperanza"],
+  "cadenas": ["el-espiritu"]
+}

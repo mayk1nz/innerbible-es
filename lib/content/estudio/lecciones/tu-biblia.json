@@ -1,0 +1,117 @@
+{
+  "id": "tu-biblia",
+  "orden": 5,
+  "seccion": "introduccion",
+  "formato": "marco",
+  "titulo": "Tu Biblia: católica y evangélica",
+  "pasajes": ["2Tim.3.14-2Tim.3.17"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Pablo le recuerda a Timoteo que toda la Escritura viene de Dios y es útil para la vida.",
+    "Las Biblias católicas tienen 73 libros y las evangélicas 66; este estudio recorre los 66 comunes.",
+    "Dios revela que su palabra nos lleva a la salvación por la fe en Cristo Jesús."
+  ],
+
+  "versiculo": {
+    "texto": "Toda Escritura es inspirada divinamente y útil para enseñar, para redargüir, para corregir, para instituir en justicia, Para que el hombre de Dios sea perfecto, enteramente instruído para toda buena obra.",
+    "referencia": "2 Timoteo 3:16-17",
+    "version": "RV1909"
+  },
+
+  "fecha": null,
+
+  "lugar": { "nombre": "Roma: Pablo preso escribe a Timoteo", "mapa": "iglesia" },
+
+  "personajes": [],
+  "eventos": [],
+
+  "resumen": [
+    {
+      "subtitulo": "Una carta desde la cárcel",
+      "texto": "Pablo está preso y siente que su vida se acerca al final. Escribe a Timoteo, su hijo en la fe. Le recuerda que conoce las Sagradas Escrituras desde niño. Su abuela Loida y su madre Eunice tenían una fe sincera. Esas Escrituras lo llevan a la salvación por la fe en Cristo."
+    },
+    {
+      "subtitulo": "Toda Escritura viene de Dios",
+      "texto": "Pablo dice que toda Escritura es «inspirada divinamente». Dios habló por medio de personas reales, en su idioma y en su tiempo. Por eso la Biblia sirve para enseñar, corregir y formar en lo bueno. Nos prepara «para toda buena obra»."
+    },
+    {
+      "subtitulo": "Una biblioteca de libros",
+      "texto": "La Biblia es como una biblioteca: muchos libros escritos a lo largo de siglos. Tiene dos partes, el Antiguo y el Nuevo Testamento. La lista de libros que la Iglesia recibe como Escritura se llama canon. Todos los cristianos reciben los mismos veintisiete libros del Nuevo Testamento."
+    },
+    {
+      "subtitulo": "Católicas y evangélicas",
+      "texto": "La diferencia está en el Antiguo Testamento. Las Biblias católicas tienen 73 libros: incluyen siete más, como Tobías y los Macabeos. Se llaman deuterocanónicos. También traen partes en griego de Ester y de Daniel. Las Biblias evangélicas tienen 66 libros. Este estudio recorre los 66 libros que todos compartimos."
+    },
+    {
+      "subtitulo": "Muchas traducciones",
+      "texto": "La Biblia se escribió en hebreo, arameo y griego. Hoy hay muchas traducciones al español. En este estudio citamos la Reina-Valera de 1909, que todos pueden usar libremente. Tú puedes leer con la Biblia que tengas en casa. Algunas numeran los Salmos un poco distinto."
+    },
+    {
+      "subtitulo": "Lo que nos une",
+      "texto": "Católicos y evangélicos leemos los mismos Evangelios y oramos con los mismos Salmos. Creemos juntos que Dios habla en su palabra. Este estudio quiere que la Biblia te acerque a Jesús y también a tus hermanos."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo dice que las Escrituras dan sabiduría para la salvación, «por la fe que es en Cristo Jesús». Todo lo que Dios escribió nos lleva a él. Juan dice más: Jesús mismo es la Palabra de Dios hecha hombre.",
+    "refs": ["2 Timoteo 3:15", "Juan 1:14"]
+  },
+
+  "mundo": "En tiempos de Pablo, los libros eran rollos largos y caros. En los primeros siglos, los cristianos prefirieron el códice: hojas cosidas, como nuestros libros. Así era más fácil llevar y buscar las Escrituras.",
+
+  "antes": "Viste que la Biblia tiene dos partes unidas por un pacto: el Antiguo y el Nuevo Testamento.",
+  "despues": "Abrimos la primera página: en el principio, Dios crea los cielos y la tierra.",
+
+  "conexiones": [
+    { "ref": "Romanos 15:4", "motivo": "Lo escrito antes nos da paciencia, consuelo y esperanza." },
+    { "ref": "2 Pedro 1:21", "motivo": "Los profetas hablaron movidos por el Espíritu Santo." },
+    { "ref": "Hebreos 4:12", "motivo": "La palabra de Dios es viva y llega hasta el corazón." },
+    { "ref": "Salmos 19:7", "motivo": "La ley del Señor es perfecta y hace sabio al sencillo." }
+  ],
+
+  "glosario": ["canon", "deuterocanonicos", "testamento"],
+
+  "paraTuVida": {
+    "aplicacion": "Busca tu Biblia y mira su índice. Cuenta sus libros y marca Génesis para empezar.",
+    "pregunta": "¿Qué te gustaría que Dios te enseñe por medio de su palabra?"
+  },
+
+  "meditar": "Padre, gracias por tu palabra. Úsala para enseñarme y corregirme con amor. Que me lleve siempre a Jesús y me una a mis hermanos. Amén.",
+
+  "ninos": {
+    "pregunta": "Timoteo conoció la Biblia desde niño. ¿Quién te cuenta a ti historias de la Biblia?",
+    "actividad": "Hagan juntos un marcapáginas con tu nombre y tu versículo favorito."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos libros tienen las Biblias evangélicas?",
+      "opciones": ["66 libros", "73 libros", "150 libros"],
+      "correcta": 0,
+      "explicacion": "Tienen 66; las católicas, 73. Este estudio recorre los 66 que todos comparten.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Pablo, ¿para qué es útil toda la Escritura?",
+      "opciones": ["Para ganar discusiones", "Para enseñar, corregir y formar", "Solo para los sacerdotes"],
+      "correcta": 1,
+      "explicacion": "Es útil para enseñar, redargüir, corregir e instruir en justicia (2 Timoteo 3:16).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según la segunda carta de Pedro, ¿quién movió a los profetas a hablar?",
+      "opciones": ["El rey de Israel", "Sus propias ideas", "El Espíritu Santo"],
+      "correcta": 2,
+      "explicacion": "Hablaron inspirados por el Espíritu Santo, no por voluntad humana (2 Pedro 1:21).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Tim.3"], "minutos": 3 },
+
+  "notaEcumenica": "Las Biblias católicas incluyen siete libros más del Antiguo Testamento y partes griegas de Ester y Daniel; las evangélicas, no. Este estudio sigue los 66 libros que todos comparten.",
+
+  "temas": ["sabiduria", "fe", "unidad", "palabra-de-dios"],
+  "cadenas": ["la-palabra-de-dios"]
+}

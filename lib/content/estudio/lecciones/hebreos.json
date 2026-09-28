@@ -1,0 +1,152 @@
+{
+  "id": "hebreos",
+  "orden": 84,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Hebreos: Jesús, mejor que todo",
+  "pasajes": ["Heb.1.1-Heb.13.25"],
+  "libros": ["Heb"],
+
+  "enUnMinuto": [
+    "Una carta a cristianos cansados muestra que Jesús es mayor que los ángeles, que Moisés y que los sacerdotes.",
+    "Jesús es el sacerdote perfecto y el sacrificio que perdona para siempre.",
+    "Dios revela que, gracias a Jesús, podemos acercarnos a él con confianza."
+  ],
+
+  "versiculo": {
+    "texto": "Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro.",
+    "referencia": "Hebreos 4:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita antes del año 70 d.C.",
+    "desde": 60,
+    "hasta": 69,
+    "certeza": "aprox",
+    "nota": "Habla del culto del templo como algo que aún existe. El templo fue destruido en el año 70 d.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita antes del año 70 d.C.",
+    "desde": 60,
+    "hasta": 69,
+    "certeza": "debatida",
+    "nota": "Habla del culto del templo como algo vivo. Por eso muchos la fechan antes del año 70; otros, algo después."
+  },
+
+  "autor": {
+    "texto": "Desconocido: la carta no dice quién la escribió",
+    "nota": "La tradición pensó en Pablo; otros, en Bernabé o Apolos. Lo que importa es su mensaje sobre Cristo."
+  },
+
+  "lugar": { "nombre": "Destino incierto; quizá Roma", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Hijo de Dios; sacerdote para siempre y sacrificio perfecto." },
+    { "id": "melquisedec", "nombre": "Melquisedec", "linea": "Rey y sacerdote que bendijo a Abraham; anticipo de Jesús." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Primer sumo sacerdote; sus sacrificios se repetían cada año." },
+    { "id": "moises", "nombre": "Moisés", "linea": "Fiel como siervo en la casa de Dios." },
+    { "id": "abel", "nombre": "Abel", "linea": "El primero de la lista de los que vivieron por fe." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Salió sin saber adónde iba, confiando en la promesa." },
+    { "id": "rahab", "nombre": "Rahab", "linea": "Mujer de Jericó salvada por su fe." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios habla por medio de su Hijo", "ref": "Hebreos 1:1-4" },
+    { "texto": "Jesús es fiel como Hijo, mayor que Moisés", "ref": "Hebreos 3:1-6" },
+    { "texto": "Jesús, sacerdote para siempre como Melquisedec", "ref": "Hebreos 7:15-28" },
+    { "texto": "Cristo entra una vez con su propia sangre", "ref": "Hebreos 9:11-14" },
+    { "texto": "La fe de los antiguos, una nube de testigos", "ref": "Hebreos 11:1-12:2" },
+    { "texto": "Consejos finales de amor y hospitalidad", "ref": "Hebreos 13:1-8" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Dios habló por su Hijo",
+      "texto": "Muchas veces Dios habló por medio de los profetas. Ahora nos ha hablado por su Hijo. Jesús es el reflejo de la gloria de Dios y sostiene todo con su palabra. Es mayor que los ángeles. Se hizo hombre como nosotros para vencer a la muerte y ayudarnos en la prueba."
+    },
+    {
+      "subtitulo": "Mayor que Moisés",
+      "texto": "Moisés fue fiel como siervo en la casa de Dios. Jesús es fiel como Hijo, y la casa somos nosotros. El autor recuerda a Israel en el desierto, que no creyó y no entró en el reposo. Y nos anima: «Si oyereis hoy su voz, no endurezcáis vuestros corazones»."
+    },
+    {
+      "subtitulo": "Un sacerdote para siempre",
+      "texto": "En Israel, los sacerdotes venían de la familia de Aarón, y todos morían. Jesús es sacerdote para siempre, como Melquisedec, el rey que bendijo a Abraham. Jesús fue tentado en todo, pero sin pecado. Por eso nos comprende. Vive siempre para interceder por nosotros ante el Padre."
+    },
+    {
+      "subtitulo": "Un sacrificio para siempre",
+      "texto": "Levítico describe el Día de la expiación. Una vez al año, el sumo sacerdote entraba al lugar santísimo con sangre de animales. Esa sangre no podía quitar los pecados del todo. Jesús entró una sola vez, con su propia sangre. Su ofrenda perdona para siempre y abre un pacto nuevo."
+    },
+    {
+      "subtitulo": "Una nube de testigos",
+      "texto": "Luego el autor recuerda a los que vivieron por fe. Abel, Noé, Abraham, Sara, Moisés, Rahab y muchos más confiaron en Dios sin ver todavía la promesa. Son como una gran nube de testigos. Nosotros corremos la misma carrera, con los ojos puestos en Jesús."
+    },
+    {
+      "subtitulo": "Seguir juntos",
+      "texto": "La carta termina con consejos sencillos. Sigan amándose como hermanos. Abran su casa a los viajeros. Acuérdense de los presos. Vivan contentos con lo que tienen, porque Dios dijo: «No te desampararé, ni te dejaré». Y no olviden: «Jesucristo es el mismo ayer, y hoy, y por los siglos»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Hebreos lee Levítico con los ojos puestos en Jesús. Cada año, el sumo sacerdote entraba al lugar santísimo con sangre de animales. Jesús es a la vez el sacerdote y el sacrificio. Juan el Bautista lo llamó «el Cordero de Dios». Con una sola ofrenda, abrió para siempre el camino hacia Dios.",
+    "refs": ["Hebreos 9:11-12", "Juan 1:29"]
+  },
+
+  "mundo": "En el año 66 d.C. estalla en Judea una gran guerra contra Roma. En el año 70, los soldados romanos destruyen Jerusalén y su templo.",
+
+  "antes": "Pedro escribió su segunda carta: crecer en la gracia y esperar la promesa de Dios.",
+  "despues": "Judas escribe una carta breve para animar a cuidar la fe que recibieron.",
+
+  "conexiones": [
+    { "ref": "Levítico 16:2", "motivo": "Aarón no podía entrar en cualquier momento detrás del velo." },
+    { "ref": "Levítico 17:11", "motivo": "En los sacrificios, la sangre se daba para el perdón." },
+    { "ref": "Salmos 110:4", "motivo": "El salmo anuncia un sacerdote eterno, como Melquisedec." },
+    { "ref": "Jeremías 31:33", "motivo": "Dios promete un pacto nuevo, escrito en el corazón." }
+  ],
+
+  "glosario": ["sumo-sacerdote", "dia-de-la-expiacion", "lugar-santisimo", "pacto", "sacrificio"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, visita o llama a alguien que está solo, enfermo o preso, como pide Hebreos 13.",
+    "pregunta": "¿Qué te impide acercarte a Dios con confianza?"
+  },
+
+  "meditar": "Señor Jesús, tú me entiendes porque fuiste probado como yo. Me acerco a tu trono de gracia con confianza. Dame tu ayuda hoy. Amén.",
+
+  "ninos": {
+    "pregunta": "Hebreos nombra a muchas personas que confiaron en Dios. ¿A quién conoces tú que confía en él?",
+    "actividad": "Dibuja una carrera con una meta que diga «Jesús». Pon tu nombre entre los corredores."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "Según Hebreos, ¿quién es el sacerdote para siempre?",
+      "opciones": ["Aarón", "Jesús", "Moisés"],
+      "correcta": 1,
+      "explicacion": "Jesús es sacerdote para siempre y vive para interceder por nosotros (Hebreos 7:24-25).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué sangre entró Jesús en el santuario?",
+      "opciones": ["Con sangre de toros", "Con sangre de corderos", "Con su propia sangre"],
+      "correcta": 2,
+      "explicacion": "Entró una sola vez, con su propia sangre, y nos dio un perdón eterno (Hebreos 9:12).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué libro describe el Día de la expiación que Hebreos explica?",
+      "opciones": ["Levítico", "Rut", "Proverbios"],
+      "correcta": 0,
+      "explicacion": "Levítico 16 describe ese día. Hebreos 9 muestra que se cumple en Jesús.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Heb.1", "Heb.4", "Heb.9", "Heb.11", "Heb.12"], "minutos": 20 },
+
+  "notaEcumenica": "Hebreos enseña que el sacrificio de Cristo fue único y basta para siempre. Todas las iglesias lo confiesan. Lo expresan de distintas maneras al celebrar la Cena del Señor.",
+
+  "temas": ["cruz", "fe", "perdon", "pacto", "esperanza", "cordero"],
+  "cadenas": ["el-pacto-nuevo", "el-sacerdote-eterno"]
+}

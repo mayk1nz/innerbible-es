@@ -1,0 +1,151 @@
+{
+  "id": "galatas",
+  "orden": 66,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Gálatas: libres por la gracia",
+  "pasajes": ["Gal.1.1-Gal.6.18"],
+  "libros": ["Gal"],
+
+  "enUnMinuto": [
+    "Pablo escribe con urgencia a las iglesias de Galacia, confundidas sobre qué hace falta para pertenecer a Dios.",
+    "Les recuerda que somos salvos por la gracia, por la fe en Cristo, y que esa libertad es para amar.",
+    "Dios se revela como Padre: nos da su Espíritu y nos hace hijos, no esclavos."
+  ],
+
+  "versiculo": {
+    "texto": "Estad, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez a ser presos en el yugo de servidumbre.",
+    "referencia": "Gálatas 5:1",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 48–49 d.C.",
+    "desde": 48,
+    "hasta": 49,
+    "certeza": "debatida",
+    "nota": "Unos la fechan antes del concilio de Jerusalén (c. 49 d.C.); otros, hacia el año 55 d.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 48–49 d.C.",
+    "desde": 48,
+    "hasta": 49,
+    "certeza": "debatida",
+    "nota": "Unos la fechan antes del concilio de Jerusalén (c. 49 d.C.); otros, hacia el año 55 d.C."
+  },
+
+  "autor": {
+    "texto": "Pablo, apóstol (Gálatas 1:1).",
+    "nota": "La escribe a las iglesias de Galacia, quizá las que fundó en su primer viaje."
+  },
+
+  "lugar": { "nombre": "A las iglesias de Galacia", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Escribe con firmeza y cariño para defender la gracia." },
+    { "id": "pedro", "nombre": "Pedro (Cefas)", "linea": "Columna de la iglesia; en Antioquía, Pablo le habla con franqueza." },
+    { "id": "santiago-hermano-del-senor", "nombre": "Santiago", "linea": "Columna de la iglesia de Jerusalén; da la mano a Pablo." },
+    { "id": "bernabe", "nombre": "Bernabé", "linea": "Compañero de Pablo en Jerusalén y en Antioquía." },
+    { "id": "tito", "nombre": "Tito", "linea": "Creyente griego; no lo obligan a la circuncisión." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Creyó a Dios; los que creen son sus hijos." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo cuenta cómo Dios lo llamó por su gracia", "ref": "Gálatas 1:11-17" },
+    { "texto": "Los líderes de Jerusalén dan la mano a Pablo", "ref": "Gálatas 2:1-10" },
+    { "texto": "Pablo habla con Pedro en Antioquía", "ref": "Gálatas 2:11-14" },
+    { "texto": "Los que creen son hijos de Abraham", "ref": "Gálatas 3:6-9" },
+    { "texto": "Todos son uno en Cristo Jesús", "ref": "Gálatas 3:26-29" },
+    { "texto": "El Espíritu da su fruto: amor, gozo y paz", "ref": "Gálatas 5:22-23" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una carta urgente",
+      "texto": "Pablo escribe a las iglesias de Galacia, y está preocupado. Algunos enseñan que los gentiles deben circuncidarse y cumplir la ley de Moisés para ser del pueblo de Dios. Pablo responde con firmeza y con cariño. La buena noticia es una sola: Cristo se dio a sí mismo por nuestros pecados."
+    },
+    {
+      "subtitulo": "Llamado por gracia",
+      "texto": "Pablo cuenta su historia. Antes perseguía a la iglesia. Pero Dios, por su gracia, le mostró a su Hijo. Años después, en Jerusalén, Santiago, Pedro y Juan le dan la mano a él y a Bernabé. Solo les piden una cosa: que se acuerden de los pobres."
+    },
+    {
+      "subtitulo": "A la misma mesa",
+      "texto": "En Antioquía, Pedro come con los creyentes gentiles. Cuando llegan unos de Jerusalén, se aparta por miedo. Pablo le habla con franqueza delante de todos. Judíos y gentiles se salvan por la fe en Cristo y comparten la misma mesa. Años después, Pedro llamará a Pablo «nuestro amado hermano»."
+    },
+    {
+      "subtitulo": "Hijos de Abraham",
+      "texto": "Abraham creyó a Dios, y Dios se lo contó por justicia. Los que creen son sus hijos. La ley llegó siglos después y no anula la promesa. Fue como un tutor que nos lleva de la mano a Cristo. Ahora todos somos hijos de Dios por la fe. Ya no hay judío ni griego, esclavo ni libre, hombre ni mujer."
+    },
+    {
+      "subtitulo": "Hijos, no esclavos",
+      "texto": "Cuando llegó el momento, Dios envió a su Hijo, nacido de mujer. También envía su Espíritu, que clama: «Abba, Padre». Ya no somos esclavos, sino hijos y herederos. Pablo escribe como una madre que sufre por sus hijos. Quiere que Cristo tome forma en ellos."
+    },
+    {
+      "subtitulo": "Libres para amar",
+      "texto": "Cristo nos hizo libres. Pero la libertad no es para hacer lo que uno quiere: es para servirnos por amor. Toda la ley se cumple en amar al prójimo. El Espíritu da su fruto: amor, gozo, paz, paciencia y bondad. Llevemos las cargas unos de otros, y no nos cansemos de hacer el bien."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús es el descendiente de Abraham en quien se cumple la promesa: la bendición llega a todos los pueblos. En la cruz, Cristo cargó la maldición en nuestro lugar. Pablo lo dice así: el Hijo de Dios «me amó, y se entregó a sí mismo por mí».",
+    "refs": ["Génesis 12:3", "Gálatas 2:20"]
+  },
+
+  "mundo": "Galacia es una provincia romana en el centro de la actual Turquía. Sus ciudades mezclan pueblos, idiomas y dioses distintos. Allí conviven creyentes judíos y gentiles.",
+
+  "antes": "Pablo y Bernabé fundaron iglesias en Galacia y contaron que Dios abrió a los gentiles la puerta de la fe.",
+  "despues": "Los apóstoles y los ancianos se reúnen en Jerusalén para decidir qué pedir a los creyentes gentiles.",
+
+  "conexiones": [
+    { "ref": "Génesis 15:6", "motivo": "Abraham creyó a Dios, y eso le fue contado por justicia." },
+    { "ref": "Habacuc 2:4", "motivo": "El profeta ya lo anunció: el justo vivirá por la fe." },
+    { "ref": "Deuteronomio 21:23", "motivo": "El colgado en un madero cargaba la maldición; Cristo la llevó por nosotros." },
+    { "ref": "Isaías 40:31", "motivo": "Los que esperan en el Señor no se cansan de caminar." }
+  ],
+
+  "glosario": ["gracia", "circuncision", "ley", "abba"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ayuda a alguien a llevar una carga: una tarea, una preocupación o una compra.",
+    "pregunta": "¿Vives como hijo amado de Dios o como alguien que debe ganarse su amor?"
+  },
+
+  "meditar": "Padre, gracias porque en Cristo soy tu hijo y no un esclavo. Que tu Espíritu dé en mí su fruto de amor, gozo y paz. Amén.",
+
+  "ninos": {
+    "pregunta": "El Espíritu da frutos como amor, gozo y paz. ¿Cuál te gustaría que creciera en ti?",
+    "actividad": "Dibuja un árbol y escribe en cada fruta algo bueno que el Espíritu nos da."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A qué iglesias escribe Pablo esta carta?",
+      "opciones": ["A las de Creta", "A las de Galacia", "A las de Egipto"],
+      "correcta": 1,
+      "explicacion": "La carta va «a las iglesias de Galacia» (Gálatas 1:2).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Gálatas 3:28, ¿qué son todos los creyentes en Cristo Jesús?",
+      "opciones": ["Uno solo", "Siervos de la ley", "Extranjeros"],
+      "correcta": 0,
+      "explicacion": "No hay judío ni griego, siervo ni libre: todos son uno en Cristo.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Pablo, los que creen son hijos de un patriarca. ¿De cuál?",
+      "opciones": ["De Moisés", "De David", "De Abraham"],
+      "correcta": 2,
+      "explicacion": "Abraham creyó a Dios (Génesis 15:6); los de la fe son sus hijos (Gálatas 3:7).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Gal.2", "Gal.3", "Gal.4", "Gal.5"], "minutos": 15 },
+
+  "notaEcumenica": "Católicos y evangélicos confiesan que somos salvos por la gracia de Dios, por medio de la fe en Cristo. En 1999, católicos y luteranos firmaron una declaración común sobre este tema.",
+
+  "temas": ["gracia", "fe", "libertad", "espiritu-santo", "promesa"],
+  "cadenas": ["la-promesa-a-abraham", "el-espiritu"]
+}

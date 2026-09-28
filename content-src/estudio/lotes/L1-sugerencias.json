@@ -1,0 +1,13 @@
+{
+  "glosario": [],
+  "personajes": [
+    { "id": "elifaz", "nombre": "Elifaz", "rv1909": "Eliphaz", "linea": "Amigo de Job, de Temán; ve el sufrimiento como castigo.", "lecciones": ["job"] },
+    { "id": "bildad", "nombre": "Bildad", "linea": "Amigo de Job; le pide volverse a Dios para ser restaurado.", "lecciones": ["job"] },
+    { "id": "zofar", "nombre": "Zofar", "rv1909": "Sophar", "linea": "Amigo de Job; lo acusa de hablar mucho y merecer castigo.", "lecciones": ["job"] },
+    { "id": "eliu", "nombre": "Eliú", "linea": "Joven que habla al final; dice que Dios enseña por el dolor.", "lecciones": ["job"] }
+  ],
+  "notas": [
+    "La lección job necesita estos cuatro personajes: sin ellos solo existe \"job\" en personajes.json y el validador exige al menos 3.",
+    "Con estos personajes añadidos, job.json da 0 errores (comprobado con una copia de personajes.json fuera del repo)."
+  ]
+}

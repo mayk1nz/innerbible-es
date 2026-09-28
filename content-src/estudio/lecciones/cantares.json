@@ -1,0 +1,140 @@
+{
+  "id": "cantares",
+  "orden": 21,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "Cantares: el regalo del amor",
+  "pasajes": ["Song.1.1-Song.8.14"],
+  "libros": ["Song"],
+
+  "enUnMinuto": [
+    "Cantares es un poema de amor entre un esposo y una esposa que se buscan y se encuentran.",
+    "Celebra el amor fiel del matrimonio como un regalo bueno que viene de Dios.",
+    "Dios revela que el amor verdadero es fuerte como la muerte y que nada lo puede apagar."
+  ],
+
+  "versiculo": {
+    "texto": "Las muchas aguas no podrán apagar el amor, ni lo ahogarán los ríos. Si diese el hombre toda la hacienda de su casa por este amor, de cierto lo menospreciaran.",
+    "referencia": "Cantares 8:7",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 960 a.C., tiempos de Salomón",
+    "desde": -965,
+    "hasta": -950,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 960 a.C., según la tradición",
+    "desde": -965,
+    "hasta": -950,
+    "certeza": "debatida",
+    "nota": "La tradición lo sitúa en tiempos de Salomón. Algunos estudiosos piensan que el poema se escribió más tarde."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Salomón (Cantares 1:1).",
+    "nota": "El título puede leerse como escrito por Salomón o dedicado a él."
+  },
+
+  "lugar": { "nombre": "Jerusalén, viñas y campos", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "salomon", "nombre": "Salomón", "linea": "El título lleva su nombre; el poema celebra su boda." },
+    { "id": "betsabe", "nombre": "Betsabé", "linea": "Madre de Salomón; el poema recuerda que lo coronó en su boda." },
+    { "id": "david", "nombre": "David", "linea": "Padre de Salomón; el poema nombra «la torre de David»." }
+  ],
+
+  "eventos": [
+    { "texto": "Comienza la canción más bella de todas", "ref": "Cantares 1:1-4" },
+    { "texto": "El esposo la invita: ha llegado la primavera", "ref": "Cantares 2:10-13" },
+    { "texto": "La esposa lo busca de noche y lo encuentra", "ref": "Cantares 3:1-4" },
+    { "texto": "Se celebra la boda del rey Salomón", "ref": "Cantares 3:6-11" },
+    { "texto": "El amor es fuerte como la muerte", "ref": "Cantares 8:6-7" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "La canción más bella",
+      "texto": "Cantares es un poema. Su título completo es «Canción de canciones»: la más bella de todas. Habla del amor entre un esposo y una esposa. A ella la llaman «Sulamita»; ella a él lo llama «mi amado». Dios creó el amor, y este libro lo celebra como un regalo bueno."
+    },
+    {
+      "subtitulo": "Voces que se responden",
+      "texto": "En el poema hablan la esposa, el esposo y un coro de jóvenes de Jerusalén. Los esposos se admiran, se echan de menos y se buscan. Todo se dice con imágenes del campo: palomas, lirios, viñas, ciervos y perfumes. Es el lenguaje de la poesía, lleno de ternura."
+    },
+    {
+      "subtitulo": "La primavera del amor",
+      "texto": "El esposo la invita: «Levántate, oh amiga mía, hermosa mía, y vente». Ha pasado el invierno, y la tierra se llena de flores. Ella responde con alegría: «Mi amado es mío, y yo suya». Es un amor que se entrega de los dos lados, con respeto y con gozo."
+    },
+    {
+      "subtitulo": "Cada cosa a su tiempo",
+      "texto": "Tres veces la esposa pide a sus amigas que no despierten al amor «hasta que quiera». El amor tiene su tiempo, y no hay que apurarlo. El poema también canta la boda del rey Salomón. Su madre lo corona en «el día del gozo de su corazón»."
+    },
+    {
+      "subtitulo": "Fuerte como la muerte",
+      "texto": "El final es el corazón del libro: «fuerte es como la muerte el amor». Las muchas aguas no lo pueden apagar, y no se compra con dinero. La esposa pide ser como un sello sobre el corazón de su esposo. El matrimonio es un pacto de amor fiel, para toda la vida."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Cantares no nombra a Jesús. Pero la Biblia usa la imagen de las bodas para hablar de Dios y su pueblo. Juan el Bautista llama a Jesús «el esposo». Por eso muchos cristianos también leen este poema como imagen del amor de Cristo por su Iglesia.",
+    "refs": ["Juan 3:29", "Efesios 5:25"]
+  },
+
+  "mundo": "En Egipto se escribían poemas de amor en papiros, con imágenes de jardines, flores y perfumes. Cantares usa un lenguaje parecido, pero es parte de la Palabra de Dios.",
+
+  "antes": "Proverbios enseñó sabiduría para cada día, también para cuidar el matrimonio y la familia.",
+  "despues": "Eclesiastés se pregunta qué da sentido a la vida cuando todo parece pasar.",
+
+  "conexiones": [
+    { "ref": "1 Corintios 13:7", "motivo": "El amor verdadero todo lo soporta y todo lo espera." },
+    { "ref": "Romanos 8:38", "motivo": "Nada, ni la muerte, puede separarnos del amor de Dios." },
+    { "ref": "Isaías 62:5", "motivo": "Dios se alegra con su pueblo como el esposo con la esposa." },
+    { "ref": "Efesios 5:25", "motivo": "Pablo pide a los esposos amar como Cristo amó a la Iglesia." }
+  ],
+
+  "glosario": ["pacto", "iglesia"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, dile a alguien de tu familia una palabra de cariño y gratitud, sin esperar nada.",
+    "pregunta": "¿Cómo puedes cuidar hoy el amor en tu casa?"
+  },
+
+  "meditar": "Señor, gracias por el regalo del amor. Guarda a nuestras familias en un amor fiel. Y enséñame que tu amor por mí es más fuerte que la muerte. Amén.",
+
+  "ninos": {
+    "pregunta": "Cantares habla del amor con flores y palomas. ¿Con qué dibujo mostrarías el amor de tu familia?",
+    "actividad": "Hagan juntos una tarjeta con un corazón y regálenla a alguien de la familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué tipo de libro es Cantares?",
+      "opciones": ["Un libro de leyes", "Un poema de amor", "Una carta de Pablo"],
+      "correcta": 1,
+      "explicacion": "Es la «Canción de canciones», un poema sobre el amor entre esposo y esposa (Cantares 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Cantares 8:7, ¿qué no pueden apagar las muchas aguas?",
+      "opciones": ["El fuego del altar", "La lámpara del templo", "El amor"],
+      "correcta": 2,
+      "explicacion": "«Las muchas aguas no podrán apagar el amor» (Cantares 8:7).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "En Efesios 5:25, ¿con qué amor compara Pablo el amor de los esposos?",
+      "opciones": ["El de Cristo por la Iglesia", "El de un rey por su pueblo", "El de los amigos"],
+      "correcta": 0,
+      "explicacion": "Pablo pide a los maridos amar a sus esposas como Cristo amó a la Iglesia.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Song.2", "Song.3", "Song.8"], "minutos": 6 },
+
+  "temas": ["amor-de-dios", "familia", "matrimonio", "fidelidad"],
+  "cadenas": ["el-esposo"]
+}

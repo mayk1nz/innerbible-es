@@ -1,0 +1,147 @@
+{
+  "id": "esdras-1-6",
+  "orden": 43,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Vuelven a casa y reconstruyen el templo",
+  "pasajes": ["2Chr.36.22-2Chr.36.23", "Ezra.1.1-Ezra.6.22"],
+  "libros": ["Ezra"],
+
+  "enUnMinuto": [
+    "El rey Ciro deja volver a los judíos, y un grupo regresa a Jerusalén para reconstruir el templo.",
+    "Levantan el altar y los cimientos, la oposición detiene la obra y, animados por dos profetas, la terminan.",
+    "Dios revela que cumple su palabra y que puede mover aun el corazón de los reyes."
+  ],
+
+  "versiculo": {
+    "texto": "¿Quién hay entre vosotros de todo su pueblo? Sea Dios con él, y suba a Jerusalem que está en Judá, y edifique la casa a Jehová Dios de Israel, (él es el Dios,) la cual está en Jerusalem.",
+    "referencia": "Esdras 1:3",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "538–516 a.C.",
+    "desde": -538,
+    "hasta": -516,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 450–400 a.C.",
+    "desde": -450,
+    "hasta": -400,
+    "certeza": "aprox",
+    "nota": "Se escribió después de la llegada de Esdras a Jerusalén, que cuentan los capítulos 7–10."
+  },
+
+  "autor": {
+    "texto": "La tradición judía lo atribuye a Esdras",
+    "nota": "Los capítulos 7–10 hablan en primera persona. El libro copia cartas y decretos de los reyes de Persia."
+  },
+
+  "lugar": { "nombre": "De Babilonia a Jerusalén", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "ciro", "nombre": "Ciro", "linea": "Rey de Persia; su decreto permite volver y reconstruir el templo." },
+    { "id": "zorobabel", "nombre": "Zorobabel", "linea": "De la familia de David; guía el regreso y la obra." },
+    { "id": "jeremias", "nombre": "Jeremías", "linea": "Había anunciado que el destierro terminaría; ahora se cumple." },
+    { "id": "hageo", "nombre": "Hageo", "linea": "Profeta que anima al pueblo a retomar la construcción." },
+    { "id": "zacarias-profeta", "nombre": "Zacarías", "linea": "Profeta que, junto con Hageo, anima a los constructores." }
+  ],
+
+  "eventos": [
+    { "texto": "Ciro anuncia que el pueblo puede volver", "ref": "Esdras 1:1-4" },
+    { "texto": "Más de cuarenta y dos mil vuelven a Judá", "ref": "Esdras 2:64-70" },
+    { "texto": "Levantan el altar y celebran la fiesta", "ref": "Esdras 3:1-6" },
+    { "texto": "Ponen los cimientos entre llanto y alegría", "ref": "Esdras 3:10-13" },
+    { "texto": "La oposición detiene la obra por años", "ref": "Esdras 4:1-5" },
+    { "texto": "Terminan el templo y lo dedican con gozo", "ref": "Esdras 6:14-18" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "El decreto de Ciro",
+      "texto": "Pasaron casi cincuenta años desde que Babilonia destruyó Jerusalén. Ahora gobierna Ciro, rey de Persia. Dios despierta su espíritu, como había anunciado Jeremías. Ciro publica un decreto: los judíos pueden volver y reconstruir la casa de Dios. Incluso les devuelve los vasos de oro y plata del templo."
+    },
+    {
+      "subtitulo": "Camino a casa",
+      "texto": "Un grupo decide volver. Lo guían Zorobabel, de la familia de David, y el sacerdote Jesúa. Son más de cuarenta y dos mil personas. Llevan ofrendas para la obra. Al llegar, cada familia vuelve a su ciudad. Volver es un paso de fe: la tierra está en ruinas."
+    },
+    {
+      "subtitulo": "Llanto y alegría",
+      "texto": "En el mes séptimo levantan primero el altar. Celebran la fiesta de los tabernáculos. Al año siguiente ponen los cimientos del templo. Los sacerdotes tocan trompetas y todos cantan: «para siempre es su misericordia». Los ancianos que vieron el primer templo lloran. Otros gritan de alegría, y no se distingue un sonido del otro."
+    },
+    {
+      "subtitulo": "Una obra detenida",
+      "texto": "Algunos vecinos de la región ofrecen ayudar. Los jefes responden que ellos construirán, como mandó Ciro. Entonces esos vecinos desaniman al pueblo y pagan consejeros contra ellos. Escriben cartas a los reyes de Persia. La obra se detiene durante años, hasta el reinado de Darío."
+    },
+    {
+      "subtitulo": "Dos profetas animan",
+      "texto": "Dios envía a Hageo y a Zacarías. Sus palabras despiertan al pueblo, y Zorobabel y Jesúa vuelven a construir. Un gobernador persa pregunta quién les dio permiso. Escriben al rey Darío, y en los archivos aparece el decreto de Ciro. Darío ordena ayudarles con dinero del rey."
+    },
+    {
+      "subtitulo": "Una casa llena de gozo",
+      "texto": "En el sexto año de Darío, el templo queda terminado. El pueblo lo dedica con gozo y ofrece sacrificios por las doce tribus. Después celebran la Pascua. Dios los había alegrado y había vuelto a su favor el corazón del rey. La promesa de volver se cumplió."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Zorobabel, que guía el regreso, aparece en la genealogía de Jesús. Siglos después, Jesús enseña en este mismo templo, ya ampliado. Allí habla de su cuerpo como el templo verdadero: «Destruid este templo, y en tres días lo levantaré». En Jesús, Dios viene a vivir en medio de su pueblo.",
+    "refs": ["Mateo 1:12", "Juan 2:19-21"]
+  },
+
+  "mundo": "Persia gobierna un imperio enorme. Sus reyes suelen dejar que los pueblos vencidos vuelvan a su tierra y a sus templos. El llamado Cilindro de Ciro, hallado en Babilonia, cuenta esa costumbre.",
+
+  "antes": "En Babilonia, Daniel oró por su pueblo al leer que el destierro duraría setenta años.",
+  "despues": "El profeta Hageo anima al pueblo desanimado: primero hay que construir la casa de Dios.",
+
+  "conexiones": [
+    { "ref": "Jeremías 29:10", "motivo": "Dios había prometido traerlos de vuelta después de setenta años." },
+    { "ref": "Isaías 44:28", "motivo": "Isaías nombra a Ciro como quien dirá: Jerusalén será edificada." },
+    { "ref": "Proverbios 21:1", "motivo": "El corazón del rey está en la mano de Dios." },
+    { "ref": "Salmos 107:1", "motivo": "El mismo canto de gratitud: para siempre es su misericordia." }
+  ],
+
+  "glosario": ["persia", "templo", "altar", "fiesta-de-los-tabernaculos"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, empieza con Dios algo que dejaste a medias, aunque sea un paso pequeño.",
+    "pregunta": "¿Qué te desanima hoy, y quién podría animarte como Hageo y Zacarías?"
+  },
+
+  "meditar": "Señor, tú cumples lo que prometes. Cuando mi vida parezca en ruinas, ayúdame a volver a ti y a empezar de nuevo. Amén.",
+
+  "ninos": {
+    "pregunta": "Unos lloraban y otros gritaban de alegría. ¿Por qué crees que lloraban los ancianos?",
+    "actividad": "Con bloques o cajas, construye un templo y cuenta quién ayudó a levantarlo."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué rey permitió a los judíos volver a Jerusalén?",
+      "opciones": ["Nabucodonosor", "Ciro", "Faraón"],
+      "correcta": 1,
+      "explicacion": "Ciro, rey de Persia, publicó el decreto en su primer año (Esdras 1:1-4).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué profetas animaron al pueblo a terminar el templo?",
+      "opciones": ["Elías y Eliseo", "Isaías y Miqueas", "Hageo y Zacarías"],
+      "correcta": 2,
+      "explicacion": "Con sus palabras, Zorobabel y Jesúa volvieron a construir (Esdras 5:1-2).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que el destierro terminaría después de setenta años?",
+      "opciones": ["Jeremías", "Jonás", "Amós"],
+      "correcta": 0,
+      "explicacion": "Esdras 1:1 dice que Ciro actuó para cumplir la palabra de Jeremías (Jeremías 29:10).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Ezra.1", "Ezra.3", "Ezra.5", "Ezra.6"], "minutos": 15 },
+
+  "temas": ["promesa", "providencia", "esperanza", "obediencia"],
+  "cadenas": ["el-templo"]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "1-tesalonicenses",
+  "orden": 68,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "1 Tesalonicenses: esperanza en su venida",
+  "pasajes": ["1Thess.1.1-1Thess.5.28"],
+  "libros": ["1Thess"],
+
+  "enUnMinuto": [
+    "Pablo escribe con cariño a una iglesia joven que sufre, para animarla y responder a sus dudas.",
+    "Les recuerda que los que mueren en Cristo resucitarán y que Jesús volverá.",
+    "Dios se revela como el Padre fiel que nos llama a vivir con él para siempre."
+  ],
+
+  "versiculo": {
+    "texto": "Porque si creemos que Jesús murió y resucitó, así también traerá Dios con él a los que durmieron en Jesús.",
+    "referencia": "1 Tesalonicenses 4:14",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "Escrita c. 50–51 d.C.", "desde": 50, "hasta": 51, "certeza": "aprox" },
+
+  "fechaEscrito": { "texto": "Escrita c. 50–51 d.C.", "desde": 50, "hasta": 51, "certeza": "aprox" },
+
+  "autor": {
+    "texto": "Pablo, con Silvano y Timoteo (1 Tesalonicenses 1:1).",
+    "nota": "Es una de las primeras cartas de Pablo que conservamos."
+  },
+
+  "lugar": { "nombre": "A la iglesia de Tesalónica", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Cuida a esta iglesia como una madre y un padre." },
+    { "id": "silas", "nombre": "Silvano (Silas)", "linea": "Firma la carta con Pablo; los dos fundaron esta iglesia." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Va a animarlos y vuelve con buenas noticias de su fe." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Murió y resucitó; vendrá del cielo por los suyos." }
+  ],
+
+  "eventos": [
+    { "texto": "Dejan los ídolos para servir al Dios vivo", "ref": "1 Tesalonicenses 1:9-10" },
+    { "texto": "Pablo los cuidó como una madre y un padre", "ref": "1 Tesalonicenses 2:7-12" },
+    { "texto": "Timoteo trae buenas noticias de su fe", "ref": "1 Tesalonicenses 3:6-8" },
+    { "texto": "Los que mueren en Cristo resucitarán", "ref": "1 Tesalonicenses 4:13-18" },
+    { "texto": "El día del Señor llegará como ladrón de noche", "ref": "1 Tesalonicenses 5:1-11" },
+    { "texto": "Estar siempre gozosos, orar sin cesar, dar gracias", "ref": "1 Tesalonicenses 5:16-18" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una fe que se conoce",
+      "texto": "Pablo escribe con Silvano y Timoteo a la joven iglesia de Tesalónica. Da gracias por su fe que trabaja, su amor que se esfuerza y su esperanza firme. Ellos dejaron los ídolos para servir al Dios vivo. Ahora esperan a Jesús, que vendrá del cielo. Su fe es conocida en toda Macedonia y Acaya."
+    },
+    {
+      "subtitulo": "Como madre y padre",
+      "texto": "Pablo recuerda cómo llegó a la ciudad, después de sufrir en Filipos. No buscó dinero ni fama. Trabajó de día y de noche para no ser una carga. Los cuidó con ternura, como una madre cuida a sus hijos. Y los animó como un padre, para que vivieran como es digno de Dios."
+    },
+    {
+      "subtitulo": "Buenas noticias",
+      "texto": "Pablo tuvo que salir de prisa y los extraña mucho. Desde Atenas les envió a Timoteo para animarlos en las pruebas. Timoteo vuelve con buenas noticias: siguen firmes en la fe y en el amor. Pablo respira aliviado. Ora de noche y de día para volver a verlos."
+    },
+    {
+      "subtitulo": "Vivir para agradar a Dios",
+      "texto": "Pablo les pide seguir creciendo. Dios los llama a una vida santa y limpia, también en el cuerpo. Nadie debe engañar a su hermano. Ya saben amarse, porque Dios mismo se lo enseñó. Que sigan así, que trabajen con sus manos y vivan en paz."
+    },
+    {
+      "subtitulo": "Esperanza ante la muerte",
+      "texto": "Algunos creyentes han muerto, y los demás están tristes. Pablo los consuela: no se entristezcan como los que no tienen esperanza. Jesús murió y resucitó. Cuando él venga, los que murieron en Cristo resucitarán. Y así estaremos siempre con el Señor. Hay varias maneras de entender los detalles, pero la esperanza es la misma."
+    },
+    {
+      "subtitulo": "Hijos del día",
+      "texto": "Nadie sabe cuándo será el día del Señor: llegará como ladrón de noche. Por eso, vivan despiertos, como hijos del día, con fe, amor y esperanza. Pablo termina con consejos breves: «Estad siempre gozosos. Orad sin cesar». Dios es fiel y cumplirá lo que prometió."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Toda la carta mira hacia la venida de Jesús. Él murió por nosotros para que, vivos o muertos, vivamos con él. Jesús mismo lo prometió: «vendré otra vez». Su resurrección es la garantía de la nuestra. Por eso la muerte no tiene la última palabra.",
+    "refs": ["Juan 14:3", "1 Corintios 15:20"]
+  },
+
+  "mundo": "Tesalónica es la capital de Macedonia y un gran puerto. Por ella pasa la Vía Egnatia, una gran calzada romana entre Oriente y Occidente. Las noticias viajan rápido por ahí.",
+
+  "antes": "En Tesalónica muchos creyeron en pocas semanas, pero Pablo y Silas tuvieron que salir de noche.",
+  "despues": "Llegan nuevas dudas a Tesalónica sobre el día del Señor, y Pablo vuelve a escribirles.",
+
+  "conexiones": [
+    { "ref": "1 Corintios 15:51", "motivo": "Pablo vuelve a explicar el misterio de la resurrección." },
+    { "ref": "Lucas 18:1", "motivo": "Jesús enseñó a orar siempre, sin desanimarse." },
+    { "ref": "Filipenses 4:4", "motivo": "Desde la cárcel, Pablo repite: gozaos en el Señor siempre." },
+    { "ref": "Salmos 34:1", "motivo": "El salmista bendice al Señor en todo tiempo." }
+  ],
+
+  "glosario": ["dia-del-senor", "resurreccion", "idolo"],
+
+  "paraTuVida": {
+    "aplicacion": "Llama a alguien que perdió a un ser querido y comparte con él 1 Tesalonicenses 4:14.",
+    "pregunta": "¿Por qué cosas puedes dar gracias a Dios hoy, aun en medio de dificultades?"
+  },
+
+  "meditar": "Señor Jesús, gracias porque la muerte no tiene la última palabra. Enséñame a esperar tu venida con alegría, orando y dando gracias en todo. Amén.",
+
+  "ninos": {
+    "pregunta": "Pablo dice que estemos siempre alegres. ¿Qué te pone alegre cuando piensas en Dios?",
+    "actividad": "Escribe «Orad sin cesar» en una hoja, decórala y pégala en la puerta de tu cuarto."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué les pide Pablo en 1 Tesalonicenses 5:17?",
+      "opciones": ["Orar sin cesar", "Ayunar cada día", "Viajar a Jerusalén"],
+      "correcta": 0,
+      "explicacion": "Pablo escribe: «Orad sin cesar», junto a estar gozosos y dar gracias.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿A quién envió Pablo desde Atenas para animar a los tesalonicenses?",
+      "opciones": ["A Bernabé", "A Timoteo", "A Lucas"],
+      "correcta": 1,
+      "explicacion": "Timoteo fue y volvió con buenas noticias de su fe (1 Tesalonicenses 3:2-6).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué dice Pablo que pasará con los que murieron en Cristo?",
+      "opciones": ["Quedarán dormidos para siempre", "Volverán a nacer en otra vida", "Resucitarán cuando venga el Señor"],
+      "correcta": 2,
+      "explicacion": "Lo explica en 1 Tesalonicenses 4:16 y otra vez en 1 Corintios 15:51-52.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Thess.1", "1Thess.2", "1Thess.3", "1Thess.4", "1Thess.5"], "minutos": 13 },
+
+  "temas": ["esperanza", "resurreccion", "oracion", "amor-de-dios", "fe"],
+  "cadenas": ["la-venida-del-senor"]
+}

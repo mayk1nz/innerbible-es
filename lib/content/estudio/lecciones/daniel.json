@@ -1,0 +1,150 @@
+{
+  "id": "daniel",
+  "orden": 42,
+  "seccion": "exilio",
+  "formato": "completo",
+  "titulo": "Daniel: fieles en tierra extraña",
+  "pasajes": ["Dan.1.1-Dan.12.13"],
+  "libros": ["Dan"],
+
+  "enUnMinuto": [
+    "En Babilonia, Daniel y sus amigos sirven al rey sin dejar de ser fieles a Dios.",
+    "Dios los libra del horno y de los leones, y le muestra a Daniel reinos que pasan.",
+    "Dios revela que él gobierna la historia y que su reino no tendrá fin."
+  ],
+
+  "versiculo": {
+    "texto": "Y fuéle dado señorío, y gloria, y reino; y todos los pueblos, naciones y lenguas le sirvieron; su señorío, señorío eterno, que no será transitorio, y su reino que no se corromperá.",
+    "referencia": "Daniel 7:14",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "605–c. 535 a.C.",
+    "desde": -605,
+    "hasta": -535,
+    "certeza": "aprox",
+    "nota": "Son las fechas de los hechos. La fecha en que se escribió el libro se discute."
+  },
+
+  "fechaEscrito": {
+    "texto": "Siglo VI a.C. o siglo II a.C.",
+    "desde": -535,
+    "hasta": -165,
+    "certeza": "debatida",
+    "nota": "La tradición lo sitúa en tiempos de Daniel. Muchos estudiosos proponen que tomó su forma final hacia el 165 a.C."
+  },
+
+  "autor": {
+    "texto": "La tradición lo atribuye a Daniel",
+    "nota": "Los capítulos 7–12 hablan en primera persona. Algunos estudiosos piensan en un autor posterior que recogió su historia."
+  },
+
+  "lugar": { "nombre": "Babilonia, en la corte del rey", "mapa": "exilio" },
+
+  "personajes": [
+    { "id": "daniel", "nombre": "Daniel", "linea": "Joven de Judá llevado a Babilonia; fiel, sabio y hombre de oración." },
+    { "id": "amigos-de-daniel", "nombre": "Sadrac, Mesac y Abed-nego", "linea": "Amigos de Daniel; no adoran la estatua y Dios los libra." },
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Rey orgulloso de Babilonia que termina alabando al Dios del cielo." },
+    { "id": "jeremias", "nombre": "Jeremías", "linea": "Daniel lee su profecía de los setenta años y ora." },
+    { "id": "ciro", "nombre": "Ciro", "linea": "Rey persa; Daniel sigue sirviendo hasta su primer año." }
+  ],
+
+  "eventos": [
+    { "texto": "Daniel decide no contaminarse con la comida del rey", "ref": "Daniel 1:8-16" },
+    { "texto": "Daniel explica el sueño de la gran estatua", "ref": "Daniel 2:31-45" },
+    { "texto": "Tres jóvenes salen sin daño del horno", "ref": "Daniel 3:19-27" },
+    { "texto": "Una mano escribe en la pared de Belsasar", "ref": "Daniel 5:5-28" },
+    { "texto": "Dios libra a Daniel en el foso de los leones", "ref": "Daniel 6:16-23" },
+    { "texto": "Daniel ve a uno como hijo de hombre", "ref": "Daniel 7:13-14" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Fieles desde el principio",
+      "texto": "Nabucodonosor lleva a Babilonia a jóvenes de Judá. Entre ellos están Daniel, Ananías, Misael y Azarías. Les dan nombres nuevos y la comida del rey. Daniel decide no contaminarse con esa comida. Pide legumbres y agua durante diez días. Dios les da sabiduría, y el rey los halla diez veces mejores que sus sabios."
+    },
+    {
+      "subtitulo": "El sueño de la estatua",
+      "texto": "El rey sueña con una gran estatua de oro, plata, bronce, hierro y barro. Nadie puede explicarlo. Daniel y sus amigos oran, y Dios le revela el secreto. Una piedra, cortada sin mano, rompe la estatua y llena la tierra. Dios levantará un reino que nunca será destruido."
+    },
+    {
+      "subtitulo": "El cuarto en el fuego",
+      "texto": "Nabucodonosor levanta una estatua de oro y manda adorarla. Sadrac, Mesac y Abed-nego se niegan. Dicen que Dios puede librarlos, «Y si no», tampoco adorarán otro dios. Los echan al horno ardiente. El rey mira y ve cuatro hombres paseando en el fuego. Salen sin que se les queme ni un cabello."
+    },
+    {
+      "subtitulo": "Reyes que aprenden",
+      "texto": "Nabucodonosor se llena de orgullo y pierde la razón por un tiempo. Cuando alza los ojos al cielo, alaba al Altísimo. Años después, el rey Belsasar hace un banquete y bebe en los vasos del templo. Una mano escribe en la pared. Esa misma noche, su reino pasa a medos y persas."
+    },
+    {
+      "subtitulo": "El foso de los leones",
+      "texto": "Bajo el rey Darío, unos envidiosos logran una ley: durante treinta días, nadie puede pedir nada sino al rey. Daniel abre sus ventanas hacia Jerusalén y ora tres veces al día, como siempre. Lo echan al foso de los leones. Al amanecer, el rey corre y lo encuentra vivo. Dios envió su ángel."
+    },
+    {
+      "subtitulo": "Visiones del futuro",
+      "texto": "Daniel ve bestias que salen del mar: son reinos que pasan. Después ve a uno «como un hijo de hombre» que recibe un reino eterno. Ora por su pueblo y recibe la visión de las setenta semanas. Los cristianos leen estas visiones de varias maneras. Todos comparten lo esencial: el reino de Dios vence."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús se llamaba a sí mismo «el Hijo del hombre», el título de Daniel 7. Ante el sumo sacerdote dijo que lo verían venir «en las nubes del cielo». Muchos ven en la piedra que llena la tierra el reino que anunció Jesús: «el reino de Dios está cerca».",
+    "refs": ["Mateo 26:64", "Marcos 1:15"]
+  },
+
+  "mundo": "Babilonia domina el Oriente. En el 539 a.C., el persa Ciro entra en la ciudad casi sin combatir. Persia se convierte en el imperio más grande conocido hasta entonces.",
+
+  "antes": "Ezequiel anunció desde el exilio un corazón nuevo y huesos secos que vuelven a vivir.",
+  "despues": "Ciro permite volver a los judíos. Un grupo regresa a Jerusalén para reconstruir el templo.",
+
+  "conexiones": [
+    { "ref": "Mateo 26:64", "motivo": "Jesús dice que verán al Hijo del hombre venir en las nubes." },
+    { "ref": "Juan 5:28-29", "motivo": "Los que están en los sepulcros oirán su voz y saldrán." },
+    { "ref": "Isaías 43:2", "motivo": "Dios promete estar con los suyos cuando pasen por el fuego." },
+    { "ref": "Hebreos 11:33", "motivo": "Por la fe, algunos taparon las bocas de leones." }
+  ],
+
+  "glosario": ["babilonia", "persia", "hijo-del-hombre", "angel"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, elige un momento fijo del día para orar, como Daniel lo hacía siempre.",
+    "pregunta": "¿Dónde te cuesta más ser fiel a Dios sin dejar de amar a los demás?"
+  },
+
+  "meditar": "Señor, dame el valor de Daniel y de sus amigos. Aunque todo cambie a mi alrededor, quiero serte fiel. Tu reino no tiene fin. Amén.",
+
+  "ninos": {
+    "pregunta": "Daniel oraba tres veces al día. ¿Cuándo te gusta a ti hablar con Dios?",
+    "actividad": "Con una caja, arma el foso de los leones y cuenta la historia con muñecos."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Dónde echaron a Daniel por orar a su Dios?",
+      "opciones": ["En un horno de fuego", "En una cárcel de Egipto", "En el foso de los leones"],
+      "correcta": 2,
+      "explicacion": "Dios envió su ángel y cerró la boca de los leones (Daniel 6:22).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cuántos hombres vio el rey paseando dentro del horno?",
+      "opciones": ["Cuatro", "Tres", "Siete"],
+      "correcta": 0,
+      "explicacion": "Echaron a tres, pero el rey vio cuatro, sueltos y sin daño (Daniel 3:25).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué título de Daniel 7 usaba Jesús para hablar de sí mismo?",
+      "opciones": ["Hijo de David", "Hijo del hombre", "Príncipe de paz"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo que verían al Hijo del hombre venir en las nubes (Mateo 26:64).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Dan.1", "Dan.3", "Dan.6", "Dan.7"], "minutos": 23 },
+
+  "notaEcumenica": "Las Biblias católicas incluyen además una oración y un canto de los tres jóvenes en el horno (3:24-90). También traen los capítulos 13 y 14: Susana, y Bel y el dragón. Las evangélicas siguen el texto hebreo.",
+
+  "temas": ["fe", "oracion", "reino-de-dios", "providencia", "esperanza"],
+  "cadenas": ["el-reino", "el-hijo-del-hombre"]
+}

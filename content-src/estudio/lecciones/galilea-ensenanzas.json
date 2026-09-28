@@ -1,0 +1,139 @@
+{
+  "id": "galilea-ensenanzas",
+  "orden": 56,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Lo que Jesús enseñó en Galilea",
+  "pasajes": ["Matt.5.1-Matt.7.29", "Matt.13.1-Matt.13.52", "Luke.6.17-Luke.6.49"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "En un monte de Galilea, Jesús enseña las bienaventuranzas, el Padrenuestro y el amor a los enemigos.",
+    "Con parábolas sencillas explica cómo es el reino de los cielos y cómo crece.",
+    "Dios revela que es un Padre que cuida, perdona y quiere un corazón nuevo."
+  ],
+
+  "versiculo": {
+    "texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "referencia": "Mateo 6:33",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 28–29 d.C.",
+    "desde": 28,
+    "hasta": 29,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "Galilea: un monte y el lago", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "Enseña con autoridad el camino del reino de los cielos." },
+    { "id": "isaias", "nombre": "Isaías", "linea": "Jesús cita su profecía sobre los que oyen y no entienden." },
+    { "id": "salomon", "nombre": "Salomón", "linea": "Ni él, con toda su gloria, se vistió como un lirio." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús sube al monte y enseña las bienaventuranzas", "ref": "Mateo 5:1-12" },
+    { "texto": "Sus discípulos son sal de la tierra y luz", "ref": "Mateo 5:13-16" },
+    { "texto": "Jesús enseña a amar a los enemigos", "ref": "Mateo 5:43-48" },
+    { "texto": "Jesús enseña a orar el Padrenuestro", "ref": "Mateo 6:9-13" },
+    { "texto": "La casa sobre la roca: oír y hacer", "ref": "Mateo 7:24-27" },
+    { "texto": "Jesús enseña en parábolas junto al mar", "ref": "Mateo 13:1-52" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Felices según Dios",
+      "texto": "Mucha gente sigue a Jesús. Él sube a un monte, se sienta y enseña a sus discípulos. Empieza con una sorpresa: llama bienaventurados a los pobres en espíritu, a los que lloran y a los mansos. También a los misericordiosos y a los que buscan la paz. El reino de los cielos es para ellos."
+    },
+    {
+      "subtitulo": "Sal y luz",
+      "texto": "Jesús dice a sus discípulos: «Vosotros sois la sal de la tierra». También son la luz del mundo. Nadie enciende una lámpara para esconderla. Sus buenas obras deben brillar, para que otros den gloria al Padre. Jesús aclara que no viene a abolir la ley, sino a cumplirla."
+    },
+    {
+      "subtitulo": "Mas yo os digo",
+      "texto": "Jesús lleva la ley hasta el corazón. No basta con no matar: el enojo también hiere. No basta con amar a los amigos. «Amad a vuestros enemigos», dice, y orad por los que os persiguen. Así hace el Padre, que da su sol a buenos y a malos."
+    },
+    {
+      "subtitulo": "Padre nuestro",
+      "texto": "Jesús enseña a dar, a orar y a ayunar en secreto, para el Padre y no para ser vistos. Enseña una oración: «Padre nuestro que estás en los cielos». Pide que venga su reino, el pan de cada día y el perdón. También invita a no vivir angustiados: el Padre alimenta a las aves y viste a los lirios."
+    },
+    {
+      "subtitulo": "Sobre la roca",
+      "texto": "Al final, Jesús habla de dos casas. Una está construida sobre la roca y otra sobre la arena. Llegan la lluvia, los ríos y los vientos. La casa sobre la roca no cae. Así es quien oye sus palabras y las pone en práctica. La gente se admira, porque enseña con autoridad."
+    },
+    {
+      "subtitulo": "Historias del reino",
+      "texto": "Otro día, Jesús enseña desde una barca con parábolas. Un sembrador echa semilla en distintos terrenos, y solo la buena tierra da fruto. El reino empieza pequeño, como un grano de mostaza, y crece. Vale más que todo, como un tesoro escondido o una perla preciosa."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Matt", "texto": "Reúne la enseñanza en un gran sermón en el monte, con las bienaventuranzas y el Padrenuestro. Después agrupa siete parábolas del reino." },
+    { "libro": "Luke", "texto": "Sitúa el sermón en un lugar llano. Junto a cuatro bienaventuranzas, pone cuatro «¡ay!» para los ricos y los satisfechos." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Moisés trajo la ley desde el monte Sinaí. Jesús, en otro monte, enseña con autoridad propia: «Mas yo os digo». No viene a abolir la ley, sino a cumplirla. Y vive lo que enseña: en la cruz ora por los que le hacen daño.",
+    "refs": ["Mateo 5:17", "Lucas 23:34"]
+  },
+
+  "mundo": "En Galilea, la mayoría vive del campo y de la pesca. Muchos son pobres y pagan impuestos a Herodes Antipas y a Roma. Por eso las palabras sobre el pan y los pobres tocan su vida diaria.",
+
+  "antes": "Jesús fue bautizado, venció la tentación y llamó a sus primeros discípulos junto al mar de Galilea.",
+  "despues": "Jesús sana enfermos, calma la tempestad y envía a doce apóstoles a anunciar el reino.",
+
+  "conexiones": [
+    { "ref": "Isaías 66:2", "motivo": "Dios mira con amor al pobre y humilde de espíritu." },
+    { "ref": "Salmos 78:2", "motivo": "El salmista ya hablaba en parábolas; Mateo lo ve cumplido en Jesús." },
+    { "ref": "Filipenses 4:6", "motivo": "Pablo también invita a no vivir afanosos y a orar con gratitud." },
+    { "ref": "Santiago 1:22", "motivo": "Santiago pide hacer la palabra, y no quedarse en oírla." }
+  ],
+
+  "glosario": ["parabola", "reino-de-dios", "misericordia", "ayuno"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ora despacio el Padrenuestro cada mañana y detente en una frase distinta cada día.",
+    "pregunta": "¿Sobre qué estás construyendo tu vida: sobre la roca o sobre la arena?"
+  },
+
+  "meditar": "Padre nuestro que estás en los cielos, dame un corazón limpio y manso. Enséñame a amar aun a quien me hiere, y a buscar primero tu reino. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué le pasa a una casa hecha sobre arena cuando llega una gran lluvia?",
+    "actividad": "Construye dos torres, una sobre una almohada y otra sobre la mesa. Sopla fuerte y mira."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué oración enseñó Jesús a sus discípulos en el sermón del monte?",
+      "opciones": ["El Padrenuestro", "El Salmo 23", "El canto de María"],
+      "correcta": 0,
+      "explicacion": "Empieza así: «Padre nuestro que estás en los cielos» (Mateo 6:9).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "En la parábola del sembrador, ¿qué semilla da fruto?",
+      "opciones": ["La que cae junto al camino", "La que cae en buena tierra", "La que cae entre espinas"],
+      "correcta": 1,
+      "explicacion": "Es quien oye la palabra, la entiende y da fruto (Mateo 13:23).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué carta pide poner en práctica la palabra, como la casa sobre la roca?",
+      "opciones": ["Filemón", "Judas", "Santiago"],
+      "correcta": 2,
+      "explicacion": "Santiago 1:22 pide ser «hacedores de la palabra», como enseña Jesús en Mateo 7:24.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Matt.5", "Matt.6", "Matt.7", "Matt.13"], "minutos": 20 },
+
+  "notaEcumenica": "Muchos evangélicos terminan el Padrenuestro con «porque tuyo es el reino, y el poder, y la gloria». En la misa católica, el pueblo dice esas palabras poco después, como respuesta.",
+
+  "temas": ["reino-de-dios", "oracion", "perdon", "misericordia", "obediencia"],
+  "cadenas": ["el-reino"]
+}

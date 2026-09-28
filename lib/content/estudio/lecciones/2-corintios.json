@@ -1,0 +1,146 @@
+{
+  "id": "2-corintios",
+  "orden": 72,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "2 Corintios: fuerza en la debilidad",
+  "pasajes": ["2Cor.1.1-2Cor.13.14"],
+  "libros": ["2Cor"],
+
+  "enUnMinuto": [
+    "Pablo abre su corazón a los corintios después de sufrimientos, malentendidos y una carta escrita con lágrimas.",
+    "Somos vasijas de barro con un tesoro dentro, y en Cristo somos nueva criatura.",
+    "Dios revela que su gracia basta y que su poder se muestra en nuestra debilidad."
+  ],
+
+  "versiculo": {
+    "texto": "Y me ha dicho: Bástate mi gracia; porque mi potencia en la flaqueza se perfecciona. Por tanto, de buena gana me gloriaré más bien en mis flaquezas, porque habite en mí la potencia de Cristo.",
+    "referencia": "2 Corintios 12:9",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 55–56 d.C.",
+    "desde": 55,
+    "hasta": 56,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 55–56 d.C., desde Macedonia",
+    "desde": 55,
+    "hasta": 56,
+    "certeza": "aprox",
+    "nota": "Pablo escribe después de llegar a Macedonia y de recibir a Tito (2 Corintios 7:5-6)."
+  },
+  "autor": {
+    "texto": "El apóstol Pablo, junto con Timoteo (2 Corintios 1:1).",
+    "nota": "Algunos estudiosos piensan que la carta reúne varios escritos de Pablo; otros la leen como una sola carta."
+  },
+
+  "lugar": { "nombre": "Corinto, escrita desde Macedonia", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Apóstol cansado y herido que aprende a apoyarse en la gracia." },
+    { "id": "tito", "nombre": "Tito", "linea": "Lleva la carta y vuelve con buenas noticias que consuelan a Pablo." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Escribe la carta junto con Pablo; predicó en Corinto." },
+    { "id": "silas", "nombre": "Silas (Silvano)", "linea": "Predicó a Cristo en Corinto junto con Pablo y Timoteo." },
+    { "id": "moises", "nombre": "Moisés", "linea": "Su rostro brillaba y lo cubría con un velo." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Siendo rico, se hizo pobre; en él se cumplen las promesas." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios consuela a Pablo en medio del peligro", "ref": "2 Corintios 1:3-11" },
+    { "texto": "Pablo pide perdonar al que causó dolor", "ref": "2 Corintios 2:5-11" },
+    { "texto": "Un tesoro en vasos de barro", "ref": "2 Corintios 4:7-18" },
+    { "texto": "En Cristo somos nueva criatura y reconciliados", "ref": "2 Corintios 5:17-21" },
+    { "texto": "Dar con alegría para los hermanos necesitados", "ref": "2 Corintios 9:6-15" },
+    { "texto": "El Señor le dice a Pablo: «Bástate mi gracia»", "ref": "2 Corintios 12:7-10" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Consuelo en la aflicción",
+      "texto": "Pablo escribe otra vez a Corinto. Viene de un peligro de muerte en Asia. Aun así, bendice al «Dios de toda consolación», que lo consuela para que él consuele a otros. Antes les envió una carta dura, escrita con lágrimas. Ahora les pide perdonar al que causó dolor, para que no se hunda en la tristeza."
+    },
+    {
+      "subtitulo": "Un pacto nuevo",
+      "texto": "Cuando Moisés hablaba con Dios, su rostro brillaba, y él lo cubría con un velo. Pablo explica que ahora Dios escribe en los corazones, no en tablas de piedra. Es el nuevo pacto del Espíritu. Cuando alguien se vuelve al Señor, el velo se quita. El Espíritu nos va transformando de gloria en gloria."
+    },
+    {
+      "subtitulo": "Tesoro en vasos de barro",
+      "texto": "Pablo se compara con una vasija de barro que lleva un tesoro: la luz de Cristo. Está atribulado, pero no angustiado; perseguido, pero no abandonado. Por fuera se desgasta, pero por dentro se renueva cada día. Por eso no mira lo que se ve, que pasa pronto, sino lo que no se ve, que es eterno."
+    },
+    {
+      "subtitulo": "Nueva criatura",
+      "texto": "El amor de Cristo lo impulsa. Jesús murió por todos para que vivamos para él. «Si alguno está en Cristo, nueva criatura es». Dios nos reconcilia consigo y nos confía el mensaje de la reconciliación. Pablo ruega como un embajador: «Reconciliaos con Dios». Después llega Tito con buenas noticias de Corinto, y Pablo se llena de alegría."
+    },
+    {
+      "subtitulo": "Dar con alegría",
+      "texto": "Las iglesias de Macedonia, siendo pobres, dieron con generosidad para los hermanos necesitados. Pablo anima a los corintios a hacer lo mismo. Les recuerda que Jesús, siendo rico, se hizo pobre por nosotros. Nadie debe dar a la fuerza ni con tristeza, porque «Dios ama el dador alegre»."
+    },
+    {
+      "subtitulo": "Bástate mi gracia",
+      "texto": "Unos maestros que se creen grandes apóstoles desprecian a Pablo. Él cuenta lo que ha sufrido: azotes, cárceles, naufragios, hambre y frío. Tenía además un «aguijón en mi carne», y nadie sabe con certeza qué era. Pidió tres veces que Dios se lo quitara. El Señor le respondió: «Bástate mi gracia». Cuando soy débil, entonces soy fuerte."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús es el «Sí» de Dios: en él se cumplen todas sus promesas. Él no conoció pecado, pero cargó con el nuestro para que seamos justos ante Dios. Siendo rico, se hizo pobre para enriquecernos.",
+    "refs": ["2 Corintios 1:20", "2 Corintios 5:21"]
+  },
+
+  "mundo": "Pablo escribe desde Macedonia, en el norte de Grecia, donde estaban las iglesias de Filipos y Tesalónica. En Roma gobernaba el emperador Nerón, en sus primeros años.",
+
+  "antes": "En su primera carta, Pablo enseñó a los corintios el camino del amor y la esperanza de la resurrección.",
+  "despues": "Desde Corinto, Pablo escribe a Roma y explica la buena noticia para judíos y no judíos.",
+
+  "conexiones": [
+    { "ref": "Ezequiel 36:26", "motivo": "Dios prometió un corazón nuevo; en Cristo somos nueva criatura." },
+    { "ref": "Éxodo 34:33", "motivo": "Moisés cubría con un velo su rostro brillante." },
+    { "ref": "Isaías 40:29", "motivo": "Dios da fuerzas al cansado y al que no tiene ninguna." },
+    { "ref": "1 Pedro 2:24", "motivo": "Jesús llevó nuestros pecados para que vivamos a la justicia." }
+  ],
+
+  "glosario": ["gracia", "reconciliacion", "pacto", "apostol"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, escribe «Bástate mi gracia» en un papel y ponlo donde lo veas cada mañana.",
+    "pregunta": "¿En qué debilidad tuya quiere Dios mostrar su fuerza?"
+  },
+
+  "meditar": "Señor, tú conoces mis debilidades. Que tu gracia me baste cada día. Consuélame, para que yo también sepa consolar a otros. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Por qué Dios guarda un tesoro tan grande en una vasija sencilla de barro?",
+    "actividad": "Decora un frasco sencillo y pon dentro un papel con el nombre de Jesús."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué le respondió el Señor a Pablo cuando pidió que le quitara el aguijón?",
+      "opciones": ["Que esperara un año más", "«Bástate mi gracia»", "Que dejara de predicar"],
+      "correcta": 1,
+      "explicacion": "El Señor le dijo que su poder se muestra en la debilidad (2 Corintios 12:9).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué compara Pablo a los creyentes que llevan la luz de Cristo?",
+      "opciones": ["Con vasos de barro", "Con copas de oro", "Con piedras preciosas"],
+      "correcta": 0,
+      "explicacion": "«Tenemos empero este tesoro en vasos de barro», para que el poder sea de Dios (2 Corintios 4:7).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció el corazón nuevo que Dios daría a su pueblo?",
+      "opciones": ["Jonás", "Amós", "Ezequiel"],
+      "correcta": 2,
+      "explicacion": "Dios prometió: «Y os daré corazón nuevo» (Ezequiel 36:26). En Cristo somos nueva criatura.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Cor.4", "2Cor.5", "2Cor.9", "2Cor.12"], "minutos": 12 },
+
+  "temas": ["gracia", "sufrimiento", "reconciliacion", "esperanza", "generosidad"],
+  "cadenas": ["el-pacto-nuevo", "fuerza-en-la-debilidad"]
+}

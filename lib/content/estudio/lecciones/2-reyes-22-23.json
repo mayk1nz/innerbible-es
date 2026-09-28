@@ -1,0 +1,135 @@
+{
+  "id": "2-reyes-22-23",
+  "orden": 34,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Josías encuentra el libro de la Ley",
+  "pasajes": ["2Kgs.22.1-2Kgs.23.30", "2Chr.34.1-2Chr.35.27"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Josías, rey de Judá desde niño, encuentra en el templo el libro de la Ley olvidado.",
+    "Llora por el pecado de su pueblo, renueva el pacto y celebra una Pascua como ninguna.",
+    "Dios revela que su palabra renueva a su pueblo y que escucha al corazón humilde."
+  ],
+
+  "versiculo": {
+    "texto": "No hubo tal rey antes de él que se convirtiese a Jehová de todo su corazón, y de toda su alma, y de todas su fuerzas, conforme a toda la ley de Moisés; ni después de él nació otro tal.",
+    "referencia": "2 Reyes 23:25",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 640–609 a.C.",
+    "desde": -640,
+    "hasta": -609,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "Jerusalén, en el reino de Judá", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "josias", "nombre": "Josías", "linea": "Rey a los ocho años; halla la Ley y renueva el pacto." },
+    { "id": "manases", "nombre": "Manasés", "linea": "Abuelo de Josías; el mal que sembró todavía pesa sobre Judá." },
+    { "id": "jeremias", "nombre": "Jeremías", "linea": "Joven profeta en tiempos de Josías; compone lamentos por su muerte." },
+    { "id": "moises", "nombre": "Moisés", "linea": "Por él, Dios dio la Ley que Josías vuelve a leer." },
+    { "id": "david", "nombre": "David", "linea": "Josías anda en sus caminos sin desviarse." }
+  ],
+
+  "eventos": [
+    { "texto": "Josías, rey a los ocho años, busca a Dios", "ref": "2 Crónicas 34:1-3" },
+    { "texto": "El sacerdote Hilcías halla el libro de la Ley", "ref": "2 Reyes 22:8-13" },
+    { "texto": "La profetisa Hulda da la respuesta de Dios", "ref": "2 Reyes 22:14-20" },
+    { "texto": "Josías lee el libro y renueva el pacto", "ref": "2 Reyes 23:1-3" },
+    { "texto": "Josías quita los ídolos de Judá y de Betel", "ref": "2 Reyes 23:4-20" },
+    { "texto": "Josías celebra una Pascua como ninguna otra", "ref": "2 Reyes 23:21-23" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un niño en el trono",
+      "texto": "Josías es nieto de Manasés. Llega a ser rey de Judá con solo ocho años. A los dieciséis empieza a buscar al Dios de David. Poco después comienza a limpiar Judá y Jerusalén de ídolos. Asiria ya está perdiendo fuerza, y Judá vive un tiempo de calma."
+    },
+    {
+      "subtitulo": "Un libro olvidado",
+      "texto": "El rey manda reparar el templo. Allí, el sumo sacerdote Hilcías encuentra el libro de la Ley. Safán, el escriba, lo lee ante el rey. Josías rasga sus ropas: su pueblo ha vivido años lejos de esa palabra. Manda preguntar al Señor qué deben hacer."
+    },
+    {
+      "subtitulo": "Un corazón tierno",
+      "texto": "La profetisa Hulda responde de parte de Dios. El mal que anuncia la Ley llegará, porque el pueblo lo dejó por otros dioses. Pero Dios ha visto el corazón de Josías: se humilló y lloró. Por eso Josías no verá esa desgracia en sus días."
+    },
+    {
+      "subtitulo": "Un pacto renovado",
+      "texto": "Josías reúne a todo el pueblo en el templo, del más pequeño al más grande. Lee en voz alta el libro del pacto. De pie junto a la columna, promete seguir a Dios con todo el corazón. Todo el pueblo se une. Luego saca del templo los objetos de Baal y derriba los altares de los ídolos."
+    },
+    {
+      "subtitulo": "Una Pascua sin igual",
+      "texto": "Josías celebra la Pascua como está escrita en el libro. No se celebraba una igual desde los días de los jueces. Años después, el faraón Necao sube hacia el río Éufrates. Josías sale a pelear contra él y muere en Meguido. Todo Judá llora, y Jeremías compone lamentos por él."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Crónicas cuenta que Josías empezó a buscar a Dios a los dieciséis años, antes de hallar el libro." },
+    { "libro": "2Chr", "texto": "Crónicas describe con detalle la gran Pascua, con sacerdotes, levitas y cantores. También dice que Jeremías compuso lamentos por Josías." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Josías renovó el pacto, pero el corazón del pueblo no cambió del todo. Por eso Jeremías, que profetizó en su tiempo, anuncia un pacto nuevo escrito en el corazón. Jesús lo cumple: en la última cena dice que su sangre es la del nuevo pacto.",
+    "refs": ["Lucas 22:20", "Hebreos 8:10"]
+  },
+
+  "mundo": "Asiria pierde fuerza y Babilonia crece. En el 612 a.C. cae Nínive, la capital asiria. Egipto también quiere dominar la región, y Judá queda entre los grandes imperios.",
+
+  "antes": "Nahúm anunció que Nínive, la capital de Asiria, caería por su crueldad.",
+  "despues": "Sofonías, profeta en los días de Josías, anuncia el día del Señor y la alegría de Dios.",
+
+  "conexiones": [
+    { "ref": "1 Reyes 13:2", "motivo": "Unos tres siglos antes, un profeta anunció a Josías por su nombre." },
+    { "ref": "Deuteronomio 6:5", "motivo": "Josías amó a Dios con todo el corazón, como pedía la Ley." },
+    { "ref": "Mateo 22:37", "motivo": "Jesús llama a este amor el primer y gran mandamiento." },
+    { "ref": "Isaías 66:2", "motivo": "Dios mira al humilde que tiembla ante su palabra, como Josías." }
+  ],
+
+  "glosario": ["ley", "pacto", "pascua", "idolo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee en voz alta un capítulo de la Biblia con tu familia, como hizo Josías con su pueblo.",
+    "pregunta": "¿Qué palabra de Dios necesitas volver a escuchar?"
+  },
+
+  "meditar": "Señor, dame un corazón tierno como el de Josías. Que tu palabra no quede olvidada en mi casa. Quiero seguirte con todo el corazón. Amén.",
+
+  "ninos": {
+    "pregunta": "Josías era un niño de ocho años cuando fue rey. ¿Qué harías tú para agradar a Dios?",
+    "actividad": "Busquen juntos la Biblia de la casa, elijan un versículo y pónganlo en un lugar visible."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos años tenía Josías cuando empezó a reinar?",
+      "opciones": ["Dieciocho años", "Ocho años", "Treinta años"],
+      "correcta": 1,
+      "explicacion": "Josías tenía ocho años y reinó treinta y un años en Jerusalén (2 Reyes 22:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué encontró el sumo sacerdote Hilcías al reparar el templo?",
+      "opciones": ["El arca del pacto", "Un tesoro de oro", "El libro de la Ley"],
+      "correcta": 2,
+      "explicacion": "Hilcías halló el libro de la Ley, y Safán lo leyó ante el rey (2 Reyes 22:8-10).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué mandamiento vivió Josías, que Jesús llamó el primero y grande?",
+      "opciones": ["Amar a Dios con todo el corazón", "Guardar el sábado", "Honrar a padre y madre"],
+      "correcta": 0,
+      "explicacion": "Josías se volvió a Dios de todo corazón (2 Reyes 23:25), como enseña Jesús (Mateo 22:37-38).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Kgs.22", "2Kgs.23", "2Chr.34"], "minutos": 22 },
+
+  "temas": ["arrepentimiento", "pacto", "obediencia", "esperanza"],
+  "cadenas": ["el-pacto-nuevo"]
+}

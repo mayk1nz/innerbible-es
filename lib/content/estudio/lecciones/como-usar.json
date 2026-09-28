@@ -1,0 +1,111 @@
+{
+  "id": "como-usar",
+  "orden": 2,
+  "seccion": "introduccion",
+  "formato": "marco",
+  "titulo": "Cómo usar este estudio",
+  "pasajes": ["Ps.119.105-Ps.119.112"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "El salmista dice que la palabra de Dios es lámpara para sus pies y luz para su camino.",
+    "Este estudio te acompaña paso a paso: cada lección tiene un nivel corto y otro completo.",
+    "Dios revela que su palabra alumbra el paso de hoy, aunque todavía no veas todo el camino."
+  ],
+
+  "versiculo": {
+    "texto": "Por heredad he tomado tus testimonios para siempre; porque son el gozo de mi corazón.",
+    "referencia": "Salmos 119:111",
+    "version": "RV1909"
+  },
+
+  "fecha": null,
+
+  "lugar": { "nombre": "Donde abras tu Biblia", "mapa": "introduccion" },
+
+  "personajes": [],
+  "eventos": [],
+
+  "resumen": [
+    {
+      "subtitulo": "Una lámpara para el camino",
+      "texto": "El Salmo 119 es el más largo de la Biblia, y todo él habla de la palabra de Dios. Aquí el salmista dice: «Lámpara es a mis pies tu palabra». Sufre y le ponen trampas, pero no se aparta de los mandamientos. Una lámpara no alumbra todo el camino. Alumbra el próximo paso, y eso basta."
+    },
+    {
+      "subtitulo": "Dos maneras de leer",
+      "texto": "Cada lección tiene dos niveles. “En 1 minuto” te da tres frases, un versículo clave, lo que vino antes y lo que viene. “Estudio completo” cuenta la historia con calma. Trae personajes, hechos en orden, conexiones con otros libros y una oración. Tú eliges el nivel según tu tiempo."
+    },
+    {
+      "subtitulo": "Jesús en cada parte",
+      "texto": "En cada lección hay un apartado especial: “Jesús en esta parte de la historia”. Allí verás promesas, imágenes y cumplimientos que apuntan a él. También hay un dato de lo que pasaba en el mundo. Y el botón “Sigue el hilo” abre tu Guía de Estudio con los pasajes conectados, en orden."
+    },
+    {
+      "subtitulo": "Para toda la familia",
+      "texto": "Al final de cada lección hay una pregunta y una actividad para los niños. También hay tres preguntas de repaso, fáciles de responder si leíste la lección. Pueden hacerlas juntos en la mesa. Las palabras difíciles tienen su explicación: tócalas y verás qué significan."
+    },
+    {
+      "subtitulo": "Paso a paso, con gozo",
+      "texto": "El estudio no reemplaza a la Biblia: te lleva a ella. Cada lección te dice qué capítulos leer y cuántos minutos toman. No hace falta correr. El salmista llama a la palabra de Dios su heredad y «el gozo de mi corazón». Pide a Dios ese gozo, un paso cada día."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús es la luz que este salmo desea. Él dijo: «Yo soy la luz del mundo». Quien lo sigue no anda en tinieblas. Por eso leemos toda la Biblia buscándolo a él, paso a paso.",
+    "refs": ["Juan 8:12", "2 Pedro 1:19"]
+  },
+
+  "mundo": "En tiempos antiguos, casi nadie tenía una Biblia en casa. Las Escrituras se copiaban a mano en rollos y se leían en voz alta. Hoy puedes llevarlas contigo a todas partes.",
+
+  "antes": "Conociste a los discípulos de Emaús: Jesús les abrió las Escrituras mientras caminaban.",
+  "despues": "Verás el mapa completo: toda la historia de la Biblia en once grandes eras.",
+
+  "conexiones": [
+    { "ref": "Proverbios 6:23", "motivo": "El mandamiento es antorcha, y la enseñanza de Dios es luz." },
+    { "ref": "2 Pedro 1:19", "motivo": "La palabra de los profetas alumbra como antorcha en lugar oscuro." },
+    { "ref": "Salmos 19:8", "motivo": "Lo que Dios manda alegra el corazón y alumbra los ojos." },
+    { "ref": "Jeremías 15:16", "motivo": "Jeremías encuentra en la palabra de Dios gozo y alegría." }
+  ],
+
+  "glosario": ["salmo", "heredad", "mandamiento"],
+
+  "paraTuVida": {
+    "aplicacion": "Elige un momento fijo del día para tu lección, aunque solo leas el nivel de un minuto.",
+    "pregunta": "¿Qué paso de tu vida necesita hoy la luz de la palabra de Dios?"
+  },
+
+  "meditar": "Señor, tu palabra es lámpara para mis pies. Alumbra mi próximo paso y dame gozo al leerla cada día. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Para qué sirve una lámpara cuando todo está oscuro?",
+    "actividad": "Apaguen la luz y caminen con una linterna. Hablen de cómo la Biblia nos guía."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué dice el salmista que es la palabra de Dios para sus pies?",
+      "opciones": ["Una lámpara", "Un escudo", "Una roca"],
+      "correcta": 0,
+      "explicacion": "«Lámpara es a mis pies tu palabra, y lumbrera a mi camino» (Salmos 119:105).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué nivel de la lección te da tres frases y un versículo clave?",
+      "opciones": ["Estudio completo", "En 1 minuto", "Repaso final"],
+      "correcta": 1,
+      "explicacion": "“En 1 minuto” resume lo esencial; “Estudio completo” cuenta la historia con calma.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién dijo: «Yo soy la luz del mundo»?",
+      "opciones": ["El rey David", "El profeta Isaías", "Jesús"],
+      "correcta": 2,
+      "explicacion": "Lo dijo Jesús: quien lo sigue tendrá la luz de la vida (Juan 8:12).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Ps.119"], "minutos": 17 },
+
+  "temas": ["sabiduria", "oracion", "esperanza", "palabra-de-dios"],
+  "cadenas": ["la-palabra-de-dios"]
+}

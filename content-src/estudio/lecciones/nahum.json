@@ -1,0 +1,128 @@
+{
+  "id": "nahum",
+  "orden": 33,
+  "seccion": "reino-dividido",
+  "formato": "breve",
+  "titulo": "Nahúm: el fin de Nínive",
+  "pasajes": ["Nah.1.1-Nah.3.19"],
+  "libros": ["Nah"],
+
+  "enUnMinuto": [
+    "Nahúm anuncia que Nínive, la cruel capital de Asiria, va a caer.",
+    "Más de cien años antes, Nínive se arrepintió con Jonás, pero después volvió a oprimir a los pueblos.",
+    "Dios revela que es lento para la ira, defiende a los que sufren y es refugio para quien confía."
+  ],
+
+  "versiculo": {
+    "texto": "Bueno es Jehová para fortaleza en el día de la angustia; y conoce a los que en él confían.",
+    "referencia": "Nahúm 1:7",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 660–612 a.C.",
+    "desde": -660,
+    "hasta": -612,
+    "certeza": "aprox",
+    "nota": "Nínive cayó en el año 612 a.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 660–612 a.C.",
+    "desde": -660,
+    "hasta": -612,
+    "certeza": "aprox",
+    "nota": "Nínive cayó en el año 612 a.C."
+  },
+
+  "autor": { "texto": "El profeta Nahúm, de Elcos (Nahúm 1:1)." },
+
+  "lugar": { "nombre": "Judá y Nínive, capital de Asiria", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "nahum", "nombre": "Nahúm", "linea": "Profeta de Elcos; anuncia la caída de Nínive y consuela a Judá." },
+    { "id": "jonas", "nombre": "Jonás", "linea": "Años antes, predicó en Nínive y la ciudad se arrepintió." },
+    { "id": "senaquerib", "nombre": "Senaquerib", "linea": "Rey asirio que atacó Judá; Nínive era su capital." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios es lento para la ira y refugio seguro", "ref": "Nahúm 1:2-8" },
+    { "texto": "Dios promete romper el yugo que oprime a Judá", "ref": "Nahúm 1:12-15" },
+    { "texto": "Nahúm describe el ataque contra Nínive", "ref": "Nahúm 2:1-13" },
+    { "texto": "¡Ay de la ciudad llena de sangre y mentira!", "ref": "Nahúm 3:1-19" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Nínive, otra vez",
+      "texto": "Más de cien años antes, Jonás predicó en Nínive. La ciudad se arrepintió y Dios tuvo compasión. Pero con el tiempo, Asiria volvió a la violencia. Destruyó Samaria, atacó Judá y llenó de miedo a los pueblos. Ahora Dios envía a Nahúm con un mensaje sobre Nínive, la capital asiria."
+    },
+    {
+      "subtitulo": "Lento para la ira",
+      "texto": "Nahúm dice que Dios es lento para la ira, pero no deja el mal sin castigo. Para Judá, que sufre bajo Asiria, hay consuelo. Dios es bueno, un refugio en el día de la angustia. Promete romper el yugo que aplasta a su pueblo."
+    },
+    {
+      "subtitulo": "Buenas noticias en los montes",
+      "texto": "Nahúm ve a un mensajero que llega por los montes con buenas noticias de paz. Nínive, la ciudad llena de sangre y mentira, caerá. Ni sus carros ni sus muros la salvarán. Así pasó en el año 612 a.C. Para los pueblos que sufrían, fue el fin de una larga opresión."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Nahúm ve «los pies del que trae buenas nuevas, del que pregona la paz». Pablo usa esta imagen para los que anuncian el evangelio. La mejor noticia es Jesús: él vino y anunció la paz a los de cerca y a los de lejos.",
+    "refs": ["Romanos 10:15", "Efesios 2:17"]
+  },
+
+  "mundo": "En el año 663 a.C., Asiria conquistó Tebas, la gran ciudad de Egipto. Nahúm la llama No-amón. En el 612 a.C., babilonios y medos destruyeron Nínive.",
+
+  "antes": "Ezequías confió en Dios frente a Asiria; su hijo Manasés se alejó, pero al final volvió.",
+  "despues": "El joven rey Josías encuentra el libro de la Ley y renueva el pacto con Dios.",
+
+  "conexiones": [
+    { "ref": "Jonás 4:2", "motivo": "Jonás ya sabía que Dios es lento para enojarse y rico en misericordia." },
+    { "ref": "Romanos 10:15", "motivo": "Pablo usa los pies del mensajero para hablar del evangelio." },
+    { "ref": "Juan 10:14", "motivo": "Jesús, el buen pastor, conoce a los suyos, como dice Nahúm." }
+  ],
+
+  "glosario": ["asiria", "yugo", "profeta"],
+
+  "paraTuVida": {
+    "aplicacion": "Si algo te aplasta, lee Nahúm 1:7 en voz alta cada mañana de esta semana.",
+    "pregunta": "¿En qué angustia de hoy puedes buscar a Dios como tu refugio?"
+  },
+
+  "meditar": "Señor, tú eres bueno y fuerte en el día de la angustia. Mira a los que sufren injusticia y rompe sus cadenas. Amén.",
+
+  "ninos": {
+    "pregunta": "Nínive escuchó a Jonás, pero después volvió a hacer daño. ¿Por qué es bueno seguir haciendo el bien?",
+    "actividad": "Construye un refugio con cojines y mantas, y lean allí juntos Nahúm 1:7."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué ciudad anunció Nahúm que iba a caer?",
+      "opciones": ["Jerusalén", "Nínive", "Babilonia"],
+      "correcta": 1,
+      "explicacion": "Nínive era la capital de Asiria, el imperio que oprimía a Judá (Nahúm 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué profeta había predicado en Nínive más de cien años antes?",
+      "opciones": ["Jonás", "Elías", "Isaías"],
+      "correcta": 0,
+      "explicacion": "Jonás predicó en Nínive y la ciudad se arrepintió (Jonás 3:10).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién usa la imagen de los pies del que trae buenas nuevas?",
+      "opciones": ["Pedro, en Hechos", "Juan, en Apocalipsis", "Pablo, en Romanos"],
+      "correcta": 2,
+      "explicacion": "Pablo la usa en Romanos 10:15 para hablar de los que anuncian el evangelio.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Nah.1", "Nah.2", "Nah.3"], "minutos": 6 },
+
+  "temas": ["justicia", "esperanza", "providencia"],
+  "cadenas": ["las-buenas-nuevas"]
+}

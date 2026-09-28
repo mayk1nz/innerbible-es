@@ -1,0 +1,135 @@
+{
+  "id": "oseas",
+  "orden": 28,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Oseas: un amor que no se rinde",
+  "pasajes": ["Hos.1.1-Hos.14.9"],
+  "libros": ["Hos"],
+
+  "enUnMinuto": [
+    "Dios pide a Oseas que ame a una esposa infiel, como Dios ama a su pueblo.",
+    "Israel, el reino del norte, corre tras Baal, pero Dios lo llama a volver una y otra vez.",
+    "Dios revela un amor fiel que no se rinde y que sana al que vuelve."
+  ],
+
+  "versiculo": {
+    "texto": "Yo medicinaré su rebelión, amarélos de voluntad: porque mi furor se apartó de ellos.",
+    "referencia": "Oseas 14:4",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 755–715 a.C.", "desde": -755, "hasta": -715, "certeza": "aprox" },
+  "fechaEscrito": {
+    "texto": "c. 755–715 a.C.",
+    "desde": -755,
+    "hasta": -715,
+    "certeza": "aprox",
+    "nota": "Oseas profetiza desde Jeroboam II, rey de Israel, hasta Ezequías, rey de Judá (Oseas 1:1)."
+  },
+  "autor": { "texto": "Oseas, hijo de Beerí (Oseas 1:1)." },
+
+  "lugar": { "nombre": "Israel, el reino del norte", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "oseas", "nombre": "Oseas", "linea": "Profeta del norte; su matrimonio muestra el amor fiel de Dios." },
+    { "id": "jehu", "nombre": "Jehú", "linea": "Rey del norte; el nombre Jezreel recuerda la sangre que derramó." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá; Oseas profetiza hasta sus días." }
+  ],
+
+  "eventos": [
+    { "texto": "Oseas se casa con Gomer y tienen tres hijos", "ref": "Oseas 1:2-9" },
+    { "texto": "Dios promete hablar al corazón de su pueblo", "ref": "Oseas 2:14-23" },
+    { "texto": "Oseas rescata a su esposa por amor", "ref": "Oseas 3:1-5" },
+    { "texto": "Dios quiere misericordia más que sacrificios", "ref": "Oseas 6:1-6" },
+    { "texto": "Dios no puede abandonar a su hijo", "ref": "Oseas 11:1-9" },
+    { "texto": "Israel vuelve, y Dios lo sana", "ref": "Oseas 14:1-9" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un matrimonio que habla",
+      "texto": "Oseas profetiza en Israel, el reino del norte, en sus últimos años. Dios le pide casarse con Gomer. Ella le será infiel. Así Dios muestra lo que vive con su pueblo, que lo deja para seguir a Baal. Unos leen este matrimonio como un hecho de su vida; otros, como una parábola."
+    },
+    {
+      "subtitulo": "Nombres que duelen",
+      "texto": "Oseas y Gomer tienen tres hijos. Dios les da nombres que son mensajes. Jezreel recuerda la violencia de la casa de Jehú. Lo-ruhama anuncia que Dios ya no tendrá compasión. Lo-ammi, que ya no son su pueblo. Pero enseguida Dios promete: un día les dirá «Sois hijos del Dios viviente»."
+    },
+    {
+      "subtitulo": "Hablaré a su corazón",
+      "texto": "Israel cree que Baal le da el trigo, el vino y el aceite. Olvida que todo viene del Señor. Esa idolatría es como una infidelidad. Dios lo dejará sin nada, pero para recuperarlo: «la llevaré al desierto, y hablaré a su corazón». Allí promete un pacto para siempre, en justicia y misericordia."
+    },
+    {
+      "subtitulo": "Amar otra vez",
+      "texto": "Después, Dios le dice a Oseas: «Ve, ama una mujer», aunque haya sido infiel. Muchos entienden que es Gomer. Oseas paga un precio por ella y la lleva a su casa. Le pide fidelidad y espera. Así esperará Israel muchos días, hasta volver a buscar al Señor."
+    },
+    {
+      "subtitulo": "Misericordia quiero",
+      "texto": "Pero Israel sigue igual. Hace reyes sin consultar a Dios. Busca ayuda en Egipto y en Asiria. Su amor se evapora como el rocío de la mañana. Dios dice: «misericordia quise, y no sacrificio». Quien siembra viento, cosechará tempestad."
+    },
+    {
+      "subtitulo": "Amor que no se rinde",
+      "texto": "Aun así, Dios no puede soltar a su pueblo. Lo amó desde niño y le enseñó a caminar, tomándolo de los brazos. «Mi corazón se revuelve dentro de mí», dice. El libro termina con una invitación: vuelve, Israel. Dios promete sanar su rebelión y hacerlo florecer como un lirio."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Mateo ve a Jesús en Oseas 11:1: «De Egipto llamé a mi hijo». Jesús repite Oseas 6:6 cuando come con pecadores: «Misericordia quiero, y no sacrificio». Y Pedro aplica Oseas a la Iglesia: los que no eran pueblo, ahora son pueblo de Dios.",
+    "refs": ["Mateo 9:13", "1 Pedro 2:10"]
+  },
+
+  "mundo": "Desde 745 a.C., Asiria vuelve a ser fuerte con el rey Tiglat-pileser III. Sus ejércitos cobran tributo a los pequeños reinos. Oseas avisa que buscar ayuda en Asiria no salvará a Israel.",
+
+  "antes": "Amós, pastor de Judá, pidió justicia para los pobres del reino del norte.",
+  "despues": "Los reyes del norte caen uno tras otro, y Asiria conquista Samaria en 722 a.C.",
+
+  "conexiones": [
+    { "ref": "Mateo 9:13", "motivo": "Jesús cita a Oseas: Dios quiere misericordia más que sacrificios." },
+    { "ref": "Romanos 9:25", "motivo": "Pablo: Dios llama pueblo suyo al que no lo era." },
+    { "ref": "1 Pedro 2:10", "motivo": "Los que no eran pueblo, ahora han alcanzado misericordia." },
+    { "ref": "Mateo 2:15", "motivo": "«De Egipto llamé a mi Hijo» se cumple en el niño Jesús." }
+  ],
+
+  "glosario": ["profeta", "pacto", "misericordia", "idolatria"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee despacio Oseas 11:1-4 y pon tu nombre donde dice «Israel».",
+    "pregunta": "¿Qué te aleja hoy de Dios, y qué te diría él si volvieras?"
+  },
+
+  "meditar": "Señor, tantas veces me alejo de ti, y tú me buscas. Gracias por tu amor que no se rinde. Sana mi corazón y hazme florecer. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios enseñó a caminar a su pueblo, como un papá a su hijo. ¿Quién te enseñó a ti?",
+    "actividad": "Miren juntos fotos de cuando eras bebé y den gracias a Dios por su cuidado."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaba la esposa de Oseas?",
+      "opciones": ["Gomer", "Rut", "Débora"],
+      "correcta": 0,
+      "explicacion": "Oseas se casó con Gomer, hija de Diblaim (Oseas 1:3).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Oseas 6:6, ¿qué prefiere Dios?",
+      "opciones": ["Muchos sacrificios de animales", "Misericordia y conocer a Dios", "Templos grandes y hermosos"],
+      "correcta": 1,
+      "explicacion": "Dios dice: «misericordia quise, y no sacrificio; y conocimiento de Dios más que holocaustos».",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué palabras de Oseas repite Jesús cuando come con pecadores?",
+      "opciones": ["«Venid a mí todos»", "«Yo soy el pan de vida»", "«Misericordia quiero, y no sacrificio»"],
+      "correcta": 2,
+      "explicacion": "Jesús invita a aprender qué significa esa frase de Oseas 6:6 (Mateo 9:13).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Hos.1", "Hos.2", "Hos.3", "Hos.6", "Hos.11", "Hos.14"], "minutos": 12 },
+
+  "temas": ["amor-de-dios", "misericordia", "arrepentimiento", "pacto", "perdon"],
+  "cadenas": ["el-esposo"]
+}

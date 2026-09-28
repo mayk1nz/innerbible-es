@@ -1,0 +1,133 @@
+{
+  "id": "2-reyes-15-17",
+  "orden": 29,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Cae Samaria, el reino del norte",
+  "pasajes": ["2Kgs.15.1-2Kgs.17.41", "2Chr.26.1-2Chr.28.27"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "En el norte, los reyes caen uno tras otro, y Asiria conquista Samaria en 722 a.C.",
+    "En el sur, Uzías se llena de orgullo y Acaz busca ayuda en Asiria en vez de en Dios.",
+    "Dios revela su paciencia: avisó muchas veces por sus profetas antes de permitir la caída."
+  ],
+
+  "versiculo": {
+    "texto": "Mas temed a Jehová vuestro Dios, y él os librará de mano de todos vuestros enemigos.",
+    "referencia": "2 Reyes 17:39",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 750–722 a.C.", "desde": -750, "hasta": -722, "certeza": "aprox" },
+
+  "lugar": { "nombre": "Samaria (norte) y Jerusalén (sur)", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "jeroboam", "nombre": "Jeroboam", "linea": "Primer rey del norte; su pecado marca a Israel hasta el final." },
+    { "id": "jehu", "nombre": "Jehú", "linea": "Rey del norte; su familia reina cuatro generaciones, como Dios dijo." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Solo sus hijos, los sacerdotes, podían quemar incienso en el templo." },
+    { "id": "isaias", "nombre": "Isaías", "linea": "Profeta de Jerusalén; escribió la historia del rey Uzías." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Hijo de Acaz; recibe el trono de Judá al final." }
+  ],
+
+  "eventos": [
+    { "texto": "Uzías se enorgullece y queda leproso", "ref": "2 Crónicas 26:16-21" },
+    { "texto": "Los reyes de Israel caen en conjuras", "ref": "2 Reyes 15:8-31" },
+    { "texto": "Acaz pide ayuda al rey de Asiria", "ref": "2 Reyes 16:5-9" },
+    { "texto": "El profeta Obed hace liberar a los cautivos de Judá", "ref": "2 Crónicas 28:9-15" },
+    { "texto": "Asiria toma Samaria y se lleva a Israel", "ref": "2 Reyes 17:5-6" },
+    { "texto": "La Biblia explica por qué cayó el norte", "ref": "2 Reyes 17:7-23" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Uzías, rey del sur",
+      "texto": "En Judá, el reino del sur, reina Uzías, también llamado Azarías. Busca a Dios, y Dios lo prospera: levanta torres, abre pozos y ama el campo. Pero cuando se hace fuerte, se llena de orgullo. Entra en el templo a quemar incienso, algo que solo hacían los sacerdotes. Allí mismo le brota la lepra."
+    },
+    {
+      "subtitulo": "El norte: reyes que caen",
+      "texto": "Mientras tanto, en Israel, el reino del norte, todo se derrumba. Termina la familia de Jehú, como Dios había dicho. Cuatro de sus reyes mueren asesinados por el que toma su lugar. Manahem paga mil talentos de plata al rey de Asiria para seguir en el trono."
+    },
+    {
+      "subtitulo": "Asiria se acerca",
+      "texto": "Asiria es cada vez más fuerte. Su rey Tiglat-pileser toma Galilea y otras tierras del norte, y se lleva a mucha gente cautiva. Israel pierde una ciudad tras otra. Los profetas Amós y Oseas ya lo habían avisado: sin volver a Dios, no hay salida."
+    },
+    {
+      "subtitulo": "Acaz confía en Asiria",
+      "texto": "En Judá reina ahora Acaz, nieto de Uzías. No sigue a Dios como David. Cuando Siria e Israel lo atacan juntos, no busca al Señor. Toma el oro del templo y lo envía al rey de Asiria para pedirle ayuda. Hasta copia un altar que vio en Damasco."
+    },
+    {
+      "subtitulo": "Cae Samaria",
+      "texto": "En el norte reina Oseas, un rey que se llama igual que el profeta. Deja de pagar tributo a Asiria y busca ayuda en Egipto. Salmanasar, rey de Asiria, lo apresa. El ejército asirio rodea Samaria durante tres años, y en 722 a.C. la ciudad cae. Los israelitas son llevados lejos, a Asiria y a Media."
+    },
+    {
+      "subtitulo": "¿Por qué cayó?",
+      "texto": "La Biblia explica la razón. Dios había avisado muchas veces por sus profetas: «Volveos de vuestros malos caminos». Pero el pueblo endureció su corazón y siguió en la idolatría. Asiria trae a Samaria gente de otras naciones. Mezclan el culto al Señor con sus propios dioses. Con el tiempo, esa región será la tierra de los samaritanos."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Solo Crónicas cuenta por qué Uzías quedó leproso. Y narra un gesto de bondad: el profeta Obed convence a Israel de liberar a los cautivos de Judá." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Cuando Siria e Israel atacan a Acaz, Isaías le da una señal: una virgen dará a luz a Emanuel. Mateo ve esa señal cumplida en Jesús, «Con nosotros Dios». Y en Samaria, la tierra que cayó, Jesús ofrecerá agua viva a una samaritana junto a un pozo.",
+    "refs": ["Mateo 1:23", "Juan 4:9-10"]
+  },
+
+  "mundo": "Sargón II, rey de Asiria desde 722 a.C., escribió en su palacio que conquistó Samaria. Dice que se llevó de allí a más de veintisiete mil personas.",
+
+  "antes": "Oseas, profeta del norte, llamó a Israel a volver al amor fiel de Dios.",
+  "despues": "En Judá, Isaías anuncia al Santo de Israel y a un niño llamado Emanuel.",
+
+  "conexiones": [
+    { "ref": "Isaías 7:1", "motivo": "Isaías habla a Acaz cuando Siria e Israel atacan Jerusalén." },
+    { "ref": "Proverbios 16:18", "motivo": "Como Uzías: el orgullo va delante de la caída." },
+    { "ref": "Hebreos 5:4", "motivo": "Nadie toma para sí la honra del sacerdocio, como quiso Uzías." },
+    { "ref": "Mateo 6:24", "motivo": "Samaria quiso servir a Dios y a otros dioses: nadie puede servir a dos señores." }
+  ],
+
+  "glosario": ["asiria", "samaritano", "lepra", "idolatria"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de buscar soluciones por tu cuenta, dedica un momento a pedir a Dios su ayuda.",
+    "pregunta": "¿En quién o en qué confías más que en Dios cuando tienes miedo?"
+  },
+
+  "meditar": "Señor, líbrame del orgullo de Uzías y del miedo de Acaz. Cuando me avises, dame un corazón que escuche y vuelva a ti. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios avisó muchas veces a su pueblo. ¿Por qué crees que no quisieron escuchar?",
+    "actividad": "Jueguen a las estatuas: uno da avisos y los demás obedecen enseguida."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué imperio conquistó Samaria en 722 a.C.?",
+      "opciones": ["Egipto", "Asiria", "Babilonia"],
+      "correcta": 1,
+      "explicacion": "El rey de Asiria rodeó Samaria tres años y se llevó a Israel (2 Reyes 17:5-6).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Crónicas, ¿por qué quedó leproso el rey Uzías?",
+      "opciones": ["Por quemar incienso, tarea de sacerdotes", "Por llevarse el oro del templo", "Por pelear contra los filisteos"],
+      "correcta": 0,
+      "explicacion": "Se llenó de orgullo y quiso hacer lo que solo hacían los sacerdotes (2 Crónicas 26:16-19).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué señal dio Isaías a Acaz, que Mateo ve cumplida en Jesús?",
+      "opciones": ["Un arco iris en el cielo", "Fuego sobre el altar", "Un niño llamado Emanuel"],
+      "correcta": 2,
+      "explicacion": "Emanuel significa «Con nosotros Dios». Mateo lo aplica al nacimiento de Jesús (Mateo 1:23).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Kgs.15", "2Kgs.16", "2Kgs.17", "2Chr.26", "2Chr.28"], "minutos": 30 },
+
+  "temas": ["idolatria", "arrepentimiento", "orgullo", "profecia-cumplida", "esperanza"],
+  "cadenas": ["emanuel"]
+}

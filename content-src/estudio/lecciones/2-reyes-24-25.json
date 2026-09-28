@@ -1,0 +1,136 @@
+{
+  "id": "2-reyes-24-25",
+  "orden": 38,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Cae Jerusalén y el pueblo va cautivo",
+  "pasajes": ["2Kgs.23.31-2Kgs.25.30", "2Chr.36.1-2Chr.36.21"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Después de Josías, los últimos reyes de Judá se alejan de Dios, y Babilonia domina el reino.",
+    "En el 586 a.C., Nabucodonosor destruye Jerusalén y el templo, y lleva cautivo al pueblo.",
+    "Dios revela que avisó muchas veces por misericordia y que, aun en el exilio, guarda la familia de David."
+  ],
+
+  "versiculo": {
+    "texto": "Y Jehová el Dios de sus padres envió a ellos por mano de sus mensajeros, levantándose de mañana y enviando: porque él tenía misericordia de su pueblo, y de su habitación.",
+    "referencia": "2 Crónicas 36:15",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "609–586 a.C.",
+    "desde": -609,
+    "hasta": -586,
+    "certeza": "aprox",
+    "nota": "Babilonia llevó cautivos en tres grupos: 605, 597 y 586 a.C."
+  },
+
+  "lugar": { "nombre": "Jerusalén y Babilonia", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Rey de Babilonia; destruye Jerusalén y lleva cautivo al pueblo." },
+    { "id": "jeremias", "nombre": "Jeremías", "linea": "Profeta que avisa al rey Sedequías, pero nadie lo escucha." },
+    { "id": "josias", "nombre": "Josías", "linea": "Sus hijos y su nieto son los últimos reyes de Judá." },
+    { "id": "manases", "nombre": "Manasés", "linea": "El mal que hizo todavía pesa sobre Judá (2 Reyes 24:3)." },
+    { "id": "salomon", "nombre": "Salomón", "linea": "Construyó el templo que ahora queman los babilonios." }
+  ],
+
+  "eventos": [
+    { "texto": "El faraón Necao pone a Joacim como rey", "ref": "2 Reyes 23:31-37" },
+    { "texto": "Nabucodonosor se lleva a Joaquín y a miles de cautivos", "ref": "2 Reyes 24:10-16" },
+    { "texto": "Sedequías se rebela y Babilonia rodea Jerusalén", "ref": "2 Reyes 24:17-25:3" },
+    { "texto": "Los babilonios queman el templo y derriban los muros", "ref": "2 Reyes 25:8-12" },
+    { "texto": "Dios envió mensajeros porque tenía misericordia", "ref": "2 Crónicas 36:15-16" },
+    { "texto": "El rey de Babilonia saca a Joaquín de la cárcel", "ref": "2 Reyes 25:27-30" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Entre dos imperios",
+      "texto": "Josías muere en batalla, y Judá queda entre Egipto y Babilonia. El faraón Necao se lleva preso a Joacaz, hijo de Josías. Pone como rey a su hermano Joacim. Pero pronto llega Nabucodonosor, rey de Babilonia. Joacim le sirve tres años y luego se rebela."
+    },
+    {
+      "subtitulo": "Los primeros cautivos",
+      "texto": "Joacim muere, y su hijo Joaquín reina solo tres meses. El ejército babilonio rodea Jerusalén. Joaquín se rinde, y Nabucodonosor se lo lleva a Babilonia con miles de cautivos: príncipes, soldados y artesanos. También se lleva los tesoros del templo. Deja como rey a Sedequías, tío de Joaquín."
+    },
+    {
+      "subtitulo": "Avisos que nadie escucha",
+      "texto": "Sedequías no escucha a Jeremías. Crónicas dice que Dios enviaba a sus mensajeros una y otra vez, porque tenía misericordia de su pueblo. Pero se burlaban de ellos. Sedequías se rebela contra Babilonia, y Nabucodonosor vuelve a rodear Jerusalén. El cerco dura año y medio, y llega el hambre."
+    },
+    {
+      "subtitulo": "Jerusalén cae",
+      "texto": "En el año 586 a.C., los babilonios abren una brecha en el muro. Sedequías huye de noche, pero lo atrapan cerca de Jericó. Los soldados queman el templo que construyó Salomón, el palacio y las casas. Derriban los muros. Casi todo el pueblo va cautivo; quedan algunos pobres para cultivar la tierra."
+    },
+    {
+      "subtitulo": "Una luz en la cárcel",
+      "texto": "Babilonia pone a Gedalías como gobernador, pero unos rebeldes lo matan, y muchos huyen a Egipto. Aun así, el libro de Reyes no termina en tinieblas. Muchos años después, el rey de Babilonia saca a Joaquín de la cárcel. Le da un lugar en su mesa. La familia de David sigue viva."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Crónicas explica el porqué: Dios envió profetas una y otra vez por misericordia. Termina diciendo que la tierra descansó setenta años, como anunció Jeremías." },
+    { "libro": "Jer", "texto": "Jeremías 39 y 52 cuentan la misma caída. Añaden que Nabucodonosor mandó cuidar a Jeremías." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Mateo divide en tres partes la familia de Jesús, y una termina en el cautiverio de Babilonia. Allí nombra a Jeconías, que es Joaquín. La familia de David parecía acabada, pero Dios no olvidó su promesa. De ella nació Jesús, el Rey cuyo reino no tendrá fin.",
+    "refs": ["Mateo 1:11-12", "Lucas 1:32-33"]
+  },
+
+  "mundo": "Babilonia es la ciudad más grande de su tiempo. Nabucodonosor la llena de palacios, murallas y templos. La famosa puerta de Istar, decorada con toros y dragones, es de su reinado.",
+
+  "antes": "Habacuc preguntó a Dios por la violencia y aprendió que el justo vive por la fe.",
+  "despues": "Lamentaciones llora por Jerusalén destruida, pero recuerda que la misericordia de Dios es nueva cada mañana.",
+
+  "conexiones": [
+    { "ref": "Jeremías 29:10", "motivo": "Dios promete traer de vuelta a su pueblo después de setenta años." },
+    { "ref": "Daniel 1:1", "motivo": "Daniel está entre los primeros jóvenes llevados a Babilonia." },
+    { "ref": "Lucas 19:41-44", "motivo": "Siglos después, Jesús llora sobre Jerusalén." },
+    { "ref": "Esdras 1:1", "motivo": "El rey Ciro de Persia deja volver a los cautivos." }
+  ],
+
+  "glosario": ["exilio", "babilonia", "templo", "profeta"],
+
+  "paraTuVida": {
+    "aplicacion": "Piensa en un aviso de Dios que has dejado para después, y da hoy un pequeño paso de respuesta.",
+    "pregunta": "¿Dónde ves que Dios sigue cuidándote en tiempos de pérdida?"
+  },
+
+  "meditar": "Señor, gracias porque me avisas con paciencia y misericordia. Cuando pierda cosas que amo, recuérdame que tú no olvidas tus promesas. Amén.",
+
+  "ninos": {
+    "pregunta": "El rey Joaquín pasó muchos años en la cárcel, y un día lo liberaron. ¿Cómo crees que se sintió?",
+    "actividad": "Dibuja la puerta de una cárcel abierta y escribe: Dios no olvida sus promesas."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué rey de Babilonia conquistó Jerusalén?",
+      "opciones": ["Ciro", "Senaquerib", "Nabucodonosor"],
+      "correcta": 2,
+      "explicacion": "Nabucodonosor rodeó Jerusalén y la tomó en el año 586 a.C. (2 Reyes 25:1-10).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué hizo el rey de Babilonia con Joaquín al final de 2 Reyes?",
+      "opciones": ["Lo sacó de la cárcel", "Lo devolvió a Jerusalén", "Lo mandó a Egipto"],
+      "correcta": 0,
+      "explicacion": "Lo sacó de la cárcel y le dio un lugar en su mesa (2 Reyes 25:27-30).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Cuántos años anunció Jeremías que duraría el cautiverio en Babilonia?",
+      "opciones": ["Cuarenta años", "Setenta años", "Cien años"],
+      "correcta": 1,
+      "explicacion": "Crónicas recuerda la palabra de Jeremías: setenta años (2 Crónicas 36:21; Jeremías 29:10).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Kgs.24", "2Kgs.25", "2Chr.36"], "minutos": 15 },
+
+  "temas": ["sufrimiento", "misericordia", "esperanza", "promesa"],
+  "cadenas": ["el-rey-de-david"]
+}

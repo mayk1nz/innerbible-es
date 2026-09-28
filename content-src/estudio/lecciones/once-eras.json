@@ -1,0 +1,122 @@
+{
+  "id": "once-eras",
+  "orden": 3,
+  "seccion": "introduccion",
+  "formato": "marco",
+  "titulo": "La gran historia en once eras",
+  "pasajes": ["Acts.7.1-Acts.7.53"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Esteban, acusado ante el concilio, cuenta la historia de su pueblo desde Abraham hasta Salomón.",
+    "Este estudio recorre toda la Biblia en once eras, desde la creación hasta la Iglesia.",
+    "Dios revela que guía la historia paso a paso y que toda ella conduce a Jesús."
+  ],
+
+  "versiculo": {
+    "texto": "Este es el Moisés, el cual dijo a los hijos de Israel: Profeta os levantará el Señor Dios vuestro de vuestros hermanos, como yo; a él oiréis.",
+    "referencia": "Hechos 7:37",
+    "version": "RV1909"
+  },
+
+  "fecha": null,
+
+  "lugar": { "nombre": "Jerusalén, ante el concilio", "mapa": "iglesia" },
+
+  "personajes": [],
+
+  "eventos": [
+    { "texto": "Dios llama a Abraham en Mesopotamia", "ref": "Hechos 7:2-8" },
+    { "texto": "Dios está con José en Egipto", "ref": "Hechos 7:9-16" },
+    { "texto": "Dios envía a Moisés desde la zarza", "ref": "Hechos 7:30-36" },
+    { "texto": "Moisés anuncia un profeta como él", "ref": "Hechos 7:37-38" },
+    { "texto": "David y Salomón quieren una casa para Dios", "ref": "Hechos 7:44-50" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Esteban cuenta la historia",
+      "texto": "Esteban sirve en la primera iglesia de Jerusalén. Lo llevan ante el concilio, el Sanedrín, y el sumo sacerdote le pregunta si las acusaciones son verdad. Esteban responde contando la historia de su pueblo. Empieza con Abraham y llega hasta Salomón. Muestra que Dios guió cada paso."
+    },
+    {
+      "subtitulo": "Comienzos y patriarcas",
+      "texto": "Nosotros haremos lo mismo con toda la Biblia, en once eras. Primera, los comienzos: Dios crea todo bueno, y el pecado lo rompe. Segunda, los patriarcas: Dios llama a Abraham y le promete una tierra y una familia. Esteban recuerda que Dios estuvo con José en Egipto."
+    },
+    {
+      "subtitulo": "Del éxodo al reino",
+      "texto": "Tercera era: Dios libra a Israel de Egipto por medio de Moisés. En el desierto le da su Ley y un tabernáculo. Cuarta: Josué lleva al pueblo a la tierra, y los jueces lo guían. Quinta: el reino unido de Saúl, David y Salomón. Allí termina el repaso de Esteban."
+    },
+    {
+      "subtitulo": "Tiempos de dolor",
+      "texto": "Sexta era: el reino se divide en dos, y los profetas llaman al pueblo a volver a Dios. Séptima: el exilio. Babilonia destruye Jerusalén, y el pueblo vive lejos de su tierra. Aun allí, Dios sigue con ellos. Octava: el regreso, cuando reconstruyen el templo y los muros."
+    },
+    {
+      "subtitulo": "La promesa se cumple",
+      "texto": "Novena era: entre los Testamentos. Persas, griegos y romanos gobiernan, y el pueblo espera la promesa. Décima: Jesús. Dios se hace hombre, muere por amor y resucita. Undécima: la Iglesia. El Espíritu Santo reúne a los que siguen a Jesús, y la buena noticia llega a todos."
+    },
+    {
+      "subtitulo": "Una historia con centro",
+      "texto": "Esteban recuerda que Moisés anunció un profeta como él. Ese profeta es Jesús, a quien Esteban llama «el Justo». Sus últimas palabras al concilio son fuertes, y lo apedrean. Esteban muere perdonando, como su Señor. Cada era de este estudio es un paso de esa misma historia."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Moisés anunció un profeta como él, a quien había que oír. Pedro enseña que ese profeta es Jesús. Esteban lo llama «el Justo». Al morir, ora como su Señor: «Señor Jesús, recibe mi espíritu». Toda la historia que cuenta desemboca en Jesús.",
+    "refs": ["Hechos 3:22", "Hechos 7:59"]
+  },
+
+  "mundo": "Roma gobierna Judea por medio de gobernadores. En Jerusalén, el concilio de los jefes judíos decide los asuntos de la fe y de la Ley. Ante ese concilio habla Esteban, poco tiempo después de la cruz.",
+
+  "antes": "Aprendiste a usar el estudio: un minuto para lo esencial, o el estudio completo con calma.",
+  "despues": "Descubrirás por qué la Biblia tiene dos partes: el Antiguo y el Nuevo Testamento.",
+
+  "conexiones": [
+    { "ref": "Deuteronomio 18:15", "motivo": "Aquí Moisés anuncia el profeta que Dios levantará en medio del pueblo." },
+    { "ref": "Génesis 39:2", "motivo": "El Señor estaba con José, aun como esclavo en Egipto." },
+    { "ref": "1 Reyes 8:27", "motivo": "Salomón reconoce que ni los cielos pueden contener a Dios." },
+    { "ref": "Hechos 17:24", "motivo": "Pablo dice lo mismo en Atenas: Dios no habita en templos." }
+  ],
+
+  "glosario": ["patriarca", "tabernaculo", "exilio", "sanedrin"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cuenta a alguien en pocas frases cómo Dios te ha guiado, como hizo Esteban.",
+    "pregunta": "¿En qué momentos de tu historia viste que Dios estaba contigo?"
+  },
+
+  "meditar": "Padre, tú guías la historia y también mi vida. Ayúdame a ver tu mano en cada paso y a seguir a Jesús con fe. Amén.",
+
+  "ninos": {
+    "pregunta": "Esteban contó la historia de su pueblo. ¿Qué historia de tu familia te gusta escuchar?",
+    "actividad": "Dibuja un camino con once piedras. En la primera, dibuja el sol y las estrellas."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En cuántas eras divide este estudio la historia de la Biblia?",
+      "opciones": ["En siete", "En once", "En doce"],
+      "correcta": 1,
+      "explicacion": "Son once eras, de los comienzos a la Iglesia, más la introducción y la conclusión.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué personaje empieza Esteban su repaso de la historia?",
+      "opciones": ["Con Abraham", "Con Noé", "Con David"],
+      "correcta": 0,
+      "explicacion": "Dios se apareció a Abraham en Mesopotamia y lo llamó a salir de su tierra (Hechos 7:2-3).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Esteban, ¿qué anunció Moisés al pueblo de Israel?",
+      "opciones": ["Un rey como Saúl", "Un templo de oro", "Un profeta como él"],
+      "correcta": 2,
+      "explicacion": "Dios levantaría un profeta como Moisés; Pedro enseña que es Jesús (Hechos 3:22).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.7"], "minutos": 9 },
+
+  "temas": ["providencia", "promesa", "fe", "profecia-cumplida"],
+  "cadenas": ["la-promesa-a-abraham", "el-templo"]
+}

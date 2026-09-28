@@ -1,0 +1,143 @@
+{
+  "id": "nacimiento",
+  "orden": 54,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Nace Jesús en Belén",
+  "pasajes": ["Luke.2.1-Luke.2.52", "Matt.2.1-Matt.2.23"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Jesús nace en Belén y lo acuestan en un pesebre; pastores y magos vienen a adorarlo.",
+    "Simeón y Ana lo reconocen en el templo, y a los doce años Jesús habla de su Padre.",
+    "Dios revela que se hace pequeño y cercano, y trae salvación para todos los pueblos."
+  ],
+
+  "versiculo": {
+    "texto": "Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.",
+    "referencia": "Lucas 2:11",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 6–4 a.C.; en el templo, a los 12 años",
+    "desde": -6,
+    "hasta": 8,
+    "certeza": "aprox",
+    "nota": "El calendario que usamos hoy se calculó siglos después, con un pequeño error de unos años."
+  },
+
+  "lugar": { "nombre": "Belén, Jerusalén, Egipto y Nazaret", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Salvador que nace pobre en Belén y crece en Nazaret." },
+    { "id": "maria-madre-de-jesus", "nombre": "María", "linea": "Da a luz a Jesús y guarda todo en su corazón." },
+    { "id": "jose-de-nazaret", "nombre": "José", "linea": "Cuida al niño y a su madre; obedece a Dios en sueños." },
+    { "id": "simeon", "nombre": "Simeón", "linea": "Anciano justo que toma al niño en brazos y bendice a Dios." },
+    { "id": "ana-profetisa", "nombre": "Ana, la profetisa", "linea": "Viuda anciana que da gracias y habla del niño a todos." },
+    { "id": "herodes-el-grande", "nombre": "Herodes el Grande", "linea": "Rey que teme perder su trono y busca matar al niño." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús nace en Belén y descansa en un pesebre", "ref": "Lucas 2:1-7" },
+    { "texto": "Los ángeles anuncian la buena noticia a los pastores", "ref": "Lucas 2:8-20" },
+    { "texto": "Simeón y Ana reconocen al niño en el templo", "ref": "Lucas 2:22-38" },
+    { "texto": "Unos magos de oriente adoran al niño", "ref": "Mateo 2:1-12" },
+    { "texto": "José huye a Egipto con el niño y María", "ref": "Mateo 2:13-18" },
+    { "texto": "A los doce años, Jesús se queda en el templo", "ref": "Lucas 2:41-52" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "No había lugar",
+      "texto": "Augusto César ordena un censo en todo el imperio. José sube con María desde Nazaret hasta Belén, la ciudad de David. Allí nace Jesús. María lo envuelve en pañales y lo acuesta en un pesebre, porque no hay lugar para ellos en el mesón. El Rey prometido llega en pobreza."
+    },
+    {
+      "subtitulo": "Gozo para todo el pueblo",
+      "texto": "Esa noche, unos pastores cuidan su ganado. Se les aparece un ángel del Señor y les dice: «No temáis». Ha nacido un Salvador, Cristo el Señor. Muchos ángeles alaban a Dios. Los pastores van de prisa, encuentran al niño y cuentan lo que oyeron. María guarda todo en su corazón."
+    },
+    {
+      "subtitulo": "Mis ojos han visto",
+      "texto": "Según la ley de Moisés, José y María presentan al niño en el templo. Ofrecen dos tórtolas, la ofrenda de quien no puede dar un cordero. Simeón, un anciano justo, toma al niño en brazos. Bendice a Dios, porque sus ojos han visto la salvación. Ana, una profetisa muy anciana, también habla del niño."
+    },
+    {
+      "subtitulo": "Una estrella y unos magos",
+      "texto": "Unos magos llegan de oriente a Jerusalén. Han visto la estrella del Rey de los judíos. Herodes se inquieta. La estrella los guía hasta la casa donde está el niño con María. Lo adoran y le ofrecen oro, incienso y mirra. Mateo no dice cuántos eran ni cómo se llamaban."
+    },
+    {
+      "subtitulo": "Huida a Egipto",
+      "texto": "Avisados en sueños, los magos vuelven por otro camino. Un ángel dice a José que huya a Egipto, y él sale de noche con el niño y su madre. Herodes, furioso, manda matar a los niños pequeños de Belén. Cuando Herodes muere, la familia vuelve y se queda a vivir en Nazaret."
+    },
+    {
+      "subtitulo": "En las cosas del Padre",
+      "texto": "Cada año, la familia va a Jerusalén para la Pascua. A los doce años, Jesús se queda en el templo sin que sus padres lo sepan. Lo buscan con angustia y lo encuentran tres días después, escuchando y preguntando a los maestros. Jesús les dice que debe estar en las cosas de su Padre."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Luke", "texto": "Cuenta el pesebre, los pastores, a Simeón y a Ana. Solo Lucas narra a Jesús a los doce años." },
+    { "libro": "Matt", "texto": "Cuenta la estrella, los magos, la huida a Egipto y el regreso a Nazaret. Señala las profecías que se cumplen." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Miqueas había anunciado que de Belén saldría el que sería Señor en Israel. Jesús nace allí, en la ciudad de David. Simeón lo llama luz para los gentiles: la salvación es para todos los pueblos. Y el Rey nace en un pesebre. Pablo lo dirá así: tomó forma de siervo.",
+    "refs": ["Miqueas 5:2", "Filipenses 2:7"]
+  },
+
+  "mundo": "Augusto gobierna el Imperio romano, y su época se recuerda como un tiempo de paz impuesta por las armas. Herodes el Grande construyó fortalezas y palacios en Judea. Murió c. 4 a.C.",
+
+  "antes": "Gabriel anunció a Zacarías y a María dos nacimientos, y José recibió a María obedeciendo a Dios.",
+  "despues": "Juan el Bautista predica en el desierto y bautiza a Jesús en el Jordán. Comienza su misión.",
+
+  "conexiones": [
+    { "ref": "Miqueas 5:2", "motivo": "Miqueas anunció que de Belén saldría el Señor de Israel." },
+    { "ref": "Oseas 11:1", "motivo": "«De Egipto llamé a mi hijo»: Mateo lo ve cumplido en Jesús." },
+    { "ref": "Jeremías 31:15", "motivo": "El llanto de Raquel da voz al dolor de las madres de Belén." },
+    { "ref": "Isaías 9:6", "motivo": "«Un niño nos es nacido»: el Hijo prometido es Príncipe de paz." }
+  ],
+
+  "glosario": ["cristo", "mirra", "incienso", "pascua", "gentil"],
+
+  "paraTuVida": {
+    "aplicacion": "Como María, guarda esta semana en tu corazón algo bueno que Dios hizo por ti, y cuéntalo en familia.",
+    "pregunta": "¿Qué lugar le das a Jesús en tu casa y en tu día?"
+  },
+
+  "meditar": "Señor Jesús, que naciste pobre en Belén, haz lugar en mi corazón para ti. Como Simeón, quiero ver tu salvación y alabarte con alegría. Amén.",
+
+  "ninos": {
+    "pregunta": "Los pastores corrieron a ver a Jesús. ¿A quién le contarías tú esta buena noticia?",
+    "actividad": "Con una caja de zapatos y papel arrugado, arma un pesebre y cuenta la historia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Dónde acostó María a Jesús recién nacido?",
+      "opciones": ["En una cuna del palacio", "En un pesebre", "En el templo"],
+      "correcta": 1,
+      "explicacion": "No había lugar en el mesón, y lo acostó en un pesebre (Lucas 2:7).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Hasta dónde guió la estrella a los magos?",
+      "opciones": ["Hasta el palacio de Herodes", "Hasta el templo de Jerusalén", "Hasta la casa donde estaba el niño"],
+      "correcta": 2,
+      "explicacion": "Entraron «en la casa», vieron al niño con María y lo adoraron (Mateo 2:11).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que el Mesías saldría de Belén?",
+      "opciones": ["Miqueas", "Jeremías", "Oseas"],
+      "correcta": 0,
+      "explicacion": "Los escribas le citan a Herodes la profecía de Miqueas 5:2 (Mateo 2:5-6).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Luke.2", "Matt.2"], "minutos": 12 },
+
+  "notaEcumenica": "En muchos países se celebra el 6 de enero la visita de los magos. La tradición habla de tres y los llama Melchor, Gaspar y Baltasar. Mateo no da su número ni sus nombres.",
+
+  "temas": ["encarnacion", "profecia-cumplida", "providencia", "familia", "esperanza"],
+  "cadenas": ["el-rey-de-david", "el-pastor"]
+}

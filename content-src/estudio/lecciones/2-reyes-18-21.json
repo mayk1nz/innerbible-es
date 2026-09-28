@@ -1,0 +1,141 @@
+{
+  "id": "2-reyes-18-21",
+  "orden": 32,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Ezequías confía; Manasés se aleja",
+  "pasajes": ["2Kgs.18.1-2Kgs.21.26", "2Chr.29.1-2Chr.33.25"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Ezequías, rey de Judá, confía en Dios y Jerusalén se salva del gran ejército de Asiria.",
+    "Su hijo Manasés llena el reino de ídolos, pero al final, cautivo, se humilla y ora.",
+    "Dios revela que escucha al que clama y que ningún corazón está demasiado lejos para volver."
+  ],
+
+  "versiculo": {
+    "texto": "En Jehová Dios de Israel puso su esperanza: después ni antes de él no hubo otro como él en todos los reyes de Judá.",
+    "referencia": "2 Reyes 18:5",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 715–640 a.C.",
+    "desde": -715,
+    "hasta": -640,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "Jerusalén, en el reino de Judá", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá; confía en Dios cuando Asiria rodea Jerusalén." },
+    { "id": "isaias", "nombre": "Isaías", "linea": "Profeta que lleva a Ezequías la respuesta de Dios." },
+    { "id": "senaquerib", "nombre": "Senaquerib", "linea": "Rey de Asiria; invade Judá y se burla del Dios vivo." },
+    { "id": "manases", "nombre": "Manasés", "linea": "Hijo de Ezequías; se aleja de Dios, pero al final se humilla." },
+    { "id": "josias", "nombre": "Josías", "linea": "Nieto de Manasés; sube al trono cuando matan a su padre." },
+    { "id": "moises", "nombre": "Moisés", "linea": "Hizo la serpiente de bronce que Ezequías tuvo que romper." }
+  ],
+
+  "eventos": [
+    { "texto": "Ezequías quita los ídolos y confía en Dios", "ref": "2 Reyes 18:1-7" },
+    { "texto": "Ezequías abre el templo y celebra la Pascua", "ref": "2 Crónicas 30:1-27" },
+    { "texto": "Ezequías ora y Dios libra Jerusalén de Asiria", "ref": "2 Reyes 19:14-36" },
+    { "texto": "Dios sana a Ezequías y le añade quince años", "ref": "2 Reyes 20:1-11" },
+    { "texto": "Manasés llena Judá de ídolos y violencia", "ref": "2 Reyes 21:1-16" },
+    { "texto": "Manasés, cautivo, se humilla y Dios lo escucha", "ref": "2 Crónicas 33:10-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un rey que confía",
+      "texto": "Ezequías reina en Judá, el reino del sur, desde los veinticinco años. Derriba los altares de los ídolos. Rompe la serpiente de bronce de Moisés, porque la gente la adoraba. Abre de nuevo las puertas del templo. Invita a todo Israel a la Pascua en Jerusalén, y ora por los que llegan sin purificarse."
+    },
+    {
+      "subtitulo": "Asiria amenaza",
+      "texto": "En el norte, Asiria conquista Samaria y se lleva cautivo al reino de Israel. Años después, el rey Senaquerib invade Judá y toma sus ciudades fuertes. Ezequías le paga mucha plata y oro, pero no basta. Un jefe asirio grita ante los muros de Jerusalén que ningún dios podrá salvarlos."
+    },
+    {
+      "subtitulo": "Una carta ante Dios",
+      "texto": "Ezequías rasga sus ropas, entra en el templo y pide ayuda al profeta Isaías. Cuando recibe una carta de amenaza, la extiende delante del Señor y ora: «tú solo eres Dios». Isaías le trae la respuesta. Esa noche, el ángel del Señor hiere al ejército asirio, y Senaquerib vuelve a Nínive."
+    },
+    {
+      "subtitulo": "Lágrimas y un descuido",
+      "texto": "Después, Ezequías enferma de muerte. Llora y ora, y Dios le responde: «he visto tus lágrimas». Le añade quince años de vida y le da una señal: la sombra retrocede. Luego llegan mensajeros de Babilonia, y Ezequías les enseña todos sus tesoros. Isaías avisa que un día todo será llevado a Babilonia."
+    },
+    {
+      "subtitulo": "Manasés se aleja",
+      "texto": "Su hijo Manasés reina cincuenta y cinco años, más que ningún otro rey de Judá. Pero vuelve a levantar los altares de los ídolos y los pone hasta en el templo. Consulta a adivinos y derrama mucha sangre inocente. Los profetas avisan que Jerusalén caerá por tanto mal."
+    },
+    {
+      "subtitulo": "Nunca es tarde",
+      "texto": "Crónicas cuenta el final de Manasés. Los jefes asirios lo llevan con cadenas a Babilonia. Allí, en su angustia, se humilla y ora. Dios lo escucha y lo devuelve a Jerusalén. Manasés quita los ídolos del templo. Su hijo Amón reina solo dos años. Después sube al trono Josías."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Crónicas cuenta más de Ezequías. Abre y limpia el templo, y celebra una gran Pascua con gente de Israel y de Judá." },
+    { "libro": "2Chr", "texto": "Solo Crónicas cuenta que Manasés, cautivo en Babilonia, se humilla y ora. Dios lo escucha, lo devuelve a Jerusalén y Manasés quita los ídolos." },
+    { "libro": "Isa", "texto": "Isaías 36–39 repite esta historia y añade el canto que Ezequías escribe después de sanar." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Dios protege Jerusalén «por amor de David mi siervo». Cuida la familia de David porque de ella vendrá el Rey prometido. Mateo nombra a Ezequías y a Manasés entre los antepasados de Jesús. Y Jesús dice que vino a buscar y salvar lo que se había perdido, como Dios buscó a Manasés.",
+    "refs": ["Mateo 1:10", "Lucas 19:10"]
+  },
+
+  "mundo": "Senaquerib mandó grabar en piedra su campaña contra Judá. Presume de haber encerrado a Ezequías en Jerusalén como a un pájaro en su jaula. Pero no dice que tomara la ciudad.",
+
+  "antes": "Miqueas anunció que el rey prometido nacería en Belén y pidió justicia para los pobres.",
+  "despues": "Nahúm anuncia que Nínive, la capital de Asiria, caerá por su crueldad.",
+
+  "conexiones": [
+    { "ref": "Juan 3:14", "motivo": "Jesús recuerda la serpiente de Moisés: él también será levantado." },
+    { "ref": "Isaías 38:5", "motivo": "Isaías cuenta la misma sanidad: Dios vio las lágrimas del rey." },
+    { "ref": "1 Pedro 5:6", "motivo": "Como Manasés, el que se humilla ante Dios es levantado por él." },
+    { "ref": "Mateo 6:33", "motivo": "Ezequías buscó a Dios de todo corazón; Jesús invita a buscarlo primero." }
+  ],
+
+  "glosario": ["idolo", "asiria", "pascua", "babilonia"],
+
+  "paraTuVida": {
+    "aplicacion": "Como Ezequías con la carta, escribe tu mayor preocupación y ponla delante de Dios en oración.",
+    "pregunta": "¿Hay alguien que te parezca demasiado lejos de Dios para volver?"
+  },
+
+  "meditar": "Señor, cuando algo me amenace, enséñame a ponerlo delante de ti. Y si me alejo, recíbeme como recibiste a Manasés. Amén.",
+
+  "ninos": {
+    "pregunta": "Ezequías puso delante de Dios la carta que lo asustaba. ¿Qué te da miedo a ti?",
+    "actividad": "Escribe o dibuja tu miedo en una hoja, ábrela sobre la mesa y oren juntos en familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué hizo Ezequías con la carta de amenaza del rey de Asiria?",
+      "opciones": ["La quemó en el fuego", "La escondió de su pueblo", "La extendió delante del Señor"],
+      "correcta": 2,
+      "explicacion": "Subió al templo, la extendió delante del Señor y oró (2 Reyes 19:14-19).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cuántos años de vida le añadió Dios a Ezequías?",
+      "opciones": ["Quince años", "Siete años", "Cuarenta años"],
+      "correcta": 0,
+      "explicacion": "Dios oyó su oración, vio sus lágrimas y le añadió quince años (2 Reyes 20:5-6).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué objeto de Moisés rompió Ezequías y Jesús recordó después?",
+      "opciones": ["El arca del pacto", "La serpiente de bronce", "La vara de Aarón"],
+      "correcta": 1,
+      "explicacion": "La gente la adoraba. Jesús dijo que él sería levantado como esa serpiente (Juan 3:14).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Kgs.18", "2Kgs.19", "2Kgs.20", "2Chr.33"], "minutos": 23 },
+
+  "temas": ["fe", "oracion", "arrepentimiento", "gracia", "perdon"],
+  "cadenas": ["el-rey-de-david"]
+}

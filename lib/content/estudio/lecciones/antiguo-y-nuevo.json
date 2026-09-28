@@ -1,0 +1,119 @@
+{
+  "id": "antiguo-y-nuevo",
+  "orden": 4,
+  "seccion": "introduccion",
+  "formato": "marco",
+  "titulo": "¿Por qué Antiguo y Nuevo Testamento?",
+  "pasajes": ["Jer.31.31-Jer.31.34", "Luke.22.14-Luke.22.20"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Jeremías anuncia un pacto nuevo, y Jesús lo inaugura en la última cena con el pan y el vaso.",
+    "Por eso la Biblia tiene dos partes: el Antiguo Testamento prepara y el Nuevo muestra el cumplimiento.",
+    "Dios revela que es fiel a su pueblo y que quiere escribir su ley en nuestro corazón."
+  ],
+
+  "versiculo": {
+    "texto": "Asimismo también el vaso, después que hubo cenado, diciendo: Este vaso es el nuevo pacto en mi sangre, que por vosotros se derrama.",
+    "referencia": "Lucas 22:20",
+    "version": "RV1909"
+  },
+
+  "fecha": null,
+
+  "lugar": { "nombre": "Jerusalén, en dos momentos", "mapa": "jesus" },
+
+  "personajes": [],
+
+  "eventos": [
+    { "texto": "Dios promete un pacto nuevo por medio de Jeremías", "ref": "Jeremías 31:31-34" },
+    { "texto": "Jesús celebra la Pascua con sus apóstoles", "ref": "Lucas 22:14-18" },
+    { "texto": "Jesús parte el pan y lo da", "ref": "Lucas 22:19" },
+    { "texto": "Jesús da el vaso del nuevo pacto", "ref": "Lucas 22:20" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Dos partes, un solo libro",
+      "texto": "En la Biblia, la palabra testamento quiere decir pacto. Un pacto es un acuerdo de amor y fidelidad. El Antiguo Testamento cuenta el pacto de Dios con Israel. El Nuevo Testamento cuenta el pacto nuevo en Jesús. Las dos partes forman una sola Biblia y una sola historia."
+    },
+    {
+      "subtitulo": "Una promesa en tiempos duros",
+      "texto": "Jeremías vive tiempos muy tristes. Babilonia amenaza a Jerusalén. El pueblo rompió el pacto que Dios hizo con sus padres al salir de Egipto. Aun así, Dios no se rinde. Promete: «haré nuevo pacto con la casa de Jacob y con la casa de Judá»."
+    },
+    {
+      "subtitulo": "La ley en el corazón",
+      "texto": "¿Cómo será ese pacto nuevo? Dios escribirá su ley dentro de su pueblo, en el corazón. Todos lo conocerán, del más pequeño al más grande. Y Dios añade: «no me acordaré más de su pecado». Es una promesa de perdón completo."
+    },
+    {
+      "subtitulo": "Una cena de Pascua",
+      "texto": "Unos seiscientos años después, Jesús se sienta a la mesa con sus apóstoles para celebrar la Pascua. Toma el pan, da gracias y dice: «Esto es mi cuerpo». Después toma el vaso y dice: «Este vaso es el nuevo pacto en mi sangre». La promesa de Jeremías se cumple en él."
+    },
+    {
+      "subtitulo": "Cómo leemos las dos partes",
+      "texto": "El Antiguo Testamento no es viejo ni inútil. Allí están la creación, las promesas, los salmos y los profetas. Jesús lo citaba y lo explicaba. El Nuevo Testamento muestra cómo esas promesas se cumplen en él. Por eso leemos las dos partes juntas, como una sola historia."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús mismo une las dos partes de la Biblia. En la última cena toma la promesa de Jeremías y la cumple con su entrega. Su sangre es la del nuevo pacto, derramada «para remisión de los pecados». La carta a los Hebreos lo explica citando a Jeremías.",
+    "refs": ["Mateo 26:28", "Hebreos 8:10"]
+  },
+
+  "mundo": "En tiempos de Jeremías, Babilonia es el imperio más fuerte y termina por destruir Jerusalén. Unos seis siglos después, en tiempos de Jesús, gobierna Roma. Los imperios pasan; la promesa de Dios sigue en pie.",
+
+  "antes": "Recorriste las once eras de la historia, desde los comienzos hasta la Iglesia.",
+  "despues": "Conocerás tu Biblia: por qué unas tienen 73 libros y otras 66, y cómo leer juntos.",
+
+  "conexiones": [
+    { "ref": "Hebreos 8:10", "motivo": "Hebreos cita a Jeremías para hablar del pacto nuevo en Jesús." },
+    { "ref": "Ezequiel 36:26", "motivo": "Ezequiel también promete un corazón nuevo y un espíritu nuevo." },
+    { "ref": "1 Corintios 11:25", "motivo": "Pablo transmite las mismas palabras de Jesús sobre la copa." },
+    { "ref": "2 Corintios 3:3", "motivo": "Una carta escrita por el Espíritu en corazones, no en piedra." }
+  ],
+
+  "glosario": ["testamento", "pacto", "pascua", "cena-del-senor"],
+
+  "paraTuVida": {
+    "aplicacion": "Escribe en una tarjeta Jeremías 31:33 y ponla donde la veas cada mañana esta semana.",
+    "pregunta": "¿Qué perdón de Dios necesitas creer y recibir hoy?"
+  },
+
+  "meditar": "Señor Jesús, gracias por tu pacto nuevo. Escribe tu palabra en mi corazón y ayúdame a vivir en tu perdón. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué dos cosas tomó Jesús en la cena para hablar de su amor?",
+    "actividad": "Dibuja un libro abierto: en una página, una promesa; en la otra, a Jesús cumpliéndola."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "En la Biblia, ¿qué quiere decir la palabra testamento?",
+      "opciones": ["Un libro de leyes", "Una herencia de dinero", "Un pacto"],
+      "correcta": 2,
+      "explicacion": "Antiguo y Nuevo Testamento quieren decir antiguo y nuevo pacto.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Dónde dice Dios que escribirá su ley en el pacto nuevo?",
+      "opciones": ["En tablas de piedra", "En el corazón", "En el templo"],
+      "correcta": 1,
+      "explicacion": "Dios promete: «escribiréla en sus corazones» (Jeremías 31:33).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús del vaso en la última cena?",
+      "opciones": ["Que es el nuevo pacto en su sangre", "Que es para la fiesta de Purim", "Que es un regalo para Pedro"],
+      "correcta": 0,
+      "explicacion": "Así cumplió la promesa de un pacto nuevo que Dios hizo por Jeremías (Lucas 22:20).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Jer.31", "Luke.22"], "minutos": 20 },
+
+  "notaEcumenica": "Jesús dejó la Cena del Señor para que lo recordemos. Católicos y evangélicos la celebran con distintos nombres: Eucaristía, Santa Cena o Cena del Señor.",
+
+  "temas": ["pacto", "promesa", "perdon", "gracia", "profecia-cumplida"],
+  "cadenas": ["el-pacto-nuevo"]
+}

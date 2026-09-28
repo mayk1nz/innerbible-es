@@ -1,0 +1,148 @@
+{
+  "id": "apocalipsis",
+  "orden": 89,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Apocalipsis: el Cordero vence",
+  "pasajes": ["Rev.1.1-Rev.22.21"],
+  "libros": ["Rev"],
+
+  "enUnMinuto": [
+    "Juan recibe en la isla de Patmos visiones de Jesús resucitado y del final de la historia.",
+    "Aunque la Iglesia sufre, el Cordero vence al mal, y Dios hace nuevas todas las cosas.",
+    "Dios revela que la historia está en sus manos y que al final vivirá con nosotros."
+  ],
+
+  "versiculo": {
+    "texto": "Y limpiará Dios toda lágrima de los ojos de ellos; y la muerte no será más; y no habrá más llanto, ni clamor, ni dolor: porque las primeras cosas son pasadas.",
+    "referencia": "Apocalipsis 21:4",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrito c. 95 d.C.",
+    "desde": 95,
+    "hasta": 96,
+    "certeza": "debatida",
+    "nota": "Es la fecha más aceptada. Algunos proponen c. 68 d.C., antes de la caída del templo."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 95 d.C.",
+    "desde": 95,
+    "hasta": 96,
+    "certeza": "debatida",
+    "nota": "Es la fecha más aceptada. Algunos proponen c. 68 d.C., antes de la caída del templo."
+  },
+
+  "autor": {
+    "texto": "Juan, desde la isla de Patmos (Apocalipsis 1:9)",
+    "nota": "La tradición lo identifica con el apóstol Juan. Otros estudiosos piensan en otro Juan, profeta de Asia."
+  },
+
+  "lugar": { "nombre": "Patmos y siete iglesias de Asia", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Cordero que fue sacrificado y vence; el primero y el último." },
+    { "id": "juan-de-patmos", "nombre": "Juan", "linea": "Siervo de Dios que ve y escribe las visiones en Patmos." },
+    { "id": "david", "nombre": "David", "linea": "Jesús se llama «la raíz y el linaje de David»." }
+  ],
+
+  "eventos": [
+    { "texto": "Juan ve a Jesús resucitado en Patmos", "ref": "Apocalipsis 1:9-18" },
+    { "texto": "Jesús envía mensajes a siete iglesias", "ref": "Apocalipsis 2:1-3:22" },
+    { "texto": "El Cordero toma el libro sellado", "ref": "Apocalipsis 5:1-14" },
+    { "texto": "El dragón es vencido por la sangre del Cordero", "ref": "Apocalipsis 12:7-11" },
+    { "texto": "Jesús vence como Rey de reyes", "ref": "Apocalipsis 19:11-16" },
+    { "texto": "Dios hace nuevas todas las cosas", "ref": "Apocalipsis 21:1-5" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Jesús, vivo y cercano",
+      "texto": "Juan está en la isla de Patmos por anunciar la palabra de Dios. En «el día del Señor» oye una gran voz. Ve a Jesús resucitado, lleno de luz, en medio de siete candeleros. Juan cae como muerto, pero Jesús pone su mano sobre él: «No temas»."
+    },
+    {
+      "subtitulo": "Siete cartas",
+      "texto": "Jesús envía mensajes a siete iglesias de Asia. A unas las anima: «Sé fiel hasta la muerte». A otras les pide volver a su primer amor. A todas les promete un premio si vencen. Y dice a cada uno: «yo estoy a la puerta y llamo»."
+    },
+    {
+      "subtitulo": "El Cordero en el trono",
+      "texto": "Juan ve una puerta abierta en el cielo y un trono. Todos adoran a Dios, el Creador. Nadie puede abrir un libro sellado con siete sellos. Entonces aparece un Cordero que fue sacrificado, y está de pie. Él es digno, porque con su sangre rescató para Dios gente de todo pueblo."
+    },
+    {
+      "subtitulo": "Tiempos de lucha",
+      "texto": "Luego vienen visiones de sellos, trompetas y copas. Hablan de guerras, hambre y dolor en la tierra. Un dragón, la serpiente antigua, persigue al pueblo de Dios. Pero los creyentes lo vencen «por la sangre del Cordero». Es un lenguaje lleno de símbolos. Hay varias maneras de leerlo; todas coinciden en que Cristo vence."
+    },
+    {
+      "subtitulo": "El Rey de reyes",
+      "texto": "Babilonia, la gran ciudad orgullosa, cae en un momento. En el cielo cantan: «Aleluya». Jesús aparece en un caballo blanco. Se llama Fiel y Verdadero, el Verbo de Dios. Vence a la bestia y al diablo. Todos comparecen ante Dios, y la muerte misma es vencida."
+    },
+    {
+      "subtitulo": "Todo nuevo",
+      "texto": "Juan ve un cielo nuevo y una tierra nueva. La ciudad santa, la nueva Jerusalén, baja del cielo. Dios vive con su pueblo y seca toda lágrima. Allí corre el río de agua de vida. Jesús promete que viene pronto, y la Iglesia responde: «Ven, Señor Jesús»."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Todo el libro gira alrededor de Jesús. Es el Cordero que fue sacrificado y ahora está en el trono. Juan el Bautista ya lo había presentado como el Cordero de Dios. Jesús es el principio y el fin. Al final, él mismo dice: «Yo soy Alpha y Omega».",
+    "refs": ["Apocalipsis 5:6-9", "Juan 1:29"]
+  },
+
+  "mundo": "Domiciano gobierna el Imperio romano. En varias ciudades de Asia hay templos para honrar al emperador como a un dios. Los cristianos que se niegan pueden sufrir persecución.",
+
+  "antes": "El anciano escribió a su amigo Gayo sobre abrir la casa a los hermanos.",
+  "despues": "Del Génesis al Apocalipsis: la promesa hecha en el Edén se cumple en Cristo.",
+
+  "conexiones": [
+    { "ref": "Isaías 25:8", "motivo": "Isaías ya anunció que Dios secaría toda lágrima." },
+    { "ref": "Isaías 65:17-19", "motivo": "Dios promete crear nuevos cielos y nueva tierra." },
+    { "ref": "1 Pedro 1:19-20", "motivo": "Cristo, el Cordero sin mancha, elegido antes de la creación." },
+    { "ref": "Génesis 2:9", "motivo": "El árbol de la vida del Edén vuelve a aparecer." }
+  ],
+
+  "glosario": ["apocaliptico", "nueva-jerusalen", "cordero-de-dios", "aleluya", "dia-del-senor"],
+
+  "paraTuVida": {
+    "aplicacion": "Cuando algo te dé miedo esta semana, lee Apocalipsis 21:4 y entrégaselo a Dios en oración.",
+    "pregunta": "¿Qué lágrima tuya esperas que Dios seque un día?"
+  },
+
+  "meditar": "Señor Jesús, tú eres el Cordero que vence. Cuando el mal parezca fuerte, dame paz y esperanza. Ven, Señor Jesús. Amén.",
+
+  "ninos": {
+    "pregunta": "En la ciudad de Dios no habrá más lágrimas. ¿Qué te gustaría ver allí?",
+    "actividad": "Dibuja la ciudad de Dios con doce puertas, un río brillante y el árbol de la vida."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En qué isla recibió Juan las visiones?",
+      "opciones": ["En Creta", "En Patmos", "En Chipre"],
+      "correcta": 1,
+      "explicacion": "Juan estaba en la isla de Patmos por la palabra de Dios (Apocalipsis 1:9).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Quién pudo abrir el libro de los siete sellos?",
+      "opciones": ["El Cordero", "Un ángel fuerte", "Juan"],
+      "correcta": 0,
+      "explicacion": "Solo el Cordero fue digno, porque con su sangre rescató a gente de todo pueblo (Apocalipsis 5:9).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué árbol del Edén vuelve a aparecer en la ciudad de Dios?",
+      "opciones": ["La higuera", "El olivo", "El árbol de la vida"],
+      "correcta": 2,
+      "explicacion": "Estaba en el Edén (Génesis 2:9) y vuelve junto al río de agua de vida (Apocalipsis 22:2).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Rev.1", "Rev.5", "Rev.21", "Rev.22"], "minutos": 12 },
+
+  "notaEcumenica": "Hay varias maneras de leer el Apocalipsis. Unos ven un mensaje para las iglesias de entonces; otros, un anuncio del futuro. Católicos y evangélicos confiesan juntos que Cristo vence.",
+
+  "temas": ["esperanza", "cordero", "reino-de-dios", "resurreccion", "sufrimiento"],
+  "cadenas": ["el-cordero", "cielos-nuevos-y-tierra-nueva"]
+}

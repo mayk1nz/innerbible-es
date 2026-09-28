@@ -1,0 +1,129 @@
+{
+  "id": "sofonias",
+  "orden": 35,
+  "seccion": "reino-dividido",
+  "formato": "breve",
+  "titulo": "Sofonías: el día del Señor",
+  "pasajes": ["Zeph.1.1-Zeph.3.20"],
+  "libros": ["Zeph"],
+
+  "enUnMinuto": [
+    "Sofonías anuncia a Judá el día del Señor, un día de juicio contra los ídolos y el orgullo.",
+    "Invita a los humildes a buscar a Dios y promete un pueblo sencillo que confía en él.",
+    "Dios revela que está en medio de su pueblo y que se alegra por él con cantos."
+  ],
+
+  "versiculo": {
+    "texto": "Jehová en medio de ti, poderoso, él salvará; gozaráse sobre ti con alegría, callará de amor, se regocijará sobre ti con cantar.",
+    "referencia": "Sofonías 3:17",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 630 a.C., en tiempos de Josías",
+    "desde": -635,
+    "hasta": -625,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 630 a.C., en tiempos de Josías",
+    "desde": -635,
+    "hasta": -625,
+    "certeza": "aprox"
+  },
+
+  "autor": {
+    "texto": "El profeta Sofonías, hijo de Cusi (Sofonías 1:1).",
+    "nota": "Su lista de antepasados llega hasta un Ezequías. Muchos piensan que es el rey Ezequías."
+  },
+
+  "lugar": { "nombre": "Jerusalén, en el reino de Judá", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "sofonias", "nombre": "Sofonías", "linea": "Profeta que anuncia el día del Señor y la alegría final." },
+    { "id": "josias", "nombre": "Josías", "linea": "Rey de Judá en días de Sofonías; limpia el reino de ídolos." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Sofonías 1:1 nombra a un Ezequías, quizá el rey, entre sus antepasados." }
+  ],
+
+  "eventos": [
+    { "texto": "Sofonías anuncia juicio contra los ídolos de Judá", "ref": "Sofonías 1:1-6" },
+    { "texto": "Se acerca el gran día del Señor", "ref": "Sofonías 1:14-18" },
+    { "texto": "Buscad al Señor, todos los humildes", "ref": "Sofonías 2:1-3" },
+    { "texto": "Dios se alegra por su pueblo con cantos", "ref": "Sofonías 3:14-20" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "En días de Josías",
+      "texto": "Sofonías profetiza en Judá cuando reina el joven Josías. En Jerusalén todavía hay altares a Baal. Hay gente que piensa que Dios no hace ni bien ni mal. Sofonías anuncia que se acerca el día del Señor, un día de juicio contra el mal y el orgullo."
+    },
+    {
+      "subtitulo": "Busquen al Señor",
+      "texto": "El juicio alcanza también a los pueblos vecinos y a Nínive, la capital de Asiria. Pero hay una salida. Sofonías invita a los humildes: «buscad justicia, buscad mansedumbre». Dios dejará un remanente: un pueblo humilde y pobre que confía en su nombre."
+    },
+    {
+      "subtitulo": "Dios canta de alegría",
+      "texto": "El libro termina con una fiesta. Jerusalén canta, porque Dios quita el castigo y está en medio de ella. Y el mismo Dios se alegra por su pueblo y canta de amor. Promete reunir a los dispersos, cuidar a los que cojean y traerlos de vuelta a casa."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Sofonías anuncia al Rey de Israel «en medio de ti», y dice: «No temas». Cuando Jesús entra en Jerusalén, Juan recuerda palabras parecidas: «No temas, hija de Sion». Y Jesús cuenta que hay fiesta en el cielo por cada persona que vuelve a Dios.",
+    "refs": ["Juan 12:15", "Lucas 15:7"]
+  },
+
+  "mundo": "Asiria se debilita tras la muerte de Asurbanipal, su último gran rey. Poco a poco, Babilonia se levanta como el nuevo imperio. Nínive caerá en el 612 a.C.",
+
+  "antes": "Josías encontró el libro de la Ley y renovó el pacto con Dios.",
+  "despues": "Jeremías, llamado por Dios siendo muy joven, llora por Jerusalén y anuncia un pacto nuevo.",
+
+  "conexiones": [
+    { "ref": "Mateo 5:5", "motivo": "Jesús llama felices a los mansos, como Sofonías a los humildes." },
+    { "ref": "Lucas 15:4-7", "motivo": "El pastor recoge a la oveja perdida y hace fiesta." },
+    { "ref": "Juan 12:15", "motivo": "El Rey llega a Jerusalén y dice a su pueblo: no temas." }
+  ],
+
+  "glosario": ["dia-del-senor", "remanente", "idolo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee Sofonías 3:17 cada noche e imagina a Dios alegrándose por ti.",
+    "pregunta": "¿Por qué te cuesta creer que Dios se alegra por ti?"
+  },
+
+  "meditar": "Señor, gracias porque estás en medio de nosotros. Quita mi orgullo y hazme humilde. Enséñame a descansar en tu amor, que canta sobre mí. Amén.",
+
+  "ninos": {
+    "pregunta": "Sofonías dice que Dios canta de alegría por su pueblo. ¿Qué canción le cantarías tú a Dios?",
+    "actividad": "Elijan una canción alegre y cántenla juntos en familia, dando gracias a Dios."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En tiempos de qué rey profetizó Sofonías?",
+      "opciones": ["Manasés", "Josías", "Salomón"],
+      "correcta": 1,
+      "explicacion": "Sofonías 1:1 dice que Dios le habló en días de Josías, rey de Judá.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿A quiénes invita Sofonías a buscar al Señor?",
+      "opciones": ["A los reyes poderosos", "A los sacerdotes de Baal", "A los humildes de la tierra"],
+      "correcta": 2,
+      "explicacion": "«Buscad a Jehová todos los humildes de la tierra» (Sofonías 2:3).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Jesús, ¿qué recibirán los mansos?",
+      "opciones": ["La tierra por heredad", "Un trono en Jerusalén", "Una vida sin problemas"],
+      "correcta": 0,
+      "explicacion": "Jesús dice que los mansos recibirán la tierra por heredad (Mateo 5:5).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Zeph.1", "Zeph.2", "Zeph.3"], "minutos": 10 },
+
+  "temas": ["humildad", "esperanza", "amor-de-dios", "arrepentimiento"],
+  "cadenas": ["el-dia-del-senor"]
+}

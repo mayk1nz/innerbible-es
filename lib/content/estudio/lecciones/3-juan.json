@@ -1,0 +1,131 @@
+{
+  "id": "3-juan",
+  "orden": 88,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "3 Juan: abre tu casa a los hermanos",
+  "pasajes": ["3John.1.1-3John.1.14"],
+  "libros": ["3John"],
+
+  "enUnMinuto": [
+    "El anciano escribe a su amigo Gayo, que recibe en su casa a los hermanos que viajan.",
+    "Lo anima a seguir haciendo el bien y le avisa del mal ejemplo de Diótrefes.",
+    "Dios revela que quien hace el bien muestra que es de Dios."
+  ],
+
+  "versiculo": {
+    "texto": "Amado, no sigas lo que es malo, sino lo que es bueno. El que hace bien es de Dios: mas el que hace mal, no ha visto a Dios.",
+    "referencia": "3 Juan 1:11",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 85–95 d.C.",
+    "desde": 85,
+    "hasta": 95,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 85–95 d.C.",
+    "desde": 85,
+    "hasta": 95,
+    "certeza": "aprox",
+    "nota": "Hacia el final del siglo I, cerca de 1 y 2 Juan. La carta no trae fecha."
+  },
+
+  "autor": {
+    "texto": "«El anciano» (3 Juan 1:1)",
+    "nota": "No da su nombre. La tradición lo identifica con el apóstol Juan."
+  },
+
+  "lugar": { "nombre": "Una iglesia de Asia Menor", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "juan-apostol", "nombre": "El anciano (Juan)", "linea": "Autor de la carta; la tradición lo identifica con el apóstol Juan." },
+    { "id": "gayo", "nombre": "Gayo", "linea": "Amigo querido del anciano; abre su casa a los hermanos." },
+    { "id": "diotrefes", "nombre": "Diótrefes", "linea": "Quiere ser el primero y no recibe a los hermanos." },
+    { "id": "demetrio-hermano", "nombre": "Demetrio", "linea": "Hermano de quien todos dan buen testimonio." }
+  ],
+
+  "eventos": [
+    { "texto": "El anciano se alegra porque Gayo anda en la verdad", "ref": "3 Juan 1:1-4" },
+    { "texto": "Alaba a Gayo por recibir a los hermanos", "ref": "3 Juan 1:5-8" },
+    { "texto": "Advierte sobre Diótrefes, que no los recibe", "ref": "3 Juan 1:9-10" },
+    { "texto": "Recomienda imitar lo bueno, como Demetrio", "ref": "3 Juan 1:11-12" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un amigo fiel",
+      "texto": "El anciano escribe a su querido amigo Gayo. Le desea salud y que todo le vaya bien, como le va bien a su alma. Unos hermanos le contaron que Gayo anda en la verdad. «No tengo yo mayor gozo que éste», dice el anciano."
+    },
+    {
+      "subtitulo": "Una casa abierta",
+      "texto": "Gayo recibe con amor a los hermanos que viajan anunciando a Jesús, aunque no los conoce. Ellos salieron por amor al nombre del Señor y no aceptan nada de los que no creen. Al ayudarlos, Gayo colabora con la verdad. Por eso el anciano lo anima a seguir así."
+    },
+    {
+      "subtitulo": "Dos ejemplos",
+      "texto": "En la misma iglesia está Diótrefes. Quiere ser el primero, habla mal del anciano y no recibe a los hermanos. Hasta echa de la iglesia a quienes los reciben. En cambio, todos hablan bien de Demetrio. El anciano concluye: imita lo bueno, no lo malo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Los hermanos salieron a servir «por amor de su nombre», el nombre de Jesús. Jesús enseñó que quien recibe a sus enviados lo recibe a él. Al abrir su casa, Gayo estaba recibiendo al mismo Señor.",
+    "refs": ["3 Juan 1:7", "Mateo 10:40"]
+  },
+
+  "mundo": "En los caminos romanos hay posadas, pero muchas tienen mala fama. Por eso los cristianos que viajan buscan alojarse en casas de hermanos en la fe.",
+
+  "antes": "El anciano escribió a la señora elegida sobre la verdad y el amor.",
+  "despues": "Juan, en la isla de Patmos, recibe las visiones del Apocalipsis.",
+
+  "conexiones": [
+    { "ref": "Efesios 5:1", "motivo": "Imitar a Dios, como hijos amados." },
+    { "ref": "Salmos 37:27", "motivo": "Apártate del mal y haz el bien." },
+    { "ref": "1 Pedro 4:8", "motivo": "Tener un amor ferviente unos por otros." }
+  ],
+
+  "glosario": ["anciano", "iglesia"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, invita a comer a alguien de tu iglesia que vive solo o lejos de su familia.",
+    "pregunta": "¿A quién puedes recibir con más cariño en tu casa o en tu vida?"
+  },
+
+  "meditar": "Señor, abre mi corazón y mi casa a los demás. Líbrame de querer ser el primero. Quiero imitar lo bueno y servirte con alegría. Amén.",
+
+  "ninos": {
+    "pregunta": "Gayo recibía a los visitantes con cariño. ¿Cómo puedes hacer sentir bien a una visita?",
+    "actividad": "Prepara con tu familia un dibujo de bienvenida para la próxima visita que llegue a casa."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A quién escribe el anciano en 3 Juan?",
+      "opciones": ["A Gayo", "A Timoteo", "A Tito"],
+      "correcta": 0,
+      "explicacion": "La carta va dirigida «al muy amado Gaio», que en nuestras Biblias de hoy es Gayo (3 Juan 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué hacía Diótrefes con los hermanos que llegaban?",
+      "opciones": ["Los recibía con alegría", "No los recibía", "Les daba dinero"],
+      "correcta": 1,
+      "explicacion": "No los recibía y echaba de la iglesia a quienes los querían recibir (3 Juan 1:10).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús sobre recibir a sus enviados?",
+      "opciones": ["Que es peligroso", "Que es solo para ricos", "Que es recibirlo a él"],
+      "correcta": 2,
+      "explicacion": "En Mateo 10:40, Jesús dice que quien recibe a sus enviados lo recibe a él.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["3John.1"], "minutos": 2 },
+
+  "temas": ["hospitalidad", "amor-de-dios", "servicio", "verdad"],
+  "cadenas": ["la-hospitalidad"]
+}

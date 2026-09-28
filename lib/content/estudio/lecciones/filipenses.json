@@ -1,0 +1,141 @@
+{
+  "id": "filipenses",
+  "orden": 78,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Filipenses: alegría en toda situación",
+  "pasajes": ["Phil.1.1-Phil.4.23"],
+  "libros": ["Phil"],
+
+  "enUnMinuto": [
+    "Pablo, preso, escribe a Filipos para dar gracias por su ayuda y su cariño.",
+    "Aunque está en cadenas, la carta está llena de alegría, porque su vida es Cristo.",
+    "Dios revela en Jesús, que se hizo siervo, el camino de la humildad y de la paz."
+  ],
+
+  "versiculo": {
+    "texto": "Gozaos en el Señor siempre: otra vez digo: Que os gocéis.",
+    "referencia": "Filipenses 4:4",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 61–62 d.C.",
+    "desde": 61,
+    "hasta": 62,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 61–62 d.C., desde la prisión",
+    "desde": 61,
+    "hasta": 62,
+    "certeza": "aprox",
+    "nota": "Pablo escribe preso y saluda de parte de «los que son de casa de César» (Filipenses 4:22). La tradición piensa en Roma; otros proponen Cesarea o Éfeso."
+  },
+  "autor": { "texto": "El apóstol Pablo, junto con Timoteo (Filipenses 1:1)." },
+
+  "lugar": { "nombre": "Filipos, en Macedonia", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Preso y alegre; para él, «el vivir es Cristo»." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Se hizo siervo y obedeció hasta la cruz; Dios lo exaltó." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Sirve con Pablo como un hijo con su padre." },
+    { "id": "epafrodito", "nombre": "Epafrodito", "linea": "Trajo la ayuda de Filipos y casi muere sirviendo a Pablo." }
+  ],
+
+  "eventos": [
+    { "texto": "Las cadenas de Pablo hacen avanzar el evangelio", "ref": "Filipenses 1:12-18" },
+    { "texto": "«Para mí el vivir es Cristo»", "ref": "Filipenses 1:21-26" },
+    { "texto": "Jesús se humilla y Dios lo exalta", "ref": "Filipenses 2:5-11" },
+    { "texto": "Pablo lo deja todo por conocer a Cristo", "ref": "Filipenses 3:7-14" },
+    { "texto": "Alegría, oración y la paz de Dios", "ref": "Filipenses 4:4-9" },
+    { "texto": "Todo lo puede en Cristo que lo fortalece", "ref": "Filipenses 4:10-20" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Alegría en la cárcel",
+      "texto": "Pablo está preso, pero no pierde la alegría. Sus cadenas hacen que el evangelio se conozca aun entre los guardias del pretorio. Otros hermanos se animan a predicar sin miedo. No sabe si vivirá o morirá. Aun así, está en paz: «para mí el vivir es Cristo, y el morir es ganancia»."
+    },
+    {
+      "subtitulo": "El camino de Jesús",
+      "texto": "Pablo pide a los filipenses que vivan unidos y con humildad. Cada uno debe pensar también en los demás. El modelo es Jesús. Siendo igual a Dios, se hizo siervo y obedeció hasta morir en una cruz. Por eso Dios lo exaltó, y toda lengua confesará que Jesucristo es el Señor."
+    },
+    {
+      "subtitulo": "Amigos fieles",
+      "texto": "Pablo piensa enviarles pronto a Timoteo, que sirve con él como un hijo con su padre. Mientras tanto, les devuelve a Epafrodito. Él les trajo la ayuda de Filipos y enfermó casi hasta morir. Pero Dios tuvo misericordia de él. Pablo pide que lo reciban con alegría."
+    },
+    {
+      "subtitulo": "Correr hacia la meta",
+      "texto": "Pablo tenía mucho de qué presumir: era hebreo, fariseo y cumplía la ley con cuidado. Pero todo eso lo tiene por pérdida al lado de conocer a Cristo. No se cree perfecto. Olvida lo que queda atrás y corre hacia la meta. Espera al Salvador, que vendrá del cielo."
+    },
+    {
+      "subtitulo": "La paz de Dios",
+      "texto": "Dos mujeres de la iglesia, Evodia y Síntique, no se ponen de acuerdo. Pablo les ruega vivir en paz. Luego dice a todos: «Gozaos en el Señor siempre». No se angustien por nada: oren y den gracias. Y la paz de Dios, que supera todo entendimiento, cuidará su corazón."
+    },
+    {
+      "subtitulo": "Contento en todo",
+      "texto": "Los filipenses le enviaron una ofrenda, y Pablo da gracias. Él aprendió a vivir con poco y con mucho, con hambre y con abundancia. Su secreto es Jesús: «Todo lo puedo en Cristo que me fortalece». Y les asegura que Dios suplirá todo lo que les falte."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Filipenses 2 canta quién es Jesús: siendo igual a Dios, se hizo siervo y obedeció hasta la cruz. Isaías había anunciado que ante Dios se doblaría toda rodilla. Pablo lo ve cumplido en Jesús: toda lengua confesará que él es el Señor.",
+    "refs": ["Filipenses 2:5-11", "Isaías 45:23"]
+  },
+
+  "mundo": "Filipos era una colonia romana en Macedonia, en el norte de Grecia. Muchos de sus vecinos eran soldados retirados, orgullosos de ser ciudadanos de Roma. Pablo les recuerda que «nuestra vivienda es en los cielos».",
+
+  "antes": "Pablo escribió a Filemón para pedirle que recibiera a Onésimo como a un hermano.",
+  "despues": "Pablo escribe a Timoteo, su hijo en la fe, para enseñarle a cuidar la iglesia.",
+
+  "conexiones": [
+    { "ref": "Isaías 45:23", "motivo": "Ante Dios se doblará toda rodilla, anunció el profeta." },
+    { "ref": "Isaías 41:10", "motivo": "Dios promete a los suyos: no temas, yo te esfuerzo." },
+    { "ref": "1 Pedro 5:7", "motivo": "Echar sobre Dios toda preocupación, porque él cuida de nosotros." },
+    { "ref": "Mateo 6:25", "motivo": "Jesús también enseñó a no vivir angustiados." }
+  ],
+
+  "glosario": ["evangelio", "fariseo", "cruz", "pretorio"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cambia cada preocupación por una oración con gracias, como enseña Filipenses 4:6.",
+    "pregunta": "¿Qué te roba hoy la alegría que Dios te quiere dar?"
+  },
+
+  "meditar": "Señor Jesús, tú te hiciste siervo por amor. Dame tu humildad y tu alegría. Cuando me preocupe, que tu paz guarde mi corazón. Amén.",
+
+  "ninos": {
+    "pregunta": "Pablo estaba preso y aun así estaba alegre. ¿Cómo puede ser?",
+    "actividad": "Haz un frasco de gracias: cada día pon un papel con algo bueno que Dios te dio."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Dónde estaba Pablo cuando escribió Filipenses?",
+      "opciones": ["De viaje por el mar", "En su casa de Tarso", "Preso, en cadenas"],
+      "correcta": 2,
+      "explicacion": "Pablo cuenta que sus prisiones hacen avanzar el evangelio (Filipenses 1:12-14).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Filipenses 2, ¿qué hizo Jesús siendo igual a Dios?",
+      "opciones": ["Se hizo siervo y obedeció hasta la cruz", "Se quedó lejos, en el cielo", "Pidió que todos lo sirvieran"],
+      "correcta": 0,
+      "explicacion": "«se humilló a sí mismo, hecho obediente hasta la muerte» (Filipenses 2:8).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que ante Dios se doblaría toda rodilla?",
+      "opciones": ["Jonás", "Isaías", "Malaquías"],
+      "correcta": 1,
+      "explicacion": "Isaías 45:23 lo anuncia; Pablo lo ve cumplido en Jesús (Filipenses 2:10-11).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Phil.1", "Phil.2", "Phil.3", "Phil.4"], "minutos": 12 },
+
+  "temas": ["alegria", "humildad", "oracion", "esperanza", "sufrimiento"],
+  "cadenas": ["el-siervo-sufriente"]
+}

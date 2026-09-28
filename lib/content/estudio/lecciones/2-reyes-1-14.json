@@ -1,0 +1,142 @@
+{
+  "id": "2-reyes-1-14",
+  "orden": 25,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Eliseo y los reyes de Israel y Judá",
+  "pasajes": ["2Kgs.1.1-2Kgs.14.29", "2Chr.21.1-2Chr.25.28"],
+  "libros": ["2Kgs"],
+
+  "enUnMinuto": [
+    "Elías sube al cielo, y Eliseo sigue su obra en Israel, el reino del norte.",
+    "Jehú acaba con la casa de Acab, y en Judá Dios salva al niño Joás, heredero de David.",
+    "Dios revela que cuida de pobres y extranjeros, y que nunca olvida su promesa."
+  ],
+
+  "versiculo": {
+    "texto": "Y él le dijo: No hayas miedo: porque más son los que están con nosotros que los que están con ellos.",
+    "referencia": "2 Reyes 6:16",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 850–790 a.C.", "desde": -850, "hasta": -790, "certeza": "aprox" },
+  "fechaEscrito": {
+    "texto": "Terminado c. 560 a.C.",
+    "desde": -561,
+    "hasta": -540,
+    "certeza": "aprox",
+    "nota": "El último hecho que cuenta es de c. 561 a.C. (2 Reyes 25:27). Usa crónicas más antiguas de los reyes."
+  },
+  "autor": { "texto": "Autor anónimo.", "nota": "Una antigua tradición judía lo atribuye a Jeremías. El libro no lo dice." },
+
+  "lugar": { "nombre": "Israel (norte) y Judá (sur)", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "elias", "nombre": "Elías", "linea": "Sube al cielo en un torbellino y deja su manto." },
+    { "id": "eliseo", "nombre": "Eliseo", "linea": "Profeta del norte; sana, alimenta y da vida en nombre de Dios." },
+    { "id": "naaman", "nombre": "Naamán", "linea": "General de Siria; queda limpio de la lepra al obedecer." },
+    { "id": "jehu", "nombre": "Jehú", "linea": "Rey de Israel (norte); acaba con Baal, no con los becerros." },
+    { "id": "jezabel", "nombre": "Jezabel", "linea": "Muere en Jezreel, como Elías había anunciado." },
+    { "id": "jonas", "nombre": "Jonás", "linea": "Profeta del norte; anuncia que Israel recobrará sus fronteras." }
+  ],
+
+  "eventos": [
+    { "texto": "Elías sube al cielo y Eliseo recibe su manto", "ref": "2 Reyes 2:1-15" },
+    { "texto": "El hijo de la sunamita vuelve a vivir", "ref": "2 Reyes 4:8-37" },
+    { "texto": "Naamán queda limpio en el río Jordán", "ref": "2 Reyes 5:1-14" },
+    { "texto": "Dios abre los ojos del criado de Eliseo", "ref": "2 Reyes 6:8-23" },
+    { "texto": "Jehú es ungido rey de Israel", "ref": "2 Reyes 9:1-13" },
+    { "texto": "Joás, el rey niño, es coronado en Judá", "ref": "2 Reyes 11:1-21" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "El manto de Elías",
+      "texto": "En Israel, el reino del norte, Elías camina con Eliseo hasta el Jordán. Eliseo le pide «las dos partes de tu espíritu». Un carro de fuego los separa, y Elías sube al cielo en un torbellino. Eliseo toma su manto y golpea el agua. El río se abre. Ahora él es el profeta."
+    },
+    {
+      "subtitulo": "Milagros de bondad",
+      "texto": "Eliseo ayuda a gente sencilla. Una viuda pobre llena muchas vasijas con un poco de aceite y paga sus deudas. Una mujer de Sunem le prepara un cuarto, y Dios le da un hijo. Cuando el niño muere, Eliseo ora y el niño vuelve a vivir. Con veinte panes alimenta a cien hombres, y sobra."
+    },
+    {
+      "subtitulo": "Naamán en el Jordán",
+      "texto": "Naamán, general de Siria, tiene lepra. Una muchacha israelita, cautiva en su casa, le habla del profeta. Eliseo le manda lavarse siete veces en el Jordán. Naamán se enoja, pero al fin obedece. Su piel queda como la de un niño. Entonces confiesa que no hay otro Dios en toda la tierra."
+    },
+    {
+      "subtitulo": "Carros de fuego alrededor",
+      "texto": "El rey de Siria rodea con su ejército la ciudad de Eliseo. Su criado tiembla. Eliseo le dice que son más los que están con ellos. Dios abre los ojos del joven, y ve el monte lleno de carros de fuego. Después, Eliseo da de comer a sus enemigos y los deja ir en paz."
+    },
+    {
+      "subtitulo": "Jehú, rey del norte",
+      "texto": "En el norte, Eliseo manda ungir a Jehú como rey de Israel. Jehú acaba con la familia de Acab, y Jezabel muere como anunció Elías. También destruye el culto a Baal. Pero deja los becerros de oro de Betel y Dan. El norte sigue lejos de Dios."
+    },
+    {
+      "subtitulo": "Un niño escondido",
+      "texto": "En Judá, el reino del sur, la reina Atalía, de la familia de Acab, quiere acabar con la familia real. Pero Josaba esconde al pequeño Joás en el templo durante seis años. El sacerdote Joiada lo corona a los siete años. Así Dios guarda viva la familia de David, como había prometido."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Crónicas mira a Judá. Joás es fiel mientras vive el sacerdote Joiada. Después se aparta y manda apedrear a Zacarías, hijo de Joiada, que lo llamaba a volver." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús recuerda a Naamán: Dios sanó a un extranjero que confió en su palabra. Eliseo alimentó a cien hombres con veinte panes de cebada. Jesús alimenta a una multitud con cinco panes de cebada, y también sobra. Y en Joás, el niño escondido, Dios guarda la familia de David, de la que nacerá Jesús.",
+    "refs": ["Lucas 4:27", "Juan 6:9-13"]
+  },
+
+  "mundo": "El rey asirio Salmanasar III levantó el Obelisco Negro, hoy en Londres. En él, un hombre se inclina ante el rey. La inscripción nombra a Jehú, rey de Israel, que paga tributo.",
+
+  "antes": "El profeta Joel llamó a Judá a volver a Dios y anunció el Espíritu para todos.",
+  "despues": "Jonás, profeta de Israel, recibe una misión inesperada: predicar en Nínive, la gran ciudad de Asiria.",
+
+  "conexiones": [
+    { "ref": "Lucas 4:27", "motivo": "Jesús recuerda que Naamán, un extranjero, fue sanado en tiempos de Eliseo." },
+    { "ref": "Romanos 8:31", "motivo": "Si Dios está con nosotros, nadie puede contra nosotros." },
+    { "ref": "Juan 6:9", "motivo": "Panes de cebada que alcanzan para muchos, como con Eliseo." },
+    { "ref": "Lucas 11:51", "motivo": "Jesús recuerda la sangre de Zacarías, muerto junto al templo." }
+  ],
+
+  "glosario": ["profeta", "lepra", "ungido", "sacerdote"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ayuda en secreto a alguien que pasa necesidad, como Eliseo con la viuda.",
+    "pregunta": "¿Qué miedo no te deja ver que Dios está contigo?"
+  },
+
+  "meditar": "Señor, abre mis ojos para ver que no estoy solo. Hazme humilde como Naamán para obedecer tu palabra. Amén.",
+
+  "ninos": {
+    "pregunta": "Naamán se lavó siete veces en el río Jordán. ¿Qué le pasó después?",
+    "actividad": "Corta siete gotas de papel azul y escribe en cada una algo por lo que das gracias."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cómo subió Elías al cielo?",
+      "opciones": ["En un torbellino, con carro de fuego", "En una nube, desde un monte", "En una barca, por el mar"],
+      "correcta": 0,
+      "explicacion": "Un carro de fuego lo separó de Eliseo, y subió en un torbellino (2 Reyes 2:11).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cuántas veces se lavó Naamán en el río Jordán?",
+      "opciones": ["Tres veces", "Siete veces", "Doce veces"],
+      "correcta": 1,
+      "explicacion": "Obedeció a Eliseo, se zambulló siete veces y quedó limpio (2 Reyes 5:14).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "En Lucas 4, ¿a qué extranjero sanado en tiempos de Eliseo recuerda Jesús?",
+      "opciones": ["A Ben-adad, rey de Siria", "A Hazael de Damasco", "A Naamán, el sirio"],
+      "correcta": 2,
+      "explicacion": "Jesús dice que, de todos los leprosos, solo Naamán el sirio fue limpio (Lucas 4:27).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Kgs.2", "2Kgs.4", "2Kgs.5", "2Kgs.6", "2Kgs.11"], "minutos": 25 },
+
+  "temas": ["fe", "obediencia", "providencia", "gracia", "oracion"],
+  "cadenas": ["el-rey-de-david", "las-naciones"]
+}

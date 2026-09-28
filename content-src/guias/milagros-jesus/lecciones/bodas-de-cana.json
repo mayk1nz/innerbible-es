@@ -1,0 +1,102 @@
+{
+  "id": "bodas-de-cana",
+  "titulo": "El agua que se volvió vino",
+  "subtitulo": "Milagro 1 de 43 · Las bodas de Caná",
+  "etiquetas": ["Caná de Galilea", "Año 1 · c. 27 d.C.", "Naturaleza y provisión", "Señal de Juan · 1 de 7"],
+  "enUnMinuto": [
+    "En una boda en Caná se acaba el vino, y la familia de los novios está por pasar vergüenza.",
+    "Jesús convierte en vino el agua de seis tinajas de piedra, y el mejor vino llega al final.",
+    "Es la primera señal de Jesús: muestra su gloria, y sus discípulos creen en él."
+  ],
+  "versiculo": {
+    "texto": "Este principio de señales hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en él.",
+    "referencia": "Juan 2:11"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Juan 2:1-11", "nota": "Solo lo cuenta Juan. Mateo, Marcos y Lucas no traen este relato." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús y sus primeros discípulos fueron invitados a una boda en Caná de Galilea. La madre de Jesús también estaba allí. En aquel tiempo, las bodas solían ser fiestas largas, con mucha gente invitada. Si faltaba la comida o la bebida, la familia de los novios pasaba vergüenza.",
+        "En medio de la fiesta se acabó el vino. María se dio cuenta y se lo dijo a Jesús en pocas palabras: «Vino no tienen». Jesús le respondió que aún no había llegado su hora. Pero ella dijo a los que servían: «Haced todo lo que os dijere».",
+        "Allí había seis tinajas de piedra. Guardaban el agua para los lavados religiosos de los judíos, y en cada una cabían dos o tres cántaros. Jesús pidió que las llenaran de agua, y los sirvientes las llenaron hasta arriba. Luego les dijo que sacaran un poco y lo llevaran al maestresala.",
+        "El maestresala probó el agua, que ya era vino. Él no sabía de dónde venía, pero los sirvientes sí lo sabían. Entonces llamó al novio y le dijo que todos sirven primero el vino bueno. «mas tú has guardado el buen vino hasta ahora». Así mostró Jesús su gloria, y sus discípulos creyeron en él."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Tinaja: vasija muy grande para guardar agua. La RV1909 dice «tinajuelas».",
+        "Maestresala: el encargado de la comida y la bebida del banquete.",
+        "«Mujer»: así llama Jesús a su madre. No es una falta de respeto: es una forma digna de hablar, y la usa también desde la cruz (Juan 19:26)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "A Jesús le importan las personas sencillas: no dejó a una familia pasar vergüenza en su gran día. La creación le obedece: sin espectáculo, el agua se hizo vino. Es generoso: no dio lo justo, dio mucho y lo mejor. Y sus milagros son señales. Juan los llama así porque apuntan a quién es Jesús."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Tal vez en tu vida también se acabó el vino: las fuerzas, la paciencia o la alegría. Haz lo que hizo María: lleva a Jesús lo que falta, tal como es. Haz lo que hicieron los sirvientes: obedece en lo pequeño que está en tus manos. Ellos solo llenaron tinajas; lo demás lo hizo Jesús. Para hoy: escribe en una frase qué se te acabó y díselo a él."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú viste la necesidad de una familia en plena fiesta y no la dejaste sola. Hoy pongo delante de ti lo que me falta. Ayúdame a obedecerte en las cosas pequeñas y a confiar en que guardas lo mejor. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "En una boda se acabó el vino. Jesús convirtió el agua de seis tinajas enormes en un vino riquísimo. ¡A él le importan las personas! Los sirvientes ayudaron. ¿Y tú, cómo puedes ayudar hoy en casa?",
+      "actividad": "Con un adulto, llena una jarra de agua y cuenta cuántos vasos salen. Después imagina seis tinajas mucho más grandes."
+    },
+    {
+      "tipo": "nota",
+      "texto": "¿Sabías que…? En cada tinaja cabían unos 80 a 120 litros. ¡Eran cientos de litros de vino! Natanael, uno de los primeros discípulos, era de Caná (Juan 21:2). Hoy se proponen dos sitios para la antigua Caná: Kafr Kanna y Khirbet Qana."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "Génesis 41:55", "nota": "En tiempo de hambre, el faraón dice: «Id a José, y haced lo que él os dijere». María dice casi lo mismo señalando a Jesús." },
+        { "ref": "Amós 9:13", "nota": "El profeta anuncia días en que «los montes destilarán mosto»: abundancia cuando Dios restaure todo." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "Juan llama «señales» a los milagros de Jesús y explica para qué los escribió (Juan 20:30-31). Muchos lectores cuentan siete señales en su evangelio antes de la cruz. Esta es la primera. Las fechas son aproximadas; otra cronología frecuente sitúa el ministerio de Jesús en 30–33 d.C."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Qué se acabó en la boda de Caná?",
+      "opciones": ["El pan", "El vino", "El agua"],
+      "correcta": 1,
+      "explicacion": "Se acabó el vino, y la madre de Jesús se lo dijo a él (Juan 2:3)."
+    },
+    {
+      "pregunta": "¿Qué dijo María a los que servían?",
+      "opciones": ["«Haced todo lo que os dijere»", "«Id a comprar más vino»", "«Llamad al maestresala»"],
+      "correcta": 0,
+      "explicacion": "María señaló a Jesús y pidió que le obedecieran (Juan 2:5)."
+    },
+    {
+      "pregunta": "¿Por qué Juan llama «señal» a este milagro?",
+      "opciones": ["Porque ocurrió en el templo", "Porque fue el más grande de todos", "Porque apunta a quién es Jesús"],
+      "correcta": 2,
+      "explicacion": "Las señales muestran la gloria de Jesús para que creamos en él (Juan 2:11; 20:31)."
+    }
+  ],
+  "estudio": ["inicio-ministerio"],
+  "buscar": "Juan 2:1-11"
+}

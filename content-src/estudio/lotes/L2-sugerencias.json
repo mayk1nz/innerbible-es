@@ -1,0 +1,24 @@
+{
+  "glosario": [
+    { "id": "espigar", "termino": "Espigar", "definicion": "Recoger las espigas que quedaban en el campo después de la cosecha. La Ley lo permitía a pobres y extranjeros." },
+    { "id": "ofrenda-de-paz", "termino": "Ofrenda de paz", "definicion": "Sacrificio que terminaba en una comida compartida, como señal de amistad con Dios." },
+    { "id": "macho-cabrio-emisario", "termino": "Macho cabrío emisario", "definicion": "Animal que, el Día de la expiación, se enviaba al desierto cargado con los pecados del pueblo." },
+    { "id": "oye-israel", "termino": "«Oye, Israel» (Shemá)", "definicion": "Oración de Deuteronomio 6:4-9. Jesús la llamó el primer mandamiento." },
+    { "id": "baal", "termino": "Baal", "definicion": "Dios cananeo de la lluvia y la fertilidad. Israel cayó muchas veces en su culto." },
+    { "id": "filisteos", "termino": "Filisteos", "definicion": "Pueblo de la costa de Canaán. Fue rival de Israel en tiempos de Sansón, Saúl y David." },
+    { "id": "moab", "termino": "Moab (moabita)", "definicion": "Pueblo vecino de Israel, al este del mar Muerto. De allí era Rut." }
+  ],
+  "personajes": [
+    { "id": "nadab-y-abiu", "nombre": "Nadab y Abiú", "rv1909": "Nadab y Abiú", "linea": "Hijos de Aarón; ofrecieron un fuego que Dios no mandó.", "lecciones": ["exodo", "levitico", "numeros"] },
+    { "id": "eleazar", "nombre": "Eleazar", "linea": "Hijo de Aarón; sumo sacerdote después de su padre.", "lecciones": ["levitico", "numeros", "josue"] },
+    { "id": "core", "nombre": "Coré", "linea": "Levita que se rebeló contra Moisés y Aarón en el desierto.", "lecciones": ["numeros"] },
+    { "id": "balac", "nombre": "Balac", "linea": "Rey de Moab que pagó a Balaam para maldecir a Israel.", "lecciones": ["numeros"] },
+    { "id": "acan", "nombre": "Acán", "rv1909": "Achân", "linea": "Tomó lo que Dios prohibió en Jericó; Israel perdió en Hai.", "lecciones": ["josue"] },
+    { "id": "otoniel", "nombre": "Otoniel", "rv1909": "Othoniel", "linea": "Primer juez de Israel, hermano menor de Caleb.", "lecciones": ["jueces"] },
+    { "id": "barac", "nombre": "Barac", "linea": "Guerrero que venció a Sísara, animado por la jueza Débora.", "lecciones": ["jueces"] },
+    { "id": "jefte", "nombre": "Jefté", "rv1909": "Jephté", "linea": "Juez de Galaad; hizo un voto apresurado que le costó mucho.", "lecciones": ["jueces"] },
+    { "id": "dalila", "nombre": "Dalila", "linea": "Mujer que descubrió el secreto de Sansón y lo entregó.", "lecciones": ["jueces"] },
+    { "id": "orfa", "nombre": "Orfa", "rv1909": "Orpha", "linea": "Nuera de Noemí; se despidió y volvió a Moab.", "lecciones": ["rut"] },
+    { "id": "obed", "nombre": "Obed", "linea": "Hijo de Rut y Booz; abuelo del rey David.", "lecciones": ["rut"] }
+  ]
+}

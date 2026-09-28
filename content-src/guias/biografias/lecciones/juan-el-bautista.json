@@ -1,0 +1,128 @@
+{
+  "id": "juan-el-bautista",
+  "titulo": "Juan el Bautista",
+  "subtitulo": "La voz que preparó el camino",
+  "etiquetas": ["Siglo I", "Alrededor de Jesús", "Judea y el río Jordán"],
+  "enUnMinuto": [
+    "Juan nació cuando sus padres ya eran ancianos, como un regalo de Dios.",
+    "Vivió en el desierto y llamó al pueblo a cambiar de vida y a bautizarse en el río Jordán.",
+    "Bautizó a Jesús, lo señaló como el Cordero de Dios y se alegró de hacerse pequeño para que Jesús creciera."
+  ],
+  "versiculo": { "texto": "A él conviene crecer, mas a mí menguar.", "referencia": "Juan 3:30" },
+  "bloques": [
+    {
+      "tipo": "texto",
+      "titulo": "Quién era",
+      "parrafos": [
+        "Juan era hijo de Zacarías, un sacerdote, y de Elisabet (Lucas 1:5). Su nombre viene del hebreo Yojanán: “Dios tiene misericordia”. Lo llamamos “el Bautista” porque bautizaba a la gente en el río Jordán.",
+        "Vivió en el siglo I, en tiempos de Jesús. Creció en el desierto (Lucas 1:80) y predicó junto al Jordán, en Betábara y en Enón (Juan 1:28; 3:23). Vestía ropa de pelo de camello y comía langostas y miel silvestre (Mateo 3:4)."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Su historia, paso a paso",
+      "items": [
+        "Un hijo esperado. Zacarías y Elisabet eran justos, pero ya eran mayores y no tenían hijos. En el templo, el ángel Gabriel anunció que tendrían un hijo llamado Juan (Lucas 1:5-25).",
+        "Salta de alegría. María, embarazada de Jesús, visitó a Elisabet, su parienta. Al oír su saludo, el niño saltó de alegría en el vientre de su madre (Lucas 1:39-45).",
+        "«Juan es su nombre». Los parientes querían llamarlo como su padre. Zacarías, que estaba mudo, escribió el nombre en una tablilla y volvió a hablar (Lucas 1:57-66).",
+        "Una voz en el desierto. En el año quince del emperador Tiberio, Dios habló a Juan en el desierto. Juan anunció lo que había dicho Isaías: preparen el camino del Señor (Lucas 3:1-6).",
+        "Cambiar de vida de verdad. Muchos venían a bautizarse. Juan les pedía frutos concretos: compartir ropa y comida, no cobrar de más y no abusar de nadie (Lucas 3:10-14).",
+        "Bautiza a Jesús. Jesús vino desde Galilea para ser bautizado. Juan no quería, porque sentía que él necesitaba a Jesús. Entonces el Espíritu bajó como paloma y el Padre habló (Mateo 3:13-17).",
+        "«He aquí el Cordero de Dios». Así señaló Juan a Jesús. Dos de sus discípulos, uno de ellos Andrés, se fueron detrás de Jesús (Juan 1:29-40).",
+        "Feliz de hacerse pequeño. Sus discípulos se inquietaron porque todos iban a Jesús. Juan dijo que era como el amigo del esposo, que se alegra al oírlo (Juan 3:26-30).",
+        "Preso por decir la verdad. Juan le dijo a Herodes, gobernante de Galilea, que no debía tener a Herodías, la esposa de su hermano. Herodes lo encerró (Marcos 6:17-18).",
+        "Una pregunta desde la cárcel. Juan mandó a preguntar a Jesús si era él el que había de venir. Jesús respondió con lo que hacía: sanaba y anunciaba buenas noticias (Mateo 11:2-6).",
+        "El elogio de Jesús. Jesús dijo que Juan era más que un profeta. Entre los nacidos de mujer, nadie era mayor que él (Mateo 11:7-11).",
+        "Fiel hasta el final. En una fiesta, Herodes hizo una promesa imprudente y mandó matar a Juan en la cárcel. Sus discípulos lo enterraron y avisaron a Jesús (Mateo 14:6-12)."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Jesús en esta historia",
+      "tono": "navy",
+      "texto": "Toda la vida de Juan apunta a Jesús. Juan no era la luz, sino el que hablaba de la luz (Juan 1:8). Señaló a Jesús como el Cordero que quita el pecado del mundo. Y Jesús honró a Juan: lo llamó el mensajero que prepara el camino (Mateo 11:10)."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lecciones para hoy",
+      "items": [
+        "Señalar a Jesús, no a ti mismo. Juan tenía multitudes y aun así quiso menguar. Esta semana, cuando te feliciten por algo bueno, da gracias a Dios en voz alta.",
+        "El cambio se nota en lo concreto. Juan habló de ropa, comida y dinero. Esta semana, regala algo que te sobra a alguien que lo necesita.",
+        "Las dudas se llevan a Jesús. Juan, en la cárcel, le llevó su pregunta a Jesús. Esta semana, escribe tu duda más honda y preséntasela en oración."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para tu vida hoy",
+      "tono": "gold",
+      "texto": "Juan se alegró de que Jesús fuera el centro. ¿En qué parte de tu vida estás buscando brillar tú? ¿Qué cambiaría si dejaras que Jesús creciera allí?"
+    },
+    {
+      "tipo": "biblia-tradicion",
+      "biblia": [
+        "Su madre, Elisabet, era parienta de María (Lucas 1:36). La Biblia no dice el grado exacto de ese parentesco.",
+        "Juan bautizó a Jesús en el río Jordán (Mateo 3:13-17; Marcos 1:9). Es un hecho que cuentan los Evangelios.",
+        "Vino «con el espíritu y virtud de Elías» (Lucas 1:17). Juan mismo dijo que no era Elías en persona (Juan 1:21).",
+        "Herodes lo mandó matar en la cárcel (Marcos 6:27). La Biblia no dice cómo se llamaba la hija de Herodías."
+      ],
+      "tradicion": [
+        "Muchos cristianos llaman primos a Juan y a Jesús, por el parentesco de sus madres.",
+        "Historia: el historiador judío Flavio Josefo, del siglo I, también habla de Juan. Cuenta que Herodes lo tuvo preso en la fortaleza de Maqueronte.",
+        "Por Josefo se conoce el nombre de la hija de Herodías: Salomé.",
+        "Muchas iglesias celebran su nacimiento el 24 de junio, la fiesta de San Juan. Los ortodoxos lo llaman “el Precursor”.",
+        "Una tradición antigua sitúa su pueblo natal en Ain Karem, cerca de Jerusalén."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "No lo confundas con Juan el apóstol, hijo de Zebedeo, ni con Juan Marcos, compañero de Pablo. Son tres personas distintas."
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "¿Dónde aparece en la Biblia?",
+      "items": [
+        { "ref": "Isaías 40:3", "nota": "La voz que clama en el desierto" },
+        { "ref": "Malaquías 4:5-6", "nota": "La promesa de Elías" },
+        { "ref": "Lucas 1:5-80", "nota": "Anuncio y nacimiento" },
+        { "ref": "Lucas 3:1-20", "nota": "Lo que predicaba" },
+        { "ref": "Mateo 3:1-17", "nota": "El bautismo de Jesús" },
+        { "ref": "Juan 1:19-37", "nota": "El Cordero de Dios" },
+        { "ref": "Juan 3:22-30", "nota": "El amigo del esposo" },
+        { "ref": "Mateo 11:2-19", "nota": "La pregunta desde la cárcel" },
+        { "ref": "Marcos 6:14-29", "nota": "Su muerte" },
+        { "ref": "Hechos 19:1-7", "nota": "Discípulos de Juan en Éfeso" }
+      ]
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Juan señalaba a Jesús para que todos lo conocieran. ¿A quién te gustaría hablarle de Jesús esta semana?",
+      "actividad": "Para papás y abuelos: Juan quería que Jesús fuera grande (Juan 3:30). Dibujen juntos a Juan señalando a Jesús y oren por la persona que el niño nombró."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, como Juan, quiero señalarte a ti. Crece tú en mi vida y enséñame a hacerme pequeño. Cuando dude, recibe mi pregunta. Amén."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Dónde bautizaba Juan a la gente?",
+      "opciones": ["En el mar de Galilea", "En el río Jordán", "En el templo de Jerusalén"],
+      "correcta": 1,
+      "explicacion": "Juan bautizaba en el Jordán, y allí también bautizó a Jesús (Mateo 3:13)."
+    },
+    {
+      "pregunta": "¿Qué dijo Juan cuando vio que todos iban a Jesús?",
+      "opciones": ["Que se iría a otra ciudad", "Que Jesús le quitaba seguidores", "Que Jesús debía crecer y él menguar"],
+      "correcta": 2,
+      "explicacion": "Juan se alegró como el amigo del esposo: «A él conviene crecer» (Juan 3:30)."
+    },
+    {
+      "pregunta": "¿Qué profeta habló de una voz que clama en el desierto?",
+      "opciones": ["Isaías", "Jonás", "Daniel"],
+      "correcta": 0,
+      "explicacion": "Isaías 40:3 anunció esa voz, y los Evangelios la ven cumplida en Juan (Mateo 3:3)."
+    }
+  ],
+  "estudio": ["anuncios", "inicio-ministerio"],
+  "buscar": "Juan el Bautista"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "esdras-7-10",
+  "orden": 47,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Esdras enseña la Ley de Dios",
+  "pasajes": ["Ezra.7.1-Ezra.10.44"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Esdras, sacerdote y escriba, viaja de Babilonia a Jerusalén con permiso del rey de Persia.",
+    "Dios los guarda en el camino, y Esdras llora y ora cuando el pueblo se aparta de su pacto.",
+    "Dios revela que su buena mano acompaña a quienes buscan su palabra."
+  ],
+
+  "versiculo": {
+    "texto": "Porque Esdras había preparado su corazón para inquirir la ley de Jehová, y para hacer y enseñar a Israel mandamientos y juicios.",
+    "referencia": "Esdras 7:10",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "458 a.C.",
+    "desde": -458,
+    "hasta": -457,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "Del río Ahava a Jerusalén", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "esdras", "nombre": "Esdras", "linea": "Sacerdote y escriba; estudia la Ley, la vive y la enseña." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Primer sumo sacerdote; Esdras desciende de su familia." },
+    { "id": "david", "nombre": "David", "linea": "Había organizado el servicio de los levitas en el templo." }
+  ],
+
+  "eventos": [
+    { "texto": "Esdras sale de Babilonia con permiso del rey", "ref": "Esdras 7:6-10" },
+    { "texto": "Artajerjes le da una carta y ofrendas", "ref": "Esdras 7:11-26" },
+    { "texto": "Ayunan junto al río antes del viaje", "ref": "Esdras 8:21-23" },
+    { "texto": "Llegan sanos y salvos a Jerusalén", "ref": "Esdras 8:31-36" },
+    { "texto": "Esdras ora y confiesa el pecado del pueblo", "ref": "Esdras 9:5-15" },
+    { "texto": "El pueblo promete volver a cumplir la Ley", "ref": "Esdras 10:1-17" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un maestro de la Ley",
+      "texto": "Pasaron casi sesenta años desde que se terminó el templo. En Babilonia vive Esdras, sacerdote de la familia de Aarón. Es escriba y conoce bien la Ley de Moisés. Había preparado su corazón para estudiarla, cumplirla y enseñarla. El rey Artajerjes le da permiso para ir a Jerusalén."
+    },
+    {
+      "subtitulo": "La buena mano de Dios",
+      "texto": "El rey le entrega una carta, plata y oro para la casa de Dios. Esdras lo reconoce: fue Dios quien movió al rey. Reúne a familias, sacerdotes y levitas para el viaje. Una y otra vez repite que la mano de su Dios estaba sobre él."
+    },
+    {
+      "subtitulo": "Ayuno junto al río",
+      "texto": "Antes de partir, se reúnen junto al río Ahava. El camino es largo y peligroso. Esdras siente vergüenza de pedir soldados al rey, porque le había dicho que Dios cuida a los que lo buscan. Por eso ayunan y oran. Unos meses después, llegan sanos a Jerusalén."
+    },
+    {
+      "subtitulo": "Una noticia que duele",
+      "texto": "Unos jefes le cuentan un problema. Muchos, incluso sacerdotes y jefes, se casaron con mujeres de pueblos que servían a otros dioses. La Ley lo prohibía para que el pueblo no se apartara del Señor. Esdras rasga su ropa y se sienta en silencio, muy afligido, hasta la tarde."
+    },
+    {
+      "subtitulo": "Una oración humilde",
+      "texto": "A la hora del sacrificio, Esdras se arrodilla y ora. No señala a otros: habla de «nuestras iniquidades». Reconoce que Dios fue bueno con ellos aun en la servidumbre. Mucha gente se reúne a llorar con él. Uno de ellos dice: «hay aún esperanza para Israel»."
+    },
+    {
+      "subtitulo": "Una decisión difícil",
+      "texto": "El pueblo acuerda despedir a esas esposas y a sus hijos, y una comisión revisa cada caso. Es una medida dolorosa: había niños. El texto une este problema a la idolatría de esos pueblos. La Biblia honra a extranjeros que eligieron a Dios, como Rut. Y Pablo pide no dejar al cónyuge que no cree."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Esdras enseña la Ley y llora por el pecado del pueblo como si fuera suyo. Jesús vino a cumplir la Ley, «no para abrogar». Y en él, gente de todas las naciones forma un solo pueblo: Jesús «de ambos hizo uno».",
+    "refs": ["Mateo 5:17", "Efesios 2:14"]
+  },
+
+  "mundo": "Artajerjes I gobierna Persia. Egipto se rebela contra él con ayuda de Atenas. En Atenas crece la democracia, y pocos años después se levantará el Partenón.",
+
+  "antes": "En Persia, Ester arriesgó su vida, y Dios libró a su pueblo del plan de Amán.",
+  "despues": "Trece años después, Nehemías llega a Jerusalén para levantar los muros caídos de la ciudad.",
+
+  "conexiones": [
+    { "ref": "1 Pedro 3:12", "motivo": "Los ojos del Señor están sobre los justos y oye sus oraciones." },
+    { "ref": "Mateo 7:24", "motivo": "Quien oye la palabra de Jesús y la hace, edifica sobre la roca." },
+    { "ref": "Mateo 7:7-8", "motivo": "Pedid, y se os dará: Dios responde a quien lo busca." },
+    { "ref": "Deuteronomio 7:3", "motivo": "La Ley pedía no casarse con pueblos que servían a otros dioses." }
+  ],
+
+  "glosario": ["escriba", "ley", "levita", "ayuno"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, prepara tu corazón como Esdras: lee un pasaje cada día y ponlo en práctica.",
+    "pregunta": "¿Hay algo que necesitas confesar a Dios con humildad?"
+  },
+
+  "meditar": "Señor, prepara mi corazón para conocer tu palabra, vivirla y compartirla. Cuando me aparte, dame humildad para volver a ti. Amén.",
+
+  "ninos": {
+    "pregunta": "Esdras prefirió confiar en Dios antes que pedir soldados. ¿En quién confías tú?",
+    "actividad": "Dibuja un camino largo y, encima, una gran mano que cuida a los viajeros."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué oficio tenía Esdras?",
+      "opciones": ["Rey de Persia", "Sacerdote y escriba", "Soldado del rey"],
+      "correcta": 1,
+      "explicacion": "Era «escriba diligente en la ley de Moisés» (Esdras 7:6).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué hicieron junto al río Ahava antes del viaje?",
+      "opciones": ["Pidieron soldados al rey", "Construyeron un altar", "Ayunaron y oraron"],
+      "correcta": 2,
+      "explicacion": "Esdras prefirió confiar en Dios antes que pedir tropas (Esdras 8:21-23).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué mujer moabita honra la Biblia por elegir al Dios de Israel?",
+      "opciones": ["Rut", "Jezabel", "Dalila"],
+      "correcta": 0,
+      "explicacion": "Rut dijo a Noemí: «tu Dios mi Dios». Fue bisabuela del rey David (Rut 1:16).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Ezra.7", "Ezra.8", "Ezra.9"], "minutos": 16 },
+
+  "temas": ["obediencia", "arrepentimiento", "oracion", "providencia"],
+  "cadenas": ["la-palabra-de-dios"]
+}

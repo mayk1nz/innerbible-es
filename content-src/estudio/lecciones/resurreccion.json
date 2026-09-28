@@ -1,0 +1,143 @@
+{
+  "id": "resurreccion",
+  "orden": 61,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "¡Resucitó! Apariciones y ascensión",
+  "pasajes": ["Matt.28.1-Matt.28.20", "Mark.16.1-Mark.16.20", "Luke.24.1-Luke.24.53", "John.20.1-John.21.25", "Acts.1.1-Acts.1.11"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Al tercer día, unas mujeres encuentran el sepulcro vacío, y Jesús resucitado se aparece a sus amigos.",
+    "Durante cuarenta días los consuela, les abre las Escrituras, los envía al mundo y sube al cielo.",
+    "Dios revela que la muerte no tiene la última palabra: Jesús vive para siempre."
+  ],
+
+  "versiculo": {
+    "texto": "No está aquí; porque ha resucitado, como dijo. Venid, ved el lugar donde fue puesto el Señor.",
+    "referencia": "Mateo 28:6",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 30 o 33 d.C., cuarenta días",
+    "desde": 30,
+    "hasta": 33,
+    "certeza": "debatida",
+    "nota": "Mismo año que la Pascua de la cruz. Jesús se aparece durante cuarenta días (Hechos 1:3)."
+  },
+
+  "lugar": { "nombre": "Jerusalén, Emaús y Galilea", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "Vence a la muerte, se aparece vivo y sube al cielo." },
+    { "id": "maria-magdalena", "nombre": "María Magdalena", "linea": "Llora junto al sepulcro y es la primera en ver a Jesús." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "Corre al sepulcro; junto al mar, Jesús lo restaura con amor." },
+    { "id": "juan-apostol", "nombre": "Juan", "linea": "La tradición lo ve en el discípulo amado, que vio y creyó." },
+    { "id": "cleofas", "nombre": "Cleofas", "linea": "Camina a Emaús con Jesús y lo reconoce al partir el pan." },
+    { "id": "tomas", "nombre": "Tomás", "linea": "Duda, ve las heridas y confiesa: «¡Señor mío, y Dios mío!»." }
+  ],
+
+  "eventos": [
+    { "texto": "Las mujeres encuentran el sepulcro vacío", "ref": "Mateo 28:1-10" },
+    { "texto": "Jesús se aparece a María Magdalena", "ref": "Juan 20:11-18" },
+    { "texto": "Jesús parte el pan con dos discípulos en Emaús", "ref": "Lucas 24:13-35" },
+    { "texto": "Tomás ve a Jesús y cree", "ref": "Juan 20:24-29" },
+    { "texto": "Jesús pregunta tres veces a Pedro si lo ama", "ref": "Juan 21:15-19" },
+    { "texto": "Jesús sube al cielo ante sus discípulos", "ref": "Hechos 1:6-11" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "El sepulcro vacío",
+      "texto": "El primer día de la semana, muy de mañana, unas mujeres van al sepulcro con perfumes. Entre ellas está María Magdalena. La piedra está quitada. Un ángel les dice: «No está aquí; porque ha resucitado, como dijo». Ellas corren a avisar a los discípulos, con temor y con gran gozo."
+    },
+    {
+      "subtitulo": "¡María!",
+      "texto": "Pedro y el discípulo amado corren al sepulcro. Ven los lienzos en el suelo, y el discípulo cree. María Magdalena se queda afuera, llorando. Jesús le habla, pero ella piensa que es el hortelano. Cuando él la llama por su nombre, lo reconoce. Ella va a anunciar: he visto al Señor."
+    },
+    {
+      "subtitulo": "Camino de Emaús",
+      "texto": "Esa tarde, dos discípulos caminan tristes hacia Emaús. Uno se llama Cleofas. Jesús se une a ellos, pero no lo reconocen. Les explica las Escrituras, desde Moisés y los profetas. En la mesa, Jesús parte el pan, y se les abren los ojos. Vuelven enseguida a Jerusalén: ¡el Señor ha resucitado!"
+    },
+    {
+      "subtitulo": "Paz a vosotros",
+      "texto": "Los discípulos están reunidos con las puertas cerradas. Jesús se pone en medio y les dice: «Paz a vosotros». Les muestra las manos y el costado, y come con ellos. Tomás no estaba, y no cree. Ocho días después, Jesús vuelve y lo invita a tocar sus heridas. Tomás lo adora."
+    },
+    {
+      "subtitulo": "¿Me amas?",
+      "texto": "Junto al mar de Galilea, siete discípulos pescan toda la noche sin sacar nada. Al amanecer, Jesús les dice dónde echar la red, y la llenan. Después comen juntos pan y pescado. Tres veces Jesús pregunta a Pedro si lo ama. Tres veces le confía sus ovejas. El que lo negó queda restaurado."
+    },
+    {
+      "subtitulo": "Testigos en todo el mundo",
+      "texto": "Durante cuarenta días, Jesús se aparece y habla del reino de Dios. Envía a los once a hacer discípulos en todas las naciones. Promete estar con ellos todos los días y enviarles el Espíritu Santo. Después sube al cielo, y una nube lo oculta. Es la ascensión. Dos varones anuncian que volverá."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Matt", "texto": "Cuenta el terremoto, la guardia pagada para callar y el envío final en un monte de Galilea." },
+    { "libro": "Mark", "texto": "Muestra a las mujeres temblando ante el sepulcro vacío. El ángel manda avisar «a sus discípulos y a Pedro»." },
+    { "libro": "Luke", "texto": "Cuenta el camino de Emaús y cómo Jesús come pescado ante los once. Continúa la historia en Hechos, con la ascensión." },
+    { "libro": "John", "texto": "Cuenta el encuentro con María Magdalena, la fe de Tomás y el desayuno junto al mar, donde Pedro es restaurado." }
+  ],
+
+  "jesusAqui": {
+    "texto": "La resurrección cumple lo que Jesús había anunciado: al tercer día resucitaría. Él mismo explica que Moisés, los profetas y los salmos hablaban de él. Pablo lo resume así: Cristo murió por nuestros pecados, fue sepultado y resucitó al tercer día, conforme a las Escrituras.",
+    "refs": ["1 Corintios 15:3-4", "Lucas 24:44"]
+  },
+
+  "mundo": "Roma une su imperio con calzadas, puertos y una lengua común, el griego. Por esos caminos, en pocos años, el mensaje de los testigos llegará a muchas ciudades.",
+
+  "antes": "Jesús murió en la cruz y fue sepultado en un huerto. Llegó el sábado, y todo quedó en silencio.",
+  "despues": "Diez días después, en Pentecostés, llega el Espíritu Santo y nace la Iglesia en Jerusalén.",
+
+  "conexiones": [
+    { "ref": "Salmos 16:10", "motivo": "El salmo anuncia que el santo de Dios no quedará en el sepulcro." },
+    { "ref": "Isaías 49:6", "motivo": "El siervo será luz de las naciones hasta lo último de la tierra." },
+    { "ref": "Josué 1:5", "motivo": "Como a Josué, Dios promete: no te dejaré." },
+    { "ref": "1 Pedro 1:8", "motivo": "Pedro alaba a los que aman a Jesús sin haberlo visto." }
+  ],
+
+  "glosario": ["resurreccion", "ascension", "sepulcro", "espiritu-santo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cuenta a alguien, con tus palabras, por qué la resurrección de Jesús te da esperanza.",
+    "pregunta": "Si Jesús te preguntara hoy «¿me amas?», ¿qué le responderías?"
+  },
+
+  "meditar": "Señor resucitado, tú vives y estás conmigo todos los días. Cuando dude como Tomás, muéstrame tus manos. Te digo con él: Señor mío, y Dios mío. Amén.",
+
+  "ninos": {
+    "pregunta": "María Magdalena reconoció a Jesús cuando él dijo su nombre. ¿Sabías que Jesús conoce tu nombre?",
+    "actividad": "Pinta una piedra grande y escribe en ella: «¡Resucitó!». Ponla en un lugar visible de tu casa."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A quién se apareció Jesús junto al sepulcro, según Juan 20?",
+      "opciones": ["A Poncio Pilato", "A María Magdalena", "A Caifás"],
+      "correcta": 1,
+      "explicacion": "Ella lloraba junto al sepulcro, y Jesús la llamó por su nombre (Juan 20:16).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cuándo reconocieron a Jesús los dos discípulos de Emaús?",
+      "opciones": ["Al verlo caminar sobre el agua", "Al oír un trueno del cielo", "Al partir el pan en la mesa"],
+      "correcta": 2,
+      "explicacion": "Jesús tomó el pan, lo bendijo y lo partió; entonces lo conocieron (Lucas 24:30-31).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué carta resume la fe: Cristo murió, fue sepultado y resucitó?",
+      "opciones": ["1 Corintios", "Filemón", "3 Juan"],
+      "correcta": 0,
+      "explicacion": "Pablo lo escribe en 1 Corintios 15:3-4: todo pasó «conforme a las Escrituras».",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Matt.28", "Luke.24", "John.20", "John.21", "Acts.1"], "minutos": 23 },
+
+  "temas": ["resurreccion", "esperanza", "fe", "perdon", "espiritu-santo"],
+  "cadenas": ["la-resurreccion", "el-espiritu"]
+}

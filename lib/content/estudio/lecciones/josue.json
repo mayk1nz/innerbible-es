@@ -1,0 +1,147 @@
+{
+  "id": "josue",
+  "orden": 13,
+  "seccion": "conquista",
+  "formato": "completo",
+  "titulo": "Israel entra en la tierra prometida",
+  "pasajes": ["Josh.1.1-Josh.24.33"],
+  "libros": ["Josh"],
+
+  "enUnMinuto": [
+    "Josué guía a Israel a cruzar el Jordán, conquistar Canaán y repartir la tierra entre las tribus.",
+    "Dios cumple su promesa a Abraham, y el pueblo elige servirle solo a él.",
+    "Dios revela que es fiel: «todo se cumplió», y está con los suyos dondequiera que vayan."
+  ],
+
+  "versiculo": {
+    "texto": "Mira que te mando que te esfuerces y seas valiente: no temas ni desmayes, porque Jehová tu Dios será contigo en donde quiera que fueres.",
+    "referencia": "Josué 1:9",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1406–1375 a.C.",
+    "desde": -1406,
+    "hasta": -1375,
+    "certeza": "debatida",
+    "nota": "Con la fecha tardía del éxodo, la entrada en Canaán sería c. 1230–1200 a.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "Fecha incierta",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "Quizá poco después de la conquista. La frase «hasta hoy», que se repite, muestra que se escribió algún tiempo después."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Josué, con añadidos posteriores.",
+    "nota": "Josué 24:26 dice que Josué escribió palabras en el libro de la ley. Su muerte la contó otra mano."
+  },
+
+  "lugar": { "nombre": "El Jordán, Jericó y Siquem", "mapa": "conquista" },
+
+  "personajes": [
+    { "id": "josue", "nombre": "Josué", "linea": "Sucesor de Moisés; guía al pueblo con valor y fe." },
+    { "id": "rahab", "nombre": "Rahab", "linea": "Mujer de Jericó que cree en Dios y esconde a los espías." },
+    { "id": "caleb", "nombre": "Caleb", "linea": "A los ochenta y cinco años, pide su monte y lo conquista." },
+    { "id": "moises", "nombre": "Moisés", "linea": "Ya murió; Dios estará con Josué como estuvo con él." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios anima a Josué a ser valiente", "ref": "Josué 1:1-9" },
+    { "texto": "Rahab esconde a los espías en Jericó", "ref": "Josué 2:1-21" },
+    { "texto": "Israel cruza el Jordán en seco", "ref": "Josué 3:14-17" },
+    { "texto": "Los muros de Jericó caen", "ref": "Josué 6:1-20" },
+    { "texto": "Josué reparte la tierra entre las tribus", "ref": "Josué 14:1-5" },
+    { "texto": "Josué renueva el pacto en Siquem", "ref": "Josué 24:14-25" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Esfuérzate y sé valiente",
+      "texto": "Moisés ha muerto. Ahora Dios habla a Josué: «Esfuérzate y sé valiente». Le promete estar con él como estuvo con Moisés. Le pide meditar en el libro de la Ley de día y de noche. Josué prepara al pueblo para cruzar el río Jordán."
+    },
+    {
+      "subtitulo": "Rahab y el cordón rojo",
+      "texto": "Josué envía dos espías a Jericó. Rahab, una mujer de la ciudad, los esconde en su terrado. Ella ha oído lo que Dios hizo en el mar. Cree que el Dios de Israel es Dios del cielo y de la tierra. Los espías prometen salvar a su familia si ata un cordón rojo a la ventana."
+    },
+    {
+      "subtitulo": "Piedras para recordar",
+      "texto": "Los sacerdotes entran en el Jordán con el arca del pacto. El agua se detiene, y todo el pueblo pasa en seco. Doce hombres sacan doce piedras del río para levantar un recuerdo. Cuando los hijos pregunten, los padres contarán lo que Dios hizo. Poco después, el maná deja de caer."
+    },
+    {
+      "subtitulo": "Los muros de Jericó",
+      "texto": "Seis días, el pueblo da una vuelta a Jericó en silencio, detrás del arca. El séptimo día da siete vueltas. Suenan las trompetas, el pueblo grita y los muros caen. La ciudad es destruida, pero Rahab y su familia se salvan. Después, Acán roba lo que Dios prohibió, e Israel pierde en Hai."
+    },
+    {
+      "subtitulo": "Una conquista difícil",
+      "texto": "Josué lucha contra muchos reyes de Canaán. Son guerras duras, con mucha muerte, y la Biblia no lo esconde. Las presenta como un juicio de Dios sobre pueblos muy corruptos, en un momento único. No son un modelo para hoy: Jesús nos enseña a amar a los enemigos. Y Rahab muestra que la misericordia estaba abierta."
+    },
+    {
+      "subtitulo": "Yo y mi casa",
+      "texto": "La tierra se reparte entre las tribus como heredad. Caleb, con ochenta y cinco años, pide su monte. Ya anciano, Josué reúne al pueblo en Siquem. Recuerda todo lo que Dios hizo y les pide elegir: «yo y mi casa serviremos a Jehová». El pueblo promete servir solo a Dios."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Josué y Jesús llevan el mismo nombre en hebreo, que quiere decir que el Señor salva. Hebreos dice que Josué dio al pueblo un descanso en la tierra, pero que queda un reposo mejor. Jesús nos lleva a ese descanso. Y Rahab, la extranjera salvada, aparece entre los antepasados de Jesús.",
+    "refs": ["Hebreos 4:8-9", "Mateo 1:5"]
+  },
+
+  "mundo": "Canaán está dividida en pequeñas ciudades, cada una con su propio rey. Unas cartas de esa época, halladas en Amarna, Egipto, muestran a esos reyes pidiendo ayuda al faraón.",
+
+  "antes": "Moisés se despidió del pueblo en los campos de Moab y murió en el monte Nebo.",
+  "despues": "Después de Josué, una nueva generación olvida a Dios. Empieza el tiempo de los jueces.",
+
+  "conexiones": [
+    { "ref": "Hebreos 11:30-31", "motivo": "Por la fe cayeron los muros, y por la fe Rahab se salvó." },
+    { "ref": "Santiago 2:25", "motivo": "Rahab mostró su fe con hechos al proteger a los mensajeros." },
+    { "ref": "Mateo 28:20", "motivo": "Como a Josué, Jesús promete a los suyos estar con ellos siempre." },
+    { "ref": "Juan 6:67-68", "motivo": "Como en Siquem, Pedro elige: solo Jesús tiene palabras de vida eterna." }
+  ],
+
+  "glosario": ["arca-del-pacto", "canaan", "heredad", "tribu"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, busca una piedra y escribe en ella algo que Dios hizo por tu familia.",
+    "pregunta": "En tus decisiones de cada día, ¿a quién sirven tú y tu casa?"
+  },
+
+  "meditar": "Señor, cuando tenga miedo, recuérdame que estás conmigo dondequiera que vaya. Yo y mi casa queremos servirte. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Para qué sacaron doce piedras del río Jordán?",
+    "actividad": "Junten piedras y, por cada una, cuenten algo bueno que Dios hizo en la familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué ató Rahab a su ventana?",
+      "opciones": ["Un cordón rojo", "Una lámpara encendida", "Una rama de olivo"],
+      "correcta": 0,
+      "explicacion": "Era la señal para que su familia se salvara (Josué 2:18-21).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cuántas vueltas dieron a Jericó el séptimo día?",
+      "opciones": ["Una vuelta", "Tres vueltas", "Siete vueltas"],
+      "correcta": 2,
+      "explicacion": "Seis días dieron una vuelta; el séptimo, siete, y los muros cayeron (Josué 6:15-20).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Dónde aparece Rahab en el Nuevo Testamento?",
+      "opciones": ["Entre los doce apóstoles", "Entre los antepasados de Jesús", "Entre los siete diáconos"],
+      "correcta": 1,
+      "explicacion": "Mateo 1:5 la nombra en la familia de la que nació Jesús.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Josh.1", "Josh.2", "Josh.3", "Josh.6", "Josh.24"], "minutos": 20 },
+
+  "temas": ["fe", "obediencia", "promesa", "familia", "valentia"],
+  "cadenas": ["la-promesa-a-abraham", "el-reposo-de-dios"]
+}

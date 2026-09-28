@@ -1,0 +1,150 @@
+{
+  "id": "genesis-1-11",
+  "orden": 6,
+  "seccion": "comienzos",
+  "formato": "completo",
+  "titulo": "En el principio",
+  "pasajes": ["Gen.1.1-Gen.11.32"],
+  "libros": ["Gen"],
+
+  "enUnMinuto": [
+    "Dios crea todo bueno, pero Adán y Eva desobedecen y el pecado entra en el mundo.",
+    "El mal crece hasta el diluvio y Babel, pero Dios salva a Noé y hace pacto con la tierra.",
+    "Dios revela que es el Creador bueno, que busca y no abandona a los que se alejan de él."
+  ],
+
+  "versiculo": {
+    "texto": "En el principio crió Dios los cielos y la tierra.",
+    "referencia": "Génesis 1:1",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Sin fecha: la Biblia no la da",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "Algunos calcularon fechas con las edades de las genealogías, pero la Biblia no fecha la creación ni el diluvio."
+  },
+
+  "fechaEscrito": {
+    "texto": "Tradicionalmente, c. 1446–1406 a.C.",
+    "desde": -1446,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Fecha tradicional, si Moisés lo escribió en el desierto. Otros estudiosos piensan que el libro tomó su forma final más tarde."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Moisés",
+    "nota": "La tradición judía y cristiana atribuye a Moisés los cinco primeros libros. Génesis no nombra a su autor."
+  },
+
+  "lugar": { "nombre": "Edén, Ararat y Babel", "mapa": "comienzos" },
+
+  "personajes": [
+    { "id": "adan", "nombre": "Adán", "linea": "Formado del polvo, recibe de Dios el aliento de vida." },
+    { "id": "eva", "nombre": "Eva", "linea": "Escucha a la serpiente; aun así es «madre de todos los vivientes»." },
+    { "id": "cain", "nombre": "Caín", "linea": "Mata a su hermano por envidia; aun así, Dios lo protege." },
+    { "id": "abel", "nombre": "Abel", "linea": "Pastor que ofrece a Dios lo mejor de sus ovejas." },
+    { "id": "enoc", "nombre": "Enoc", "linea": "Camina con Dios, y Dios se lo lleva." },
+    { "id": "noe", "nombre": "Noé", "linea": "Halla gracia ante Dios, construye el arca y salva a su familia." },
+    { "id": "abraham", "nombre": "Abram (Abraham)", "linea": "Hijo de Taré; sale de Ur de los caldeos con su familia." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios crea los cielos y la tierra", "ref": "Génesis 1:1-2:3" },
+    { "texto": "Adán y Eva desobedecen y salen del huerto", "ref": "Génesis 3:1-24" },
+    { "texto": "Caín mata a su hermano Abel", "ref": "Génesis 4:1-16" },
+    { "texto": "Dios salva del diluvio a Noé y su familia", "ref": "Génesis 6:9-8:19" },
+    { "texto": "Dios pone su arco en las nubes", "ref": "Génesis 9:8-17" },
+    { "texto": "Dios confunde las lenguas en Babel", "ref": "Génesis 11:1-9" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Dios lo crea todo",
+      "texto": "En el principio, Dios crea los cielos y la tierra. Con su palabra aparecen la luz, los mares, las plantas y los animales. Al final crea al hombre y a la mujer a su imagen. Todo es «bueno en gran manera». Los cristianos leen estos días de varias maneras; todos confiesan al Creador."
+    },
+    {
+      "subtitulo": "Un huerto y un árbol",
+      "texto": "Dios forma al hombre del polvo y sopla en él aliento de vida. Lo pone en el huerto de Edén y le da una compañera. Solo les pide no comer de un árbol. La serpiente engaña a la mujer, y los dos comen. Se esconden, pero Dios los busca: «¿Dónde estás tú?»."
+    },
+    {
+      "subtitulo": "Una promesa en la tristeza",
+      "texto": "El pecado trae dolor, trabajo duro y muerte. Adán y Eva salen del huerto. Pero Dios no los deja solos: los viste con túnicas de pieles. Y hace una promesa: un descendiente de la mujer herirá la cabeza de la serpiente. Es el primer anuncio de un rescate."
+    },
+    {
+      "subtitulo": "El mal se extiende",
+      "texto": "Fuera del huerto, Caín siente envidia de su hermano Abel y lo mata. Dios le pregunta: «¿Dónde está Abel tu hermano?». Las genealogías avanzan y la violencia llena la tierra. Aun así, hay quienes buscan a Dios. Enoc camina con Dios, y Dios se lo lleva."
+    },
+    {
+      "subtitulo": "Noé y el arco",
+      "texto": "Dios ve tanta maldad que le duele en el corazón. Pero Noé halla gracia ante él. Por orden de Dios construye un arca y entra con su familia y los animales. Llega el diluvio. Cuando baja el agua, Noé levanta un altar. Dios hace pacto y pone su arco en las nubes."
+    },
+    {
+      "subtitulo": "La torre de Babel",
+      "texto": "Los hijos de Noé llenan de nuevo la tierra. En Sinar, los hombres quieren una torre que llegue al cielo, para hacerse un nombre. Dios confunde su lengua y los esparce. La historia parece terminar en división. Pero la última genealogía lleva a un hombre: Abram, hijo de Taré."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Dios promete que un descendiente de la mujer herirá a la serpiente. Muchos cristianos llaman a esta promesa el primer anuncio del Evangelio. Jesús vino «hecho de mujer», y apareció para deshacer las obras del diablo. Además, Juan dice que todo fue creado por medio de él.",
+    "refs": ["Gálatas 4:4", "1 Juan 3:8"]
+  },
+
+  "mundo": "Génesis nombra lugares reales, como el río Éufrates, Asiria y Nínive. En Mesopotamia surgieron algunas de las primeras ciudades conocidas. Allí se construía con ladrillo cocido y betún, como cuenta Génesis 11:3.",
+
+  "antes": "Conociste tu Biblia: 66 libros comunes, una sola historia, y Jesús en el centro.",
+  "despues": "Dios llama a Abram, de la familia de Sem, y le promete bendecir a todas las familias.",
+
+  "conexiones": [
+    { "ref": "Juan 1:1-3", "motivo": "El Verbo estaba con Dios en el principio, y todo fue hecho por él." },
+    { "ref": "Romanos 16:20", "motivo": "Dios aplastará pronto a Satanás bajo los pies de los creyentes." },
+    { "ref": "Hebreos 11:7", "motivo": "Por la fe, Noé preparó el arca para salvar a su familia." },
+    { "ref": "Hechos 2:6", "motivo": "En Pentecostés, cada uno oye el mensaje en su propia lengua." }
+  ],
+
+  "glosario": ["pecado", "pacto", "altar", "genealogia"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, sal a mirar el cielo o una planta y da gracias a Dios por lo que creó.",
+    "pregunta": "¿Dónde te estás escondiendo de Dios, cuando él te busca con amor?"
+  },
+
+  "meditar": "Dios Creador, gracias por hacerme a tu imagen. Cuando me esconda por mi pecado, búscame como a Adán. Guárdame en tu gracia, como a Noé. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué señal puso Dios en las nubes para recordar su promesa?",
+    "actividad": "Dibuja un arco iris y escribe debajo: Dios cumple sus promesas."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué hizo Dios en el principio?",
+      "opciones": ["Creó los cielos y la tierra", "Llamó a Abraham", "Construyó una torre"],
+      "correcta": 0,
+      "explicacion": "«En el principio crió Dios los cielos y la tierra» (Génesis 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué señal dio Dios a Noé de su pacto?",
+      "opciones": ["Una paloma blanca", "Una estrella nueva", "Su arco en las nubes"],
+      "correcta": 2,
+      "explicacion": "Dios dijo: «Mi arco pondré en las nubes» (Génesis 9:13).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué pasa en Pentecostés que recuerda a Babel, pero al revés?",
+      "opciones": ["Se construye un templo nuevo", "Cada uno oye en su lengua", "Llueve cuarenta días"],
+      "correcta": 1,
+      "explicacion": "En Babel, Dios confundió las lenguas; en Pentecostés, cada uno oyó el mensaje en su lengua (Hechos 2:6).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Gen.1", "Gen.2", "Gen.3", "Gen.4", "Gen.6", "Gen.9", "Gen.11"], "minutos": 30 },
+
+  "temas": ["creacion", "pecado", "gracia", "pacto", "esperanza"],
+  "cadenas": ["la-simiente-prometida"]
+}

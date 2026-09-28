@@ -1,0 +1,137 @@
+{
+  "id": "judas",
+  "orden": 85,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "Judas: cuida la fe que recibiste",
+  "pasajes": ["Jude.1.1-Jude.1.25"],
+  "libros": ["Jude"],
+
+  "enUnMinuto": [
+    "Judas quería escribir sobre la salvación, pero debe avisar de maestros que engañan.",
+    "Pide defender la fe recibida, crecer en ella, orar y tener compasión de los que dudan.",
+    "Dios revela que es poderoso para guardar a los suyos sin caída hasta el final."
+  ],
+
+  "versiculo": {
+    "texto": "Mas vosotros, oh amados, edificándoos sobre vuestra santísima fe, orando por el Espíritu Santo, Conservaos en el amor de Dios, esperando la misericordia de nuestro Señor Jesucristo, para vida eterna.",
+    "referencia": "Judas 1:20-21",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 65–80 d.C.",
+    "desde": 65,
+    "hasta": 80,
+    "certeza": "debatida",
+    "nota": "La carta no trae fecha. Las propuestas van del año 65 al 80 d.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 65–80 d.C.",
+    "desde": 65,
+    "hasta": 80,
+    "certeza": "debatida",
+    "nota": "La carta no trae fecha. Las propuestas van del año 65 al 80 d.C."
+  },
+
+  "autor": {
+    "texto": "Judas, hermano de Santiago (Judas 1:1)",
+    "nota": "La RV1909 dice «hermano de Jacobo». Es el mismo nombre que Santiago."
+  },
+
+  "lugar": { "nombre": "Iglesias que la carta no nombra", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "judas-hermano-de-santiago", "nombre": "Judas", "linea": "Autor de la carta; se llama siervo de Jesucristo." },
+    { "id": "santiago-hermano-del-senor", "nombre": "Santiago", "linea": "Judas se presenta como su hermano." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Nuestro único Señor; su misericordia lleva a la vida eterna." },
+    { "id": "enoc", "nombre": "Enoc", "linea": "Judas recuerda su anuncio: el Señor vendrá a juzgar." },
+    { "id": "cain", "nombre": "Caín", "linea": "Ejemplo de un camino que se aparta de Dios." },
+    { "id": "balaam", "nombre": "Balaam", "linea": "Ejemplo de quien sirve a cambio de dinero." }
+  ],
+
+  "eventos": [
+    { "texto": "Judas pide luchar por la fe recibida", "ref": "Judas 1:3-4" },
+    { "texto": "Recuerda ejemplos de juicio del pasado", "ref": "Judas 1:5-11" },
+    { "texto": "Pide crecer, orar y guardarse en el amor de Dios", "ref": "Judas 1:20-23" },
+    { "texto": "Alaba a Dios, que guarda sin caída", "ref": "Judas 1:24-25" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una carta urgente",
+      "texto": "Judas se presenta como siervo de Jesucristo y hermano de Santiago. Quería escribir sobre la salvación que todos comparten. Pero algunos se han metido en la iglesia y usan la gracia de Dios como excusa para pecar. Por eso pide luchar por la fe que Dios entregó una vez a los santos."
+    },
+    {
+      "subtitulo": "Ejemplos del pasado",
+      "texto": "Judas recuerda historias que sus lectores conocen. Dios sacó a Israel de Egipto, pero después castigó a los que no creyeron. Menciona a Caín, a Balaam y a Coré, que eligieron su propio camino. Esos maestros son como nubes sin agua y árboles sin fruto."
+    },
+    {
+      "subtitulo": "Guardados por Dios",
+      "texto": "Luego Judas habla a los fieles con cariño. Les pide crecer en la fe, orar en el Espíritu Santo y mantenerse en el amor de Dios. Deben tener compasión de los que dudan y ayudar a otros a volver. Termina alabando a Dios, que puede guardarlos sin caída."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Judas llama a Jesús nuestro único Señor. Él guarda a los que llama, y su misericordia nos lleva a la vida eterna. Jesús mismo lo prometió: nadie puede arrebatar a sus ovejas de su mano ni de la mano del Padre.",
+    "refs": ["Judas 1:21", "Juan 10:28-29"]
+  },
+
+  "mundo": "En el año 70 d.C., Roma destruye Jerusalén. Los cristianos, ya repartidos por el imperio, se reúnen en casas para orar y compartir la mesa.",
+
+  "antes": "La carta a los Hebreos mostró que Jesús es mejor que todo: sacerdote y sacrificio.",
+  "despues": "Una carta atribuida a Juan enseña a sus «hijitos» que Dios es amor.",
+
+  "conexiones": [
+    { "ref": "2 Pedro 2:1-3", "motivo": "Pedro también avisa de maestros falsos que engañan por dinero." },
+    { "ref": "Efesios 6:18", "motivo": "Orar en todo tiempo, con la ayuda del Espíritu." },
+    { "ref": "Juan 10:29-30", "motivo": "Nadie puede arrebatar a las ovejas de la mano del Padre." },
+    { "ref": "1 Timoteo 6:12", "motivo": "Pelear la buena batalla de la fe." }
+  ],
+
+  "glosario": ["gracia", "espiritu-santo", "misericordia"],
+
+  "paraTuVida": {
+    "aplicacion": "Piensa en alguien que duda de su fe. Esta semana, ora por esa persona y escúchala con cariño.",
+    "pregunta": "¿Qué te ayuda a mantenerte en el amor de Dios?"
+  },
+
+  "meditar": "Padre, tú puedes guardarme sin caída. Mantenme en tu amor, edifícame en la fe y dame compasión por los que dudan. Amén.",
+
+  "ninos": {
+    "pregunta": "Judas dice que Dios puede guardarnos para no caer. ¿Cuándo sientes que Dios te cuida?",
+    "actividad": "Camina con los ojos cerrados mientras un adulto te guía de la mano. Luego cambien."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿De quién se presenta Judas como hermano?",
+      "opciones": ["De Pedro", "De Santiago", "De Pablo"],
+      "correcta": 1,
+      "explicacion": "Se llama siervo de Jesucristo y hermano de Santiago (Judas 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿A qué compara Judas a los maestros falsos?",
+      "opciones": ["A nubes sin agua", "A lámparas encendidas", "A ovejas perdidas"],
+      "correcta": 0,
+      "explicacion": "Son nubes sin agua y árboles sin fruto: prometen mucho y no dan nada (Judas 1:12).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué otra carta advierte, con ejemplos parecidos, sobre maestros falsos?",
+      "opciones": ["Filemón", "3 Juan", "2 Pedro"],
+      "correcta": 2,
+      "explicacion": "2 Pedro 2 usa ejemplos muy parecidos a los de Judas, como Balaam.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Jude.1"], "minutos": 4 },
+
+  "notaEcumenica": "Muchos identifican a este Judas con uno de los «hermanos» de Jesús de Mateo 13:55. Las iglesias entienden ese parentesco de distintas maneras: hermanos o parientes cercanos.",
+
+  "temas": ["fe", "perseverancia", "oracion", "misericordia"],
+  "cadenas": ["guardados-por-dios", "la-buena-batalla"]
+}

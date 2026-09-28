@@ -1,0 +1,147 @@
+{
+  "id": "jueces",
+  "orden": 14,
+  "seccion": "conquista",
+  "formato": "completo",
+  "titulo": "Caer y levantarse: el tiempo de los jueces",
+  "pasajes": ["Judg.1.1-Judg.21.25"],
+  "libros": ["Judg"],
+
+  "enUnMinuto": [
+    "Después de Josué, Israel olvida a Dios una y otra vez, y cae en manos de sus enemigos.",
+    "Cada vez que el pueblo clama, Dios levanta un juez que lo libera por un tiempo.",
+    "Dios revela una paciencia enorme: aunque su pueblo cae, él vuelve a levantarlo."
+  ],
+
+  "versiculo": {
+    "texto": "Mas Jehová suscitó jueces que los librasen de mano de los que los despojaban.",
+    "referencia": "Jueces 2:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1375–1050 a.C.",
+    "desde": -1375,
+    "hasta": -1050,
+    "certeza": "debatida",
+    "nota": "Algunos jueces gobernaron al mismo tiempo en distintas regiones. Por eso los años no se suman."
+  },
+
+  "fechaEscrito": {
+    "texto": "Fecha incierta",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "La frase «no había rey en Israel» sugiere que se escribió en los primeros tiempos de los reyes."
+  },
+
+  "autor": {
+    "texto": "Desconocido; la tradición judía lo atribuye a Samuel."
+  },
+
+  "lugar": { "nombre": "Las tribus de Israel en Canaán", "mapa": "conquista" },
+
+  "personajes": [
+    { "id": "josue", "nombre": "Josué", "linea": "Muere anciano; después viene una generación que no conoce a Dios." },
+    { "id": "caleb", "nombre": "Caleb", "linea": "Su hermano menor, Otoniel, es el primer juez de Israel." },
+    { "id": "debora", "nombre": "Débora", "linea": "Profetisa y jueza; anima a Barac y canta la victoria." },
+    { "id": "gedeon", "nombre": "Gedeón", "linea": "Joven miedoso a quien Dios usa con solo trescientos hombres." },
+    { "id": "sanson", "nombre": "Sansón", "linea": "Nazareo de gran fuerza; cae por sus deseos y clama a Dios." }
+  ],
+
+  "eventos": [
+    { "texto": "Una nueva generación olvida al Señor", "ref": "Jueces 2:10-13" },
+    { "texto": "Otoniel, el primer juez, libera a Israel", "ref": "Jueces 3:7-11" },
+    { "texto": "Débora y Barac vencen a Sísara", "ref": "Jueces 4:4-16" },
+    { "texto": "Gedeón vence a Madián con trescientos hombres", "ref": "Jueces 7:1-22" },
+    { "texto": "Sansón muere derribando el templo de Dagón", "ref": "Jueces 16:23-30" },
+    { "texto": "Sin rey, cada uno hace lo que quiere", "ref": "Jueces 21:25" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una generación olvida",
+      "texto": "Josué muere, y también los que vieron las obras de Dios. Se levanta otra generación que no conoce al Señor. Las tribus no terminan de echar a los pueblos de Canaán y se mezclan con ellos. Pronto adoran a Baal y a otros dioses vecinos. Así empieza un tiempo difícil."
+    },
+    {
+      "subtitulo": "Un ciclo en cinco pasos",
+      "texto": "El libro repite un mismo ciclo. Primero, Israel cae en la idolatría. Segundo, llegan enemigos que lo oprimen. Tercero, el pueblo clama al Señor. Cuarto, Dios levanta un juez que lo libera. Quinto, la tierra descansa. Pero cuando el juez muere, todo vuelve a empezar, y cada vez un poco peor."
+    },
+    {
+      "subtitulo": "Débora bajo la palmera",
+      "texto": "Débora es profetisa y jueza. Se sienta bajo una palmera, y el pueblo va a ella para pedir justicia. Llama a Barac a luchar contra Sísara, un general con novecientos carros de hierro. Dios les da la victoria. Después, Débora y Barac cantan juntos un canto de alabanza."
+    },
+    {
+      "subtitulo": "Gedeón y los trescientos",
+      "texto": "Gedeón trilla trigo a escondidas, por miedo a Madián. Un ángel le dice: «Jehová es contigo, varón esforzado». Gedeón duda y pide señales. Dios reduce su ejército a trescientos hombres. De noche, con trompetas y antorchas, ponen en fuga al enemigo. Así nadie podrá decir que venció por su propia fuerza."
+    },
+    {
+      "subtitulo": "Sansón, fuerte y débil",
+      "texto": "Sansón nace consagrado a Dios como nazareo. Tiene una fuerza enorme, pero vive según sus deseos. Dalila descubre su secreto, y los filisteos lo atrapan y lo dejan ciego. En la cárcel le vuelve a crecer el cabello. Sansón clama a Dios y, con su última fuerza, derriba el templo de Dagón."
+    },
+    {
+      "subtitulo": "Sin rey en Israel",
+      "texto": "El pueblo cae cada vez más bajo. Los últimos capítulos cuentan hechos muy tristes: ídolos, una mujer maltratada hasta morir y una guerra entre tribus hermanas. La Biblia no los esconde. Termina así: «cada uno hacía lo recto delante de sus ojos». Aun así, Dios no abandona a su pueblo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Cada juez libera al pueblo por un tiempo, pero muere, y todo vuelve a empezar. Israel necesita un salvador que no falle. Hebreos recuerda la fe de Gedeón, Barac y Sansón. Pero nos invita a mirar a Jesús, «autor y consumador de la fe». Él vive para siempre y puede salvar del todo.",
+    "refs": ["Hebreos 12:2", "Hebreos 7:25"]
+  },
+
+  "mundo": "En esta época, Egipto ya no domina Canaán como antes. Los filisteos se instalan con fuerza en la costa. Serán los grandes rivales de Israel en tiempos de Sansón, Samuel y David.",
+
+  "antes": "Josué guió a Israel en la tierra prometida. Antes de morir, el pueblo prometió servir solo a Dios.",
+  "despues": "En tiempos de los jueces, una extranjera fiel llamada Rut llega a Belén con su suegra.",
+
+  "conexiones": [
+    { "ref": "Hebreos 11:32-34", "motivo": "Gedeón, Barac y Sansón aparecen entre los héroes de la fe." },
+    { "ref": "1 Corintios 1:27", "motivo": "Como con Gedeón, Dios elige lo débil para mostrar su poder." },
+    { "ref": "Hechos 13:20", "motivo": "Pablo resume esta época: Dios dio jueces hasta el profeta Samuel." },
+    { "ref": "Lucas 1:15", "motivo": "Como Sansón, Juan el Bautista es consagrado a Dios desde antes de nacer." }
+  ],
+
+  "glosario": ["juez", "idolatria", "nazareo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cuando caigas otra vez en el mismo error, clama a Dios en ese momento y pide su ayuda.",
+    "pregunta": "¿En qué parte de tu vida haces lo que te parece, sin preguntar a Dios?"
+  },
+
+  "meditar": "Señor, cuando me alejo de ti, tú no me abandonas. Escucha mi clamor y hazme fiel todos los días de mi vida. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué llevaban en las manos los trescientos hombres de Gedeón?",
+    "actividad": "Hagan una trompeta con papel enrollado y cuenten juntos la historia de Gedeón."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Con cuántos hombres venció Gedeón a Madián?",
+      "opciones": ["Con treinta", "Con trescientos", "Con tres mil"],
+      "correcta": 1,
+      "explicacion": "Dios redujo el ejército para que Israel no se alabara de su propia fuerza (Jueces 7:2-7).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "En el ciclo de los jueces, ¿qué hacía el pueblo antes de ser liberado?",
+      "opciones": ["Clamaba al Señor", "Construía un templo", "Elegía un rey"],
+      "correcta": 0,
+      "explicacion": "Cuando clamaban, Dios les levantaba un libertador (Jueces 3:9).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué carta del Nuevo Testamento recuerda la fe de Gedeón y Sansón?",
+      "opciones": ["Romanos", "Gálatas", "Hebreos"],
+      "correcta": 2,
+      "explicacion": "Hebreos 11:32 los nombra entre los que actuaron por la fe.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Judg.2", "Judg.4", "Judg.6", "Judg.7", "Judg.16"], "minutos": 30 },
+
+  "temas": ["arrepentimiento", "gracia", "perdon", "esperanza"],
+  "cadenas": ["el-espiritu", "el-rey-de-david"]
+}

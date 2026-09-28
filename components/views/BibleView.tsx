@@ -200,7 +200,10 @@ export function ChapterReader({ bookId, chapter }: { bookId: string; chapter: nu
         ) : (
           // One verse per line: easy to follow with the finger and to find "verse 8".
           <ol className="space-y-2.5 font-serif leading-[1.7] text-ink">
-            {verses.map((v, i) => (
+            {verses.map((v, i) =>
+              // 18 slots are empty where the RV1909 numbers a passage differently (the text
+              // is in the neighbouring verse, e.g. Job 38:39–41 = 39:1–3): nothing to show.
+              !v.trim() ? null : (
               <li
                 key={i}
                 id={`v${i + 1}`}

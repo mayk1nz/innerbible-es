@@ -1,0 +1,22 @@
+{
+  "glosario": [
+    { "id": "baal", "termino": "Baal", "definicion": "Dios falso de la lluvia y la cosecha. Lo adoraban cananeos y fenicios, y muchos en Israel." },
+    { "id": "reino-del-norte", "termino": "Israel (reino del norte)", "definicion": "Las tribus que se separaron de Roboam. Su capital fue Samaria. Cayó ante Asiria en 722 a.C." },
+    { "id": "reino-del-sur", "termino": "Judá (reino del sur)", "definicion": "Judá y Benjamín, con Jerusalén y el templo. Allí reinaron siempre los hijos de David." },
+    { "id": "samaria", "termino": "Samaria", "definicion": "Ciudad fundada por el rey Omri. Fue la capital del reino del norte." },
+    { "id": "becerros-de-oro", "termino": "Becerros de oro", "definicion": "Imágenes que Jeroboam puso en Betel y Dan para que el pueblo no fuera a Jerusalén." },
+    { "id": "saco", "termino": "Vestirse de saco", "definicion": "Ponerse ropa áspera en señal de dolor o de arrepentimiento." }
+  ],
+  "personajes": [
+    { "id": "josafat", "nombre": "Josafat", "rv1909": "Josaphat", "linea": "Rey de Judá que buscó a Dios y enseñó su ley.", "lecciones": ["1-reyes-12-22", "2-reyes-1-14"] },
+    { "id": "micaias-hijo-de-imla", "nombre": "Micaías, hijo de Imla", "rv1909": "Michêas", "linea": "Profeta que dijo la verdad a Acab aunque lo encarcelaron.", "lecciones": ["1-reyes-12-22"] },
+    { "id": "nabot", "nombre": "Nabot", "rv1909": "Naboth", "linea": "Dueño de una viña; murió por las mentiras de Jezabel.", "lecciones": ["1-reyes-12-22"] },
+    { "id": "atalia", "nombre": "Atalía", "rv1909": "Athalía", "linea": "Reina de Judá, de la familia de Acab; persiguió a la familia real.", "lecciones": ["2-reyes-1-14"] },
+    { "id": "joas-rey-de-juda", "nombre": "Joás, rey de Judá", "rv1909": "Joas", "linea": "Rey niño salvado en el templo; fiel mientras vivió Joiada.", "lecciones": ["2-reyes-1-14"] },
+    { "id": "joiada", "nombre": "Joiada", "linea": "Sacerdote que escondió y coronó al niño Joás.", "lecciones": ["2-reyes-1-14"] },
+    { "id": "gomer", "nombre": "Gomer", "linea": "Esposa de Oseas; su historia muestra el amor fiel de Dios.", "lecciones": ["oseas"] },
+    { "id": "uzias", "nombre": "Uzías (Azarías)", "rv1909": "Uzzías / Azarías", "linea": "Rey de Judá, próspero y después orgulloso; murió leproso.", "lecciones": ["amos", "oseas", "2-reyes-15-17", "isaias"] },
+    { "id": "acaz", "nombre": "Acaz", "rv1909": "Achâz", "linea": "Rey de Judá que confió en Asiria en vez de en Dios.", "lecciones": ["oseas", "2-reyes-15-17", "isaias"] },
+    { "id": "oseas-rey-de-israel", "nombre": "Oseas, rey de Israel", "linea": "Último rey del norte; en su tiempo cayó Samaria.", "lecciones": ["2-reyes-15-17"] }
+  ]
+}

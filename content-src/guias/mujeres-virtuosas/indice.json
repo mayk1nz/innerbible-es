@@ -1,0 +1,102 @@
+{
+  "guia": "mujeres-virtuosas",
+  "secciones": [
+    {
+      "id": "introduccion",
+      "titulo": "Introducción",
+      "lecciones": [
+        { "id": "comienza-aqui", "titulo": "Comienza aquí", "subtitulo": "Qué significa «virtuosa» y cómo usar esta guía" },
+        { "id": "guia-para-grupos", "titulo": "Cómo usar esta guía en grupo", "subtitulo": "Un encuentro de 45 minutos, paso a paso" }
+      ]
+    },
+    {
+      "id": "comienzos-y-patriarcas",
+      "titulo": "Los comienzos y los patriarcas",
+      "lecciones": [
+        { "id": "eva", "titulo": "Eva", "subtitulo": "La madre de todos los vivientes" },
+        { "id": "sara", "titulo": "Sara", "subtitulo": "La que se rió y vio la promesa" },
+        { "id": "agar", "titulo": "Agar", "subtitulo": "La que fue vista por Dios" },
+        { "id": "rebeca", "titulo": "Rebeca", "subtitulo": "La joven que dijo «Sí, iré»" },
+        { "id": "lea", "titulo": "Lea", "subtitulo": "La menos amada, a quien Dios miró" },
+        { "id": "raquel", "titulo": "Raquel", "subtitulo": "La que esperó un hijo con lágrimas" }
+      ]
+    },
+    {
+      "id": "egipto-y-desierto",
+      "titulo": "Egipto y el desierto",
+      "lecciones": [
+        { "id": "sifra-y-fua", "titulo": "Sifra y Fúa", "subtitulo": "Las parteras valientes" },
+        { "id": "jocabed", "titulo": "Jocabed", "subtitulo": "La madre que confió el cesto" },
+        { "id": "miriam", "titulo": "Miriam", "subtitulo": "La que cantó junto al mar" },
+        { "id": "hijas-de-zelofehad", "titulo": "Las hijas de Zelofehad", "subtitulo": "Cinco hermanas que pidieron su herencia" }
+      ]
+    },
+    {
+      "id": "tierra-prometida-y-jueces",
+      "titulo": "La tierra prometida y los jueces",
+      "lecciones": [
+        { "id": "rahab", "titulo": "Rahab", "subtitulo": "La del cordón de grana" },
+        { "id": "debora", "titulo": "Débora (y Jael)", "subtitulo": "Madre en Israel" },
+        { "id": "noemi", "titulo": "Noemí", "subtitulo": "De la amargura a la alegría" },
+        { "id": "rut", "titulo": "Rut", "subtitulo": "La moabita que eligió quedarse" },
+        { "id": "ana-madre-de-samuel", "titulo": "Ana, la madre de Samuel", "subtitulo": "La que derramó su alma ante Dios" }
+      ]
+    },
+    {
+      "id": "reyes-y-profetas",
+      "titulo": "Reyes y profetas",
+      "lecciones": [
+        { "id": "abigail", "titulo": "Abigail", "subtitulo": "La que detuvo una venganza" },
+        { "id": "viuda-de-sarepta", "titulo": "La viuda de Sarepta", "subtitulo": "Harina y aceite que no se acabaron" },
+        { "id": "sunamita", "titulo": "La sunamita", "subtitulo": "Un cuarto para el profeta" },
+        { "id": "nina-de-naaman", "titulo": "La niña de la casa de Naamán", "subtitulo": "Una niña que habló de esperanza" },
+        { "id": "hulda", "titulo": "Hulda", "subtitulo": "La profetisa del rey Josías" }
+      ]
+    },
+    {
+      "id": "exilio-y-regreso",
+      "titulo": "Exilio y regreso",
+      "lecciones": [
+        { "id": "ester", "titulo": "Ester", "subtitulo": "Para esta hora" }
+      ]
+    },
+    {
+      "id": "evangelios",
+      "titulo": "Los evangelios",
+      "lecciones": [
+        { "id": "elisabet", "titulo": "Elisabet", "subtitulo": "La que esperó hasta la vejez" },
+        { "id": "maria-madre-de-jesus", "titulo": "María, la madre de Jesús", "subtitulo": "La que dijo sí a Dios" },
+        { "id": "ana-la-profetisa", "titulo": "Ana, la profetisa", "subtitulo": "La que esperaba en el templo" },
+        { "id": "mujer-samaritana", "titulo": "La mujer samaritana", "subtitulo": "El encuentro junto al pozo" },
+        { "id": "mujer-que-toco-su-manto", "titulo": "La mujer que tocó su manto", "subtitulo": "Doce años de espera, un toque de fe" },
+        { "id": "mujer-que-ungio-sus-pies", "titulo": "La mujer perdonada", "subtitulo": "La que ungió los pies de Jesús" },
+        { "id": "juana-susana-y-otras", "titulo": "Juana, Susana y las que servían", "subtitulo": "Mujeres que seguían y sostenían a Jesús" },
+        { "id": "mujer-cananea", "titulo": "La mujer cananea", "subtitulo": "La fe que insistió" },
+        { "id": "marta-de-betania", "titulo": "Marta de Betania", "subtitulo": "La que sirvió y creyó" },
+        { "id": "maria-de-betania", "titulo": "María de Betania", "subtitulo": "La que se sentó a los pies de Jesús" },
+        { "id": "viuda-de-las-dos-blancas", "titulo": "La viuda de las dos blancas", "subtitulo": "La que dio todo lo que tenía" },
+        { "id": "maria-magdalena", "titulo": "María Magdalena", "subtitulo": "La primera testigo de la resurrección" }
+      ]
+    },
+    {
+      "id": "iglesia-naciente",
+      "titulo": "La iglesia naciente",
+      "lecciones": [
+        { "id": "tabita", "titulo": "Tabita (Dorcas)", "subtitulo": "Manos llenas de bien" },
+        { "id": "rode", "titulo": "Rode", "subtitulo": "La muchacha que oyó llamar" },
+        { "id": "lidia", "titulo": "Lidia", "subtitulo": "Un corazón abierto" },
+        { "id": "priscila", "titulo": "Priscila", "subtitulo": "Con Aquila, al servicio del Evangelio" },
+        { "id": "febe", "titulo": "Febe", "subtitulo": "La que llevó la carta a los Romanos" },
+        { "id": "loida-y-eunice", "titulo": "Loida y Eunice", "subtitulo": "La fe de abuela a nieto" }
+      ]
+    },
+    {
+      "id": "para-cerrar",
+      "titulo": "Para cerrar",
+      "lecciones": [
+        { "id": "genealogia-de-jesus", "titulo": "Las mujeres en la genealogía de Jesús", "subtitulo": "Tamar, Rahab, Rut, Betsabé y María" },
+        { "id": "mujer-virtuosa-proverbios-31", "titulo": "La mujer virtuosa de Proverbios 31", "subtitulo": "Un retrato, no una lista" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "filemon",
+  "orden": 77,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "Filemón: recíbelo como a un hermano",
+  "pasajes": ["Phlm.1.1-Phlm.1.25"],
+  "libros": ["Phlm"],
+
+  "enUnMinuto": [
+    "Pablo, preso, pide a su amigo Filemón que reciba a Onésimo, el esclavo que se había ido.",
+    "Onésimo conoció a Cristo junto a Pablo, y ahora vuelve como hermano amado.",
+    "Dios revela que el evangelio cambia la manera de tratarnos y nos hace una familia."
+  ],
+
+  "versiculo": {
+    "texto": "No ya como siervo, antes más que siervo, como hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor.",
+    "referencia": "Filemón 1:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 60–62 d.C.",
+    "desde": 60,
+    "hasta": 62,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 60–62 d.C., desde la prisión",
+    "desde": 60,
+    "hasta": 62,
+    "certeza": "aprox",
+    "nota": "Pablo escribe como «prisionero de Jesucristo» (Filemón 1:1). La tradición piensa en Roma; otros estudiosos proponen Cesarea o Éfeso."
+  },
+  "autor": { "texto": "El apóstol Pablo, junto con Timoteo (Filemón 1:1)." },
+
+  "lugar": { "nombre": "Colosas, en casa de Filemón", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Anciano y preso; pide con amor en vez de mandar." },
+    { "id": "filemon", "nombre": "Filemón", "linea": "Cristiano generoso; en su casa se reúne la iglesia." },
+    { "id": "onesimo", "nombre": "Onésimo", "linea": "Su nombre significa «útil»; conoce a Cristo y vuelve como hermano." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Hace de amo y esclavo hermanos en una misma familia." },
+    { "id": "lucas", "nombre": "Lucas", "linea": "Compañero de Pablo; envía saludos a Filemón." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo da gracias por el amor de Filemón", "ref": "Filemón 1:4-7" },
+    { "texto": "Pablo ruega por Onésimo, su hijo en la fe", "ref": "Filemón 1:8-12" },
+    { "texto": "«Recíbele como a mí»: como a un hermano amado", "ref": "Filemón 1:15-17" },
+    { "texto": "Pablo promete pagar lo que Onésimo deba", "ref": "Filemón 1:18-19" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una carta a un amigo",
+      "texto": "Pablo está preso y escribe a Filemón, un cristiano que tiene una iglesia en su casa. Da gracias por su fe y por su amor, que alegra a todos los hermanos."
+    },
+    {
+      "subtitulo": "Onésimo, el útil",
+      "texto": "Onésimo era esclavo de Filemón y se había ido de la casa. Muchos piensan que huyó. Junto a Pablo, en la prisión, conoció a Cristo. Pablo lo llama «mi hijo». Antes no le era útil a su amo; ahora es útil para los dos, como dice su nombre."
+    },
+    {
+      "subtitulo": "Un hermano amado",
+      "texto": "Pablo podría mandar, pero prefiere rogar por amor. Le devuelve a Onésimo y le pide: «recíbele como a mí». Ya no como esclavo, sino como hermano amado. Si le debe algo, Pablo lo pagará de su mano. Y confía en que Filemón hará aún más de lo que le pide."
+    },
+    {
+      "subtitulo": "Una semilla de libertad",
+      "texto": "En tiempos de Pablo, la esclavitud era parte de la vida diaria. Pablo no escribe contra esa ley, pero trata a Onésimo como a un hijo y lo llama hermano. Ante Cristo, nadie vale menos. Esa verdad del evangelio tardó en ser entendida por todos. Con los siglos, llevó a muchos cristianos a luchar contra la esclavitud."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo actúa como Jesús: se pone en el lugar de Onésimo y dice «ponlo a mi cuenta». Jesús cargó con nuestra deuda para que Dios nos reciba como hijos. En él «no hay siervo, ni libre»: todos somos uno.",
+    "refs": ["Filemón 1:18", "Gálatas 3:28"]
+  },
+
+  "mundo": "En el Imperio romano había muchísimos esclavos. La ley permitía castigar con dureza al que huía. Pablo no cambia esa ley, pero siembra algo nuevo: amo y esclavo son hermanos en Cristo.",
+
+  "antes": "Pablo escribió a Colosas y envió a Tíquico con Onésimo, «amado y fiel hermano».",
+  "despues": "Pablo escribe a Filipos, la iglesia que siempre lo ayudó: una carta llena de alegría.",
+
+  "conexiones": [
+    { "ref": "Colosenses 4:9", "motivo": "Onésimo vuelve a Colosas como «amado y fiel hermano»." },
+    { "ref": "Génesis 50:20", "motivo": "Como con José, Dios usa una separación para un bien mayor." },
+    { "ref": "Isaías 53:4", "motivo": "El Siervo de Dios carga con lo que nos tocaba a nosotros." }
+  ],
+
+  "glosario": ["iglesia", "evangelio"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, busca a alguien con quien tuviste un conflicto y trátalo como a un hermano.",
+    "pregunta": "¿A quién te cuesta recibir como Cristo te recibió a ti?"
+  },
+
+  "meditar": "Señor Jesús, tú pagaste mi deuda y me recibiste como hijo. Enséñame a recibir a los demás como hermanos, sin mirar su pasado. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué significa tratar a alguien como a un hermano?",
+    "actividad": "Escribe una tarjeta de bienvenida para alguien que se sienta solo o nuevo."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Por quién le pide Pablo a Filemón en esta carta?",
+      "opciones": ["Por Timoteo", "Por Onésimo", "Por Lucas"],
+      "correcta": 1,
+      "explicacion": "Pablo ruega por Onésimo, a quien llama «mi hijo» (Filemón 1:10).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cómo pide Pablo que Filemón reciba a Onésimo?",
+      "opciones": ["Como a un hermano amado", "Como a un esclavo castigado", "Como a un extraño"],
+      "correcta": 0,
+      "explicacion": "«No ya como siervo», sino «como hermano amado» (Filemón 1:16).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿En qué otra carta envía Pablo a Onésimo junto con Tíquico?",
+      "opciones": ["Romanos", "Gálatas", "Colosenses"],
+      "correcta": 2,
+      "explicacion": "En Colosenses 4:9, Pablo lo llama «amado y fiel hermano».",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Phlm.1"], "minutos": 3 },
+
+  "temas": ["perdon", "familia", "gracia", "reconciliacion"],
+  "cadenas": ["la-familia-de-dios"]
+}

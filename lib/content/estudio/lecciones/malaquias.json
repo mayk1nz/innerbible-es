@@ -1,0 +1,145 @@
+{
+  "id": "malaquias",
+  "orden": 50,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Malaquías: el Señor vendrá a su templo",
+  "pasajes": ["Mal.1.1-Mal.4.6"],
+  "libros": ["Mal"],
+
+  "enUnMinuto": [
+    "Después del regreso, el pueblo se cansa: ofrece a Dios lo peor y duda de su amor.",
+    "Malaquías llama a volver y anuncia un mensajero que preparará el camino, y a Elías antes del gran día.",
+    "Dios revela que no cambia: sigue amando a su pueblo y vendrá a él."
+  ],
+
+  "versiculo": {
+    "texto": "Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salud: y saldréis, y saltaréis como becerros de la manada.",
+    "referencia": "Malaquías 4:2",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 430 a.C.",
+    "desde": -435,
+    "hasta": -425,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 430 a.C.",
+    "desde": -435,
+    "hasta": -425,
+    "certeza": "aprox",
+    "nota": "Habla de problemas parecidos a los de Nehemías: ofrendas pobres, diezmos y matrimonios."
+  },
+
+  "autor": {
+    "texto": "El profeta Malaquías",
+    "nota": "Su nombre significa «mi mensajero». Algunos piensan que es un título y no un nombre propio."
+  },
+
+  "lugar": { "nombre": "Jerusalén, junto al segundo templo", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "malaquias", "nombre": "Malaquías", "linea": "Último profeta de nuestro Antiguo Testamento; habla en forma de diálogo." },
+    { "id": "elias", "nombre": "Elías", "linea": "Dios promete enviarlo antes del gran día del Señor." },
+    { "id": "esau", "nombre": "Esaú", "linea": "Hermano de Jacob; Malaquías recuerda a los dos hermanos." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios dice a su pueblo: Yo os he amado", "ref": "Malaquías 1:2-5" },
+    { "texto": "Los sacerdotes ofrecen animales enfermos", "ref": "Malaquías 1:6-14" },
+    { "texto": "Dios pide fidelidad a la esposa de la juventud", "ref": "Malaquías 2:13-16" },
+    { "texto": "Dios anuncia a su mensajero", "ref": "Malaquías 3:1-4" },
+    { "texto": "Un libro de memoria para los que temen a Dios", "ref": "Malaquías 3:16-18" },
+    { "texto": "Dios promete enviar al profeta Elías", "ref": "Malaquías 4:5-6" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "¿En qué nos amaste?",
+      "texto": "Han pasado años desde el regreso. El templo está en pie, pero el entusiasmo se apagó. Dios les dice: «Yo os he amado». El pueblo responde con una pregunta fría: «¿En qué nos amaste?». Malaquías escribe como un diálogo: Dios habla, el pueblo pregunta y Dios responde."
+    },
+    {
+      "subtitulo": "Lo peor para Dios",
+      "texto": "Los sacerdotes ofrecen en el altar animales ciegos, cojos o enfermos. Dios les pregunta si se atreverían a darle eso al gobernador. Les recuerda que su nombre es grande entre las naciones, desde donde nace el sol hasta donde se pone. Dios merece lo mejor, no lo que sobra."
+    },
+    {
+      "subtitulo": "Fieles unos a otros",
+      "texto": "También hay heridas en las familias. Algunos se casan con mujeres que adoran a otros dioses. Otros abandonan a la esposa de su juventud. Dios dice que él es testigo de ese pacto. Y pregunta: «¿No tenemos todos un mismo padre?». Pide no ser desleales."
+    },
+    {
+      "subtitulo": "El mensajero y el fuego",
+      "texto": "Algunos dicen que Dios no hace justicia. Dios responde: «yo envío mi mensajero», que preparará el camino. Después vendrá a su templo el Señor que buscan. Será como fuego que purifica la plata. Dios no cambia; por eso no han sido consumidos. Les dice: «Tornaos a mí, y yo me tornaré a vosotros»."
+    },
+    {
+      "subtitulo": "Un libro de memoria",
+      "texto": "Dios les pide traer los diezmos a su casa, para que haya alimento, y confiar en su provisión. Los que temen a Dios hablan entre sí, y él los escucha. Se escribe un libro de memoria con sus nombres. Serán su tesoro especial, y los cuidará como un padre a su hijo."
+    },
+    {
+      "subtitulo": "El Sol de justicia",
+      "texto": "Malaquías habla del día del Señor, que vendrá. Para los que aman a Dios nacerá «el Sol de justicia», que trae salud. Saltarán de alegría como becerros sueltos. Y antes de ese día, Dios enviará al profeta Elías. Él volverá el corazón de los padres a los hijos, y el de los hijos a los padres."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús dice que Juan el Bautista es el mensajero de Malaquías 3:1, el que prepara el camino. Antes de que Juan nazca, el ángel anuncia que vendrá «con el espíritu y virtud de Elías». Detrás de Juan llega Jesús, el Señor que viene a su templo.",
+    "refs": ["Mateo 11:10", "Lucas 1:17"]
+  },
+
+  "mundo": "En Grecia, Atenas y Esparta empiezan la guerra del Peloponeso en el 431 a.C. En Atenas enseña Sócrates. Persia sigue gobernando la pequeña provincia de Judá.",
+
+  "antes": "Crónicas volvió a contar la historia de Israel para dar esperanza a los que regresaron.",
+  "despues": "Persas, griegos y romanos gobiernan la tierra de Israel mientras el pueblo espera al Mesías.",
+
+  "conexiones": [
+    { "ref": "Mateo 11:10", "motivo": "Jesús aplica a Juan el Bautista la promesa del mensajero." },
+    { "ref": "Lucas 1:16-17", "motivo": "Juan vendrá con el espíritu de Elías a volver los corazones." },
+    { "ref": "Hebreos 13:8", "motivo": "Jesucristo es el mismo ayer, hoy y por los siglos." },
+    { "ref": "Lucas 1:78", "motivo": "Zacarías canta a la aurora que nos visita desde lo alto." }
+  ],
+
+  "glosario": ["sacerdote", "diezmo", "pacto", "dia-del-senor"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, dale a Dios algo de lo mejor que tienes: tu primer tiempo, tu atención o tu ayuda.",
+    "pregunta": "¿Con quién de tu familia necesitas volver a acercar tu corazón?"
+  },
+
+  "meditar": "Señor, tú no cambias y me sigues amando. Quiero darte lo mejor de mí. Vuelve mi corazón a ti y a mi familia. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios quiere que padres e hijos se amen. ¿Cómo muestras amor en tu familia?",
+    "actividad": "Dibuja un sol grande y, en cada rayo, algo bueno que Dios te regala."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A qué profeta promete enviar Dios antes del gran día?",
+      "opciones": ["A Moisés", "A Isaías", "A Elías"],
+      "correcta": 2,
+      "explicacion": "Dios dice: «yo os envío a Elías el profeta» (Malaquías 4:5).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué animales ofrecían los sacerdotes en el altar?",
+      "opciones": ["Ciegos, cojos o enfermos", "Los mejores del rebaño", "Solo palomas blancas"],
+      "correcta": 0,
+      "explicacion": "Daban a Dios lo que sobraba, no lo mejor (Malaquías 1:8).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿A quién señala Jesús como el mensajero anunciado por Malaquías?",
+      "opciones": ["A Pedro", "A Juan el Bautista", "A Moisés"],
+      "correcta": 1,
+      "explicacion": "Jesús dice de Juan: «He aquí, yo envío mi mensajero» (Mateo 11:10).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Mal.1", "Mal.2", "Mal.3", "Mal.4"], "minutos": 11 },
+
+  "temas": ["amor-de-dios", "arrepentimiento", "esperanza", "familia", "profecia-cumplida"],
+  "cadenas": ["el-mensajero"]
+}

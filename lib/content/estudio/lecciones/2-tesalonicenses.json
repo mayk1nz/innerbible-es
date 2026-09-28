@@ -1,0 +1,120 @@
+{
+  "id": "2-tesalonicenses",
+  "orden": 69,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "2 Tesalonicenses: firmes mientras esperamos",
+  "pasajes": ["2Thess.1.1-2Thess.3.18"],
+  "libros": ["2Thess"],
+
+  "enUnMinuto": [
+    "Pablo escribe otra vez a Tesalónica, donde la iglesia sufre y algunos se asustan por el día del Señor.",
+    "Les pide calma, firmeza en lo aprendido y trabajo honrado mientras esperan a Jesús.",
+    "Dios se revela fiel: da fuerza a los suyos y los guarda del mal."
+  ],
+
+  "versiculo": {
+    "texto": "Mas fiel es el Señor, que os confirmará y guardará del mal.",
+    "referencia": "2 Tesalonicenses 3:3",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "Escrita c. 51 d.C.", "desde": 51, "hasta": 52, "certeza": "aprox" },
+
+  "fechaEscrito": { "texto": "Escrita c. 51 d.C.", "desde": 51, "hasta": 52, "certeza": "aprox" },
+
+  "autor": {
+    "texto": "Pablo, con Silvano y Timoteo (2 Tesalonicenses 1:1).",
+    "nota": "La carta lleva la firma de Pablo (2 Tesalonicenses 3:17). Algunos estudiosos modernos proponen otro autor."
+  },
+
+  "lugar": { "nombre": "A la iglesia de Tesalónica", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Anima a una iglesia asustada y la firma de su mano." },
+    { "id": "silas", "nombre": "Silvano (Silas)", "linea": "Escribe con Pablo a la iglesia que fundaron juntos." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Compañero de Pablo; también saluda a los tesalonicenses." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Vendrá del cielo y vencerá todo mal." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo da gracias por su fe en la persecución", "ref": "2 Tesalonicenses 1:3-4" },
+    { "texto": "Jesús vendrá del cielo y hará justicia", "ref": "2 Tesalonicenses 1:6-10" },
+    { "texto": "El día del Señor todavía no ha llegado", "ref": "2 Tesalonicenses 2:1-3" },
+    { "texto": "Quien no quiera trabajar, que tampoco coma", "ref": "2 Tesalonicenses 3:6-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Firmes en la prueba",
+      "texto": "Pablo, Silvano y Timoteo escriben otra vez a Tesalónica. La iglesia sufre persecución, pero su fe crece y su amor abunda. Pablo los anima: Dios es justo. Cuando Jesús venga del cielo, dará descanso a los que sufren y pondrá cada cosa en su lugar."
+    },
+    {
+      "subtitulo": "El día aún no llega",
+      "texto": "Algunos dicen que el día del Señor ya llegó, y muchos se asustan. Pablo les pide calma. Antes vendrá una gran rebelión y un «hombre de pecado» que se opondrá a Dios. Pero el Señor Jesús lo vencerá con su venida. Hay varias maneras de leer estos anuncios. Lo seguro es que Cristo vence."
+    },
+    {
+      "subtitulo": "Trabajar en paz",
+      "texto": "Algunos dejaron de trabajar y andan metidos en lo ajeno. Pablo recuerda su ejemplo: trabajó de día y de noche para no ser una carga. Por eso dice: si alguien no quiere trabajar, que tampoco coma. Pero pide tratar al que falla como a un hermano, no como a un enemigo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús vendrá del cielo con sus ángeles y será admirado en todos los que creyeron. Él mismo vencerá el mal con el resplandor de su venida. Mientras tanto, «fiel es el Señor»: nos da fuerza y nos guarda.",
+    "refs": ["Mateo 24:30", "Hechos 1:11"]
+  },
+
+  "mundo": "Tesalónica es fiel a Roma y honra a sus emperadores. Por eso, llamar «Rey» a Jesús podía traer problemas, como cuenta Hechos 17:7.",
+
+  "antes": "Pablo escribió a Tesalónica para consolarlos: los que mueren en Cristo resucitarán.",
+  "despues": "Pablo emprende su tercer viaje y se queda unos tres años en Éfeso.",
+
+  "conexiones": [
+    { "ref": "Mateo 24:4", "motivo": "Jesús también advirtió: que nadie los engañe." },
+    { "ref": "Juan 17:15", "motivo": "Jesús pidió al Padre que guardara a los suyos del mal." },
+    { "ref": "Gálatas 6:9", "motivo": "No nos cansemos de hacer el bien." }
+  ],
+
+  "glosario": ["dia-del-senor", "angel"],
+
+  "paraTuVida": {
+    "aplicacion": "Haz hoy tu trabajo, grande o pequeño, con cuidado y alegría, como un servicio a Dios.",
+    "pregunta": "¿En qué prueba necesitas recordar que el Señor es fiel?"
+  },
+
+  "meditar": "Señor fiel, guárdame del mal y dame paciencia mientras espero tu venida. Que no me canse de hacer el bien. Amén.",
+
+  "ninos": {
+    "pregunta": "Pablo trabajaba para no ser una carga. ¿Cómo puedes ayudar tú en casa?",
+    "actividad": "Elige una tarea de la casa y hazla toda la semana sin que te lo pidan."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué dice Pablo de quien no quiere trabajar?",
+      "opciones": ["Que se vaya de la ciudad", "Que tampoco coma", "Que pague una multa"],
+      "correcta": 1,
+      "explicacion": "«Si alguno no quisiere trabajar, tampoco coma» (2 Tesalonicenses 3:10).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué decían algunos que asustaba a los tesalonicenses?",
+      "opciones": ["Que el día del Señor ya llegó", "Que Pablo había muerto", "Que Roma cerraría la iglesia"],
+      "correcta": 0,
+      "explicacion": "Pablo les pide calma: ese día todavía no ha llegado (2 Tesalonicenses 2:1-3).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿En qué carta anterior Pablo ya había hablado del día del Señor?",
+      "opciones": ["En Romanos", "En Filemón", "En 1 Tesalonicenses"],
+      "correcta": 2,
+      "explicacion": "En 1 Tesalonicenses 5:2 dijo que vendría como ladrón de noche.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Thess.1", "2Thess.2", "2Thess.3"], "minutos": 6 },
+
+  "temas": ["esperanza", "fe", "trabajo", "paciencia"],
+  "cadenas": ["la-venida-del-senor"]
+}

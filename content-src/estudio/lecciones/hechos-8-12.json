@@ -1,0 +1,131 @@
+{
+  "id": "hechos-8-12",
+  "orden": 63,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "La buena noticia sale de Jerusalén",
+  "pasajes": ["Acts.8.1-Acts.12.25"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "La persecución dispersa a los creyentes, y la buena noticia llega a Samaria, a un etíope y a un romano.",
+    "Jesús sale al encuentro de Saulo, el perseguidor, y lo convierte en su mensajero.",
+    "Dios revela que no hace diferencias: su salvación es para todos los pueblos."
+  ],
+
+  "versiculo": {
+    "texto": "Entonces Pedro, abriendo su boca, dijo: Por verdad hallo que Dios no hace acepción de personas; Sino que de cualquiera nación que le teme y obra justicia, se agrada.",
+    "referencia": "Hechos 10:34-35",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 35–44 d.C.", "desde": 35, "hasta": 44, "certeza": "aprox" },
+
+  "lugar": { "nombre": "Samaria, Damasco, Cesarea y Antioquía", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "felipe-evangelista", "nombre": "Felipe", "linea": "Anuncia a Cristo en Samaria y bautiza al etíope." },
+    { "id": "pablo", "nombre": "Saulo", "linea": "Persigue a los creyentes hasta que Jesús le sale al encuentro." },
+    { "id": "ananias-de-damasco", "nombre": "Ananías de Damasco", "linea": "Va con miedo a ver a Saulo y lo llama hermano." },
+    { "id": "bernabe", "nombre": "Bernabé", "linea": "Confía en Saulo cuando todos le temen y lo lleva a Antioquía." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "En casa de un romano, ve que Dios acoge a todos." },
+    { "id": "cornelio", "nombre": "Cornelio", "linea": "Centurión romano que ora y ayuda a los pobres." },
+    { "id": "santiago-de-zebedeo", "nombre": "Santiago, hijo de Zebedeo", "linea": "Apóstol que el rey Herodes manda matar." }
+  ],
+
+  "eventos": [
+    { "texto": "Felipe anuncia a Cristo en Samaria", "ref": "Hechos 8:5-13" },
+    { "texto": "Felipe explica Isaías al etíope y lo bautiza", "ref": "Hechos 8:26-39" },
+    { "texto": "Jesús sale al encuentro de Saulo cerca de Damasco", "ref": "Hechos 9:1-9" },
+    { "texto": "El Espíritu Santo cae sobre la casa de Cornelio", "ref": "Hechos 10:44-48" },
+    { "texto": "En Antioquía llaman «cristianos» a los discípulos", "ref": "Hechos 11:19-26" },
+    { "texto": "Un ángel saca a Pedro de la cárcel", "ref": "Hechos 12:1-17" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Dispersos, pero no callados",
+      "texto": "Tras la muerte de Esteban, llega una gran persecución. Saulo entra en las casas y lleva presos a los creyentes. Muchos huyen, pero anuncian la palabra por donde van. Felipe predica a Cristo en Samaria, y hay gran alegría en la ciudad. Pedro y Juan llegan, oran, y los samaritanos reciben el Espíritu Santo."
+    },
+    {
+      "subtitulo": "Un carro en el camino",
+      "texto": "Un ángel envía a Felipe al camino de Gaza. Allí pasa en su carro un alto funcionario de la reina de Etiopía. Va leyendo al profeta Isaías. Felipe le pregunta si entiende lo que lee. Desde ese texto le anuncia a Jesús. Al ver agua, el etíope pide el bautismo y sigue su camino con gozo."
+    },
+    {
+      "subtitulo": "Una luz del cielo",
+      "texto": "Saulo va a Damasco para apresar a los discípulos. Cerca de la ciudad lo rodea una luz del cielo. Oye una voz: «Saulo, Saulo, ¿por qué me persigues?». Es Jesús. Saulo queda ciego tres días. El Señor envía a Ananías, que va con miedo y lo llama «hermano». Saulo recibe la vista y se bautiza."
+    },
+    {
+      "subtitulo": "El perseguidor predica",
+      "texto": "Enseguida, Saulo anuncia en las sinagogas que Jesús es el Hijo de Dios. Algunos quieren matarlo, y lo bajan por el muro en una canasta. En Jerusalén todos le tienen miedo. Bernabé lo recibe y lo presenta a los apóstoles. Mientras tanto, Pedro sana a Eneas y devuelve la vida a Tabita."
+    },
+    {
+      "subtitulo": "Dios no hace diferencias",
+      "texto": "En Cesarea vive Cornelio, un centurión romano que ora y ayuda a los pobres. Un ángel le dice que llame a Pedro. En Jope, Pedro ve un lienzo lleno de animales y oye: «Lo que Dios limpió, no lo llames tú común». Pedro va a casa de Cornelio. Mientras habla, el Espíritu Santo cae sobre todos."
+    },
+    {
+      "subtitulo": "Cristianos en Antioquía",
+      "texto": "En Antioquía, también muchos gentiles creen en Jesús. Bernabé trae a Saulo desde Tarso, y enseñan allí un año entero. Allí llaman «cristianos» a los discípulos por primera vez. En Jerusalén, el rey Herodes mata a Santiago y encarcela a Pedro. La iglesia ora sin cesar, y un ángel lo saca de la cárcel."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "El etíope leía sobre un cordero que no abre su boca. Felipe le muestra que ese cordero es Jesús. A Saulo, Jesús le pregunta: «¿por qué me persigues?». Quien hiere a los suyos lo hiere a él. Y en casa de Cornelio, Pedro anuncia que Jesús es el Señor de todos.",
+    "refs": ["Isaías 53:7", "Hechos 10:36"]
+  },
+
+  "mundo": "Claudio es emperador de Roma desde el año 41 d.C. Hechos recuerda una gran hambre en su tiempo. En Judea reina Herodes Agripa I, nieto de Herodes el Grande.",
+
+  "antes": "Nació la Iglesia en Jerusalén. Esteban murió apedreado, perdonando, mientras el joven Saulo miraba.",
+  "despues": "Mientras la fe llega a nuevos pueblos, Santiago escribe una carta: la fe verdadera se ve en las obras.",
+
+  "conexiones": [
+    { "ref": "Isaías 53:7", "motivo": "El texto que leía el etíope: el cordero llevado sin quejarse." },
+    { "ref": "Gálatas 1:15", "motivo": "Pablo cuenta que Dios lo llamó para anunciar a su Hijo a los pueblos." },
+    { "ref": "Romanos 2:11", "motivo": "Pablo repite lo que aprendió Pedro: Dios no hace diferencias." },
+    { "ref": "Lucas 4:18", "motivo": "Jesús, ungido por el Espíritu, vino a sanar y liberar." }
+  ],
+
+  "glosario": ["samaritano", "gentil", "bautismo", "sinagoga"],
+
+  "paraTuVida": {
+    "aplicacion": "Piensa en alguien a quien te cuesta aceptar. Esta semana, salúdalo con cariño o invítalo a tu mesa.",
+    "pregunta": "¿A quién te está enviando Dios, como a Felipe o a Ananías?"
+  },
+
+  "meditar": "Señor Jesús, tú cambiaste el corazón de Saulo. Cambia también el mío. Dame valor para ir adonde me envíes, como Ananías. Amén.",
+
+  "ninos": {
+    "pregunta": "Ananías tenía miedo de Saulo, pero fue a ayudarlo. ¿Cuándo sentiste miedo de hacer algo bueno?",
+    "actividad": "Con una sábana y juguetes de animales, representa la visión de Pedro."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué libro leía el etíope en su carro?",
+      "opciones": ["Los Salmos", "El Génesis", "El profeta Isaías"],
+      "correcta": 2,
+      "explicacion": "Leía a Isaías, y Felipe le anunció a Jesús desde ese texto (Hechos 8:28-35).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Dónde llamaron «cristianos» a los discípulos por primera vez?",
+      "opciones": ["En Antioquía", "En Jerusalén", "En Damasco"],
+      "correcta": 0,
+      "explicacion": "Fue en Antioquía, donde Bernabé y Saulo enseñaron un año (Hechos 11:26).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Isaías habla de un cordero que no abre su boca. ¿A quién anuncia?",
+      "opciones": ["Al mismo Isaías", "A Jesús", "A Moisés"],
+      "correcta": 1,
+      "explicacion": "Desde Isaías 53:7, Felipe anunció al etíope el evangelio de Jesús (Hechos 8:35).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.8", "Acts.9", "Acts.10", "Acts.12"], "minutos": 20 },
+
+  "temas": ["gracia", "espiritu-santo", "oracion", "conversion", "amor-de-dios"],
+  "cadenas": ["el-espiritu", "la-promesa-a-abraham"]
+}

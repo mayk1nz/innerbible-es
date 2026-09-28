@@ -1,0 +1,138 @@
+{
+  "id": "jonas",
+  "orden": 26,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Jonás: Dios ama también a Nínive",
+  "pasajes": ["Jonah.1.1-Jonah.4.11"],
+  "libros": ["Jonah"],
+
+  "enUnMinuto": [
+    "Dios envía a Jonás a Nínive, pero él huye en un barco y acaba dentro de un gran pez.",
+    "Jonás predica, Nínive se arrepiente y Dios la perdona, aunque Jonás se enoja.",
+    "Dios revela que su misericordia alcanza también a los enemigos y a los extranjeros."
+  ],
+
+  "versiculo": {
+    "texto": "¿Y no tendré yo piedad de Nínive, aquella grande ciudad donde hay más de ciento y veinte mil personas que no conocen su mano derecha ni su mano izquierda, y muchos animales?",
+    "referencia": "Jonás 4:11",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 780–760 a.C.",
+    "desde": -780,
+    "hasta": -760,
+    "certeza": "aprox",
+    "nota": "Jonás vivió en tiempos de Jeroboam II (2 Reyes 14:25). No se sabe cuándo se escribió el libro."
+  },
+  "fechaEscrito": {
+    "texto": "Fecha incierta",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "El libro no dice cuándo se escribió. Unos lo sitúan poco después de Jonás; otros, siglos más tarde."
+  },
+  "autor": { "texto": "Autor anónimo.", "nota": "Habla de Jonás en tercera persona. Muchos lo atribuyen al propio Jonás; otros, a un autor posterior." },
+
+  "lugar": { "nombre": "Jope, el mar y Nínive", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "jonas", "nombre": "Jonás", "linea": "Profeta del norte; huye de Dios y después predica en Nínive." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Habla de «la señal de Jonás»: tres días y tres noches." },
+    { "id": "nahum", "nombre": "Nahúm", "linea": "Profeta que, años después, anuncia la caída de Nínive." }
+  ],
+
+  "eventos": [
+    { "texto": "Jonás huye a Tarsis y llega la tormenta", "ref": "Jonás 1:1-16" },
+    { "texto": "Un gran pez traga a Jonás, y él ora", "ref": "Jonás 2:1-10" },
+    { "texto": "Jonás anuncia a Nínive: cuarenta días", "ref": "Jonás 3:1-4" },
+    { "texto": "Nínive se arrepiente y Dios la perdona", "ref": "Jonás 3:5-10" },
+    { "texto": "Dios enseña a Jonás con una planta", "ref": "Jonás 4:1-11" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Huir de Dios",
+      "texto": "Jonás es un profeta de Israel, el reino del norte. Dios lo envía a Nínive, la gran ciudad de Asiria, enemiga de su pueblo. Jonás no quiere ir. Baja al puerto de Jope y sube a un barco hacia Tarsis, al otro extremo del mar. Quiere huir lejos de la presencia de Dios."
+    },
+    {
+      "subtitulo": "La tormenta",
+      "texto": "Dios envía un gran viento, y el barco está a punto de romperse. Los marineros gritan cada uno a su dios. Jonás duerme abajo. Echan suertes, y la suerte cae sobre él. Jonás confiesa que huye del Señor y les pide que lo echen al mar. Lo hacen, y el mar se calma."
+    },
+    {
+      "subtitulo": "En el vientre del pez",
+      "texto": "Dios prepara un gran pez que traga a Jonás. Allí pasa tres días y tres noches. Desde lo más hondo, Jonás ora y da gracias: «La salvación pertenece a Jehová». Entonces el pez lo deja en tierra firme. Dios le da una segunda oportunidad."
+    },
+    {
+      "subtitulo": "Nínive vuelve a Dios",
+      "texto": "Esta vez Jonás obedece. Recorre Nínive y anuncia que en cuarenta días será destruida. La gente cree a Dios y ayuna, del mayor al menor. Hasta el rey se viste de saco y se sienta en ceniza. Todos dejan su mal camino. Dios ve su cambio y no envía el castigo."
+    },
+    {
+      "subtitulo": "El enojo de Jonás",
+      "texto": "Jonás se enoja. Sabía que Dios es «clemente y piadoso», y no quería perdón para Nínive. Se sienta fuera de la ciudad. Dios hace crecer una planta que le da sombra, y al otro día la seca. Jonás se queja. Dios le pregunta: si te duele una planta, ¿no tendré yo piedad de Nínive?"
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús se compara con Jonás. Como Jonás pasó tres días y tres noches en el pez, así estará él «en el corazón de la tierra». Es la señal de su muerte y su resurrección. Y añade: «he aquí más que Jonás en este lugar». Jesús lleva el perdón de Dios a todos los pueblos.",
+    "refs": ["Mateo 12:40-41", "Lucas 24:47"]
+  },
+
+  "mundo": "Un eclipse de sol visto en Asiria el año 763 a.C. quedó escrito en sus listas oficiales. En esos años hubo también revueltas y epidemias. Asiria era temida, pero pasaba por un tiempo débil.",
+
+  "antes": "Eliseo murió, y Jeroboam II recobró las fronteras de Israel, como Jonás había anunciado.",
+  "despues": "Amós, un pastor de Judá, va al reino del norte a pedir justicia para los pobres.",
+
+  "conexiones": [
+    { "ref": "Mateo 12:40", "motivo": "Los tres días de Jonás anuncian los tres días de Jesús en el sepulcro." },
+    { "ref": "Lucas 11:30", "motivo": "Jonás fue una señal para Nínive; Jesús lo es para todos." },
+    { "ref": "Joel 2:13", "motivo": "Jonás usa las mismas palabras: Dios es clemente y lleno de misericordia." },
+    { "ref": "Salmos 139:7", "motivo": "Nadie puede huir de la presencia de Dios." }
+  ],
+
+  "glosario": ["profeta", "arrepentimiento", "misericordia", "asiria"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ora por alguien que te cae mal o te hizo daño, y pide a Dios que lo bendiga.",
+    "pregunta": "¿A quién te cuesta desearle el perdón de Dios?"
+  },
+
+  "meditar": "Señor, cuando quiera huir de ti, búscame como a Jonás. Dame un corazón grande como el tuyo, que ama también a los que no me aman. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Por qué crees que Dios perdonó a la gente de Nínive?",
+    "actividad": "Dibuja un gran pez con Jonás adentro, orando. Escribe debajo: «La salvación pertenece a Jehová»."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Adónde envió Dios a Jonás?",
+      "opciones": ["A Tarsis, al otro lado del mar", "A Nínive, la gran ciudad", "A Jerusalén, al templo"],
+      "correcta": 1,
+      "explicacion": "Dios le dijo: «ve a Nínive», pero Jonás huyó hacia Tarsis (Jonás 1:2-3).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué hizo el rey de Nínive al oír el mensaje de Jonás?",
+      "opciones": ["Mandó arrestar a Jonás", "Hizo una gran fiesta", "Se vistió de saco y ayunó"],
+      "correcta": 2,
+      "explicacion": "Fue un arrepentimiento sincero: el rey llamó a todos a dejar su mal camino (Jonás 3:6-9).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Con qué comparó Jesús los tres días de Jonás dentro del pez?",
+      "opciones": ["Con su muerte y resurrección", "Con su bautismo en el Jordán", "Con sus días en el desierto"],
+      "correcta": 0,
+      "explicacion": "El Hijo del hombre estaría «en el corazón de la tierra tres días y tres noches» (Mateo 12:40).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Jonah.1", "Jonah.2", "Jonah.3", "Jonah.4"], "minutos": 10 },
+
+  "notaEcumenica": "Muchos cristianos leen Jonás como historia real, apoyados en las palabras de Jesús. Otros lo leen sobre todo como un relato que enseña. Todos reciben su mensaje: Dios ama a todos los pueblos.",
+
+  "temas": ["misericordia", "arrepentimiento", "obediencia", "amor-de-dios", "resurreccion"],
+  "cadenas": ["las-naciones", "el-tercer-dia"]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "efesios",
+  "orden": 75,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Efesios: un solo cuerpo en Cristo",
+  "pasajes": ["Eph.1.1-Eph.6.24"],
+  "libros": ["Eph"],
+
+  "enUnMinuto": [
+    "Pablo, preso, escribe a los creyentes de Éfeso sobre todo lo que Dios les regaló en Cristo.",
+    "Somos salvos por gracia, y en Cristo judíos y no judíos forman un solo cuerpo.",
+    "Dios revela un amor tan grande que nadie lo puede medir."
+  ],
+
+  "versiculo": {
+    "texto": "Porque por gracia sois salvos por la fe; y esto no de vosotros, pues es don de Dios: No por obras, para que nadie se gloríe.",
+    "referencia": "Efesios 2:8-9",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 60–62 d.C.",
+    "desde": 60,
+    "hasta": 62,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 60–62 d.C., desde la prisión",
+    "desde": 60,
+    "hasta": 62,
+    "certeza": "aprox",
+    "nota": "Pablo escribe preso (Efesios 3:1). La tradición piensa en Roma; otros estudiosos proponen Cesarea o Éfeso."
+  },
+  "autor": {
+    "texto": "El apóstol Pablo, «prisionero de Cristo Jesús» (Efesios 3:1).",
+    "nota": "Algunos estudiosos piensan que la escribió un discípulo de Pablo, en su nombre."
+  },
+
+  "lugar": { "nombre": "Éfeso, en Asia Menor", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Preso por el evangelio, dobla sus rodillas y ora por los efesios." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Cabeza de la Iglesia; con su cruz derriba el muro de separación." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Hijo espiritual de Pablo; más tarde cuidará de la iglesia de Éfeso." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios nos bendice y nos elige en Cristo", "ref": "Efesios 1:3-14" },
+    { "texto": "Salvos por gracia, no por obras", "ref": "Efesios 2:1-10" },
+    { "texto": "Cristo derriba el muro entre judíos y no judíos", "ref": "Efesios 2:11-22" },
+    { "texto": "Pablo ora para que conozcan el amor de Cristo", "ref": "Efesios 3:14-21" },
+    { "texto": "Un cuerpo, un Espíritu, un Señor", "ref": "Efesios 4:1-16" },
+    { "texto": "Vestirse con la armadura de Dios", "ref": "Efesios 6:10-20" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Bendecidos en Cristo",
+      "texto": "Pablo está preso, pero su carta empieza con alabanza. Bendice a Dios, que nos dio toda bendición en Cristo. Nos eligió en amor, nos hizo sus hijos y nos perdonó. Nos marcó con el Espíritu Santo, como un sello de su promesa. Pablo ora para que los efesios comprendan esa esperanza."
+    },
+    {
+      "subtitulo": "Salvos por gracia",
+      "texto": "Antes estábamos muertos por nuestros pecados. «Empero Dios, que es rico en misericordia», nos dio vida con Cristo. Pablo lo dice claro: somos salvos por gracia, por medio de la fe. Es un regalo de Dios, no el pago de nuestras obras. Y nos creó en Cristo para hacer el bien."
+    },
+    {
+      "subtitulo": "Un muro derribado",
+      "texto": "Entre judíos y no judíos había un muro de separación. Los que estaban lejos no conocían las promesas de Dios. Pero Cristo es nuestra paz. Con su cruz derribó el muro e hizo de los dos un solo pueblo. Ahora todos son familia de Dios, un templo santo donde él vive."
+    },
+    {
+      "subtitulo": "Un amor sin medida",
+      "texto": "Pablo dobla sus rodillas ante el Padre. Pide que Cristo viva en sus corazones por la fe. Quiere que conozcan lo ancho, lo largo, lo alto y lo profundo del amor de Cristo. Es un amor más grande que todo lo que podemos entender. Y Dios puede hacer mucho más de lo que pedimos."
+    },
+    {
+      "subtitulo": "Un solo cuerpo",
+      "texto": "Por eso Pablo les ruega vivir unidos, con humildad y paciencia. Hay «Un cuerpo, y un Espíritu», un Señor, una fe, un bautismo. Cada uno recibe dones para servir y hacer crecer el cuerpo. Deben hablar con verdad y perdonarse, como Dios los perdonó en Cristo."
+    },
+    {
+      "subtitulo": "La armadura de Dios",
+      "texto": "Pablo habla también a la familia: todos deben servirse unos a otros por respeto a Cristo. Los maridos han de amar a sus esposas como Cristo amó a la Iglesia. Después recuerda que hay una lucha espiritual. Invita a vestirse con la armadura de Dios: verdad, justicia, fe, salvación y la palabra de Dios. Y, sobre todo, a orar siempre."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús es la «principal piedra del ángulo» que sostiene a toda la Iglesia. Con su sangre acerca a los que estaban lejos y hace la paz. Y amó a la Iglesia hasta entregarse por ella, como un esposo que da la vida.",
+    "refs": ["Efesios 2:20", "Efesios 5:25"]
+  },
+
+  "mundo": "Éfeso era una de las ciudades más grandes de Asia Menor. Allí estaba el templo de Diana, o Artemisa, una de las siete maravillas del mundo antiguo.",
+
+  "antes": "Pablo llegó a Roma como prisionero y anunciaba a Jesús con toda libertad.",
+  "despues": "Pablo escribe también a Colosas, una ciudad cercana: Cristo es lo primero en todo.",
+
+  "conexiones": [
+    { "ref": "Salmos 118:22", "motivo": "La piedra que desecharon llegó a ser la piedra principal." },
+    { "ref": "Isaías 57:19", "motivo": "Dios anuncia paz al que está lejos y al que está cerca." },
+    { "ref": "Isaías 59:17", "motivo": "Dios mismo se viste de justicia y de salvación." },
+    { "ref": "Colosenses 3:13", "motivo": "Perdonarse como Cristo nos perdonó, dice también a Colosas." }
+  ],
+
+  "glosario": ["gracia", "iglesia", "espiritu-santo", "fe"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee cada mañana Efesios 6:10-18 y ora por alguien de tu iglesia.",
+    "pregunta": "¿Con quién necesitas derribar hoy un muro de separación?"
+  },
+
+  "meditar": "Padre, gracias porque me salvaste por gracia. Hazme comprender el amor de Cristo, que no tiene medida. Úneme a mis hermanos en un solo cuerpo. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué partes de la armadura de Dios recuerdas? ¿Para qué sirve cada una?",
+    "actividad": "Haz un escudo de cartón y escribe encima, bien grande, la palabra «fe»."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "Según Efesios 2:8, ¿cómo somos salvos?",
+      "opciones": ["Por nuestras buenas obras", "Por gracia, por medio de la fe", "Por cumplir muchas reglas"],
+      "correcta": 1,
+      "explicacion": "La salvación es un regalo de Dios, no el pago de nuestras obras (Efesios 2:8-9).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué pieza de la armadura de Dios es la palabra de Dios?",
+      "opciones": ["El escudo", "El yelmo", "La espada del Espíritu"],
+      "correcta": 2,
+      "explicacion": "«la espada del Espíritu; que es la palabra de Dios» (Efesios 6:17).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué salmo habla de la piedra rechazada que llegó a ser la principal?",
+      "opciones": ["El Salmo 118", "El Salmo 23", "El Salmo 1"],
+      "correcta": 0,
+      "explicacion": "Salmos 118:22. Pablo llama a Jesús la «principal piedra del ángulo» (Efesios 2:20).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Eph.2", "Eph.3", "Eph.4", "Eph.6"], "minutos": 13 },
+
+  "temas": ["gracia", "unidad", "amor-de-dios", "iglesia", "oracion"],
+  "cadenas": ["el-cuerpo-de-cristo", "el-templo"]
+}

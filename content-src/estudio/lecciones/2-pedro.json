@@ -1,0 +1,133 @@
+{
+  "id": "2-pedro",
+  "orden": 83,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "2 Pedro: crecer y no olvidar",
+  "pasajes": ["2Pet.1.1-2Pet.3.18"],
+  "libros": ["2Pet"],
+
+  "enUnMinuto": [
+    "Pedro, cerca de morir, escribe para que los cristianos recuerden lo que aprendieron.",
+    "Les pide crecer en la fe, cuidarse de maestros falsos y esperar la venida de Jesús.",
+    "Dios revela que es paciente, porque no quiere que nadie se pierda."
+  ],
+
+  "versiculo": {
+    "texto": "Mas creced en la gracia y conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén.",
+    "referencia": "2 Pedro 3:18",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 65–67 d.C.",
+    "desde": 65,
+    "hasta": 67,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 65–67 d.C.",
+    "desde": 65,
+    "hasta": 67,
+    "certeza": "debatida",
+    "nota": "Es la fecha tradicional, poco antes de la muerte de Pedro. Quienes piensan en un discípulo suyo la sitúan bastante después."
+  },
+
+  "autor": {
+    "texto": "Simón Pedro, según la carta (2 Pedro 1:1)",
+    "nota": "Así la recibió la tradición. Muchos estudiosos piensan en un discípulo que escribió en su nombre."
+  },
+
+  "lugar": { "nombre": "Iglesias que ya conocían a Pedro", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pedro", "nombre": "Pedro", "linea": "Testigo de la gloria de Jesús; escribe antes de morir." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Hijo amado, que volverá según su promesa." },
+    { "id": "pablo", "nombre": "Pablo", "linea": "Pedro lo llama «nuestro amado hermano» y recuerda sus cartas." },
+    { "id": "noe", "nombre": "Noé", "linea": "Pregonero de justicia; Dios lo guardó en el diluvio." },
+    { "id": "lot", "nombre": "Lot", "linea": "Dios lo libró de Sodoma: sabe cuidar a los suyos." }
+  ],
+
+  "eventos": [
+    { "texto": "Pedro pide sumar virtudes a la fe", "ref": "2 Pedro 1:5-11" },
+    { "texto": "Pedro recuerda la voz del Padre en el monte", "ref": "2 Pedro 1:16-18" },
+    { "texto": "Advierte sobre maestros falsos", "ref": "2 Pedro 2:1-3" },
+    { "texto": "Dios es paciente y cumplirá su promesa", "ref": "2 Pedro 3:8-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Crecer paso a paso",
+      "texto": "Pedro sabe que pronto dejará esta vida. Quiere que los cristianos no olviden lo que aprendieron. Dios ya nos dio todo lo necesario para vivir con él. Por eso, a la fe hay que sumarle virtud, conocimiento, dominio propio, paciencia, piedad, cariño entre hermanos y amor."
+    },
+    {
+      "subtitulo": "Testigos de su gloria",
+      "texto": "Pedro no cuenta fábulas. Estuvo en el monte santo con Jesús y oyó la voz del Padre: «Este es el amado Hijo mío». También avisa que vendrán maestros falsos que engañarán por dinero. Pero Dios sabe librar a los suyos, como libró a Noé y a Lot."
+    },
+    {
+      "subtitulo": "Dios no se tarda",
+      "texto": "Algunos se burlan: «¿Dónde está la promesa de su advenimiento?» Pedro responde que para el Señor un día es como mil años. Dios no se tarda: tiene paciencia, porque quiere que todos lleguen al arrepentimiento. El día del Señor llegará sin aviso. Esperamos cielos nuevos y tierra nueva, donde vive la justicia."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pedro vio a Jesús lleno de gloria en el monte santo. Los Evangelios cuentan ese momento: el Padre dijo que Jesús era su Hijo amado. Ese mismo Jesús volverá, como prometió. Por eso esperamos con paz y crecemos en su gracia.",
+    "refs": ["2 Pedro 1:16-18", "Mateo 17:1-5"]
+  },
+
+  "mundo": "El Imperio romano vive años revueltos. Nerón muere en el año 68 d.C., y al año siguiente cuatro hombres se disputan el trono de emperador.",
+
+  "antes": "Desde la cárcel, Pablo escribió su última carta a Timoteo sobre terminar bien la carrera.",
+  "despues": "La carta a los Hebreos muestra que Jesús es mejor que todo: sacerdote y sacrificio a la vez.",
+
+  "conexiones": [
+    { "ref": "Mateo 17:5", "motivo": "En el monte, el Padre dijo que Jesús es su Hijo amado." },
+    { "ref": "Salmos 90:4", "motivo": "Para Dios, mil años son como el día de ayer." },
+    { "ref": "1 Timoteo 2:4", "motivo": "Dios quiere que todas las personas se salven." },
+    { "ref": "Apocalipsis 21:1", "motivo": "Juan ve el cielo nuevo y la tierra nueva que Pedro esperaba." }
+  ],
+
+  "glosario": ["arrepentimiento", "gracia", "dia-del-senor"],
+
+  "paraTuVida": {
+    "aplicacion": "Elige una virtud de 2 Pedro 1:5-7 y practícala a propósito cada día de esta semana.",
+    "pregunta": "¿Qué promesa de Dios te cuesta esperar con paciencia?"
+  },
+
+  "meditar": "Señor, gracias por tu paciencia conmigo. Hazme crecer en tu gracia y en tu conocimiento. Mientras espero tu venida, ayúdame a vivir en paz. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios es paciente con nosotros. ¿Cuándo te cuesta a ti esperar?",
+    "actividad": "Planta una semilla en un vaso y mira cada día cómo crece poco a poco, como la fe."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué escuchó Pedro en el monte santo?",
+      "opciones": ["La voz del Padre", "El canto de un gallo", "Un gran terremoto"],
+      "correcta": 0,
+      "explicacion": "Oyó: «Este es el amado Hijo mío», cuando estaba con Jesús (2 Pedro 1:17-18).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Por qué Dios espera antes de cumplir su promesa?",
+      "opciones": ["Porque se olvidó", "Porque es paciente", "Porque cambió de idea"],
+      "correcta": 1,
+      "explicacion": "No quiere que nadie se pierda, sino que todos se arrepientan (2 Pedro 3:9).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué libro describe los cielos nuevos y la tierra nueva que Pedro esperaba?",
+      "opciones": ["Génesis", "Levítico", "Apocalipsis"],
+      "correcta": 2,
+      "explicacion": "Juan vio «un cielo nuevo, y una tierra nueva» (Apocalipsis 21:1).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Pet.1", "2Pet.2", "2Pet.3"], "minutos": 11 },
+
+  "temas": ["esperanza", "gracia", "arrepentimiento", "segunda-venida"],
+  "cadenas": ["la-venida-de-cristo", "cielos-nuevos-y-tierra-nueva"]
+}

@@ -16,45 +16,7 @@ process.emitWarning = (w, ...r) => (/MODULE_TYPELESS|Module type of file/.test(S
 const { LIMITES_GUIA: L, GUIAS } = await import('../../lib/content/guias/types.ts')
 process.emitWarning = emit
 
-// ─── Bible (the app's RV1909) ──────────────────────────────────────
-const NAMES = {}
-for (const m of fs.readFileSync(path.join(ROOT, 'lib', 'biblia.ts'), 'utf8').matchAll(/\{ id: '([^']+)', nombre: '([^']+)'/g)) NAMES[m[2]] = m[1]
-const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim()
-const BOOK = new Map(Object.entries(NAMES).map(([n, id]) => [norm(n), id]))
-for (const [a, id] of [['salmo', 'Ps'], ['cantar de los cantares', 'Song'], ['hechos de los apostoles', 'Acts']]) BOOK.set(a, id)
-const cache = new Map()
-const chapters = (id) => {
-  if (!cache.has(id)) cache.set(id, JSON.parse(fs.readFileSync(path.join(ROOT, 'public', 'biblia', `${id}.json`), 'utf8')).capitulos)
-  return cache.get(id)
-}
-/** "Juan 2:1-11" | "Juan 2" | "Mateo 5:1–7:29" → { id, c, v1, v2, c2 } or null */
-export function parseRef(ref) {
-  const m = ref.trim().match(/^(.+?)\s+(\d+)(?::(\d+))?(?:\s*[-–]\s*(?:(\d+):)?(\d+))?$/)
-  if (!m) return null
-  const id = BOOK.get(norm(m[1]))
-  if (!id) return null
-  const c = Number(m[2])
-  const ch = chapters(id)
-  if (!ch[c - 1]) return null
-  const v1 = m[3] ? Number(m[3]) : null
-  const c2 = m[4] ? Number(m[4]) : v1 ? c : m[5] ? Number(m[5]) : c
-  const v2 = v1 ? (m[5] ? Number(m[5]) : v1) : null
-  if (!ch[c2 - 1]) return null
-  if (v1 && (v1 > ch[c - 1].length || v2 > ch[c2 - 1].length || (c2 === c && v2 < v1))) return null
-  return { id, c, v1, c2, v2 }
-}
-export function textOf(ref) {
-  const r = parseRef(ref)
-  if (!r || !r.v1) return null
-  const ch = chapters(r.id)
-  const out = []
-  for (let c = r.c; c <= r.c2; c++) {
-    const from = c === r.c ? r.v1 : 1
-    const to = c === r.c2 ? r.v2 : ch[c - 1].length
-    for (let v = from; v <= to; v++) out.push(ch[c - 1][v - 1])
-  }
-  return out.join(' ')
-}
+import { parseRef, textOf, words, sentences, sameText as same } from '../biblia-util.mjs'
 
 if (process.argv[2] === '--texto') {
   for (const r of process.argv.slice(3)) console.log(`${r} → ${textOf(r) ?? 'NÃO ENCONTRADO (livro, capítulo e versículo; ex.: "Juan 2:1-11")'}`)
@@ -70,9 +32,6 @@ if (!GUIAS.includes(guia)) {
 const DIR = path.join(HERE, guia)
 const maestra = JSON.parse(fs.readFileSync(path.join(ROOT, 'content-src', 'estudio', 'maestra.json'), 'utf8'))
 const estudioIds = new Set(maestra.lecciones.map((l) => l.id))
-const words = (s) => (s.match(/[\p{L}\p{N}]+/gu) ?? []).length
-const sentences = (s) => s.split(/(?<=[.!?…])\s+|\n+/).map((x) => x.trim()).filter(Boolean)
-const same = (a, b) => a.replace(/\s+/g, ' ').trim() === b.replace(/\s+/g, ' ').trim()
 
 let failed = 0
 function check(file) {

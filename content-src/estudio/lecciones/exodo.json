@@ -1,0 +1,150 @@
+{
+  "id": "exodo",
+  "orden": 9,
+  "seccion": "exodo",
+  "formato": "completo",
+  "titulo": "Dios libera a su pueblo de Egipto",
+  "pasajes": ["Exod.1.1-Exod.40.38"],
+  "libros": ["Exod"],
+
+  "enUnMinuto": [
+    "Dios oye el clamor de Israel, esclavo en Egipto, y envía a Moisés a liberarlo.",
+    "Tras las plagas y la Pascua, el pueblo cruza el mar y recibe la Ley en el Sinaí.",
+    "Dios revela su nombre y su corazón: salva, perdona y quiere vivir en medio de su pueblo."
+  ],
+
+  "versiculo": {
+    "texto": "Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre, y pasaré de vosotros, y no habrá en vosotros plaga de mortandad, cuando heriré la tierra de Egipto.",
+    "referencia": "Éxodo 12:13",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Salida de Egipto: c. 1446 o c. 1270 a.C.",
+    "desde": -1526,
+    "hasta": -1445,
+    "certeza": "debatida",
+    "nota": "Hay dos fechas principales: c. 1446 a.C., según 1 Reyes 6:1, o c. 1270 a.C. Aquí seguimos la primera."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 1446–1406 a.C., según la tradición",
+    "desde": -1446,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Si lo escribió Moisés, fue durante el desierto. Muchos estudiosos piensan que el libro se completó siglos después."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Moisés.",
+    "nota": "La tradición judía y la cristiana lo atribuyen a Moisés. Éxodo 24:4 dice que Moisés escribió las palabras del Señor."
+  },
+
+  "lugar": { "nombre": "Egipto, el mar y el Sinaí", "mapa": "exodo" },
+
+  "personajes": [
+    { "id": "moises", "nombre": "Moisés", "linea": "Salvado de las aguas; Dios lo envía a liberar a su pueblo." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Hermano de Moisés; habla por él, pero cede con el becerro." },
+    { "id": "maria-hermana-de-moises", "nombre": "María, hermana de Moisés", "linea": "Profetisa; guía a las mujeres en el canto tras cruzar el mar." },
+    { "id": "jetro", "nombre": "Jetro", "linea": "Suegro de Moisés; le aconseja repartir el trabajo con otros." },
+    { "id": "josue", "nombre": "Josué", "linea": "Joven ayudante de Moisés; lo acompaña cuando sube al monte." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios llama a Moisés desde la zarza ardiente", "ref": "Éxodo 3:1-12" },
+    { "texto": "Diez plagas caen sobre Egipto", "ref": "Éxodo 7-11" },
+    { "texto": "La sangre del cordero protege a Israel en la Pascua", "ref": "Éxodo 12:1-13" },
+    { "texto": "Israel cruza el mar en seco", "ref": "Éxodo 14:21-31" },
+    { "texto": "Dios da los Diez Mandamientos en el Sinaí", "ref": "Éxodo 20:1-17" },
+    { "texto": "La gloria de Dios llena el tabernáculo", "ref": "Éxodo 40:34-38" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Esclavos en Egipto",
+      "texto": "La familia de Jacob crece tanto en Egipto que llena la tierra. Un nuevo faraón tiene miedo y los hace esclavos. Después manda echar al río a los niños varones. Una madre de la tribu de Leví esconde a su bebé en una cestita junto al río. La hija del faraón lo encuentra y lo llama Moisés."
+    },
+    {
+      "subtitulo": "Una zarza en llamas",
+      "texto": "Ya adulto, Moisés mata a un egipcio y huye a Madián. Allí se casa y cuida las ovejas de su suegro. Un día ve una zarza que arde sin quemarse. Dios le habla desde el fuego: ha visto el dolor de su pueblo. Lo envía al faraón y le dice su nombre: «YO SOY EL QUE SOY»."
+    },
+    {
+      "subtitulo": "Diez plagas y una noche",
+      "texto": "El faraón no quiere dejar ir al pueblo. Dios envía plagas: el agua se vuelve sangre, llegan ranas, granizo, langostas y tinieblas. En la última noche mueren los primogénitos de Egipto. Cada familia de Israel sacrifica un cordero y pone su sangre en la puerta. Donde está la sangre, la muerte pasa de largo. Es la primera Pascua."
+    },
+    {
+      "subtitulo": "Un camino en el mar",
+      "texto": "Israel sale de Egipto. Dios va delante en una columna de nube de día y de fuego de noche. El faraón los persigue con sus carros. El pueblo tiembla, pero Moisés dice: «Jehová peleará por vosotros». Dios abre el mar y ellos pasan en seco. María toma un pandero y las mujeres cantan y bailan."
+    },
+    {
+      "subtitulo": "El maná y la Ley",
+      "texto": "En el desierto, el pueblo se queja de hambre y de sed. Dios les da maná cada mañana y agua de una roca. Al pie del monte Sinaí, entre truenos y fuego, Dios hace pacto con Israel. Les da los Diez Mandamientos: guías para amarlo a él y cuidar al prójimo."
+    },
+    {
+      "subtitulo": "Dios vive entre ellos",
+      "texto": "Moisés tarda en bajar del monte, y el pueblo adora un becerro de oro. Moisés rompe las tablas y ruega a Dios por el pueblo. Dios perdona y se presenta como «misericordioso, y piadoso; tardo para la ira». Al final construyen el tabernáculo, y la gloria de Dios lo llena."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo llama a Cristo «nuestra pascua»: como el cordero de Egipto, él fue sacrificado por nosotros. Jesús dice que el Padre da «el verdadero pan del cielo», y que ese pan es él. Y cuando Jesús dice «yo soy», recuerda el nombre que Dios reveló en la zarza.",
+    "refs": ["1 Corintios 5:7", "Juan 6:32-35"]
+  },
+
+  "mundo": "Egipto vive su época de mayor poder, con faraones que levantan grandes templos. La Biblia no dice el nombre del faraón del éxodo. Por eso los estudiosos proponen distintos reyes.",
+
+  "antes": "La familia de Jacob se estableció en Egipto. José murió y pidió que un día llevaran sus huesos a Canaán.",
+  "despues": "Al pie del Sinaí, Dios enseña a su pueblo cómo acercarse a él: son las leyes de Levítico.",
+
+  "conexiones": [
+    { "ref": "Juan 8:58", "motivo": "Jesús usa el nombre que Dios reveló a Moisés: «yo soy»." },
+    { "ref": "1 Pedro 1:19", "motivo": "Somos rescatados por la sangre de Cristo, cordero sin mancha." },
+    { "ref": "Salmos 103:8", "motivo": "El salmo repite cómo se presentó Dios a Moisés: lento para la ira." },
+    { "ref": "Hebreos 11:23-29", "motivo": "Por la fe, Moisés prefirió sufrir con su pueblo y salió de Egipto." }
+  ],
+
+  "glosario": ["plaga", "pascua", "mana", "diez-mandamientos", "tabernaculo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ante un problema que te asuste, lee Éxodo 14:14 y deja la lucha en manos de Dios.",
+    "pregunta": "¿De qué esclavitud quiere liberarte Dios hoy?"
+  },
+
+  "meditar": "Señor, tú oyes mi clamor como oíste a tu pueblo en Egipto. Líbrame de lo que me ata y camina conmigo cada día. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Cómo guiaba Dios a su pueblo de día y de noche en el desierto?",
+    "actividad": "Dibuja una nube y una columna de fuego, y cuenta a tu familia cómo Dios guiaba."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Desde dónde le habló Dios a Moisés en el monte Horeb?",
+      "opciones": ["Desde una nube oscura", "Desde una zarza que ardía", "Desde el río de Egipto"],
+      "correcta": 1,
+      "explicacion": "La zarza ardía en fuego, pero no se consumía (Éxodo 3:2).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué pusieron las familias de Israel en sus puertas la noche de la Pascua?",
+      "opciones": ["Agua del río", "Ramas de palmera", "Sangre del cordero"],
+      "correcta": 2,
+      "explicacion": "Dios dijo: «veré la sangre, y pasaré de vosotros» (Éxodo 12:13).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿A quién llama Pablo «nuestra pascua»?",
+      "opciones": ["A Cristo", "A Moisés", "A Aarón"],
+      "correcta": 0,
+      "explicacion": "Como el cordero de Egipto, Cristo fue sacrificado por nosotros (1 Corintios 5:7).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Exod.3", "Exod.12", "Exod.14", "Exod.20", "Exod.32"], "minutos": 30 },
+
+  "notaEcumenica": "Católicos y evangélicos numeran los Diez Mandamientos de forma algo distinta. El texto bíblico es el mismo (Éxodo 20:1-17); solo cambia cómo se agrupan las frases.",
+
+  "temas": ["pacto", "cordero", "providencia", "perdon", "oracion"],
+  "cadenas": ["el-cordero", "el-templo"]
+}

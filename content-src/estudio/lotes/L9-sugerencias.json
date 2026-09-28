@@ -1,0 +1,19 @@
+{
+  "glosario": [
+    { "id": "caridad", "termino": "Caridad", "definicion": "Así llama la Biblia de 1909 al amor que viene de Dios, como en 1 Corintios 13." },
+    { "id": "siervo", "termino": "Siervo (esclavo)", "definicion": "En la Biblia de 1909, a menudo significa esclavo: una persona que pertenecía a un amo." },
+    { "id": "cesar", "termino": "César", "definicion": "Título del emperador romano. Un ciudadano romano podía pedir ser juzgado ante él." },
+    { "id": "colecta", "termino": "Colecta", "definicion": "Ofrenda que Pablo reunió en las iglesias para ayudar a los cristianos pobres de Jerusalén." }
+  ],
+  "personajes": [
+    { "id": "febe", "nombre": "Febe", "linea": "Servidora de la iglesia de Cencreas; Pablo la recomienda a Roma." },
+    { "id": "agabo", "nombre": "Agabo", "linea": "Profeta que anunció que atarían a Pablo en Jerusalén." },
+    { "id": "felix", "nombre": "Félix", "linea": "Gobernador romano que escuchó a Pablo y lo dejó preso dos años." },
+    { "id": "festo", "nombre": "Festo", "linea": "Gobernador que sucedió a Félix; ante él Pablo apeló al César." },
+    { "id": "agripa", "nombre": "El rey Agripa", "linea": "Rey que escuchó a Pablo: «Por poco me persuades a ser Cristiano»." },
+    { "id": "julio-centurion", "nombre": "Julio", "linea": "Centurión que llevó a Pablo a Roma y le salvó la vida." },
+    { "id": "tiquico", "nombre": "Tíquico", "rv1909": "Tichîco", "linea": "Hermano fiel que llevó las cartas de Pablo a Éfeso y Colosas." },
+    { "id": "epafras", "nombre": "Epafras", "linea": "Llevó el evangelio a Colosas y oraba sin cesar por ellos." },
+    { "id": "aristarco", "nombre": "Aristarco", "linea": "Macedonio de Tesalónica; compañero de viaje y de prisión de Pablo." }
+  ]
+}

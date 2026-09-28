@@ -1,0 +1,135 @@
+{
+  "id": "hageo",
+  "orden": 44,
+  "seccion": "regreso",
+  "formato": "breve",
+  "titulo": "Hageo: primero la casa de Dios",
+  "pasajes": ["Hag.1.1-Hag.2.23"],
+  "libros": ["Hag"],
+
+  "enUnMinuto": [
+    "El pueblo dejó a medias el templo y se ocupa solo de sus propias casas.",
+    "Hageo los anima a construir, y Dios les promete: «Yo soy con vosotros».",
+    "Dios revela que quiere vivir con su pueblo y que llenará de gloria esa casa sencilla."
+  ],
+
+  "versiculo": {
+    "texto": "La gloria de aquesta casa postrera será mayor que la de la primera, ha dicho Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos.",
+    "referencia": "Hageo 2:9",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "520 a.C.",
+    "desde": -520,
+    "hasta": -520,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "520 a.C.",
+    "desde": -520,
+    "hasta": -520,
+    "certeza": "aprox",
+    "nota": "Sus cuatro mensajes tienen fecha: todos caen en el segundo año del rey Darío."
+  },
+
+  "autor": {
+    "texto": "El profeta Hageo",
+    "nota": "El libro habla de él en tercera persona. Esdras 5:1 lo nombra junto a Zacarías."
+  },
+
+  "lugar": { "nombre": "Jerusalén, junto al templo en ruinas", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "hageo", "nombre": "Hageo", "linea": "Profeta breve y claro: pide poner primero la casa de Dios." },
+    { "id": "zorobabel", "nombre": "Zorobabel", "linea": "Gobernador de Judá; Dios lo llama su anillo de sellar." },
+    { "id": "zacarias-profeta", "nombre": "Zacarías", "linea": "Profeta de los mismos días; también anima a reconstruir." }
+  ],
+
+  "eventos": [
+    { "texto": "Hageo llama a reconstruir la casa de Dios", "ref": "Hageo 1:1-11" },
+    { "texto": "El pueblo escucha y vuelve a la obra", "ref": "Hageo 1:12-15" },
+    { "texto": "Dios promete: la gloria de esta casa será mayor", "ref": "Hageo 2:6-9" },
+    { "texto": "Dios elige a Zorobabel como su anillo de sellar", "ref": "Hageo 2:20-23" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Casas bonitas, templo vacío",
+      "texto": "Es el segundo año del rey Darío. Hace años que la obra del templo está parada. El pueblo dice que todavía no es tiempo. Pero cada uno arregla su casa con buena madera. Siembran mucho y cosechan poco. Hageo les pide pensar bien en sus caminos."
+    },
+    {
+      "subtitulo": "Dios despierta el ánimo",
+      "texto": "Zorobabel, el sumo sacerdote Josué y todo el pueblo escuchan. Dios les dice: «Yo soy con vosotros». Despierta el espíritu de todos, y veinticuatro días después vuelven a trabajar en la casa de Dios."
+    },
+    {
+      "subtitulo": "Una gloria mayor",
+      "texto": "Los que vieron el templo de antes sienten que el nuevo no es nada. Dios responde: «esfuérzate», porque su Espíritu está en medio de ellos. Suya es la plata y suyo el oro. La gloria de esta casa será mayor que la primera, y allí dará paz."
+    },
+    {
+      "subtitulo": "Desde hoy, bendición",
+      "texto": "Hageo explica que lo impuro contagia, pero lo santo no. El pueblo necesita volver a Dios de corazón. Desde el día en que ponen el cimiento, Dios promete bendecir. A Zorobabel le dice: te pondré como anillo de sellar, porque yo te escogí."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Hageo anuncia que la gloria de la casa nueva será mayor. Siglos después, Jesús enseña en ese templo, ya ampliado. Zorobabel, el «anillo de sellar» de Dios, aparece en la genealogía de Jesús. Y Hebreos recuerda esta profecía: Dios nos da un reino que no puede ser movido.",
+    "refs": ["Mateo 1:12", "Hebreos 12:26-28"]
+  },
+
+  "mundo": "Darío I organiza el Imperio persa en provincias, con gobernadores y buenos caminos. Judá es una provincia pequeña. Por estos años empieza a construir Persépolis, su gran capital.",
+
+  "antes": "Los que volvieron pusieron los cimientos del templo, pero la oposición detuvo la obra.",
+  "despues": "Zacarías, otro profeta de esos mismos días, anuncia a un rey humilde que viene.",
+
+  "conexiones": [
+    { "ref": "Mateo 6:33", "motivo": "Jesús enseña a buscar primero el reino de Dios." },
+    { "ref": "Hebreos 12:26-28", "motivo": "Dios hará temblar todo, pero su reino no se moverá." },
+    { "ref": "Josué 1:9", "motivo": "Como a Josué, Dios dice: esfuérzate, yo estoy contigo." },
+    { "ref": "Salmos 24:1", "motivo": "De Dios es la tierra y todo lo que hay en ella." }
+  ],
+
+  "glosario": ["templo", "gloria-de-dios", "puro-impuro", "sumo-sacerdote"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de ocuparte de tus cosas, dale a Dios el primer rato del día.",
+    "pregunta": "¿Qué cosa buena para Dios has dejado para más adelante?"
+  },
+
+  "meditar": "Señor, perdona cuando te dejo para después. Despierta mi espíritu como el de tu pueblo. Tú estás conmigo; quiero ponerte primero. Amén.",
+
+  "ninos": {
+    "pregunta": "El pueblo arreglaba sus casas y olvidaba la casa de Dios. ¿Qué harías tú?",
+    "actividad": "Haz una lista de lo que haces cada día y marca un momento para Dios."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué había dejado a medias el pueblo en tiempos de Hageo?",
+      "opciones": ["El templo de Dios", "La muralla de Babilonia", "Un barco de pesca"],
+      "correcta": 0,
+      "explicacion": "Cada uno arreglaba su casa, mientras la casa de Dios estaba desierta (Hageo 1:4).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué promete Dios sobre la gloria de la casa nueva?",
+      "opciones": ["Que nadie la verá", "Que será igual a la primera", "Que será mayor que la primera"],
+      "correcta": 2,
+      "explicacion": "Dios lo dice en Hageo 2:9, y añade: «daré paz en este lugar».",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué enseñó Jesús que se parece al mensaje de Hageo?",
+      "opciones": ["Amar a los enemigos", "Buscar primero el reino de Dios", "No jurar en vano"],
+      "correcta": 1,
+      "explicacion": "Jesús dijo: «buscad primeramente el reino de Dios» (Mateo 6:33).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Hag.1", "Hag.2"], "minutos": 7 },
+
+  "temas": ["obediencia", "esperanza", "reino-de-dios", "providencia"],
+  "cadenas": ["el-templo"]
+}

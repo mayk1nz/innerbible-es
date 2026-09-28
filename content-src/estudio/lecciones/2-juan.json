@@ -1,0 +1,130 @@
+{
+  "id": "2-juan",
+  "orden": 87,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "2 Juan: verdad y amor juntos",
+  "pasajes": ["2John.1.1-2John.1.13"],
+  "libros": ["2John"],
+
+  "enUnMinuto": [
+    "El anciano escribe a una «señora elegida» y a sus hijos, que andan en la verdad.",
+    "Les pide amarse unos a otros y no abrir la puerta a quienes niegan a Jesús.",
+    "Dios revela que la verdad y el amor van siempre juntos."
+  ],
+
+  "versiculo": {
+    "texto": "Y este es amor, que andemos según sus mandamientos. Este es el mandamiento: Que andéis en él, como vosotros habéis oído desde el principio.",
+    "referencia": "2 Juan 1:6",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 85–95 d.C.",
+    "desde": 85,
+    "hasta": 95,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 85–95 d.C.",
+    "desde": 85,
+    "hasta": 95,
+    "certeza": "aprox",
+    "nota": "Hacia el final del siglo I, cerca de 1 Juan. La carta no trae fecha."
+  },
+
+  "autor": {
+    "texto": "«El anciano» (2 Juan 1:1)",
+    "nota": "No da su nombre. La tradición lo identifica con el apóstol Juan."
+  },
+
+  "lugar": { "nombre": "Una iglesia de Asia Menor", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "juan-apostol", "nombre": "El anciano (Juan)", "linea": "Autor de la carta; la tradición lo identifica con el apóstol Juan." },
+    { "id": "senora-elegida", "nombre": "La señora elegida", "linea": "Destinataria de la carta: quizá una iglesia, quizá una hermana." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Hijo del Padre, que vino de verdad en carne." }
+  ],
+
+  "eventos": [
+    { "texto": "El anciano se alegra por los que andan en verdad", "ref": "2 Juan 1:1-4" },
+    { "texto": "Recuerda el mandamiento de amarnos", "ref": "2 Juan 1:5-6" },
+    { "texto": "Advierte sobre los engañadores", "ref": "2 Juan 1:7-11" },
+    { "texto": "Espera visitarlos y hablar cara a cara", "ref": "2 Juan 1:12-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Alegría por los hijos",
+      "texto": "El anciano escribe a «la señora elegida» y a sus hijos. Quizá es una iglesia, o una hermana en la fe. Se alegra mucho porque algunos de sus hijos andan en la verdad. Les desea gracia, misericordia y paz, en verdad y en amor."
+    },
+    {
+      "subtitulo": "El mandamiento de siempre",
+      "texto": "No les da un mandamiento nuevo, sino el de siempre: que nos amemos unos a otros. Y explica qué es amar: vivir según los mandamientos de Dios. El amor verdadero no se separa de la obediencia ni de la verdad."
+    },
+    {
+      "subtitulo": "Cuidar la puerta",
+      "texto": "Hay engañadores que niegan que Jesucristo vino en carne. El anciano pide no recibirlos en casa ni ayudarlos a difundir su error. Quien sigue la enseñanza de Cristo tiene al Padre y al Hijo. Al final dice que prefiere hablar cara a cara, para que su gozo sea completo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "El anciano insiste en algo sencillo y firme: Jesucristo vino en carne. Dios se hizo hombre de verdad. Jesús mismo unió el amor y la obediencia cuando dijo: «Si me amáis, guardad mis mandamientos».",
+    "refs": ["2 Juan 1:7", "Juan 14:15"]
+  },
+
+  "mundo": "Los cristianos viajan mucho por los caminos romanos. Los maestros que van de iglesia en iglesia duermen y comen en casas de familias creyentes.",
+
+  "antes": "Una carta atribuida a Juan enseñó que Dios es amor y que nos amó primero.",
+  "despues": "El anciano escribe a su amigo Gayo y alaba cómo recibe a los hermanos.",
+
+  "conexiones": [
+    { "ref": "Juan 14:15", "motivo": "Jesús une el amor y la obediencia." },
+    { "ref": "1 Juan 5:3", "motivo": "Amar a Dios es guardar sus mandamientos, que no son pesados." },
+    { "ref": "1 Juan 4:1-3", "motivo": "Probar si un espíritu confiesa que Jesucristo vino en carne." }
+  ],
+
+  "glosario": ["mandamiento", "gracia", "misericordia"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, llama a alguien que te enseñó la fe y cuéntale que sigues caminando con Jesús.",
+    "pregunta": "¿Dónde te cuesta más unir la verdad y el amor?"
+  },
+
+  "meditar": "Señor Jesús, tú viniste de verdad a nuestra vida. Enséñame a amar sin apartarme de la verdad, y a decir la verdad con amor. Amén.",
+
+  "ninos": {
+    "pregunta": "El anciano prefería hablar cara a cara. ¿Con quién te gusta hablar de Dios?",
+    "actividad": "Escribe una carta corta a un abuelo o una abuela y pídeles que te cuenten su fe."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se presenta el autor de 2 Juan?",
+      "opciones": ["Como el anciano", "Como el profeta", "Como el rey"],
+      "correcta": 0,
+      "explicacion": "La carta empieza: «El anciano a la señora elegida» (2 Juan 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué mandamiento recuerda el anciano?",
+      "opciones": ["Que ayunemos cada semana", "Que nos amemos unos a otros", "Que vayamos al templo"],
+      "correcta": 1,
+      "explicacion": "No es nuevo: lo tenían «desde el principio» (2 Juan 1:5).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús sobre el amor y sus mandamientos?",
+      "opciones": ["Que no importan", "Que son solo para sacerdotes", "Si me aman, los guardarán"],
+      "correcta": 2,
+      "explicacion": "En Juan 14:15, Jesús une el amor y la obediencia, igual que 2 Juan 1:6.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2John.1"], "minutos": 2 },
+
+  "temas": ["amor-de-dios", "verdad", "obediencia", "hospitalidad"],
+  "cadenas": ["dios-es-amor"]
+}

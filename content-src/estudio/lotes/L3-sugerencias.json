@@ -1,0 +1,20 @@
+{
+  "glosario": [
+    { "id": "vanidad", "termino": "Vanidad (en Eclesiastés)", "definicion": "Palabra hebrea que significa soplo o neblina: algo que pasa pronto y no dura." },
+    { "id": "era", "termino": "Era", "definicion": "Lugar plano y duro donde se separaba el trigo de la paja. David compró una para el altar." },
+    { "id": "sulamita", "termino": "Sulamita", "definicion": "Nombre que recibe la esposa en Cantares 6:13." }
+  ],
+  "personajes": [
+    { "id": "la-sulamita", "nombre": "La sulamita", "rv1909": "Sulamita", "linea": "La esposa de Cantares; ama a su esposo con un amor fiel.", "lecciones": ["cantares"] },
+    { "id": "el-amado", "nombre": "El amado", "linea": "El esposo de Cantares; busca a su esposa y la llama hermosa.", "lecciones": ["cantares"] },
+    { "id": "el-predicador", "nombre": "El Predicador", "linea": "Voz de Eclesiastés; la tradición lo identifica con Salomón.", "lecciones": ["eclesiastes"] },
+    { "id": "mefiboset", "nombre": "Mefiboset", "rv1909": "Mephi-boseth", "linea": "Hijo cojo de Jonatán; David lo sienta a su mesa.", "lecciones": ["2-samuel"] },
+    { "id": "reina-de-saba", "nombre": "La reina de Sabá", "rv1909": "reina de Seba", "linea": "Viene de lejos a probar la sabiduría de Salomón.", "lecciones": ["salomon"] },
+    { "id": "agur", "nombre": "Agur", "linea": "Sabio que reconoce con humildad que no lo entiende todo.", "lecciones": ["proverbios"] },
+    { "id": "lemuel", "nombre": "El rey Lemuel", "linea": "Rey que guarda los consejos de su madre en Proverbios 31.", "lecciones": ["proverbios"] }
+  ],
+  "notas": [
+    "Cantares y Eclesiastés no tienen personajes propios en personajes.json. Para cumplir el mínimo de 3 usé salomon, david, betsabe (cantares) y salomon, david, roboam (eclesiastes). Con la-sulamita, el-amado y el-predicador se podrían cambiar por personajes más naturales.",
+    "Avisos del validador que se resuelven añadiendo la lección a 'lecciones' en personajes.json: david → proverbios, cantares, eclesiastes; betsabe → cantares; salomon → eclesiastes; roboam → eclesiastes."
+  ]
+}

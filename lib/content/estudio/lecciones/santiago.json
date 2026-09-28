@@ -1,0 +1,150 @@
+{
+  "id": "santiago",
+  "orden": 64,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Santiago: una fe que se ve",
+  "pasajes": ["Jas.1.1-Jas.5.20"],
+  "libros": ["Jas"],
+
+  "enUnMinuto": [
+    "Santiago escribe a creyentes dispersos una carta práctica sobre las pruebas, la lengua, los pobres y la oración.",
+    "Su idea central: la fe verdadera no se queda en palabras, se ve en lo que hacemos.",
+    "Dios se revela como el Padre generoso que da sabiduría y gracia a los humildes."
+  ],
+
+  "versiculo": {
+    "texto": "Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "referencia": "Santiago 1:22",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 45–49 d.C.",
+    "desde": 45,
+    "hasta": 49,
+    "certeza": "debatida",
+    "nota": "Muchos la ven como una de las primeras cartas. Otros la sitúan hacia el año 60 d.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 45–49 d.C.",
+    "desde": 45,
+    "hasta": 49,
+    "certeza": "debatida",
+    "nota": "Muchos la ven como una de las primeras cartas. Otros la sitúan hacia el año 60 d.C."
+  },
+
+  "autor": {
+    "texto": "Santiago, el hermano del Señor (Gálatas 1:19), líder en Jerusalén.",
+    "nota": "La carta solo dice «Jacobo, siervo de Dios». Casi todos lo identifican con el hermano del Señor; algunos, también con el apóstol hijo de Alfeo."
+  },
+
+  "lugar": { "nombre": "Desde Jerusalén, a los dispersos", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "santiago-hermano-del-senor", "nombre": "Santiago", "linea": "Líder de la iglesia de Jerusalén; escribe esta carta práctica." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Creyó a Dios, y su fe se vio al obedecer." },
+    { "id": "rahab", "nombre": "Rahab", "linea": "Mostró su fe al proteger a los mensajeros de Israel." },
+    { "id": "job", "nombre": "Job", "linea": "Ejemplo de paciencia: Dios fue con él compasivo y bueno." },
+    { "id": "elias", "nombre": "Elías", "linea": "Hombre como nosotros, cuya oración cerró y abrió el cielo." }
+  ],
+
+  "eventos": [
+    { "texto": "Santiago saluda a los creyentes dispersos", "ref": "Santiago 1:1" },
+    { "texto": "Las pruebas hacen crecer la paciencia", "ref": "Santiago 1:2-4" },
+    { "texto": "Oír la palabra y ponerla en práctica", "ref": "Santiago 1:22-25" },
+    { "texto": "No hacer diferencias entre ricos y pobres", "ref": "Santiago 2:1-9" },
+    { "texto": "La fe sin obras está muerta", "ref": "Santiago 2:14-26" },
+    { "texto": "La oración del justo puede mucho", "ref": "Santiago 5:13-18" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Gozo en la prueba",
+      "texto": "Santiago escribe a creyentes que viven lejos de su tierra. Empieza con algo que sorprende: alégrense cuando lleguen las pruebas. La prueba hace crecer la paciencia. Si a alguien le falta sabiduría, que la pida a Dios. Él da a todos con generosidad y sin reproche. Todo lo bueno viene del Padre de las luces."
+    },
+    {
+      "subtitulo": "Oír y hacer",
+      "texto": "Santiago pide ser rápido para escuchar y lento para hablar y para enojarse. Quien oye la palabra y no la vive es como alguien que se mira al espejo. Se va y enseguida olvida cómo era. La fe limpia ante Dios es cuidar a los huérfanos y a las viudas en su dolor."
+    },
+    {
+      "subtitulo": "Sin preferidos",
+      "texto": "En la reunión entran dos hombres: uno rico, con anillo de oro, y otro pobre, con ropa gastada. Al rico le dan el mejor lugar; al pobre lo dejan de pie. Santiago dice que eso no agrada a Dios, que eligió a los pobres ricos en fe. La ley real es: «Amarás a tu prójimo como a ti mismo»."
+    },
+    {
+      "subtitulo": "Una fe que se ve",
+      "texto": "¿De qué sirve desearle paz a un hermano que no tiene comida ni ropa? Así es la fe sin obras: está muerta. Abraham creyó a Dios, y su fe se vio cuando obedeció. Rahab también mostró su fe al proteger a los mensajeros. Para Santiago, la fe que salva es una fe viva, que da fruto."
+    },
+    {
+      "subtitulo": "Cuidar la lengua",
+      "texto": "La lengua es pequeña, como el timón de un barco, pero mueve cosas grandes. Una chispa puede encender un bosque entero. Con la misma boca bendecimos a Dios y maldecimos a las personas. La sabiduría de Dios es pura, pacífica y llena de misericordia. Santiago invita a acercarse a Dios, que da gracia a los humildes."
+    },
+    {
+      "subtitulo": "Paciencia y oración",
+      "texto": "Santiago advierte a los ricos que no pagan a sus obreros. A todos les pide paciencia, como el labrador que espera la lluvia. Recuerda la paciencia de Job. Si alguien sufre, que ore. Si está enfermo, que llame a los ancianos para que oren por él. La oración del justo puede mucho, como la de Elías."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Santiago casi no cuenta la vida de Jesús. Pero sus palabras suenan al Sermón del Monte: los pobres, oír y hacer, que el sí sea sí. Llama a Jesús «nuestro Señor Jesucristo glorioso». Y anima a esperar con paciencia su venida.",
+    "refs": ["Mateo 7:24", "Mateo 5:37"]
+  },
+
+  "mundo": "Claudio es emperador de Roma. Hacia el año 46 d.C., una gran hambre golpea Judea. Los creyentes pobres de Jerusalén reciben ayuda de otras iglesias.",
+
+  "antes": "La buena noticia salió de Jerusalén: llegó a Samaria, a Saulo, a Cornelio y a Antioquía.",
+  "despues": "La iglesia de Antioquía envía a Bernabé y a Saulo a su primer viaje.",
+
+  "conexiones": [
+    { "ref": "Lucas 6:46", "motivo": "Jesús habla del que oye y hace: construye sobre la roca." },
+    { "ref": "Romanos 2:13", "motivo": "Pablo también enseña que no basta oír la ley: hay que vivirla." },
+    { "ref": "Génesis 15:6", "motivo": "Abraham creyó a Dios, y Dios se lo contó por justicia." },
+    { "ref": "1 Reyes 18:42", "motivo": "Elías ora en el Carmelo, y vuelve la lluvia." }
+  ],
+
+  "glosario": ["fe", "sabiduria", "anciano", "misericordia"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de responder con enojo, respira, escucha primero y habla después.",
+    "pregunta": "¿Qué palabra de Dios ya conoces, pero todavía no pones en práctica?"
+  },
+
+  "meditar": "Padre de las luces, gracias por todo lo bueno que me das. Que mi fe no se quede en palabras. Enséñame a amar con obras. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Por qué crees que Santiago compara la lengua con un fuego pequeño?",
+    "actividad": "Mírate en un espejo y di en voz alta algo bueno que harás hoy por alguien."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "Según Santiago, ¿cómo está la fe si no tiene obras?",
+      "opciones": ["Dormida", "Escondida", "Muerta"],
+      "correcta": 2,
+      "explicacion": "Santiago 2:17 dice que la fe sin obras «es muerta en sí misma».",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿A quién se parece el que oye la palabra y no la hace?",
+      "opciones": ["A quien se mira al espejo y olvida", "A un árbol sin hojas", "A una casa sin techo"],
+      "correcta": 0,
+      "explicacion": "Se mira, se va y olvida cómo era (Santiago 1:23-24).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta pone Santiago como ejemplo de oración poderosa?",
+      "opciones": ["Jonás", "Elías", "Jeremías"],
+      "correcta": 1,
+      "explicacion": "Elías oró y no llovió; oró otra vez y llovió (Santiago 5:17-18).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Jas.1", "Jas.2", "Jas.3", "Jas.4", "Jas.5"], "minutos": 17 },
+
+  "notaEcumenica": "«Hermano del Señor» se entiende de distintas maneras. Muchos evangélicos ven a un hijo de María y José; católicos y ortodoxos, a un pariente cercano de Jesús. Todos lo honran como líder de la iglesia de Jerusalén.",
+
+  "temas": ["fe", "sabiduria", "oracion", "obediencia", "misericordia"],
+  "cadenas": ["la-fe-viva"]
+}

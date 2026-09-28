@@ -1,0 +1,135 @@
+{
+  "id": "amos",
+  "orden": 27,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Amós: justicia para el pobre",
+  "pasajes": ["Amos.1.1-Amos.9.15"],
+  "libros": ["Amos"],
+
+  "enUnMinuto": [
+    "Amós, un pastor de Judá, va al reino del norte en un tiempo de riqueza y abusos.",
+    "Denuncia a quienes venden al pobre y pide que la justicia corra como un río.",
+    "Dios revela que ama la justicia y promete levantar de nuevo la casa de David."
+  ],
+
+  "versiculo": {
+    "texto": "Antes corra el juicio como las aguas, y la justicia como impetuoso arroyo.",
+    "referencia": "Amós 5:24",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 760 a.C.", "desde": -765, "hasta": -755, "certeza": "aprox" },
+  "fechaEscrito": {
+    "texto": "c. 760 a.C.",
+    "desde": -765,
+    "hasta": -755,
+    "certeza": "aprox",
+    "nota": "Amós 1:1 lo sitúa en tiempos de Uzías y de Jeroboam II, «dos años antes del terremoto»."
+  },
+  "autor": { "texto": "Amós, pastor de Tecoa (Amós 1:1).", "nota": "Cuidaba ganado y recogía higos silvestres (Amós 7:14)." },
+
+  "lugar": { "nombre": "Betel y Samaria, en el norte", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "amos", "nombre": "Amós", "linea": "Pastor de Tecoa, en Judá; Dios lo envía al norte." },
+    { "id": "isaac", "nombre": "Isaac", "linea": "Patriarca; Amós llama al pueblo del norte «casa de Isaac»." },
+    { "id": "david", "nombre": "David", "linea": "Dios promete levantar de nuevo su casa caída." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios juzga a los pueblos vecinos y a Israel", "ref": "Amós 1:3-2:16" },
+    { "texto": "Amós denuncia a los que oprimen al pobre", "ref": "Amós 4:1-5" },
+    { "texto": "Dios llama a buscarlo para vivir", "ref": "Amós 5:4-15" },
+    { "texto": "Amós ve una plomada de albañil", "ref": "Amós 7:7-9" },
+    { "texto": "El sacerdote Amasías echa a Amós de Betel", "ref": "Amós 7:10-17" },
+    { "texto": "Dios promete levantar la casa de David", "ref": "Amós 9:11-15" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un pastor enviado al norte",
+      "texto": "Amós es pastor en Tecoa, un pueblo de Judá, el reino del sur. No es profeta de oficio. Pero Dios lo saca de detrás del ganado y lo envía a Israel, el reino del norte. Allí reina Jeroboam II. Hay paz, comercio y casas de marfil. Pero la riqueza está en pocas manos."
+    },
+    {
+      "subtitulo": "Por tres pecados, y cuatro",
+      "texto": "Amós empieza por los pueblos vecinos: Damasco, Gaza, Tiro, Edom, Amón y Moab. Dios ha visto su crueldad. Luego nombra a Judá. Y al final llega a Israel. Allí venden al justo por dinero y al pobre «por un par de zapatos»."
+    },
+    {
+      "subtitulo": "Cantos sin justicia",
+      "texto": "En Betel hay fiestas, cantos y ofrendas. Pero en los tribunales se compra la justicia, y el pobre pierde su causa. Algunos comerciantes achican la medida y suben el precio. Dios no quiere cantos mientras se oprime al débil. Pide: «corra el juicio como las aguas». Y ruega: «Buscadme, y viviréis»."
+    },
+    {
+      "subtitulo": "Visiones de un profeta",
+      "texto": "Dios le muestra a Amós langostas, fuego, una plomada de albañil y un cesto de fruta madura. Dos veces Amós ruega por su pueblo, y Dios detiene el castigo. Pero la plomada muestra que el pueblo ya no está recto. Muchos esperan el día del Señor como una fiesta; será oscuro. Vendrá hambre de oír la palabra de Dios."
+    },
+    {
+      "subtitulo": "Fuera de Betel",
+      "texto": "Amasías, sacerdote de Betel, acusa a Amós ante el rey. Le dice que se vuelva a Judá y no profetice más allí. Amós responde con sencillez: «No soy profeta, ni soy hijo de profeta». Solo obedece a Dios, que lo llamó mientras cuidaba el ganado."
+    },
+    {
+      "subtitulo": "La casa de David, restaurada",
+      "texto": "El libro no termina en ruinas. Dios promete levantar «el tabernáculo de David, caído». Su pueblo volverá a plantar viñas y a comer de sus huertos. Dios lo plantará en su tierra, y nunca más será arrancado."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En Hechos 15, Santiago cita a Amós. Dios levanta otra vez la casa caída de David, para que todas las naciones busquen al Señor. El ángel anuncia a María que Jesús recibirá «el trono de David su padre». En Jesús se cumple la promesa del final de Amós.",
+    "refs": ["Hechos 15:16-17", "Lucas 1:32"]
+  },
+
+  "mundo": "Pocos años antes, en 776 a.C., Grecia celebra los primeros Juegos Olímpicos de los que hay registro. Y la tradición romana sitúa la fundación de Roma en 753 a.C.",
+
+  "antes": "Jonás predicó en Nínive, y Dios perdonó a la gran ciudad que se arrepintió.",
+  "despues": "Oseas, otro profeta del norte, muestra con su propia vida el amor fiel de Dios.",
+
+  "conexiones": [
+    { "ref": "Hechos 15:16", "motivo": "Santiago ve cumplida la promesa: la casa de David se abre a las naciones." },
+    { "ref": "Miqueas 6:8", "motivo": "Otro profeta resume lo que Dios pide: justicia, misericordia y humildad." },
+    { "ref": "Juan 15:15", "motivo": "Jesús nos llama amigos y nos cuenta lo que oyó del Padre." },
+    { "ref": "Mateo 7:8", "motivo": "«Buscadme, y viviréis»: Jesús promete que el que busca, halla." }
+  ],
+
+  "glosario": ["profeta", "justicia", "sacerdote", "dia-del-senor"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, haz algo concreto por alguien pobre de tu barrio: una compra, una visita o un pago justo.",
+    "pregunta": "¿Se nota tu fe en cómo tratas a los demás?"
+  },
+
+  "meditar": "Señor, que tu justicia corra en mi vida como un río. Dame ojos para ver al pobre y manos para ayudarlo. Amén.",
+
+  "ninos": {
+    "pregunta": "Amós era pastor y Dios lo llamó. ¿Crees que Dios puede usar también a un niño?",
+    "actividad": "Vierte despacio un vaso de agua en una planta. Piensa: así quiere Dios que corra la justicia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué oficio tenía Amós antes de profetizar?",
+      "opciones": ["Era sacerdote en Betel", "Era pastor y recogía higos", "Era soldado del rey"],
+      "correcta": 1,
+      "explicacion": "Amós dijo: «soy boyero, y cogedor de cabrahigos» (Amós 7:14).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿A qué reino envió Dios a Amós a profetizar?",
+      "opciones": ["A Israel, el reino del norte", "A Judá, el reino del sur", "A Asiria, junto a Nínive"],
+      "correcta": 0,
+      "explicacion": "Amós era de Tecoa, en Judá, pero Dios lo envió a Israel (Amós 7:15).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién cita a Amós en la reunión de los apóstoles en Jerusalén?",
+      "opciones": ["Pablo", "Pedro", "Santiago"],
+      "correcta": 2,
+      "explicacion": "Santiago cita a Amós: Dios levanta la casa de David para todas las naciones (Hechos 15:16-17).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Amos.2", "Amos.5", "Amos.7", "Amos.9"], "minutos": 10 },
+
+  "temas": ["justicia", "los-pobres", "arrepentimiento", "esperanza", "reino-de-dios"],
+  "cadenas": ["el-rey-de-david"]
+}

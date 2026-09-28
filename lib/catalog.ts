@@ -2,6 +2,7 @@ import type { IconName } from '@/components/icons'
 import { PLAN_TITLES, type PlanId } from './content/plans/titles'
 import { ESTUDIO_ERAS, ESTUDIO_LECCIONES } from './content/estudio/maestra'
 import { GUIA_SECCIONES } from './content/guias'
+import { MAPAS_SECCIONES } from './content/mapas'
 import { PLAN_365, type DiaPlan365 } from './content/plan365'
 import { COMIENZA_AQUI, GENESIS } from './content/sample'
 import { slugify } from './text'
@@ -55,6 +56,8 @@ export interface Lesson {
   lectura?: DiaPlan365
   /** Gift guides (Mandamientos, Milagros, Mujeres, Biografías): the guide whose lesson this is. */
   guia?: string
+  /** Mapas Mentales: the lesson is a mind map (lib/content/mapas/<id>.json). */
+  mapa?: boolean
 }
 
 export interface Section {
@@ -321,12 +324,16 @@ export const PRODUCTS: Product[] = [
   {
     id: 'mapas-mentales',
     title: 'Mapas Mentales de la Biblia',
-    short: 'Cada libro en una sola imagen.',
-    description: 'Mapas visuales para entender y recordar cada libro de un vistazo.',
+    short: 'Cada libro de la Biblia en un mapa que se abre con un toque.',
+    description: 'Un mapa para cada uno de los 66 libros, y 6 mapas de toda la Biblia: la idea central en el medio, las partes del libro alrededor y, en cada una, lo que pasó, quiénes y dónde. Con modo para niños y el texto en el tamaño que prefieras.',
     kind: 'guia',
     offer: 'front',
     cover: { ...DAWN, lines: ['Mentales'], highlight: 'Mapas', icon: 'map' },
-    sections: pendingGuide(),
+    sections: MAPAS_SECCIONES.map((sec) => ({
+      id: sec.id,
+      title: sec.titulo,
+      lessons: sec.mapas.map((m) => ({ id: m.id, title: m.titulo, rotulo: m.subtitulo, format: 'texto' as const, mapa: true })),
+    })),
   },
   {
     id: 'biografias',

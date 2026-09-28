@@ -1,0 +1,144 @@
+{
+  "id": "jeremias",
+  "orden": 36,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Jeremías: lágrimas y un pacto nuevo",
+  "pasajes": ["Jer.1.1-Jer.52.34"],
+  "libros": ["Jer"],
+
+  "enUnMinuto": [
+    "Jeremías avisa a Judá durante unos cuarenta años que vuelva a Dios antes de que llegue Babilonia.",
+    "Casi nadie lo escucha: sufre, llora y ve caer Jerusalén, pero nunca pierde la esperanza.",
+    "Dios revela que no abandona a su pueblo y que promete un pacto nuevo, escrito en el corazón."
+  ],
+
+  "versiculo": {
+    "texto": "He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Jacob y con la casa de Judá:",
+    "referencia": "Jeremías 31:31",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 627–580 a.C.",
+    "desde": -627,
+    "hasta": -580,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 627–580 a.C.",
+    "desde": -627,
+    "hasta": -580,
+    "certeza": "aprox"
+  },
+
+  "autor": { "texto": "Jeremías, hijo de un sacerdote de Anatot, con su secretario Baruc (Jeremías 1:1)." },
+
+  "lugar": { "nombre": "Jerusalén y Judá, ante Babilonia", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "jeremias", "nombre": "Jeremías", "linea": "Profeta joven y sensible; llora por Judá y anuncia un pacto nuevo." },
+    { "id": "baruc", "nombre": "Baruc", "linea": "Secretario fiel; escribe dos veces el rollo que dicta Jeremías." },
+    { "id": "josias", "nombre": "Josías", "linea": "Rey bueno de Judá; en su tiempo Dios llama a Jeremías." },
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Rey de Babilonia; toma Jerusalén, pero ordena cuidar a Jeremías." },
+    { "id": "raquel", "nombre": "Raquel", "linea": "Jeremías la imagina llorando por sus hijos cautivos (Jeremías 31:15)." },
+    { "id": "david", "nombre": "David", "linea": "Dios promete un renuevo justo de su familia (Jeremías 33:15)." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios llama a Jeremías: «No digas, soy niño»", "ref": "Jeremías 1:4-10" },
+    { "texto": "Jeremías aprende en la casa del alfarero", "ref": "Jeremías 18:1-6" },
+    { "texto": "Carta a los cautivos: pensamientos de paz", "ref": "Jeremías 29:1-14" },
+    { "texto": "Dios promete un pacto nuevo", "ref": "Jeremías 31:31-34" },
+    { "texto": "El rey quema el rollo; Baruc lo escribe otra vez", "ref": "Jeremías 36:20-32" },
+    { "texto": "Ebed-melec saca a Jeremías del pozo de barro", "ref": "Jeremías 38:6-13" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "No digas: soy niño",
+      "texto": "Dios llama a Jeremías en tiempos del rey Josías. Es joven, hijo de un sacerdote de Anatot. Tiene miedo y dice: «soy niño». Dios le responde que no tema, porque estará con él. Toca su boca y pone allí sus palabras. Jeremías hablará a Judá durante unos cuarenta años."
+    },
+    {
+      "subtitulo": "Cisternas rotas",
+      "texto": "Jeremías ve que el pueblo dejó a Dios, la fuente de agua viva, por cisternas rotas. Muchos creen que el templo los protegerá, hagan lo que hagan. Jeremías les pide volver de corazón. En la casa de un alfarero aprende algo: Dios puede rehacer el barro que se echó a perder."
+    },
+    {
+      "subtitulo": "Un profeta que llora",
+      "texto": "Casi nadie lo escucha. Lo golpean, lo ponen en el cepo y se burlan de él. Jeremías llora por su pueblo y a veces quiere callar. Pero la palabra de Dios arde en su corazón como fuego. El rey Joacim quema su rollo en el brasero, y Jeremías se lo dicta otra vez a Baruc."
+    },
+    {
+      "subtitulo": "Setenta años",
+      "texto": "Jeremías avisa que Babilonia, el nuevo imperio, dominará a Judá. Escribe a los primeros cautivos en el exilio: construyan casas, planten huertos y oren por la ciudad donde viven. Después de setenta años, Dios los traerá de vuelta. Sus planes para ellos son «pensamientos de paz, y no de mal»."
+    },
+    {
+      "subtitulo": "Un pacto nuevo",
+      "texto": "En medio del dolor, Dios promete algo nuevo. Hará un pacto nuevo con su pueblo. Escribirá su ley en el corazón, perdonará su maldad y no se acordará más de su pecado. Como señal de esperanza, Jeremías compra un campo en Anatot, aunque el ejército de Babilonia ya rodea Jerusalén."
+    },
+    {
+      "subtitulo": "Cae Jerusalén",
+      "texto": "El rey Sedequías no escucha. Echan a Jeremías en un pozo lleno de barro, y un siervo etíope, Ebed-melec, lo rescata. En el año 586 a.C., Babilonia rompe los muros de Jerusalén y quema el templo. Pero Dios ya había dicho que no abandonaría a su pueblo para siempre."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En la última cena, Jesús toma la copa y dice que es el nuevo pacto en su sangre. Así cumple la promesa de Jeremías 31. Hebreos cita esa promesa: por Jesús, Dios escribe su ley en el corazón y perdona el pecado.",
+    "refs": ["Lucas 22:20", "Hebreos 8:10"]
+  },
+
+  "mundo": "En el 605 a.C., Babilonia vence a Egipto en Carquemis, junto al río Éufrates. Jeremías 46:2 recuerda esa batalla. Desde entonces, Nabucodonosor es el rey más poderoso de su tiempo.",
+
+  "antes": "Sofonías anunció el día del Señor y la alegría de Dios por su pueblo.",
+  "despues": "Habacuc pregunta a Dios por qué permite el mal, y aprende a vivir por la fe.",
+
+  "conexiones": [
+    { "ref": "Hebreos 8:8-12", "motivo": "Hebreos cita el pacto nuevo y lo ve cumplido en Jesús." },
+    { "ref": "Mateo 21:13", "motivo": "En el templo, Jesús repite la queja de Jeremías: cueva de ladrones." },
+    { "ref": "Juan 4:10", "motivo": "Jesús ofrece el agua viva que el pueblo había dejado." },
+    { "ref": "Mateo 2:18", "motivo": "Mateo recuerda el llanto de Raquel cuando Jesús nace en peligro." }
+  ],
+
+  "glosario": ["pacto", "profeta", "sacerdote", "babilonia", "exilio"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ora cada día por la ciudad donde vives, como Jeremías pidió a los cautivos.",
+    "pregunta": "¿Qué parte de tu vida necesita que Dios la rehaga, como el alfarero?"
+  },
+
+  "meditar": "Señor, escribe tu palabra en mi corazón. Cuando todo parezca perdido, recuérdame que tus planes para mí son de paz. Gracias por el nuevo pacto en Jesús. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios le dijo a Jeremías: «No digas, soy niño». ¿Qué cosa buena puedes hacer tú, aunque seas pequeño?",
+    "actividad": "Con plastilina o masa, haz una vasija. Si se rompe, vuelve a hacerla, como el alfarero."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué le respondió Jeremías a Dios cuando lo llamó?",
+      "opciones": ["Que era un niño", "Que era muy viejo", "Que no quería ir"],
+      "correcta": 0,
+      "explicacion": "Jeremías dijo: «no sé hablar, porque soy niño», y Dios le dijo que no temiera (Jeremías 1:6-8).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Quién escribía las palabras que Jeremías le dictaba?",
+      "opciones": ["Ebed-melec", "Baruc", "Sedequías"],
+      "correcta": 1,
+      "explicacion": "Baruc escribió el rollo, y lo volvió a escribir después de que el rey lo quemó (Jeremías 36:32).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Cuándo dijo Jesús que la copa era el nuevo pacto en su sangre?",
+      "opciones": ["En el Sermón del monte", "En la boda de Caná", "En la última cena"],
+      "correcta": 2,
+      "explicacion": "En la última cena, Jesús cumplió la promesa de Jeremías 31 (Lucas 22:20).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Jer.1", "Jer.18", "Jer.29", "Jer.31"], "minutos": 20 },
+
+  "temas": ["pacto", "esperanza", "sufrimiento", "perdon", "oracion"],
+  "cadenas": ["el-pacto-nuevo"]
+}

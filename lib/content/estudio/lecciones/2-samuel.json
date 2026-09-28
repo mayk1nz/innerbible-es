@@ -1,0 +1,155 @@
+{
+  "id": "2-samuel",
+  "orden": 17,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "David, rey según el corazón de Dios",
+  "pasajes": ["2Sam.1.1-2Sam.24.25", "1Chr.10.1-1Chr.29.30"],
+  "libros": ["2Sam"],
+
+  "enUnMinuto": [
+    "David llega a ser rey de todo Israel, lleva el arca a Jerusalén y recibe una gran promesa.",
+    "Después peca gravemente con Betsabé, se arrepiente de corazón, pero su familia sufre las consecuencias.",
+    "Dios revela que perdona al que vuelve a él y que cumple su promesa de un rey eterno."
+  ],
+
+  "versiculo": {
+    "texto": "Y será afirmada tu casa y tu reino para siempre delante de tu rostro; y tu trono será estable eternalmente.",
+    "referencia": "2 Samuel 7:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1010–970 a.C.",
+    "desde": -1010,
+    "hasta": -970,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Fecha incierta; terminado después de c. 930 a.C.",
+    "desde": -930,
+    "hasta": -560,
+    "certeza": "incierta",
+    "nota": "1 y 2 Samuel eran un solo libro. Se terminó cuando el reino ya estaba dividido (1 Samuel 27:6)."
+  },
+
+  "autor": {
+    "texto": "Anónimo; la tradición judía lo atribuye a Samuel, Natán y Gad.",
+    "nota": "1 Crónicas 29:29 menciona escritos de estos tres profetas sobre David."
+  },
+
+  "lugar": { "nombre": "Hebrón y Jerusalén", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "david", "nombre": "David", "linea": "Rey de todo Israel; peca, se arrepiente y recibe la promesa." },
+    { "id": "jonatan", "nombre": "Jonatán", "linea": "Muere con Saúl; David cuida de su hijo por amor a él." },
+    { "id": "natan", "nombre": "Natán", "linea": "Profeta que trae a David la promesa y también la corrección." },
+    { "id": "betsabe", "nombre": "Betsabé", "linea": "Esposa de Urías; después, esposa de David y madre de Salomón." },
+    { "id": "absalon", "nombre": "Absalón", "linea": "Hijo de David que se rebela contra su padre y muere." },
+    { "id": "salomon", "nombre": "Salomón", "linea": "Hijo de David y Betsabé; Dios lo ama desde que nace." }
+  ],
+
+  "eventos": [
+    { "texto": "Todas las tribus ungen a David como rey", "ref": "2 Samuel 5:1-5" },
+    { "texto": "David lleva el arca a Jerusalén con alegría", "ref": "2 Samuel 6:12-15" },
+    { "texto": "Dios promete a David un reino para siempre", "ref": "2 Samuel 7:8-16" },
+    { "texto": "Natán confronta a David y David se arrepiente", "ref": "2 Samuel 12:1-13" },
+    { "texto": "Absalón se rebela y muere; David llora", "ref": "2 Samuel 18:9-33" },
+    { "texto": "David compra una era para ofrecer sacrificios", "ref": "2 Samuel 24:18-25" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Rey de todo Israel",
+      "texto": "David llora a Saúl y a Jonatán con un canto. Los hombres de Judá lo ungen rey en Hebrón. Siete años y medio después, todas las tribus lo reconocen como rey. David conquista la fortaleza de Sión, «la ciudad de David». Desde entonces, Jerusalén es la capital."
+    },
+    {
+      "subtitulo": "El arca llega a Jerusalén",
+      "texto": "David quiere tener cerca el arca del pacto, señal de la presencia de Dios. La lleva a Jerusalén con música, gritos de alegría y trompetas. Él mismo salta con toda su fuerza delante de Dios. Para David, adorar no es un deber frío: es una fiesta del corazón."
+    },
+    {
+      "subtitulo": "Una casa para siempre",
+      "texto": "David quiere construir un templo para Dios. Por medio del profeta Natán, Dios responde: tu hijo lo construirá. Y añade una promesa: «tu trono será estable eternalmente». David, emocionado, pregunta: «¿quién soy yo?». Por amor a Jonatán, sienta a su mesa a Mefiboset, el hijo de su amigo."
+    },
+    {
+      "subtitulo": "El pecado del rey",
+      "texto": "Un año, David se queda en Jerusalén mientras su ejército pelea. Ve a Betsabé, la esposa de Urías, la hace traer al palacio y peca con ella. Ella espera un hijo. Para esconder su pecado, David manda poner a Urías donde la batalla es más dura, y Urías muere."
+    },
+    {
+      "subtitulo": "Tú eres aquel hombre",
+      "texto": "Dios envía a Natán. Natán le cuenta a David de un rico que roba la única oveja de un pobre. David se enoja, y Natán le dice: «Tú eres aquel hombre». David no se defiende: «Pequé contra Jehová». Dios lo perdona. El Salmo 51 guarda su oración de arrepentimiento: «Crea en mí, oh Dios, un corazón limpio»."
+    },
+    {
+      "subtitulo": "Un padre que llora",
+      "texto": "El pecado deja heridas: el niño muere, y la familia de David sufre. Después nace Salomón. Años más tarde, Absalón se rebela y David huye de Jerusalén llorando. En la batalla muere Absalón. David grita: «¡Hijo mío Absalom!». Al final del libro, David compra una era y ofrece allí sacrificios a Dios."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "1Chr", "texto": "Crónicas no cuenta el pecado con Betsabé ni la rebelión de Absalón. Presenta a David como el rey que prepara la adoración." },
+    { "libro": "1Chr", "texto": "Añade la lista de los valientes de David. También cuenta cómo organiza a los levitas y a los cantores." },
+    { "libro": "1Chr", "texto": "Explica que la era que compró David será el lugar del templo (1 Crónicas 22:1). David reúne los materiales para Salomón." },
+    { "libro": "1Chr", "texto": "Guarda la última oración de David: «todo es tuyo, y lo recibido de tu mano te damos»." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Dios promete a David un hijo cuyo trono durará para siempre. Salomón construye el templo, pero su reino termina. La promesa se cumple en Jesús. El ángel dice a María que Dios le dará «el trono de David su padre». Por eso Mateo empieza su Evangelio llamando a Jesús «hijo de David».",
+    "refs": ["Lucas 1:32-33", "Mateo 1:1"]
+  },
+
+  "mundo": "Egipto y Asiria están débiles en estos años, y un reino pequeño como Israel puede crecer. En la costa, los fenicios de Tiro usan un alfabeto sencillo, antepasado del nuestro.",
+
+  "antes": "Saúl murió en el monte Gilboa. David, perseguido durante años, nunca levantó la mano contra él.",
+  "despues": "David ora y canta. En sus salmos vemos su fe, sus miedos y su arrepentimiento.",
+
+  "conexiones": [
+    { "ref": "Salmos 51:1", "motivo": "La oración de David después de que Natán lo confronta." },
+    { "ref": "Hebreos 1:5", "motivo": "Dios promete ser padre del hijo de David; Hebreos lo aplica a Jesús." },
+    { "ref": "Lucas 1:32", "motivo": "El ángel anuncia que Jesús recibirá el trono de David." },
+    { "ref": "Hechos 2:30", "motivo": "Pedro explica que Dios juró a David levantar al Cristo." }
+  ],
+
+  "glosario": ["arca-del-pacto", "templo", "arrepentimiento", "hijo-de-david", "levita"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee despacio el Salmo 51 y hazlo tu propia oración.",
+    "pregunta": "¿Qué necesitas confesarle hoy a Dios, confiando en que él perdona?"
+  },
+
+  "meditar": "Señor, como David, a veces caigo. Crea en mí un corazón limpio. Gracias porque tu perdón y tu promesa no fallan. Amén.",
+
+  "ninos": {
+    "pregunta": "Natán ayudó a David a ver su error. ¿Quién te ayuda a ti a hacer lo correcto?",
+    "actividad": "Dibuja una corona y escribe dentro el nombre de Jesús, el Hijo de David."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué ciudad conquistó David para reinar desde allí sobre todo Israel?",
+      "opciones": ["Belén", "Jerusalén", "Hebrón"],
+      "correcta": 1,
+      "explicacion": "David tomó la fortaleza de Sión, que se llamó la ciudad de David (2 Samuel 5:7).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué le dijo Natán a David después de contarle la historia de la oveja?",
+      "opciones": ["Tú eres aquel hombre", "Ese rico era Saúl", "Dios no lo vio"],
+      "correcta": 0,
+      "explicacion": "Así Natán le mostró su pecado, y David confesó: «Pequé contra Jehová» (2 Samuel 12:7-13).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿De quién dijo el ángel que recibiría «el trono de David su padre»?",
+      "opciones": ["De Juan el Bautista", "De Salomón", "De Jesús"],
+      "correcta": 2,
+      "explicacion": "Se lo anunció a María en Lucas 1:32. La promesa a David se cumple en Jesús.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Sam.5", "2Sam.6", "2Sam.7", "2Sam.11", "2Sam.12", "1Chr.29"], "minutos": 25 },
+
+  "temas": ["pacto", "promesa", "arrepentimiento", "perdon", "reino-de-dios"],
+  "cadenas": ["el-rey-de-david", "el-templo"]
+}

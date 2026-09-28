@@ -1,0 +1,149 @@
+{
+  "id": "numeros",
+  "orden": 11,
+  "seccion": "exodo",
+  "formato": "completo",
+  "titulo": "Cuarenta años en el desierto",
+  "pasajes": ["Num.1.1-Num.36.13", "Ps.90.1-Ps.90.17"],
+  "libros": ["Num"],
+
+  "enUnMinuto": [
+    "Israel sale del Sinaí hacia Canaán, pero por miedo e incredulidad anda cuarenta años por el desierto.",
+    "Entre quejas y rebeldías, Dios sigue guiando, alimentando y perdonando a su pueblo.",
+    "Dios revela que es paciente y fiel: lo que promete, lo cumple, aunque pase una generación."
+  ],
+
+  "versiculo": {
+    "texto": "Jehová te bendiga, y te guarde: Haga resplandecer Jehová su rostro sobre ti, y haya de ti misericordia: Jehová alce a ti su rostro, y ponga en ti paz.",
+    "referencia": "Números 6:24-26",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1445–1406 a.C.",
+    "desde": -1445,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Depende de la fecha del éxodo. El Salmo 90 se presenta como oración de Moisés."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 1446–1406 a.C., según la tradición",
+    "desde": -1446,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Si lo escribió Moisés, fue durante el desierto. Muchos estudiosos piensan que el libro se completó siglos después."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Moisés.",
+    "nota": "Números 33:2 dice que Moisés escribió las etapas del viaje. La tradición le atribuye todo el libro."
+  },
+
+  "lugar": { "nombre": "Desierto de Parán, Cades y Moab", "mapa": "exodo" },
+
+  "personajes": [
+    { "id": "moises", "nombre": "Moisés", "linea": "Guía al pueblo en el desierto; el hombre más manso." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Sumo sacerdote; detiene una plaga y muere en el monte Hor." },
+    { "id": "maria-hermana-de-moises", "nombre": "María, hermana de Moisés", "linea": "Critica a Moisés, enferma de lepra y Moisés ora por ella." },
+    { "id": "josue", "nombre": "Josué", "linea": "Espía fiel; Dios lo elige para suceder a Moisés." },
+    { "id": "caleb", "nombre": "Caleb", "linea": "Espía que confía en Dios cuando los demás tienen miedo." },
+    { "id": "balaam", "nombre": "Balaam", "linea": "Adivino pagado para maldecir a Israel; Dios lo hace bendecir." }
+  ],
+
+  "eventos": [
+    { "texto": "Moisés cuenta a los hombres de cada tribu", "ref": "Números 1:1-46" },
+    { "texto": "Diez espías tienen miedo; Josué y Caleb confían", "ref": "Números 13:25-14:10" },
+    { "texto": "Moisés golpea la roca y no entrará en Canaán", "ref": "Números 20:7-13" },
+    { "texto": "Quien mira la serpiente de metal, vive", "ref": "Números 21:4-9" },
+    { "texto": "Balaam bendice a Israel en vez de maldecirlo", "ref": "Números 24:1-17" },
+    { "texto": "Dios elige a Josué como sucesor de Moisés", "ref": "Números 27:15-23" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "En marcha hacia Canaán",
+      "texto": "En el Sinaí, Moisés cuenta a los hombres de cada tribu. Son más de seiscientos mil. Cada tribu tiene su lugar alrededor del tabernáculo. Cuando la nube se levanta, el pueblo camina; cuando se detiene, acampan. Los sacerdotes bendicen al pueblo: «Jehová te bendiga, y te guarde»."
+    },
+    {
+      "subtitulo": "Quejas en el camino",
+      "texto": "Pronto llegan las quejas. El pueblo extraña la comida de Egipto y se cansa del maná. Dios les manda codornices. Hasta María y Aarón critican a Moisés. María enferma de lepra, y Moisés, el hombre más manso de la tierra, ruega a Dios que la sane."
+    },
+    {
+      "subtitulo": "Doce espías",
+      "texto": "Moisés envía doce espías a Canaán. Vuelven con un racimo de uvas tan grande que lo cargan entre dos. Pero diez tienen miedo: allí viven gigantes, y ellos se sienten como langostas. Solo Josué y Caleb dicen que Dios les dará la tierra. El pueblo llora y quiere volver a Egipto."
+    },
+    {
+      "subtitulo": "Cuarenta años",
+      "texto": "Moisés ruega, y Dios perdona. Pero esa generación no entrará en la tierra. Andarán cuarenta años por el desierto, un año por cada día de espionaje. Solo sus hijos entrarán, con Josué y Caleb. El Salmo 90, oración de Moisés, recuerda que la vida es corta y pide un corazón sabio."
+    },
+    {
+      "subtitulo": "La roca y la serpiente",
+      "texto": "En Cades muere María. Falta el agua, y Dios le dice a Moisés que hable a la roca. Moisés, enojado, la golpea dos veces. Sale agua, pero él no entrará en Canaán. Después muere Aarón. Cuando unas serpientes muerden al pueblo, Moisés levanta una serpiente de metal. Quien la mira, vive."
+    },
+    {
+      "subtitulo": "Una bendición inesperada",
+      "texto": "En Moab, el rey Balac paga a Balaam para maldecir a Israel. En el camino, su asna ve un ángel y le habla. Balaam abre la boca, pero solo le salen bendiciones. Anuncia que de Jacob saldrá una estrella y un cetro. Al final, Dios elige a Josué para guiar al pueblo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús explica: «como Moisés levantó la serpiente en el desierto», así él será levantado en la cruz. Quien lo mira con fe recibe vida eterna. Pablo añade que la roca que daba agua «era Cristo». Y muchos cristianos ven en la estrella de Balaam un anuncio del Mesías.",
+    "refs": ["Juan 3:14-15", "1 Corintios 10:4"]
+  },
+
+  "mundo": "Egipto sigue siendo la gran potencia de la región. En Canaán hay ciudades con murallas, cada una con su propio rey. Por eso los espías vuelven asustados.",
+
+  "antes": "Al pie del Sinaí, Dios enseñó a Israel a acercarse a él con ofrendas, sacerdotes y fiestas.",
+  "despues": "En los campos de Moab, Moisés reúne al pueblo y le da sus últimos consejos antes de morir.",
+
+  "conexiones": [
+    { "ref": "Juan 3:14-15", "motivo": "Jesús se compara con la serpiente levantada que daba vida." },
+    { "ref": "Hebreos 3:17-19", "motivo": "No entraron en la tierra por no creer: una advertencia llena de amor." },
+    { "ref": "2 Pedro 3:8", "motivo": "Como dice el Salmo 90, para Dios mil años son como un día." },
+    { "ref": "Mateo 2:2", "motivo": "Los magos siguen una estrella para adorar al Rey que ha nacido." }
+  ],
+
+  "glosario": ["tabernaculo", "mana", "lepra", "bendicion"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cada vez que te quejes, cambia la queja por una palabra de gracias a Dios.",
+    "pregunta": "¿Qué «gigante» te impide hoy confiar en las promesas de Dios?"
+  },
+
+  "meditar": "Señor, cuando el camino se haga largo, quiero confiar en vez de quejarme. Enséñame a contar mis días y a seguirte con fe. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué vieron Josué y Caleb que los otros espías no quisieron ver?",
+    "actividad": "Con un palo y uvas de papel, carguen entre dos el gran racimo de los espías."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cuántos años anduvo Israel por el desierto?",
+      "opciones": ["Siete años", "Cuarenta años", "Cien años"],
+      "correcta": 1,
+      "explicacion": "Fue un año por cada uno de los cuarenta días que duró el viaje de los espías (Números 14:34).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué debía hacer quien era mordido por una serpiente?",
+      "opciones": ["Ofrecer un cordero", "Lavarse en el río", "Mirar la serpiente de metal"],
+      "correcta": 2,
+      "explicacion": "Quien miraba la serpiente que Moisés levantó, vivía (Números 21:8-9).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿A quién compara Jesús con la serpiente que Moisés levantó?",
+      "opciones": ["A sí mismo", "A Moisés", "A Juan el Bautista"],
+      "correcta": 0,
+      "explicacion": "Jesús sería levantado en la cruz para dar vida eterna a quien crea (Juan 3:14-15).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Num.13", "Num.14", "Num.20", "Num.21", "Ps.90"], "minutos": 20 },
+
+  "temas": ["fe", "obediencia", "perdon", "providencia", "cruz"],
+  "cadenas": ["el-desierto", "la-cruz"]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "joel",
+  "orden": 24,
+  "seccion": "reino-dividido",
+  "formato": "breve",
+  "titulo": "Joel: el Espíritu para todos",
+  "pasajes": ["Joel.1.1-Joel.3.21"],
+  "libros": ["Joel"],
+
+  "enUnMinuto": [
+    "Una plaga de langostas arrasa los campos de Judá, y Joel llama al pueblo a volver a Dios.",
+    "Dios promete devolver lo perdido y derramar su Espíritu sobre toda clase de personas.",
+    "Dios revela que es clemente y grande en misericordia, y salva a todo el que lo invoca."
+  ],
+
+  "versiculo": {
+    "texto": "Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros viejos soñarán sueños, y vuestros mancebos verán visiones.",
+    "referencia": "Joel 2:28",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Fecha incierta (quizás c. 835 a.C.)",
+    "desde": -835,
+    "hasta": -800,
+    "certeza": "incierta",
+    "nota": "Joel no nombra a ningún rey. Unos lo sitúan en el siglo IX a.C.; otros, después del exilio."
+  },
+  "fechaEscrito": {
+    "texto": "Fecha incierta (quizás c. 835 a.C.)",
+    "desde": -835,
+    "hasta": -800,
+    "certeza": "incierta",
+    "nota": "Joel no nombra a ningún rey. Unos lo sitúan en el siglo IX a.C.; otros, después del exilio."
+  },
+  "autor": { "texto": "Joel, hijo de Petuel (Joel 1:1).", "nota": "La Biblia no cuenta nada más de su vida." },
+
+  "lugar": { "nombre": "Judá y Jerusalén", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "joel", "nombre": "Joel", "linea": "Profeta de Judá; llama a volver a Dios de corazón." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "En Pentecostés explica que se cumple la promesa de Joel." },
+    { "id": "pablo", "nombre": "Pablo", "linea": "Cita a Joel: todo el que invoque al Señor será salvo." }
+  ],
+
+  "eventos": [
+    { "texto": "Las langostas arrasan los campos de Judá", "ref": "Joel 1:1-12" },
+    { "texto": "Joel llama a ayunar y a clamar al Señor", "ref": "Joel 1:13-20" },
+    { "texto": "Dios pide volver a él de corazón", "ref": "Joel 2:12-17" },
+    { "texto": "Dios promete devolver los años perdidos", "ref": "Joel 2:18-27" },
+    { "texto": "Dios promete derramar su Espíritu sobre todos", "ref": "Joel 2:28-32" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un ejército de langostas",
+      "texto": "Joel habla a Judá, el reino del sur, y a Jerusalén. Una plaga de langostas lo ha devorado todo: la vid, la higuera y el trigo. Ya no hay ofrendas para el templo. Joel ve en esa ruina un aviso: se acerca el día del Señor."
+    },
+    {
+      "subtitulo": "Rasguen el corazón",
+      "texto": "Dios quiere algo más hondo que ropa rota. Dice: «lacerad vuestro corazón, y no vuestros vestidos». Joel llama a todos a ayunar y a orar: ancianos, niños y hasta los recién casados. Dios es clemente y grande en misericordia."
+    },
+    {
+      "subtitulo": "Lo que comió la langosta",
+      "texto": "Dios responde con ternura. Promete lluvia, trigo, vino y aceite. «Os restituiré los años que comió la oruga», dice. Lo perdido no queda perdido para siempre."
+    },
+    {
+      "subtitulo": "El Espíritu para todos",
+      "texto": "Después viene una promesa mayor. Dios derramará su Espíritu «sobre toda carne»: hijos e hijas, jóvenes y ancianos, siervos y siervas. Todo el que invoque el nombre del Señor será salvo. Al final, Dios juzgará a las naciones y vivirá en medio de su pueblo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En Pentecostés, el Espíritu Santo llena a los discípulos. Pedro explica: «esto es lo que fue dicho por el profeta Joel». Jesús resucitado, junto al Padre, derrama el Espíritu prometido. Y Pablo repite la promesa: «todo aquel que invocare el nombre del Señor, será salvo».",
+    "refs": ["Hechos 2:16-17", "Romanos 10:13"]
+  },
+
+  "mundo": "Las plagas de langostas eran uno de los grandes miedos del mundo antiguo. Un enjambre puede comer en un día lo mismo que miles de personas. Todavía hoy dañan cosechas en África y Asia.",
+
+  "antes": "En el norte, Acab y Jezabel siguieron a Baal, y Elías llamó al pueblo a volver al Señor.",
+  "despues": "Elías sube al cielo, y Eliseo sigue su obra entre los reyes de Israel y de Judá.",
+
+  "conexiones": [
+    { "ref": "Hechos 2:16-17", "motivo": "Pedro anuncia en Pentecostés que la promesa de Joel se cumple." },
+    { "ref": "Romanos 10:13", "motivo": "Pablo usa las palabras de Joel: todo el que invoque será salvo." },
+    { "ref": "Santiago 4:8", "motivo": "Acercarse a Dios con el corazón limpio, como pide Joel." },
+    { "ref": "Salmos 86:15", "motivo": "El salmista canta al mismo Dios clemente y lleno de misericordia." }
+  ],
+
+  "glosario": ["ayuno", "dia-del-senor", "espiritu-santo", "pentecostes"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, ayuna de algo un día (una comida o el celular) y dedica ese tiempo a orar.",
+    "pregunta": "¿Qué años perdidos quieres entregar hoy a Dios para que él los restaure?"
+  },
+
+  "meditar": "Señor, cambia mi corazón por dentro. Derrama tu Espíritu sobre mi casa y devuélveme la alegría que perdí. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios promete su Espíritu a niños y a ancianos. ¿Quiénes de tu familia pueden orar juntos?",
+    "actividad": "Dibuja un campo comido por langostas y, al lado, el mismo campo verde y lleno de fruto."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué plaga destruyó los campos en tiempos de Joel?",
+      "opciones": ["Una plaga de ranas", "Una plaga de langostas", "Una gran inundación"],
+      "correcta": 1,
+      "explicacion": "Las langostas devoraron la vid, la higuera y el trigo (Joel 1:4-12).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Joel 2:13, ¿qué pide Dios que rasguemos?",
+      "opciones": ["El corazón, no los vestidos", "Los vestidos y las tiendas", "Los rollos de la ley"],
+      "correcta": 0,
+      "explicacion": "Dios quiere un cambio por dentro: «lacerad vuestro corazón, y no vuestros vestidos».",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién citó al profeta Joel el día de Pentecostés?",
+      "opciones": ["Pablo, en Atenas", "Juan el Bautista", "Pedro, en Jerusalén"],
+      "correcta": 2,
+      "explicacion": "Pedro dijo: «esto es lo que fue dicho por el profeta Joel» (Hechos 2:16).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Joel.1", "Joel.2", "Joel.3"], "minutos": 10 },
+
+  "notaEcumenica": "Algunas Biblias, sobre todo católicas, dividen Joel en cuatro capítulos. Allí la promesa del Espíritu aparece como capítulo 3. El texto es el mismo; solo cambia la numeración.",
+
+  "temas": ["arrepentimiento", "espiritu-santo", "misericordia", "esperanza", "profecia-cumplida"],
+  "cadenas": ["el-espiritu"]
+}

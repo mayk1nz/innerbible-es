@@ -1,0 +1,86 @@
+{
+  "id": "conclusion",
+  "orden": 90,
+  "seccion": "conclusion",
+  "formato": "marco",
+  "titulo": "Del Génesis al Apocalipsis",
+  "pasajes": ["Gen.3.15-Gen.3.15", "Rev.22.1-Rev.22.5"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "La Biblia empieza en un jardín con una promesa y termina en una ciudad con el árbol de la vida.",
+    "Entre los dos extremos, Dios cumple su palabra: el hijo de la mujer vence a la serpiente.",
+    "Dios revela que toda la Biblia es una sola historia de amor, y que esa historia tiene nombre: Jesús."
+  ],
+
+  "versiculo": {
+    "texto": "Y no habrá más maldición; sino que el trono de Dios y del Cordero estará en ella, y sus siervos le servirán. Y verán su cara; y su nombre estará en sus frentes.",
+    "referencia": "Apocalipsis 22:3-4",
+    "version": "RV1909"
+  },
+
+  "fecha": null,
+
+  "lugar": { "nombre": "Del Edén a la nueva Jerusalén", "mapa": "conclusion" },
+
+  "resumen": [
+    {
+      "subtitulo": "Una promesa en el jardín",
+      "texto": "Al principio, Dios crea todo bueno y pone al hombre y a la mujer en el Edén. Ellos desconfían de Dios, y el pecado entra en el mundo. Pero Dios no los abandona. Allí mismo promete que un descendiente de la mujer herirá en la cabeza a la serpiente. Es la primera buena noticia de la Biblia."
+    },
+    {
+      "subtitulo": "La promesa camina",
+      "texto": "Dios llama a Abraham y promete bendecir por él a todas las familias. Saca a Israel de Egipto y le da su ley. Promete a David un rey para siempre. Cuando el pueblo se aleja, Dios no se rinde. Los profetas anuncian un pacto nuevo y un siervo que cargará nuestros pecados."
+    },
+    {
+      "subtitulo": "La promesa tiene nombre",
+      "texto": "Cuando llega el tiempo, nace Jesús, hijo de María. Sana, perdona y anuncia el reino de Dios. En la cruz carga el pecado de todos, y al tercer día resucita. Así vence a la serpiente antigua. El Espíritu Santo forma la Iglesia, y la buena noticia llega a todos los pueblos."
+    },
+    {
+      "subtitulo": "Un jardín que es ciudad",
+      "texto": "El Apocalipsis cierra la historia con lo que Dios empezó en el Edén. Hay un río de agua de vida y el árbol de la vida, cuyas hojas sanan a las naciones. Ya no hay maldición. Dios vive con su pueblo, y sus hijos verán su cara."
+    },
+    {
+      "subtitulo": "Tu lugar en la historia",
+      "texto": "Esta historia no se quedó en el papel. Sigue en cada persona que confía en Jesús, también en ti. Ya recorriste la Biblia de principio a fin. Ahora sigue leyéndola completa en el app, capítulo a capítulo, y profundiza con la Guía de Estudio. Dios todavía tiene mucho que decirte."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Génesis 3:15 es la primera promesa de un Salvador. Pablo la recuerda: el Dios de paz quebrantará a Satanás debajo de nuestros pies. Juan lo resume: el Hijo de Dios apareció para deshacer las obras del diablo. Del Edén a la nueva Jerusalén, Jesús es el hilo que une toda la Biblia.",
+    "refs": ["Romanos 16:20", "1 Juan 3:8"]
+  },
+
+  "mundo": "La Biblia se escribió a lo largo de más de mil años, en hebreo, arameo y griego. Hoy se lee, completa o en partes, en miles de idiomas.",
+
+  "antes": "El Apocalipsis mostró al Cordero que vence y a Dios, que hace nuevas todas las cosas.",
+  "despues": "Ahora te toca a ti: sigue leyendo la Biblia completa y deja que Dios te hable.",
+
+  "conexiones": [
+    { "ref": "Romanos 16:20", "motivo": "Dios vencerá a Satanás bajo los pies de sus hijos." },
+    { "ref": "1 Juan 3:8", "motivo": "Jesús vino a deshacer las obras del diablo." },
+    { "ref": "Gálatas 4:4", "motivo": "A su tiempo, Dios envió a su Hijo, nacido de mujer." },
+    { "ref": "Génesis 2:9", "motivo": "El árbol de la vida ya estaba en el primer jardín." }
+  ],
+
+  "glosario": ["promesa", "pacto", "satanas", "nueva-jerusalen"],
+
+  "paraTuVida": {
+    "aplicacion": "Elige hoy el próximo libro que leerás completo en el app y anota en tu calendario cuándo empiezas.",
+    "pregunta": "¿Qué parte de esta gran historia de Dios te habló más fuerte?"
+  },
+
+  "meditar": "Padre, gracias por cumplir tu promesa desde el Edén hasta hoy. Gracias por Jesús. Escribe mi nombre en tu historia de amor. Amén.",
+
+  "ninos": {
+    "pregunta": "La Biblia empieza en un jardín y termina en una ciudad con un río. ¿Cuál te gusta más?",
+    "actividad": "Dibuja en una hoja el jardín del Edén y en otra la ciudad de Dios. Únelas con un camino."
+  },
+
+  "leer": { "capitulos": ["Gen.3", "Rev.22"], "minutos": 8 },
+
+  "notaEcumenica": "Muchos cristianos ven en Génesis 3:15 el primer anuncio de Cristo, que vence al mal. La tradición católica ve también ahí a María, la madre del Salvador.",
+
+  "temas": ["promesa", "esperanza", "amor-de-dios", "profecia-cumplida", "reino-de-dios"],
+  "cadenas": ["la-promesa-del-eden", "cielos-nuevos-y-tierra-nueva"]
+}

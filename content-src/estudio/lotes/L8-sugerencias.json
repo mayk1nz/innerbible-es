@@ -1,0 +1,18 @@
+{
+  "glosario": [
+    { "id": "centurion", "termino": "Centurión", "definicion": "Oficial romano que mandaba a unos cien soldados." },
+    { "id": "cristiano", "termino": "Cristiano", "definicion": "Seguidor de Cristo. Así llamaron por primera vez a los discípulos en Antioquía." },
+    { "id": "areopago", "termino": "Areópago", "definicion": "Colina y consejo de Atenas donde se discutían ideas y asuntos de la ciudad." },
+    { "id": "imposicion-de-manos", "termino": "Imposición de manos", "definicion": "Gesto de poner las manos sobre alguien al orar, para bendecirlo o enviarlo." }
+  ],
+  "personajes": [
+    { "id": "herodes-agripa-i", "nombre": "Herodes Agripa I", "rv1909": "Herodes", "linea": "Rey de Judea que mató a Santiago y encarceló a Pedro.", "lecciones": ["hechos-8-12"] },
+    { "id": "etiope", "nombre": "El funcionario etíope", "rv1909": "Etiope", "linea": "Servidor de la reina de Etiopía; Felipe le anunció a Jesús.", "lecciones": ["hechos-8-12"] },
+    { "id": "sergio-paulo", "nombre": "Sergio Paulo", "linea": "Gobernador romano de Chipre que creyó al oír la palabra.", "lecciones": ["hechos-13-14"] },
+    { "id": "demetrio", "nombre": "Demetrio", "linea": "Platero de Éfeso que alborotó la ciudad por la diosa Diana.", "lecciones": ["hechos-18-20"] },
+    { "id": "eutico", "nombre": "Eutico", "rv1909": "Eutichô", "linea": "Joven de Troas que cayó de una ventana y volvió a vivir.", "lecciones": ["hechos-18-20"] }
+  ],
+  "notas": [
+    "Opcionales: las nueve lecciones de L8 dan 0 errores sin estas entradas. Si se añaden, se pueden sumar a los personajes o al glosario de cada lección."
+  ]
+}

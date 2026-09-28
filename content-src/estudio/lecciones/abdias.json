@@ -1,0 +1,129 @@
+{
+  "id": "abdias",
+  "orden": 40,
+  "seccion": "exilio",
+  "formato": "breve",
+  "titulo": "Abdías: Dios ve la injusticia",
+  "pasajes": ["Obad.1.1-Obad.1.21"],
+  "libros": ["Obad"],
+
+  "enUnMinuto": [
+    "Abdías, el libro más corto del Antiguo Testamento, habla contra Edom, el pueblo de Esaú.",
+    "Edom se alegró cuando cayó Jerusalén y maltrató a su hermano Judá en el peor momento.",
+    "Dios revela que ve la injusticia, que humilla al orgulloso y que al final el reino será suyo."
+  ],
+
+  "versiculo": {
+    "texto": "Y vendrán salvadores al monte de Sión para juzgar al monte de Esaú; y el reino será de Jehová.",
+    "referencia": "Abdías 1:21",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 586 a.C.",
+    "desde": -586,
+    "hasta": -580,
+    "certeza": "debatida",
+    "nota": "La mayoría lo une a la caída de Jerusalén. Otros lo sitúan en el siglo IX a.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 586 a.C.",
+    "desde": -586,
+    "hasta": -580,
+    "certeza": "debatida",
+    "nota": "La mayoría lo une a la caída de Jerusalén. Otros lo sitúan en el siglo IX a.C."
+  },
+
+  "autor": { "texto": "El profeta Abdías (Abdías 1:1).", "nota": "Solo conocemos su nombre, que significa siervo del Señor." },
+
+  "lugar": { "nombre": "Edom y Jerusalén", "mapa": "exilio" },
+
+  "personajes": [
+    { "id": "abdias", "nombre": "Abdías", "linea": "Profeta que habla contra Edom por su crueldad con Judá." },
+    { "id": "esau", "nombre": "Esaú", "linea": "Hermano de Jacob; de él viene el pueblo de Edom." },
+    { "id": "jacob", "nombre": "Jacob", "linea": "Hermano de Esaú; de él viene el pueblo de Israel." }
+  ],
+
+  "eventos": [
+    { "texto": "Dios humillará el orgullo de Edom", "ref": "Abdías 1:1-4" },
+    { "texto": "Edom se alegró de la caída de su hermano", "ref": "Abdías 1:10-14" },
+    { "texto": "Se acerca el día del Señor para todas las naciones", "ref": "Abdías 1:15-16" },
+    { "texto": "En el monte Sion habrá salvación", "ref": "Abdías 1:17-21" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Dos hermanos",
+      "texto": "Edom es el pueblo que viene de Esaú, el hermano de Jacob. Vive en montañas de roca, al sureste de Judá, y se siente seguro. Pero cuando Jerusalén cae, Edom se alegra. Mira desde lejos, roba lo que queda y entrega a los que intentan escapar."
+    },
+    {
+      "subtitulo": "El orgullo engaña",
+      "texto": "Abdías habla a Edom de parte de Dios. Su orgullo lo engaña: aunque ponga su nido entre las estrellas, Dios lo derribará. Dios ve la injusticia contra el débil. Se acerca el día del Señor para todas las naciones. Lo que Edom hizo se volverá contra él."
+    },
+    {
+      "subtitulo": "El reino será del Señor",
+      "texto": "Pero el libro no termina en castigo. En el monte Sion habrá salvación. Los cautivos volverán a su tierra. La última palabra es de esperanza: el reino será del Señor. La mayoría une este libro a la caída de Jerusalén; otros lo sitúan antes."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Abdías termina con una promesa: «el reino será de Jehová». Jesús empieza a predicar diciendo que el reino de Dios está cerca. Y el Apocalipsis canta que los reinos del mundo son de nuestro Señor y de su Cristo.",
+    "refs": ["Marcos 1:15", "Apocalipsis 11:15"]
+  },
+
+  "mundo": "Edom vivía en montañas de roca, al sur del mar Muerto. Siglos después, los nabateos tallaron en esa región la famosa ciudad de Petra.",
+
+  "antes": "Lamentaciones lloró por Jerusalén, pero recordó que la misericordia de Dios es nueva cada mañana.",
+  "despues": "Ezequiel, desde el exilio en Babilonia, anuncia que Dios dará un corazón nuevo a su pueblo.",
+
+  "conexiones": [
+    { "ref": "Génesis 25:23", "motivo": "La historia empezó con dos mellizos que luchaban ya antes de nacer." },
+    { "ref": "Jeremías 49:16", "motivo": "Jeremías habla de Edom con palabras casi iguales." },
+    { "ref": "Mateo 7:2", "motivo": "Jesús enseña que con la medida que midas serás medido." },
+    { "ref": "Lucas 1:52", "motivo": "María canta que Dios baja a los poderosos y levanta a los humildes." }
+  ],
+
+  "glosario": ["vision", "dia-del-senor", "profeta"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, si alguien cercano pasa un mal momento, acércate a ayudar en lugar de mirar de lejos.",
+    "pregunta": "¿Tienes una herida vieja con alguien, como Esaú y Jacob?"
+  },
+
+  "meditar": "Señor, líbrame del orgullo y de alegrarme del mal ajeno. Dame un corazón que ayuda al hermano caído. Tu reino es mi esperanza. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué haces cuando un hermano o un amigo se cae o está triste?",
+    "actividad": "Piensa en alguien que necesita ánimo y hagan juntos un dibujo o una nota para él."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Contra qué pueblo habla Abdías?",
+      "opciones": ["Contra Egipto", "Contra Edom", "Contra Asiria"],
+      "correcta": 1,
+      "explicacion": "Toda la visión de Abdías trata de Edom (Abdías 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿De quién descendía el pueblo de Edom?",
+      "opciones": ["De Abraham", "De José", "De Esaú"],
+      "correcta": 2,
+      "explicacion": "Edom venía de Esaú, hermano de Jacob; por eso Abdías habla de «tu hermano Jacob».",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué canta María que se parece al mensaje de Abdías?",
+      "opciones": ["Que Dios baja a los poderosos", "Que el templo será más grande", "Que Edom será el más fuerte"],
+      "correcta": 0,
+      "explicacion": "María canta que Dios quita a los poderosos y levanta a los humildes (Lucas 1:52).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Obad.1"], "minutos": 4 },
+
+  "temas": ["justicia", "humildad", "esperanza", "reino-de-dios"],
+  "cadenas": ["el-reino"]
+}

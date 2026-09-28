@@ -1,0 +1,132 @@
+{
+  "id": "tito",
+  "orden": 80,
+  "seccion": "iglesia",
+  "formato": "breve",
+  "titulo": "Tito: una fe que hace el bien",
+  "pasajes": ["Titus.1.1-Titus.3.15"],
+  "libros": ["Titus"],
+
+  "enUnMinuto": [
+    "Pablo escribe a Tito, que pone en orden las iglesias de la isla de Creta.",
+    "Le pide líderes honrados y creyentes de toda edad que hagan el bien.",
+    "Dios revela que nos salva por su misericordia, y su gracia nos enseña a vivir."
+  ],
+
+  "versiculo": {
+    "texto": "No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;",
+    "referencia": "Tito 3:5",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 62–64 d.C.",
+    "desde": 62,
+    "hasta": 64,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 62–64 d.C.",
+    "desde": 62,
+    "hasta": 64,
+    "certeza": "debatida",
+    "nota": "Es la fecha tradicional, cerca de 1 Timoteo. Otros estudiosos proponen una fecha algo más tardía."
+  },
+
+  "autor": {
+    "texto": "El apóstol Pablo (Tito 1:1)",
+    "nota": "Así lo dice la carta y así la recibió la tradición. Algunos estudiosos piensan en un discípulo de Pablo."
+  },
+
+  "lugar": { "nombre": "La isla de Creta", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "tito", "nombre": "Tito", "linea": "Colaborador de Pablo; pone en orden las iglesias de Creta." },
+    { "id": "pablo", "nombre": "Pablo", "linea": "Le escribe como a un verdadero hijo en la fe." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Nuestro Salvador; se dio a sí mismo por nosotros." },
+    { "id": "apolos", "nombre": "Apolos", "linea": "Predicador de viaje; Tito debe ayudarlo para que nada le falte." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo deja a Tito en Creta para nombrar ancianos", "ref": "Tito 1:5-9" },
+    { "texto": "Da consejos a mayores, jóvenes y siervos", "ref": "Tito 2:1-10" },
+    { "texto": "La gracia de Dios se manifiesta y enseña a vivir", "ref": "Tito 2:11-14" },
+    { "texto": "Dios nos salva por su misericordia, no por obras", "ref": "Tito 3:3-7" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un trabajo en Creta",
+      "texto": "Pablo dejó a Tito en la isla de Creta. Su tarea es poner en orden las iglesias y nombrar ancianos en cada ciudad. Deben ser personas honradas, buenas con su familia, hospitalarias y firmes en la verdad. Algunos engañan a otros para ganar dinero, y Tito debe corregirlos."
+    },
+    {
+      "subtitulo": "Todos pueden hacer el bien",
+      "texto": "Pablo da consejos para cada grupo: los mayores, las mujeres jóvenes, los jóvenes y los siervos. La razón es hermosa: «la gracia de Dios que trae salvación a todos los hombres, se manifestó». Esa gracia nos enseña a vivir con juicio, con justicia y cerca de Dios, mientras esperamos a Jesús."
+    },
+    {
+      "subtitulo": "Salvados por misericordia",
+      "texto": "Antes también nosotros vivíamos perdidos y llenos de envidia. Pero Dios mostró su bondad y su amor. Nos salvó por su misericordia, no por nuestras obras. Nos dio vida nueva por el Espíritu Santo. Por eso, los que creen procuran hacer el bien y ayudar a quien lo necesita."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo llama a Jesús «nuestro Salvador». Él se dio a sí mismo para librarnos de todo mal y formar un pueblo que hace el bien. La salvación es un regalo: Dios nos salva por su misericordia, no por nuestras obras. Pablo lo explica también a los efesios.",
+    "refs": ["Tito 2:14", "Efesios 2:8-9"]
+  },
+
+  "mundo": "Creta es una isla grande del mar Mediterráneo, bajo el dominio de Roma. Sus puertos reciben barcos que viajan entre Egipto, Grecia e Italia.",
+
+  "antes": "Pablo escribió a Timoteo, en Éfeso, sobre cómo cuidar la familia de Dios.",
+  "despues": "Pedro escribe a cristianos que sufren y les da una esperanza viva.",
+
+  "conexiones": [
+    { "ref": "Efesios 2:8-9", "motivo": "Somos salvos por gracia, por medio de la fe: es un regalo de Dios." },
+    { "ref": "Efesios 2:10", "motivo": "Dios nos creó en Cristo para hacer buenas obras." },
+    { "ref": "1 Pedro 2:9", "motivo": "Un pueblo que Dios adquirió para anunciar sus maravillas." },
+    { "ref": "1 Juan 2:4", "motivo": "Quien conoce a Dios de verdad lo muestra en su manera de vivir." }
+  ],
+
+  "glosario": ["anciano", "gracia", "misericordia", "espiritu-santo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, haz una buena obra en secreto por alguien de tu barrio o de tu iglesia.",
+    "pregunta": "¿Qué parte de tu vida ya cambió la gracia de Dios?"
+  },
+
+  "meditar": "Dios bueno, tú me salvaste por tu misericordia y no por mis obras. Que tu gracia me enseñe a vivir haciendo el bien. Amén.",
+
+  "ninos": {
+    "pregunta": "Pablo dice que la gracia de Dios nos enseña a hacer el bien. ¿Qué bien puedes hacer mañana?",
+    "actividad": "Escribe tres buenas obras para esta semana y marca cada una cuando la cumplas."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En qué isla dejó Pablo a Tito?",
+      "opciones": ["En Chipre", "En Patmos", "En Creta"],
+      "correcta": 2,
+      "explicacion": "Pablo lo dejó en Creta para poner en orden las iglesias (Tito 1:5).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Tito 3:5, ¿por qué nos salvó Dios?",
+      "opciones": ["Por su misericordia", "Por nuestras buenas obras", "Por nuestra sabiduría"],
+      "correcta": 0,
+      "explicacion": "Dios nos salvó «por su misericordia», no por obras que nosotros hayamos hecho.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué dice Efesios 2:10 sobre las buenas obras?",
+      "opciones": ["Nos ganan la salvación", "Dios nos creó para hacerlas", "No tienen importancia"],
+      "correcta": 1,
+      "explicacion": "Somos obra de Dios, creados en Cristo para hacer el bien. Primero la gracia, después las obras.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Titus.1", "Titus.2", "Titus.3"], "minutos": 5 },
+
+  "temas": ["gracia", "buenas-obras", "servicio", "esperanza"],
+  "cadenas": ["cuidar-la-iglesia", "la-gracia-que-salva"]
+}

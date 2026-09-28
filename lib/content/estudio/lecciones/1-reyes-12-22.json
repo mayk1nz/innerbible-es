@@ -1,0 +1,134 @@
+{
+  "id": "1-reyes-12-22",
+  "orden": 23,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "El reino se divide y Elías habla",
+  "pasajes": ["1Kgs.12.1-1Kgs.22.53", "2Chr.10.1-2Chr.20.37"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "El reino de Salomón se parte en dos: Israel en el norte y Judá en el sur.",
+    "En el norte, Acab y Jezabel siguen a Baal, y Elías llama al pueblo a volver al Señor.",
+    "Dios revela que responde con fuego, pero también habla con voz suave al que está cansado."
+  ],
+
+  "versiculo": {
+    "texto": "Y acercándose Elías a todo el pueblo, dijo: ¿Hasta cuándo claudicaréis vosotros entre dos pensamientos? Si Jehová es Dios, seguidle; y si Baal, id en pos de él. Y el pueblo no respondió palabra.",
+    "referencia": "1 Reyes 18:21",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 930–850 a.C.", "desde": -930, "hasta": -850, "certeza": "aprox" },
+
+  "lugar": { "nombre": "Israel (norte) y Judá (sur)", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "roboam", "nombre": "Roboam", "linea": "Rey de Judá, en el sur; su dureza divide el reino." },
+    { "id": "jeroboam", "nombre": "Jeroboam", "linea": "Primer rey de Israel, en el norte; hace dos becerros de oro." },
+    { "id": "acab", "nombre": "Acab", "linea": "Rey de Israel, en el norte; levanta un templo a Baal." },
+    { "id": "jezabel", "nombre": "Jezabel", "linea": "Esposa de Acab; persigue a los profetas del Señor." },
+    { "id": "elias", "nombre": "Elías", "linea": "Profeta del norte; ora, y cae fuego en el Carmelo." },
+    { "id": "eliseo", "nombre": "Eliseo", "linea": "Deja sus bueyes y su arado para seguir a Elías." }
+  ],
+
+  "eventos": [
+    { "texto": "Las tribus del norte se apartan de Roboam", "ref": "1 Reyes 12:1-20" },
+    { "texto": "Jeroboam pone becerros de oro en Betel y Dan", "ref": "1 Reyes 12:25-33" },
+    { "texto": "Elías anuncia la sequía y Dios lo alimenta", "ref": "1 Reyes 17:1-16" },
+    { "texto": "Cae fuego del cielo en el monte Carmelo", "ref": "1 Reyes 18:20-39" },
+    { "texto": "Dios habla a Elías con un silbo apacible", "ref": "1 Reyes 19:9-18" },
+    { "texto": "Josafat ora y Dios libra a Judá", "ref": "2 Crónicas 20:1-30" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un reino partido en dos",
+      "texto": "Roboam, hijo de Salomón, va a Siquem para ser rey. El pueblo le pide una carga más ligera. Él desprecia el consejo de los ancianos y responde con dureza. Las tribus del norte se apartan y hacen rey a Jeroboam. Desde ahora hay dos reinos: Israel, en el norte, y Judá, en el sur, con Jerusalén."
+    },
+    {
+      "subtitulo": "El norte: becerros de oro",
+      "texto": "En Israel, Jeroboam teme que el pueblo vuelva a Jerusalén para adorar. Por eso hace dos becerros de oro y los pone en Betel y en Dan. Así empieza la idolatría del norte. Casi todos sus reyes siguen ese camino. Los reinados cambian rápido, a veces con sangre. El rey Omri funda Samaria, la nueva capital."
+    },
+    {
+      "subtitulo": "El sur: una lámpara encendida",
+      "texto": "En Judá reinan siempre los hijos de David. Roboam se aparta de Dios, y Sisac, rey de Egipto, se lleva los tesoros del templo. Su nieto Asa quita los ídolos y busca al Señor. Después, su hijo Josafat envía maestros con la ley por las ciudades. Por amor a David, Dios mantiene una lámpara en Jerusalén."
+    },
+    {
+      "subtitulo": "Elías frente a Acab",
+      "texto": "En el norte reina Acab. Se casa con Jezabel y adora a Baal. Jezabel persigue a los profetas del Señor. Entonces aparece Elías y anuncia que no lloverá. Dios lo alimenta con cuervos y después en casa de una viuda de Sarepta. Allí la harina y el aceite no se acaban. Elías ora, y el hijo de la viuda revive."
+    },
+    {
+      "subtitulo": "Fuego y un silbo apacible",
+      "texto": "Al tercer año, Elías reúne al pueblo en el monte Carmelo. Pregunta: «¿Hasta cuándo claudicaréis vosotros entre dos pensamientos?» Baal no responde. Elías ora al Señor en el altar, y cae fuego del cielo. Después, Jezabel lo amenaza y él huye, agotado, al monte Horeb. Allí Dios le habla en un «silbo apacible y delicado»."
+    },
+    {
+      "subtitulo": "La viña de Nabot",
+      "texto": "Acab quiere la viña de su vecino Nabot. Jezabel hace que lo acusen con mentiras y lo maten. Elías anuncia el juicio de Dios, y Acab se humilla. Más tarde, el profeta Micaías avisa que Acab caerá en la batalla. Acab se disfraza, pero una flecha lanzada al azar lo alcanza."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Chr", "texto": "Crónicas mira sobre todo a Judá, el reino del sur. Añade las reformas de Asa y de Josafat. Ante un gran ejército, Josafat ora: «a ti volvemos nuestros ojos»." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús recuerda que Elías fue enviado a una viuda extranjera de Sarepta: Dios ama también a los de fuera. Micaías vio a Israel «como ovejas que no tienen pastor». Jesús mira así a las multitudes y tiene compasión. Él es el buen Pastor que reúne a sus ovejas en un solo rebaño.",
+    "refs": ["Lucas 4:25-26", "Mateo 9:36"]
+  },
+
+  "mundo": "Asiria empieza a crecer. En 853 a.C., su rey Salmanasar III lucha en Qarqar contra varios reyes unidos. Una inscripción asiria nombra entre ellos a Acab, rey de Israel.",
+
+  "antes": "Salomón construyó el templo, pero en su vejez su corazón se fue tras otros dioses.",
+  "despues": "El profeta Joel llama al pueblo a volver a Dios y anuncia el Espíritu para todos.",
+
+  "conexiones": [
+    { "ref": "Lucas 4:25-26", "motivo": "Jesús recuerda a la viuda de Sarepta que acogió a Elías." },
+    { "ref": "Santiago 5:17", "motivo": "Elías era como nosotros, y Dios escuchó su oración." },
+    { "ref": "Romanos 11:4", "motivo": "Pablo recuerda a los siete mil que no se inclinaron ante Baal." },
+    { "ref": "Mateo 6:24", "motivo": "Como en el Carmelo: nadie puede servir a dos señores." }
+  ],
+
+  "glosario": ["profeta", "tribu", "idolatria", "altar"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, apaga el ruido cinco minutos cada día y escucha a Dios en silencio, como Elías.",
+    "pregunta": "¿Entre qué dos caminos dudas hoy, y cuál te pide Dios?"
+  },
+
+  "meditar": "Señor, cuando me canse como Elías, dame pan y descanso. Enséñame a oír tu voz suave y a seguirte con un solo corazón. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios no habló a Elías en el viento ni en el fuego. ¿Cómo le habló?",
+    "actividad": "Quédate un minuto en silencio con tu familia. Después cuenten qué sonidos suaves oyeron."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En qué monte cayó fuego del cielo cuando oró Elías?",
+      "opciones": ["En el monte Sinaí", "En el monte Carmelo", "En el monte de Samaria"],
+      "correcta": 1,
+      "explicacion": "En el Carmelo cayó fuego, y el pueblo dijo: «¡Jehová es el Dios!» (1 Reyes 18:38-39).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Cuando el reino se dividió, ¿qué reino se quedó con Jerusalén?",
+      "opciones": ["Judá, el reino del sur", "Israel, el reino del norte", "Siria, el reino de Damasco"],
+      "correcta": 0,
+      "explicacion": "Judá siguió con los hijos de David en Jerusalén. Israel, en el norte, siguió a Jeroboam.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "En Lucas 4, ¿a quién recuerda Jesús para mostrar que Dios ama a los extranjeros?",
+      "opciones": ["A la reina Jezabel", "A la madre de Eliseo", "A la viuda de Sarepta"],
+      "correcta": 2,
+      "explicacion": "Jesús dice que Elías fue enviado a una viuda de Sarepta de Sidón (Lucas 4:25-26).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Kgs.12", "1Kgs.17", "1Kgs.18", "1Kgs.19", "2Chr.20"], "minutos": 30 },
+
+  "temas": ["fe", "oracion", "idolatria", "obediencia", "esperanza"],
+  "cadenas": ["el-rey-de-david", "el-profeta-elias"]
+}

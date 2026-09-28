@@ -1,0 +1,92 @@
+{
+  "guia": "biografias",
+  "secciones": [
+    {
+      "id": "comienza-aqui",
+      "titulo": "Comienza aquí",
+      "lecciones": [
+        { "id": "comienza-aqui", "titulo": "Comienza aquí", "subtitulo": "Cómo leer las fichas: Biblia y tradición" },
+        { "id": "quien-es-quien", "titulo": "Quién es quién", "subtitulo": "Simones, Santiagos, Judas, Josés y otros nombres repetidos" },
+        { "id": "listas-de-los-doce", "titulo": "Las listas de los Doce", "subtitulo": "Las cuatro listas y sus nombres, lado a lado" },
+        { "id": "linea-del-tiempo", "titulo": "Línea del tiempo de los personajes", "subtitulo": "Del Edén a la Iglesia naciente" }
+      ]
+    },
+    {
+      "id": "los-doce",
+      "titulo": "Los Doce",
+      "lecciones": [
+        { "id": "pedro", "titulo": "Pedro", "subtitulo": "El pescador que cayó y fue restaurado" },
+        { "id": "andres", "titulo": "Andrés", "subtitulo": "El hermano que llevó a Pedro a Jesús" },
+        { "id": "santiago-hijo-de-zebedeo", "titulo": "Santiago, hijo de Zebedeo", "subtitulo": "En la RVR1960, Jacobo; hermano de Juan" },
+        { "id": "juan", "titulo": "Juan", "subtitulo": "El discípulo a quien Jesús amaba" },
+        { "id": "felipe", "titulo": "Felipe", "subtitulo": "El de Betsaida que dijo: «Ven y ve»" },
+        { "id": "bartolome", "titulo": "Bartolomé", "subtitulo": "También llamado Natanael" },
+        { "id": "tomas", "titulo": "Tomás", "subtitulo": "El que dijo: «¡Señor mío, y Dios mío!»" },
+        { "id": "mateo", "titulo": "Mateo", "subtitulo": "El cobrador de impuestos, también llamado Leví" },
+        { "id": "santiago-hijo-de-alfeo", "titulo": "Santiago, hijo de Alfeo", "subtitulo": "En la RVR1960, Jacobo" },
+        { "id": "judas-tadeo", "titulo": "Judas Tadeo", "subtitulo": "También Lebeo o «Judas hermano de Jacobo»" },
+        { "id": "simon-el-zelote", "titulo": "Simón el Zelote", "subtitulo": "En la RVR1960, Simón el cananista" },
+        { "id": "judas-iscariote", "titulo": "Judas Iscariote", "subtitulo": "El que entregó a Jesús" },
+        { "id": "matias", "titulo": "Matías", "subtitulo": "El elegido para completar a los Doce" }
+      ]
+    },
+    {
+      "id": "alrededor-de-jesus",
+      "titulo": "Alrededor de Jesús",
+      "lecciones": [
+        { "id": "jose-de-nazaret", "titulo": "José de Nazaret", "subtitulo": "El hombre justo que cuidó a Jesús" },
+        { "id": "zacarias", "titulo": "Zacarías", "subtitulo": "El sacerdote, padre de Juan el Bautista" },
+        { "id": "juan-el-bautista", "titulo": "Juan el Bautista", "subtitulo": "La voz que preparó el camino" },
+        { "id": "simeon-del-templo", "titulo": "Simeón", "subtitulo": "El anciano que tomó al niño en brazos" },
+        { "id": "lazaro", "titulo": "Lázaro de Betania", "subtitulo": "El amigo de Jesús" },
+        { "id": "nicodemo", "titulo": "Nicodemo", "subtitulo": "El maestro que vino de noche" },
+        { "id": "jose-de-arimatea", "titulo": "José de Arimatea", "subtitulo": "El que dio su sepulcro a Jesús" },
+        { "id": "zaqueo", "titulo": "Zaqueo", "subtitulo": "El cobrador que bajó del árbol" }
+      ]
+    },
+    {
+      "id": "iglesia-naciente",
+      "titulo": "La Iglesia naciente",
+      "lecciones": [
+        { "id": "pablo", "titulo": "Pablo", "subtitulo": "De perseguidor a apóstol de las naciones" },
+        { "id": "bernabe", "titulo": "Bernabé", "subtitulo": "El hijo de consolación" },
+        { "id": "esteban", "titulo": "Esteban", "subtitulo": "El primer mártir de la Iglesia" },
+        { "id": "felipe-el-evangelista", "titulo": "Felipe el evangelista", "subtitulo": "Uno de los siete, el que habló al etíope" },
+        { "id": "santiago-hermano-del-senor", "titulo": "Santiago, hermano del Señor", "subtitulo": "Líder de la iglesia de Jerusalén" },
+        { "id": "juan-marcos", "titulo": "Juan Marcos", "subtitulo": "El que volvió a ser útil" },
+        { "id": "lucas", "titulo": "Lucas", "subtitulo": "El médico amado que escribió dos libros" },
+        { "id": "silas", "titulo": "Silas", "subtitulo": "Compañero de Pablo, cantando en la cárcel" },
+        { "id": "timoteo", "titulo": "Timoteo", "subtitulo": "El joven hijo en la fe de Pablo" },
+        { "id": "cornelio", "titulo": "Cornelio", "subtitulo": "El centurión romano que abrió la puerta" }
+      ]
+    },
+    {
+      "id": "antiguo-testamento",
+      "titulo": "Antiguo Testamento",
+      "lecciones": [
+        { "id": "adan", "titulo": "Adán", "subtitulo": "El primer hombre" },
+        { "id": "noe", "titulo": "Noé", "subtitulo": "El que construyó el arca" },
+        { "id": "abraham", "titulo": "Abraham", "subtitulo": "El padre de la fe" },
+        { "id": "isaac", "titulo": "Isaac", "subtitulo": "El hijo de la promesa" },
+        { "id": "jacob", "titulo": "Jacob", "subtitulo": "El que luchó y fue llamado Israel" },
+        { "id": "jose-hijo-de-jacob", "titulo": "José, hijo de Jacob", "subtitulo": "De esclavo a gobernador de Egipto" },
+        { "id": "job", "titulo": "Job", "subtitulo": "Fiel en medio del dolor" },
+        { "id": "moises", "titulo": "Moisés", "subtitulo": "El que sacó a Israel de Egipto" },
+        { "id": "josue", "titulo": "Josué", "subtitulo": "El que guió al pueblo a la tierra prometida" },
+        { "id": "gedeon", "titulo": "Gedeón", "subtitulo": "El más pequeño, con trescientos hombres" },
+        { "id": "sanson", "titulo": "Sansón", "subtitulo": "Una fuerza que venía de Dios" },
+        { "id": "samuel", "titulo": "Samuel", "subtitulo": "El niño que escuchó a Dios" },
+        { "id": "saul", "titulo": "Saúl", "subtitulo": "El primer rey de Israel" },
+        { "id": "david", "titulo": "David", "subtitulo": "El pastor que llegó a ser rey" },
+        { "id": "salomon", "titulo": "Salomón", "subtitulo": "El rey que pidió sabiduría" },
+        { "id": "elias", "titulo": "Elías", "subtitulo": "El profeta del fuego y del silbo apacible" },
+        { "id": "eliseo", "titulo": "Eliseo", "subtitulo": "El que recibió el manto de Elías" },
+        { "id": "jonas", "titulo": "Jonás", "subtitulo": "El profeta que huyó y volvió" },
+        { "id": "isaias", "titulo": "Isaías", "subtitulo": "El profeta que anunció al Mesías" },
+        { "id": "jeremias", "titulo": "Jeremías", "subtitulo": "El profeta de las lágrimas y la esperanza" },
+        { "id": "daniel", "titulo": "Daniel", "subtitulo": "Fiel a Dios en Babilonia" },
+        { "id": "esdras-y-nehemias", "titulo": "Esdras y Nehemías", "subtitulo": "Reconstruir la Ley y los muros" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "el-verbo",
+  "orden": 52,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "El Verbo, antes de todo",
+  "pasajes": ["John.1.1-John.1.18"],
+  "libros": ["John"],
+
+  "enUnMinuto": [
+    "Juan abre su Evangelio antes de la creación: el Verbo ya existía y estaba con Dios.",
+    "Ese Verbo es Jesús, la luz verdadera, que se hizo hombre y vivió entre nosotros.",
+    "Dios revela que no se quedó lejos: vino en persona para hacernos hijos suyos."
+  ],
+
+  "versiculo": {
+    "texto": "Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad.",
+    "referencia": "Juan 1:14",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Antes del principio",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "Juan habla del Hijo antes de la creación. No hay fecha: es la eternidad de Dios."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 90 d.C.",
+    "desde": 80,
+    "hasta": 95,
+    "certeza": "debatida",
+    "nota": "Muchos lo sitúan hacia el final del siglo I. Algunos estudiosos proponen una fecha anterior al año 70 d.C."
+  },
+
+  "autor": {
+    "texto": "La tradición lo atribuye al apóstol Juan, hijo de Zebedeo.",
+    "nota": "El libro dice que lo escribió un testigo: el discípulo al que Jesús amaba (Juan 21:20-24)."
+  },
+
+  "lugar": { "nombre": "Junto al Padre; luego, Israel", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Verbo eterno que se hace hombre y nos muestra al Padre." },
+    { "id": "juan-el-bautista", "nombre": "Juan el Bautista", "linea": "Enviado de Dios a señalar la luz, para que todos crean." },
+    { "id": "juan-apostol", "nombre": "Juan, hijo de Zebedeo", "linea": "La tradición le atribuye este Evangelio, escrito para que creamos." }
+  ],
+
+  "eventos": [
+    { "texto": "En el principio, el Verbo está con Dios", "ref": "Juan 1:1-2" },
+    { "texto": "Todo fue hecho por medio del Verbo", "ref": "Juan 1:3-5" },
+    { "texto": "Juan viene como testigo de la luz", "ref": "Juan 1:6-8" },
+    { "texto": "Los que lo reciben llegan a ser hijos de Dios", "ref": "Juan 1:10-13" },
+    { "texto": "El Verbo se hace carne y habita entre nosotros", "ref": "Juan 1:14" },
+    { "texto": "El Hijo único nos da a conocer al Padre", "ref": "Juan 1:18" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Antes de todo",
+      "texto": "Juan empieza su Evangelio como empieza la Biblia: «En el principio». Pero no cuenta primero un nacimiento. Mira más atrás, antes de que existiera el mundo. Allí ya estaba el Verbo, es decir, la Palabra. El Verbo estaba con Dios, y el Verbo era Dios. Esa Palabra tiene un nombre: Jesús."
+    },
+    {
+      "subtitulo": "Todo fue hecho por él",
+      "texto": "Por medio del Verbo, Dios hizo todas las cosas. Nada de lo que existe se hizo sin él. En él estaba la vida, y esa vida era la luz de las personas. La luz brilla en las tinieblas. Las tinieblas no la comprenden, pero la luz sigue brillando."
+    },
+    {
+      "subtitulo": "Un testigo llamado Juan",
+      "texto": "Dios envía a un hombre llamado Juan, el Bautista. Él no es la luz. Viene a señalarla, para que todos crean. Juan dirá después: «El que viene tras mí, es antes de mí». Nació unos meses antes que Jesús, pero sabe que Jesús existía desde siempre."
+    },
+    {
+      "subtitulo": "Vino a los suyos",
+      "texto": "La luz verdadera llega al mundo que ella misma hizo. Pero el mundo no la conoce. Viene a su propio pueblo, y muchos no la reciben. Aun así, hay una puerta abierta para todos. A quienes lo reciben y creen en su nombre, Dios les da el derecho de ser sus hijos."
+    },
+    {
+      "subtitulo": "La Palabra se hizo hombre",
+      "texto": "Entonces Juan dice lo más grande: «aquel Verbo fue hecho carne». El Hijo eterno se hace hombre de verdad, sin dejar de ser Dios. A esto lo llamamos la encarnación. Vive entre nosotros, lleno de gracia y de verdad. La ley vino por medio de Moisés; la gracia y la verdad, por Jesucristo."
+    },
+    {
+      "subtitulo": "Dios con rostro",
+      "texto": "Nadie ha visto nunca a Dios. Pero el Hijo único, que está en el seno del Padre, nos lo ha dado a conocer. ¿Quieres saber cómo es Dios? Mira a Jesús: cómo habla, cómo sana, cómo perdona. Todo el Evangelio de Juan se escribió para eso."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Aquí Jesús no aparece como una promesa lejana: es Dios mismo hecho hombre. Génesis empieza con Dios que habla y crea; en Juan, esa Palabra tiene rostro. Dios vivía en medio de Israel en el tabernáculo; ahora habita entre nosotros en Jesús. Al final del libro, Tomás lo dirá de rodillas: «¡Señor mío, y Dios mío!».",
+    "refs": ["Colosenses 1:16", "Juan 20:28"]
+  },
+
+  "mundo": "Juan escribe en griego, la lengua común del Imperio romano. «Verbo» traduce la palabra griega «logos»: palabra, razón. Los filósofos griegos la usaban para hablar del orden del mundo.",
+
+  "antes": "Después de Malaquías, Israel vivió siglos bajo persas, griegos y romanos, esperando al Mesías prometido.",
+  "despues": "Dios anuncia dos nacimientos: el de Juan el Bautista a Zacarías, y el de Jesús a María.",
+
+  "conexiones": [
+    { "ref": "Génesis 1:1", "motivo": "Juan empieza igual que la Biblia: «En el principio»." },
+    { "ref": "Colosenses 1:16-17", "motivo": "Pablo también enseña que todo fue creado por medio de Cristo." },
+    { "ref": "1 Juan 1:1-2", "motivo": "Juan cuenta que vio y tocó con sus manos al Verbo de vida." },
+    { "ref": "Juan 8:12", "motivo": "Jesús mismo dirá: «Yo soy la luz del mundo»." }
+  ],
+
+  "glosario": ["verbo", "encarnacion", "gracia", "tabernaculo"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee cada día un poco del Evangelio de Juan y anota algo que Jesús te muestra del Padre.",
+    "pregunta": "¿Qué parte oscura de tu vida quieres abrir a la luz de Jesús?"
+  },
+
+  "meditar": "Señor Jesús, Palabra eterna del Padre, gracias por venir a vivir entre nosotros. Quiero recibirte y vivir como hijo de Dios. Ilumina mi camino. Amén.",
+
+  "ninos": {
+    "pregunta": "Si alguien quiere saber cómo es Dios, ¿a quién tiene que mirar?",
+    "actividad": "Enciendan una linterna en un cuarto oscuro y conversen: Jesús es la luz del mundo."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Con qué palabras empieza el Evangelio de Juan?",
+      "opciones": ["Con la lista de los antepasados de Jesús", "«En el principio era el Verbo»", "Con el nacimiento en Belén"],
+      "correcta": 1,
+      "explicacion": "Juan 1:1 mira antes de la creación, igual que Génesis 1:1.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Juan 1:12, ¿qué da Dios a los que reciben a Jesús?",
+      "opciones": ["Una tierra propia en Canaán", "Riquezas y una vida larga", "El derecho de ser hijos de Dios"],
+      "correcta": 2,
+      "explicacion": "A los que lo reciben les da «potestad de ser hechos hijos de Dios» (Juan 1:12).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué otro libro de la Biblia empieza con «En el principio»?",
+      "opciones": ["Génesis", "Éxodo", "Apocalipsis"],
+      "correcta": 0,
+      "explicacion": "Génesis 1:1 cuenta la creación. Juan muestra que el Verbo ya estaba allí.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["John.1"], "minutos": 9 },
+
+  "notaEcumenica": "Católicos y evangélicos confiesan juntos, con el antiguo Credo de Nicea, que Jesús es Dios verdadero y hombre verdadero.",
+
+  "temas": ["encarnacion", "gracia", "fe", "amor-de-dios"],
+  "cadenas": ["la-luz-del-mundo", "el-templo"]
+}

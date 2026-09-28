@@ -1,0 +1,149 @@
+{
+  "id": "1-samuel",
+  "orden": 16,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "Samuel, Saúl y el joven David",
+  "pasajes": ["1Sam.1.1-1Sam.31.13"],
+  "libros": ["1Sam"],
+
+  "enUnMinuto": [
+    "Dios le da a Ana un hijo, Samuel, que llega a ser profeta y unge a los primeros reyes.",
+    "Saúl empieza bien pero desobedece, y Dios elige a David, un joven pastor de Belén.",
+    "Dios revela que no mira las apariencias: mira el corazón y levanta a los pequeños."
+  ],
+
+  "versiculo": {
+    "texto": "Y vino Jehová, y paróse, y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo oye.",
+    "referencia": "1 Samuel 3:10",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1100–1010 a.C.",
+    "desde": -1100,
+    "hasta": -1010,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Fecha incierta; terminado después de c. 930 a.C.",
+    "desde": -930,
+    "hasta": -560,
+    "certeza": "incierta",
+    "nota": "Habla de «los reyes de Judá» (1 Samuel 27:6). Por eso se terminó cuando el reino ya estaba dividido."
+  },
+
+  "autor": {
+    "texto": "Anónimo; la tradición judía lo atribuye a Samuel, Natán y Gad.",
+    "nota": "1 Crónicas 29:29 menciona escritos de estos tres profetas sobre David."
+  },
+
+  "lugar": { "nombre": "Silo, Rama, Belén y Gabaa", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "ana-madre-de-samuel", "nombre": "Ana", "linea": "Ora con lágrimas en Silo; Dios le da a Samuel." },
+    { "id": "eli", "nombre": "Elí", "linea": "Sacerdote anciano; enseña al niño Samuel a escuchar a Dios." },
+    { "id": "samuel", "nombre": "Samuel", "linea": "Profeta y último juez; unge a Saúl y después a David." },
+    { "id": "saul", "nombre": "Saúl", "linea": "Primer rey de Israel; empieza humilde, pero no obedece a Dios." },
+    { "id": "david", "nombre": "David", "linea": "Pastor de Belén; Dios lo elige y vence a Goliat." },
+    { "id": "jonatan", "nombre": "Jonatán", "linea": "Hijo de Saúl; ama a David y lo protege de su padre." },
+    { "id": "goliat", "nombre": "Goliat", "linea": "Gigante filisteo que desafía a Israel durante cuarenta días." }
+  ],
+
+  "eventos": [
+    { "texto": "Ana ora y Dios le da un hijo", "ref": "1 Samuel 1:9-20" },
+    { "texto": "Dios llama al niño Samuel de noche", "ref": "1 Samuel 3:1-10" },
+    { "texto": "Samuel unge a Saúl como primer rey", "ref": "1 Samuel 10:1" },
+    { "texto": "Samuel unge a David, el hijo menor de Isaí", "ref": "1 Samuel 16:1-13" },
+    { "texto": "David vence a Goliat en el nombre de Dios", "ref": "1 Samuel 17:40-50" },
+    { "texto": "Saúl y sus hijos mueren en el monte Gilboa", "ref": "1 Samuel 31:1-6" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una madre que ora",
+      "texto": "Ana no tiene hijos y sufre mucho. En Silo, junto a la casa de Dios, ora llorando y hace una promesa. El sacerdote Elí cree que está borracha. Ella le explica que ha derramado su alma delante de Dios. Dios le da un hijo, Samuel. Ana lo lleva a Silo y canta de alegría."
+    },
+    {
+      "subtitulo": "Habla, que tu siervo oye",
+      "texto": "El niño Samuel sirve con Elí, pero los hijos de Elí desprecian las ofrendas. Una noche, Samuel oye una voz que lo llama. Tres veces corre a Elí. Elí entiende que es Dios y le enseña a responder: «Habla, que tu siervo oye». Samuel crece, y todo Israel sabe que es profeta."
+    },
+    {
+      "subtitulo": "Queremos un rey",
+      "texto": "Los filisteos vencen a Israel y se llevan el arca del pacto. Dios la hace volver. Samuel llama al pueblo a dejar los ídolos. Ya anciano, oye que el pueblo pide un rey «como todas las gentes». Dios le dice: «no te han desechado a ti, sino a mí». Aun así, Samuel unge a Saúl."
+    },
+    {
+      "subtitulo": "Obedecer es mejor",
+      "texto": "Saúl es alto y al principio humilde: el día de su elección se esconde entre el equipaje. Pero no espera a Samuel y ofrece él mismo el holocausto. Después, en la guerra contra Amalec, se queda con lo mejor del botín. Samuel le dice: «el obedecer es mejor que los sacrificios». Dios lo rechaza como rey."
+    },
+    {
+      "subtitulo": "Dios mira el corazón",
+      "texto": "Dios envía a Samuel a Belén, a casa de Isaí. Los hijos mayores parecen reyes, pero Dios dice: «Jehová mira el corazón». Samuel unge al menor, David, que cuida ovejas. Un gigante filisteo, Goliat, desafía a Israel. David le dice: vengo «en el nombre de Jehová de los ejércitos». Con una honda y una piedra, lo vence."
+    },
+    {
+      "subtitulo": "Un amigo fiel",
+      "texto": "El pueblo canta las victorias de David, y Saúl siente envidia. Intenta matarlo con su lanza. Jonatán, hijo de Saúl, ama a David y lo protege. David huye durante años. Dos veces puede matar a Saúl, pero lo respeta porque Dios lo ungió. Al final, Saúl y sus hijos mueren en batalla contra los filisteos."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Ana canta que Dios levanta al pobre y dará fuerza a «su Mesías». Siglos después, María canta algo muy parecido. David, pastor de Belén elegido por Dios, es un anticipo de Jesús. Jesús nace en Belén, es el hijo de David y el buen pastor que da su vida.",
+    "refs": ["Lucas 1:52", "Juan 10:11"]
+  },
+
+  "mundo": "Los filisteos dominan la costa y saben trabajar el hierro. Por eso en Israel no había herreros (1 Samuel 13:19). Egipto está débil y ya no controla Canaán.",
+
+  "antes": "En tiempos de los jueces, Rut la moabita fue fiel a Noemí. Su bisnieto será David.",
+  "despues": "David llora a Saúl y a Jonatán. Pronto será rey, primero de Judá y después de todo Israel.",
+
+  "conexiones": [
+    { "ref": "Mateo 9:13", "motivo": "Jesús repite lo que Samuel enseñó: Dios quiere misericordia más que sacrificios." },
+    { "ref": "Juan 7:24", "motivo": "Jesús pide no juzgar por las apariencias, como Dios en Belén." },
+    { "ref": "Lucas 1:52", "motivo": "María canta como Ana: Dios levanta a los humildes." },
+    { "ref": "Hechos 13:22", "motivo": "Pablo recuerda a David como un hombre conforme al corazón de Dios." }
+  ],
+
+  "glosario": ["profeta", "arca-del-pacto", "ungido", "holocausto"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de leer la Biblia, di como Samuel: «Habla, que tu siervo oye».",
+    "pregunta": "¿A quién juzgas por las apariencias, cuando Dios mira su corazón?"
+  },
+
+  "meditar": "Señor, como Samuel, quiero escuchar tu voz. Como David, quiero confiar en ti frente a mis gigantes. Mira mi corazón y hazlo tuyo. Amén.",
+
+  "ninos": {
+    "pregunta": "David era el hermano menor y Dios lo eligió. ¿Qué crees que vio Dios en su corazón?",
+    "actividad": "Busca cinco piedras lisas y escribe en cada una algo que te da miedo. Oren juntos."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué respondió el niño Samuel cuando por fin entendió que Dios lo llamaba?",
+      "opciones": ["Mañana te escucharé", "Habla, que tu siervo oye", "Llama a Elí, no a mí"],
+      "correcta": 1,
+      "explicacion": "Elí le enseñó a responder así, y Samuel escuchó a Dios (1 Samuel 3:9-10).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué venció David al gigante Goliat?",
+      "opciones": ["Con la espada de Saúl", "Con un arco y flechas", "Con una honda y una piedra"],
+      "correcta": 2,
+      "explicacion": "David fue en el nombre de Dios y lo venció sin espada (1 Samuel 17:45-50).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién canta en el Nuevo Testamento algo muy parecido al cántico de Ana?",
+      "opciones": ["María, la madre de Jesús", "Pedro, el pescador", "Pablo, en la cárcel"],
+      "correcta": 0,
+      "explicacion": "Como Ana, María alaba a Dios que levanta a los humildes (Lucas 1:46-55).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Sam.1", "1Sam.3", "1Sam.15", "1Sam.16", "1Sam.17", "1Sam.24"], "minutos": 30 },
+
+  "temas": ["oracion", "obediencia", "fe", "providencia"],
+  "cadenas": ["el-rey-de-david", "el-pastor"]
+}

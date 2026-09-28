@@ -1,0 +1,156 @@
+{
+  "id": "anuncios",
+  "orden": 53,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Dos anuncios: Juan y Jesús",
+  "pasajes": ["Luke.1.1-Luke.1.80", "Matt.1.1-Matt.1.25"],
+  "libros": ["Luke", "Matt"],
+
+  "enUnMinuto": [
+    "Un ángel anuncia a Zacarías el nacimiento de Juan, y a María el nacimiento de Jesús.",
+    "María cree y dice sí; José, avisado en sueños, recibe a María y al niño.",
+    "Dios revela que cumple sus promesas y que para él nada es imposible."
+  ],
+
+  "versiculo": {
+    "texto": "Entonces María dijo: He aquí la sierva del Señor; hágase a mí conforme a tu palabra. Y el ángel partió de ella.",
+    "referencia": "Lucas 1:38",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 7–5 a.C.",
+    "desde": -7,
+    "hasta": -5,
+    "certeza": "aprox",
+    "nota": "Herodes el Grande murió c. 4 a.C.; por eso Jesús nació unos años antes del año 1."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escritos c. 60–85 d.C.",
+    "desde": 60,
+    "hasta": 85,
+    "certeza": "debatida",
+    "nota": "Muchos estudiosos los sitúan entre los años 70 y 85 d.C. Otros proponen fechas anteriores al año 70."
+  },
+
+  "autor": {
+    "texto": "La tradición los atribuye a Lucas, compañero de Pablo, y al apóstol Mateo.",
+    "nota": "Lucas dice que investigó todo con cuidado y lo escribió en orden (Lucas 1:1-4)."
+  },
+
+  "lugar": { "nombre": "Jerusalén, Nazaret y Judea", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "zacarias-sacerdote", "nombre": "Zacarías", "linea": "Sacerdote anciano; duda del ángel y queda mudo hasta el nacimiento." },
+    { "id": "elisabet", "nombre": "Elisabet", "linea": "Esposa de Zacarías; en su vejez es madre de Juan." },
+    { "id": "maria-madre-de-jesus", "nombre": "María", "linea": "Joven de Nazaret que cree al ángel y dice: «hágase»." },
+    { "id": "jose-de-nazaret", "nombre": "José", "linea": "Hombre justo de la familia de David; obedece al ángel." },
+    { "id": "juan-el-bautista", "nombre": "Juan el Bautista", "linea": "El niño prometido que preparará el camino del Señor." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "El Hijo anunciado: Hijo de Dios, rey para siempre, Salvador." }
+  ],
+
+  "eventos": [
+    { "texto": "Gabriel anuncia a Zacarías el nacimiento de Juan", "ref": "Lucas 1:5-25" },
+    { "texto": "Gabriel anuncia a María que será madre de Jesús", "ref": "Lucas 1:26-38" },
+    { "texto": "María visita a Elisabet y canta a Dios", "ref": "Lucas 1:39-56" },
+    { "texto": "Nace Juan y Zacarías vuelve a hablar", "ref": "Lucas 1:57-80" },
+    { "texto": "La genealogía une a Jesús con Abraham y David", "ref": "Mateo 1:1-17" },
+    { "texto": "Un ángel habla en sueños a José", "ref": "Mateo 1:18-25" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una oración escuchada",
+      "texto": "Zacarías es un sacerdote anciano. Él y su esposa Elisabet aman a Dios, pero no tienen hijos. Un día, mientras ofrece el incienso en el templo, se le aparece el ángel Gabriel. Le anuncia un hijo, Juan, que preparará al pueblo para el Señor. Zacarías duda, y queda mudo."
+    },
+    {
+      "subtitulo": "Hágase tu palabra",
+      "texto": "Seis meses después, Gabriel visita a María, una joven de Nazaret comprometida con José. Le dice que no tema. Tendrá un hijo por obra del Espíritu Santo, y lo llamará Jesús. Reinará para siempre en el trono de David. María pregunta cómo será. Después responde: «He aquí la sierva del Señor»."
+    },
+    {
+      "subtitulo": "Dos madres se abrazan",
+      "texto": "María va de prisa a la casa de Elisabet, su parienta. Al oír su saludo, el niño salta en el vientre de Elisabet. Llena del Espíritu Santo, Elisabet la llama bendita. Entonces María canta a Dios, que mira a los humildes y cumple su promesa a Abraham."
+    },
+    {
+      "subtitulo": "Su nombre es Juan",
+      "texto": "Nace el hijo de Elisabet. Los vecinos quieren llamarlo Zacarías, como su padre. Pero Zacarías pide una tablilla y escribe: «Juan es su nombre». En ese momento vuelve a hablar y bendice a Dios. Anuncia que su hijo irá delante del Señor para preparar sus caminos."
+    },
+    {
+      "subtitulo": "Una familia con historia",
+      "texto": "Mateo empieza con una genealogía, una lista de familia. Va de Abraham a David, y de David al exilio en Babilonia. Hay reyes, pero también mujeres extranjeras como Rahab y Rut. La lista termina en José, esposo de María. Dios cumplió su promesa a lo largo de muchas generaciones."
+    },
+    {
+      "subtitulo": "José, el hombre justo",
+      "texto": "José se entera de que María espera un hijo. Es justo y no quiere exponerla a la vergüenza, así que piensa dejarla en secreto. Pero un ángel le habla en sueños: el niño viene del Espíritu Santo. Salvará a su pueblo de sus pecados. José despierta, obedece y recibe a María."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Luke", "texto": "Cuenta la historia desde María y Elisabet. Guarda dos cantos de alabanza: el de María y el de Zacarías." },
+    { "libro": "Matt", "texto": "Cuenta la historia desde José. Muestra que Jesús es hijo de David y cumple lo que anunció Isaías." }
+  ],
+
+  "jesusAqui": {
+    "texto": "El ángel presenta a Jesús como el rey del trono de David, cuyo reino no tendrá fin. Mateo ve cumplida la promesa de Isaías: la virgen dará a luz a Emanuel, que significa Dios con nosotros. Y el nombre Jesús dice su misión: salvará a su pueblo de sus pecados.",
+    "refs": ["Isaías 7:14", "Mateo 1:21"]
+  },
+
+  "mundo": "Herodes el Grande reina en Judea con permiso de Roma. Ha agrandado el templo de Jerusalén con piedras enormes. En Roma gobierna Augusto, el primer emperador.",
+
+  "antes": "Juan nos presentó al Verbo eterno, que estaba con Dios antes de la creación.",
+  "despues": "Jesús nace en Belén. Unos pastores y unos magos de oriente vienen a adorarlo.",
+
+  "conexiones": [
+    { "ref": "Isaías 7:14", "motivo": "Isaías anunció que una virgen daría a luz a Emanuel." },
+    { "ref": "Génesis 18:14", "motivo": "Como a Sara, Dios da un hijo cuando parecía imposible." },
+    { "ref": "Malaquías 4:5-6", "motivo": "Malaquías anunció a Elías; Juan viene con su espíritu y su fuerza." },
+    { "ref": "Hechos 4:12", "motivo": "El nombre de Jesús es el nombre que salva." }
+  ],
+
+  "glosario": ["angel", "emanuel", "genealogia", "espiritu-santo", "incienso"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, cuando algo te parezca imposible, repite: «ninguna cosa es imposible para Dios» (Lucas 1:37).",
+    "pregunta": "¿En qué te pide Dios hoy que le digas, como María, «hágase»?"
+  },
+
+  "meditar": "Señor, como María, quiero decirte: hágase en mí tu palabra. Como José, ayúdame a obedecer aunque no lo entienda todo. Gracias porque cumples tus promesas. Amén.",
+
+  "ninos": {
+    "pregunta": "Zacarías se quedó mudo hasta que nació Juan. ¿Cómo dirías «te quiero» sin hablar?",
+    "actividad": "Como Zacarías en su tablilla, escribe en un cartón el nombre de cada persona de tu familia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué ángel llevó los anuncios a Zacarías y a María?",
+      "opciones": ["Miguel", "Gabriel", "Elías"],
+      "correcta": 1,
+      "explicacion": "Gabriel habló a Zacarías en el templo y a María en Nazaret (Lucas 1:19, 26).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué pensó hacer José al saber que María esperaba un hijo?",
+      "opciones": ["Casarse con ella enseguida", "Contárselo a los sacerdotes", "Dejarla en secreto, sin exponerla"],
+      "correcta": 2,
+      "explicacion": "Como era justo, «quiso dejarla secretamente» (Mateo 1:19). Un ángel le dijo que no temiera.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que una virgen daría a luz a Emanuel?",
+      "opciones": ["Isaías", "Jonás", "Malaquías"],
+      "correcta": 0,
+      "explicacion": "Mateo 1:23 cita Isaías 7:14. Emanuel significa «Con nosotros Dios».",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Luke.1", "Matt.1"], "minutos": 14 },
+
+  "notaEcumenica": "Los saludos a María de Lucas 1:28 y 1:42 forman parte del Avemaría. Es una oración muy querida por los católicos. Los evangélicos leen estos versículos como ejemplo de la fe de María.",
+
+  "temas": ["promesa", "fe", "obediencia", "profecia-cumplida", "oracion"],
+  "cadenas": ["el-rey-de-david", "la-promesa-a-abraham"]
+}

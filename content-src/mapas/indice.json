@@ -1,0 +1,310 @@
+{
+  "secciones": [
+    {
+      "id": "panorama",
+      "titulo": "Panorama de la Biblia",
+      "mapas": [
+        {
+          "id": "mapa-de-la-biblia",
+          "titulo": "La Biblia en un mapa"
+        },
+        {
+          "id": "linea-del-tiempo",
+          "titulo": "La línea del tiempo"
+        },
+        {
+          "id": "tipos-de-libros",
+          "titulo": "Los tipos de libros"
+        },
+        {
+          "id": "pactos-de-dios",
+          "titulo": "Los pactos de Dios"
+        },
+        {
+          "id": "historia-de-la-salvacion",
+          "titulo": "La historia de la salvación"
+        },
+        {
+          "id": "jesus-en-toda-la-biblia",
+          "titulo": "Jesús en toda la Biblia"
+        }
+      ]
+    },
+    {
+      "id": "antiguo-testamento",
+      "titulo": "Antiguo Testamento",
+      "mapas": [
+        {
+          "id": "genesis",
+          "titulo": "Génesis"
+        },
+        {
+          "id": "exodo",
+          "titulo": "Éxodo"
+        },
+        {
+          "id": "levitico",
+          "titulo": "Levítico"
+        },
+        {
+          "id": "numeros",
+          "titulo": "Números"
+        },
+        {
+          "id": "deuteronomio",
+          "titulo": "Deuteronomio"
+        },
+        {
+          "id": "josue",
+          "titulo": "Josué"
+        },
+        {
+          "id": "jueces",
+          "titulo": "Jueces"
+        },
+        {
+          "id": "rut",
+          "titulo": "Rut"
+        },
+        {
+          "id": "1-samuel",
+          "titulo": "1 Samuel"
+        },
+        {
+          "id": "2-samuel",
+          "titulo": "2 Samuel"
+        },
+        {
+          "id": "1-reyes",
+          "titulo": "1 Reyes"
+        },
+        {
+          "id": "2-reyes",
+          "titulo": "2 Reyes"
+        },
+        {
+          "id": "1-cronicas",
+          "titulo": "1 Crónicas"
+        },
+        {
+          "id": "2-cronicas",
+          "titulo": "2 Crónicas"
+        },
+        {
+          "id": "esdras",
+          "titulo": "Esdras"
+        },
+        {
+          "id": "nehemias",
+          "titulo": "Nehemías"
+        },
+        {
+          "id": "ester",
+          "titulo": "Ester"
+        },
+        {
+          "id": "job",
+          "titulo": "Job"
+        },
+        {
+          "id": "salmos",
+          "titulo": "Salmos"
+        },
+        {
+          "id": "proverbios",
+          "titulo": "Proverbios"
+        },
+        {
+          "id": "eclesiastes",
+          "titulo": "Eclesiastés"
+        },
+        {
+          "id": "cantares",
+          "titulo": "Cantares"
+        },
+        {
+          "id": "isaias",
+          "titulo": "Isaías"
+        },
+        {
+          "id": "jeremias",
+          "titulo": "Jeremías"
+        },
+        {
+          "id": "lamentaciones",
+          "titulo": "Lamentaciones"
+        },
+        {
+          "id": "ezequiel",
+          "titulo": "Ezequiel"
+        },
+        {
+          "id": "daniel",
+          "titulo": "Daniel"
+        },
+        {
+          "id": "oseas",
+          "titulo": "Oseas"
+        },
+        {
+          "id": "joel",
+          "titulo": "Joel"
+        },
+        {
+          "id": "amos",
+          "titulo": "Amós"
+        },
+        {
+          "id": "abdias",
+          "titulo": "Abdías"
+        },
+        {
+          "id": "jonas",
+          "titulo": "Jonás"
+        },
+        {
+          "id": "miqueas",
+          "titulo": "Miqueas"
+        },
+        {
+          "id": "nahum",
+          "titulo": "Nahúm"
+        },
+        {
+          "id": "habacuc",
+          "titulo": "Habacuc"
+        },
+        {
+          "id": "sofonias",
+          "titulo": "Sofonías"
+        },
+        {
+          "id": "hageo",
+          "titulo": "Hageo"
+        },
+        {
+          "id": "zacarias",
+          "titulo": "Zacarías"
+        },
+        {
+          "id": "malaquias",
+          "titulo": "Malaquías"
+        }
+      ]
+    },
+    {
+      "id": "nuevo-testamento",
+      "titulo": "Nuevo Testamento",
+      "mapas": [
+        {
+          "id": "mateo",
+          "titulo": "Mateo"
+        },
+        {
+          "id": "marcos",
+          "titulo": "Marcos"
+        },
+        {
+          "id": "lucas",
+          "titulo": "Lucas"
+        },
+        {
+          "id": "juan",
+          "titulo": "Juan"
+        },
+        {
+          "id": "hechos",
+          "titulo": "Hechos"
+        },
+        {
+          "id": "romanos",
+          "titulo": "Romanos"
+        },
+        {
+          "id": "1-corintios",
+          "titulo": "1 Corintios"
+        },
+        {
+          "id": "2-corintios",
+          "titulo": "2 Corintios"
+        },
+        {
+          "id": "galatas",
+          "titulo": "Gálatas"
+        },
+        {
+          "id": "efesios",
+          "titulo": "Efesios"
+        },
+        {
+          "id": "filipenses",
+          "titulo": "Filipenses"
+        },
+        {
+          "id": "colosenses",
+          "titulo": "Colosenses"
+        },
+        {
+          "id": "1-tesalonicenses",
+          "titulo": "1 Tesalonicenses"
+        },
+        {
+          "id": "2-tesalonicenses",
+          "titulo": "2 Tesalonicenses"
+        },
+        {
+          "id": "1-timoteo",
+          "titulo": "1 Timoteo"
+        },
+        {
+          "id": "2-timoteo",
+          "titulo": "2 Timoteo"
+        },
+        {
+          "id": "tito",
+          "titulo": "Tito"
+        },
+        {
+          "id": "filemon",
+          "titulo": "Filemón"
+        },
+        {
+          "id": "hebreos",
+          "titulo": "Hebreos"
+        },
+        {
+          "id": "santiago",
+          "titulo": "Santiago"
+        },
+        {
+          "id": "1-pedro",
+          "titulo": "1 Pedro"
+        },
+        {
+          "id": "2-pedro",
+          "titulo": "2 Pedro"
+        },
+        {
+          "id": "1-juan",
+          "titulo": "1 Juan"
+        },
+        {
+          "id": "2-juan",
+          "titulo": "2 Juan"
+        },
+        {
+          "id": "3-juan",
+          "titulo": "3 Juan"
+        },
+        {
+          "id": "judas",
+          "titulo": "Judas"
+        },
+        {
+          "id": "apocalipsis",
+          "titulo": "Apocalipsis"
+        }
+      ]
+    }
+  ]
+}

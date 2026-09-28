@@ -1,0 +1,145 @@
+{
+  "id": "rut",
+  "orden": 15,
+  "seccion": "conquista",
+  "formato": "completo",
+  "titulo": "Rut: amor fiel en tiempos difíciles",
+  "pasajes": ["Ruth.1.1-Ruth.4.22"],
+  "libros": ["Ruth"],
+
+  "enUnMinuto": [
+    "Rut, una joven de Moab, deja su tierra por amor a su suegra Noemí y a su Dios.",
+    "En Belén, Booz la protege, la rescata como pariente redentor y se casa con ella.",
+    "Dios revela que cuida en silencio a los que sufren y abre su familia a los extranjeros."
+  ],
+
+  "versiculo": {
+    "texto": "Y Ruth respondió: No me ruegues que te deje, y me aparte de ti: porque donde quiera que tú fueres, iré yo; y donde quiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios.",
+    "referencia": "Rut 1:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1100 a.C., en tiempos de los jueces",
+    "desde": -1150,
+    "hasta": -1100,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Fecha incierta",
+    "desde": null,
+    "hasta": null,
+    "certeza": "incierta",
+    "nota": "El libro termina con la familia de David. Por eso muchos piensan que se escribió en tiempos de David o después."
+  },
+
+  "autor": {
+    "texto": "Desconocido; la tradición judía lo atribuye a Samuel."
+  },
+
+  "lugar": { "nombre": "Moab y Belén de Judá", "mapa": "conquista" },
+
+  "personajes": [
+    { "id": "rut", "nombre": "Rut", "linea": "Moabita que elige al pueblo y al Dios de Noemí." },
+    { "id": "noemi", "nombre": "Noemí", "linea": "Vuelve a Belén llena de amargura; termina con un nieto en brazos." },
+    { "id": "booz", "nombre": "Booz", "linea": "Pariente bondadoso que protege a Rut y rescata a la familia." },
+    { "id": "david", "nombre": "David", "linea": "El futuro rey; bisnieto de Rut y de Booz." }
+  ],
+
+  "eventos": [
+    { "texto": "Noemí pierde a su esposo y a sus hijos", "ref": "Rut 1:1-5" },
+    { "texto": "Rut decide quedarse con Noemí", "ref": "Rut 1:14-18" },
+    { "texto": "Rut recoge espigas en el campo de Booz", "ref": "Rut 2:1-17" },
+    { "texto": "Rut pide a Booz que la proteja", "ref": "Rut 3:6-13" },
+    { "texto": "Booz rescata la heredad y se casa con Rut", "ref": "Rut 4:9-13" },
+    { "texto": "Nace Obed, abuelo del rey David", "ref": "Rut 4:13-17" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Hambre y pérdida",
+      "texto": "En tiempos de los jueces hay hambre en Belén. Elimelec y Noemí se van a Moab con sus dos hijos. Allí muere Elimelec. Los hijos se casan con dos moabitas, Orfa y Rut. Unos diez años después, mueren también los dos hijos. Noemí queda sola, lejos de su tierra."
+    },
+    {
+      "subtitulo": "Tu Dios será mi Dios",
+      "texto": "Noemí oye que Dios ha dado pan a su pueblo y decide volver. Pide a sus nueras que se queden en Moab. Orfa se despide con un beso. Pero Rut se queda con ella y le dice: «Tu pueblo será mi pueblo, y tu Dios mi Dios»."
+    },
+    {
+      "subtitulo": "Me fui llena",
+      "texto": "Las dos llegan a Belén al comenzar la cosecha de cebada. Todo el pueblo se conmueve al verlas. Noemí pide que no la llamen Noemí, sino Mara, porque está llena de amargura. Siente que se fue llena y vuelve vacía. Pero a su lado camina una nuera que la ama."
+    },
+    {
+      "subtitulo": "En el campo de Booz",
+      "texto": "Rut sale a recoger las espigas que dejan los segadores, como permitía la Ley. Sin saberlo, llega al campo de Booz, pariente de Elimelec. Booz la trata con bondad: le da agua, pan y protección. Sabe cómo cuida a Noemí. Le desea que Dios la premie, porque vino a refugiarse bajo sus alas."
+    },
+    {
+      "subtitulo": "Un pariente redentor",
+      "texto": "Noemí ve la mano de Dios: Booz es uno de los parientes que pueden rescatarlas. Por consejo de ella, Rut va de noche a la era. Se acuesta a los pies de Booz y le pide que la cubra con su capa. Es un pedido de matrimonio y de protección. Booz acepta, pero hay otro pariente más cercano."
+    },
+    {
+      "subtitulo": "Un hijo para Noemí",
+      "texto": "En la puerta de la ciudad, el otro pariente renuncia. Booz rescata la heredad de Elimelec y se casa con Rut. Dios les da un hijo, Obed. Las mujeres alaban a Dios, y Noemí pone al niño en su regazo. La amargura se vuelve alegría. Obed será el abuelo del rey David."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Booz paga el precio para rescatar la tierra y la familia de Noemí. Es una imagen de Jesús, en quien tenemos redención por su sangre. Además, Rut, la extranjera, aparece entre los antepasados de Jesús. Desde el principio, Dios abre su familia a todos los pueblos.",
+    "refs": ["Mateo 1:5", "Efesios 1:7"]
+  },
+
+  "mundo": "Por esta época, el poder de Egipto se debilita y muchos pueblos cambian de lugar en la región. Moab, al este del mar Muerto, es vecino de Israel y a veces su enemigo.",
+
+  "antes": "Israel vivía el tiempo de los jueces: caía, clamaba a Dios, y él lo volvía a levantar.",
+  "despues": "En Silo, una mujer llamada Ana ora con lágrimas por un hijo. Dios le dará a Samuel.",
+
+  "conexiones": [
+    { "ref": "Mateo 1:5", "motivo": "Mateo nombra a Rut y a Booz en la familia de Jesús." },
+    { "ref": "Salmos 91:4", "motivo": "Bajo las alas de Dios hay refugio, como el que Rut buscó." },
+    { "ref": "Mateo 23:37", "motivo": "Jesús quiere reunir a su pueblo bajo sus alas, como la gallina." },
+    { "ref": "Proverbios 31:10", "motivo": "Booz llama a Rut mujer virtuosa, como la que describe Proverbios." }
+  ],
+
+  "glosario": ["pariente-redentor", "redencion", "heredad"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, acompaña a alguien que está solo o triste, como Rut acompañó a Noemí.",
+    "pregunta": "¿A quién puedes mostrarle hoy un amor fiel que no se rinde?"
+  },
+
+  "meditar": "Señor, gracias porque cuidas de mí aun en tiempos de pérdida. Dame un amor fiel como el de Rut y un corazón bondadoso como el de Booz. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué le dijo Rut a Noemí cuando decidió quedarse con ella?",
+    "actividad": "Dibujen a Rut recogiendo espigas y escriban debajo: «tu Dios mi Dios»."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué recogía Rut en el campo de Booz?",
+      "opciones": ["Espigas de cebada", "Piedras para un altar", "Flores para Noemí"],
+      "correcta": 0,
+      "explicacion": "Rut espigó hasta la tarde y juntó mucha cebada para ella y Noemí (Rut 2:17).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cómo pidió Noemí que la llamaran al volver a Belén?",
+      "opciones": ["Débora", "Mara", "Ana"],
+      "correcta": 1,
+      "explicacion": "Noemí dijo: «llamadme Mara», porque se sentía amargada (Rut 1:20).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿En qué Evangelio aparece Rut entre los antepasados de Jesús?",
+      "opciones": ["En Marcos", "En Juan", "En Mateo"],
+      "correcta": 2,
+      "explicacion": "Mateo 1:5 dice que Booz engendró de Rut a Obed, abuelo de David.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Ruth.1", "Ruth.2", "Ruth.3", "Ruth.4"], "minutos": 15 },
+
+  "temas": ["amor-de-dios", "familia", "providencia", "gracia", "fe"],
+  "cadenas": ["el-rey-de-david", "el-pariente-redentor"]
+}

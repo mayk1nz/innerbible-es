@@ -1,0 +1,148 @@
+{
+  "id": "ezequiel",
+  "orden": 41,
+  "seccion": "exilio",
+  "formato": "completo",
+  "titulo": "Ezequiel: Dios da un corazón nuevo",
+  "pasajes": ["Ezek.1.1-Ezek.48.35"],
+  "libros": ["Ezek"],
+
+  "enUnMinuto": [
+    "Ezequiel vive en el exilio, ve la gloria de Dios y avisa al pueblo antes de que caiga Jerusalén.",
+    "Después de la caída anuncia esperanza: un buen pastor, un corazón nuevo y huesos secos que vuelven a vivir.",
+    "Dios revela que no quiere la muerte de nadie y que da vida donde todo parece perdido."
+  ],
+
+  "versiculo": {
+    "texto": "Y os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré corazón de carne.",
+    "referencia": "Ezequiel 36:26",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "593–571 a.C.",
+    "desde": -593,
+    "hasta": -571,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "593–571 a.C.",
+    "desde": -593,
+    "hasta": -571,
+    "certeza": "aprox",
+    "nota": "El mismo libro fecha sus visiones, desde el quinto año del destierro del rey Joaquín."
+  },
+
+  "autor": {
+    "texto": "Ezequiel, sacerdote llevado cautivo a Babilonia",
+    "nota": "El libro habla casi siempre en primera persona: «vi visiones de Dios»."
+  },
+
+  "lugar": { "nombre": "Babilonia, junto al río Quebar", "mapa": "exilio" },
+
+  "personajes": [
+    { "id": "ezequiel", "nombre": "Ezequiel", "linea": "Sacerdote desterrado; Dios lo pone como atalaya de su pueblo." },
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Rey de Babilonia que sitia y toma Jerusalén." },
+    { "id": "david", "nombre": "David", "linea": "Dios promete un pastor de su familia para cuidar sus ovejas." },
+    { "id": "noe", "nombre": "Noé", "linea": "Ezequiel lo nombra como ejemplo de hombre justo." },
+    { "id": "daniel", "nombre": "Daniel", "linea": "Ezequiel lo nombra como hombre justo y sabio." },
+    { "id": "job", "nombre": "Job", "linea": "Nombrado junto a Noé y Daniel como hombre justo." }
+  ],
+
+  "eventos": [
+    { "texto": "Ezequiel ve la gloria de Dios junto al río", "ref": "Ezequiel 1:1-28" },
+    { "texto": "Dios lo pone como atalaya de Israel", "ref": "Ezequiel 3:16-21" },
+    { "texto": "La gloria de Dios sale del templo", "ref": "Ezequiel 10:18-19" },
+    { "texto": "Llega la noticia: Jerusalén ha caído", "ref": "Ezequiel 33:21-22" },
+    { "texto": "Los huesos secos vuelven a la vida", "ref": "Ezequiel 37:1-14" },
+    { "texto": "La gloria de Dios vuelve a un templo nuevo", "ref": "Ezequiel 43:1-5" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "El cielo se abre",
+      "texto": "Ezequiel es un sacerdote joven. Vive desterrado en Babilonia, junto al río Quebar. Un día el cielo se abre y tiene una visión. Ve seres con alas, ruedas llenas de ojos y un trono de fuego. Es la gloria de Dios. Ezequiel cae sobre su rostro. Dios lo envía como atalaya, para avisar al pueblo del peligro."
+    },
+    {
+      "subtitulo": "Señales que hablan",
+      "texto": "Dios le pide gestos que el pueblo pueda ver. Ezequiel dibuja Jerusalén sitiada sobre un ladrillo. Se acuesta de un lado durante muchos días. Se corta el pelo y lo reparte en tres partes. En otra visión ve algo muy triste: la gloria de Dios sale del templo, porque el pueblo adora ídolos."
+    },
+    {
+      "subtitulo": "Una puerta abierta",
+      "texto": "Muchos dicen que pagan los pecados de sus padres. Dios responde que cada persona responde por sí misma. Y añade una palabra llena de amor: «no quiero la muerte del que muere». Si el malvado se aparta de su mal camino, vivirá. Dios siempre deja abierta una puerta para volver."
+    },
+    {
+      "subtitulo": "La ciudad cae",
+      "texto": "Llega un día de dolor: muere la esposa de Ezequiel, «el deseo de tus ojos». Dios le pide no hacer el luto de costumbre, como señal para el pueblo. Tiempo después llega un hombre que escapó de Jerusalén. Trae la noticia: «La ciudad ha sido herida». Desde ese día, Ezequiel anuncia esperanza."
+    },
+    {
+      "subtitulo": "Un pastor y un corazón",
+      "texto": "Los jefes del pueblo cuidaron de sí mismos y no de las ovejas. Por eso Dios dice que él mismo buscará a la perdida. Les dará un pastor de la familia de David. Promete lavarlos, quitarles el corazón de piedra y poner dentro de ellos su propio Espíritu."
+    },
+    {
+      "subtitulo": "Huesos que viven",
+      "texto": "En un valle lleno de huesos secos, Dios pregunta: «¿vivirán estos huesos?». Ezequiel profetiza, y el espíritu les da vida. Así levantará Dios a su pueblo sin esperanza. Al final, Ezequiel ve un templo nuevo. La gloria de Dios vuelve, y del templo sale un río que da vida. La ciudad se llamará: el Señor está allí."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Dios promete buscar a sus ovejas y darles un pastor de la familia de David. Jesús dice: «Yo soy el buen pastor». Dios promete también un corazón nuevo y su Espíritu dentro. Jesús le habla a Nicodemo de nacer «de agua y del Espíritu».",
+    "refs": ["Juan 10:11", "Juan 3:5"]
+  },
+
+  "mundo": "Babilonia es la gran potencia de la época, bajo el rey Nabucodonosor. Levanta murallas enormes y templos a sus dioses. Muchos desterrados de Judá viven junto a sus canales, lejos de su tierra.",
+
+  "antes": "Jerusalén cayó ante Babilonia. Abdías anunció que Dios ve la injusticia que sufrió su pueblo.",
+  "despues": "En la corte de Babilonia, el joven Daniel y sus amigos deciden ser fieles a Dios.",
+
+  "conexiones": [
+    { "ref": "2 Corintios 5:17", "motivo": "En Cristo, la persona es hecha nueva: el corazón nuevo prometido." },
+    { "ref": "Juan 3:5", "motivo": "Jesús habla de nacer de nuevo por el agua y el Espíritu." },
+    { "ref": "Juan 5:25", "motivo": "Los muertos oirán la voz del Hijo de Dios y vivirán." },
+    { "ref": "Apocalipsis 22:2", "motivo": "Junto al río de vida crece un árbol cuyas hojas sanan." }
+  ],
+
+  "glosario": ["atalaya", "gloria-de-dios", "exilio", "vision"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee Ezequiel 37 en voz alta y pon en manos de Dios algo que parece sin salida.",
+    "pregunta": "¿Dónde necesitas que Dios te dé un corazón nuevo?"
+  },
+
+  "meditar": "Señor, quita de mí el corazón de piedra y dame un corazón nuevo. Sopla tu Espíritu donde mi vida parece seca. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios hizo vivir unos huesos secos. ¿Qué cosa triste te gustaría que Dios cambiara?",
+    "actividad": "Dibuja un corazón de piedra gris y, al lado, un corazón rojo lleno de vida."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué vio Ezequiel en el valle del capítulo 37?",
+      "opciones": ["Un río de leche", "Muchos huesos secos", "Un barco muy grande"],
+      "correcta": 1,
+      "explicacion": "Dios hizo entrar espíritu en los huesos secos, y vivieron (Ezequiel 37:10).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué tarea le dio Dios a Ezequiel ante su pueblo?",
+      "opciones": ["Ser atalaya de Israel", "Ser rey de Judá", "Construir un arca"],
+      "correcta": 0,
+      "explicacion": "Como un vigía en la muralla, debía avisar al pueblo del peligro (Ezequiel 3:17).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué dijo Jesús que recuerda la promesa del pastor en Ezequiel 34?",
+      "opciones": ["«Yo soy la luz del mundo»", "«Yo soy el pan de vida»", "«Yo soy el buen pastor»"],
+      "correcta": 2,
+      "explicacion": "Dios prometió buscar a sus ovejas. Jesús, el buen pastor, da su vida por ellas (Juan 10:11).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Ezek.1", "Ezek.18", "Ezek.34", "Ezek.36", "Ezek.37"], "minutos": 29 },
+
+  "temas": ["esperanza", "arrepentimiento", "espiritu-santo", "amor-de-dios"],
+  "cadenas": ["el-pastor", "el-pacto-nuevo"]
+}

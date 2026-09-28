@@ -1,0 +1,145 @@
+{
+  "id": "romanos",
+  "orden": 73,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Romanos: la buena noticia para todos",
+  "pasajes": ["Rom.1.1-Rom.16.27"],
+  "libros": ["Rom"],
+
+  "enUnMinuto": [
+    "Antes de visitar Roma, Pablo escribe una carta que explica con calma la buena noticia de Jesús.",
+    "Todos necesitamos a Dios, y él nos acepta por su gracia, por medio de la fe en Cristo.",
+    "Dios revela un amor del que nada ni nadie nos puede separar."
+  ],
+
+  "versiculo": {
+    "texto": "Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud a todo aquel que cree; al Judío primeramente y también al Griego.",
+    "referencia": "Romanos 1:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 57 d.C.",
+    "desde": 57,
+    "hasta": 57,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 57 d.C., desde Corinto",
+    "desde": 57,
+    "hasta": 57,
+    "certeza": "aprox",
+    "nota": "Pablo está por llevar la ofrenda a Jerusalén (Romanos 15:25-26). Recomienda a Febe, de Cencreas, el puerto de Corinto."
+  },
+  "autor": { "texto": "El apóstol Pablo; Tercio la puso por escrito (Romanos 16:22)." },
+
+  "lugar": { "nombre": "Roma, escrita desde Corinto", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Escribe a Roma antes de ir, para explicar el evangelio." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Murió por nuestros pecados y resucitó; en él hay vida y paz." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Creyó a Dios, y eso le fue contado por justicia." },
+    { "id": "adan", "nombre": "Adán", "linea": "Por él entró el pecado; por Cristo llega la vida." },
+    { "id": "elias", "nombre": "Elías", "linea": "Se creyó solo, pero Dios tenía siete mil fieles." },
+    { "id": "priscila-y-aquila", "nombre": "Priscila y Aquila", "linea": "Arriesgaron su vida por Pablo; en su casa se reúne una iglesia." }
+  ],
+
+  "eventos": [
+    { "texto": "El evangelio, poder de Dios para todo creyente", "ref": "Romanos 1:16-17" },
+    { "texto": "Todos pecaron; Dios justifica gratis por su gracia", "ref": "Romanos 3:21-26" },
+    { "texto": "Abraham creyó a Dios y fue contado justo", "ref": "Romanos 4:1-25" },
+    { "texto": "Cristo murió por nosotros siendo aún pecadores", "ref": "Romanos 5:6-11" },
+    { "texto": "Nada nos puede separar del amor de Dios", "ref": "Romanos 8:31-39" },
+    { "texto": "Sacrificio vivo: vencer con el bien el mal", "ref": "Romanos 12:1-21" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una carta para Roma",
+      "texto": "Pablo nunca ha estado en Roma, pero desea ir. Antes del viaje, escribe a los creyentes de allí. Quiere explicarles la buena noticia con calma. Dice: «no me avergüenzo del evangelio». Es poder de Dios para salvar a todo el que cree, judío o no judío."
+    },
+    {
+      "subtitulo": "Todos necesitamos a Dios",
+      "texto": "Pablo muestra que nadie puede salvarse solo. Muchos pueblos conocieron a Dios por la creación, pero se alejaron de él. Los que tenían la ley tampoco la cumplieron. «Por cuanto todos pecaron», todos necesitamos gracia. Y Dios la da gratis: nos declara justos por medio de Jesús. Pablo lo llama justificación."
+    },
+    {
+      "subtitulo": "La fe de Abraham",
+      "texto": "¿Cómo fue aceptado Abraham? No por sus obras. Creyó la promesa de Dios, aunque tenía casi cien años. Eso le fue contado por justicia. Así también nosotros creemos en Dios, que resucitó a Jesús. Por eso tenemos paz con Dios. Y su amor se derrama en nuestro corazón por el Espíritu Santo."
+    },
+    {
+      "subtitulo": "De muerte a vida",
+      "texto": "Por Adán entraron el pecado y la muerte. Por Jesús llegan la gracia y la vida. En el bautismo morimos con Cristo para vivir una vida nueva. Pablo confiesa su lucha: «no hago el bien que quiero». Pero no se queda en la tristeza. Da gracias, porque Jesús lo libra."
+    },
+    {
+      "subtitulo": "Nada nos separa",
+      "texto": "En el capítulo 8 llega la gran noticia: «ninguna condenación hay» para los que están en Cristo. El Espíritu nos hace hijos por adopción, y podemos decir «Abba, Padre». Dios hace que todo ayude a bien a los que lo aman. Nada, ni la muerte ni la vida, nos podrá apartar de su amor."
+    },
+    {
+      "subtitulo": "Un amor que se vive",
+      "texto": "Pablo sufre por su pueblo, Israel, y ora por ellos. Dios no los ha desechado: «son muy amados por causa de los padres». Luego enseña a vivir: ser un sacrificio vivo, amar sin fingir, bendecir al que persigue y acoger al débil. Al final saluda a muchos amigos, hombres y mujeres, que sirven a Cristo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús es descendiente de David, como prometieron los profetas, y resucitó con poder. Es el nuevo Adán: donde Adán trajo muerte, él trae vida. Y «siendo aún pecadores, Cristo murió por nosotros». Ese amor alcanza por igual a judíos y a no judíos.",
+    "refs": ["Romanos 1:3-4", "Romanos 5:8"]
+  },
+
+  "mundo": "Roma era la capital del imperio y una de las ciudades más grandes del mundo. Pocos años antes, el emperador Claudio había expulsado de Roma a los judíos. Por eso Aquila y Priscila llegaron a Corinto.",
+
+  "antes": "Pablo escribió otra vez a Corinto desde Macedonia. Después pasó tres meses en Grecia.",
+  "despues": "Pablo lleva la ofrenda a Jerusalén. Allí lo arrestan, y llegará a Roma como prisionero.",
+
+  "conexiones": [
+    { "ref": "Génesis 15:6", "motivo": "Abraham creyó a Dios; Pablo lo pone como ejemplo de fe." },
+    { "ref": "Habacuc 2:4", "motivo": "El profeta ya dijo que el justo vivirá por su fe." },
+    { "ref": "Génesis 50:20", "motivo": "Como con José, Dios encamina a bien lo que parecía mal." },
+    { "ref": "Juan 3:16", "motivo": "Tanto amó Dios al mundo que dio a su Hijo." }
+  ],
+
+  "glosario": ["evangelio", "justificacion", "gracia", "fe", "adopcion"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee Romanos 8:31-39 cada noche antes de dormir.",
+    "pregunta": "¿Qué te hace sentir lejos del amor de Dios?"
+  },
+
+  "meditar": "Padre, gracias porque me aceptas por tu gracia, no por mis méritos. Nada me separará de tu amor en Cristo. Que mi vida sea una ofrenda viva. Amén.",
+
+  "ninos": {
+    "pregunta": "Pablo dice que nada nos separa del amor de Dios. ¿Qué cosas te dan miedo?",
+    "actividad": "Dibuja un corazón grande y, alrededor, lo que no puede separarte del amor de Dios."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A qué ciudad escribió Pablo esta carta?",
+      "opciones": ["A Corinto", "A Roma", "A Jerusalén"],
+      "correcta": 1,
+      "explicacion": "La carta va dirigida «A todos los que estáis en Roma» (Romanos 1:7).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Romanos 8, ¿qué puede separarnos del amor de Dios?",
+      "opciones": ["Nada ni nadie", "La muerte", "El sufrimiento"],
+      "correcta": 0,
+      "explicacion": "Ni la muerte ni la vida ni ninguna criatura nos podrá apartar de su amor (Romanos 8:38-39).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿A qué personaje del Génesis pone Pablo como ejemplo de fe?",
+      "opciones": ["A Noé", "A José", "A Abraham"],
+      "correcta": 2,
+      "explicacion": "Abraham creyó a Dios, y eso le fue contado por justicia (Génesis 15:6; Romanos 4:3).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Rom.3", "Rom.5", "Rom.8", "Rom.12"], "minutos": 15 },
+
+  "notaEcumenica": "En 1999, la Iglesia católica y las iglesias luteranas firmaron una declaración común. Dicen juntas que Dios nos acepta solo por gracia, por la fe en Cristo, no por nuestros méritos.",
+
+  "temas": ["gracia", "fe", "amor-de-dios", "esperanza", "espiritu-santo"],
+  "cadenas": ["la-promesa-a-abraham", "el-espiritu"]
+}

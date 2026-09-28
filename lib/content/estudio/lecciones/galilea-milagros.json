@@ -1,0 +1,145 @@
+{
+  "id": "galilea-milagros",
+  "orden": 57,
+  "seccion": "jesus",
+  "formato": "completo",
+  "titulo": "Milagros en Galilea y los Doce",
+  "pasajes": ["Matt.8.1-Matt.12.50", "Matt.13.53-Matt.18.35", "Mark.2.1-Mark.9.50", "Luke.5.1-Luke.6.16", "Luke.7.1-Luke.9.50", "John.5.1-John.6.71"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Jesús sana enfermos, perdona pecados, calma la tempestad y da de comer a una multitud.",
+    "Escoge a doce apóstoles, y Pedro confiesa: «Tú eres el Cristo, el Hijo del Dios viviente».",
+    "Dios revela en Jesús su poder y su compasión: donde él llega, llega el reino."
+  ],
+
+  "versiculo": {
+    "texto": "Y respondiendo Simón Pedro, dijo: Tú eres el Cristo, el Hijo del Dios viviente.",
+    "referencia": "Mateo 16:16",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 28–29 d.C.",
+    "desde": 28,
+    "hasta": 29,
+    "certeza": "aprox"
+  },
+
+  "lugar": { "nombre": "Capernaum y el mar de Galilea", "mapa": "jesus" },
+
+  "personajes": [
+    { "id": "jesus", "nombre": "Jesús", "linea": "Sana, perdona y alimenta; sus milagros muestran quién es." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "Camina sobre el agua y confiesa que Jesús es el Cristo." },
+    { "id": "mateo", "nombre": "Mateo (Leví)", "linea": "Cobrador de impuestos que deja su mesa para seguir a Jesús." },
+    { "id": "juan-apostol", "nombre": "Juan", "linea": "Con Pedro y Santiago, ve a Jesús transfigurado en el monte." },
+    { "id": "maria-magdalena", "nombre": "María Magdalena", "linea": "Liberada por Jesús, lo sigue y lo ayuda con sus bienes." },
+    { "id": "juan-el-bautista", "nombre": "Juan el Bautista", "linea": "Desde la cárcel pregunta por Jesús; muere por orden de Herodes." },
+    { "id": "herodes-antipas", "nombre": "Herodes Antipas", "linea": "Gobernante de Galilea que manda matar a Juan el Bautista." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús calma la tempestad en el mar", "ref": "Mateo 8:23-27" },
+    { "texto": "Jesús perdona y sana a un paralítico", "ref": "Marcos 2:1-12" },
+    { "texto": "Jesús escoge a doce apóstoles", "ref": "Lucas 6:12-16" },
+    { "texto": "Jesús sana a una mujer y levanta a una niña", "ref": "Marcos 5:21-43" },
+    { "texto": "Alimenta a cinco mil y camina sobre el mar", "ref": "Mateo 14:13-33" },
+    { "texto": "Pedro confiesa que Jesús es el Cristo", "ref": "Mateo 16:13-20" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "¿Quién es este?",
+      "texto": "En Capernaum, Jesús sana a muchos enfermos. Un día, cuatro amigos bajan a un paralítico por el techo. Jesús le dice: «tus pecados te son perdonados». Después lo levanta, y el hombre sale caminando. En el lago, Jesús calma una tempestad con una palabra. Los discípulos se preguntan quién es este."
+    },
+    {
+      "subtitulo": "Doce enviados",
+      "texto": "Jesús llama a Mateo, un publicano, es decir, un cobrador de impuestos. Come con pecadores y dice: «Misericordia quiero, y no sacrificio». Después pasa la noche orando en un monte. Al amanecer escoge a doce apóstoles. Más tarde los envía de dos en dos a anunciar el reino y a sanar."
+    },
+    {
+      "subtitulo": "Tu fe te ha salvado",
+      "texto": "Jairo, un jefe de la sinagoga, ruega por su hija. En el camino, una mujer enferma desde hace doce años toca el manto de Jesús y queda sana. Jesús le dice: «Hija, tu fe te ha hecho salva». Llega la noticia de que la niña ha muerto. Jesús la toma de la mano y la levanta."
+    },
+    {
+      "subtitulo": "Pan para miles",
+      "texto": "Juan el Bautista muere en la cárcel por orden de Herodes Antipas. Jesús busca un lugar tranquilo, pero la gente lo sigue. Siente compasión y los sana. Con cinco panes y dos peces da de comer a cinco mil hombres, sin contar mujeres y niños. Esa noche camina sobre el mar."
+    },
+    {
+      "subtitulo": "El pan de vida",
+      "texto": "Al día siguiente, Jesús explica la señal: «Yo soy el pan de vida». Muchos no aceptan sus palabras y dejan de seguirlo. Jesús pregunta a los Doce si ellos también quieren irse. Pedro responde: «Señor, ¿a quién iremos? tú tienes palabras de vida eterna»."
+    },
+    {
+      "subtitulo": "Tú eres el Cristo",
+      "texto": "Cerca de Cesarea de Filipo, Jesús pregunta: «¿quién decís que soy?». Pedro responde que es el Cristo, el Hijo de Dios. Jesús anuncia que sufrirá, morirá y resucitará. Seis días después, en un monte alto, su rostro brilla como el sol ante Pedro, Santiago y Juan. El Padre pide escucharlo."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "Matt", "texto": "Reúne diez milagros en los capítulos 8 y 9. Solo Mateo cuenta que Pedro camina sobre el agua." },
+    { "libro": "Mark", "texto": "Cuenta con detalles vivos: el techo abierto, las palabras «Talitha cumi» y la mirada de Jesús." },
+    { "libro": "Luke", "texto": "Solo Lucas narra cómo Jesús devuelve el hijo a la viuda de Naín. Nombra a las mujeres que lo ayudaban." },
+    { "libro": "John", "texto": "Cuenta la sanación junto al estanque de Betesda y el gran discurso del pan de vida." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Mateo ve cumplida aquí la profecía de Isaías: «El mismo tomó nuestras enfermedades». Los milagros son señales: muestran quién es Jesús y cómo es el reino. Donde él llega, el pecado se perdona, el mal retrocede y la muerte no tiene la última palabra.",
+    "refs": ["Isaías 53:4", "Mateo 11:5"]
+  },
+
+  "mundo": "Herodes Antipas gobierna Galilea desde Tiberíades, una ciudad nueva junto al lago. Hay mucho ir y venir de barcas y pescadores. Así, la fama de Jesús corre de pueblo en pueblo.",
+
+  "antes": "En el monte, Jesús enseñó las bienaventuranzas y el Padrenuestro, y contó parábolas del reino.",
+  "despues": "Jesús decide ir a Jerusalén. En el camino cuenta parábolas y devuelve la vida a su amigo Lázaro.",
+
+  "conexiones": [
+    { "ref": "Isaías 53:4", "motivo": "El siervo de Dios cargaría nuestras enfermedades y dolores." },
+    { "ref": "Oseas 6:6", "motivo": "Jesús repite esta palabra al comer con pecadores: Dios quiere misericordia." },
+    { "ref": "Isaías 35:5-6", "motivo": "Isaías anunció ciegos que ven y cojos que saltan de alegría." },
+    { "ref": "Deuteronomio 18:15", "motivo": "Moisés anunció un profeta como él; Jesús dice que Moisés escribió de él." }
+  ],
+
+  "glosario": ["milagro", "apostol", "publicano", "cristo", "sinagoga"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, lee en el app “Los 43 Milagros de Jesús” y cuenta uno en familia.",
+    "pregunta": "¿Qué tormenta de tu vida necesitas poner hoy en manos de Jesús?"
+  },
+
+  "meditar": "Señor Jesús, tú calmas el mar y das pan al que tiene hambre. Aumenta mi fe cuando tenga miedo. Solo tú tienes palabras de vida eterna. Amén.",
+
+  "ninos": {
+    "pregunta": "Un muchacho tenía cinco panes y dos peces, y Jesús alimentó a miles. ¿Qué puedes compartir tú?",
+    "actividad": "Dibuja cinco panes y dos peces, y escribe en ellos cosas que puedes compartir."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué comida había cuando Jesús alimentó a cinco mil hombres?",
+      "opciones": ["Doce panes y un pez", "Cinco panes y dos peces", "Tres panes y cinco peces"],
+      "correcta": 1,
+      "explicacion": "Solo tenían cinco panes y dos peces, y sobraron doce cestas (Mateo 14:17-20).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué respondió Pedro cuando Jesús preguntó quién era él?",
+      "opciones": ["Que era Elías, que había vuelto", "Que era un gran maestro de Galilea", "Que era el Cristo, el Hijo de Dios"],
+      "correcta": 2,
+      "explicacion": "Pedro confesó: «Tú eres el Cristo, el Hijo del Dios viviente» (Mateo 16:16).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que el siervo de Dios cargaría nuestras enfermedades?",
+      "opciones": ["Isaías", "Jonás", "Amós"],
+      "correcta": 0,
+      "explicacion": "Mateo 8:17 cita Isaías 53:4 al contar cómo Jesús sanaba a los enfermos.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Matt.8", "Matt.9", "Mark.5", "Matt.14", "John.6", "Matt.16", "Matt.17"], "minutos": 30 },
+
+  "notaEcumenica": "Mateo 16:18 se lee de modos distintos. La tradición católica ve en Pedro la roca y un servicio de unidad en la Iglesia. Muchos evangélicos ven la roca en la fe que Pedro confiesa.",
+
+  "temas": ["fe", "reino-de-dios", "misericordia", "perdon", "discipulado"],
+  "cadenas": ["el-pan-de-vida", "el-reino"]
+}

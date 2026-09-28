@@ -1,0 +1,146 @@
+{
+  "id": "eclesiastes",
+  "orden": 22,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "Eclesiastés: ¿qué da sentido a la vida?",
+  "pasajes": ["Eccl.1.1-Eccl.12.14"],
+  "libros": ["Eccl"],
+
+  "enUnMinuto": [
+    "El Predicador busca la felicidad en el saber, el placer, el trabajo y el dinero.",
+    "Descubre que todo pasa como un soplo, pero que la vida es un regalo de Dios.",
+    "Dios revela que solo en él la vida tiene sentido, más allá de lo que se ve."
+  ],
+
+  "versiculo": {
+    "texto": "El fin de todo el discurso oído es este: Teme a Dios, y guarda sus mandamientos; porque esto es el todo del hombre.",
+    "referencia": "Eclesiastés 12:13",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 935 a.C., según la tradición",
+    "desde": -940,
+    "hasta": -930,
+    "certeza": "debatida",
+    "nota": "La tradición lo atribuye a Salomón en su vejez. Muchos estudiosos piensan que se escribió siglos después."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 935 a.C., según la tradición",
+    "desde": -940,
+    "hasta": -930,
+    "certeza": "debatida",
+    "nota": "Otros estudiosos proponen una fecha mucho más tardía, después del exilio."
+  },
+
+  "autor": {
+    "texto": "El Predicador, «hijo de David»; la tradición lo identifica con Salomón.",
+    "nota": "Muchos estudiosos piensan que un sabio posterior escribió con la voz de Salomón."
+  },
+
+  "lugar": { "nombre": "Jerusalén, en la corte del rey", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "salomon", "nombre": "Salomón", "linea": "Según la tradición, es el Predicador que escribe en su vejez." },
+    { "id": "david", "nombre": "David", "linea": "El libro presenta al Predicador como «hijo de David»." },
+    { "id": "roboam", "nombre": "Roboam", "linea": "Hijo de Salomón; el Predicador se pregunta si su heredero será sabio." }
+  ],
+
+  "eventos": [
+    { "texto": "El Predicador ve que todo pasa como un soplo", "ref": "Eclesiastés 1:1-11" },
+    { "texto": "Busca la felicidad en placeres, obras y riquezas", "ref": "Eclesiastés 2:1-11" },
+    { "texto": "Todo tiene su tiempo bajo el cielo", "ref": "Eclesiastés 3:1-11" },
+    { "texto": "Mejor dos que uno: el valor de la compañía", "ref": "Eclesiastés 4:9-12" },
+    { "texto": "Acuérdate de tu Creador en tu juventud", "ref": "Eclesiastés 12:1-7" },
+    { "texto": "Conclusión: teme a Dios y guarda sus mandamientos", "ref": "Eclesiastés 12:13-14" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Todo es un soplo",
+      "texto": "El libro habla con la voz del Predicador, «hijo de David, rey en Jerusalem». Empieza con un grito: «Vanidad de vanidades». La palabra hebrea significa soplo o neblina: algo que no dura. El sol sale y se pone, los ríos van al mar, y «nada hay nuevo debajo del sol»."
+    },
+    {
+      "subtitulo": "Lo probó todo",
+      "texto": "El Predicador busca la felicidad por todos los caminos. Busca la sabiduría y aprende mucho. Construye casas, planta viñas y junta oro y plata. No se niega ningún placer. Al final mira todo lo que hizo, y le parece como correr tras el viento. Nada de eso llena el corazón."
+    },
+    {
+      "subtitulo": "Un tiempo para todo",
+      "texto": "«Para todas las cosas hay sazón»: tiempo de llorar y tiempo de reír, tiempo de callar y tiempo de hablar. Dios hizo todo hermoso en su tiempo. Pero nosotros no vemos el cuadro completo. Por eso conviene vivir con humildad. Eso es el temor de Dios: confiar en que él sabe más."
+    },
+    {
+      "subtitulo": "Mejor dos que uno",
+      "texto": "El Predicador ve injusticias, trabajo sin descanso y personas solas. Aconseja: «Mejores son dos que uno». Si uno cae, el otro lo levanta. Un cordón de tres hilos no se rompe fácilmente. Advierte también que quien ama el dinero nunca tiene bastante."
+    },
+    {
+      "subtitulo": "Disfrutar el regalo",
+      "texto": "Aun así, el libro no es triste. Invita a comer el pan con gozo y a disfrutar del trabajo. Todo eso es «de la mano de Dios». La vida es corta, pero es un regalo. Hay que vivirla con alegría, con sencillez y con gratitud."
+    },
+    {
+      "subtitulo": "El fin del discurso",
+      "texto": "Al final, el Predicador habla a los jóvenes: «acuérdate de tu Criador en los días de tu juventud». Llegará la vejez, y el espíritu volverá a Dios que lo dio. Su conclusión es sencilla: «Teme a Dios, y guarda sus mandamientos». Sin Dios, todo es soplo. Con él, la vida tiene sentido."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Eclesiastés deja una pregunta abierta: ¿qué queda cuando todo pasa? Jesús responde que vino para que tengamos vida, «y para que la tengan en abundancia». Y como Jesús resucitó, Pablo puede decir que el trabajo hecho en el Señor «no es vano».",
+    "refs": ["Juan 10:10", "1 Corintios 15:58"]
+  },
+
+  "mundo": "Otros pueblos antiguos también escribían sobre la brevedad de la vida. En Mesopotamia, un poema famoso cuenta cómo el rey Gilgamés busca en vano no morir nunca.",
+
+  "antes": "Cantares celebró el amor como un regalo de Dios, fuerte como la muerte.",
+  "despues": "Después de Salomón, el reino se divide en dos, y Dios envía profetas como Elías.",
+
+  "conexiones": [
+    { "ref": "Colosenses 3:23", "motivo": "Hacer cada tarea con ganas, como para el Señor." },
+    { "ref": "Génesis 2:18", "motivo": "Desde el principio, no es bueno que el hombre esté solo." },
+    { "ref": "Mateo 6:19", "motivo": "Jesús advierte contra los tesoros de la tierra, que no duran." },
+    { "ref": "Romanos 8:20", "motivo": "La creación sufre lo pasajero, pero con esperanza." }
+  ],
+
+  "glosario": ["temor-de-dios", "sabiduria", "mandamiento"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, escribe cada noche un regalo sencillo de Dios que disfrutaste ese día.",
+    "pregunta": "¿Qué estás persiguiendo que, al final, es solo viento?"
+  },
+
+  "meditar": "Señor, todo pasa, pero tú permaneces. Enséñame a disfrutar tus regalos con gratitud y a buscar en ti el sentido de mi vida. Amén.",
+
+  "ninos": {
+    "pregunta": "Hay tiempo de llorar y tiempo de reír. ¿Qué te hace reír a ti?",
+    "actividad": "Hagan burbujas de jabón. Hablen de lo que dura poco y de lo que dura para siempre."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué frase repite mucho el Predicador en Eclesiastés?",
+      "opciones": ["Vanidad de vanidades", "Oye, hijo mío", "Levántate y vente"],
+      "correcta": 0,
+      "explicacion": "Así empieza el libro: «Vanidad de vanidades, dijo el Predicador» (Eclesiastés 1:2).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Eclesiastés 3, ¿qué tiene cada cosa en la vida?",
+      "opciones": ["Un precio", "Su tiempo", "Un dueño"],
+      "correcta": 1,
+      "explicacion": "«Para todas las cosas hay sazón»: tiempo de llorar y tiempo de reír (Eclesiastés 3:1-4).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Juan 10:10, ¿para qué vino Jesús?",
+      "opciones": ["Para darnos riquezas", "Para darnos una ley nueva", "Para darnos vida en abundancia"],
+      "correcta": 2,
+      "explicacion": "Jesús vino para que tengamos vida, y vida en abundancia: la respuesta a la pregunta del Predicador.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Eccl.1", "Eccl.2", "Eccl.3", "Eccl.12"], "minutos": 10 },
+
+  "temas": ["sabiduria", "esperanza", "gratitud", "sentido-de-la-vida"],
+  "cadenas": ["la-sabiduria"]
+}

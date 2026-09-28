@@ -1,0 +1,126 @@
+{
+  "id": "habacuc",
+  "orden": 37,
+  "seccion": "reino-dividido",
+  "formato": "breve",
+  "titulo": "Habacuc: el justo vivirá por la fe",
+  "pasajes": ["Hab.1.1-Hab.3.19"],
+  "libros": ["Hab"],
+
+  "enUnMinuto": [
+    "Habacuc le pregunta a Dios por qué no hace nada ante la violencia en Judá.",
+    "Dios le responde que usará a Babilonia, y le enseña que el justo vivirá por su fe.",
+    "Dios revela que escucha las preguntas sinceras y que se puede confiar en él aun sin entenderlo todo."
+  ],
+
+  "versiculo": {
+    "texto": "He aquí se enorgullece aquel cuya alma no es derecha en él: mas el justo en su fe vivirá.",
+    "referencia": "Habacuc 2:4",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 610–600 a.C.",
+    "desde": -610,
+    "hasta": -600,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 610–600 a.C.",
+    "desde": -610,
+    "hasta": -600,
+    "certeza": "aprox"
+  },
+
+  "autor": { "texto": "El profeta Habacuc (Habacuc 1:1).", "nota": "El libro no cuenta nada más de su vida." },
+
+  "lugar": { "nombre": "Judá, antes de la invasión babilónica", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "habacuc", "nombre": "Habacuc", "linea": "Profeta que pregunta a Dios por el mal y aprende a confiar." },
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Rey de los caldeos; su ejército pronto llegará a Judá." },
+    { "id": "pablo", "nombre": "Pablo", "linea": "Siglos después, cita Habacuc 2:4 para explicar el evangelio." }
+  ],
+
+  "eventos": [
+    { "texto": "Habacuc pregunta: ¿hasta cuándo, Señor?", "ref": "Habacuc 1:1-4" },
+    { "texto": "Dios anuncia que levantará a los caldeos", "ref": "Habacuc 1:5-11" },
+    { "texto": "Dios responde: el justo vivirá por su fe", "ref": "Habacuc 2:1-4" },
+    { "texto": "Habacuc canta: me alegraré en Dios", "ref": "Habacuc 3:17-19" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "¿Hasta cuándo?",
+      "texto": "Habacuc vive en Judá en años difíciles. Ve violencia e injusticia, y los jueces tuercen la ley. Le pregunta a Dios: «¿Hasta cuándo?». Dios le responde algo inesperado: levantará a los caldeos, el pueblo de Babilonia, para corregir a Judá."
+    },
+    {
+      "subtitulo": "Esperar en la torre",
+      "texto": "Habacuc se sorprende todavía más. ¿Cómo usará Dios a un pueblo más cruel que Judá? Sube a su puesto de guardia a esperar la respuesta. Dios le dice que escriba la visión: se cumplirá a su tiempo. El orgulloso caerá, pero el justo vivirá por su fe."
+    },
+    {
+      "subtitulo": "Aunque la higuera no florezca",
+      "texto": "El libro termina con una oración cantada. Habacuc recuerda cómo Dios salvó a su pueblo en el pasado. Aunque no haya fruto ni ganado, él se alegrará en Dios. El Señor es su fuerza y lo hace andar seguro, como un ciervo en las alturas."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo usa Habacuc 2:4 para explicar el evangelio: «el justo vivirá por la fe». La salvación no se gana; se recibe confiando en Jesús. Hebreos también cita a Habacuc para animar a esperar a Cristo con fe.",
+    "refs": ["Romanos 1:17", "Hebreos 10:37-38"]
+  },
+
+  "mundo": "Los caldeos gobiernan Babilonia. En el 612 a.C. destruyeron Nínive con ayuda de los medos. En el 605 a.C. vencieron a Egipto en Carquemis.",
+
+  "antes": "Jeremías lloró por Jerusalén y anunció un pacto nuevo, escrito en el corazón.",
+  "despues": "Babilonia rodea Jerusalén, la conquista en el 586 a.C. y se lleva cautivo al pueblo.",
+
+  "conexiones": [
+    { "ref": "Gálatas 3:11", "motivo": "Pablo repite que el justo vive por la fe, no por sus obras." },
+    { "ref": "Filipenses 4:4", "motivo": "Como Habacuc, Pablo invita a alegrarse en el Señor siempre." },
+    { "ref": "Isaías 11:9", "motivo": "La tierra se llenará del conocimiento de Dios, como el mar." }
+  ],
+
+  "glosario": ["fe", "vision", "babilonia"],
+
+  "paraTuVida": {
+    "aplicacion": "Escribe en un papel tu pregunta más difícil para Dios y, debajo, copia Habacuc 3:18.",
+    "pregunta": "¿Puedes alegrarte en Dios aunque algo en tu vida no florezca?"
+  },
+
+  "meditar": "Señor, a veces no entiendo lo que pasa. Como Habacuc, te traigo mis preguntas. Aunque falte el fruto, quiero alegrarme en ti y vivir por la fe. Amén.",
+
+  "ninos": {
+    "pregunta": "Habacuc le hizo preguntas difíciles a Dios. ¿Qué pregunta le harías tú?",
+    "actividad": "Dibuja un árbol sin frutos y escribe al lado: «yo me alegraré en Jehová»."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué le preguntaba Habacuc a Dios al ver tanta violencia?",
+      "opciones": ["¿Por qué me llamaste?", "¿Hasta cuándo clamaré?", "¿Cuándo volverá el rey?"],
+      "correcta": 1,
+      "explicacion": "Habacuc empieza su libro con esa queja sincera (Habacuc 1:2).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué pueblo dijo Dios que levantaría contra Judá?",
+      "opciones": ["Los caldeos", "Los egipcios", "Los asirios"],
+      "correcta": 0,
+      "explicacion": "Los caldeos eran el pueblo de Babilonia (Habacuc 1:6).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién cita a Habacuc para decir que el justo vivirá por la fe?",
+      "opciones": ["Moisés, en Deuteronomio", "David, en los Salmos", "Pablo, en Romanos"],
+      "correcta": 2,
+      "explicacion": "Pablo cita Habacuc 2:4 en Romanos 1:17 para explicar el evangelio.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Hab.1", "Hab.2", "Hab.3"], "minutos": 7 },
+
+  "temas": ["fe", "esperanza", "oracion", "sufrimiento"],
+  "cadenas": ["el-justo-por-la-fe"]
+}

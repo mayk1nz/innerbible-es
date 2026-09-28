@@ -1,0 +1,148 @@
+{
+  "id": "2-timoteo",
+  "orden": 82,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "2 Timoteo: termina bien la carrera",
+  "pasajes": ["2Tim.1.1-2Tim.4.22"],
+  "libros": ["2Tim"],
+
+  "enUnMinuto": [
+    "Preso en Roma y cerca de morir, Pablo escribe su última carta a Timoteo.",
+    "Le pide no avergonzarse, sufrir con valor, guardar la Palabra y pasar la fe a otros.",
+    "Dios revela que sigue fiel aunque fallemos y que guarda a los suyos hasta el final."
+  ],
+
+  "versiculo": {
+    "texto": "He peleado la buena batalla, he acabado la carrera, he guardado la fe.",
+    "referencia": "2 Timoteo 4:7",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 64–67 d.C.",
+    "desde": 64,
+    "hasta": 67,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 64–67 d.C.",
+    "desde": 64,
+    "hasta": 67,
+    "certeza": "debatida",
+    "nota": "Es la fecha tradicional, poco antes de la muerte de Pablo en Roma. Otros estudiosos proponen una fecha más tardía."
+  },
+
+  "autor": {
+    "texto": "El apóstol Pablo (2 Timoteo 1:1)",
+    "nota": "Así lo dice la carta y así la recibió la tradición. Algunos estudiosos piensan en un discípulo de Pablo."
+  },
+
+  "lugar": { "nombre": "Una prisión en Roma", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Preso y cerca del final; mira su vida con paz." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Su «amado hijo»; recibe la tarea de seguir enseñando." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Resucitado; venció a la muerte y permanece fiel." },
+    { "id": "lucas", "nombre": "Lucas", "linea": "El único compañero que sigue junto a Pablo en la prisión." },
+    { "id": "juan-marcos", "nombre": "Marcos", "linea": "Antes falló a Pablo; ahora Pablo lo llama útil." },
+    { "id": "priscila-y-aquila", "nombre": "Priscila y Aquila", "linea": "Viejos amigos a quienes Pablo envía su último saludo." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo recuerda la fe de Loida, Eunice y Timoteo", "ref": "2 Timoteo 1:3-7" },
+    { "texto": "Pide pasar la enseñanza a personas fieles", "ref": "2 Timoteo 2:1-7" },
+    { "texto": "Anuncia tiempos difíciles en los últimos días", "ref": "2 Timoteo 3:1-9" },
+    { "texto": "Toda la Escritura es inspirada por Dios", "ref": "2 Timoteo 3:14-17" },
+    { "texto": "Pablo ha terminado la carrera y guardado la fe", "ref": "2 Timoteo 4:6-8" },
+    { "texto": "Solo Lucas acompaña a Pablo en su prisión", "ref": "2 Timoteo 4:9-18" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una carta desde la cárcel",
+      "texto": "Pablo está preso en Roma por anunciar el evangelio. Sabe que pronto morirá. Escribe a Timoteo, su «amado hijo», y le dice que ora por él noche y día. Recuerda sus lágrimas y la fe sincera de su abuela Loida y de su madre Eunice."
+    },
+    {
+      "subtitulo": "Sin miedo",
+      "texto": "Pablo anima a Timoteo a avivar el don de Dios que hay en él. Le dice: «no nos ha dado Dios el espíritu de temor». Dios nos da fuerza, amor y dominio propio. Pablo no se avergüenza de sus cadenas, porque sabe en quién ha creído."
+    },
+    {
+      "subtitulo": "Soldado, atleta y labrador",
+      "texto": "«Esfuérzate en la gracia», le pide Pablo. Timoteo debe enseñar a personas fieles, que luego enseñen a otros. Pablo usa tres imágenes: el soldado obedece, el atleta respeta las reglas y el labrador trabaja duro. Y le da una promesa: aunque seamos infieles, Jesús «permanece fiel»."
+    },
+    {
+      "subtitulo": "Tiempos difíciles",
+      "texto": "Vendrán días en que muchos amarán el dinero y el placer más que a Dios. Parecerán religiosos, pero sin la fuerza de la fe. Timoteo debe seguir firme en lo que aprendió desde niño. «Toda Escritura es inspirada divinamente», y sirve para enseñar, corregir y formar en el bien."
+    },
+    {
+      "subtitulo": "Anuncia la Palabra",
+      "texto": "Pablo le encarga con fuerza: predica la Palabra, a tiempo y fuera de tiempo. Algunos solo querrán oír lo que les gusta. Timoteo debe tener paciencia y cumplir bien su servicio. Pablo siente que su vida ya se ofrece a Dios como una ofrenda."
+    },
+    {
+      "subtitulo": "La carrera terminada",
+      "texto": "Pablo mira atrás con paz: peleó la buena batalla, terminó la carrera y guardó la fe. Le espera una corona que el Señor dará a todos los que aman su venida. Muchos lo dejaron solo, pero el Señor estuvo a su lado. Pide a Timoteo que venga pronto con Marcos."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo le pide a Timoteo que se acuerde de Jesucristo, descendiente de David, resucitado de los muertos. Jesús quitó a la muerte su poder y sacó a la luz la vida. Por eso Pablo no teme morir. Jesús mismo dijo: «Yo soy la resurrección y la vida».",
+    "refs": ["2 Timoteo 1:10", "Juan 11:25-26"]
+  },
+
+  "mundo": "Nerón sigue persiguiendo a los cristianos de Roma. Muere en el año 68 d.C. Según la tradición, Pablo murió en Roma como mártir durante esos años.",
+
+  "antes": "Pedro escribió a cristianos que sufrían para darles una esperanza viva.",
+  "despues": "Pedro escribe su segunda carta: crecer en la gracia y no olvidar las promesas de Dios.",
+
+  "conexiones": [
+    { "ref": "Romanos 15:4", "motivo": "Lo que se escribió antes fue escrito para enseñarnos y darnos esperanza." },
+    { "ref": "Hebreos 4:12", "motivo": "La palabra de Dios es viva y llega hasta el corazón." },
+    { "ref": "1 Juan 4:18", "motivo": "El amor perfecto echa fuera el temor." },
+    { "ref": "1 Timoteo 6:12", "motivo": "Pablo ya había pedido a Timoteo pelear la buena batalla de la fe." }
+  ],
+
+  "glosario": ["evangelio", "gracia", "apostol", "resurreccion"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, comparte con alguien más joven un versículo que te ayudó y cuéntale por qué.",
+    "pregunta": "¿Cómo te gustaría terminar tu propia carrera de fe?"
+  },
+
+  "meditar": "Señor Jesús, tú permaneces fiel aunque yo falle. Dame valor para no avergonzarme de ti y fuerza para terminar bien mi carrera. Amén.",
+
+  "ninos": {
+    "pregunta": "Timoteo aprendió la fe de su abuela y de su mamá. ¿Quién te enseña a ti sobre Dios?",
+    "actividad": "Haz una tarjeta de gracias para esa persona y entrégasela esta semana."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Cómo se llamaban la abuela y la madre de Timoteo?",
+      "opciones": ["Loida y Eunice", "María y Marta", "Priscila y Lidia"],
+      "correcta": 0,
+      "explicacion": "Pablo recuerda la fe sincera de la abuela Loida y la madre Eunice (2 Timoteo 1:5).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Quién era el único que acompañaba a Pablo al final?",
+      "opciones": ["Demas", "Lucas", "Tito"],
+      "correcta": 1,
+      "explicacion": "«Lucas solo está conmigo», escribe Pablo. Demas lo había dejado (2 Timoteo 4:10-11).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Cómo describe Hebreos 4:12 la palabra de Dios?",
+      "opciones": ["Difícil de entender", "Solo para los sabios", "Viva y eficaz"],
+      "correcta": 2,
+      "explicacion": "La Escritura viene de Dios (2 Timoteo 3:16) y obra con vida en nosotros.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["2Tim.1", "2Tim.2", "2Tim.3", "2Tim.4"], "minutos": 9 },
+
+  "temas": ["fe", "valentia", "sufrimiento", "escrituras", "esperanza"],
+  "cadenas": ["la-buena-batalla", "la-palabra-de-dios"]
+}

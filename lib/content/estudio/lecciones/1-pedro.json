@@ -1,0 +1,147 @@
+{
+  "id": "1-pedro",
+  "orden": 81,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "1 Pedro: esperanza en el sufrimiento",
+  "pasajes": ["1Pet.1.1-1Pet.5.14"],
+  "libros": ["1Pet"],
+
+  "enUnMinuto": [
+    "Pedro escribe a cristianos dispersos que sufren burlas y maltrato por su fe.",
+    "Les recuerda su esperanza viva y les enseña a hacer el bien, aun cuando sufren.",
+    "Dios revela que cuida de los suyos y que, después de un poco de dolor, los hará firmes."
+  ],
+
+  "versiculo": {
+    "texto": "Mas el Dios de toda gracia, que nos ha llamado a su gloria eterna por Jesucristo, después que hubiereis un poco de tiempo padecido, él mismo os perfeccione, confirme, corrobore y establezca.",
+    "referencia": "1 Pedro 5:10",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 62–64 d.C.",
+    "desde": 62,
+    "hasta": 64,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrita c. 62–64 d.C.",
+    "desde": 62,
+    "hasta": 64,
+    "certeza": "debatida",
+    "nota": "Es la fecha tradicional, antes de la muerte de Pedro en Roma. Otros estudiosos la sitúan unos años después."
+  },
+
+  "autor": {
+    "texto": "El apóstol Pedro (1 Pedro 1:1)",
+    "nota": "Dice que escribió con ayuda de Silvano (1 Pedro 5:12). Algunos estudiosos piensan en discípulos de Pedro."
+  },
+
+  "lugar": { "nombre": "Iglesias de Asia Menor", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pedro", "nombre": "Pedro", "linea": "Testigo del sufrimiento de Cristo; ahora anima a los que sufren." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Sufrió sin pecado; es el Cordero, la piedra viva y el Pastor." },
+    { "id": "silas", "nombre": "Silvano (Silas)", "linea": "Hermano fiel que ayuda a Pedro con esta carta." },
+    { "id": "juan-marcos", "nombre": "Marcos", "linea": "Pedro lo llama «mi hijo» y envía sus saludos." },
+    { "id": "noe", "nombre": "Noé", "linea": "Dios salvó a su familia en el arca, a través del agua." }
+  ],
+
+  "eventos": [
+    { "texto": "Pedro alaba a Dios por la esperanza viva", "ref": "1 Pedro 1:3-9" },
+    { "texto": "Rescatados con la sangre de Cristo, el Cordero", "ref": "1 Pedro 1:18-21" },
+    { "texto": "Los creyentes son piedras vivas y pueblo de Dios", "ref": "1 Pedro 2:4-10" },
+    { "texto": "Cristo sufrió por nosotros y nos dejó ejemplo", "ref": "1 Pedro 2:21-25" },
+    { "texto": "Estar listos para explicar nuestra esperanza", "ref": "1 Pedro 3:13-17" },
+    { "texto": "Echar sobre Dios toda preocupación", "ref": "1 Pedro 5:6-11" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una esperanza viva",
+      "texto": "Pedro escribe a cristianos que viven como extranjeros, lejos de su tierra. Muchos sufren por su fe. Pedro empieza alabando a Dios: nos hizo nacer de nuevo a una esperanza viva, por la resurrección de Jesús. Nos espera una herencia que no se marchita. Ninguna prueba puede quitárnosla."
+    },
+    {
+      "subtitulo": "Oro probado en el fuego",
+      "texto": "Las pruebas duelen, pero no son el final. Pedro las compara con el oro, que se limpia en el fuego. Así se prueba la fe, que vale mucho más. Jesús nos rescató, no con oro ni plata, sino con su sangre, «como de un cordero sin mancha»."
+    },
+    {
+      "subtitulo": "Piedras vivas",
+      "texto": "Jesús es la piedra viva que los hombres rechazaron, pero que Dios eligió. Los que creen en él también son piedras vivas. Juntos forman una casa para Dios. Antes no eran pueblo; ahora son pueblo de Dios, llamados de las tinieblas «a su luz admirable»."
+    },
+    {
+      "subtitulo": "Hacer el bien",
+      "texto": "Pedro pide una vida buena, para que otros la vean y alaben a Dios. Siervos, esposas y esposos: cada uno puede mostrar a Cristo en su casa. No devuelvan mal por mal, sino bendición. Y estén siempre listos para explicar con mansedumbre la razón de su esperanza."
+    },
+    {
+      "subtitulo": "Sufrir como Jesús",
+      "texto": "Jesús sufrió sin haber pecado. Cuando lo insultaban, no respondía con insultos. Llevó nuestros pecados en la cruz, y por sus heridas somos sanados. Por eso, si sufres por hacer el bien, no te avergüences. Compartes los sufrimientos de Cristo, y también compartirás su gloria."
+    },
+    {
+      "subtitulo": "Él cuida de ti",
+      "texto": "Al final, Pedro habla a los ancianos como un anciano más. Les pide cuidar el rebaño de Dios con amor, no por dinero. A todos les dice: echen sobre Dios toda su preocupación, «porque él tiene cuidado de vosotros». El diablo ronda como un león, pero el Dios de toda gracia los hará firmes."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pedro vio sufrir a Jesús. Lo explica con Isaías 53: «por la herida del cual habéis sido sanados». Jesús es el Cordero sin mancha que nos rescató. Es la piedra rechazada que Dios puso como la principal. Y es el Pastor que cuida nuestras almas.",
+    "refs": ["1 Pedro 2:24-25", "Isaías 53:5"]
+  },
+
+  "mundo": "En el año 64 d.C., un gran incendio quema buena parte de Roma. El emperador Nerón culpa a los cristianos, y muchos son perseguidos y muertos en la ciudad.",
+
+  "antes": "Pablo escribió a Tito sobre una fe que hace el bien en la isla de Creta.",
+  "despues": "Desde la cárcel en Roma, Pablo escribe su última carta a Timoteo.",
+
+  "conexiones": [
+    { "ref": "Isaías 53:4-6", "motivo": "El siervo herido que carga nuestros dolores y nuestros pecados." },
+    { "ref": "Éxodo 19:5-6", "motivo": "Dios llamó a Israel reino de sacerdotes y gente santa." },
+    { "ref": "Salmos 55:22", "motivo": "Echa sobre el Señor tu carga, y él te sostendrá." },
+    { "ref": "Juan 21:16", "motivo": "Jesús pidió a Pedro cuidar sus ovejas. Ahora Pedro lo pide a otros." }
+  ],
+
+  "glosario": ["anciano", "cordero-de-dios", "resurreccion", "gracia"],
+
+  "paraTuVida": {
+    "aplicacion": "Escribe en un papel lo que hoy te preocupa. Ora, entrégaselo a Dios y rompe el papel.",
+    "pregunta": "¿Qué sufrimiento de hoy puedes vivir con la esperanza de Jesús?"
+  },
+
+  "meditar": "Padre, tú tienes cuidado de mí. Te entrego mis preocupaciones y mis miedos. Cuando sufra, dame la paciencia y la esperanza de Jesús. Amén.",
+
+  "ninos": {
+    "pregunta": "Pedro dice que somos piedras vivas en la casa de Dios. ¿Quiénes forman tu iglesia?",
+    "actividad": "Pinta piedras o cartones con los nombres de tu familia y armen con ellos una casita."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "Según Pedro, ¿con qué nos rescató Jesús?",
+      "opciones": ["Con oro y plata", "Con su sangre preciosa", "Con nuestras buenas obras"],
+      "correcta": 1,
+      "explicacion": "No con oro ni plata, sino con la sangre de Cristo, como de un cordero sin mancha (1 Pedro 1:18-19).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿A qué animal compara Pedro al diablo?",
+      "opciones": ["A un león rugiente", "A un lobo hambriento", "A un oso"],
+      "correcta": 0,
+      "explicacion": "El diablo anda «cual león rugiente», pero Dios nos hace firmes (1 Pedro 5:8-10).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que por las heridas del siervo seríamos sanados?",
+      "opciones": ["Jeremías", "Ezequiel", "Isaías"],
+      "correcta": 2,
+      "explicacion": "Lo anunció Isaías 53:5, y Pedro lo aplica a Jesús en la cruz (1 Pedro 2:24).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Pet.1", "1Pet.2", "1Pet.3", "1Pet.5"], "minutos": 12 },
+
+  "temas": ["esperanza", "sufrimiento", "resurreccion", "cordero", "gracia"],
+  "cadenas": ["el-siervo-sufriente", "el-cordero"]
+}

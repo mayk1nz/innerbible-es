@@ -1,0 +1,141 @@
+{
+  "id": "lamentaciones",
+  "orden": 39,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Lamentaciones: llorar con esperanza",
+  "pasajes": ["Lam.1.1-Lam.5.22"],
+  "libros": ["Lam"],
+
+  "enUnMinuto": [
+    "Cinco poemas lloran por Jerusalén, destruida por Babilonia en el año 586 a.C.",
+    "No esconden el dolor, pero en el centro brilla la esperanza: el amor de Dios es nuevo cada mañana.",
+    "Dios revela que no rechaza para siempre y que escucha a quien llora ante él."
+  ],
+
+  "versiculo": {
+    "texto": "Es por la misericordia de Jehová que no somos consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+    "referencia": "Lamentaciones 3:22-23",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 586 a.C.",
+    "desde": -586,
+    "hasta": -585,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 586 a.C.",
+    "desde": -586,
+    "hasta": -585,
+    "certeza": "aprox"
+  },
+
+  "autor": {
+    "texto": "El libro no dice quién lo escribió.",
+    "nota": "La tradición judía y cristiana lo atribuye a Jeremías, que vio caer Jerusalén."
+  },
+
+  "lugar": { "nombre": "Jerusalén en ruinas", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "jeremias", "nombre": "Jeremías", "linea": "La tradición le atribuye este libro; el texto no da autor." },
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Su ejército destruyó la ciudad que aquí se llora." },
+    { "id": "esau", "nombre": "Esaú", "linea": "Padre de Edom, pueblo que se alegra de la caída (Lamentaciones 4:21)." }
+  ],
+
+  "eventos": [
+    { "texto": "Jerusalén llora sola, como una viuda", "ref": "Lamentaciones 1:1-11" },
+    { "texto": "El poeta derrama su corazón ante el Señor", "ref": "Lamentaciones 2:18-19" },
+    { "texto": "Las misericordias de Dios son nuevas cada mañana", "ref": "Lamentaciones 3:21-26" },
+    { "texto": "Una invitación: examinemos nuestros caminos y volvamos", "ref": "Lamentaciones 3:40-41" },
+    { "texto": "El pueblo ora: renueva nuestros días", "ref": "Lamentaciones 5:19-22" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "La ciudad sola",
+      "texto": "Jerusalén ha caído. El templo está quemado y los muros, en el suelo. El libro empieza con un grito: la ciudad llena de gente está sola, como una viuda. Llora de noche y nadie la consuela. El pueblo reconoce que se alejó de Dios y que por eso llegó este dolor."
+    },
+    {
+      "subtitulo": "Un dolor sin disfraz",
+      "texto": "Son cinco poemas, y cuatro siguen el orden del alfabeto hebreo. No esconden el dolor: hablan del hambre, de los niños que sufren y de los sacerdotes sin templo. El poeta invita a derramar el corazón ante el Señor como agua. Llorar delante de Dios también es orar."
+    },
+    {
+      "subtitulo": "Nuevas cada mañana",
+      "texto": "En el centro del libro, el poeta habla de su propia aflicción. Se siente a oscuras. Pero de pronto recuerda algo y recobra la esperanza. Por la misericordia de Dios no somos consumidos. Su amor es nuevo cada mañana: «grande es tu fidelidad». El Señor no rechaza para siempre."
+    },
+    {
+      "subtitulo": "Volvamos a Dios",
+      "texto": "Desde esa esperanza, el poeta invita al pueblo a examinar sus caminos y volver al Señor. Recuerda que clamó desde lo más hondo, y Dios se acercó y le dijo: «No temas». El castigo de Jerusalén tiene un final. Dios también verá el mal de sus enemigos."
+    },
+    {
+      "subtitulo": "Renueva nuestros días",
+      "texto": "El último poema es una oración de todo el pueblo. Piden a Dios que mire su vergüenza. Confiesan que él reina para siempre. Y le ruegan: haznos volver a ti, y volveremos; renueva nuestros días como al principio. El libro termina con una pregunta, pero dirigida a Dios."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús también lloró por Jerusalén al acercarse a ella. Él conoce nuestro dolor desde dentro. El amor fiel de Dios, nuevo cada mañana, se ve completo en Jesús. Por eso Pablo llama a Dios «el Padre de misericordias, y el Dios de toda consolación».",
+    "refs": ["Lucas 19:41", "2 Corintios 1:3"]
+  },
+
+  "mundo": "Babilonia gobierna desde el golfo Pérsico hasta la frontera de Egipto. Los cautivos de Judá viven en el exilio, junto a sus ríos y canales. Allí aprenden a orar lejos del templo.",
+
+  "antes": "Babilonia destruyó Jerusalén y el templo en el 586 a.C., y llevó cautivo al pueblo.",
+  "despues": "Abdías anuncia que Dios ve la crueldad de Edom con su hermano Judá.",
+
+  "conexiones": [
+    { "ref": "Hebreos 10:23", "motivo": "Fiel es el que prometió: podemos mantener firme la esperanza." },
+    { "ref": "Lucas 1:50", "motivo": "María canta que la misericordia de Dios sigue de generación en generación." },
+    { "ref": "Isaías 40:31", "motivo": "Los que esperan en el Señor reciben nuevas fuerzas." },
+    { "ref": "Lucas 19:41", "motivo": "Siglos después, Jesús llora al ver Jerusalén." }
+  ],
+
+  "glosario": ["misericordia", "babilonia", "exilio"],
+
+  "paraTuVida": {
+    "aplicacion": "Cada mañana de esta semana, al despertar, di en voz alta: «Nuevas son cada mañana».",
+    "pregunta": "¿Qué dolor necesitas contarle a Dios sin esconderlo?"
+  },
+
+  "meditar": "Señor, a veces mi corazón está en ruinas. Te lo entrego tal como está. Gracias porque tu misericordia es nueva cada mañana. Grande es tu fidelidad. Amén.",
+
+  "ninos": {
+    "pregunta": "Cuando estás triste, ¿a quién se lo cuentas? ¿Sabías que también puedes contárselo a Dios?",
+    "actividad": "Dibuja un sol que sale y escribe debajo: Tu amor es nuevo cada mañana."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué ciudad llora el libro de Lamentaciones?",
+      "opciones": ["Nínive", "Jerusalén", "Babilonia"],
+      "correcta": 1,
+      "explicacion": "Llora por Jerusalén, destruida por Babilonia en el 586 a.C. (Lamentaciones 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Lamentaciones 3:23, ¿cuándo son nuevas las misericordias de Dios?",
+      "opciones": ["Cada año", "Cada sábado", "Cada mañana"],
+      "correcta": 2,
+      "explicacion": "«Nuevas son cada mañana; grande es tu fidelidad» (Lamentaciones 3:23).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué hizo Jesús al ver Jerusalén, siglos después?",
+      "opciones": ["Lloró sobre ella", "Se alejó en silencio", "Cantó un salmo"],
+      "correcta": 0,
+      "explicacion": "Jesús lloró por la ciudad (Lucas 19:41), como el poeta de Lamentaciones.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Lam.1", "Lam.3", "Lam.5"], "minutos": 10 },
+
+  "notaEcumenica": "Muchas comunidades católicas cantan Lamentaciones en los oficios de Semana Santa. En muchas iglesias evangélicas es muy querido el himno «Grande es tu fidelidad», basado en Lamentaciones 3.",
+
+  "temas": ["sufrimiento", "esperanza", "misericordia", "oracion", "arrepentimiento"],
+  "cadenas": ["la-fidelidad-de-dios"]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "mujer-cananea",
+  "titulo": "La fe de la mujer cananea",
+  "subtitulo": "Una madre extranjera que no se rindió",
+  "etiquetas": ["Milagro 23 de 43 · Liberación", "Región de Tiro y Sidón", "Año 3 del ministerio · c. 29 d.C."],
+  "enUnMinuto": [
+    "Una madre extranjera ruega a Jesús por su hija, que sufre por un demonio.",
+    "Jesús primero calla y luego pone a prueba su fe, pero ella insiste con humildad.",
+    "Jesús alaba su gran fe, y la niña queda sana desde aquella hora."
+  ],
+  "versiculo": {
+    "texto": "Entonces respondiendo Jesús, dijo: Oh mujer, grande es tu fe; sea hecho contigo como quieres. Y fue sana su hija desde aquella hora.",
+    "referencia": "Mateo 15:28"
+  },
+  "bloques": [
+    {
+      "tipo": "referencias",
+      "titulo": "Dónde leerlo",
+      "items": [
+        { "ref": "Mateo 15:21-28", "nota": "Mateo la llama cananea y cuenta que los discípulos querían despedirla." },
+        { "ref": "Marcos 7:24-30", "nota": "Marcos dice que era griega, sirofenicia de nación. Solo Mateo y Marcos cuentan esta historia." }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "La historia",
+      "parrafos": [
+        "Jesús salió de Galilea y fue hacia la región de Tiro y Sidón, junto al mar. Era tierra de gente que no era judía. Entró en una casa y quería que nadie lo supiera. Pero no pudo esconderse.",
+        "Una mujer de aquella tierra oyó hablar de él y vino gritando: «Señor, Hijo de David, ten misericordia de mí». Su hija sufría mucho por causa de un demonio. Jesús no le respondió palabra. Los discípulos, cansados de sus gritos, le pidieron que la despidiera.",
+        "Jesús dijo que había sido enviado a las ovejas perdidas de Israel. Ella se echó a sus pies y solo dijo: «Señor, socórreme». Jesús le contestó con un dicho de su tiempo: no está bien quitar el pan a los hijos para echarlo a los perrillos.",
+        "Ella no se ofendió. Respondió: «Sí, Señor; mas los perrillos comen de las migajas que caen de la mesa de sus señores». Entonces Jesús le dijo: «Oh mujer, grande es tu fe». Cuando ella volvió a casa, encontró a su hija acostada en la cama, libre y en paz."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Palabras difíciles",
+      "items": [
+        "Tiro y Sidón: dos ciudades de la costa, al norte de Galilea. Hoy están en el Líbano.",
+        "Sirofenicia: nacida en Fenicia, la costa que entonces formaba parte de la provincia romana de Siria.",
+        "Hijo de David: así llamaban al Mesías, el rey prometido de la familia de David.",
+        "Perrillos: perritos de la casa, que esperan bajo la mesa. Ella tomó esa palabra y la convirtió en una oración."
+      ]
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "¿Qué revela de Jesús?",
+      "tono": "navy",
+      "texto": "Que su silencio no es desprecio. Jesús escuchó a la madre hasta el final, le dio lo que pedía y, además, un elogio. Que su amor cruza fronteras. Vino primero a Israel, pero aquí ya se abre la mesa para todos los pueblos. Y que la fe humilde le agrada. Ella no exigió nada; se agarró de su bondad, aunque fuera una migaja."
+    },
+    {
+      "tipo": "destacado",
+      "titulo": "Para ti hoy",
+      "tono": "gold",
+      "texto": "Quizá has orado por alguien que amas y sientes que el cielo calla. Esta madre te enseña a no soltar a Jesús. No discutió ni se ofendió; siguió pidiendo con humildad y confianza. El silencio de Dios no siempre es un no. A veces es el lugar donde tu fe crece. Para hoy: escribe el nombre de esa persona y ora por ella con las palabras de la madre: «Señor, socórreme»."
+    },
+    {
+      "tipo": "oracion",
+      "texto": "Señor Jesús, tú escuchaste a una madre que venía de lejos. Hoy te traigo a quien amo y más me preocupa. Aunque no entienda tus silencios, no dejaré de buscarte. Una migaja de tu bondad me basta. Amén."
+    },
+    {
+      "tipo": "ninos",
+      "texto": "Una mamá pidió a Jesús que sanara a su hija. Al principio Jesús callaba, pero ella siguió pidiendo con confianza, ¡y su hija quedó sana! ¿Por quién quieres orar tú hoy?",
+      "actividad": "Dibuja una mesa con migajas en el suelo. Dentro de cada migaja escribe el nombre de alguien por quien vas a orar."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Sabías que…?",
+      "parrafos": [
+        "Siglos antes, Dios envió al profeta Elías a esa misma región. Allí una viuda de Sarepta, cerca de Sidón, compartió con él su último pan. Jesús recordó esa historia en Nazaret (Lucas 4:25-26). Ahora otra madre de aquella tierra recibe el pan de Jesús."
+      ]
+    },
+    {
+      "tipo": "referencias",
+      "titulo": "Eco del Antiguo Testamento",
+      "items": [
+        { "ref": "1 Reyes 17:8-16", "nota": "Dios envía a Elías a una viuda extranjera de Sarepta de Sidón." },
+        { "ref": "Isaías 49:6", "nota": "El siervo de Dios será luz para todas las naciones." },
+        { "ref": "Mateo 8:5-13", "nota": "Otro extranjero cuya fe Jesús alaba: el centurión de Capernaúm." }
+      ]
+    },
+    {
+      "tipo": "nota",
+      "texto": "En las historias de liberación miramos a la persona restaurada, no al mal. No toda enfermedad tiene un origen espiritual. Orar y buscar ayuda médica van juntos."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Por quién le pidió ayuda la mujer a Jesús?",
+      "opciones": ["Por su esposo", "Por su hija", "Por su hermano"],
+      "correcta": 1,
+      "explicacion": "Su hija sufría mucho por causa de un demonio, y la madre rogó a Jesús por ella."
+    },
+    {
+      "pregunta": "¿Qué respondió la mujer cuando Jesús habló del pan de los hijos?",
+      "opciones": ["Que los perrillos comen de las migajas", "Que ella también era de Israel", "Que volvería otro día"],
+      "correcta": 0,
+      "explicacion": "Ella aceptó la imagen con humildad: aun los perrillos comen las migajas que caen de la mesa."
+    },
+    {
+      "pregunta": "¿A qué profeta envió Dios, siglos antes, a una viuda de Sarepta de Sidón?",
+      "opciones": ["A Jonás", "A Isaías", "A Elías"],
+      "correcta": 2,
+      "explicacion": "Dios envió a Elías a Sarepta (1 Reyes 17:9), y Jesús recordó esa historia en Lucas 4:26."
+    }
+  ],
+  "estudio": ["galilea-milagros"],
+  "buscar": "Mateo 15:21-28"
+}

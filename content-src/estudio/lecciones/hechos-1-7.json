@@ -1,0 +1,144 @@
+{
+  "id": "hechos-1-7",
+  "orden": 62,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Nace la Iglesia en Jerusalén",
+  "pasajes": ["Acts.1.1-Acts.7.60"],
+  "libros": ["Acts"],
+
+  "enUnMinuto": [
+    "Jesús sube al cielo, el Espíritu Santo llega en Pentecostés y nace la Iglesia en Jerusalén.",
+    "Los apóstoles anuncian a Jesús con valor, los creyentes lo comparten todo y Esteban muere perdonando.",
+    "Dios revela que cumple su promesa: su Espíritu vive ahora en los que creen en Jesús."
+  ],
+
+  "versiculo": {
+    "texto": "Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones.",
+    "referencia": "Hechos 2:42",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 30–35 d.C.", "desde": 30, "hasta": 35, "certeza": "aprox" },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 62–80 d.C.",
+    "desde": 62,
+    "hasta": 80,
+    "certeza": "debatida",
+    "nota": "Muchos lo fechan c. 62 d.C., porque termina con Pablo preso en Roma. Otros proponen entre los años 70 y 80 d.C."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Lucas, médico y compañero de Pablo.",
+    "nota": "El libro no dice su nombre. Continúa el Evangelio de Lucas: los dos se dirigen a Teófilo (Hechos 1:1)."
+  },
+
+  "lugar": { "nombre": "Jerusalén", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pedro", "nombre": "Pedro", "linea": "El que negó a Jesús ahora lo anuncia sin miedo." },
+    { "id": "juan-apostol", "nombre": "Juan", "linea": "Sube al templo con Pedro y va con él a la cárcel." },
+    { "id": "maria-madre-de-jesus", "nombre": "María", "linea": "Ora con los discípulos mientras esperan al Espíritu Santo." },
+    { "id": "bernabe", "nombre": "Bernabé", "linea": "Vende su campo y entrega el dinero a los apóstoles." },
+    { "id": "gamaliel", "nombre": "Gamaliel", "linea": "Fariseo prudente que pide al concilio dejar libres a los apóstoles." },
+    { "id": "esteban", "nombre": "Esteban", "linea": "Servidor lleno del Espíritu; muere perdonando a quienes lo apedrean." },
+    { "id": "pablo", "nombre": "Saulo", "linea": "Joven que cuida la ropa de los que apedrean a Esteban." }
+  ],
+
+  "eventos": [
+    { "texto": "Jesús sube al cielo y promete el Espíritu", "ref": "Hechos 1:6-11" },
+    { "texto": "El Espíritu Santo llega en Pentecostés", "ref": "Hechos 2:1-13" },
+    { "texto": "Pedro predica y unas tres mil personas se bautizan", "ref": "Hechos 2:14-41" },
+    { "texto": "Pedro sana a un cojo en la puerta del templo", "ref": "Hechos 3:1-10" },
+    { "texto": "Los apóstoles, azotados, siguen anunciando a Jesús con alegría", "ref": "Hechos 5:40-42" },
+    { "texto": "Esteban muere apedreado y perdona a sus verdugos", "ref": "Hechos 7:54-60" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Esperar juntos",
+      "texto": "Durante cuarenta días, Jesús resucitado se deja ver por sus discípulos. Les pide esperar en Jerusalén la promesa del Padre. Después sube al cielo y una nube lo cubre. Dos hombres vestidos de blanco anuncian que volverá. Los discípulos oran juntos con María, la madre de Jesús. Eligen a Matías en lugar de Judas."
+    },
+    {
+      "subtitulo": "Viento y fuego",
+      "texto": "Llega la fiesta de Pentecostés. De pronto se oye un ruido como de viento fuerte. Sobre cada uno aparecen lenguas como de fuego. Todos quedan llenos del Espíritu Santo y hablan en otras lenguas. Judíos de muchos países los oyen en su propio idioma. Algunos se burlan y dicen que están borrachos."
+    },
+    {
+      "subtitulo": "Pedro, lleno de valor",
+      "texto": "Pedro se pone de pie y explica que esto lo anunció el profeta Joel. Dios resucitó a Jesús y lo hizo Señor y Cristo. La gente pregunta qué debe hacer. Pedro responde: arrepiéntanse y bautícense. Unas tres mil personas creen ese día. Comparten la mesa, la oración y lo que tienen."
+    },
+    {
+      "subtitulo": "Ni plata ni oro",
+      "texto": "Un hombre cojo de nacimiento pide limosna en la puerta del templo. Pedro le dice: «Ni tengo plata ni oro». En el nombre de Jesús lo levanta, y el hombre entra saltando. Los jefes del templo encarcelan a Pedro y a Juan. Ellos responden que no pueden callar lo que han visto."
+    },
+    {
+      "subtitulo": "Un solo corazón",
+      "texto": "Los creyentes lo comparten todo, y nadie pasa necesidad. Bernabé vende un campo y trae el dinero. Ananías y Safira mienten sobre su venta y mueren; todos sienten gran temor. El concilio, llamado Sanedrín, encarcela a los apóstoles, pero un ángel abre la cárcel. Gamaliel aconseja dejarlos: si la obra es de Dios, nadie podrá deshacerla."
+    },
+    {
+      "subtitulo": "Esteban ve el cielo abierto",
+      "texto": "Los apóstoles eligen a siete servidores para cuidar a las viudas. Uno es Esteban. Lo acusan con testigos falsos ante el concilio. Esteban recuerda la historia de Israel, desde Abraham hasta Salomón. Luego ve a Jesús a la diestra de Dios. Mientras lo apedrean, ora: «Señor, no les imputes este pecado». Un joven llamado Saulo lo ve todo."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús cumple su promesa y no deja solos a los suyos: les envía el Espíritu Santo. Pedro anuncia que no hay otro nombre en que podamos ser salvos. Esteban muere como su Señor: entrega su espíritu y perdona. Y el mismo Jesús que subió al cielo volverá.",
+    "refs": ["Hechos 4:12", "Lucas 23:34"]
+  },
+
+  "mundo": "Tiberio es emperador de Roma. Hay judíos en muchas ciudades del imperio y más allá, hasta Persia. Por eso, en Pentecostés, Jerusalén se llena de visitantes de muchas lenguas.",
+
+  "antes": "Jesús resucitó al tercer día y se apareció a sus discípulos durante cuarenta días.",
+  "despues": "La persecución dispersa a los creyentes. Felipe lleva la buena noticia a Samaria, y Saulo se encuentra con Jesús.",
+
+  "conexiones": [
+    { "ref": "Joel 2:28", "motivo": "Pedro explica Pentecostés con esta promesa del Espíritu para todos." },
+    { "ref": "Deuteronomio 18:15", "motivo": "Moisés anunció un profeta como él; Pedro lo ve en Jesús." },
+    { "ref": "Juan 14:6", "motivo": "Jesús es el camino; por eso no hay otro nombre que salve." },
+    { "ref": "Mateo 28:19", "motivo": "Jesús ya había enviado a los suyos a todas las naciones." }
+  ],
+
+  "glosario": ["pentecostes", "espiritu-santo", "apostol", "sanedrin"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, comparte algo tuyo con alguien que lo necesite: comida, tiempo o una visita.",
+    "pregunta": "¿Qué te impide hablar de Jesús con la libertad de Pedro y Juan?"
+  },
+
+  "meditar": "Espíritu Santo, llena mi vida como llenaste a los discípulos. Dame valor para hablar de Jesús y un corazón que perdona como el de Esteban. Amén.",
+
+  "ninos": {
+    "pregunta": "Pedro no tenía dinero, pero le dio al cojo algo mejor. ¿Qué le dio?",
+    "actividad": "Recorta llamas de papel y escribe en cada una «Dios te ama» en un idioma distinto."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En qué fiesta llegó el Espíritu Santo sobre los discípulos?",
+      "opciones": ["En la Pascua", "En Pentecostés", "En la fiesta de los tabernáculos"],
+      "correcta": 1,
+      "explicacion": "Hechos 2:1 dice que llegó el día de Pentecostés, con viento y lenguas de fuego.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué pidió Esteban a Dios mientras lo apedreaban?",
+      "opciones": ["Que castigara a los culpables", "Que lo librara de la muerte", "Que no les tomara en cuenta ese pecado"],
+      "correcta": 2,
+      "explicacion": "Esteban oró: «Señor, no les imputes este pecado» (Hechos 7:60).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta anunció que Dios derramaría su Espíritu sobre toda carne?",
+      "opciones": ["Joel", "Jonás", "Malaquías"],
+      "correcta": 0,
+      "explicacion": "Pedro citó a Joel en Pentecostés (Joel 2:28 y Hechos 2:16-17).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.1", "Acts.2", "Acts.3", "Acts.4", "Acts.7"], "minutos": 30 },
+
+  "temas": ["espiritu-santo", "oracion", "resurreccion", "perdon", "iglesia"],
+  "cadenas": ["el-espiritu"]
+}

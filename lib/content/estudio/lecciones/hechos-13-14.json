@@ -1,0 +1,129 @@
+{
+  "id": "hechos-13-14",
+  "orden": 65,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Primer viaje de Pablo y Bernabé",
+  "pasajes": ["Acts.13.1-Acts.14.28"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "La iglesia de Antioquía envía a Bernabé y a Pablo a Chipre y a las ciudades de Galacia.",
+    "Anuncian a Jesús en las sinagogas, muchos gentiles creen y los apóstoles sufren por el camino.",
+    "Dios revela que abre a todos los pueblos la puerta de la fe."
+  ],
+
+  "versiculo": {
+    "texto": "Porque así nos ha mandado el Señor, diciendo: Te he puesto para luz de los Gentiles, para que seas salud hasta lo postrero de la tierra.",
+    "referencia": "Hechos 13:47",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 46–48 d.C.", "desde": 46, "hasta": 48, "certeza": "aprox" },
+
+  "lugar": { "nombre": "Chipre y el sur de Galacia", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo (Saulo)", "linea": "Enviado por el Espíritu; desde aquí la Biblia lo llama Pablo." },
+    { "id": "bernabe", "nombre": "Bernabé", "linea": "Compañero de viaje; lo confunden con el dios Júpiter." },
+    { "id": "juan-marcos", "nombre": "Juan Marcos", "linea": "Ayuda al principio, pero en Perge vuelve a Jerusalén." },
+    { "id": "david", "nombre": "David", "linea": "Pablo recuerda que de su familia Dios levantó a Jesús." },
+    { "id": "juan-el-bautista", "nombre": "Juan el Bautista", "linea": "Pablo lo recuerda como el que preparó la venida de Jesús." }
+  ],
+
+  "eventos": [
+    { "texto": "En Antioquía, el Espíritu aparta a Bernabé y a Saulo", "ref": "Hechos 13:1-3" },
+    { "texto": "En Chipre, el gobernador Sergio Paulo cree", "ref": "Hechos 13:4-12" },
+    { "texto": "Pablo predica en Antioquía de Pisidia", "ref": "Hechos 13:14-41" },
+    { "texto": "Muchos gentiles se alegran y creen", "ref": "Hechos 13:44-49" },
+    { "texto": "En Listra sanan a un cojo y apedrean a Pablo", "ref": "Hechos 14:8-20" },
+    { "texto": "Por Derbe, Listra e Iconio vuelven a Antioquía", "ref": "Hechos 14:20-28" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Enviados desde Antioquía",
+      "texto": "En Antioquía de Siria, la iglesia ora y ayuna. El Espíritu Santo dice: «Apartadme a Bernabé y a Saulo». Les imponen las manos y los despiden. Bajan al puerto de Seleucia y navegan a Chipre, la isla de Bernabé. Juan Marcos va con ellos para ayudar."
+    },
+    {
+      "subtitulo": "Chipre: un gobernador cree",
+      "texto": "Cruzan la isla desde Salamina hasta Pafos y anuncian la palabra en las sinagogas. En Pafos, el gobernador romano Sergio Paulo quiere oír de Dios. Un mago llamado Elimas trata de impedirlo y queda ciego por un tiempo. El gobernador cree. Aquí la Biblia empieza a llamar a Saulo por su otro nombre: Pablo."
+    },
+    {
+      "subtitulo": "Un sábado en la sinagoga",
+      "texto": "Navegan a Perge, y allí Juan Marcos vuelve a Jerusalén. Pablo y Bernabé suben a Antioquía de Pisidia. Un sábado, en la sinagoga, Pablo recorre la historia de Israel hasta David. Anuncia que de su familia Dios levantó a Jesús, el Salvador. Por él se ofrece el perdón de los pecados a todo el que cree."
+    },
+    {
+      "subtitulo": "Luz para los pueblos",
+      "texto": "El sábado siguiente se reúne casi toda la ciudad. Algunos se llenan de celos y contradicen a Pablo. Él y Bernabé responden con valor: Dios los envía también a los gentiles, como luz de los pueblos. Los gentiles se alegran y muchos creen. Pero los echan de la región, y siguen hacia Iconio."
+    },
+    {
+      "subtitulo": "Iconio y Listra",
+      "texto": "En Iconio creen muchos judíos y griegos, pero la ciudad se divide. Ante el peligro, huyen a Listra. Allí Pablo sana a un hombre cojo de nacimiento. La gente cree que son dioses y quiere ofrecerles toros. Ellos rompen su ropa y gritan: «Nosotros también somos hombres». Después apedrean a Pablo y lo dan por muerto."
+    },
+    {
+      "subtitulo": "El camino de vuelta",
+      "texto": "Los discípulos rodean a Pablo, y él se levanta. Al día siguiente sigue con Bernabé hasta Derbe. Luego vuelven por Listra, Iconio y Antioquía para animar a los creyentes. En cada iglesia nombran ancianos. Por Perge y Atalia regresan en barco a Antioquía de Siria. Allí cuentan que Dios abrió a los gentiles la puerta de la fe."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Pablo anuncia que Jesús es el hijo de David que Dios había prometido. Dios lo resucitó, y su cuerpo no vio corrupción, como dice el Salmo 16. Jesús es también la luz de los pueblos que anunció Isaías. Por él, la salvación llega hasta lo último de la tierra.",
+    "refs": ["Isaías 49:6", "Lucas 2:32"]
+  },
+
+  "mundo": "Roma tiene buenos caminos y rutas por mar. Por ellos viajan soldados y comerciantes, y ahora también los mensajeros de Jesús. Chipre y Galacia son provincias romanas.",
+
+  "antes": "Santiago enseñó que la fe verdadera se ve en las obras. En Antioquía, la iglesia seguía creciendo.",
+  "despues": "Algunos dicen que los gentiles deben circuncidarse. Pablo escribe a los gálatas: somos libres por la gracia.",
+
+  "conexiones": [
+    { "ref": "Isaías 49:6", "motivo": "El Siervo de Dios es luz para las naciones." },
+    { "ref": "Lucas 2:32", "motivo": "Simeón llamó al niño Jesús luz para los gentiles." },
+    { "ref": "Salmos 16:10", "motivo": "Dios no dejaría que su Santo viera corrupción." },
+    { "ref": "Gálatas 2:16", "motivo": "Somos justificados por la fe en Cristo, no por la ley." }
+  ],
+
+  "glosario": ["gentil", "sinagoga", "anciano", "ayuno"],
+
+  "paraTuVida": {
+    "aplicacion": "Escribe a alguien que empezó hace poco a seguir a Jesús y anímalo, como hicieron Pablo y Bernabé.",
+    "pregunta": "¿Qué puerta te está abriendo Dios para hablar de él?"
+  },
+
+  "meditar": "Señor, gracias por abrir la puerta de la fe a todos los pueblos. Cuando el camino se ponga difícil, dame ánimo para seguir adelante contigo. Amén.",
+
+  "ninos": {
+    "pregunta": "En Listra creyeron que Pablo y Bernabé eran dioses. ¿Qué respondieron ellos?",
+    "actividad": "Dibuja un mapa con un barco y las ciudades del viaje: Chipre, Perge, Iconio, Listra y Derbe."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿A qué isla navegan primero Bernabé y Saulo?",
+      "opciones": ["A Creta", "A Chipre", "A Malta"],
+      "correcta": 1,
+      "explicacion": "Desde Seleucia navegaron a Chipre, la tierra de Bernabé (Hechos 13:4).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué pasó en Listra después de sanar al cojo?",
+      "opciones": ["Los hicieron reyes", "Los metieron en un barco", "Los tomaron por dioses"],
+      "correcta": 2,
+      "explicacion": "La gente llamó Júpiter a Bernabé y Mercurio a Pablo (Hechos 14:11-12).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Quién, en el templo, llamó al niño Jesús «luz» para los gentiles?",
+      "opciones": ["Simeón", "Zacarías", "Nicodemo"],
+      "correcta": 0,
+      "explicacion": "Simeón lo dijo con el niño en brazos (Lucas 2:32), como Isaías 49:6.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.13", "Acts.14"], "minutos": 11 },
+
+  "temas": ["gracia", "espiritu-santo", "esperanza", "profecia-cumplida", "sufrimiento"],
+  "cadenas": ["la-promesa-a-abraham", "el-espiritu"]
+}

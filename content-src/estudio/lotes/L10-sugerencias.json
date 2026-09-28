@@ -1,0 +1,10 @@
+{
+  "glosario": [],
+  "personajes": [
+    { "id": "senora-elegida", "nombre": "La señora elegida", "linea": "Destinataria de 2 Juan: quizá una iglesia, quizá una hermana.", "lecciones": ["2-juan"] },
+    { "id": "gayo", "nombre": "Gayo", "rv1909": "Gaio", "linea": "Amigo del anciano; recibía en su casa a los hermanos.", "lecciones": ["3-juan"] },
+    { "id": "diotrefes", "nombre": "Diótrefes", "linea": "Líder que quería ser el primero y no recibía a nadie.", "lecciones": ["3-juan"] },
+    { "id": "demetrio-hermano", "nombre": "Demetrio", "linea": "Hermano de quien todos daban buen testimonio (3 Juan 1:12).", "lecciones": ["3-juan"], "nota": "No es el platero de Éfeso (id 'demetrio', Hechos 19). Ese registro lista '3-juan' por error." },
+    { "id": "loida-y-eunice", "nombre": "Loida y Eunice", "linea": "Abuela y madre de Timoteo; le pasaron una fe sincera.", "lecciones": ["2-timoteo"] }
+  ]
+}

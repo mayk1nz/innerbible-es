@@ -1,0 +1,22 @@
+{
+  "glosario": [
+    { "id": "caldeos", "termino": "Caldeos", "definicion": "Pueblo que gobernó Babilonia en tiempos de Nabucodonosor. La Biblia llama así a los babilonios." },
+    { "id": "edom", "termino": "Edom", "definicion": "Pueblo que descendía de Esaú, hermano de Jacob. Vivía en montañas de roca al sur del mar Muerto." }
+  ],
+  "personajes": [
+    { "id": "acaz", "nombre": "Acaz", "linea": "Rey de Judá que no quiso pedir la señal a Dios." },
+    { "id": "amon-rey-de-juda", "nombre": "Amón, rey de Judá", "linea": "Hijo de Manasés; reinó dos años y murió asesinado." },
+    { "id": "hilcias", "nombre": "Hilcías", "linea": "Sumo sacerdote que halló el libro de la Ley en el templo." },
+    { "id": "hulda", "nombre": "Hulda", "linea": "Profetisa de Jerusalén que dio a Josías la respuesta de Dios." },
+    { "id": "necao", "nombre": "Necao", "linea": "Faraón de Egipto; Josías murió luchando contra él en Meguido." },
+    { "id": "joacim", "nombre": "Joacim", "linea": "Rey de Judá que quemó el rollo de Jeremías." },
+    { "id": "joaquin", "nombre": "Joaquín (Jeconías)", "linea": "Rey llevado a Babilonia; años después sale de la cárcel." },
+    { "id": "sedequias", "nombre": "Sedequías", "linea": "Último rey de Judá; no escuchó a Jeremías y cayó Jerusalén." },
+    { "id": "ebed-melec", "nombre": "Ebed-melec", "linea": "Siervo etíope que sacó a Jeremías del pozo de barro." },
+    { "id": "gedalias", "nombre": "Gedalías", "linea": "Gobernador de Judá tras la caída de Jerusalén; lo asesinaron." }
+  ],
+  "agregarLecciones": {
+    "nota": "Personajes que ya existen y se usan en lecciones de L5, pero su campo 'lecciones' no las lista (aviso del validador).",
+    "jacob": ["abdias"]
+  }
+}

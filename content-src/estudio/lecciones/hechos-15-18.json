@@ -1,0 +1,131 @@
+{
+  "id": "hechos-15-18",
+  "orden": 67,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "El concilio y el segundo viaje",
+  "pasajes": ["Acts.15.1-Acts.18.22"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "En Jerusalén, los apóstoles deciden que los gentiles se salvan por la gracia, sin cargas de más.",
+    "Pablo, Silas y Timoteo cruzan a Europa y anuncian a Jesús en Filipos, Tesalónica, Atenas y Corinto.",
+    "Dios revela que guía a los suyos paso a paso y abre corazones en cada ciudad."
+  ],
+
+  "versiculo": {
+    "texto": "Y ellos dijeron: Cree en el Señor Jesucristo, y serás salvo tú, y tu casa.",
+    "referencia": "Hechos 16:31",
+    "version": "RV1909"
+  },
+
+  "fecha": { "texto": "c. 49–52 d.C.", "desde": 49, "hasta": 52, "certeza": "aprox" },
+
+  "lugar": { "nombre": "De Jerusalén a Macedonia y Grecia", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Sigue la guía del Espíritu y lleva el evangelio a Europa." },
+    { "id": "silas", "nombre": "Silas", "linea": "Compañero de viaje; canta con Pablo en la cárcel de Filipos." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Joven de Listra, de buena fama, que se une al viaje." },
+    { "id": "pedro", "nombre": "Pedro", "linea": "En el concilio recuerda que Dios no hizo diferencias." },
+    { "id": "santiago-hermano-del-senor", "nombre": "Santiago", "linea": "Propone en el concilio una carta de paz para los gentiles." },
+    { "id": "lidia", "nombre": "Lidia", "linea": "Vendedora de púrpura en Filipos; cree y abre su casa." },
+    { "id": "priscila-y-aquila", "nombre": "Priscila y Aquila", "linea": "Matrimonio que hace tiendas y recibe a Pablo en Corinto." }
+  ],
+
+  "eventos": [
+    { "texto": "El concilio de Jerusalén: salvos por la gracia", "ref": "Hechos 15:6-21" },
+    { "texto": "En Troas, Pablo ve en visión a un macedonio", "ref": "Hechos 16:8-10" },
+    { "texto": "En Filipos, Lidia y el carcelero creen", "ref": "Hechos 16:13-34" },
+    { "texto": "En Tesalónica y Berea, muchos creen", "ref": "Hechos 17:1-12" },
+    { "texto": "En Atenas, Pablo anuncia al Dios no conocido", "ref": "Hechos 17:16-34" },
+    { "texto": "Año y medio en Corinto, y regreso a Antioquía", "ref": "Hechos 18:1-22" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Reunidos en Jerusalén",
+      "texto": "Unos llegados de Judea enseñan en Antioquía que los gentiles deben circuncidarse para salvarse. Pablo y Bernabé suben a Jerusalén. Los apóstoles y los ancianos se reúnen. Pedro recuerda la casa de Cornelio: Dios no hizo diferencias. Y dice: «por la gracia del Señor Jesús creemos que seremos salvos». Santiago propone una carta."
+    },
+    {
+      "subtitulo": "Una carta que alegra",
+      "texto": "La carta pide a los gentiles solo cuatro cosas. Nada de ídolos ni de inmoralidad, y no comer sangre ni animales ahogados. En Antioquía la leen y se alegran. Pablo y Bernabé no se ponen de acuerdo sobre Juan Marcos. Bernabé va a Chipre con Marcos, y Pablo sale con Silas."
+    },
+    {
+      "subtitulo": "Pasa a Macedonia",
+      "texto": "En Listra se une Timoteo, un joven de buena fama. El Espíritu no los deja predicar en Asia. En Troas, Pablo ve de noche a un hombre que le ruega: «Pasa a Macedonia, y ayúdanos». Cruzan el mar hacia Europa. En Filipos, junto al río, Lidia escucha, cree y abre su casa."
+    },
+    {
+      "subtitulo": "Cantos a medianoche",
+      "texto": "En Filipos, Pablo libera a una muchacha de un espíritu de adivinación. Sus amos, furiosos, los llevan ante los jueces. Azotan a Pablo y a Silas y los meten en la cárcel. A medianoche oran y cantan. Un terremoto abre las puertas. El carcelero pregunta cómo ser salvo, y cree con toda su familia."
+    },
+    {
+      "subtitulo": "De Tesalónica a Atenas",
+      "texto": "En Tesalónica muchos creen, pero algunos alborotan la ciudad. En Berea estudian las Escrituras cada día para ver si es verdad. En Atenas, Pablo ve un altar «al Dios no conocido». En el Areópago anuncia a ese Dios, que nos creó y no está lejos de nadie. Unos se burlan; otros creen."
+    },
+    {
+      "subtitulo": "Año y medio en Corinto",
+      "texto": "En Corinto, Pablo trabaja haciendo tiendas con Priscila y Aquila. El Señor le dice en visión: «No temas, sino habla, y no calles». Se queda año y medio. El gobernador Galión no acepta las acusaciones contra él. Después Pablo navega a Éfeso, sube a Jerusalén y vuelve a Antioquía."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En cada ciudad, la buena noticia es la misma: Jesús es el Cristo que padeció y resucitó. Pedro y Pablo coinciden: somos salvos por la gracia del Señor Jesús. Y al carcelero de Filipos le basta una cosa: creer en él.",
+    "refs": ["Lucas 24:46", "Efesios 2:8"]
+  },
+
+  "mundo": "Hacia el año 49 d.C., el emperador Claudio expulsa de Roma a los judíos. Así llegan Priscila y Aquila a Corinto. Una inscripción de Delfos sitúa a Galión en Corinto hacia el 51 d.C.",
+
+  "antes": "Pablo escribió a los gálatas que somos libres por la gracia. Pero la pregunta seguía abierta en la iglesia.",
+  "despues": "Pablo escribe a los creyentes de Tesalónica para animarlos en la fe y la esperanza.",
+
+  "conexiones": [
+    { "ref": "Amós 9:11", "motivo": "Santiago cita a Amós: Dios levanta la casa caída de David." },
+    { "ref": "Romanos 10:9", "motivo": "Si confiesas a Jesús como Señor y crees, serás salvo." },
+    { "ref": "1 Tesalonicenses 5:16", "motivo": "Pablo, que cantó en la cárcel, escribe: estad siempre gozosos." },
+    { "ref": "1 Reyes 8:27", "motivo": "Salomón ya sabía que ningún templo puede contener a Dios." }
+  ],
+
+  "glosario": ["concilio", "anciano", "gentil", "idolo"],
+
+  "paraTuVida": {
+    "aplicacion": "Cuando algo salga mal esta semana, haz como Pablo y Silas: ora y canta a Dios.",
+    "pregunta": "¿Quién necesita hoy que abras tu casa, como Lidia?"
+  },
+
+  "meditar": "Señor, guía mis pasos como guiaste a Pablo. Cuando esté en una noche oscura, dame un canto. Abre mi corazón como abriste el de Lidia. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Qué hicieron Pablo y Silas a medianoche en la cárcel?",
+    "actividad": "Canta con tu familia una canción a Dios, aunque sea de noche y a oscuras."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Qué pasó en la cárcel de Filipos a medianoche?",
+      "opciones": ["Un terremoto abrió las puertas", "Llegó un barco a buscarlos", "Se apagó un gran incendio"],
+      "correcta": 0,
+      "explicacion": "Pablo y Silas cantaban, y un terremoto abrió las puertas (Hechos 16:25-26).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Qué decía el altar que Pablo vio en Atenas?",
+      "opciones": ["Al dios del mar", "Al Dios no conocido", "Al emperador de Roma"],
+      "correcta": 1,
+      "explicacion": "Pablo anunció a los atenienses ese Dios que no conocían (Hechos 17:23).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué profeta cita Santiago en el concilio de Jerusalén?",
+      "opciones": ["Jeremías", "Daniel", "Amós"],
+      "correcta": 2,
+      "explicacion": "Cita Amós 9:11-12: Dios levanta la casa de David para que todos lo busquen.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Acts.15", "Acts.16", "Acts.17", "Acts.18"], "minutos": 22 },
+
+  "temas": ["gracia", "espiritu-santo", "oracion", "fe", "providencia"],
+  "cadenas": ["el-espiritu", "la-promesa-a-abraham"]
+}

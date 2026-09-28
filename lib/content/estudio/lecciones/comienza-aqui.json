@@ -1,0 +1,118 @@
+{
+  "id": "comienza-aqui",
+  "orden": 1,
+  "seccion": "introduccion",
+  "formato": "marco",
+  "titulo": "Comienza aquí",
+  "pasajes": ["Luke.24.13-Luke.24.35"],
+  "libros": [],
+
+  "enUnMinuto": [
+    "Dos discípulos tristes caminan hacia Emaús, y Jesús resucitado camina con ellos sin que lo reconozcan.",
+    "Jesús les explica que toda la Escritura, desde Moisés y los profetas, habla de él.",
+    "Dios revela que la Biblia es una sola historia de amor, y que Jesús es su centro."
+  ],
+
+  "versiculo": {
+    "texto": "Y decían el uno al otro: ¿No ardía nuestro corazón en nosotros, mientras nos hablaba en el camino, y cuando nos abría las Escrituras?",
+    "referencia": "Lucas 24:32",
+    "version": "RV1909"
+  },
+
+  "fecha": null,
+
+  "lugar": { "nombre": "Camino de Jerusalén a Emaús", "mapa": "jesus" },
+
+  "personajes": [],
+
+  "eventos": [
+    { "texto": "Dos discípulos caminan tristes hacia Emaús", "ref": "Lucas 24:13-14" },
+    { "texto": "Jesús se acerca y camina con ellos", "ref": "Lucas 24:15-16" },
+    { "texto": "Jesús les explica las Escrituras desde Moisés", "ref": "Lucas 24:25-27" },
+    { "texto": "Lo reconocen cuando parte el pan", "ref": "Lucas 24:30-31" },
+    { "texto": "Vuelven a Jerusalén a contar la noticia", "ref": "Lucas 24:33-35" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un camino triste",
+      "texto": "Es domingo, tres días después de la cruz. Dos discípulos salen de Jerusalén hacia una aldea llamada Emaús. Van hablando de todo lo que pasó. Esperaban que Jesús fuera el libertador de Israel. Ahora se sienten perdidos y sin rumbo."
+    },
+    {
+      "subtitulo": "Un compañero inesperado",
+      "texto": "Jesús mismo se acerca y camina con ellos, pero no lo reconocen. Les pregunta por qué están tristes. Uno de ellos, Cleofas, le cuenta lo de la cruz. También le dice que unas mujeres hallaron el sepulcro vacío. Unos ángeles les dijeron que Jesús vive."
+    },
+    {
+      "subtitulo": "La Biblia habla de él",
+      "texto": "Entonces Jesús les abre las Escrituras. Les explica que el Cristo tenía que padecer para entrar en su gloria. Empieza por Moisés y sigue por todos los profetas. Les muestra lo que toda la Escritura decía de él. Lo que parecía un final era parte del plan de Dios."
+    },
+    {
+      "subtitulo": "Al partir el pan",
+      "texto": "Llegan a la aldea y le ruegan: «Quédate con nosotros». Jesús se sienta a la mesa, toma el pan, lo bendice y lo parte. En ese momento se les abren los ojos y lo reconocen. Jesús desaparece. Ellos se dicen que su corazón ardía mientras les hablaba."
+    },
+    {
+      "subtitulo": "Así empieza este estudio",
+      "texto": "En esa misma hora vuelven a Jerusalén para contarlo. Este estudio quiere hacer ese camino contigo. Leeremos la Biblia en el orden de la historia, desde la creación hasta el Apocalipsis. En cada parte buscaremos a Jesús. Así verás que no son libros sueltos: es una sola historia."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús mismo nos enseña a leer la Biblia. Más tarde les dice a los once que todo lo escrito de él debía cumplirse. Estaba «en la ley de Moisés, y en los profetas, y en los salmos». Por eso, cada lección tiene un apartado para descubrir a Jesús en esa parte de la historia.",
+    "refs": ["Lucas 24:44", "Juan 5:39"]
+  },
+
+  "mundo": "Roma gobierna la tierra de Israel en tiempos del emperador Tiberio. Buenos caminos unen las ciudades del imperio. Por esos caminos, la noticia de Jesús resucitado llegará muy lejos.",
+
+  "antes": "Todavía no hay nada antes: hoy empiezas un camino por toda la Biblia, de la mano de Jesús.",
+  "despues": "Verás cómo usar este estudio: leer lo esencial en un minuto o estudiar con calma.",
+
+  "conexiones": [
+    { "ref": "Lucas 24:44", "motivo": "Jesús repite que todo lo escrito de él debía cumplirse." },
+    { "ref": "Deuteronomio 18:15", "motivo": "Moisés anuncia un profeta como él, a quien el pueblo debe oír." },
+    { "ref": "Isaías 53:5", "motivo": "El siervo herido por nuestros pecados: así tenía que padecer el Cristo." },
+    { "ref": "Juan 5:39", "motivo": "Jesús dice que las Escrituras hablan de él." }
+  ],
+
+  "glosario": ["cristo", "profeta", "sepulcro"],
+
+  "paraTuVida": {
+    "aplicacion": "Antes de cada lección, pide a Jesús que te abra las Escrituras, como a los de Emaús.",
+    "pregunta": "¿Qué esperas descubrir al leer la Biblia como una sola historia?"
+  },
+
+  "meditar": "Señor Jesús, camina conmigo en este estudio. Abre mis ojos para reconocerte en cada página. Que mi corazón arda al escuchar tu palabra. Amén.",
+
+  "ninos": {
+    "pregunta": "Los dos discípulos no reconocieron a Jesús en el camino. ¿En qué momento lo reconocieron?",
+    "actividad": "Con tu familia, partan un pan en la mesa y cuenten juntos esta historia."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Hacia qué aldea caminaban los dos discípulos?",
+      "opciones": ["Hacia Belén", "Hacia Emaús", "Hacia Nazaret"],
+      "correcta": 1,
+      "explicacion": "Iban de Jerusalén a Emaús, una aldea cercana (Lucas 24:13).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Cuándo reconocieron a Jesús los dos discípulos?",
+      "opciones": ["Cuando partió el pan en la mesa", "Cuando entraron en Jerusalén", "Cuando vieron sus vestidos"],
+      "correcta": 0,
+      "explicacion": "Jesús tomó el pan, lo bendijo y lo partió; entonces se les abrieron los ojos (Lucas 24:30-31).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Jesús, ¿de quién hablan Moisés y todos los profetas?",
+      "opciones": ["De los reyes de Israel", "De los pueblos vecinos", "De Jesús mismo"],
+      "correcta": 2,
+      "explicacion": "Jesús les explicó en todas las Escrituras lo que decían de él (Lucas 24:27).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Luke.24"], "minutos": 7 },
+
+  "temas": ["resurreccion", "esperanza", "fe", "profecia-cumplida"],
+  "cadenas": ["cristo-en-las-escrituras"]
+}

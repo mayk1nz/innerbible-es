@@ -1,0 +1,78 @@
+{
+  "guia": "milagros-jesus",
+  "secciones": [
+    {
+      "id": "comienzos",
+      "titulo": "Los comienzos",
+      "lecciones": [
+        { "id": "bodas-de-cana", "titulo": "El agua que se volvió vino", "subtitulo": "Juan 2:1-11" },
+        { "id": "hijo-del-oficial-del-rey", "titulo": "El hijo del oficial del rey", "subtitulo": "Juan 4:46-54" }
+      ]
+    },
+    {
+      "id": "galilea",
+      "titulo": "El gran ministerio en Galilea",
+      "lecciones": [
+        { "id": "primera-pesca-milagrosa", "titulo": "La primera pesca milagrosa", "subtitulo": "Lucas 5:1-11" },
+        { "id": "sinagoga-de-capernaum", "titulo": "El hombre de la sinagoga de Capernaúm", "subtitulo": "Marcos 1:21-28" },
+        { "id": "suegra-de-pedro", "titulo": "La suegra de Pedro", "subtitulo": "Marcos 1:29-31" },
+        { "id": "al-caer-la-tarde", "titulo": "Al caer la tarde, sanaba a todos", "subtitulo": "Marcos 1:32-34" },
+        { "id": "el-leproso", "titulo": "El leproso: «Quiero, sé limpio»", "subtitulo": "Marcos 1:40-45" },
+        { "id": "paralitico-del-techo", "titulo": "El paralítico que bajaron por el techo", "subtitulo": "Marcos 2:1-12" },
+        { "id": "paralitico-de-betesda", "titulo": "El paralítico del estanque de Betesda", "subtitulo": "Juan 5:1-15" },
+        { "id": "mano-seca", "titulo": "El hombre de la mano seca", "subtitulo": "Marcos 3:1-6" },
+        { "id": "siervo-del-centurion", "titulo": "El siervo del centurión", "subtitulo": "Lucas 7:1-10" },
+        { "id": "hijo-de-la-viuda-de-nain", "titulo": "El hijo de la viuda de Naín", "subtitulo": "Lucas 7:11-17" },
+        { "id": "no-veia-ni-hablaba", "titulo": "El hombre que no veía ni hablaba", "subtitulo": "Mateo 12:22-23" },
+        { "id": "calma-la-tempestad", "titulo": "Jesús calma la tempestad", "subtitulo": "Marcos 4:35-41" },
+        { "id": "hombre-de-gadara", "titulo": "El hombre de Gadara", "subtitulo": "Marcos 5:1-20" },
+        { "id": "mujer-que-toco-su-manto", "titulo": "La mujer que tocó su manto", "subtitulo": "Marcos 5:25-34" },
+        { "id": "hija-de-jairo", "titulo": "La hija de Jairo: «Talita cumi»", "subtitulo": "Marcos 5:35-43" },
+        { "id": "dos-ciegos", "titulo": "Dos ciegos que lo seguían", "subtitulo": "Mateo 9:27-31" },
+        { "id": "mudo-que-volvio-a-hablar", "titulo": "El mudo que volvió a hablar", "subtitulo": "Mateo 9:32-34" }
+      ]
+    },
+    {
+      "id": "tierras-vecinas",
+      "titulo": "Panes, mar y tierras vecinas",
+      "lecciones": [
+        { "id": "cinco-mil", "titulo": "Cinco panes y dos peces", "subtitulo": "Juan 6:1-14" },
+        { "id": "camina-sobre-el-agua", "titulo": "Jesús camina sobre el agua", "subtitulo": "Mateo 14:22-33" },
+        { "id": "en-genesaret", "titulo": "En Genesaret, tocaban su manto", "subtitulo": "Marcos 6:53-56" },
+        { "id": "mujer-cananea", "titulo": "La fe de la mujer cananea", "subtitulo": "Marcos 7:24-30" },
+        { "id": "efata", "titulo": "«Efata»: el sordo que hablaba mal", "subtitulo": "Marcos 7:31-37" },
+        { "id": "cuatro-mil", "titulo": "Siete panes para cuatro mil", "subtitulo": "Marcos 8:1-10" },
+        { "id": "ciego-de-betsaida", "titulo": "El ciego de Betsaida, poco a poco", "subtitulo": "Marcos 8:22-26" },
+        { "id": "transfiguracion", "titulo": "La Transfiguración", "subtitulo": "Lucas 9:28-36" },
+        { "id": "muchacho-al-pie-del-monte", "titulo": "El muchacho que el padre trajo", "subtitulo": "Marcos 9:14-29" },
+        { "id": "moneda-en-el-pez", "titulo": "La moneda en la boca del pez", "subtitulo": "Mateo 17:24-27" }
+      ]
+    },
+    {
+      "id": "camino-jerusalen",
+      "titulo": "Camino a Jerusalén",
+      "lecciones": [
+        { "id": "ciego-de-nacimiento", "titulo": "El ciego de nacimiento", "subtitulo": "Juan 9:1-41" },
+        { "id": "mujer-encorvada", "titulo": "La mujer encorvada", "subtitulo": "Lucas 13:10-17" },
+        { "id": "hidropesia", "titulo": "El hombre hinchado (hidropesía)", "subtitulo": "Lucas 14:1-6" },
+        { "id": "lazaro", "titulo": "Lázaro, ¡sal fuera!", "subtitulo": "Juan 11:1-44" },
+        { "id": "diez-leprosos", "titulo": "Los diez leprosos y el que volvió", "subtitulo": "Lucas 17:11-19" },
+        { "id": "bartimeo", "titulo": "Bartimeo y los ciegos de Jericó", "subtitulo": "Marcos 10:46-52" }
+      ]
+    },
+    {
+      "id": "ultima-semana",
+      "titulo": "La última semana y la victoria",
+      "lecciones": [
+        { "id": "higuera-sin-fruto", "titulo": "La higuera sin fruto", "subtitulo": "Mateo 21:18-22" },
+        { "id": "ciegos-y-cojos-en-el-templo", "titulo": "Ciegos y cojos en el templo", "subtitulo": "Mateo 21:14" },
+        { "id": "yo-soy-getsemani", "titulo": "«Yo soy»: los soldados caen en tierra", "subtitulo": "Juan 18:4-6" },
+        { "id": "oreja-de-malco", "titulo": "La oreja de Malco", "subtitulo": "Lucas 22:49-51" },
+        { "id": "senales-en-la-cruz", "titulo": "Señales en la cruz", "subtitulo": "Mateo 27:45-54" },
+        { "id": "ha-resucitado", "titulo": "¡Ha resucitado!", "subtitulo": "Mateo 28:1-10" },
+        { "id": "segunda-pesca", "titulo": "La segunda pesca: 153 peces", "subtitulo": "Juan 21:1-14" },
+        { "id": "ascension", "titulo": "La Ascensión", "subtitulo": "Lucas 24:50-53" }
+      ]
+    }
+  ]
+}

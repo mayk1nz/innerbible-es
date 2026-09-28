@@ -1,0 +1,155 @@
+{
+  "id": "cronicas",
+  "orden": 49,
+  "seccion": "regreso",
+  "formato": "completo",
+  "titulo": "Crónicas: la historia contada otra vez",
+  "pasajes": ["1Chr.1.1-1Chr.9.44"],
+  "libros": ["1Chr", "2Chr"],
+
+  "enUnMinuto": [
+    "Crónicas vuelve a contar la historia desde Adán hasta el decreto de Ciro, para los que volvieron del exilio.",
+    "Empieza con largas listas de familias y se detiene en David, el templo y los reyes de Judá.",
+    "Dios revela que no olvida ningún nombre y que su promesa a David sigue en pie."
+  ],
+
+  "versiculo": {
+    "texto": "Celebrad a Jehová, porque es bueno; porque su misericordia es eterna.",
+    "referencia": "1 Crónicas 16:34",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrito c. 450–400 a.C.",
+    "desde": -450,
+    "hasta": -400,
+    "certeza": "aprox",
+    "nota": "Cuenta desde Adán hasta el decreto de Ciro. Se escribió para quienes volvieron del exilio."
+  },
+
+  "fechaEscrito": {
+    "texto": "Escrito c. 450–400 a.C.",
+    "desde": -450,
+    "hasta": -400,
+    "certeza": "aprox",
+    "nota": "La lista de la familia de David llega hasta varias generaciones después de Zorobabel."
+  },
+
+  "autor": {
+    "texto": "Autor desconocido; la tradición judía pensó en Esdras",
+    "nota": "Muchos lo llaman «el Cronista». El final de 2 Crónicas coincide con el comienzo de Esdras."
+  },
+
+  "lugar": { "nombre": "Jerusalén, después del exilio", "mapa": "regreso" },
+
+  "personajes": [
+    { "id": "david", "nombre": "David", "linea": "Rey según Dios; Crónicas destaca cómo prepara el templo." },
+    { "id": "salomon", "nombre": "Salomón", "linea": "Construye el templo; Dios promete escuchar allí a su pueblo." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá que purifica el templo y celebra la Pascua." },
+    { "id": "josias", "nombre": "Josías", "linea": "Rey que encuentra el libro de la Ley y renueva el pacto." },
+    { "id": "nabucodonosor", "nombre": "Nabucodonosor", "linea": "Destruye Jerusalén y lleva al pueblo a Babilonia." },
+    { "id": "zorobabel", "nombre": "Zorobabel", "linea": "Aparece en la lista de la familia de David, después del exilio." }
+  ],
+
+  "eventos": [
+    { "texto": "La lista de familias empieza con Adán", "ref": "1 Crónicas 1:1-4" },
+    { "texto": "Los hijos de Israel, padres de las tribus", "ref": "1 Crónicas 2:1-2" },
+    { "texto": "La familia de David, desde Hebrón hasta Zorobabel", "ref": "1 Crónicas 3:1-19" },
+    { "texto": "Jabes ora, y Dios le responde", "ref": "1 Crónicas 4:9-10" },
+    { "texto": "Judá es llevado a Babilonia por su rebelión", "ref": "1 Crónicas 9:1" },
+    { "texto": "Los primeros vuelven a vivir en Jerusalén", "ref": "1 Crónicas 9:2-3" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "¿Por qué contar otra vez?",
+      "texto": "El pueblo volvió del exilio. El templo está en pie, pero son pocos y pobres. Muchos se preguntan si Dios todavía los quiere. Crónicas responde contando otra vez su historia, desde Adán. Samuel y Reyes explicaban por qué cayó el reino. Crónicas muestra que Dios sigue con ellos."
+    },
+    {
+      "subtitulo": "Nombres que cuentan",
+      "texto": "Los primeros nueve capítulos son listas de familias. Parecen difíciles, pero dicen algo hermoso: cada tribu, cada familia y cada nombre importan a Dios. Entre los nombres aparecen pequeñas historias. Jabes, por ejemplo, pide a Dios que lo bendiga y lo libre del mal, y Dios le responde."
+    },
+    {
+      "subtitulo": "La familia de David",
+      "texto": "La lista de la familia de David sigue más allá del exilio. Llega hasta Zorobabel y sus hijos. Así, los que volvieron saben que la promesa de Dios a David no se perdió. El capítulo 9 termina con los primeros que vuelven a vivir en Jerusalén: sacerdotes, levitas y porteros."
+    },
+    {
+      "subtitulo": "David y el templo",
+      "texto": "Después, Crónicas cuenta el reinado de David. Se fija sobre todo en el arca y en los cantores del templo. David prepara todo para la casa de Dios, y Salomón la construye. Al dedicarla, Dios promete: si su pueblo se humilla y ora, él oirá desde los cielos y perdonará."
+    },
+    {
+      "subtitulo": "Reyes que buscan a Dios",
+      "texto": "El relato sigue solo a los reyes de Judá, de la familia de David. Cuando un rey busca a Dios, hay bendición. Cuando lo abandona, llega la ruina. Ezequías purifica el templo y celebra la Pascua. Josías encuentra el libro de la Ley. Incluso Manasés se humilla, y Dios lo escucha."
+    },
+    {
+      "subtitulo": "Un final abierto",
+      "texto": "Al final, Babilonia destruye Jerusalén. Pero el libro no termina en ruinas. Su última palabra es el decreto de Ciro: «suba». En la Biblia hebrea, Crónicas suele ser el último libro. Así, la Escritura de Israel termina con una invitación a volver."
+    }
+  ],
+
+  "otraMirada": [
+    { "libro": "2Sam", "texto": "Samuel cuenta también las caídas de David, como su pecado con Betsabé. Crónicas no lo repite y se centra en el arca y el templo." },
+    { "libro": "1Kgs", "texto": "Reyes sigue a los dos reinos después de la división. Crónicas se queda con Judá y con la casa de David." },
+    { "libro": "2Kgs", "texto": "Reyes presenta a Manasés como el peor rey de Judá. Solo Crónicas cuenta que al final se humilló y Dios lo escuchó." }
+  ],
+
+  "jesusAqui": {
+    "texto": "Mateo abre su Evangelio con una lista de familias, como Crónicas: Jesús es «hijo de David, hijo de Abraham». Lucas lleva la lista de Jesús hasta Adán. La promesa a David, guardada en tantos nombres, llega a su cumplimiento en Jesús.",
+    "refs": ["Mateo 1:1", "Lucas 3:38"]
+  },
+
+  "mundo": "Persia sigue gobernando Judá como una pequeña provincia. En Grecia, historiadores como Heródoto también escriben la historia de su pueblo para entender el presente.",
+
+  "antes": "Nehemías levantó los muros de Jerusalén, y Esdras leyó la Ley al pueblo reunido.",
+  "despues": "El profeta Malaquías anuncia que el Señor vendrá a su templo y enviará a Elías.",
+
+  "conexiones": [
+    { "ref": "Lucas 3:38", "motivo": "La lista de familias de Jesús también llega hasta Adán." },
+    { "ref": "Mateo 1:12", "motivo": "Salatiel y Zorobabel aparecen en la genealogía de Jesús." },
+    { "ref": "Mateo 7:7-11", "motivo": "Como a Jabes, el Padre da cosas buenas a quienes le piden." },
+    { "ref": "Salmos 9:10", "motivo": "Dios no desampara a los que lo buscan." }
+  ],
+
+  "glosario": ["genealogia", "tribu", "exilio", "levita"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, escribe los nombres de tu familia y ora por cada uno.",
+    "pregunta": "¿Qué parte de tu historia necesitas mirar de nuevo con los ojos de Dios?"
+  },
+
+  "meditar": "Señor, tú conoces mi nombre y el de toda mi familia. Aunque me sienta pequeño, sé que tu promesa sigue en pie. Amén.",
+
+  "ninos": {
+    "pregunta": "Dios conoce el nombre de cada persona. ¿Sabes por qué te pusieron tu nombre?",
+    "actividad": "Dibuja un árbol y escribe en sus ramas los nombres de tus abuelos, padres y hermanos."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Con qué nombre empieza la lista de 1 Crónicas?",
+      "opciones": ["Abraham", "Adán", "David"],
+      "correcta": 1,
+      "explicacion": "1 Crónicas 1:1 empieza con Adán: toda la humanidad entra en la historia.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿Con qué termina 2 Crónicas?",
+      "opciones": ["Con el decreto de Ciro", "Con la muerte de David", "Con la torre de Babel"],
+      "correcta": 0,
+      "explicacion": "Ciro invita a volver y edificar la casa de Dios (2 Crónicas 36:23).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué Evangelio lleva la lista de familias de Jesús hasta Adán?",
+      "opciones": ["Marcos", "Juan", "Lucas"],
+      "correcta": 2,
+      "explicacion": "Como Crónicas, Lucas empieza en Jesús y llega hasta Adán (Lucas 3:38).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["1Chr.3", "1Chr.4", "1Chr.9"], "minutos": 15 },
+
+  "temas": ["familia", "esperanza", "promesa", "arrepentimiento"],
+  "cadenas": ["el-rey-de-david", "el-templo"]
+}

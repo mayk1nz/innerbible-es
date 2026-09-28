@@ -1,0 +1,139 @@
+{
+  "id": "miqueas",
+  "orden": 31,
+  "seccion": "reino-dividido",
+  "formato": "completo",
+  "titulo": "Miqueas: lo que Dios pide de ti",
+  "pasajes": ["Mic.1.1-Mic.7.20"],
+  "libros": ["Mic"],
+
+  "enUnMinuto": [
+    "Miqueas, un profeta del campo, denuncia a los poderosos que abusan de los pobres en Israel y en Judá.",
+    "Anuncia juicio, pero también paz para las naciones y un gobernante que nacerá en Belén.",
+    "Dios revela que quiere justicia, misericordia y un corazón humilde, y que perdona con alegría."
+  ],
+
+  "versiculo": {
+    "texto": "Oh hombre, él te ha declarado qué sea lo bueno, y qué pida de ti Jehová: solamente hacer juicio, y amar misericordia, y humillarte para andar con tu Dios.",
+    "referencia": "Miqueas 6:8",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 735–700 a.C.",
+    "desde": -735,
+    "hasta": -700,
+    "certeza": "aprox"
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 735–700 a.C.",
+    "desde": -735,
+    "hasta": -700,
+    "certeza": "aprox"
+  },
+
+  "autor": { "texto": "Miqueas de Moreset, un pueblo del campo de Judá (Miqueas 1:1)." },
+
+  "lugar": { "nombre": "Judá, Jerusalén y Samaria", "mapa": "reino-dividido" },
+
+  "personajes": [
+    { "id": "miqueas", "nombre": "Miqueas", "linea": "Profeta del campo; defiende a los pobres y anuncia a Belén." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá; escucha el aviso de Miqueas y busca a Dios." },
+    { "id": "aaron", "nombre": "Aarón", "linea": "Con Moisés y María, guio al pueblo al salir de Egipto." },
+    { "id": "balaam", "nombre": "Balaam", "linea": "Lo contrataron para maldecir a Israel, y Dios lo hizo bendecir." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Dios cumplirá la misericordia que le prometió con juramento." }
+  ],
+
+  "eventos": [
+    { "texto": "Miqueas anuncia la caída de Samaria", "ref": "Miqueas 1:2-7" },
+    { "texto": "Denuncia a los que roban casas y campos", "ref": "Miqueas 2:1-2" },
+    { "texto": "El monte de Dios: espadas convertidas en azadones", "ref": "Miqueas 4:1-4" },
+    { "texto": "De Belén saldrá el gobernante de Israel", "ref": "Miqueas 5:2-5" },
+    { "texto": "Dios pide justicia, misericordia y humildad", "ref": "Miqueas 6:6-8" },
+    { "texto": "Dios echa los pecados en lo profundo del mar", "ref": "Miqueas 7:18-20" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Un profeta del campo",
+      "texto": "Miqueas es de Moreset, un pueblo del campo de Judá. Profetiza en tiempos de los reyes Jotam, Acaz y Ezequías. Habla contra Samaria, la capital del reino de Israel, y también contra Jerusalén. Anuncia que Samaria quedará en ruinas. Poco después, el ejército de Asiria la destruye."
+    },
+    {
+      "subtitulo": "Pecados de los poderosos",
+      "texto": "Algunos ricos planean el mal de noche y de día roban casas y campos. Hay jueces que se venden por regalos. Hay profetas que anuncian paz solo a quien les da de comer. Miqueas avisa que Jerusalén será arada como un campo. Un siglo después, la gente recuerda que Ezequías escuchó y buscó a Dios."
+    },
+    {
+      "subtitulo": "Espadas en azadones",
+      "texto": "Pero el juicio no es la última palabra. Miqueas ve el monte de Dios más alto que todos. Pueblos de toda la tierra suben a aprender sus caminos. Convierten sus espadas en azadones y sus lanzas en hoces. Cada uno se sienta bajo su vid y su higuera, sin miedo."
+    },
+    {
+      "subtitulo": "Belén, la pequeña",
+      "texto": "Entonces Miqueas mira hacia un pueblo pequeño: Belén Efrata. De allí saldrá el que gobernará a Israel, y su origen viene desde el principio. Pastoreará con la fuerza del Señor. Su grandeza llegará hasta los fines de la tierra. Miqueas dice de él: «Y éste será nuestra paz»."
+    },
+    {
+      "subtitulo": "Lo que Dios pide",
+      "texto": "Dios llama a su pueblo como a un juicio y le recuerda cómo lo sacó de Egipto. El pueblo pregunta qué ofrenda le agradará. La respuesta es sencilla: hacer justicia, amar la misericordia y andar humildemente con Dios. Miqueas termina con esperanza: Dios echa nuestros pecados en lo profundo del mar."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Unos setecientos años después, unos sabios de Oriente buscan al rey recién nacido. Los sacerdotes y los escribas responden con Miqueas 5:2: nacerá en Belén. Allí nace Jesús, de la familia de David. Él es el pastor que trae la paz, y su reino llega hasta los fines de la tierra.",
+    "refs": ["Mateo 2:4-6", "Lucas 2:4"]
+  },
+
+  "mundo": "Asiria crece con reyes guerreros y en el año 722 a.C. conquista Samaria. Por esos años, según la tradición, se funda la ciudad de Roma, en Italia.",
+
+  "antes": "Isaías anunció en Jerusalén al niño rey, al siervo que sufre y el consuelo de Dios.",
+  "despues": "El rey Ezequías confía en Dios frente a Asiria; su hijo Manasés se aleja de él.",
+
+  "conexiones": [
+    { "ref": "Mateo 2:6", "motivo": "Los escribas citan a Miqueas: el rey nacerá en Belén." },
+    { "ref": "Isaías 2:4", "motivo": "Isaías tiene la misma visión de espadas convertidas en arados." },
+    { "ref": "Jeremías 26:18", "motivo": "Un siglo después, recuerdan cómo Ezequías escuchó a Miqueas." },
+    { "ref": "Mateo 23:23", "motivo": "Jesús también pone primero la justicia, la misericordia y la fe." }
+  ],
+
+  "glosario": ["profeta", "justicia", "misericordia", "asiria"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, haz un gesto de justicia o de misericordia por alguien que no pueda devolvértelo.",
+    "pregunta": "¿Qué significa para ti andar humildemente con Dios hoy?"
+  },
+
+  "meditar": "Señor, tú no buscas mis cosas, sino mi corazón. Enséñame a hacer justicia, amar la misericordia y andar humilde contigo. Amén.",
+
+  "ninos": {
+    "pregunta": "Jesús nació en Belén, un pueblo pequeño. ¿Por qué crees que Dios eligió un lugar pequeño?",
+    "actividad": "Dibuja un pueblo pequeño con una estrella encima y escribe su nombre: Belén."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿En qué pueblo anunció Miqueas que nacería el gobernante de Israel?",
+      "opciones": ["En Nazaret", "En Jerusalén", "En Belén"],
+      "correcta": 2,
+      "explicacion": "Miqueas 5:2 nombra a Belén Efrata, pequeña entre los pueblos de Judá.",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Miqueas 6:8, ¿qué pide Dios de ti?",
+      "opciones": ["Muchos sacrificios y ofrendas", "Justicia, misericordia y humildad", "Subir al templo cada semana"],
+      "correcta": 1,
+      "explicacion": "Dios pide hacer justicia, amar la misericordia y andar humildemente con él.",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué otro profeta tiene casi la misma visión de espadas convertidas en arados?",
+      "opciones": ["Isaías", "Jonás", "Nahúm"],
+      "correcta": 0,
+      "explicacion": "Isaías 2:2-4 y Miqueas 4:1-3 anuncian la misma paz que viene de Dios.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Mic.4", "Mic.5", "Mic.6", "Mic.7"], "minutos": 11 },
+
+  "temas": ["justicia", "profecia-cumplida", "esperanza", "perdon", "reino-de-dios"],
+  "cadenas": ["el-rey-de-david", "el-pastor"]
+}

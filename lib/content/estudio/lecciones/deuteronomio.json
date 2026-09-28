@@ -1,0 +1,147 @@
+{
+  "id": "deuteronomio",
+  "orden": 12,
+  "seccion": "exodo",
+  "formato": "completo",
+  "titulo": "Moisés se despide del pueblo",
+  "pasajes": ["Deut.1.1-Deut.34.12"],
+  "libros": ["Deut"],
+
+  "enUnMinuto": [
+    "Antes de entrar en Canaán, Moisés recuerda el camino y repite la Ley a la nueva generación.",
+    "Lo esencial es amar a Dios con todo el corazón y escoger la vida que él ofrece.",
+    "Dios revela que eligió a su pueblo por amor y que nunca lo dejará."
+  ],
+
+  "versiculo": {
+    "texto": "Oye, Israel: Jehová nuestro Dios, Jehová uno es: Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todo tu poder.",
+    "referencia": "Deuteronomio 6:4-5",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 1406 a.C., al final del desierto",
+    "desde": -1406,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Depende de la fecha del éxodo: con la fecha tardía, c. 1230 a.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 1406 a.C., según la tradición",
+    "desde": -1406,
+    "hasta": -1406,
+    "certeza": "debatida",
+    "nota": "Muchos estudiosos piensan que el libro tomó su forma final siglos después, en tiempos de los reyes."
+  },
+
+  "autor": {
+    "texto": "Tradicionalmente, Moisés.",
+    "nota": "Deuteronomio 31:9 dice que Moisés escribió esta ley. El relato de su muerte lo añadió otra mano."
+  },
+
+  "lugar": { "nombre": "Campos de Moab, junto al Jordán", "mapa": "exodo" },
+
+  "personajes": [
+    { "id": "moises", "nombre": "Moisés", "linea": "A los ciento veinte años, se despide del pueblo con amor." },
+    { "id": "josue", "nombre": "Josué", "linea": "Recibe el ánimo de Moisés para guiar al pueblo." },
+    { "id": "caleb", "nombre": "Caleb", "linea": "Moisés recuerda su fidelidad cuando los demás tuvieron miedo." },
+    { "id": "abraham", "nombre": "Abraham", "linea": "Dios cumple el juramento que hizo a él y a su descendencia." }
+  ],
+
+  "eventos": [
+    { "texto": "Moisés recuerda el camino desde el Sinaí", "ref": "Deuteronomio 1:1-8" },
+    { "texto": "Moisés repite los Diez Mandamientos", "ref": "Deuteronomio 5:1-21" },
+    { "texto": "«Oye, Israel»: amar a Dios con todo el corazón", "ref": "Deuteronomio 6:4-9" },
+    { "texto": "Dios promete un profeta como Moisés", "ref": "Deuteronomio 18:15-19" },
+    { "texto": "Moisés pone delante la vida y la muerte", "ref": "Deuteronomio 30:15-20" },
+    { "texto": "Moisés ve la tierra desde el monte Nebo y muere", "ref": "Deuteronomio 34:1-8" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Frente al río Jordán",
+      "texto": "Han pasado cuarenta años. Israel acampa en los campos de Moab, frente al río Jordán. Moisés tiene ciento veinte años y sabe que no entrará en la tierra. Reúne al pueblo y le habla desde el corazón. Recuerda todo el camino: Egipto, el Sinaí, los espías y la fidelidad de Dios."
+    },
+    {
+      "subtitulo": "La Ley para los hijos",
+      "texto": "Casi todos los que salieron de Egipto ya murieron. Por eso Moisés repite la Ley a la nueva generación, empezando por los Diez Mandamientos. Les recuerda que Dios no los eligió por ser muchos ni fuertes. Los eligió «porque Jehová os amó» y quiso cumplir su promesa."
+    },
+    {
+      "subtitulo": "Oye, Israel",
+      "texto": "Moisés enseña lo más importante: hay un solo Dios. Hay que amarlo con todo el corazón, el alma y las fuerzas. Estas palabras se enseñan a los hijos en casa y en el camino. Se repiten al acostarse y al levantarse. Se escriben en los postes de la puerta."
+    },
+    {
+      "subtitulo": "Pan y Palabra",
+      "texto": "En el desierto, Dios los alimentó con maná. Así aprendieron que el hombre no vive solo de pan, sino de la palabra de Dios. Moisés avisa: cuando tengan casas y cosechas, no olviden al Señor. También anuncia que Dios levantará un profeta como él, y que el pueblo deberá escucharlo."
+    },
+    {
+      "subtitulo": "Escoge la vida",
+      "texto": "Moisés pone delante del pueblo dos caminos: la bendición y la maldición, la vida y la muerte. Les ruega: «escoge pues la vida». Anuncia que, si se alejan y después vuelven, Dios los recogerá y cambiará su corazón. Luego anima a Josué: Dios irá delante de él y no lo dejará."
+    },
+    {
+      "subtitulo": "Moisés ve la tierra",
+      "texto": "Moisés bendice a las tribus y sube al monte Nebo. Desde allí, Dios le muestra toda la tierra prometida. Moisés muere en Moab y lo entierran en un valle; nadie sabe dónde. El pueblo lo llora treinta días. Nunca hubo otro profeta como él, que conociera a Dios cara a cara."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Moisés anuncia que Dios levantará un profeta como él. Pedro enseña que ese profeta es Jesús. En el desierto, Jesús vence la tentación con palabras de Deuteronomio: «No con solo el pan vivirá el hombre». Y cuando le preguntan por el mandamiento principal, responde con el «Oye, Israel».",
+    "refs": ["Hechos 3:22", "Mateo 4:4"]
+  },
+
+  "mundo": "En esa época, los grandes reyes hacían pactos escritos con los pueblos que protegían. Tenían historia, leyes, bendiciones y maldiciones. Muchos estudiosos notan que Deuteronomio se parece a esos pactos, pero aquí el Rey es Dios.",
+
+  "antes": "Israel anduvo cuarenta años por el desierto. Dios eligió a Josué para suceder a Moisés.",
+  "despues": "Josué guía al pueblo a cruzar el Jordán y entrar por fin en la tierra prometida.",
+
+  "conexiones": [
+    { "ref": "Marcos 12:29-30", "motivo": "Jesús llama «el principal mandamiento» al «Oye, Israel» de Moisés." },
+    { "ref": "Hebreos 13:5", "motivo": "La promesa a Josué es también para ti: Dios no te dejará." },
+    { "ref": "Romanos 10:6-8", "motivo": "Pablo ve en esta palabra cercana el mensaje de la fe en Cristo." },
+    { "ref": "Efesios 6:4", "motivo": "Como en Deuteronomio, los padres enseñan a sus hijos el camino de Dios." }
+  ],
+
+  "glosario": ["ley", "diez-mandamientos", "pacto", "mana", "profeta"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, escribe Deuteronomio 6:5 en un papel y ponlo en la puerta de tu casa.",
+    "pregunta": "¿Qué decisión puedes tomar hoy para escoger la vida con Dios?"
+  },
+
+  "meditar": "Señor, quiero amarte con todo mi corazón. Que tu palabra esté en mi casa, en mi camino y en mis labios. Amén.",
+
+  "ninos": {
+    "pregunta": "¿Dónde decía Moisés que había que hablar de las palabras de Dios?",
+    "actividad": "Hagan juntos un cartel con «amarás a Jehová tu Dios» y cuélguenlo en la puerta."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿Desde qué monte vio Moisés la tierra prometida?",
+      "opciones": ["El monte Sinaí", "El monte Nebo", "El monte Carmelo"],
+      "correcta": 1,
+      "explicacion": "Desde la cumbre del Nebo, Dios le mostró toda la tierra (Deuteronomio 34:1-4).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Deuteronomio 7, ¿por qué eligió Dios a Israel?",
+      "opciones": ["Porque eran muchos", "Porque eran fuertes", "Porque los amaba"],
+      "correcta": 2,
+      "explicacion": "Eran el pueblo más pequeño, pero Dios los amó y cumplió su promesa (Deuteronomio 7:7-8).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué frase de Deuteronomio usó Jesús contra la tentación en el desierto?",
+      "opciones": ["No con solo el pan vivirá el hombre", "Dios proveerá el cordero", "Mi rostro irá contigo"],
+      "correcta": 0,
+      "explicacion": "Jesús respondió: «No con solo el pan vivirá el hombre» (Mateo 4:4).",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Deut.6", "Deut.8", "Deut.30", "Deut.34"], "minutos": 15 },
+
+  "temas": ["amor-de-dios", "obediencia", "familia", "promesa"],
+  "cadenas": ["el-profeta-como-moises", "la-palabra-de-dios"]
+}

@@ -1,0 +1,37 @@
+{
+  "guia": "mandamientos",
+  "secciones": [
+    {
+      "id": "antes-de-empezar",
+      "titulo": "Antes de empezar",
+      "lecciones": [
+        { "id": "comienza-aqui", "titulo": "Comienza aquí: un Dios que primero libera", "subtitulo": "Éxodo 20:2" },
+        { "id": "dos-maneras-de-contarlos", "titulo": "¿Por qué hay dos maneras de contarlos?", "subtitulo": "Evangélicos y católicos: el mismo texto de Dios" }
+      ]
+    },
+    {
+      "id": "los-diez-mandamientos",
+      "titulo": "Los Diez Mandamientos",
+      "lecciones": [
+        { "id": "solo-dios-primer-lugar", "titulo": "Solo Dios en el primer lugar", "subtitulo": "Evangélico: 1.º · Católico: 1.º" },
+        { "id": "adorar-solo-a-dios", "titulo": "Adorar solo a Dios", "subtitulo": "Evangélico: 2.º · Católico: parte del 1.º" },
+        { "id": "nombre-de-dios-santo", "titulo": "El nombre de Dios es santo", "subtitulo": "Evangélico: 3.º · Católico: 2.º" },
+        { "id": "dia-para-dios-y-descansar", "titulo": "Un día para Dios y para descansar", "subtitulo": "Evangélico: 4.º · Católico: 3.º" },
+        { "id": "honra-padre-y-madre", "titulo": "Honra a tu padre y a tu madre", "subtitulo": "Evangélico: 5.º · Católico: 4.º" },
+        { "id": "cuidar-la-vida", "titulo": "Cuidar la vida", "subtitulo": "Evangélico: 6.º · Católico: 5.º" },
+        { "id": "fidelidad-y-pureza", "titulo": "Fidelidad y pureza", "subtitulo": "Evangélico: 7.º · Católico: 6.º" },
+        { "id": "lo-que-es-de-otro", "titulo": "Lo que es de otro, es de otro", "subtitulo": "Evangélico: 8.º · Católico: 7.º" },
+        { "id": "hablar-con-la-verdad", "titulo": "Hablar con la verdad", "subtitulo": "Evangélico: 9.º · Católico: 8.º" },
+        { "id": "corazon-contento", "titulo": "Un corazón contento", "subtitulo": "Evangélico: 10.º · Católico: 9.º y 10.º" }
+      ]
+    },
+    {
+      "id": "el-gran-mandamiento",
+      "titulo": "El gran mandamiento",
+      "lecciones": [
+        { "id": "amar-a-dios-y-al-projimo", "titulo": "Amar a Dios y amar al prójimo", "subtitulo": "Mateo 22:36-40" },
+        { "id": "repaso-final", "titulo": "Repaso final", "subtitulo": "Quiz de diez preguntas y «Los 10 en tus manos»" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "colosenses",
+  "orden": 76,
+  "seccion": "iglesia",
+  "formato": "completo",
+  "titulo": "Colosenses: Cristo es lo primero",
+  "pasajes": ["Col.1.1-Col.4.18"],
+  "libros": ["Col"],
+
+  "enUnMinuto": [
+    "Pablo, preso, escribe a Colosas, una iglesia que no conoce en persona.",
+    "Les muestra que Cristo es la imagen de Dios, el Creador y lo primero en todo.",
+    "Dios revela que en Cristo no nos falta nada: nuestra vida está escondida con él."
+  ],
+
+  "versiculo": {
+    "texto": "Y él es la cabeza del cuerpo que es la iglesia; él que es el principio, el primogénito de los muertos, para que en todo tenga el primado.",
+    "referencia": "Colosenses 1:18",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "Escrita c. 60–62 d.C.",
+    "desde": 60,
+    "hasta": 62,
+    "certeza": "aprox"
+  },
+  "fechaEscrito": {
+    "texto": "c. 60–62 d.C., desde la prisión",
+    "desde": 60,
+    "hasta": 62,
+    "certeza": "aprox",
+    "nota": "Pablo escribe preso (Colosenses 4:3). La tradición piensa en Roma; otros estudiosos proponen Cesarea o Éfeso."
+  },
+  "autor": {
+    "texto": "El apóstol Pablo, junto con Timoteo (Colosenses 1:1).",
+    "nota": "Algunos estudiosos piensan que la escribió un colaborador de Pablo, en su nombre."
+  },
+
+  "lugar": { "nombre": "Colosas, en Asia Menor", "mapa": "iglesia" },
+
+  "personajes": [
+    { "id": "pablo", "nombre": "Pablo", "linea": "Preso, escribe a una iglesia que nunca ha visto en persona." },
+    { "id": "jesus", "nombre": "Jesús", "linea": "Imagen del Dios invisible; por él y para él fue creado todo." },
+    { "id": "timoteo", "nombre": "Timoteo", "linea": "Escribe la carta junto con Pablo." },
+    { "id": "onesimo", "nombre": "Onésimo", "linea": "Vuelve a Colosas con Tíquico, como «amado y fiel hermano»." },
+    { "id": "lucas", "nombre": "Lucas", "linea": "El «médico amado»: acompaña a Pablo y saluda a Colosas." },
+    { "id": "juan-marcos", "nombre": "Marcos", "linea": "Sobrino de Bernabé; Pablo pide que lo reciban bien." }
+  ],
+
+  "eventos": [
+    { "texto": "Pablo da gracias por la fe de Colosas", "ref": "Colosenses 1:3-8" },
+    { "texto": "Cristo, imagen del Dios invisible y cabeza de la Iglesia", "ref": "Colosenses 1:15-20" },
+    { "texto": "En Cristo habita toda la plenitud de Dios", "ref": "Colosenses 2:8-15" },
+    { "texto": "Buscar las cosas de arriba", "ref": "Colosenses 3:1-4" },
+    { "texto": "Vestirse de amor, perdón y gratitud", "ref": "Colosenses 3:12-17" },
+    { "texto": "Saludos de Onésimo, Lucas, Marcos y Epafras", "ref": "Colosenses 4:7-18" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Una iglesia que crece",
+      "texto": "Epafras llevó el evangelio a Colosas, una ciudad de Asia Menor. Ahora está con Pablo y le cuenta de la fe y el amor de los colosenses. Pablo nunca los ha visto, pero da gracias y ora por ellos. Pide que crezcan en el conocimiento de Dios y den fruto en toda buena obra."
+    },
+    {
+      "subtitulo": "Cristo, lo primero",
+      "texto": "Pablo escribe un canto hermoso sobre Jesús. Cristo es «la imagen del Dios invisible». Todo fue creado por él y para él, en el cielo y en la tierra. Él sostiene todas las cosas. Es la cabeza de la Iglesia y el primogénito de los muertos: el primero en resucitar. Por su cruz, Dios hace la paz."
+    },
+    {
+      "subtitulo": "Nada falta en Cristo",
+      "texto": "Algunos maestros quieren añadir cosas a la fe de los colosenses. Hablan de filosofías, reglas de comida, días de fiesta y culto a los ángeles. Pablo responde que en Cristo habita toda la plenitud de Dios. En él lo tenemos todo. Jesús clavó en la cruz lo que estaba en contra nuestra y venció a los poderes del mal."
+    },
+    {
+      "subtitulo": "Las cosas de arriba",
+      "texto": "Si resucitamos con Cristo, nuestra mirada cambia. Pablo invita a buscar «las cosas de arriba». Nuestra vida está escondida con Cristo en Dios. Por eso dejamos lo viejo: la mentira, el enojo, las palabras que hieren. En Cristo ya no cuenta si eres griego o judío, siervo o libre."
+    },
+    {
+      "subtitulo": "Vestidos de amor",
+      "texto": "Como escogidos de Dios, nos vestimos de misericordia, bondad, humildad y paciencia. Nos perdonamos como Cristo nos perdonó. Y sobre todo, nos vestimos de amor, que lo une todo. La paz de Dios gobierna el corazón. Todo lo que hacemos, de palabra o de hecho, lo hacemos en el nombre de Jesús."
+    },
+    {
+      "subtitulo": "Amigos en la misión",
+      "texto": "Pablo da consejos para la familia y el trabajo: todos tienen un mismo Señor en el cielo. Pide oración para anunciar a Cristo, aunque está preso. Envía a Tíquico con Onésimo. Saludan Aristarco, Marcos, Lucas y Epafras. Y pide que esta carta se lea también en la iglesia de Laodicea."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "Jesús es el Hijo amado en quien tenemos perdón. Es la imagen del Dios invisible: quien lo ve a él, ve al Padre. Todo fue creado por él, y por su cruz Dios reconcilia todas las cosas. Él es el primero en resucitar, y nos abre el camino.",
+    "refs": ["Colosenses 1:15-20", "Juan 14:9"]
+  },
+
+  "mundo": "Colosas estaba en el valle del río Lico, cerca de Laodicea y de Hierápolis. Hacia el año 60, un terremoto destruyó gran parte de Laodicea, la ciudad vecina.",
+
+  "antes": "Pablo escribió a Éfeso sobre la Iglesia: un solo cuerpo, con Cristo como cabeza.",
+  "despues": "Por los mismos días, Pablo escribe una carta personal a Filemón sobre Onésimo.",
+
+  "conexiones": [
+    { "ref": "Juan 1:3", "motivo": "Juan también dice que todas las cosas fueron hechas por él." },
+    { "ref": "Hebreos 1:3", "motivo": "El Hijo refleja la gloria de Dios y sostiene todo." },
+    { "ref": "Mateo 6:33", "motivo": "Jesús enseñó a buscar primero el reino de Dios." },
+    { "ref": "Salmos 119:11", "motivo": "Guardar la palabra de Dios en el corazón." }
+  ],
+
+  "glosario": ["primogenito", "iglesia", "perdon", "angel"],
+
+  "paraTuVida": {
+    "aplicacion": "Esta semana, antes de cada tarea, di en voz baja: «en el nombre del Señor Jesús».",
+    "pregunta": "¿Qué cosa ocupa en tu vida el lugar que es de Cristo?"
+  },
+
+  "meditar": "Señor Jesús, tú eres lo primero. Ayúdame a buscar las cosas de arriba. Vísteme de amor y de perdón, y que tu paz gobierne mi corazón. Amén.",
+
+  "ninos": {
+    "pregunta": "Pablo nos pide vestirnos de amor. ¿Qué ropa del corazón te pondrás hoy?",
+    "actividad": "Recorta una camiseta de papel y escribe en ella: paciencia, bondad, perdón y amor."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "Según la carta, ¿quién llevó el evangelio a Colosas?",
+      "opciones": ["Pedro", "Epafras", "Pablo"],
+      "correcta": 1,
+      "explicacion": "Los colosenses aprendieron el evangelio de Epafras, «nuestro consiervo amado» (Colosenses 1:7).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "¿De qué debemos vestirnos «sobre todas estas cosas»?",
+      "opciones": ["De amor", "De ropa nueva", "De armadura"],
+      "correcta": 0,
+      "explicacion": "El amor es «el vínculo de la perfección»: lo une todo (Colosenses 3:14).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "¿Qué Evangelio empieza diciendo que todo fue hecho por el Verbo?",
+      "opciones": ["Marcos", "Lucas", "Juan"],
+      "correcta": 2,
+      "explicacion": "«Todas las cosas por él fueron hechas» (Juan 1:3), como enseña Colosenses 1:16.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Col.1", "Col.2", "Col.3"], "minutos": 10 },
+
+  "temas": ["perdon", "amor", "esperanza", "creacion"],
+  "cadenas": ["el-cuerpo-de-cristo", "la-imagen-de-dios"]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "proverbios",
+  "orden": 20,
+  "seccion": "reino-unido",
+  "formato": "completo",
+  "titulo": "Proverbios: sabiduría para cada día",
+  "pasajes": ["Prov.1.1-Prov.31.31"],
+  "libros": ["Prov"],
+
+  "enUnMinuto": [
+    "Proverbios reúne consejos cortos de Salomón y de otros sabios para la vida de cada día.",
+    "Hablan del trabajo, las palabras, los amigos y la familia, y todo empieza en el temor de Dios.",
+    "Dios revela que le importa nuestra vida diaria y que quiere guiar cada paso."
+  ],
+
+  "versiculo": {
+    "texto": "Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+    "referencia": "Proverbios 3:5-6",
+    "version": "RV1909"
+  },
+
+  "fecha": {
+    "texto": "c. 970–930 a.C., con Salomón",
+    "desde": -970,
+    "hasta": -930,
+    "certeza": "aprox",
+    "nota": "La colección creció después: los hombres de Ezequías copiaron más proverbios (Proverbios 25:1), c. 700 a.C."
+  },
+
+  "fechaEscrito": {
+    "texto": "c. 970–700 a.C., en varias etapas",
+    "desde": -970,
+    "hasta": -700,
+    "certeza": "aprox",
+    "nota": "Salomón escribió la mayor parte. La colección se completó en tiempos de Ezequías o algo después."
+  },
+
+  "autor": {
+    "texto": "Sobre todo Salomón; también otros sabios, como Agur y el rey Lemuel.",
+    "nota": "Cada colección lleva su título: Proverbios 1:1, Proverbios 30:1 y Proverbios 31:1."
+  },
+
+  "lugar": { "nombre": "Jerusalén, en la corte real", "mapa": "reino-unido" },
+
+  "personajes": [
+    { "id": "salomon", "nombre": "Salomón", "linea": "Rey sabio; escribe la mayor parte de estos proverbios." },
+    { "id": "david", "nombre": "David", "linea": "Padre de Salomón; el libro se abre con «hijo de David»." },
+    { "id": "ezequias", "nombre": "Ezequías", "linea": "Rey de Judá; sus hombres copian más proverbios de Salomón." }
+  ],
+
+  "eventos": [
+    { "texto": "Un padre invita a su hijo a buscar la sabiduría", "ref": "Proverbios 1:7-9" },
+    { "texto": "La sabiduría llama a todos desde las calles", "ref": "Proverbios 8:1-11" },
+    { "texto": "Comienzan las sentencias de Salomón", "ref": "Proverbios 10:1" },
+    { "texto": "Los hombres de Ezequías copian más proverbios", "ref": "Proverbios 25:1" },
+    { "texto": "El retrato de la mujer fuerte", "ref": "Proverbios 31:10-31" }
+  ],
+
+  "resumen": [
+    {
+      "subtitulo": "Oye, hijo mío",
+      "texto": "Proverbios empieza como un padre que aconseja a su hijo: «Oye, hijo mío». Primero pone el cimiento: «El principio de la sabiduría es el temor de Jehová». Temer a Dios no es tenerle miedo. Es respetarlo, amarlo y confiar en él más que en uno mismo."
+    },
+    {
+      "subtitulo": "Dos voces que llaman",
+      "texto": "En los primeros capítulos, la sabiduría habla como una mujer que llama en las calles. Invita a todos a su mesa. La necedad también llama, pero su camino lleva a la muerte. El padre advierte contra la mala compañía, la pereza y la infidelidad en el matrimonio. Cada día elegimos a quién escuchar."
+    },
+    {
+      "subtitulo": "Frases para cada día",
+      "texto": "Desde el capítulo 10 vienen cientos de frases cortas de Salomón. Hablan de cosas de todos los días: el trabajo, el dinero, la familia, la honradez. Un ejemplo: «La blanda respuesta quita la ira». Cada proverbio es como una semilla. Es pequeño, pero da fruto si lo guardas."
+    },
+    {
+      "subtitulo": "La lengua y los amigos",
+      "texto": "Proverbios habla mucho de las palabras: «La muerte y la vida están en poder de la lengua». Invita al perezoso a mirar a la hormiga, que trabaja sin que nadie la mande. Y describe al amigo de verdad: «En todo tiempo ama el amigo»."
+    },
+    {
+      "subtitulo": "Otros sabios",
+      "texto": "El libro reúne también a otros sabios. Más de doscientos años después de Salomón, los hombres del rey Ezequías copian más proverbios suyos. Agur reconoce con humildad que no lo entiende todo. Y la madre del rey Lemuel le enseña a defender al pobre y al que no tiene voz."
+    },
+    {
+      "subtitulo": "Una mujer fuerte",
+      "texto": "El libro termina con el retrato de una mujer fuerte. Trabaja con sus manos, cuida de su casa, ayuda al pobre y habla con sabiduría. Su valor no está en la belleza: «la mujer que teme a Jehová, ésa será alabada». Así el libro vuelve al principio: la sabiduría nace del temor de Dios."
+    }
+  ],
+
+  "jesusAqui": {
+    "texto": "En Proverbios 8, la sabiduría habla como alguien que estaba con Dios antes de crear el mundo. Pablo llama a Cristo «sabiduría de Dios». Y dice que en él están escondidos todos los tesoros de la sabiduría. Por eso muchos cristianos leen Proverbios 8 pensando en Jesús.",
+    "refs": ["1 Corintios 1:24", "Colosenses 2:3"]
+  },
+
+  "mundo": "En Egipto y en Mesopotamia, los sabios escribían consejos para los jóvenes que servirían al rey. Israel también tuvo sus sabios, pero su sabiduría empieza en el temor de Dios.",
+
+  "antes": "Salomón pidió a Dios sabiduría y construyó el templo. Compuso tres mil proverbios.",
+  "despues": "Cantares celebra otro regalo de Dios: el amor fiel entre el esposo y la esposa.",
+
+  "conexiones": [
+    { "ref": "Salmos 37:5", "motivo": "Confiar en Dios y dejar en sus manos nuestro camino." },
+    { "ref": "Lucas 6:45", "motivo": "Jesús enseña que la boca habla de lo que hay en el corazón." },
+    { "ref": "Efesios 4:29", "motivo": "Pablo pide palabras buenas, que edifiquen a quien las oye." },
+    { "ref": "Mateo 23:12", "motivo": "Como en Proverbios, el humilde será levantado." }
+  ],
+
+  "glosario": ["proverbio", "sabiduria", "temor-de-dios"],
+
+  "paraTuVida": {
+    "aplicacion": "Este mes, lee cada día el capítulo de Proverbios que coincide con la fecha.",
+    "pregunta": "¿Qué palabra tuya necesita hoy ser más blanda?"
+  },
+
+  "meditar": "Señor, quiero confiar en ti de todo corazón y no apoyarme solo en lo que yo entiendo. Guía mis pasos y cuida mis palabras. Amén.",
+
+  "ninos": {
+    "pregunta": "Proverbios dice: mira a la hormiga. ¿Qué podemos aprender de una hormiga?",
+    "actividad": "Salgan a buscar hormigas y miren cómo trabajan juntas. Después dibújenlas."
+  },
+
+  "quiz": [
+    {
+      "pregunta": "¿De quién son la mayoría de los proverbios de este libro?",
+      "opciones": ["De Moisés", "De Salomón", "De Samuel"],
+      "correcta": 1,
+      "explicacion": "El libro empieza: «Los proverbios de Salomón, hijo de David» (Proverbios 1:1).",
+      "nivel": "facil"
+    },
+    {
+      "pregunta": "Según Proverbios 1:7, ¿cuál es el principio de la sabiduría?",
+      "opciones": ["Leer muchos libros", "Tener muchos años", "El temor de Dios"],
+      "correcta": 2,
+      "explicacion": "«El principio de la sabiduría es el temor de Jehová» (Proverbios 1:7).",
+      "nivel": "media"
+    },
+    {
+      "pregunta": "Según Jesús en Lucas 6:45, ¿de dónde salen nuestras palabras?",
+      "opciones": ["Del corazón", "De la costumbre", "De los demás"],
+      "correcta": 0,
+      "explicacion": "«De la abundancia del corazón habla su boca», como enseña Proverbios 4:23.",
+      "nivel": "conexion"
+    }
+  ],
+
+  "leer": { "capitulos": ["Prov.1", "Prov.3", "Prov.8", "Prov.15", "Prov.31"], "minutos": 17 },
+
+  "temas": ["sabiduria", "familia", "fe", "trabajo"],
+  "cadenas": ["la-sabiduria"]
+}
