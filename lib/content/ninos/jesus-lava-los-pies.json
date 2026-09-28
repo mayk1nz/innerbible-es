@@ -1,0 +1,144 @@
+{
+  "id": "jesus-lava-los-pies",
+  "titulo": "La última cena: Jesús lava los pies",
+  "referencia": "Juan 13:1-17",
+  "estudio": "ultima-semana",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-cena",
+      "texto": {
+        "3-5": "Jesús cenaba con sus amigos. Era una cena muy especial. Jesús los amaba mucho, mucho.",
+        "6-8": "Se acercaba la fiesta de la Pascua. Jesús estaba cenando con sus discípulos. Sabía que pronto volvería con su Padre, y quería mostrarles cuánto los amaba. La Biblia dice que los amó hasta el fin.",
+        "9-12": "Era antes de la fiesta de la Pascua. Jesús sabía que había llegado su hora de pasar de este mundo al Padre. Juan escribe que, «como había amado a los suyos que estaban en el mundo, amolos hasta el fin» (Juan 13:1). Esa noche, durante la cena, lo mostró de una manera sorprendente."
+      }
+    },
+    {
+      "id": "la-toalla",
+      "texto": {
+        "3-5": "Jesús se levantó. Tomó una toalla y un recipiente con agua. ¡Chof, chof! Empezó a lavar los pies de sus amigos.",
+        "6-8": "Jesús se levantó de la mesa y se quitó el manto. Se ató una toalla a la cintura y echó agua en un recipiente. Luego empezó a lavar los pies de sus discípulos, uno por uno, y a secarlos con la toalla.",
+        "9-12": "Jesús se levantó, se quitó el manto y se ciñó una toalla. Puso agua en un lebrillo y comenzó a lavar los pies de los discípulos. En aquel tiempo se caminaba con sandalias por caminos polvorientos, y lavar pies era tarea de un siervo. El Maestro hizo el trabajo más humilde de la casa."
+      }
+    },
+    {
+      "id": "pedro",
+      "texto": {
+        "3-5": "Pedro dijo: «¡No, Jesús! ¡Tú no me lavas los pies!». Jesús le dijo: «Déjame, Pedro».",
+        "6-8": "Cuando llegó a Pedro, él le dijo: «Señor, ¿tú me vas a lavar los pies a mí? ¡Nunca!». Jesús le respondió: «Si no te lavo, no podrás estar conmigo». Entonces Pedro exclamó: «¡Señor, entonces lávame también las manos y la cabeza!».",
+        "9-12": "Pedro se resistió: «No me lavarás los pies jamás» (Juan 13:8). Le parecía impensable que su Maestro hiciera algo así. Jesús le dijo: «Lo que yo hago, tú no entiendes ahora; mas lo entenderás después». Y añadió: «Si no te lavare, no tendrás parte conmigo». Pedro, con su gran corazón, pidió que le lavara también las manos y la cabeza."
+      }
+    },
+    {
+      "id": "todos",
+      "texto": {
+        "3-5": "Jesús lavó los pies de todos sus amigos. ¡De todos! Así mostró su amor.",
+        "6-8": "Jesús lavó los pies de todos sus discípulos. Jesús sabía que uno de ellos, Judas, lo iba a traicionar esa misma noche. Aun así, también le lavó los pies. El amor de Jesús no dejó a nadie fuera.",
+        "9-12": "Jesús sabía que Judas lo iba a entregar: «No estáis limpios todos», dijo (Juan 13:11). Aun así, lavó los pies de cada uno, también los de Judas. Jesús amó y sirvió incluso a quien le iba a hacer daño."
+      }
+    },
+    {
+      "id": "el-ejemplo",
+      "texto": {
+        "3-5": "Jesús dijo: «Yo les di un ejemplo. Ustedes también ayúdense unos a otros». ¡Servir es amar!",
+        "6-8": "Luego Jesús se sentó otra vez a la mesa y les preguntó: «¿Entienden lo que hice? Ustedes me llaman Maestro y Señor. Si yo les lavé los pies, ustedes también deben servirse unos a otros. Les he dado ejemplo». Y añadió que serían felices si lo hacían.",
+        "9-12": "De nuevo en la mesa, Jesús preguntó: «¿Sabéis lo que os he hecho?». Ellos lo llamaban Maestro y Señor, y decían bien. Si Él les había lavado los pies, también ellos debían lavarse los pies unos a otros. «Si sabéis estas cosas, bienaventurados seréis, si las hiciereis» (Juan 13:17)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Jesús me enseña a ayudar a los demás.", "referencia": "Juan 13:15", "fuente": "adaptado" },
+    "6-8": { "texto": "Les he dado ejemplo, para que hagan lo mismo que yo he hecho con ustedes.", "referencia": "Juan 13:15", "fuente": "adaptado" },
+    "9-12": { "texto": "Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis.", "referencia": "Juan 13:15", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de la última cena? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué lavó Jesús a sus amigos?", "opciones": ["Los pies", "La ropa"], "correcta": 0 },
+            { "texto": "¿Qué usó Jesús para secarlos?", "opciones": ["Una toalla", "Una hoja"], "correcta": 0 },
+            { "texto": "¿Qué nos enseña Jesús?", "opciones": ["A ayudar a los demás", "A pelear"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Qué fiesta estaba cerca?", "opciones": ["La Pascua", "Una boda", "Un cumpleaños"], "correcta": 0 },
+            { "texto": "¿Qué se ató Jesús a la cintura?", "opciones": ["Una cuerda", "Una toalla", "Un cinturón de oro"], "correcta": 1 },
+            { "texto": "¿Qué dijo Pedro al principio?", "opciones": ["«¡Qué bien!»", "«¡Nunca me lavarás los pies!»", "«Lava primero a Juan»"], "correcta": 1 },
+            { "texto": "¿A quién le lavó Jesús los pies?", "opciones": ["Solo a Pedro", "Solo a los buenos", "A todos, también a Judas"], "correcta": 2, "explicacion": "Jesús sabía que Judas lo traicionaría, y aun así le lavó los pies." },
+            { "texto": "¿Qué quería enseñar Jesús?", "opciones": ["Que nos sirvamos unos a otros", "Que siempre hay que tener los pies limpios", "Que el más importante manda"], "correcta": 0 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "Según Juan 13:1, ¿cómo amó Jesús a los suyos?", "opciones": ["Solo cuando se portaban bien", "Hasta el fin", "Un poco más que antes", "Como a siervos"], "correcta": 1 },
+            { "texto": "¿En qué puso Jesús el agua?", "opciones": ["En una tinaja de piedra", "En un lebrillo", "En un cáliz", "En un odre"], "correcta": 1, "explicacion": "Un lebrillo es un recipiente ancho y bajo (Juan 13:5)." },
+            { "texto": "¿Quién solía lavar los pies de los invitados?", "opciones": ["El dueño de la casa", "Un siervo", "El sacerdote", "Nadie"], "correcta": 1, "explicacion": "Era la tarea más humilde, y Jesús la hizo." },
+            { "texto": "¿Qué respondió Jesús cuando Pedro dijo «No me lavarás los pies jamás»?", "opciones": ["«Entonces lávalos tú»", "«Si no te lavare, no tendrás parte conmigo»", "«Tienes razón»", "«Mañana lo haré»"], "correcta": 1 },
+            { "texto": "¿Qué quiso decir Jesús con «No estáis limpios todos»?", "opciones": ["Que faltaba agua", "Que Judas lo iba a entregar", "Que Pedro no se había bañado", "Que debían lavarse las manos"], "correcta": 1, "explicacion": "«Porque sabía quién le había de entregar» (Juan 13:11)." },
+            { "texto": "¿Cuándo dice Jesús que seremos bienaventurados?", "opciones": ["Si sabemos muchas cosas", "Si comemos juntos", "Si hacemos lo que Él enseñó", "Si nadie nos ve"], "correcta": 2, "explicacion": "«Bienaventurados seréis, si las hiciereis» (Juan 13:17)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta las cartas y encuentra las parejas de la última cena.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["Jesús", "la toalla"],
+            ["el agua", "los pies"],
+            ["Pedro", "«¡No, Jesús!»"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Jesús", "lava los pies"],
+            ["Pedro", "«¡Nunca!»"],
+            ["Judas", "también le lavó los pies"],
+            ["la toalla", "atada a la cintura"],
+            ["la Pascua", "la fiesta que se acercaba"],
+            ["el ejemplo", "sírvanse unos a otros"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Juan 13:1", "los amó hasta el fin"],
+            ["el lebrillo", "recipiente para el agua"],
+            ["la toalla", "Jesús se la ciñó"],
+            ["Pedro", "«No me lavarás los pies jamás»"],
+            ["«lo entenderás después»", "respuesta de Jesús a Pedro"],
+            ["Judas", "«No estáis limpios todos»"],
+            ["Maestro y Señor", "así llamaban a Jesús"],
+            ["bienaventurados", "si las hiciereis"]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Jesús nos amó sirviendo, y que nosotros también mostramos amor cuando servimos a los demás.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Jesús le lavó los pies a Judas, que lo iba a traicionar?",
+        "respuesta": "Sí. Jesús sabía lo que Judas iba a hacer, y aun así lo sirvió con amor. Eso nos enseña que el amor de Jesús es más grande que el mal que otros nos hagan."
+      },
+      {
+        "pregunta": "¿Por qué la llaman la última cena?",
+        "respuesta": "Porque fue la última cena de Jesús con sus discípulos antes de morir en la cruz. Los otros evangelios cuentan que esa noche Jesús partió el pan y compartió la copa (Lucas 22:19-20). Muchas iglesias la recuerdan en el Jueves Santo."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué usó Jesús para lavar y secar los pies de sus discípulos?",
+      "sentir": "¿Cómo te sentirías si alguien muy importante se arrodillara para ayudarte?",
+      "vivir": "¿A quién de la familia podemos servir esta semana en algo que nadie quiere hacer?"
+    },
+    "oracion": "Jesús, tú nos amaste hasta el fin y tomaste la toalla para servir. Dame un corazón humilde para ayudar a los demás. Amén.",
+    "gesto": "Una noche de esta semana, lávense las manos unos a otros y séquenlas con una toalla. Digan: «Te sirvo porque te amo»."
+  },
+  "estampa": "La toalla del servicio"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "la-casa-sobre-la-roca",
+  "titulo": "La casa sobre la roca",
+  "referencia": "Mateo 7:24-27",
+  "estudio": "galilea-ensenanzas",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "jesus-ensena",
+      "texto": {
+        "3-5": "Jesús estaba en un monte. Mucha gente vino a escucharlo. Jesús contó una historia de dos casas.",
+        "6-8": "Un día, Jesús subió a un monte y mucha gente se sentó a escucharlo. Les enseñó a amar, a perdonar y a confiar en Dios. Al final, contó una historia de dos hombres que construyeron su casa.",
+        "9-12": "En un monte de Galilea, Jesús dio su gran enseñanza, que hoy llamamos el Sermón del Monte (Mateo 5–7). Habló de amar a los enemigos, de orar al Padre y de no vivir angustiados. Para terminar, contó una comparación sobre dos constructores."
+      }
+    },
+    {
+      "id": "el-prudente",
+      "texto": {
+        "3-5": "Un hombre sabio hizo su casa sobre la roca. ¡Pum, pum, pum! Trabajó mucho. ¡Qué casa tan firme!",
+        "6-8": "El primer hombre era prudente. Buscó un lugar firme y construyó su casa sobre la roca. Le costó más trabajo, pero lo hizo con paciencia. Jesús dijo que ese hombre es como quien escucha sus palabras y las pone en práctica.",
+        "9-12": "El primero era un hombre prudente: edificó su casa sobre la peña. Lucas cuenta que «cavó y ahondó» hasta llegar a la roca (Lucas 6:48). Jesús explicó que así es quien oye sus palabras y las hace. No basta con escucharlas: hay que vivirlas."
+      }
+    },
+    {
+      "id": "el-insensato",
+      "texto": {
+        "3-5": "Otro hombre hizo su casa sobre la arena. ¡Qué rápido! Pero la arena no es firme.",
+        "6-8": "El segundo hombre no pensó bien. Construyó su casa sobre la arena, porque era más fácil y más rápido. Por fuera, las dos casas se veían iguales. Jesús dijo que ese hombre es como quien escucha sus palabras, pero no las pone en práctica.",
+        "9-12": "El segundo era un hombre insensato: edificó su casa sobre la arena, sin fundamento. Por fuera, quizá las dos casas parecían iguales. La diferencia estaba escondida abajo. Jesús dijo que así es quien oye sus palabras y no las hace."
+      }
+    },
+    {
+      "id": "la-tormenta",
+      "texto": {
+        "3-5": "Llegó una gran tormenta. ¡Plic, plic, plic! ¡Fuuu, sopló el viento! El agua subió y subió.",
+        "6-8": "Un día llegó una gran tormenta. Cayó mucha lluvia, los ríos crecieron y soplaron vientos muy fuertes. El agua y el viento golpearon las dos casas por igual. La tormenta llegó para los dos hombres.",
+        "9-12": "Entonces «descendió lluvia, y vinieron ríos, y soplaron vientos» (Mateo 7:25). La tormenta golpeó las dos casas por igual. Jesús no prometió que quien lo escucha nunca tendrá problemas. Lo que cambia es dónde está apoyada la casa cuando llega la tormenta."
+      }
+    },
+    {
+      "id": "el-final",
+      "texto": {
+        "3-5": "La casa de la arena se cayó. ¡Pero la casa de la roca no se cayó! Seguía firme.",
+        "6-8": "La casa sobre la arena se cayó, y fue una gran caída. Pero la casa sobre la roca no se cayó, porque estaba bien apoyada. Cuando Jesús terminó de hablar, la gente se quedó admirada de cómo enseñaba.",
+        "9-12": "La casa sobre la arena cayó, «y fue grande su ruina». La casa sobre la peña no cayó, porque estaba fundada sobre la roca. La gente se admiró, porque Jesús enseñaba «como quien tiene autoridad» (Mateo 7:29). Sus palabras son la roca donde podemos construir la vida."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Escucho a Jesús y hago lo que dice.", "referencia": "Mateo 7:24", "fuente": "adaptado" },
+    "6-8": { "texto": "Quien escucha las palabras de Jesús y las pone en práctica es como el que construyó su casa sobre la roca.", "referencia": "Mateo 7:24", "fuente": "adaptado" },
+    "9-12": { "texto": "Y descendió lluvia, y vinieron ríos, y soplaron vientos, y combatieron aquella casa; y no cayó: porque estaba fundada sobre la peña.", "referencia": "Mateo 7:25", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de las dos casas? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Dónde hizo su casa el hombre sabio?", "opciones": ["Sobre la roca", "Sobre la arena"], "correcta": 0 },
+            { "texto": "¿Qué llegó un día?", "opciones": ["Una fiesta", "Una gran tormenta"], "correcta": 1 },
+            { "texto": "¿Qué casa quedó firme?", "opciones": ["La casa de la roca", "La casa de la arena"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Dónde estaba Jesús cuando contó esta historia?", "opciones": ["En un barco", "En un monte", "En el templo"], "correcta": 1 },
+            { "texto": "¿Por qué el segundo hombre construyó sobre la arena?", "opciones": ["Porque era más fácil y rápido", "Porque la roca estaba lejos del mar", "Porque Jesús se lo pidió"], "correcta": 0 },
+            { "texto": "¿Qué golpeó a las dos casas?", "opciones": ["Solo el viento", "Lluvia, ríos y vientos", "Un terremoto"], "correcta": 1, "explicacion": "La tormenta llegó para las dos casas por igual." },
+            { "texto": "¿Qué pasó con la casa sobre la arena?", "opciones": ["Se cayó", "Se mojó un poquito", "Nada"], "correcta": 0 },
+            { "texto": "¿A quién se parece el hombre prudente?", "opciones": ["A quien canta muy fuerte", "A quien escucha a Jesús y hace lo que dice", "A quien tiene la casa más grande"], "correcta": 1 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Con qué enseñanza termina esta comparación?", "opciones": ["Las parábolas del mar", "El Sermón del Monte", "La última cena", "El sermón de Pentecostés"], "correcta": 1, "explicacion": "Es el final del Sermón del Monte (Mateo 5–7)." },
+            { "texto": "Según Jesús, ¿qué hace el hombre prudente con sus palabras?", "opciones": ["Solo las oye", "Las escribe", "Las oye y las hace", "Las discute"], "correcta": 2 },
+            { "texto": "¿Qué detalle añade Lucas sobre el constructor prudente?", "opciones": ["Que «cavó y ahondó»", "Que usó madera de cedro", "Que era carpintero", "Que tardó siete años"], "correcta": 0, "explicacion": "Llegó hasta la roca para poner el fundamento (Lucas 6:48)." },
+            { "texto": "¿Qué casas recibieron la tormenta?", "opciones": ["Solo la de arena", "Solo la de roca", "Ninguna", "Las dos"], "correcta": 3, "explicacion": "Obedecer a Jesús no quita las tormentas, pero nos mantiene firmes." },
+            { "texto": "¿Por qué no cayó la casa del prudente?", "opciones": ["Porque era más alta", "Porque estaba fundada sobre la peña", "Porque tenía muros dobles", "Porque la lluvia fue poca"], "correcta": 1 },
+            { "texto": "¿Por qué se admiraba la gente de Jesús?", "opciones": ["Porque hablaba muy fuerte", "Porque contaba chistes", "Porque enseñaba como quien tiene autoridad", "Porque hablaba en griego"], "correcta": 2, "explicacion": "«Les enseñaba como quien tiene autoridad» (Mateo 7:29)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la historia.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["ROCA", "CASA", "AGUA"], "diagonales": false, "seed": 391 },
+        "6-8": { "tamano": 6, "palabras": ["ROCA", "ARENA", "LLUVIA", "VIENTO"], "diagonales": false, "seed": 392 },
+        "9-12": { "tamano": 10, "palabras": ["PEÑA", "ARENA", "LLUVIA", "VIENTOS", "RÍOS", "CASA", "PRUDENTE", "MONTE"], "diagonales": true, "seed": 393 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que escuchar a Jesús y hacer lo que dice nos hace firmes, como una casa sobre la roca.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Si obedezco a Jesús, nunca me pasará nada malo?",
+        "respuesta": "Fíjate en la historia: la tormenta llegó a las dos casas. Jesús no promete que no habrá tormentas; promete que, con Él, no nos caeremos. En los días difíciles, Él es nuestra roca."
+      },
+      {
+        "pregunta": "¿Qué pasó con el hombre de la casa de arena?",
+        "respuesta": "Jesús no lo cuenta: es una comparación, no una noticia. Lo importante es la invitación: todavía hoy podemos elegir construir sobre la roca, escuchando a Jesús y haciendo lo que dice."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo diferente el hombre que construyó su casa sobre la roca?",
+      "sentir": "Cuando hay una tormenta afuera, ¿cómo te sientes dentro de una casa firme?",
+      "vivir": "¿Qué palabra de Jesús podemos poner en práctica esta semana en casa, por ejemplo perdonar o compartir?"
+    },
+    "oracion": "Señor Jesús, quiero escuchar tus palabras y hacer lo que dices. Sé tú la roca de nuestra familia. Amén.",
+    "gesto": "Construyan juntos una torre con bloques, vasos o libros: una sobre una base firme y otra sobre un cojín. ¿Cuál aguanta más?"
+  },
+  "estampa": "La casa firme sobre la roca"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "el-jardin",
+  "titulo": "El jardín y la primera desobediencia",
+  "referencia": "Génesis 3",
+  "estudio": "genesis-1-11",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-huerto",
+      "texto": {
+        "3-5": "Adán y la mujer vivían en un jardín precioso. ¡Había muchas frutas ricas! Dios les dijo: «De este árbol, no coman».",
+        "6-8": "Adán y la mujer vivían en Edén, un jardín lleno de árboles con frutas deliciosas. Dios les dio todo con amor. Solo les pidió una cosa: «No coman del árbol del conocimiento del bien y del mal».",
+        "9-12": "En el huerto de Edén crecían árboles hermosos y buenos para comer. En medio estaban el árbol de la vida y el árbol de la ciencia del bien y del mal. Dios dijo: «De todo árbol del huerto comerás», con una sola excepción (Génesis 2:16-17). Era un regalo inmenso con un límite pequeño: confiar en que Dios sabe lo que es bueno."
+      }
+    },
+    {
+      "id": "la-serpiente",
+      "texto": {
+        "3-5": "Una serpiente astuta le habló a la mujer. «Come, no pasa nada», le dijo. ¡Pero era mentira!",
+        "6-8": "La serpiente, que era muy astuta, le preguntó a la mujer: «¿De verdad Dios les prohibió comer?». Y le dijo una mentira: «No les pasará nada. Serán como Dios». La mujer miró el fruto: se veía bonito y rico.",
+        "9-12": "La serpiente era astuta, «más que todos los animales del campo» (Génesis 3:1). Primero sembró una duda: «¿Conque Dios os ha dicho...?». Luego contradijo a Dios: «No moriréis». Insinuó que Dios les escondía algo bueno. La mujer miró el fruto: era bueno para comer, agradable a los ojos y deseable para alcanzar sabiduría."
+      }
+    },
+    {
+      "id": "comen",
+      "texto": {
+        "3-5": "La mujer comió del fruto. Le dio a Adán, y él también comió. ¡Desobedecieron a Dios!",
+        "6-8": "La mujer tomó el fruto y comió. Le dio también a Adán, y él comió. Enseguida se dieron cuenta de que estaban desnudos y sintieron vergüenza. Entonces se cubrieron con hojas de higuera.",
+        "9-12": "Ella tomó del fruto y comió, y dio también a su marido, que comió igual que ella. Se abrieron sus ojos, pero no como esperaban: descubrieron que estaban desnudos y cosieron hojas de higuera para cubrirse. La confianza se había roto. Por cierto, la Biblia no dice qué fruta era: la manzana viene de la tradición, no del texto (Génesis 3:6)."
+      }
+    },
+    {
+      "id": "donde-estas",
+      "texto": {
+        "3-5": "Adán y la mujer se escondieron. Pero Dios los buscó: «¿Dónde estás?». ¡Dios los seguía amando!",
+        "6-8": "Por la tarde, oyeron la voz del Señor en el jardín y se escondieron entre los árboles. Dios llamó: «¿Dónde estás?». Adán dijo: «La mujer me dio del fruto». La mujer dijo: «La serpiente me engañó». ¡Nadie quería reconocer su culpa!",
+        "9-12": "Al aire del día oyeron la voz del Señor y se escondieron. Dios no llegó gritando, sino con una pregunta: «¿Dónde estás tú?» (Génesis 3:9). Dios ya sabía la respuesta; la pregunta era una invitación a acercarse. Pero Adán culpó a la mujer, y la mujer culpó a la serpiente."
+      }
+    },
+    {
+      "id": "fuera-del-jardin",
+      "texto": {
+        "3-5": "Tuvieron que salir del jardín. ¡Pero Dios les hizo ropa para cuidarlos! Dios no los dejó solos.",
+        "6-8": "Desobedecer trajo tristeza: el trabajo sería duro y tuvieron que salir del jardín. Pero Dios no los abandonó. Les hizo ropa de pieles para vestirlos. Y prometió que un descendiente de la mujer vencería a la serpiente. ¡Dios ya tenía un plan de amor!",
+        "9-12": "La desobediencia trajo consecuencias: dolor, trabajo duro y la salida del huerto. Pero en medio de todo hubo gracia. Dios anunció que la simiente de la mujer heriría la cabeza de la serpiente (Génesis 3:15). Muchos cristianos ven ahí el primer anuncio de Jesús. Y antes de despedirlos, Dios mismo les hizo túnicas de pieles y los vistió."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me busca porque me ama.", "referencia": "Génesis 3:9", "fuente": "adaptado" },
+    "6-8": { "texto": "El Señor llamó al hombre y le dijo: «¿Dónde estás?».", "referencia": "Génesis 3:9", "fuente": "adaptado" },
+    "9-12": { "texto": "Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad.", "referencia": "1 Juan 1:9", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre el jardín de Edén.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Dios les dio un jardín precioso.", "verdadera": true, "porque": "Les regaló árboles, frutas y agua." },
+            { "texto": "La serpiente dijo la verdad.", "verdadera": false, "porque": "La serpiente dijo una mentira." },
+            { "texto": "Dios los buscó y les hizo ropa.", "verdadera": true, "porque": "Dios los siguió cuidando." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Dios les prohibió comer de todos los árboles.", "verdadera": false, "porque": "Solo les pidió no comer de un árbol." },
+            { "texto": "La serpiente era astuta y dijo una mentira.", "verdadera": true, "porque": "Dijo: «No les pasará nada», y no era verdad." },
+            { "texto": "La Biblia dice que el fruto era una manzana.", "verdadera": false, "porque": "La Biblia no dice qué fruta era." },
+            { "texto": "Adán y la mujer se escondieron entre los árboles.", "verdadera": true, "porque": "Sintieron vergüenza cuando oyeron la voz de Dios." },
+            { "texto": "Adán dijo enseguida: «Yo tuve la culpa».", "verdadera": false, "porque": "Adán culpó a la mujer, y la mujer a la serpiente." },
+            { "texto": "Dios les hizo ropa de pieles.", "verdadera": true, "porque": "Aun después de desobedecer, Dios los cuidó." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "El árbol de la vida estaba en medio del huerto.", "verdadera": true, "porque": "Así lo dice Génesis 2:9." },
+            { "texto": "Dios les dijo que no comieran de ningún árbol.", "verdadera": false, "porque": "Así torció la serpiente sus palabras; Dios les dio todos los árboles menos uno (Génesis 2:16-17)." },
+            { "texto": "La serpiente contradijo a Dios diciendo: «No moriréis».", "verdadera": true, "porque": "Está en Génesis 3:4." },
+            { "texto": "Se cubrieron con hojas de higuera.", "verdadera": true, "porque": "Cosieron hojas de higuera (Génesis 3:7)." },
+            { "texto": "Dios preguntó «¿Dónde estás tú?» porque no sabía dónde estaban.", "verdadera": false, "porque": "Dios lo sabe todo; la pregunta invitaba a Adán a acercarse y reconocer lo que hizo." },
+            { "texto": "Adán llamó a su mujer Eva, porque sería madre de todos los vivientes.", "verdadera": true, "porque": "Así lo cuenta Génesis 3:20." },
+            { "texto": "Dios los despidió del huerto sin nada.", "verdadera": false, "porque": "Antes les hizo túnicas de pieles y los vistió (Génesis 3:21)." },
+            { "texto": "Génesis 3:15 anuncia que la simiente de la mujer heriría la cabeza de la serpiente.", "verdadera": true, "porque": "Muchos cristianos lo llaman el primer anuncio del Salvador." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas en el jardín de Edén.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["EDÉN", "DIOS", "FRUTO"], "diagonales": false, "seed": 21 },
+        "6-8": { "tamano": 6, "palabras": ["EDÉN", "ÁRBOL", "ADÁN", "FRUTO"], "diagonales": false, "seed": 22 },
+        "9-12": { "tamano": 10, "palabras": ["EDÉN", "HUERTO", "SERPIENTE", "HIGUERA", "TÚNICA", "PROMESA", "EVA", "ADÁN"], "diagonales": true, "seed": 23 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño entienda que desobedecer rompe la confianza. Y que Dios, aun así, nos busca, nos cuida y nos ofrece su perdón.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Dios puso ese árbol si sabía lo que iba a pasar?",
+        "respuesta": "Es una pregunta que se hacen hasta los adultos. Puedes decir: «Dios nos hizo libres, no como robots, porque el amor verdadero se elige». Y lo más importante: Dios ya tenía preparado un camino para perdonarnos."
+      },
+      {
+        "pregunta": "¿La serpiente era el diablo?",
+        "respuesta": "Génesis solo dice que era astuta. Más adelante, la Biblia llama a Satanás «la serpiente antigua» (Apocalipsis 12:9). Con los pequeños basta decir: «Alguien quiso engañarlos, pero Dios es más fuerte y nos cuida»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué les preguntó Dios cuando Adán y la mujer se escondieron?",
+      "sentir": "¿Cómo te sientes cuando haces algo que no debías? ¿Qué te ayuda a decir «lo siento»?",
+      "vivir": "Cuando alguien se equivoque en casa esta semana, ¿cómo podemos ayudarlo a decir la verdad y perdonarlo?"
+    },
+    "oracion": "Señor, gracias porque siempre nos buscas y nos perdonas. Ayúdanos a decir la verdad y a pedir perdón cuando nos equivocamos. Amén.",
+    "gesto": "Inventen una señal secreta de familia, como tocarse la nariz, que signifique «lo siento, te perdono». Úsenla esta semana."
+  },
+  "estampa": "Las túnicas del cuidado de Dios"
+}

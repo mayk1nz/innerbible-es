@@ -1,0 +1,95 @@
+{
+  "id": "pescadores-de-personas",
+  "titulo": "Pescadores de personas",
+  "referencia": "Lucas 5:1-11",
+  "estudio": "galilea-milagros",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-orilla",
+      "texto": {
+        "3-5": "Mucha gente quería escuchar a Jesús. Junto al lago, unos pescadores lavaban sus redes.",
+        "6-8": "Un día, Jesús estaba a la orilla del lago de Genesaret. Mucha gente se amontonaba a su alrededor para oír la palabra de Dios. Jesús vio dos barcas en la orilla. Los pescadores habían bajado y estaban lavando sus redes.",
+        "9-12": "Jesús estaba junto al lago de Genesaret, el mar de Galilea. La gente se agolpaba sobre él para oír la palabra de Dios (Lucas 5:1). Jesús vio dos barcos en la orilla. Los pescadores habían bajado de ellos y lavaban sus redes después de una larga noche."
+      }
+    },
+    {
+      "id": "desde-la-barca",
+      "texto": {
+        "3-5": "Jesús subió a la barca de Simón. Desde allí enseñó a la gente. Las olitas hacían chap, chap.",
+        "6-8": "Jesús subió a la barca de Simón y le pidió que se alejara un poquito de la orilla. Sentado en la barca, enseñaba a la gente. Cuando terminó, le dijo a Simón: «Lleva la barca a lo hondo, y echen las redes para pescar».",
+        "9-12": "Jesús subió al barco de Simón y le pidió que lo apartara un poco de tierra. Sentado en el barco, enseñaba a la multitud. Cuando terminó, le dijo a Simón: «Tira a alta mar, y echad vuestras redes para pescar» (Lucas 5:4). Simón era pescador y conocía bien el lago."
+      }
+    },
+    {
+      "id": "en-tu-palabra",
+      "texto": {
+        "3-5": "Jesús dijo: «¡Echen las redes!». Simón dijo: «No pescamos nada en toda la noche. ¡Pero lo haré!».",
+        "6-8": "Simón le contestó: «Maestro, trabajamos toda la noche y no pescamos nada. Pero, porque tú lo dices, echaré las redes». Estaba cansado, pero confió en la palabra de Jesús.",
+        "9-12": "Simón respondió: «Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red». Estaba cansado, y quizá le parecía inútil volver a intentarlo. Pero la palabra de Jesús pesó más que su propia experiencia."
+      }
+    },
+    {
+      "id": "muchos-peces",
+      "texto": {
+        "3-5": "¡Zas! La red se llenó de peces. ¡Muchísimos peces! ¡Las barcas casi se hundían!",
+        "6-8": "¡Y la red se llenó de tantos peces que empezó a romperse! Llamaron a sus compañeros de la otra barca para que vinieran a ayudar. Llenaron las dos barcas, ¡tanto que casi se hundían!",
+        "9-12": "Lo hicieron, y encerraron tantísimos peces que la red se rompía. Hicieron señas a sus compañeros del otro barco para que vinieran a ayudarles. Llenaron los dos barcos, tanto que casi se hundían. Donde antes no había nada, ahora había más de lo que podían cargar."
+      }
+    },
+    {
+      "id": "no-temas",
+      "texto": {
+        "3-5": "Jesús dijo: «No tengas miedo. ¡Ahora pescarás personas!». Y Simón y sus amigos siguieron a Jesús.",
+        "6-8": "Simón Pedro se arrodilló ante Jesús y le dijo: «Apártate de mí, Señor, porque soy un pecador». Pero Jesús le dijo: «No tengas miedo. Desde ahora serás pescador de personas». Al llegar a la orilla, Simón, Jacobo y Juan lo dejaron todo y siguieron a Jesús.",
+        "9-12": "Al ver esto, Simón Pedro cayó de rodillas ante Jesús: «Apártate de mí, Señor, porque soy hombre pecador» (Lucas 5:8). Jacobo y Juan, sus compañeros, también estaban asombrados. Jesús no se apartó de él. Le dijo: «No temas: desde ahora pescarás hombres». Y al llegar a tierra, lo dejaron todo y lo siguieron."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Porque tú lo dices, lo haré!", "referencia": "Lucas 5:5", "fuente": "adaptado" },
+    "6-8": { "texto": "No tengas miedo: desde ahora serás pescador de personas.", "referencia": "Lucas 5:10", "fuente": "adaptado" },
+    "9-12": { "texto": "Y respondiendo Simón, le dijo: Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red.", "referencia": "Lucas 5:5", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
+      "niveles": {
+        "3-5": { "items": ["Jesús enseña desde la barca.", "La red se llena de peces.", "Los pescadores siguen a Jesús."] },
+        "6-8": { "items": ["Los pescadores lavan sus redes.", "Jesús enseña desde la barca de Simón.", "Simón echa las redes porque Jesús lo dice.", "La red se llena y casi se rompe.", "Lo dejan todo y siguen a Jesús."] },
+        "9-12": { "items": ["La gente se agolpa para oír la palabra de Dios.", "Jesús enseña sentado en el barco de Simón.", "Jesús dice: «Tira a alta mar».", "Simón responde: «En tu palabra echaré la red».", "Los dos barcos se llenan hasta casi hundirse.", "Pedro cae de rodillas y Jesús le dice: «No temas»."] }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la pesca.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["RED", "PEZ", "BARCA"], "diagonales": false, "seed": 5111 },
+        "6-8": { "tamano": 6, "palabras": ["REDES", "PECES", "SIMÓN", "LAGO"], "diagonales": false, "seed": 51106 },
+        "9-12": { "tamano": 10, "palabras": ["PESCADORES", "REDES", "BARCOS", "SIMÓN", "JACOBO", "JUAN", "MAESTRO", "PALABRA"], "diagonales": true, "seed": 511012 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que vale la pena confiar en la palabra de Jesús, aunque cueste, y que Él nos llama.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Pedro le dijo a Jesús que se apartara?",
+        "respuesta": "Pedro vio el poder de Jesús y se sintió pequeño y pecador. Pero Jesús no se alejó: le dijo «no temas» y lo invitó a seguirlo. Puedes decir: «Jesús no se aleja cuando nos equivocamos; nos llama cerca de Él»."
+      },
+      {
+        "pregunta": "¿Qué es ser «pescador de personas»?",
+        "respuesta": "No es atrapar a nadie. Es ayudar a otros a conocer el amor de Jesús, con palabras amables y buenas obras, como quien invita a una fiesta."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué pasó cuando Simón echó las redes porque Jesús se lo pidió?",
+      "sentir": "Simón estaba cansado y no había pescado nada. ¿Cómo te sientes cuando algo no te sale?",
+      "vivir": "¿Qué nos pide Jesús que hagamos esta semana, aunque cueste un poco?"
+    },
+    "oracion": "Jesús, aunque estemos cansados, queremos confiar en tu palabra. Enséñanos a seguirte y a llevar tu amor a otros. Amén.",
+    "gesto": "Esta semana, cuando algo cueste, repitan juntos: «Porque tú lo dices, Jesús, lo haré»."
+  },
+  "estampa": "La red llena de peces"
+}

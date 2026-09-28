@@ -1,0 +1,144 @@
+{
+  "id": "elias-y-la-viuda",
+  "titulo": "Elías y la viuda de Sarepta",
+  "referencia": "1 Reyes 17",
+  "estudio": "1-reyes-12-22",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "los-cuervos",
+      "texto": {
+        "3-5": "No llovía nada. Dios cuidó a Elías junto a un arroyo. ¡Unos cuervos le traían pan y carne! Cruac, cruac.",
+        "6-8": "El profeta Elías anunció al rey Acab que no llovería por años. Entonces Dios lo mandó a esconderse junto al arroyo de Querit. Allí bebía agua del arroyo. Y cada mañana y cada tarde, ¡unos cuervos le llevaban pan y carne!",
+        "9-12": "Elías, profeta de Galaad, anunció al rey Acab que no habría lluvia ni rocío en esos años (1 Reyes 17:1). Dios lo envió al arroyo de Querit, junto al Jordán. Allí, mañana y tarde, los cuervos le llevaban pan y carne. Dios cuidaba a su profeta de la manera más inesperada."
+      }
+    },
+    {
+      "id": "la-viuda",
+      "texto": {
+        "3-5": "El arroyo se secó. Dios dijo: «Ve a Sarepta». Allí, Elías vio a una mamá juntando leña.",
+        "6-8": "Como no llovía, el arroyo se secó. Dios le dijo a Elías: «Ve a Sarepta. Allí una viuda te dará de comer». En la entrada del pueblo, Elías vio a una mujer juntando leña. Le pidió: «Por favor, tráeme un poco de agua y un pedazo de pan».",
+        "9-12": "Pasado un tiempo, el arroyo se secó. Dios envió a Elías a Sarepta de Sidón, fuera de Israel, donde una viuda lo sustentaría. En la puerta de la ciudad la encontró recogiendo leña. Elías le pidió agua, y luego «un bocado de pan en tu mano» (1 Reyes 17:11)."
+      }
+    },
+    {
+      "id": "el-ultimo-punado",
+      "texto": {
+        "3-5": "La mujer dijo: «Solo tengo un poquito de harina y de aceite». ¡Era todo lo que tenía!",
+        "6-8": "La mujer respondió con tristeza: «No tengo pan. Solo me queda un puñado de harina y un poquito de aceite. Estoy juntando leña para cocinar lo último para mi hijo y para mí».",
+        "9-12": "Ella respondió que no tenía pan cocido. Solo le quedaba «un puñado de harina» en la tinaja y «un poco de aceite» en una botija (1 Reyes 17:12). Recogía leña para preparar la última comida para ella y su hijo. Después, ya no tendrían nada más."
+      }
+    },
+    {
+      "id": "no-se-acaba",
+      "texto": {
+        "3-5": "Elías dijo: «No tengas miedo». Ella cocinó un pan para él. ¡Y la harina no se acabó! ¡Ni el aceite!",
+        "6-8": "Elías le dijo: «No tengas miedo. Haz primero un pancito para mí y después para ustedes. Dios promete que la harina y el aceite no se acabarán hasta que vuelva a llover». Ella confió y obedeció. ¡Y así fue! Cada día había harina y aceite para los tres.",
+        "9-12": "Elías le dijo: «No hayas temor». Le pidió que primero le preparara una pequeña torta. Dios había prometido que la harina y el aceite no se acabarían hasta que volviera a llover (1 Reyes 17:14). Ella confió en la palabra de Dios y obedeció. Y durante muchos días comieron Elías, ella y su casa."
+      }
+    },
+    {
+      "id": "el-nino-vive",
+      "texto": {
+        "3-5": "Un día, el niño se enfermó mucho. Elías oró a Dios. ¡Dios escuchó, y el niño vivió! Su mamá sonrió.",
+        "6-8": "Tiempo después, el hijo de la viuda se enfermó tanto que dejó de respirar. Elías lo llevó a su cuarto, lo acostó en la cama y clamó a Dios. ¡El Señor escuchó su oración, y el niño volvió a vivir! Elías se lo devolvió a su mamá: «Mira, tu hijo vive».",
+        "9-12": "Más tarde, el hijo de la viuda enfermó gravemente y dejó de respirar. Elías lo llevó a su cuarto y clamó al Señor por él. Dios oyó la voz de Elías, y el niño revivió (1 Reyes 17:22). La madre dijo: «Ahora conozco que tú eres varón de Dios». Siglos después, Jesús recordó a esta viuda extranjera (Lucas 4:25-26)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡No tengas miedo! Dios te cuida.", "referencia": "1 Reyes 17:13", "fuente": "adaptado" },
+    "6-8": { "texto": "La harina no se acabará, y no faltará el aceite.", "referencia": "1 Reyes 17:14", "fuente": "adaptado" },
+    "9-12": { "texto": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.", "referencia": "Filipenses 4:19", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon en orden la historia de Elías.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Los cuervos le traen comida a Elías.",
+            "La viuda hace un pan con su harina.",
+            "¡La harina no se acaba!"
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Elías anuncia que no lloverá.",
+            "Los cuervos le llevan pan y carne.",
+            "El arroyo se seca.",
+            "Elías le pide pan a la viuda.",
+            "La harina y el aceite no se acaban."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Elías anuncia a Acab que no habrá lluvia ni rocío.",
+            "Los cuervos lo alimentan junto al arroyo de Querit.",
+            "Dios lo envía a Sarepta de Sidón.",
+            "La viuda le prepara primero una pequeña torta.",
+            "La harina y el aceite no se acaban por muchos días.",
+            "Elías clama y el hijo de la viuda revive."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de Elías.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["Elías", "los cuervos"],
+            ["la viuda", "la harina"],
+            ["el arroyo", "el agua"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Elías", "el profeta"],
+            ["los cuervos", "pan y carne"],
+            ["el arroyo", "se secó"],
+            ["la viuda", "la leña"],
+            ["la tinaja", "la harina"],
+            ["la botija", "el aceite"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Elías", "profeta de Galaad"],
+            ["Acab", "el rey"],
+            ["Querit", "el arroyo"],
+            ["Sarepta", "ciudad de Sidón"],
+            ["la tinaja", "no escaseó"],
+            ["la botija", "no menguó"],
+            ["«No hayas temor»", "palabras de Elías"],
+            ["«Mira, tu hijo vive»", "el niño revive"]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios cuida de nuestras necesidades cada día. Compartir, aunque sea poco, es una forma de confiar en Él.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Dios siempre cura a los enfermos?",
+        "respuesta": "Sé honesto y sereno: «Dios siempre nos escucha y está con nosotros. A veces sana, y a veces nos consuela de otra manera». Evita prometer una curación; promete lo que Dios promete: su amor y su compañía."
+      },
+      {
+        "pregunta": "¿Por qué Elías pidió comer primero, si ella tenía tan poco?",
+        "respuesta": "No era egoísmo: era una invitación a confiar en la promesa de Dios. Ella compartió lo poco que tenía, y Dios cuidó de los tres durante muchos días."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué animales le llevaban comida a Elías junto al arroyo?",
+      "sentir": "¿Cómo crees que se sintió la viuda al ver que la harina no se acababa?",
+      "vivir": "¿Con quién podemos compartir esta semana algo nuestro, aunque sea poquito?"
+    },
+    "oracion": "Señor, gracias por el pan de cada día. Enséñanos a confiar en ti y a compartir lo que tenemos, aunque sea poco. Amén.",
+    "gesto": "Esta semana, preparen juntos pan o galletas y compártanlos con un vecino, como la viuda compartió con Elías."
+  },
+  "estampa": "La tinaja que no se vaciaba"
+}

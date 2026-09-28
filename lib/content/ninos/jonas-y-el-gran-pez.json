@@ -1,0 +1,152 @@
+{
+  "id": "jonas-y-el-gran-pez",
+  "titulo": "Jonás y el gran pez",
+  "referencia": "Jonás 1–4",
+  "estudio": "jonas",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "jonas-huye",
+      "texto": {
+        "3-5": "Dios le dijo a Jonás: «Ve a Nínive». Pero Jonás no quiso. ¡Se subió a un barco y huyó!",
+        "6-8": "Dios le dijo a Jonás: «Ve a la gran ciudad de Nínive. Avísales que he visto su maldad». Pero Jonás no quería ir. Bajó al puerto de Jope y pagó su pasaje. Se subió a un barco que iba a Tarsis, bien lejos, en dirección contraria.",
+        "9-12": "Dios envió a Jonás, hijo de Amitai, a Nínive, la gran ciudad de Asiria, enemiga de Israel. Pero Jonás huyó en dirección contraria. Bajó a Jope y tomó un barco rumbo a Tarsis (Jonás 1:3). Pensaba que podía alejarse de lo que Dios le pedía."
+      }
+    },
+    {
+      "id": "la-tormenta",
+      "texto": {
+        "3-5": "¡Uuuuh! Vino una gran tormenta. Los marineros tenían miedo. ¡Y Jonás dormía!",
+        "6-8": "Entonces el Señor mandó un viento muy fuerte, y se levantó una gran tormenta. Los marineros, asustados, tiraban la carga al mar. ¡Y Jonás dormía en el fondo del barco! Jonás les confesó que huía de Dios. «Échenme al mar y se calmará», les dijo.",
+        "9-12": "El Señor envió un gran viento, y la tempestad casi rompía la nave. Los marineros clamaban cada uno a su dios, mientras Jonás dormía abajo. Jonás les dijo que adoraba al Dios «que hizo la mar y la tierra» (Jonás 1:9). Y les pidió que lo echaran al mar. Ellos intentaron remar a tierra, pero no pudieron."
+      }
+    },
+    {
+      "id": "el-gran-pez",
+      "texto": {
+        "3-5": "Los marineros echaron a Jonás al agua. ¡Glup! Un pez enorme se lo tragó. Pero Dios lo cuidaba.",
+        "6-8": "Al final, los marineros lanzaron a Jonás al agua, y el mar se calmó. Pero Dios había preparado un gran pez que se tragó a Jonás. ¡Dios no lo dejó hundirse! Jonás pasó tres días y tres noches dentro del pez.",
+        "9-12": "Cuando lo echaron al mar, la tempestad se calmó, y los marineros adoraron al Señor. Pero Dios «había prevenido un gran pez que tragase a Jonás» (Jonás 2:1). Allí estuvo tres días y tres noches. Aquel pez fue el rescate de Dios en lo profundo del mar."
+      }
+    },
+    {
+      "id": "jonas-ora",
+      "texto": {
+        "3-5": "Dentro del pez, Jonás oró: «¡Dios, ayúdame! Gracias por escucharme». ¡Plaf! El pez lo dejó en la playa.",
+        "6-8": "Dentro del pez, Jonás oró a Dios. Le dio gracias porque lo había escuchado y rescatado del fondo del mar. Entonces Dios le habló al pez, y el pez dejó a Jonás en tierra seca. ¡Dios le daba una segunda oportunidad!",
+        "9-12": "Desde el vientre del pez, Jonás oró. Clamó a Dios en su angustia, y Dios lo oyó (Jonás 2:3). Terminó su oración con alabanza, reconociendo que la salvación viene del Señor. Entonces Dios habló al pez, y este dejó a Jonás en tierra firme."
+      }
+    },
+    {
+      "id": "ninive",
+      "texto": {
+        "3-5": "Dios le dijo otra vez: «Ve a Nínive». ¡Esta vez Jonás fue! La gente escuchó y cambió. Y Dios los perdonó.",
+        "6-8": "Dios le habló a Jonás por segunda vez: «Ve a Nínive». ¡Y esta vez fue! Jonás recorrió la ciudad anunciando: «En cuarenta días Nínive será destruida». La gente creyó a Dios. Desde el rey hasta el más pequeño dejaron su mal camino. Y Dios, lleno de compasión, los perdonó.",
+        "9-12": "Dios habló a Jonás «segunda vez» (Jonás 3:1), y esta vez obedeció. Recorrió la enorme ciudad anunciando que en cuarenta días sería destruida. Los ninivitas creyeron a Dios, ayunaron y se vistieron de saco, desde el mayor hasta el menor. Hasta el rey se sentó en ceniza. Dios vio que dejaron su mal camino y no los castigó."
+      }
+    },
+    {
+      "id": "la-planta",
+      "texto": {
+        "3-5": "Jonás se enojó. Pero Dios le dijo: «Yo amo a toda esta gente. ¡Y a los animalitos también!».",
+        "6-8": "Pero Jonás se enojó: ¡no quería que Dios perdonara a Nínive! Se sentó fuera de la ciudad, y Dios hizo crecer una planta para darle sombra. Cuando la planta se secó, Jonás se enojó otra vez. Dios le dijo: «Te dio pena una planta. ¿Y yo no voy a tener compasión de esta gran ciudad?».",
+        "9-12": "Jonás se enojó, porque sabía que Dios es «clemente y piadoso, tardo a enojarte, y de grande misericordia» (Jonás 4:2). Dios hizo crecer una calabacera para darle sombra, y luego la dejó secar. A Jonás le dolió perder la planta. Entonces Dios le preguntó si Él no debía tener piedad de Nínive, con tanta gente y tantos animales. El libro termina con esa pregunta."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios ama a todas las personas.", "referencia": "Jonás 4:11", "fuente": "adaptado" },
+    "6-8": { "texto": "Dios es bueno y compasivo, paciente y lleno de amor.", "referencia": "Jonás 4:2", "fuente": "adaptado" },
+    "9-12": { "texto": "Misericordioso y clemente es Jehová; lento para la ira, y grande en misericordia.", "referencia": "Salmos 103:8", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre Jonás.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Jonás obedeció enseguida.", "verdadera": false, "porque": "Primero huyó en un barco." },
+            { "texto": "Un gran pez se tragó a Jonás.", "verdadera": true, "porque": "Dios lo preparó para rescatarlo." },
+            { "texto": "Dios perdonó a la gente de Nínive.", "verdadera": true, "porque": "Dios los ama a todos." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Dios mandó a Jonás a Nínive.", "verdadera": true, "porque": "Quería avisar a la gran ciudad." },
+            { "texto": "Jonás tomó un barco hacia Nínive.", "verdadera": false, "porque": "Se fue hacia Tarsis, en dirección contraria." },
+            { "texto": "Durante la tormenta, Jonás estaba dormido.", "verdadera": true, "porque": "Dormía en el fondo del barco." },
+            { "texto": "Jonás pasó tres días y tres noches dentro del pez.", "verdadera": true, "porque": "Allí oró a Dios." },
+            { "texto": "La gente de Nínive no hizo caso.", "verdadera": false, "porque": "Creyeron a Dios y dejaron su mal camino." },
+            { "texto": "Jonás se alegró de que Dios perdonara a Nínive.", "verdadera": false, "porque": "Se enojó, y Dios le enseñó a tener compasión." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Nínive era una ciudad pequeña.", "verdadera": false, "porque": "Era «ciudad sobremanera grande, de tres días de camino» (Jonás 3:3)." },
+            { "texto": "Jonás bajó a Jope para huir a Tarsis.", "verdadera": true, "porque": "Así lo cuenta Jonás 1:3." },
+            { "texto": "Los marineros echaron suertes para saber quién causaba la tormenta.", "verdadera": true, "porque": "La suerte cayó sobre Jonás (Jonás 1:7)." },
+            { "texto": "Jonás dijo que adoraba al Dios que hizo la mar y la tierra.", "verdadera": true, "porque": "Así se presentó ante los marineros (Jonás 1:9)." },
+            { "texto": "Jonás oró desde el vientre del pez.", "verdadera": true, "porque": "Su oración está en Jonás 2." },
+            { "texto": "Dios habló a Jonás una sola vez.", "verdadera": false, "porque": "Le habló «segunda vez» (Jonás 3:1)." },
+            { "texto": "El rey de Nínive se vistió de saco y se sentó en ceniza.", "verdadera": true, "porque": "Así mostró su arrepentimiento (Jonás 3:6)." },
+            { "texto": "Jonás huyó porque pensaba que Dios era demasiado duro.", "verdadera": false, "porque": "Huyó porque sabía que Dios es clemente y misericordioso (Jonás 4:2)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon en orden la historia de Jonás.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Jonás huye en un barco.",
+            "Un gran pez se traga a Jonás.",
+            "Jonás va a Nínive."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Jonás sube a un barco hacia Tarsis.",
+            "Llega una gran tormenta.",
+            "Un gran pez se traga a Jonás.",
+            "Jonás ora y el pez lo deja en tierra.",
+            "Nínive escucha y Dios la perdona."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Jonás huye a Tarsis desde Jope.",
+            "Los marineros echan suertes durante la tempestad.",
+            "Jonás ora en el vientre del pez.",
+            "Jonás recorre Nínive anunciando el mensaje.",
+            "Los ninivitas ayunan y se visten de saco.",
+            "Dios le enseña a Jonás con una calabacera."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios da segundas oportunidades y ama a todas las personas, incluso a las que nos cuesta querer.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Cómo pudo Jonás vivir dentro de un pez?",
+        "respuesta": "La Biblia lo cuenta como un milagro: Dios preparó el pez para rescatar a Jonás. Jesús mismo recordó esta historia (Mateo 12:40). Lo importante es que Dios no abandonó a Jonás, aunque había huido."
+      },
+      {
+        "pregunta": "¿Por qué Jonás no quería que Dios perdonara a Nínive?",
+        "respuesta": "Nínive era enemiga de su pueblo y había hecho mucho mal. A Jonás le costaba aceptar que Dios también los amara. Dios le enseñó que su amor es para todos, y nos invita a querer también a quienes nos cuesta."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántos días y noches estuvo Jonás dentro del gran pez?",
+      "sentir": "¿Cómo crees que se sintió Jonás cuando Dios le dio otra oportunidad? ¿Alguna vez te dieron otra oportunidad a ti?",
+      "vivir": "¿A quién podemos darle otra oportunidad esta semana, o tratar con cariño aunque nos cueste?"
+    },
+    "oracion": "Señor, gracias por darnos otra oportunidad cuando nos equivocamos. Enséñanos a amar a todos como tú los amas. Amén.",
+    "gesto": "Esta semana, si alguien se equivoca con ustedes, díganle: «Te doy otra oportunidad», y perdónenlo con un gesto amable."
+  },
+  "estampa": "El gran pez de Jonás"
+}

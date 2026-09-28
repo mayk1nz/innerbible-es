@@ -1,0 +1,153 @@
+{
+  "id": "dios-crea-el-mundo",
+  "titulo": "Dios crea el mundo",
+  "referencia": "Génesis 1–2",
+  "estudio": "genesis-1-11",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-luz",
+      "texto": {
+        "3-5": "Al principio, todo estaba oscuro. Dios dijo: «¡Que haya luz!». ¡Y la luz brilló! Fue el primer día.",
+        "6-8": "Al principio no había mar, ni árboles, ni animales. Todo estaba oscuro y vacío. Entonces Dios habló: «¡Que haya luz!». Y la luz apareció. Dios vio que la luz era buena y la separó de la oscuridad: el día y la noche. Ese fue el primer día.",
+        "9-12": "«En el principio crió Dios los cielos y la tierra» (Génesis 1:1). La tierra estaba desordenada y vacía, y el Espíritu de Dios se movía sobre las aguas. Dios no necesitó herramientas: solo habló. «Sea la luz», dijo, y la luz existió. Llamó a la luz Día y a las tinieblas Noche. Fue la tarde y la mañana: el primer día."
+      }
+    },
+    {
+      "id": "cielo-mar-plantas",
+      "texto": {
+        "3-5": "Dios hizo el cielo. Juntó el agua en los mares. ¡Y crecieron árboles, flores y frutas!",
+        "6-8": "El segundo día, Dios hizo el cielo, como un gran techo sobre las aguas. El tercer día juntó las aguas en los mares, y apareció la tierra seca. Luego hizo crecer la hierba verde, las plantas y los árboles con frutas. Y Dios vio que era bueno.",
+        "9-12": "El segundo día, Dios hizo la expansión que separa unas aguas de otras, y la llamó Cielos. El tercer día juntó las aguas en un lugar, y apareció lo seco. Llamó a lo seco Tierra y a las aguas Mares. Después la tierra produjo hierba y árboles de fruto, cada uno con su semilla. Y vio Dios que era bueno."
+      }
+    },
+    {
+      "id": "sol-luna-estrellas",
+      "texto": {
+        "3-5": "Dios puso el sol para el día. Y la luna y las estrellas para la noche. ¡Qué bonito brillan!",
+        "6-8": "El cuarto día, Dios puso luces en el cielo. El sol alumbraría el día, y la luna, la noche. ¡Y también hizo las estrellas! Gracias a ellas podemos contar los días, las estaciones y los años.",
+        "9-12": "El cuarto día, Dios hizo dos grandes lumbreras: la mayor para gobernar el día y la menor para la noche. Y la Biblia añade, casi de paso: «hizo también las estrellas» (Génesis 1:16). ¡Miles de millones de estrellas, y para Dios fueron una sola frase! Las lumbreras servirían para marcar las estaciones, los días y los años."
+      }
+    },
+    {
+      "id": "peces-aves-animales",
+      "texto": {
+        "3-5": "Dios hizo los peces y los pájaros. ¡Glu, glu! ¡Pío, pío! Y luego hizo los animales. ¡Muuu! ¡Beee!",
+        "6-8": "El quinto día, Dios llenó el mar de peces y ballenas, y el cielo de pájaros. Los bendijo para que se multiplicaran. El sexto día hizo los animales de la tierra: vacas, ovejas, animales grandes y pequeñitos. ¡Y cada uno era diferente!",
+        "9-12": "El quinto día, las aguas se llenaron de peces y de grandes ballenas, y el cielo de aves. Dios los bendijo: «Fructificad y multiplicad» (Génesis 1:22). El sexto día hizo los animales de la tierra, el ganado y los que se arrastran, cada uno «según su género». ¡Qué variedad tan asombrosa salió de su palabra!"
+      }
+    },
+    {
+      "id": "el-ser-humano",
+      "texto": {
+        "3-5": "Al final, Dios hizo al hombre y a la mujer. Los hizo parecidos a Él. ¡Y los amó mucho!",
+        "6-8": "Luego Dios hizo algo muy especial: al ser humano. Formó al hombre del polvo de la tierra y sopló en él aliento de vida. Lo puso en un jardín hermoso, en Edén. Después hizo a la mujer, para que el hombre no estuviera solo. ¡Los dos se parecían a Dios!",
+        "9-12": "Entonces Dios dijo: «Hagamos al hombre a nuestra imagen». Lo formó del polvo de la tierra y sopló en su nariz aliento de vida (Génesis 2:7). Lo puso en el huerto de Edén para cultivarlo y cuidarlo. Adán puso nombre a los animales, pero ninguno era la compañía que necesitaba. Por eso Dios hizo a la mujer, y Adán exclamó feliz: «Esto es ahora hueso de mis huesos»."
+      }
+    },
+    {
+      "id": "el-descanso",
+      "texto": {
+        "3-5": "Dios miró todo y dijo: «¡Es muy bueno!». El día siete, Dios descansó.",
+        "6-8": "Dios miró todo lo que había hecho: la luz, el mar, las plantas, los animales y las personas. ¡Todo era bueno en gran manera! El séptimo día, Dios descansó y bendijo ese día. Hoy también podemos dar gracias por este mundo tan bonito.",
+        "9-12": "Dios vio todo lo que había hecho, «y he aquí que era bueno en gran manera» (Génesis 1:31). El séptimo día reposó de toda su obra, y bendijo y santificó ese día. Así, desde el principio, Dios nos regaló un tiempo para descansar y recordar quién hizo todo."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios lo hizo todo muy bueno.", "referencia": "Génesis 1:31", "fuente": "adaptado" },
+    "6-8": { "texto": "Dios vio todo lo que había hecho, y era muy bueno.", "referencia": "Génesis 1:31", "fuente": "adaptado" },
+    "9-12": { "texto": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.", "referencia": "Génesis 1:31", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué hizo Dios primero? Pon los días de la creación en orden.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Dios hace la luz.",
+            "Dios hace los peces y los pájaros.",
+            "Dios descansa."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Dios hace la luz.",
+            "Crecen las plantas y los árboles.",
+            "Dios pone el sol, la luna y las estrellas.",
+            "Dios llena el mar de peces y el cielo de aves.",
+            "Dios hace al hombre y a la mujer."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Dios separa la luz de las tinieblas.",
+            "Dios hace la expansión y la llama Cielos.",
+            "La tierra produce hierba y árboles de fruto.",
+            "Dios pone las lumbreras y hace las estrellas.",
+            "Las aguas se llenan de peces y el cielo de aves.",
+            "Dios crea al ser humano a su imagen."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de la creación.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["el sol", "el día"],
+            ["la luna", "la noche"],
+            ["los peces", "el mar"],
+            ["los pájaros", "el cielo"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Día 1", "la luz"],
+            ["Día 3", "las plantas"],
+            ["Día 4", "el sol y la luna"],
+            ["Día 5", "peces y aves"],
+            ["Día 6", "las personas"],
+            ["Día 7", "el descanso"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Día 1", "la luz"],
+            ["Día 2", "los cielos"],
+            ["Día 3", "la tierra seca y las plantas"],
+            ["Día 4", "las lumbreras y las estrellas"],
+            ["Día 5", "peces, ballenas y aves"],
+            ["Día 6", "animales y ser humano"],
+            ["Día 7", "Dios reposa"],
+            ["Génesis 1:1", "En el principio"]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios hizo todo con cuidado y que el mundo es un regalo. Él también fue hecho con amor.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Fueron siete días de veinticuatro horas?",
+        "respuesta": "Los cristianos lo entienden de maneras distintas. Lo central del relato es quién creó todo y cómo lo hizo: Dios, con su palabra, y todo bueno. Pueden decir juntos: «Lo que sí sabemos es que Dios hizo todo»."
+      },
+      {
+        "pregunta": "¿Quién hizo a Dios?",
+        "respuesta": "Nadie. Dios siempre ha existido; no tuvo principio. Es difícil de imaginar, ¡incluso para los grandes! Pueden decir: «Dios estaba antes de todo, y todo lo hizo Él»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo Dios el primer día? ¿Y qué hizo el séptimo día?",
+      "sentir": "¿Qué parte de la creación te gusta más? ¿Cómo te sientes al saber que Dios te hizo con amor?",
+      "vivir": "¿Cómo podemos cuidar esta semana el mundo que Dios hizo: las plantas, los animales y el agua?"
+    },
+    "oracion": "Gracias, Señor, por la luz, el agua, las plantas, los animales y nuestra familia. Ayúdanos a cuidar todo lo que creaste. Amén.",
+    "gesto": "Salgan juntos a mirar el cielo o una planta. Cada uno diga una cosa creada por Dios por la que da gracias."
+  },
+  "estampa": "La luz del primer día"
+}

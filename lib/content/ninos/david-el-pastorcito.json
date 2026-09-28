@@ -1,0 +1,118 @@
+{
+  "id": "david-el-pastorcito",
+  "titulo": "David, el pastorcito",
+  "referencia": "1 Samuel 16",
+  "estudio": "1-samuel",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "samuel-va-a-belen",
+      "texto": {
+        "3-5": "Dios le dijo a Samuel: «Ve a Belén. Allí está el nuevo rey».",
+        "6-8": "Dios le dijo a Samuel: «Llena tu cuerno de aceite y ve a Belén, a casa de Isaí. He elegido a uno de sus hijos para ser rey». Samuel obedeció. Invitó a Isaí y a sus hijos a ofrecer un sacrificio.",
+        "9-12": "Saúl, el primer rey de Israel, se había apartado de Dios. El Señor dijo a Samuel: «Hinche tu cuerno de aceite, y ven, te enviaré a Isaí de Beth-lehem». Samuel fue a Belén e invitó a Isaí y a sus hijos a un sacrificio."
+      }
+    },
+    {
+      "id": "el-corazon",
+      "texto": {
+        "3-5": "Llegó Eliab, alto y fuerte. «¿Será él?». Dios dijo: «No. Yo miro el corazón».",
+        "6-8": "Llegó Eliab, el hijo mayor, alto y fuerte. Samuel pensó: «¡Seguro que es él!». Pero Dios le dijo: «No te fijes en su apariencia ni en su estatura. Las personas miran lo de afuera, pero yo miro el corazón».",
+        "9-12": "Cuando Samuel vio a Eliab, el mayor, pensó que era el elegido. Pero el Señor le dijo: «No mires a su parecer, ni a lo grande de su estatura». Las personas miran lo que ven los ojos, pero Dios mira el corazón (1 Samuel 16:7)."
+      }
+    },
+    {
+      "id": "siete-hermanos",
+      "texto": {
+        "3-5": "Pasaron siete hermanos. Dios dijo: «No, no, no». Samuel preguntó: «¿No tienes otro hijo?».",
+        "6-8": "Isaí hizo pasar a siete de sus hijos, uno por uno. Pero Dios no había elegido a ninguno. Samuel preguntó: «¿Son todos tus hijos?». Isaí respondió: «Falta el más pequeño. Está cuidando las ovejas».",
+        "9-12": "Isaí hizo pasar a siete de sus hijos: Eliab, Abinadab, Samma y los demás. Ninguno era el elegido. «¿Hanse acabado los mozos?», preguntó Samuel. «Aun queda el menor, que apacienta las ovejas». Nadie había pensado en llamarlo. Pero Samuel dijo que no se sentarían a la mesa hasta que él llegara."
+      }
+    },
+    {
+      "id": "david-ungido",
+      "texto": {
+        "3-5": "¡Llegó David, el pastorcito! Dios dijo: «Es él». Samuel le puso aceite en la cabeza.",
+        "6-8": "Fueron a buscar a David, que llegó del campo. Dios le dijo a Samuel: «Levántate y úngelo: es él». Samuel derramó aceite sobre su cabeza, delante de sus hermanos. Desde ese día, el Espíritu del Señor estuvo con David.",
+        "9-12": "Trajeron a David, «rubio, de hermoso parecer y de bello aspecto» (1 Samuel 16:12). Dios dijo: «Levántate y úngelo, que éste es». Samuel derramó el aceite sobre él, en medio de sus hermanos. Ungir era la señal de que Dios lo había elegido. Desde aquel día, el Espíritu del Señor vino sobre David."
+      }
+    },
+    {
+      "id": "el-arpa",
+      "texto": {
+        "3-5": "David tocaba el arpa muy bonito. Después escribió un canto: «El Señor es mi pastor. ¡Nada me faltará!».",
+        "6-8": "David siguió siendo humilde y trabajador. Tocaba tan bien el arpa que el rey Saúl lo llamó para que lo calmara con su música. David sabía cómo cuida un buen pastor. Por eso, más tarde, escribió: «El Señor es mi pastor; nada me faltará».",
+        "9-12": "David no se volvió orgulloso. Tocaba el arpa tan bien que lo llamaron al palacio para aliviar al rey Saúl cuando estaba angustiado (1 Samuel 16:23). Como pastor, sabía guiar, alimentar y proteger. Por eso, en uno de sus salmos, llamó a Dios su pastor: «nada me faltará» (Salmos 23:1)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios mira mi corazón.", "referencia": "1 Samuel 16:7", "fuente": "adaptado" },
+    "6-8": { "texto": "Las personas miran lo de afuera, pero Dios mira el corazón.", "referencia": "1 Samuel 16:7", "fuente": "adaptado" },
+    "9-12": { "texto": "Salmo de David. Jehová es mi pastor; nada me faltará.", "referencia": "Salmos 23:1", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas en el campo del pastorcito.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["DAVID", "ARPA", "OVEJA"], "diagonales": false, "seed": 2111 },
+        "6-8": { "tamano": 6, "palabras": ["DAVID", "SAMUEL", "ACEITE", "ARPA"], "diagonales": false, "seed": 2112 },
+        "9-12": { "tamano": 10, "palabras": ["DAVID", "SAMUEL", "ISAÍ", "ELIAB", "BELÉN", "ACEITE", "CORAZÓN", "PASTOR"], "diagonales": true, "seed": 2113 }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de David? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué cuidaba David?", "opciones": ["Ovejas", "Leones"], "correcta": 0 },
+            { "texto": "¿Qué mira Dios en nosotros?", "opciones": ["La ropa", "El corazón"], "correcta": 1 },
+            { "texto": "¿Qué tocaba David?", "opciones": ["El arpa", "El tambor"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿A qué pueblo envió Dios a Samuel?", "opciones": ["Belén", "Nínive", "Egipto"], "correcta": 0 },
+            { "texto": "¿Por qué Dios no eligió a Eliab?", "opciones": ["Porque era bajito", "Porque Dios mira el corazón", "Porque llegó tarde"], "correcta": 1 },
+            { "texto": "¿Cuántos hijos de Isaí pasaron antes de David?", "opciones": ["Tres", "Siete", "Doce"], "correcta": 1 },
+            { "texto": "¿Dónde estaba David cuando llegó Samuel?", "opciones": ["Cuidando las ovejas", "Durmiendo", "En el palacio"], "correcta": 0 },
+            { "texto": "¿Qué derramó Samuel sobre la cabeza de David?", "opciones": ["Agua", "Aceite", "Miel"], "correcta": 1, "explicacion": "Ungir con aceite era la señal de que Dios lo había elegido." }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cómo se llamaba el padre de David?", "opciones": ["Isaí", "Saúl", "Samuel", "Booz"], "correcta": 0 },
+            { "texto": "¿Qué llevó Samuel para ungir al nuevo rey?", "opciones": ["Una corona", "Un cuerno de aceite", "Una espada", "Un manto"], "correcta": 1, "explicacion": "1 Samuel 16:1." },
+            { "texto": "Según el Señor, ¿qué mira Dios?", "opciones": ["La estatura", "La riqueza", "El corazón", "La edad"], "correcta": 2, "explicacion": "1 Samuel 16:7." },
+            { "texto": "¿Quién era el hijo mayor de Isaí?", "opciones": ["David", "Eliab", "Samma", "Abinadab"], "correcta": 1 },
+            { "texto": "¿Qué pasó con David desde el día en que fue ungido?", "opciones": ["Se fue a vivir a Egipto", "El Espíritu del Señor vino sobre él", "Fue rey ese mismo día", "Dejó de cuidar ovejas"], "correcta": 1, "explicacion": "Todavía faltaban años para que reinara (1 Samuel 16:13)." },
+            { "texto": "¿Para qué llamaron a David al palacio de Saúl?", "opciones": ["Para pelear", "Para cocinar", "Para cuidar caballos", "Para tocar el arpa"], "correcta": 3, "explicacion": "Su música aliviaba al rey (1 Samuel 16:23)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios lo conoce y lo ama por dentro, y que para Dios nadie es demasiado pequeño.",
+    "siPregunta": [
+      {
+        "pregunta": "Si Dios eligió a David, ¿por qué no fue rey enseguida?",
+        "respuesta": "Pasaron años antes de que David reinara. Mientras tanto, siguió cuidando ovejas y sirviendo con humildad. Dios prepara a las personas con paciencia; lo pequeño de hoy también es parte de su plan."
+      },
+      {
+        "pregunta": "¿Está mal ser alto, fuerte o bonito?",
+        "respuesta": "¡No! Dios hizo nuestro cuerpo y es bueno. Solo que lo más importante para Él no es lo de afuera, sino un corazón que ama. Por eso no juzgamos a nadie por su apariencia."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué estaba haciendo David cuando lo mandaron llamar?",
+      "sentir": "¿Cómo crees que se sintió David cuando Dios lo eligió a él, el más pequeño? ¿Alguna vez te sentiste olvidado?",
+      "vivir": "Dios mira el corazón. ¿Qué cosa buena podemos descubrir esta semana en alguien, más allá de cómo se ve?"
+    },
+    "oracion": "Señor, gracias porque miras nuestro corazón y nos amas como somos. Ayúdanos a tener un corazón bueno como el de David. Amén.",
+    "gesto": "Esta semana, cada noche, digan una cualidad del corazón de alguien de la familia: «Me gusta que eres generoso…»."
+  },
+  "estampa": "El arpa del pastorcito"
+}

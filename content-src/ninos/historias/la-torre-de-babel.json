@@ -1,0 +1,121 @@
+{
+  "id": "la-torre-de-babel",
+  "titulo": "La torre de Babel",
+  "referencia": "Génesis 11",
+  "estudio": "genesis-1-11",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "una-lengua",
+      "texto": {
+        "3-5": "Hace mucho tiempo, todos hablaban igual. ¡Todos se entendían! Vivían juntos en un lugar muy plano.",
+        "6-8": "Después del diluvio, la familia de Noé creció y creció. Todos hablaban el mismo idioma y usaban las mismas palabras. Viajando, encontraron una gran llanura en la tierra de Sinar y se quedaron a vivir allí.",
+        "9-12": "Después del diluvio, «era toda la tierra de una lengua y unas mismas palabras» (Génesis 11:1). Los descendientes de Noé viajaron y hallaron una llanura en la tierra de Sinar, en la región que hoy llamamos Mesopotamia. Allí decidieron asentarse todos juntos."
+      }
+    },
+    {
+      "id": "ladrillos",
+      "texto": {
+        "3-5": "Hicieron muchos ladrillos. ¡Pum, pum, pum! Querían una torre altísima.",
+        "6-8": "En vez de piedras, hicieron ladrillos cocidos al fuego y los pegaban con betún. Entonces dijeron: «Construyamos una ciudad y una torre tan alta que llegue al cielo. ¡Así seremos famosos!».",
+        "9-12": "Dijeron: «Hagamos ladrillo y cozámoslo con fuego». Usaron ladrillo en lugar de piedra y betún en lugar de mezcla. Luego propusieron algo más grande: una ciudad y una torre «cuya cúspide llegue al cielo» (Génesis 11:4). Querían hacerse un nombre y no ser esparcidos por la tierra."
+      }
+    },
+    {
+      "id": "dios-ve",
+      "texto": {
+        "3-5": "Dios vio la torre. Ellos querían ser famosos. ¡Y no querían ir a llenar la tierra, como Dios pidió!",
+        "6-8": "El Señor vio la ciudad y la torre. Él conocía su corazón: querían hacerse famosos y quedarse todos en un solo lugar. Pero Dios había pedido a la familia de Noé que llenara toda la tierra.",
+        "9-12": "El Señor «descendió para ver» la ciudad y la torre (Génesis 11:5). ¡Qué ironía! Ellos querían llegar al cielo, y Dios tuvo que bajar para ver su torre. Además, su plan de no esparcirse iba contra lo que Dios había pedido a Noé y a sus hijos: llenar la tierra."
+      }
+    },
+    {
+      "id": "confusion",
+      "texto": {
+        "3-5": "Entonces Dios mezcló sus idiomas. «¿Qué dices?». «¡No te entiendo!». ¡Y dejaron de construir!",
+        "6-8": "Entonces Dios confundió su idioma. De pronto, uno pedía un ladrillo y el otro no entendía nada. «¿Qué dices?». «¡No te entiendo!». Así no podían trabajar juntos, y dejaron de construir la ciudad.",
+        "9-12": "Dios confundió su lengua, «para que ninguno entienda el habla de su compañero» (Génesis 11:7). Sin poder entenderse, dejaron de edificar la ciudad. Por eso se llamó Babel, porque allí el Señor confundió el lenguaje de toda la tierra. Y desde allí los esparció por toda la tierra."
+      }
+    },
+    {
+      "id": "muchos-pueblos",
+      "texto": {
+        "3-5": "Las familias se fueron a muchos lugares. ¡Y Dios las amaba a todas!",
+        "6-8": "Las familias se fueron a vivir a muchos lugares, cada una con su idioma. Así se llenó la tierra, como Dios quería. Mucho tiempo después, en Pentecostés, gente de muchos idiomas escuchó junta la buena noticia de Jesús.",
+        "9-12": "Las familias se esparcieron, y la tierra se llenó de pueblos y lenguas. Pero la historia no terminó ahí. En Pentecostés, el Espíritu Santo hizo que gente de muchas naciones oyera hablar de Dios en su propia lengua (Hechos 2:6). Lo que el orgullo dividió en Babel, Dios empezó a unirlo en Jesús."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios ama a los humildes.", "referencia": "Santiago 4:6", "fuente": "adaptado" },
+    "6-8": { "texto": "Dios se opone a los orgullosos y ayuda a los humildes.", "referencia": "Santiago 4:6", "fuente": "adaptado" },
+    "9-12": { "texto": "Mas él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.", "referencia": "Santiago 4:6", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas entre los ladrillos de la torre.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["TORRE", "DIOS", "BABEL"], "diagonales": false, "seed": 41 },
+        "6-8": { "tamano": 6, "palabras": ["TORRE", "BABEL", "SINAR", "IDIOMA"], "diagonales": false, "seed": 42 },
+        "9-12": { "tamano": 10, "palabras": ["BABEL", "TORRE", "LADRILLO", "BETÚN", "CIUDAD", "LENGUA", "SINAR", "HUMILDE"], "diagonales": true, "seed": 43 }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre la torre de Babel.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Al principio, todos hablaban igual.", "verdadera": true, "porque": "Todos se entendían." },
+            { "texto": "Hicieron la torre con ladrillos.", "verdadera": true, "porque": "Hicieron muchos ladrillos cocidos al fuego." },
+            { "texto": "Todos se quedaron juntos para siempre.", "verdadera": false, "porque": "Dios los esparció por toda la tierra." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Todos hablaban el mismo idioma.", "verdadera": true, "porque": "Usaban las mismas palabras." },
+            { "texto": "Construyeron la torre con piedras grandes.", "verdadera": false, "porque": "Usaron ladrillos cocidos al fuego y betún." },
+            { "texto": "Querían que la torre llegara hasta el cielo.", "verdadera": true, "porque": "Querían una torre altísima." },
+            { "texto": "Querían hacerse famosos.", "verdadera": true, "porque": "Querían hacerse un nombre." },
+            { "texto": "Cuando Dios confundió su idioma, siguieron construyendo.", "verdadera": false, "porque": "No se entendían, y dejaron de construir." },
+            { "texto": "La ciudad se llamó Jerusalén.", "verdadera": false, "porque": "Se llamó Babel." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "La llanura donde se asentaron estaba en la tierra de Sinar.", "verdadera": true, "porque": "Así lo dice Génesis 11:2." },
+            { "texto": "Usaron betún en lugar de mezcla.", "verdadera": true, "porque": "Está en Génesis 11:3." },
+            { "texto": "Querían hacerse un nombre para no ser esparcidos.", "verdadera": true, "porque": "Así lo dijeron en Génesis 11:4." },
+            { "texto": "Dios había pedido a Noé y a sus hijos que llenaran la tierra.", "verdadera": true, "porque": "«Fructificad, y multiplicad, y henchid la tierra» (Génesis 9:1)." },
+            { "texto": "La Biblia dice que Dios destruyó la torre con un rayo.", "verdadera": false, "porque": "El texto no lo dice: solo que dejaron de edificar la ciudad (Génesis 11:8)." },
+            { "texto": "El nombre Babel se relaciona con la confusión de las lenguas.", "verdadera": true, "porque": "Génesis 11:9 lo explica así." },
+            { "texto": "Después de Babel, Dios se olvidó de los pueblos de la tierra.", "verdadera": false, "porque": "Enseguida llamó a Abram para bendecir a todas las familias de la tierra (Génesis 12:3)." },
+            { "texto": "En Pentecostés, cada uno oía hablar en su propia lengua.", "verdadera": true, "porque": "Así lo cuenta Hechos 2:6." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que el orgullo nos separa. Dios nos une cuando trabajamos con humildad y lo ponemos a Él primero.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué a Dios no le gustó la torre?",
+        "respuesta": "El problema no era construir, sino el corazón: querían ser famosos y no llenar la tierra como Dios pidió. Puedes decir: «A Dios le gusta que construyamos cosas, pero con Él y para el bien de todos»."
+      },
+      {
+        "pregunta": "¿Por qué hay tantos idiomas?",
+        "respuesta": "La Biblia lo cuenta con esta historia. Hoy vemos los idiomas como un regalo. En el cielo habrá gente de todas las naciones y lenguas alabando juntos a Dios (Apocalipsis 7:9)."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Con qué construyeron la torre? ¿Por qué dejaron de construirla?",
+      "sentir": "¿Cómo te sentirías si nadie entendiera lo que dices? ¿Qué sientes cuando alguien presume de ser el mejor?",
+      "vivir": "¿En qué tarea de la casa podemos trabajar juntos esta semana, ayudándonos sin presumir?"
+    },
+    "oracion": "Señor, líbranos del orgullo. Enséñanos a trabajar juntos, a escucharnos y a ponerte a ti primero. Amén.",
+    "gesto": "Construyan juntos una torre de bloques o cajas. Al poner cada pieza, digan algo bueno de otra persona de la familia."
+  },
+  "estampa": "El ladrillo de Babel"
+}

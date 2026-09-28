@@ -1,0 +1,148 @@
+{
+  "id": "la-cruz-y-la-tumba-vacia",
+  "titulo": "La cruz y la tumba vacía",
+  "referencia": "Lucas 24:1-12",
+  "estudio": "resurreccion",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-cruz",
+      "texto": {
+        "3-5": "Jesús murió en una cruz. Antes, oró: «Padre, perdónalos». Jesús dio su vida por amor.",
+        "6-8": "Algunas personas no querían a Jesús. Lo condenaron a morir en una cruz, aunque no había hecho nada malo. Aun allí, Jesús oró: «Padre, perdónalos, porque no saben lo que hacen». Al final dijo: «Padre, en tus manos pongo mi espíritu». Y murió. Jesús dio su vida por amor a nosotros.",
+        "9-12": "Aunque no había hecho ningún mal, Jesús fue condenado a morir en una cruz. Desde allí oró por quienes lo crucificaban: «Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34). Hacia el mediodía, el sol se oscureció. Jesús clamó: «Padre, en tus manos encomiendo mi espíritu», y murió. Entregó su vida por amor."
+      }
+    },
+    {
+      "id": "el-sepulcro",
+      "texto": {
+        "3-5": "Sus amigos estaban muy tristes. Pusieron a Jesús en una tumba. Una tumba en una roca.",
+        "6-8": "Un hombre bueno llamado José de Arimatea pidió permiso para enterrar a Jesús. Lo envolvió en una sábana y lo puso en una tumba nueva, cavada en la roca. Las mujeres que seguían a Jesús vieron dónde lo ponían. Luego descansaron el sábado, muy tristes.",
+        "9-12": "José de Arimatea, «varón bueno y justo», pidió a Pilato el cuerpo de Jesús (Lucas 23:50-52). Lo envolvió en una sábana y lo puso en un sepulcro abierto en una peña, donde nadie había sido puesto. Las mujeres de Galilea miraron dónde lo ponían. Prepararon perfumes y reposaron el sábado."
+      }
+    },
+    {
+      "id": "domingo-temprano",
+      "texto": {
+        "3-5": "El domingo, muy temprano, unas mujeres fueron a la tumba. ¡La piedra estaba quitada! ¡Y Jesús no estaba!",
+        "6-8": "El domingo, muy de mañana, las mujeres fueron a la tumba con los perfumes que habían preparado. Al llegar, vieron que la piedra de la entrada estaba corrida. Entraron, pero el cuerpo de Jesús no estaba. No entendían qué había pasado.",
+        "9-12": "«El primer día de la semana, muy de mañana», las mujeres volvieron al sepulcro con los perfumes (Lucas 24:1). Hallaron la piedra removida. Entraron y no hallaron el cuerpo del Señor Jesús. Estaban desconcertadas: no esperaban una tumba vacía."
+      }
+    },
+    {
+      "id": "ha-resucitado",
+      "texto": {
+        "3-5": "¡De pronto, dos hombres con ropa brillante! «Jesús no está aquí. ¡Está vivo! ¡Resucitó!».",
+        "6-8": "De pronto, aparecieron junto a ellas dos hombres con ropas que brillaban como la luz. Las mujeres se asustaron y bajaron la mirada. Ellos les dijeron: «¿Por qué buscan entre los muertos al que vive? No está aquí: ¡ha resucitado!». Y les recordaron que Jesús lo había anunciado.",
+        "9-12": "Dos varones con vestiduras resplandecientes se pararon junto a ellas. Más adelante, Lucas dice que fue una «visión de ángeles» (Lucas 24:23). Les dijeron: «¿Por qué buscáis entre los muertos al que vive? No está aquí, mas ha resucitado». Les recordaron que Jesús había dicho que resucitaría al tercer día. Y ellas se acordaron de sus palabras."
+      }
+    },
+    {
+      "id": "corren-a-contarlo",
+      "texto": {
+        "3-5": "Las mujeres corrieron a contarlo. Pedro también corrió a la tumba. ¡Estaba vacía! ¡Jesús vive!",
+        "6-8": "Las mujeres corrieron a contárselo a los apóstoles. Eran María Magdalena, Juana, María la madre de Jacobo y otras más. Pero ellos no les creyeron. Entonces Pedro corrió a la tumba, miró dentro y solo vio las telas. Se fue asombrado. ¡Jesús estaba vivo!",
+        "9-12": "María Magdalena, Juana, María la madre de Jacobo y las demás contaron todo a los once. Pero a ellos les pareció una locura. Pedro corrió al sepulcro, miró dentro y vio solo los lienzos. Se fue «maravillándose de lo que había sucedido» (Lucas 24:12). La tumba vacía era el comienzo de la mejor noticia: ¡Jesús vive!"
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Jesús está vivo!", "referencia": "Lucas 24:6", "fuente": "adaptado" },
+    "6-8": { "texto": "¿Por qué buscan entre los muertos al que vive? No está aquí: ¡ha resucitado!", "referencia": "Lucas 24:5-6", "fuente": "adaptado" },
+    "9-12": { "texto": "Y como tuviesen ellas temor, y bajasen el rostro a tierra, les dijeron: ¿Por qué buscáis entre los muertos al que vive?", "referencia": "Lucas 24:5", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Ordena la historia de la Pascua.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Jesús da su vida en la cruz.",
+            "Las mujeres van a la tumba.",
+            "¡Jesús está vivo!"
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Jesús ora: «Padre, perdónalos».",
+            "José pone a Jesús en una tumba nueva.",
+            "El domingo, las mujeres encuentran la piedra corrida.",
+            "Dos hombres dicen: «¡Ha resucitado!».",
+            "Pedro corre y ve solo las telas."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "«Padre, en tus manos encomiendo mi espíritu».",
+            "José de Arimatea pide el cuerpo de Jesús a Pilato.",
+            "Las mujeres preparan perfumes y reposan el sábado.",
+            "El primer día de la semana hallan la piedra removida.",
+            "«¿Por qué buscáis entre los muertos al que vive?».",
+            "Pedro ve los lienzos y se va maravillado."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Jesús oró por los que le hacían daño.", "verdadera": true, "porque": "Dijo: «Padre, perdónalos»." },
+            { "texto": "Las mujeres encontraron a Jesús en la tumba.", "verdadera": false, "porque": "¡La tumba estaba vacía! Jesús resucitó." },
+            { "texto": "Jesús está vivo.", "verdadera": true, "porque": "¡Jesús resucitó!" }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Jesús había hecho algo malo.", "verdadera": false, "porque": "Jesús no había hecho nada malo." },
+            { "texto": "José de Arimatea puso a Jesús en una tumba nueva.", "verdadera": true, "porque": "Una tumba cavada en la roca, donde nadie había sido puesto." },
+            { "texto": "Las mujeres fueron a la tumba un domingo muy temprano.", "verdadera": true, "porque": "Fueron el primer día de la semana, muy de mañana." },
+            { "texto": "La piedra seguía cerrando la tumba.", "verdadera": false, "porque": "La piedra estaba corrida." },
+            { "texto": "Los apóstoles creyeron enseguida a las mujeres.", "verdadera": false, "porque": "Al principio no les creyeron." },
+            { "texto": "Pedro corrió a la tumba para ver.", "verdadera": true, "porque": "Miró dentro, vio las telas y se fue asombrado." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Desde la cruz, Jesús pidió perdón para quienes lo crucificaban.", "verdadera": true, "porque": "«Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34)." },
+            { "texto": "José de Arimatea estuvo de acuerdo con condenar a Jesús.", "verdadera": false, "porque": "Lucas dice que no había consentido en esa decisión (Lucas 23:51)." },
+            { "texto": "Las mujeres reposaron el sábado, conforme al mandamiento.", "verdadera": true, "porque": "Así lo cuenta Lucas 23:56." },
+            { "texto": "Las mujeres esperaban encontrar la tumba vacía.", "verdadera": false, "porque": "Llevaban perfumes para el cuerpo: no lo esperaban (Lucas 24:1-3)." },
+            { "texto": "Los varones les preguntaron por qué buscaban entre los muertos al que vive.", "verdadera": true, "porque": "Lucas 24:5." },
+            { "texto": "Jesús nunca había anunciado que resucitaría.", "verdadera": false, "porque": "Lo había dicho en Galilea: «resucite al tercer día» (Lucas 24:6-7)." },
+            { "texto": "Entre las mujeres estaban María Magdalena y Juana.", "verdadera": true, "porque": "También María la madre de Jacobo y otras (Lucas 24:10)." },
+            { "texto": "Pedro vio el cuerpo de Jesús dentro del sepulcro.", "verdadera": false, "porque": "Vio «solos los lienzos echados» (Lucas 24:12)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño sepa que Jesús dio su vida por amor y que resucitó: ¡Jesús está vivo y está con nosotros!",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué mataron a Jesús si era bueno?",
+        "respuesta": "Algunas personas tuvieron envidia de Jesús y no quisieron escucharlo. Pero Jesús no perdió: dio su vida por amor, perdonó y venció la muerte. Evita detalles de dolor; quédate en su amor y en la victoria."
+      },
+      {
+        "pregunta": "¿Jesús sintió dolor? Me da pena.",
+        "respuesta": "Sí, y está bien sentir pena: sus amigos también lloraron. Pero la historia no termina en la cruz. Tres días después, ¡Jesús resucitó! Por eso la Pascua es una fiesta de alegría."
+      },
+      {
+        "pregunta": "¿Las personas que mueren también van a vivir otra vez?",
+        "respuesta": "Jesús prometió: «Yo soy la resurrección y la vida» (Juan 11:25). Su tumba vacía nos da esperanza: la muerte no tiene la última palabra. Si el niño está viviendo un duelo, acompáñalo con calma y ternura."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué encontraron las mujeres cuando llegaron a la tumba el domingo?",
+      "sentir": "¿Cómo crees que se sintieron las mujeres al escuchar: «¡No está aquí, ha resucitado!»?",
+      "vivir": "¿A quién podemos contarle esta semana la buena noticia de que Jesús está vivo?"
+    },
+    "oracion": "Señor Jesús, gracias por dar tu vida por amor. ¡Tú estás vivo! Llena nuestra casa de tu alegría y de tu paz. Amén.",
+    "gesto": "El domingo, al despertar, saluden a cada uno de la familia diciendo: «¡Jesús está vivo!». Pueden responder: «¡Verdaderamente, está vivo!»."
+  },
+  "estampa": "La tumba vacía"
+}

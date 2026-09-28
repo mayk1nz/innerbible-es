@@ -1,0 +1,144 @@
+{
+  "id": "moises-en-la-canasta",
+  "titulo": "Moisés en la canasta",
+  "referencia": "Éxodo 2",
+  "estudio": "exodo",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-bebe",
+      "texto": {
+        "3-5": "En Egipto nació un bebé hebreo. ¡Era muy hermoso! Su mamá lo escondió para protegerlo.",
+        "6-8": "El pueblo hebreo vivía en Egipto. El faraón, el rey de Egipto, dio una orden muy injusta contra los bebés varones hebreos. Una mamá de la familia de Leví tuvo un niño hermoso. Para protegerlo, lo escondió en casa durante tres meses.",
+        "9-12": "Los hebreos eran esclavos en Egipto, y el faraón temía que fueran demasiados. Por eso ordenó echar al río a los niños hebreos que nacieran (Éxodo 1:22). Una mujer de la tribu de Leví dio a luz un hijo hermoso. Valiente, lo escondió durante tres meses. Más adelante, la Biblia dice su nombre: Jocabed (Éxodo 6:20)."
+      }
+    },
+    {
+      "id": "la-canasta",
+      "texto": {
+        "3-5": "La mamá hizo una canasta. La cubrió para que no entrara agua. ¡Y puso al bebé a flotar entre los juncos!",
+        "6-8": "Cuando ya no pudo esconderlo más, tomó una canasta de juncos. La cubrió con brea para que no entrara el agua. Acostó al bebé dentro y la dejó entre las plantas, a la orilla del río. Su hermana mayor se quedó mirando de lejos.",
+        "9-12": "Cuando ya no pudo ocultarlo, hizo una arquilla de juncos y la cubrió con betún y brea, como un pequeño barco. Puso al niño dentro y la dejó en el carrizal, a la orilla del río. Su hermana se quedó a lo lejos «para ver lo que le acontecería» (Éxodo 2:4)."
+      }
+    },
+    {
+      "id": "la-princesa",
+      "texto": {
+        "3-5": "La hija del rey bajó al río. «¿Qué es eso?». ¡Era un bebé llorando! Ella sintió ternura por él.",
+        "6-8": "La hija del faraón bajó a bañarse en el río y vio la canasta entre las plantas. Mandó a una criada a traerla. Al abrirla, ¡el bebé estaba llorando! Ella sintió compasión y dijo: «Es uno de los niños de los hebreos».",
+        "9-12": "La hija del faraón bajó a bañarse al río con sus doncellas. Vio la arquilla y mandó a una criada a traerla. Al abrirla, el niño lloraba, y ella «tuvo compasión de él» (Éxodo 2:6). Sabía que era un niño hebreo, y aun así decidió protegerlo."
+      }
+    },
+    {
+      "id": "la-hermana",
+      "texto": {
+        "3-5": "La hermana del bebé se acercó: «¿Busco a alguien que lo cuide?». «¡Sí!». ¡Y trajo a su propia mamá!",
+        "6-8": "Entonces la hermana se acercó con valentía: «¿Quieres que busque a una mujer hebrea que lo cuide?». «Ve», respondió la princesa. ¡Y la niña fue a llamar a su propia mamá! La princesa le pidió que criara al bebé, y hasta le pagó por hacerlo.",
+        "9-12": "La hermana se acercó con astucia: «¿Iré a llamarte un ama de las Hebreas, para que te críe este niño?». La princesa aceptó, y la niña trajo… a su propia madre. Así, el bebé volvió a los brazos de su mamá. ¡Y ella recibió un pago por cuidarlo!"
+      }
+    },
+    {
+      "id": "moises",
+      "texto": {
+        "3-5": "El niño creció. La princesa lo llamó Moisés. ¡Dios lo cuidó en el río y lo cuidó siempre!",
+        "6-8": "Cuando el niño creció, su mamá lo llevó a la princesa, y ella lo adoptó como hijo. Le puso por nombre Moisés, porque dijo: «Lo saqué de las aguas». Dios estaba cuidando al niño que un día guiaría a su pueblo hacia la libertad.",
+        "9-12": "Cuando el niño creció, su madre lo llevó a la princesa, que lo adoptó como hijo. Ella lo llamó Moisés, «porque de las aguas lo saqué» (Éxodo 2:10). Moisés creció en el palacio del mismo faraón que oprimía a su pueblo. Nadie lo sabía todavía, pero Dios estaba preparando al que sacaría a Israel de Egipto."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios me ve y me cuida.", "referencia": "Éxodo 2:25", "fuente": "adaptado" },
+    "6-8": { "texto": "Dios escuchó a su pueblo y se acordó de su promesa.", "referencia": "Éxodo 2:24", "fuente": "adaptado" },
+    "9-12": { "texto": "Así, no es la voluntad de vuestro Padre que está en los cielos, que se pierda uno de estos pequeños.", "referencia": "Mateo 18:14", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon en orden la historia del bebé Moisés.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "La mamá esconde a su bebé.",
+            "El bebé flota en su canasta.",
+            "La princesa encuentra al bebé."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Nace un bebé hebreo muy hermoso.",
+            "Su mamá lo esconde tres meses.",
+            "Lo pone en una canasta a la orilla del río.",
+            "La hija del faraón lo encuentra llorando.",
+            "La hermana trae a su mamá para cuidarlo."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "El faraón da una orden cruel contra los niños hebreos.",
+            "Una mujer de Leví esconde a su hijo tres meses.",
+            "Prepara una arquilla de juncos con betún y brea.",
+            "La hija del faraón abre la arquilla y tiene compasión.",
+            "La hermana ofrece buscar un ama hebrea.",
+            "La princesa le pone por nombre Moisés."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de la historia.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["el bebé", "la canasta"],
+            ["la princesa", "el río"],
+            ["la hermana", "«¡Yo la busco!»"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["el bebé", "la canasta"],
+            ["la hermana", "mira de lejos"],
+            ["la princesa", "el río"],
+            ["la mamá", "lo esconde"],
+            ["Moisés", "«sacado del agua»"],
+            ["la brea", "no entra el agua"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Moisés", "«de las aguas lo saqué»"],
+            ["la arquilla", "juncos, betún y brea"],
+            ["la hermana", "«¿Iré a llamarte un ama?»"],
+            ["la hija del faraón", "tuvo compasión"],
+            ["Jocabed", "la madre de Moisés"],
+            ["Leví", "la tribu de la familia"],
+            ["tres meses", "escondido en casa"],
+            ["el carrizal", "la orilla del río"]
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios cuida a los pequeños y usa a personas valientes y compasivas para protegerlos.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué la mamá tuvo que esconder a su bebé?",
+        "respuesta": "El rey de Egipto había dado una orden injusta contra los bebés hebreos. Con los pequeños basta decir: «Un rey no quería a los bebés hebreos, pero Dios sí los cuidaba». La mamá no abandonó a Moisés: buscó la manera más segura de protegerlo."
+      },
+      {
+        "pregunta": "¿Cómo se llamaba la hermana de Moisés?",
+        "respuesta": "En esta parte la Biblia no dice su nombre. Más adelante nombra a María (Miriam) como hermana de Moisés y Aarón (Números 26:59), por eso muchos piensan que era ella."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Dónde puso la mamá al bebé para protegerlo?",
+      "sentir": "¿Cómo crees que se sintió la hermana mirando la canasta desde lejos? ¿Alguna vez cuidaste a alguien más pequeño?",
+      "vivir": "¿Cómo podemos cuidar esta semana a alguien más pequeño o más débil que nosotros?"
+    },
+    "oracion": "Señor, gracias porque nos cuidas desde que somos pequeños. Ayúdanos a proteger a los demás, como la hermana de Moisés. Amén.",
+    "gesto": "Esta semana, que cada uno ayude a cuidar a alguien más pequeño: un hermanito, un primo o una mascota."
+  },
+  "estampa": "La canasta de Moisés"
+}

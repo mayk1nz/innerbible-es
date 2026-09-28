@@ -1,0 +1,118 @@
+{
+  "id": "la-escalera-de-jacob",
+  "titulo": "La escalera de Jacob",
+  "referencia": "Génesis 28",
+  "estudio": "genesis-12-50",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "de-viaje",
+      "texto": {
+        "3-5": "Jacob se fue de su casa. Caminó y caminó, solito. ¡Estaba lejos de todos!",
+        "6-8": "Jacob había engañado a su hermano Esaú, y Esaú estaba muy enojado. Por eso Jacob tuvo que irse lejos, a casa de su tío Labán, en Harán. Su padre Isaac lo bendijo, y Jacob partió solo por caminos largos.",
+        "9-12": "Jacob había engañado a su padre Isaac para quedarse con la bendición de su hermano Esaú, y Esaú estaba furioso. Con la bendición de Isaac, Jacob salió de Beer-seba rumbo a Harán, a casa de su tío Labán (Génesis 28:10). Era un viaje largo, y lo hizo solo."
+      }
+    },
+    {
+      "id": "piedra-almohada",
+      "texto": {
+        "3-5": "Llegó la noche. Jacob tomó una piedra como almohada. Y se durmió.",
+        "6-8": "Cuando se puso el sol, Jacob se detuvo para dormir. No tenía cama ni almohada. Tomó una piedra, la puso debajo de su cabeza y se acostó. ¡Qué noche tan dura y tan solitaria!",
+        "9-12": "Al ponerse el sol, llegó a un lugar y decidió pasar la noche allí. Tomó una de las piedras del lugar, la puso de cabecera y se acostó. Lejos de casa, sin su familia y huyendo de su hermano, Jacob no esperaba encontrarse con Dios esa noche."
+      }
+    },
+    {
+      "id": "el-sueno",
+      "texto": {
+        "3-5": "Jacob soñó con una escalera. ¡Llegaba hasta el cielo! Los ángeles subían y bajaban.",
+        "6-8": "Entonces Jacob tuvo un sueño increíble. Vio una escalera apoyada en la tierra que llegaba hasta el cielo. ¡Los ángeles de Dios subían y bajaban por ella! Y arriba de la escalera estaba el Señor.",
+        "9-12": "Y soñó: «He aquí una escala que estaba apoyada en tierra, y su cabeza tocaba en el cielo» (Génesis 28:12). Por ella subían y descendían ángeles de Dios. En lo alto estaba el Señor. El cielo y la tierra ya no parecían tan lejanos: Dios había abierto un camino."
+      }
+    },
+    {
+      "id": "la-promesa",
+      "texto": {
+        "3-5": "Dios le dijo: «Yo estoy contigo. Te cuidaré a donde vayas». ¡Qué bonito!",
+        "6-8": "El Señor le habló: «Yo soy el Dios de Abraham y de Isaac. Te daré esta tierra, y tu familia será enorme. Yo estoy contigo y te cuidaré a donde vayas. ¡No te dejaré!». Jacob no lo merecía, pero Dios lo amaba.",
+        "9-12": "El Señor le renovó la promesa hecha a Abraham e Isaac: tierra, descendencia y bendición para todas las familias de la tierra. Y le dio una palabra personal: «Yo soy contigo, y te guardaré por donde quiera que fueres» (Génesis 28:15). Dios no le echó en cara su engaño: le ofreció su compañía."
+      }
+    },
+    {
+      "id": "betel",
+      "texto": {
+        "3-5": "Jacob despertó. «¡Dios está aquí!», dijo. Y llamó a ese lugar Betel: casa de Dios.",
+        "6-8": "Jacob despertó y dijo: «¡Dios está en este lugar, y yo no lo sabía!». Por la mañana puso la piedra de pie, como recuerdo, y le echó aceite. Llamó a aquel lugar Betel, que significa «casa de Dios».",
+        "9-12": "Al despertar, Jacob exclamó que el Señor estaba en aquel lugar, y él no lo sabía. Levantó la piedra como señal, derramó aceite sobre ella y llamó al lugar Betel, «casa de Dios». Siglos después, Jesús usaría esta imagen para hablar de sí mismo (Juan 1:51). Él es el camino que une el cielo y la tierra."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios está conmigo.", "referencia": "Génesis 28:15", "fuente": "adaptado" },
+    "6-8": { "texto": "Yo estoy contigo y te cuidaré a dondequiera que vayas.", "referencia": "Génesis 28:15", "fuente": "adaptado" },
+    "9-12": { "texto": "Y despertó Jacob de su sueño, y dijo: Ciertamente Jehová está en este lugar, y yo no lo sabía.", "referencia": "Génesis 28:16", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas del sueño de Jacob? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué usó Jacob como almohada?", "opciones": ["Una piedra", "Una nube"], "correcta": 0 },
+            { "texto": "¿Quiénes subían y bajaban por la escalera?", "opciones": ["Los gatos", "Los ángeles"], "correcta": 1 },
+            { "texto": "¿Qué le dijo Dios a Jacob?", "opciones": ["«Yo estoy contigo»", "«Vete solo»"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Por qué Jacob tuvo que irse lejos?", "opciones": ["Porque había engañado a su hermano Esaú", "Porque buscaba un tesoro", "Porque quería ser rey"], "correcta": 0 },
+            { "texto": "¿Hasta dónde llegaba la escalera?", "opciones": ["Hasta el techo", "Hasta el cielo", "Hasta el mar"], "correcta": 1 },
+            { "texto": "¿Qué le prometió Dios?", "opciones": ["Un camello nuevo", "Estar con él y cuidarlo", "Una casa grande"], "correcta": 1 },
+            { "texto": "¿Qué hizo Jacob con la piedra por la mañana?", "opciones": ["La tiró al río", "La usó para una casa", "La puso de pie como recuerdo y le echó aceite"], "correcta": 2 },
+            { "texto": "¿Qué significa Betel?", "opciones": ["Casa de Dios", "Escalera", "Piedra grande"], "correcta": 0 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Adónde se dirigía Jacob?", "opciones": ["A Egipto", "A Harán", "A Jerusalén", "A Nínive"], "correcta": 1 },
+            { "texto": "¿De qué lugar salió Jacob?", "opciones": ["De Beer-seba", "De Belén", "De Ur", "De Sodoma"], "correcta": 0 },
+            { "texto": "¿Cómo sería la descendencia de Jacob, según Dios?", "opciones": ["Como los árboles", "Como el polvo de la tierra", "Como las olas", "Como las nubes"], "correcta": 1, "explicacion": "Génesis 28:14: «como el polvo de la tierra»." },
+            { "texto": "¿Cómo se llamaba antes la ciudad de Betel?", "opciones": ["Salem", "Hebrón", "Luz", "Siquem"], "correcta": 2, "explicacion": "Génesis 28:19." },
+            { "texto": "¿Qué prometió Jacob apartar para Dios de todo lo que recibiera?", "opciones": ["Nada", "La mitad", "El diezmo", "Todo"], "correcta": 2, "explicacion": "Génesis 28:22." },
+            { "texto": "¿Quién usó la imagen de los ángeles que suben y bajan para hablar de sí mismo?", "opciones": ["Moisés", "David", "Pablo", "Jesús"], "correcta": 3, "explicacion": "Juan 1:51." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas junto a la escalera.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["JACOB", "SUEÑO", "DIOS"], "diagonales": false, "seed": 71 },
+        "6-8": { "tamano": 6, "palabras": ["JACOB", "PIEDRA", "SUEÑO", "ÁNGEL"], "diagonales": false, "seed": 72 },
+        "9-12": { "tamano": 10, "palabras": ["JACOB", "ESCALERA", "BETEL", "ÁNGELES", "PIEDRA", "ACEITE", "HARÁN", "SUEÑO"], "diagonales": true, "seed": 73 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios está con nosotros en todo lugar, aun cuando nos sentimos solos o hemos hecho algo mal.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Dios le habló a Jacob si había engañado a su hermano?",
+        "respuesta": "Porque el amor de Dios no depende de que seamos perfectos. Dios no aprobó el engaño, y Jacob vivió después sus consecuencias. Pero Dios salió a buscarlo. Así es la gracia: Dios se acerca primero."
+      },
+      {
+        "pregunta": "¿Los ángeles existen?",
+        "respuesta": "La Biblia habla de los ángeles como mensajeros y servidores de Dios. Pero lo más importante de esta historia no son ellos, sino Dios diciendo: «Yo estoy contigo»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué vio Jacob en su sueño? ¿Qué le prometió Dios?",
+      "sentir": "¿Alguna vez te has sentido solo o lejos de casa? ¿Cómo te hace sentir saber que Dios está contigo?",
+      "vivir": "¿En qué lugar de nuestra casa podemos hacer un «Betel», un rincón para hablar con Dios?"
+    },
+    "oracion": "Señor, gracias porque estás con nosotros en todo lugar, de día y de noche. Cuídanos a donde vayamos. Amén.",
+    "gesto": "Busquen una piedra bonita y escriban o dibujen en ella «Dios está aquí». Pónganla junto a la cama del niño."
+  },
+  "estampa": "La escalera de Betel"
+}

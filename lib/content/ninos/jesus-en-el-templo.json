@@ -1,0 +1,118 @@
+{
+  "id": "jesus-en-el-templo",
+  "titulo": "Jesús, a los 12 años, en el templo",
+  "referencia": "Lucas 2:41-52",
+  "estudio": "nacimiento",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-pascua",
+      "texto": {
+        "3-5": "Jesús tenía doce años. Con su familia viajó a Jerusalén. ¡Era la gran fiesta de la Pascua!",
+        "6-8": "Todos los años, José y María iban a Jerusalén para la fiesta de la Pascua. Cuando Jesús cumplió doce años, fue con ellos. Viajaban junto con parientes y amigos, caminando y conversando.",
+        "9-12": "Cada año, los padres de Jesús subían a Jerusalén para la Pascua. Esa fiesta recordaba cómo Dios había liberado a su pueblo de Egipto. Cuando Jesús tuvo doce años, subieron «conforme a la costumbre del día de la fiesta» (Lucas 2:42). Viajaban en caravana, con parientes y conocidos."
+      }
+    },
+    {
+      "id": "se-quedo",
+      "texto": {
+        "3-5": "La fiesta terminó. Todos volvieron a casa. Pero… ¿dónde está Jesús? ¡Se quedó en Jerusalén!",
+        "6-8": "Cuando terminó la fiesta, José y María emprendieron el regreso. Pensaban que Jesús iba con los parientes y amigos. Pero Jesús se había quedado en Jerusalén, y ellos no lo sabían. Después de un día de camino, lo buscaron entre todos… ¡y no estaba!",
+        "9-12": "Terminada la fiesta, volvieron a casa, pero el niño Jesús se quedó en Jerusalén sin que José y su madre lo supieran. Pensaban que iba en la caravana. Anduvieron un día de camino y lo buscaron entre parientes y conocidos. Al no hallarlo, volvieron a Jerusalén a buscarlo."
+      }
+    },
+    {
+      "id": "en-el-templo",
+      "texto": {
+        "3-5": "José y María lo buscaron por todas partes. ¡Tres días! Al fin lo encontraron en el templo.",
+        "6-8": "Preocupados, José y María volvieron a Jerusalén. Buscaron y buscaron. ¡Al tercer día lo encontraron en el templo! Jesús estaba sentado entre los maestros, escuchándolos y haciéndoles preguntas. Todos se asombraban de lo bien que entendía y respondía.",
+        "9-12": "Tres días después lo hallaron en el templo, «sentado en medio de los doctores, oyéndoles y preguntándoles» (Lucas 2:46). Los doctores eran los maestros que enseñaban la Ley de Dios. Todos se asombraban de su entendimiento y de sus respuestas. Jesús escuchaba y preguntaba: así también se aprende de Dios."
+      }
+    },
+    {
+      "id": "mi-padre",
+      "texto": {
+        "3-5": "María le dijo: «¡Hijo, te buscamos mucho!». Jesús respondió: «Tengo que estar en la casa de mi Padre».",
+        "6-8": "Su madre le dijo: «Hijo, ¿por qué nos hiciste esto? Tu padre y yo te buscábamos muy angustiados». Jesús respondió: «¿Por qué me buscaban? ¿No sabían que debo estar en la casa de mi Padre?». Ellos no entendieron lo que quiso decir.",
+        "9-12": "Su madre le dijo: «Hijo, ¿por qué nos has hecho así? He aquí, tu padre y yo te hemos buscado con dolor». Jesús respondió: «¿No sabíais que en los negocios de mi Padre me conviene estar?» (Lucas 2:49). Son las primeras palabras de Jesús que recogen los evangelios. Ellos no entendieron lo que les dijo."
+      }
+    },
+    {
+      "id": "crecia",
+      "texto": {
+        "3-5": "Jesús volvió a casa con José y María. Los obedecía. ¡Y crecía, crecía, crecía!",
+        "6-8": "Jesús volvió a Nazaret con José y María, y los obedecía. María guardaba todas estas cosas en su corazón. Y Jesús crecía: se hacía más alto y más sabio, y Dios y la gente lo querían mucho.",
+        "9-12": "Jesús descendió con ellos a Nazaret «y estaba sujeto a ellos» (Lucas 2:51): el Hijo de Dios obedecía a sus padres. Su madre guardaba todo en su corazón. Y Jesús crecía en sabiduría, en edad y en gracia para con Dios y los hombres. Crecer con Dios es crecer por dentro y por fuera."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Jesús crecía, y todos lo querían.", "referencia": "Lucas 2:52", "fuente": "adaptado" },
+    "6-8": { "texto": "Jesús crecía en sabiduría y en estatura, y Dios y la gente lo querían.", "referencia": "Lucas 2:52", "fuente": "adaptado" },
+    "9-12": { "texto": "Y Jesús crecía en sabiduría, y en edad, y en gracia para con Dios y los hombres.", "referencia": "Lucas 2:52", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Te acuerdas de la historia? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Cuántos años tenía Jesús?", "opciones": ["Doce años", "Dos años"], "correcta": 0, "explicacion": "¡Tenía doce años!" },
+            { "texto": "¿Dónde encontraron a Jesús?", "opciones": ["En el templo", "En el mar"], "correcta": 0, "explicacion": "Estaba en el templo, escuchando y preguntando." },
+            { "texto": "¿Qué hizo Jesús después?", "opciones": ["Se fue solo otra vez", "Volvió a casa y obedecía"], "correcta": 1, "explicacion": "Volvió a Nazaret y obedecía a José y María." }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿A qué fiesta fueron?", "opciones": ["La Pascua", "Una boda", "Un cumpleaños"], "correcta": 0, "explicacion": "Iban cada año a la fiesta de la Pascua." },
+            { "texto": "¿Cuándo lo encontraron?", "opciones": ["Al primer día", "Al tercer día", "Al décimo día"], "correcta": 1, "explicacion": "Lo encontraron al tercer día." },
+            { "texto": "¿Qué hacía Jesús en el templo?", "opciones": ["Dormía", "Vendía palomas", "Escuchaba y hacía preguntas"], "correcta": 2, "explicacion": "Estaba entre los maestros, escuchando y preguntando." },
+            { "texto": "¿Cómo se sentían José y María mientras lo buscaban?", "opciones": ["Angustiados", "Aburridos", "Enojados con los maestros"], "correcta": 0, "explicacion": "María dijo que lo buscaban muy angustiados." },
+            { "texto": "¿A quién llamó Jesús «mi Padre»?", "opciones": ["A un maestro", "A Dios", "Al rey"], "correcta": 1, "explicacion": "Jesús sabía que Dios era su Padre." }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Qué recordaba la fiesta de la Pascua?", "opciones": ["La creación", "La liberación de Egipto", "El diluvio", "La torre de Babel"], "correcta": 1, "explicacion": "Recordaba cómo Dios sacó a su pueblo de Egipto." },
+            { "texto": "¿Dónde pensaban José y María que estaba Jesús?", "opciones": ["En casa", "En la caravana", "En el templo", "Con los soldados"], "correcta": 1, "explicacion": "Pensaban que iba en la compañía (Lucas 2:44)." },
+            { "texto": "¿Con quiénes estaba sentado Jesús en el templo?", "opciones": ["Con los doctores", "Con los soldados", "Con los pastores", "Con los pescadores"], "correcta": 0, "explicacion": "Estaba «en medio de los doctores» (Lucas 2:46)." },
+            { "texto": "¿De qué se asombraban los que lo oían?", "opciones": ["De su ropa", "De su voz fuerte", "De su entendimiento y sus respuestas", "De su edad"], "correcta": 2, "explicacion": "Así lo dice Lucas 2:47." },
+            { "texto": "¿Qué dice Lucas 2:51 de Jesús en Nazaret?", "opciones": ["Que viajaba mucho", "Que estaba sujeto a sus padres", "Que enseñaba en el templo", "Que vivía solo"], "correcta": 1, "explicacion": "El Hijo de Dios obedecía a sus padres." },
+            { "texto": "¿En qué crecía Jesús?", "opciones": ["Solo en estatura", "En riquezas", "En sabiduría, edad y gracia", "En fama"], "correcta": 2, "explicacion": "Así lo resume Lucas 2:52." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
+      "niveles": {
+        "3-5": { "items": ["Jesús va a la fiesta en Jerusalén.", "José y María buscan a Jesús.", "Lo encuentran en el templo."] },
+        "6-8": { "items": ["La familia viaja a Jerusalén para la Pascua.", "Jesús se queda en Jerusalén.", "José y María lo buscan entre los parientes.", "Lo encuentran en el templo con los maestros.", "Jesús vuelve a Nazaret y los obedece."] },
+        "9-12": { "items": ["Jesús, de doce años, sube a Jerusalén.", "Terminada la fiesta, se queda en la ciudad.", "Sus padres andan un día de camino sin él.", "Tres días después lo hallan en el templo.", "Jesús habla de «los negocios de mi Padre».", "Crece en sabiduría, edad y gracia."] }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Jesús amaba estar con su Padre, obedecía a sus padres y crecía por dentro y por fuera.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Jesús se portó mal al quedarse?",
+        "respuesta": "La Biblia no dice que desobedeciera: estaba donde le correspondía, en la casa de su Padre. También muestra que José y María sufrieron buscándolo, y que Jesús volvió con ellos y los obedecía. Es un buen momento para acordar qué hacer si alguna vez se pierden."
+      },
+      {
+        "pregunta": "Si Dios era su Padre, ¿quién era José?",
+        "respuesta": "José era su papá en la tierra: lo cuidó, le enseñó y lo quiso. Dios era su Padre del cielo. Por eso María dice «tu padre y yo», y Jesús habla de «mi Padre». Las dos cosas son verdad."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Dónde encontraron José y María a Jesús, y qué estaba haciendo?",
+      "sentir": "¿Cómo crees que se sintieron José y María cuando no encontraban a Jesús? ¿Y cuando lo encontraron?",
+      "vivir": "Jesús escuchaba y preguntaba sobre Dios. ¿Qué pregunta sobre Dios te gustaría hacer esta semana?"
+    },
+    "oracion": "Padre del cielo, ayúdanos a crecer como Jesús: en sabiduría, en estatura y en amor por ti y por los demás. Amén.",
+    "gesto": "Esta semana, armen una «caja de preguntas» sobre Dios. Cada uno pone una pregunta, y el domingo las conversan juntos."
+  },
+  "estampa": "Jesús en el templo"
+}

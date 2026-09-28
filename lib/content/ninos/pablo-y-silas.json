@@ -1,0 +1,141 @@
+{
+  "id": "pablo-y-silas",
+  "titulo": "Pablo y Silas cantan en la cárcel",
+  "referencia": "Hechos 16:16-34",
+  "estudio": "hechos-15-18",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-muchacha",
+      "texto": {
+        "3-5": "Pablo y Silas hablaban de Jesús. Una muchacha tenía un espíritu malo. Pablo dijo: «¡En el nombre de Jesús, sal!». ¡Y ella quedó libre!",
+        "6-8": "Pablo y su amigo Silas viajaban contando la buena noticia de Jesús. En la ciudad de Filipos había una muchacha esclava con un espíritu malo que adivinaba. Sus dueños ganaban mucho dinero con ella. Pablo dijo al espíritu: «En el nombre de Jesucristo, sal de ella». ¡Y la muchacha quedó libre!",
+        "9-12": "En Filipos, una muchacha esclava tenía un espíritu de adivinación, y sus amos ganaban mucho dinero con ella. Durante días siguió a Pablo gritando. Pablo se volvió y dijo al espíritu: «Te mando en el nombre de Jesucristo, que salgas de ella» (Hechos 16:18). Y en ese mismo momento quedó libre."
+      }
+    },
+    {
+      "id": "a-la-carcel",
+      "texto": {
+        "3-5": "Los dueños se enojaron mucho. Llevaron a Pablo y Silas ante los jueces. ¡Y los metieron en la cárcel!",
+        "6-8": "Los dueños se enojaron, porque ya no ganarían dinero. Llevaron a Pablo y a Silas ante los jueces de la ciudad y los acusaron. Los jueces los castigaron sin escucharlos y los mandaron a la cárcel. El carcelero los puso en el calabozo más profundo, con los pies sujetos.",
+        "9-12": "Al ver perdida su ganancia, los amos llevaron a Pablo y a Silas ante los magistrados. Los acusaron de alborotar la ciudad. Sin un juicio justo, los castigaron con varas y los echaron en la cárcel. El carcelero los metió en la celda de más adentro y les sujetó los pies en el cepo."
+      }
+    },
+    {
+      "id": "cantan",
+      "texto": {
+        "3-5": "Era de noche. Todo estaba oscuro. ¿Y qué hicieron Pablo y Silas? ¡Oraban y cantaban a Dios! ¡Los otros presos escuchaban!",
+        "6-8": "Pablo y Silas estaban adoloridos, en un lugar oscuro. Pero a medianoche, en vez de quejarse, se pusieron a orar y a cantar himnos a Dios. Los demás presos los escuchaban. ¡Nunca habían oído cantar a alguien en la cárcel!",
+        "9-12": "Estaban heridos, encerrados y en la oscuridad. Aun así, «a media noche, orando Pablo y Silas, cantaban himnos a Dios» (Hechos 16:25). Y los demás presos los oían. Su alegría no dependía de sus circunstancias, sino de su confianza en Dios."
+      }
+    },
+    {
+      "id": "el-terremoto",
+      "texto": {
+        "3-5": "¡Brrrum! La tierra tembló. ¡Las puertas se abrieron! Las cadenas se soltaron. El carcelero se asustó mucho. Pablo gritó: «¡No te hagas daño! ¡Todos estamos aquí!».",
+        "6-8": "De repente, ¡hubo un gran terremoto! Las puertas de la cárcel se abrieron y las cadenas de todos se soltaron. El carcelero despertó, vio las puertas abiertas y creyó que los presos se habían escapado. Se asustó muchísimo. Pero Pablo le gritó: «¡No te hagas ningún daño! ¡Todos estamos aquí!».",
+        "9-12": "De repente, un gran terremoto sacudió los cimientos de la cárcel. Todas las puertas se abrieron y las cadenas se soltaron. El carcelero despertó y, creyendo que los presos habían huido, quiso hacerse daño, lleno de miedo. Pablo clamó: «No te hagas ningún mal; que todos estamos aquí» (Hechos 16:28). Nadie escapó."
+      }
+    },
+    {
+      "id": "el-carcelero-cree",
+      "texto": {
+        "3-5": "El carcelero preguntó: «¿Qué hago para ser salvo?». «¡Cree en Jesús!». Y él creyó, con toda su familia. ¡Qué alegría!",
+        "6-8": "Temblando, el carcelero se echó a los pies de Pablo y Silas. Les preguntó: «¿Qué tengo que hacer para ser salvo?». Ellos respondieron: «Cree en el Señor Jesús, y serás salvo tú y tu familia». Esa noche, él les curó las heridas. Toda su familia fue bautizada, y comieron juntos muy felices.",
+        "9-12": "Temblando, el carcelero se postró ante ellos: «Señores, ¿qué es menester que yo haga para ser salvo?». Respondieron: «Cree en el Señor Jesucristo, y serás salvo tú, y tu casa» (Hechos 16:31). Esa misma noche les lavó las heridas y fue bautizado con toda su familia. Luego les sirvió la mesa, lleno de gozo."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Canto a Dios, ¡aun en la noche!", "referencia": "Hechos 16:25", "fuente": "adaptado" },
+    "6-8": { "texto": "A medianoche, Pablo y Silas oraban y cantaban himnos a Dios, y los otros presos los escuchaban.", "referencia": "Hechos 16:25", "fuente": "adaptado" },
+    "9-12": { "texto": "Mas a media noche, orando Pablo y Silas, cantaban himnos a Dios: y los que estaban presos los oían.", "referencia": "Hechos 16:25", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de Pablo y Silas? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué hicieron Pablo y Silas en la cárcel?", "opciones": ["Lloraron", "Oraron y cantaron"], "correcta": 1 },
+            { "texto": "¿Qué pasó de repente?", "opciones": ["La tierra tembló", "Empezó a nevar"], "correcta": 0 },
+            { "texto": "¿Qué le dijo Pablo al carcelero?", "opciones": ["«¡Cree en Jesús!»", "«¡Nos vamos!»"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿En qué ciudad estaban Pablo y Silas?", "opciones": ["Filipos", "Belén", "Nínive"], "correcta": 0 },
+            { "texto": "¿Por qué se enojaron los dueños de la muchacha?", "opciones": ["Porque Pablo cantaba", "Porque ya no ganarían dinero", "Porque llovía"], "correcta": 1 },
+            { "texto": "¿A qué hora cantaban Pablo y Silas?", "opciones": ["Al mediodía", "En la tarde", "A medianoche"], "correcta": 2 },
+            { "texto": "¿Qué hicieron los presos cuando se abrieron las puertas?", "opciones": ["Todos se quedaron", "Todos escaparon", "Se escondieron"], "correcta": 0, "explicacion": "Pablo dijo: «¡Todos estamos aquí!»." },
+            { "texto": "¿Qué hizo el carcelero esa noche?", "opciones": ["Los encerró otra vez", "Creyó en Jesús con su familia", "Se fue de la ciudad"], "correcta": 1 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Con qué ganaban dinero los amos de la muchacha?", "opciones": ["Con su canto", "Con sus adivinaciones", "Vendiendo púrpura", "Con un mercado"], "correcta": 1, "explicacion": "Tenía un espíritu de adivinación (Hechos 16:16)." },
+            { "texto": "¿En nombre de quién liberó Pablo a la muchacha?", "opciones": ["De Silas", "De los magistrados", "De Jesucristo", "De Roma"], "correcta": 2 },
+            { "texto": "¿Dónde sujetaron los pies de Pablo y Silas?", "opciones": ["En el cepo", "En un barco", "En el templo", "En una cueva"], "correcta": 0, "explicacion": "En la cárcel de más adentro (Hechos 16:24)." },
+            { "texto": "Según Hechos 16:25, ¿quiénes oían a Pablo y Silas?", "opciones": ["Los magistrados", "Los que estaban presos", "Los ángeles", "Nadie"], "correcta": 1 },
+            { "texto": "¿Qué pensó el carcelero al ver las puertas abiertas?", "opciones": ["Que era un sueño", "Que los presos habían huido", "Que llegaba el rey", "Que Pablo había roto la puerta"], "correcta": 1 },
+            { "texto": "¿Qué hizo el carcelero con las heridas de Pablo y Silas?", "opciones": ["Nada", "Las lavó", "Se burló", "Llamó a un médico romano"], "correcta": 1, "explicacion": "«Les lavó los azotes» y luego les puso la mesa (Hechos 16:33-34)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Pablo y Silas van a la cárcel.",
+            "Cantan a Dios en la noche.",
+            "¡La tierra tiembla y las puertas se abren!"
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Pablo libera a la muchacha en el nombre de Jesús.",
+            "Los dueños llevan a Pablo y Silas ante los jueces.",
+            "A medianoche, oran y cantan a Dios.",
+            "Un terremoto abre todas las puertas.",
+            "El carcelero y su familia creen en Jesús."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Una muchacha con espíritu de adivinación sigue a Pablo.",
+            "Los amos acusan a Pablo y Silas ante los magistrados.",
+            "Los ponen en la cárcel de más adentro, con el cepo.",
+            "Orando, cantan himnos a Dios a media noche.",
+            "Pablo clama: «No te hagas ningún mal».",
+            "El carcelero es bautizado con toda su casa."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño aprenda que puede orar y cantar a Dios aun en los momentos difíciles, porque Dios está con él.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué el carcelero se quería hacer daño?",
+        "respuesta": "Tuvo mucho miedo: en ese tiempo, un guardia que perdía a sus presos podía recibir un castigo muy grave. Pablo lo cuidó: «¡No te hagas daño!». Si alguna vez sientes mucho miedo o tristeza, habla con un adulto: nunca estás solo."
+      },
+      {
+        "pregunta": "¿Qué es un espíritu malo?",
+        "respuesta": "Con calma: «Es algo malo que no dejaba libre a la muchacha. Pero Jesús es más fuerte y la liberó». No hace falta dar más detalles: el centro de la historia es el poder y el amor de Jesús."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hacían Pablo y Silas a medianoche en la cárcel?",
+      "sentir": "¿Cómo crees que se sintieron los otros presos al oírlos cantar en la oscuridad?",
+      "vivir": "¿Qué canción podemos cantarle a Dios juntos cuando tengamos un día difícil o tengamos miedo?"
+    },
+    "oracion": "Señor, aunque sea de noche o tenga miedo, quiero cantarte y confiar en ti. Gracias porque nunca me dejas solo. Amén.",
+    "gesto": "Elijan una canción de alabanza para la familia. Cántenla juntos esta semana, sobre todo en un momento difícil o antes de dormir."
+  },
+  "estampa": "La canción de medianoche"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "david-y-goliat",
+  "titulo": "David y Goliat",
+  "referencia": "1 Samuel 17",
+  "estudio": "1-samuel",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-gigante",
+      "texto": {
+        "3-5": "Había un gigante llamado Goliat. ¡Era enorme! Gritaba: «¿Quién pelea conmigo?». Todos tenían miedo.",
+        "6-8": "Los filisteos y el ejército de Israel estaban frente a frente, cada uno en un monte. Del lado filisteo salía un gigante llamado Goliat, con casco y armadura. Cada mañana y cada tarde gritaba: «¡Denme un hombre que pelee conmigo!». Los soldados de Israel temblaban de miedo.",
+        "9-12": "Los filisteos acampaban en un monte e Israel en otro, con un valle en medio. Allí salía Goliat de Gat, que medía «seis codos y un palmo»: casi tres metros (1 Samuel 17:4). Durante cuarenta días desafió a Israel, mañana y tarde. Saúl y su ejército tenían gran miedo."
+      }
+    },
+    {
+      "id": "david-llega",
+      "texto": {
+        "3-5": "David llevó pan y queso a sus hermanos. Oyó gritar al gigante. «¿Por qué se burla del pueblo de Dios?».",
+        "6-8": "Isaí mandó a David, su hijo menor, a llevar pan y quesos a sus hermanos soldados. Al llegar, David oyó a Goliat burlarse del ejército de Dios. Preguntó sorprendido: «¿Quién es este para desafiar al ejército del Dios vivo?».",
+        "9-12": "Isaí envió a David con grano tostado, diez panes y diez quesos para sus hermanos. Al llegar, oyó los desafíos de Goliat y vio huir a los soldados. David preguntó quién era ese filisteo «para que provoque a los escuadrones del Dios viviente» (1 Samuel 17:26). Su hermano Eliab se enojó, pero David no se desanimó."
+      }
+    },
+    {
+      "id": "david-confia",
+      "texto": {
+        "3-5": "El rey Saúl dijo: «Eres muy pequeño». David respondió: «Dios me cuidó de un león y de un oso. ¡Y me cuidará hoy!».",
+        "6-8": "David le dijo al rey Saúl: «Yo iré a pelear con él». Saúl respondió: «Eres muy joven». Pero David contó que, cuidando ovejas, Dios lo había librado de un león y de un oso. «El mismo Señor me librará de este gigante», dijo.",
+        "9-12": "David se ofreció ante Saúl, pero el rey le dijo: «Tú eres mozo». David recordó cómo había defendido sus ovejas de un león y de un oso. El Señor, que lo había librado de sus garras, también lo libraría ahora (1 Samuel 17:37). Saúl le puso su armadura, pero David no podía ni caminar con ella, y se la quitó."
+      }
+    },
+    {
+      "id": "cinco-piedras",
+      "texto": {
+        "3-5": "David tomó cinco piedras lisas del arroyo. ¡Y su honda de pastor! Nada más.",
+        "6-8": "Saúl le prestó su armadura, pero era tan pesada que David no podía caminar. Se la quitó. Tomó su bastón de pastor y eligió cinco piedras lisas del arroyo. Con su honda en la mano, fue hacia el gigante.",
+        "9-12": "David tomó su cayado, escogió cinco piedras lisas del arroyo y las puso en su saco de pastor. Con la honda en la mano, avanzó. Goliat lo despreció por ser tan joven. David respondió que Goliat venía con espada, lanza y escudo, pero él, en el nombre del Señor (1 Samuel 17:45)."
+      }
+    },
+    {
+      "id": "la-victoria",
+      "texto": {
+        "3-5": "David giró su honda. ¡Zum, zum, zum! La piedra voló. ¡Pum! El gigante cayó. ¡Dios ayudó a David!",
+        "6-8": "David corrió hacia Goliat, puso una piedra en la honda y la lanzó. ¡Zas! La piedra golpeó al gigante en la frente, y Goliat cayó al suelo. Los filisteos huyeron. Todos vieron que Dios salva con su poder, no con espadas.",
+        "9-12": "David corrió, puso una piedra en la honda y la lanzó. La piedra dio a Goliat en la frente, y el gigante cayó con el rostro en tierra. David venció «con honda y piedra», sin espada en su mano (1 Samuel 17:50). Los filisteos huyeron. Todos supieron que Dios no salva con espada ni con lanza (1 Samuel 17:47)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios está conmigo: ¡no tengo miedo!", "referencia": "1 Samuel 17:37", "fuente": "adaptado" },
+    "6-8": { "texto": "El Señor que me libró del león y del oso también me librará ahora.", "referencia": "1 Samuel 17:37", "fuente": "adaptado" },
+    "9-12": { "texto": "Salmo de David. Jehová es mi luz y mi salvación: ¿de quién temeré? Jehová es la fortaleza de mi vida: ¿de quién he de atemorizarme?", "referencia": "Salmos 27:1", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de David y Goliat.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["David", "la honda"],
+            ["Goliat", "la lanza"],
+            ["el arroyo", "las piedras"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["David", "la honda"],
+            ["Goliat", "el casco"],
+            ["Saúl", "la armadura"],
+            ["el arroyo", "cinco piedras"],
+            ["Isaí", "panes y quesos"],
+            ["las ovejas", "el león y el oso"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["David", "el hijo menor de Isaí"],
+            ["Goliat", "de Gat"],
+            ["seis codos y un palmo", "la altura del gigante"],
+            ["Saúl", "«Tú eres mozo»"],
+            ["Eliab", "el hermano enojado"],
+            ["cinco piedras", "el saco de pastor"],
+            ["cuarenta días", "el desafío"],
+            ["el nombre del Señor", "la confianza de David"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon en orden la historia de David.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "El gigante Goliat grita.",
+            "David toma cinco piedras.",
+            "El gigante cae: ¡Dios ayudó a David!"
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Goliat desafía al ejército de Israel.",
+            "David lleva comida a sus hermanos.",
+            "David le dice al rey: «Yo iré».",
+            "David elige cinco piedras del arroyo.",
+            "La piedra de David golpea al gigante."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Goliat desafía a Israel durante cuarenta días.",
+            "Isaí envía a David con panes y quesos.",
+            "David recuerda cómo Dios lo libró del león y del oso.",
+            "David se quita la armadura de Saúl.",
+            "David avanza en el nombre del Señor.",
+            "Goliat cae y los filisteos huyen."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que, con Dios, puede enfrentar con valentía lo que le parece gigante.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Goliat murió?",
+        "respuesta": "Sí, la Biblia dice que Goliat murió en aquella batalla, una guerra de hace muchísimo tiempo. Con los pequeños basta decir: «El gigante cayó». La historia no nos enseña a pelear, sino a confiar en Dios frente a lo que parece imposible."
+      },
+      {
+        "pregunta": "¿Tengo que pelear con los que me molestan?",
+        "respuesta": "No. Nuestros «gigantes» de hoy son los miedos y los problemas grandes. David nos enseña a confiar en Dios y a pedir ayuda, no a pegarle a nadie. Si alguien te molesta, cuéntaselo a un adulto de confianza."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántas piedras eligió David del arroyo?",
+      "sentir": "¿Cómo crees que se sentía David frente a un gigante tan grande? ¿Cuál es un «gigante» que te da miedo a ti?",
+      "vivir": "¿Qué «gigante» (un miedo, algo difícil) podemos enfrentar esta semana confiando en Dios?"
+    },
+    "oracion": "Señor, a veces tenemos miedos grandes como gigantes. Danos la confianza de David y recuérdanos que tú estás con nosotros. Amén.",
+    "gesto": "Esta semana, escriban o dibujen su «gigante» en una piedra lisa y oren juntos por él cada noche."
+  },
+  "estampa": "La honda de David"
+}

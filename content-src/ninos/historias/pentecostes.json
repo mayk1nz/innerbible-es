@@ -1,0 +1,125 @@
+{
+  "id": "pentecostes",
+  "titulo": "Pentecostés: llega el Espíritu Santo",
+  "referencia": "Hechos 2:1-13",
+  "estudio": "hechos-1-7",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-promesa",
+      "texto": {
+        "3-5": "Jesús volvió al cielo. Antes, prometió: «Les enviaré el Espíritu Santo». Sus amigos esperaron y oraron juntos.",
+        "6-8": "Antes de volver al cielo, Jesús hizo una promesa a sus amigos. Les dijo: «Recibirán el poder del Espíritu Santo, y hablarán de mí en todo el mundo». Ellos regresaron a Jerusalén. Allí oraban juntos, con algunas mujeres y con María, la madre de Jesús.",
+        "9-12": "Antes de subir al cielo, Jesús prometió a sus discípulos el poder del Espíritu Santo: «me seréis testigos» (Hechos 1:8). Ellos volvieron a Jerusalén y perseveraban unánimes en oración. Con ellos estaban las mujeres y María, la madre de Jesús (Hechos 1:14). Esperaban lo que Jesús había prometido."
+      }
+    },
+    {
+      "id": "viento-y-fuego",
+      "texto": {
+        "3-5": "Un día estaban juntos. ¡Fuuuu! Se oyó un ruido como de viento fuerte. ¡Y aparecieron como llamitas de fuego!",
+        "6-8": "Llegó la fiesta de Pentecostés, y todos estaban juntos en una casa. De repente, se oyó un ruido del cielo, como un viento muy fuerte. ¡Llenó toda la casa! Luego vieron algo como lenguas de fuego, que se posaron sobre cada uno de ellos.",
+        "9-12": "Pentecostés era una fiesta judía, cincuenta días después de la Pascua. Ese día estaban todos juntos. «De repente vino un estruendo del cielo como de un viento recio» (Hechos 2:2), que llenó la casa. Aparecieron lenguas «como de fuego», repartidas sobre cada uno. Eran señales de que Dios estaba cumpliendo su promesa."
+      }
+    },
+    {
+      "id": "llenos-del-espiritu",
+      "texto": {
+        "3-5": "El Espíritu Santo llegó a sus corazones. ¡Y empezaron a hablar en otros idiomas!",
+        "6-8": "Todos fueron llenos del Espíritu Santo. Y empezaron a hablar en otros idiomas, que nunca habían aprendido. ¡El Espíritu Santo les daba las palabras! Ya no tenían miedo: querían contarle a todos las maravillas de Dios.",
+        "9-12": "«Fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas» (Hechos 2:4). No eran idiomas que hubieran estudiado: el Espíritu les daba qué decir. Los mismos discípulos que antes se escondían ahora hablaban con valentía. El Espíritu Santo no era una idea: era Dios mismo viviendo en ellos."
+      }
+    },
+    {
+      "id": "cada-uno-en-su-lengua",
+      "texto": {
+        "3-5": "Había gente de muchos países. ¡Cada uno los oía en su propio idioma! «¡Qué maravilla!», decían.",
+        "6-8": "En Jerusalén había personas de muchos países, que habían venido para la fiesta. Al oír el ruido, se juntaron. ¡Cada uno oía a los discípulos hablar en su propio idioma! Estaban asombrados: «¿No son de Galilea todos estos? ¿Cómo los oímos en nuestra lengua?».",
+        "9-12": "En Jerusalén había judíos piadosos «de todas las naciones debajo del cielo». Se reunió una multitud, y cada uno los oía hablar en su propia lengua. Venían de Egipto, de Roma, de Creta, de Arabia y de muchos lugares más. Todos oían «las maravillas de Dios» (Hechos 2:11). La buena noticia era para todos los pueblos."
+      }
+    },
+    {
+      "id": "que-significa",
+      "texto": {
+        "3-5": "Pedro se levantó y habló de Jesús. ¡Muchas personas creyeron! Así empezó la Iglesia.",
+        "6-8": "Algunos preguntaban: «¿Qué significa esto?». Otros se burlaban. Entonces Pedro se levantó y les habló de Jesús. Les contó que había resucitado y que ahora enviaba el Espíritu Santo. Ese día, unas tres mil personas creyeron y fueron bautizadas. ¡Había nacido la Iglesia!",
+        "9-12": "Muchos preguntaban: «¿Qué quiere ser esto?». Otros se burlaban diciendo que estaban borrachos. Pedro se puso en pie y explicó que se cumplía lo anunciado por el profeta Joel. Dios había dicho: «Derramaré de mi Espíritu sobre toda carne» (Hechos 2:17). Aquel día se añadieron unas tres mil personas. Así comenzó la Iglesia."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "El Espíritu Santo está conmigo.", "referencia": "Hechos 2:4", "fuente": "adaptado" },
+    "6-8": { "texto": "Todos fueron llenos del Espíritu Santo y comenzaron a hablar en otros idiomas.", "referencia": "Hechos 2:4", "fuente": "adaptado" },
+    "9-12": { "texto": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, como el Espíritu les daba que hablasen.", "referencia": "Hechos 2:4", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta las cartas y encuentra las parejas de Pentecostés.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["el viento", "¡Fuuuu!"],
+            ["el fuego", "llamitas"],
+            ["Pedro", "habla de Jesús"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Jesús", "prometió el Espíritu Santo"],
+            ["el ruido del cielo", "como un viento fuerte"],
+            ["lenguas de fuego", "sobre cada uno"],
+            ["otros idiomas", "que nunca aprendieron"],
+            ["Pedro", "habló a la multitud"],
+            ["tres mil personas", "fueron bautizadas"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Hechos 1:8", "«me seréis testigos»"],
+            ["Pentecostés", "cincuenta días después de la Pascua"],
+            ["María, la madre de Jesús", "oraba con los discípulos"],
+            ["un estruendo", "como de un viento recio"],
+            ["lenguas como de fuego", "sobre cada uno de ellos"],
+            ["la multitud", "de todas las naciones"],
+            ["el profeta Joel", "«Derramaré de mi Espíritu»"],
+            ["tres mil", "se añadieron aquel día"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de Pentecostés.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["FUEGO", "PEDRO", "DIOS"], "diagonales": false, "seed": 501 },
+        "6-8": { "tamano": 6, "palabras": ["VIENTO", "FUEGO", "PEDRO", "CIELO"], "diagonales": false, "seed": 502 },
+        "9-12": { "tamano": 10, "palabras": ["ESPÍRITU", "VIENTO", "FUEGO", "LENGUAS", "PEDRO", "JOEL", "IGLESIA", "PROMESA"], "diagonales": true, "seed": 503 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño sepa que Jesús cumplió su promesa y envió al Espíritu Santo, que nos ayuda a hablar de su amor.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Se quemaron con el fuego?",
+        "respuesta": "La Biblia dice «como de fuego»: era una señal de Dios que se veía como fuego, no un incendio. Era una manera de mostrar que Dios estaba con ellos."
+      },
+      {
+        "pregunta": "¿Quién es el Espíritu Santo?",
+        "respuesta": "Es Dios mismo que vive en nosotros. Jesús lo prometió para que nunca estemos solos. Él nos consuela, nos da valor y nos ayuda a amar como Jesús."
+      },
+      {
+        "pregunta": "¿Hoy la gente también habla en otras lenguas?",
+        "respuesta": "Las iglesias viven este don de maneras distintas. Lo que Pentecostés nos enseña a todos es que el Espíritu Santo nos da valor para contar las maravillas de Dios."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué señales vieron y oyeron los discípulos cuando llegó el Espíritu Santo?",
+      "sentir": "¿Cómo te sentirías si de pronto pudieras hablar un idioma que nunca aprendiste?",
+      "vivir": "¿Cómo podemos contarle a alguien esta semana algo bonito que Dios hizo por nosotros?"
+    },
+    "oracion": "Espíritu Santo, ven a nuestro corazón. Danos valor y alegría para contar a todos las maravillas de Dios. Amén.",
+    "gesto": "Aprendan a decir «Dios te ama» en otro idioma, o en lengua de señas, y díganselo a alguien esta semana."
+  },
+  "estampa": "Las lenguas como de fuego"
+}

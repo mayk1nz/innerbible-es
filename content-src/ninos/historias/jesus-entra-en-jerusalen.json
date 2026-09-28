@@ -1,0 +1,118 @@
+{
+  "id": "jesus-entra-en-jerusalen",
+  "titulo": "Jesús entra en Jerusalén",
+  "referencia": "Mateo 21:1-11",
+  "estudio": "ultima-semana",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-burrito",
+      "texto": {
+        "3-5": "Jesús llegó cerca de Jerusalén. Dijo a dos amigos: «Vayan al pueblo. Allí hay una burra y un burrito. Tráiganlos».",
+        "6-8": "Jesús y sus discípulos se acercaban a la gran ciudad de Jerusalén para la fiesta de la Pascua. Cerca del monte de los Olivos, Jesús mandó a dos discípulos: «Vayan a la aldea. Encontrarán una burra atada con su burrito. Desátenlos y tráiganmelos».",
+        "9-12": "Faltaban pocos días para la Pascua. Cerca de Betfagé, junto al monte de los Olivos, Jesús envió a dos discípulos a la aldea de enfrente. Allí hallarían «una asna atada, y un pollino con ella» (Mateo 21:2). Si alguien preguntaba, debían decir: «El Señor los ha menester»."
+      }
+    },
+    {
+      "id": "la-promesa",
+      "texto": {
+        "3-5": "Los amigos de Jesús trajeron los burritos. Pusieron sus mantos encima. ¡Y Jesús se sentó!",
+        "6-8": "Los discípulos hicieron lo que Jesús les pidió. Pusieron sus mantos sobre los animales, y Jesús se sentó encima. Así se cumplió lo que un profeta había anunciado mucho antes. Decía: «Tu Rey viene a ti, humilde, montado en un burrito».",
+        "9-12": "Los discípulos obedecieron y pusieron sus mantos sobre los animales, y Jesús se sentó encima. Así se cumplió la profecía de Zacarías: «Tu Rey viene a ti, manso, y sentado sobre una asna» (Mateo 21:5). Un rey guerrero llegaría a caballo; Jesús llegó como un rey humilde y de paz."
+      }
+    },
+    {
+      "id": "mantos-y-ramas",
+      "texto": {
+        "3-5": "¡Cuánta gente! Ponían sus mantos en el camino. Movían ramas de los árboles. ¡Qué alegría!",
+        "6-8": "Una gran multitud salió al encuentro de Jesús. Muchos tendían sus mantos en el camino, como una alfombra para un rey. Otros cortaban ramas de los árboles y las ponían en el camino. ¡Era una gran fiesta!",
+        "9-12": "La multitud, que era muy numerosa, tendía sus mantos en el camino, como se hacía para recibir a un rey. Otros cortaban ramas de los árboles y las tendían por el camino. Juan cuenta que eran «ramos de palmas» (Juan 12:13). Por eso muchos cristianos recuerdan este día como el Domingo de Ramos."
+      }
+    },
+    {
+      "id": "hosanna",
+      "texto": {
+        "3-5": "Todos cantaban: «¡Hosanna! ¡Hosanna! ¡Bendito el que viene!». ¡Qué fiesta para Jesús!",
+        "6-8": "La gente que iba delante y la que iba detrás gritaba con alegría: «¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor! ¡Hosanna en las alturas!». Hosanna es una palabra de alabanza que pide: «¡Sálvanos!».",
+        "9-12": "Los de adelante y los de atrás aclamaban: «¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo 21:9). «Hosanna» es una palabra hebrea que significaba «¡Salva, por favor!» y se usaba para alabar. Llamar a Jesús «Hijo de David» era recibirlo como el Rey prometido."
+      }
+    },
+    {
+      "id": "quien-es-este",
+      "texto": {
+        "3-5": "Jesús entró en la ciudad. La gente preguntaba: «¿Quién es este?». «¡Es Jesús!».",
+        "6-8": "Cuando Jesús entró en Jerusalén, toda la ciudad se alborotó. Todos preguntaban: «¿Quién es este?». Y la multitud respondía: «Es Jesús, el profeta de Nazaret de Galilea». Jesús llegaba como Rey, pero como un Rey humilde, que venía a dar su vida por amor.",
+        "9-12": "Al entrar Jesús, «toda la ciudad se alborotó, diciendo: ¿Quién es éste?» (Mateo 21:10). La gente respondía: «Este es Jesús, el profeta, de Nazaret de Galilea». Esa pregunta sigue viva hoy. Pocos días después, este Rey humilde daría su vida por amor."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Hosanna! ¡Bendito el que viene!", "referencia": "Mateo 21:9", "fuente": "adaptado" },
+    "6-8": { "texto": "¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor!", "referencia": "Mateo 21:9", "fuente": "adaptado" },
+    "9-12": { "texto": "Y los que iban delante, y los que iban detrás, daban voces diciendo: ¡Hosanna! Bendito el que viene en el nombre del Señor.", "referencia": "Marcos 11:9", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas del camino a Jerusalén.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["BURRO", "RAMAS", "REY"], "diagonales": false, "seed": 471 },
+        "6-8": { "tamano": 6, "palabras": ["JESÚS", "RAMAS", "MANTOS", "BURRO"], "diagonales": false, "seed": 472 },
+        "9-12": { "tamano": 10, "palabras": ["HOSANNA", "JERUSALÉN", "POLLINO", "MANTOS", "RAMOS", "DAVID", "REY", "OLIVOS"], "diagonales": true, "seed": 473 }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de la entrada de Jesús? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿En qué animal se sentó Jesús?", "opciones": ["En un burrito", "En un caballo"], "correcta": 0 },
+            { "texto": "¿Qué ponía la gente en el camino?", "opciones": ["Piedras", "Mantos y ramas"], "correcta": 1 },
+            { "texto": "¿Qué cantaba la gente?", "opciones": ["¡Hosanna!", "¡Buenas noches!"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿A qué ciudad entraba Jesús?", "opciones": ["Nazaret", "Jerusalén", "Belén"], "correcta": 1 },
+            { "texto": "¿Qué pidió Jesús a dos discípulos?", "opciones": ["Que compraran pan", "Que trajeran una burra y su burrito", "Que prepararan una barca"], "correcta": 1 },
+            { "texto": "¿Qué pusieron los discípulos sobre los animales?", "opciones": ["Sus mantos", "Una corona", "Unas cajas"], "correcta": 0 },
+            { "texto": "¿Qué significa «Hosanna»?", "opciones": ["¡Adiós!", "¡Sálvanos!", "¡Vamos a comer!"], "correcta": 1, "explicacion": "Es una palabra de alabanza que pide a Dios: «¡Sálvanos!»." },
+            { "texto": "¿Qué preguntaba la gente de la ciudad?", "opciones": ["¿Dónde está el templo?", "¿Qué hora es?", "¿Quién es este?"], "correcta": 2 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cerca de qué aldea mandó Jesús a buscar los animales?", "opciones": ["Betania", "Betfagé", "Emaús", "Caná"], "correcta": 1, "explicacion": "Junto al monte de los Olivos (Mateo 21:1)." },
+            { "texto": "¿Qué debían responder los discípulos si alguien preguntaba?", "opciones": ["«Los pagaremos mañana»", "«El Señor los ha menester»", "«Son para una fiesta»", "«No es asunto tuyo»"], "correcta": 1 },
+            { "texto": "¿Qué profecía se cumplió al llegar Jesús montado?", "opciones": ["«Tu Rey viene a ti, manso»", "«Una virgen concebirá»", "«De Egipto llamé a mi Hijo»", "«Preparad el camino del Señor»"], "correcta": 0, "explicacion": "Es la profecía de Zacarías 9:9, citada en Mateo 21:5." },
+            { "texto": "¿Qué dice Juan que llevaba la gente en las manos?", "opciones": ["Lámparas", "Ramos de palmas", "Espadas", "Panes"], "correcta": 1, "explicacion": "«Tomaron ramos de palmas» (Juan 12:13)." },
+            { "texto": "¿Qué mostraba que Jesús llegara en un pollino y no en caballo?", "opciones": ["Que estaba cansado", "Que era un rey humilde y de paz", "Que no tenía dinero", "Que era un comerciante"], "correcta": 1 },
+            { "texto": "¿Cómo respondió la gente a la pregunta «¿Quién es éste?»?", "opciones": ["«Es un soldado romano»", "«Es el sumo sacerdote»", "«Este es Jesús, el profeta, de Nazaret»", "«Es el rey Herodes»"], "correcta": 2, "explicacion": "Mateo 21:11." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño reconozca a Jesús como un Rey humilde y lo reciba con alegría, alabándolo como la gente de Jerusalén.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué un rey llega en un burrito?",
+        "respuesta": "Porque Jesús es un Rey diferente: no viene a pelear ni a presumir, sino a servir y a traer paz. El burrito era señal de humildad, como había anunciado el profeta Zacarías."
+      },
+      {
+        "pregunta": "¿Por qué después la gente no lo defendió?",
+        "respuesta": "Los evangelios no explican qué pensaba cada persona. Con los mayores, puedes decir que muchos esperaban un rey que venciera a Roma. Jesús vino a vencer de otra manera: con amor."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué ponía la gente en el camino cuando pasaba Jesús?",
+      "sentir": "Si hubieras estado allí, ¿qué le habrías gritado a Jesús con alegría?",
+      "vivir": "¿Cómo podemos recibir a Jesús como nuestro Rey esta semana, sirviendo con humildad como Él?"
+    },
+    "oracion": "¡Hosanna, Jesús! Tú eres nuestro Rey humilde y bueno. Entra en nuestra casa y en nuestro corazón. Amén.",
+    "gesto": "Hagan juntos ramas de papel o cartón y hagan un pequeño desfile en casa cantando: «¡Hosanna! ¡Bendito el que viene!»."
+  },
+  "estampa": "Las ramas del Hosanna"
+}

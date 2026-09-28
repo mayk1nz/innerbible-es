@@ -1,0 +1,147 @@
+{
+  "id": "la-zarza",
+  "titulo": "La zarza que ardía",
+  "referencia": "Éxodo 3",
+  "estudio": "exodo",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-pastor",
+      "texto": {
+        "3-5": "Moisés ya era grande. Cuidaba las ovejas en el desierto. ¡Beee, beee!",
+        "6-8": "Moisés ya era adulto y vivía lejos de Egipto, en la tierra de Madián. Allí se casó y cuidaba las ovejas de su suegro Jetro. Un día llevó el rebaño al otro lado del desierto. Llegó hasta Horeb, el monte de Dios.",
+        "9-12": "Moisés había huido de Egipto y llevaba muchos años en Madián. Se casó con Séfora y cuidaba las ovejas de su suegro Jetro. Mientras tanto, los israelitas clamaban por su dura esclavitud, y Dios los escuchó (Éxodo 2:23-24). Un día, Moisés llevó el rebaño hasta Horeb, el monte de Dios."
+      }
+    },
+    {
+      "id": "la-zarza",
+      "texto": {
+        "3-5": "¡Mira! Una zarza tenía fuego. ¡Pero no se quemaba! «¡Qué raro!», dijo Moisés.",
+        "6-8": "Allí vio algo asombroso: una zarza, un arbusto con espinas, ardía en llamas… ¡pero no se quemaba! Moisés dijo: «Voy a acercarme para ver por qué la zarza no se consume».",
+        "9-12": "Entonces el ángel del Señor se le apareció en una llama de fuego, en medio de una zarza. Moisés miró: la zarza ardía, pero no se consumía. Lleno de curiosidad, dijo: «Iré yo ahora, y veré esta grande visión» (Éxodo 3:3)."
+      }
+    },
+    {
+      "id": "tierra-santa",
+      "texto": {
+        "3-5": "Dios lo llamó: «¡Moisés, Moisés!». «Aquí estoy». «Quítate las sandalias. Este lugar es santo».",
+        "6-8": "Desde la zarza, Dios lo llamó: «¡Moisés, Moisés!». Él respondió: «Aquí estoy». Dios le dijo: «No te acerques más. Quítate las sandalias, porque estás pisando tierra santa». Moisés se cubrió la cara, lleno de respeto.",
+        "9-12": "Dios lo llamó desde la zarza: «¡Moisés, Moisés!». «Heme aquí», respondió él. «Quita tus zapatos de tus pies, porque el lugar en que tú estás, tierra santa es». Dios se presentó como el Dios de Abraham, de Isaac y de Jacob. Moisés se cubrió el rostro, porque tuvo miedo de mirar a Dios."
+      }
+    },
+    {
+      "id": "la-mision",
+      "texto": {
+        "3-5": "Dios le dijo: «Mi pueblo sufre en Egipto. Yo los escucho. Ve y sácalos de allí».",
+        "6-8": "Dios le dijo: «He visto cómo sufre mi pueblo en Egipto, y he oído su clamor. Voy a liberarlos y a llevarlos a una tierra buena. Ahora ve: te envío al faraón para que saques a mi pueblo».",
+        "9-12": "Dios dijo: «Bien he visto la aflicción de mi pueblo que está en Egipto, y he oído su clamor» (Éxodo 3:7). Prometió llevarlos a «una tierra que fluye leche y miel». Y añadió que enviaría a Moisés al faraón para sacar a su pueblo. El Dios que escuchaba a los esclavos ahora enviaba a un pastor."
+      }
+    },
+    {
+      "id": "yo-estare",
+      "texto": {
+        "3-5": "Moisés tuvo miedo: «¿Quién soy yo?». Dios le prometió: «Yo estaré contigo».",
+        "6-8": "Moisés se sintió pequeño: «¿Quién soy yo para ir al faraón?». Dios le respondió: «Yo estaré contigo». Moisés preguntó cómo se llamaba Dios. Y Dios dijo: «Yo soy el que soy». Moisés no iría solo: Dios iría con él.",
+        "9-12": "Moisés respondió: «¿Quién soy yo, para que vaya a Faraón?» (Éxodo 3:11). Dios no le habló de las fuerzas de Moisés, sino de su propia presencia: «Yo seré contigo». Cuando Moisés preguntó su nombre, Dios respondió: «YO SOY EL QUE SOY». Es el Dios que siempre existe y que siempre acompaña a su pueblo."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios está conmigo.", "referencia": "Éxodo 3:12", "fuente": "adaptado" },
+    "6-8": { "texto": "Ve, porque yo estaré contigo.", "referencia": "Éxodo 3:12", "fuente": "adaptado" },
+    "9-12": { "texto": "Y respondió Dios a Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás a los hijos de Israel: YO SOY me ha enviado a vosotros.", "referencia": "Éxodo 3:14", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de la zarza.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["Moisés", "las ovejas"],
+            ["la zarza", "el fuego"],
+            ["las sandalias", "tierra santa"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Moisés", "las ovejas"],
+            ["la zarza", "no se quema"],
+            ["las sandalias", "tierra santa"],
+            ["Jetro", "el suegro"],
+            ["Horeb", "el monte de Dios"],
+            ["Dios", "«Yo estaré contigo»"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Moisés", "«Heme aquí»"],
+            ["la zarza", "no se consumía"],
+            ["Horeb", "el monte de Dios"],
+            ["Jetro", "sacerdote de Madián"],
+            ["los zapatos", "tierra santa"],
+            ["«YO SOY»", "el nombre de Dios"],
+            ["leche y miel", "la tierra prometida"],
+            ["«¿Quién soy yo?»", "«Yo seré contigo»"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre Moisés y la zarza.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Moisés cuidaba ovejas.", "verdadera": true, "porque": "Cuidaba las ovejas de su suegro." },
+            { "texto": "La zarza se quemó toda.", "verdadera": false, "porque": "¡Ardía, pero no se quemaba!" },
+            { "texto": "Dios le prometió: «Yo estaré contigo».", "verdadera": true, "porque": "Dios no deja solo a Moisés." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Moisés vivía en Egipto cuando vio la zarza.", "verdadera": false, "porque": "Vivía en Madián, lejos de Egipto." },
+            { "texto": "La zarza ardía, pero no se consumía.", "verdadera": true, "porque": "Por eso Moisés se acercó a mirar." },
+            { "texto": "Dios le pidió quitarse las sandalias.", "verdadera": true, "porque": "Estaba pisando tierra santa." },
+            { "texto": "Dios no sabía que su pueblo sufría.", "verdadera": false, "porque": "Dios dijo: «He visto cómo sufre mi pueblo»." },
+            { "texto": "Dios envió a Moisés al faraón.", "verdadera": true, "porque": "Para sacar a su pueblo de Egipto." },
+            { "texto": "Moisés se sintió el mejor para esa misión.", "verdadera": false, "porque": "Dijo: «¿Quién soy yo?». Se sentía pequeño." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "El suegro de Moisés era sacerdote de Madián.", "verdadera": true, "porque": "Se llamaba Jetro (Éxodo 3:1)." },
+            { "texto": "Moisés vio la zarza en el monte Horeb.", "verdadera": true, "porque": "Horeb, «monte de Dios» (Éxodo 3:1)." },
+            { "texto": "El ángel del Señor apareció en una nube.", "verdadera": false, "porque": "Apareció en una llama de fuego, en medio de una zarza (Éxodo 3:2)." },
+            { "texto": "Moisés se acercó para ver por qué la zarza no se quemaba.", "verdadera": true, "porque": "Así lo cuenta Éxodo 3:3." },
+            { "texto": "Dios se presentó como el Dios de Abraham, Isaac y Jacob.", "verdadera": true, "porque": "Era el Dios de sus antepasados (Éxodo 3:6)." },
+            { "texto": "Moisés miró fijamente a Dios sin ningún temor.", "verdadera": false, "porque": "Se cubrió el rostro (Éxodo 3:6)." },
+            { "texto": "Dios prometió una tierra «que fluye leche y miel».", "verdadera": true, "porque": "Una tierra buena y ancha (Éxodo 3:8)." },
+            { "texto": "Cuando Moisés preguntó su nombre, Dios no respondió.", "verdadera": false, "porque": "Dijo: «YO SOY EL QUE SOY» (Éxodo 3:14)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios ve y escucha a los que sufren. Y que, cuando pide algo difícil, promete: «Yo estaré contigo».",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Moisés vivía lejos de Egipto?",
+        "respuesta": "De joven, al ver cómo golpeaban a un hebreo, actuó con violencia; después tuvo miedo y huyó (Éxodo 2:11-15). Dios no lo descartó: lo encontró en el desierto y le dio una nueva misión. Dios siempre da nuevas oportunidades."
+      },
+      {
+        "pregunta": "¿Dios habla hoy desde el fuego?",
+        "respuesta": "Dios habló así a Moisés en un momento especial. Hoy nos habla sobre todo por su Palabra, por Jesús y en la oración. Podemos escucharlo en silencio, con el mismo respeto de Moisés."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué tenía de especial la zarza que vio Moisés?",
+      "sentir": "Moisés dijo: «¿Quién soy yo?». ¿Alguna vez sentiste que algo era demasiado difícil para ti?",
+      "vivir": "Dios promete: «Yo estaré contigo». ¿Qué cosa difícil de esta semana podemos hacer confiando en esa promesa?"
+    },
+    "oracion": "Señor, gracias porque ves y escuchas a los que sufren. Cuando algo nos parezca difícil, recuérdanos que tú estás con nosotros. Amén.",
+    "gesto": "Antes de algo difícil esta semana (un examen, una visita al médico), díganse al oído: «Dios está conmigo»."
+  },
+  "estampa": "La zarza que no se quemaba"
+}

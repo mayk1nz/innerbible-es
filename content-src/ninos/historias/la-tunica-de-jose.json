@@ -1,0 +1,144 @@
+{
+  "id": "la-tunica-de-jose",
+  "titulo": "José y su túnica de colores",
+  "referencia": "Génesis 37",
+  "estudio": "genesis-12-50",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "la-tunica",
+      "texto": {
+        "3-5": "Jacob tenía doce hijos. Quería mucho a José. ¡Le regaló una túnica de colores!",
+        "6-8": "Jacob tenía doce hijos, pero amaba a José más que a los otros. José había nacido cuando Jacob ya era mayor. Por eso le regaló una túnica de muchos colores. Sus hermanos sintieron envidia y ya no podían hablarle con cariño.",
+        "9-12": "José tenía diecisiete años y cuidaba las ovejas con sus hermanos. Su padre Jacob, también llamado Israel, «le hizo una ropa de diversos colores» (Génesis 37:3). Era un regalo que mostraba preferencia. Los hermanos lo notaron y empezaron a aborrecerlo: ni siquiera podían hablarle en paz."
+      }
+    },
+    {
+      "id": "los-suenos",
+      "texto": {
+        "3-5": "José tuvo sueños muy raros. ¡Todos se inclinaban ante él! Sus hermanos se enojaron mucho.",
+        "6-8": "José tuvo dos sueños y se los contó a su familia. En uno, los manojos de espigas de sus hermanos se inclinaban ante el suyo. En otro, el sol, la luna y once estrellas se inclinaban ante él. Sus hermanos se enojaron todavía más.",
+        "9-12": "José soñó que los manojos de sus hermanos se inclinaban ante el suyo. Después soñó que el sol, la luna y once estrellas se inclinaban ante él. Al oírlo, sus hermanos lo aborrecieron aún más, y hasta su padre lo reprendió. Pero Jacob «paraba la consideración en ello» (Génesis 37:11): guardaba esos sueños en su corazón."
+      }
+    },
+    {
+      "id": "el-pozo",
+      "texto": {
+        "3-5": "Un día, José fue a buscar a sus hermanos. Ellos le quitaron su túnica. ¡Y lo metieron en un pozo sin agua!",
+        "6-8": "Jacob envió a José a ver cómo estaban sus hermanos, que cuidaban ovejas lejos de casa. Al verlo venir, dijeron: «Ahí viene el soñador». Querían hacerle daño, pero Rubén, el mayor, los detuvo. Entonces le quitaron la túnica y lo echaron en un pozo seco.",
+        "9-12": "Jacob envió a José hasta Siquem, y de allí José los buscó hasta Dotán. Al verlo venir, sus hermanos dijeron: «He aquí viene el soñador» (Génesis 37:19). Tramaron quitarle la vida, pero Rubén lo impidió: pensaba rescatarlo después. Le quitaron la ropa de colores y lo echaron en una cisterna vacía, sin agua."
+      }
+    },
+    {
+      "id": "vendido",
+      "texto": {
+        "3-5": "Pasaron unos comerciantes con camellos. Los hermanos les vendieron a José. ¡Y se lo llevaron a Egipto!",
+        "6-8": "Mientras comían, vieron llegar unos comerciantes con camellos que iban a Egipto. Judá dijo: «No le hagamos daño; mejor vendámoslo». Sacaron a José del pozo y lo vendieron por veinte monedas de plata. Los comerciantes se lo llevaron lejos.",
+        "9-12": "Pasó una caravana de ismaelitas con camellos cargados de aromas, rumbo a Egipto. Judá propuso venderlo en lugar de dañarlo, y los hermanos aceptaron. Por veinte piezas de plata, José fue vendido y llevado a Egipto (Génesis 37:28). Cuando Rubén volvió a la cisterna y no lo encontró, rasgó sus vestidos de dolor."
+      }
+    },
+    {
+      "id": "dios-con-jose",
+      "texto": {
+        "3-5": "Papá Jacob estaba muy triste. ¡Pero Dios no se olvidó de José! Dios estaba con él.",
+        "6-8": "Los hermanos mancharon la túnica para que su padre creyera que un animal salvaje había atacado a José. Jacob lloró muchísimo, y nadie podía consolarlo. Pero la historia no terminaba ahí: en Egipto, lejos de casa, Dios estaba con José.",
+        "9-12": "Los hermanos mancharon la túnica con la sangre de un cabrito y se la llevaron a su padre. Jacob creyó que una fiera había atacado a José, y lloró sin consuelo. Parecía el final. Pero en Egipto el Señor estaba con José (Génesis 39:2). Dios seguía escribiendo la historia, aun en el capítulo más triste."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios no se olvida de mí.", "referencia": "Génesis 39:2", "fuente": "adaptado" },
+    "6-8": { "texto": "El Señor estaba con José, y todo le salía bien.", "referencia": "Génesis 39:2", "fuente": "adaptado" },
+    "9-12": { "texto": "Mas Jehová fue con José, y fue varón prosperado: y estaba en la casa de su señor el Egipcio.", "referencia": "Génesis 39:2", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia de José en orden.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Jacob le regala a José una túnica.",
+            "Los hermanos ponen a José en un pozo.",
+            "Unos comerciantes llevan a José a Egipto."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Jacob regala a José una túnica de colores.",
+            "José cuenta sus sueños a sus hermanos.",
+            "Los hermanos echan a José en un pozo seco.",
+            "Venden a José a unos comerciantes.",
+            "Jacob llora por su hijo José."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "José, de diecisiete años, cuida ovejas con sus hermanos.",
+            "Sueña con manojos que se inclinan ante el suyo.",
+            "Jacob lo envía a Siquem a ver a sus hermanos.",
+            "Rubén impide que le quiten la vida.",
+            "Judá propone venderlo a los ismaelitas.",
+            "En Egipto, José es vendido a Potifar."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre José y sus hermanos.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Jacob le regaló a José una túnica de colores.", "verdadera": true, "porque": "¡Era una túnica muy bonita!" },
+            { "texto": "Los hermanos de José se alegraron por él.", "verdadera": false, "porque": "Sintieron envidia." },
+            { "texto": "Dios se olvidó de José.", "verdadera": false, "porque": "Dios estaba con José en Egipto." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "José tenía once hermanos.", "verdadera": true, "porque": "Jacob tenía doce hijos." },
+            { "texto": "José soñó que sus hermanos se inclinaban ante él.", "verdadera": true, "porque": "Así fue su primer sueño, con los manojos de espigas." },
+            { "texto": "Rubén quiso proteger a José.", "verdadera": true, "porque": "No dejó que le hicieran daño." },
+            { "texto": "Echaron a José en un pozo lleno de agua.", "verdadera": false, "porque": "El pozo estaba seco, sin agua." },
+            { "texto": "Vendieron a José por veinte monedas de plata.", "verdadera": true, "porque": "Se lo vendieron a unos comerciantes." },
+            { "texto": "Jacob supo enseguida que José estaba vivo.", "verdadera": false, "porque": "Creyó que un animal lo había atacado, y lloró mucho." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "José tenía diecisiete años.", "verdadera": true, "porque": "Lo dice Génesis 37:2." },
+            { "texto": "Jacob amaba igual a todos sus hijos.", "verdadera": false, "porque": "Amaba a José más que a todos (Génesis 37:3)." },
+            { "texto": "Jacob también reprendió a José por uno de sus sueños.", "verdadera": true, "porque": "Así lo cuenta Génesis 37:10." },
+            { "texto": "José encontró a sus hermanos en Dotán.", "verdadera": true, "porque": "Está en Génesis 37:17." },
+            { "texto": "Judá quería dejar a José en la cisterna para siempre.", "verdadera": false, "porque": "Judá propuso venderlo antes que dañarlo (Génesis 37:26-27)." },
+            { "texto": "La caravana llevaba aromas, bálsamo y mirra.", "verdadera": true, "porque": "Lo dice Génesis 37:25." },
+            { "texto": "Jacob se consoló pronto.", "verdadera": false, "porque": "No quiso tomar consolación (Génesis 37:35)." },
+            { "texto": "En Egipto, José fue vendido a Potifar.", "verdadera": true, "porque": "Era capitán de la guardia de Faraón (Génesis 37:36)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño reconozca que la envidia hace daño, y que Dios no abandona a quien sufre injustamente.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué los hermanos fueron tan malos?",
+        "respuesta": "La envidia creció en su corazón hasta llevarlos a hacer algo muy malo. Puedes decir: «Cuando sentimos envidia, es mejor contárselo a Dios y a alguien que nos quiere, antes de que crezca». Y anticipa que José los perdonará."
+      },
+      {
+        "pregunta": "¿Estuvo bien que Jacob quisiera más a José?",
+        "respuesta": "La Biblia cuenta lo que pasó, pero no dice que estuviera bien. Esa preferencia lastimó a toda la familia. Es una buena ocasión para decirle a tu hijo que lo amas de forma única, igual que a sus hermanos."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué le regaló Jacob a José? ¿Cómo reaccionaron sus hermanos?",
+      "sentir": "¿Alguna vez sentiste envidia de alguien? ¿Qué hiciste con ese sentimiento?",
+      "vivir": "Esta semana, cuando sintamos envidia, ¿cómo podemos alegrarnos por el otro en lugar de enojarnos?"
+    },
+    "oracion": "Señor, quita de nuestro corazón la envidia. Ayúdanos a alegrarnos por los demás y a confiar en ti cuando algo sale mal. Amén.",
+    "gesto": "Cada noche, cada uno cuente algo bueno que le pasó a otra persona de la familia. ¡Y celébrenlo juntos!"
+  },
+  "estampa": "La túnica de colores"
+}

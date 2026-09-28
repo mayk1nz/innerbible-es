@@ -1,0 +1,144 @@
+{
+  "id": "bartimeo",
+  "titulo": "Bartimeo vuelve a ver",
+  "referencia": "Marcos 10:46-52",
+  "estudio": "camino-a-jerusalen",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "junto-al-camino",
+      "texto": {
+        "3-5": "Bartimeo no podía ver. Se sentaba junto al camino. Pedía ayuda a la gente que pasaba.",
+        "6-8": "En la ciudad de Jericó vivía un hombre llamado Bartimeo. Era ciego: no podía ver nada. Cada día se sentaba junto al camino y pedía limosna a los que pasaban. Un día oyó mucho ruido: ¡una gran multitud se acercaba!",
+        "9-12": "Jesús salía de Jericó con sus discípulos y una gran multitud. Junto al camino estaba sentado Bartimeo, «hijo de Timeo», un hombre ciego que pedía limosna (Marcos 10:46). No podía trabajar, y dependía de la bondad de los que pasaban."
+      }
+    },
+    {
+      "id": "grita",
+      "texto": {
+        "3-5": "Le dijeron: «¡Es Jesús!». Bartimeo gritó: «¡Jesús, ayúdame!». ¡Muy, muy fuerte!",
+        "6-8": "Bartimeo preguntó qué pasaba. Le dijeron que era Jesús de Nazaret. Entonces empezó a gritar: «¡Jesús, Hijo de David, ten compasión de mí!». Había oído hablar de Jesús, y sabía que Él podía ayudarlo.",
+        "9-12": "Al oír que pasaba Jesús el Nazareno, comenzó a gritar: «Jesús, Hijo de David, ten misericordia de mí». Llamarlo «Hijo de David» era decir que Jesús era el Mesías prometido, el rey esperado. Bartimeo no veía con los ojos, pero su corazón ya reconocía quién era Jesús."
+      }
+    },
+    {
+      "id": "no-se-calla",
+      "texto": {
+        "3-5": "La gente le decía: «¡Shhh! ¡Cállate!». Pero Bartimeo gritó más fuerte: «¡Jesús, ayúdame!».",
+        "6-8": "Mucha gente lo regañaba y le decía que se callara. Pero Bartimeo no se rindió. Gritaba todavía más fuerte: «¡Hijo de David, ten compasión de mí!».",
+        "9-12": "Muchos lo reprendían para que callara. Tal vez pensaban que un mendigo no debía molestar al Maestro. Pero él «daba mayores voces» (Marcos 10:48). Su fe no se apagó cuando otros intentaron callarlo."
+      }
+    },
+    {
+      "id": "te-llama",
+      "texto": {
+        "3-5": "Jesús se detuvo. «Tráiganlo», dijo. «¡Ánimo, Bartimeo! ¡Jesús te llama!». Bartimeo saltó y fue hacia Jesús.",
+        "6-8": "Jesús se detuvo y dijo: «Llámenlo». Entonces le dijeron: «¡Ánimo! Levántate, que te llama». Bartimeo tiró su capa, se levantó de un salto y fue hacia Jesús. Jesús le preguntó: «¿Qué quieres que haga por ti?».",
+        "9-12": "Jesús se detuvo y lo mandó llamar. Los mismos que lo callaban le dijeron: «Ten confianza: levántate, te llama». Bartimeo arrojó su capa, se levantó y fue a Jesús. Jesús le preguntó: «¿Qué quieres que te haga?». Jesús sabía lo que necesitaba, pero quiso escucharlo."
+      }
+    },
+    {
+      "id": "vuelve-a-ver",
+      "texto": {
+        "3-5": "«Quiero ver», dijo Bartimeo. Y Jesús lo sanó. ¡Bartimeo pudo ver! Y se fue caminando con Jesús.",
+        "6-8": "Bartimeo respondió: «Maestro, quiero ver». Jesús le dijo: «Vete, tu fe te ha sanado». ¡Al momento, Bartimeo pudo ver! ¡Qué alegría! Y desde ese día lo siguió por el camino.",
+        "9-12": "«Maestro, que cobre la vista», respondió. Jesús le dijo: «Ve, tu fe te ha salvado». Y luego cobró la vista (Marcos 10:52). Jesús le dijo «ve», pero Bartimeo eligió quedarse: «seguía a Jesús en el camino». El que estaba sentado junto al camino ahora caminaba con Jesús."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Jesús me escucha cuando lo llamo.", "referencia": "Marcos 10:49", "fuente": "adaptado" },
+    "6-8": { "texto": "Jesús le dijo: «Vete, tu fe te ha sanado». Y al momento pudo ver y siguió a Jesús.", "referencia": "Marcos 10:52", "fuente": "adaptado" },
+    "9-12": { "texto": "Y Jesús le dijo: Ve, tu fe te ha salvado. Y luego cobró la vista, y seguía a Jesús en el camino.", "referencia": "Marcos 10:52", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Bartimeo no podía ver.", "verdadera": true, "porque": "Bartimeo era ciego." },
+            { "texto": "Bartimeo se quedó callado.", "verdadera": false, "porque": "Gritó muy fuerte: «¡Jesús, ayúdame!»." },
+            { "texto": "Jesús sanó a Bartimeo.", "verdadera": true, "porque": "¡Bartimeo pudo ver!" }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Bartimeo pedía limosna junto al camino.", "verdadera": true, "porque": "Como no podía ver, pedía ayuda a los que pasaban." },
+            { "texto": "Bartimeo gritó: «¡Hijo de David, ten compasión de mí!».", "verdadera": true, "porque": "Sabía que Jesús podía ayudarlo." },
+            { "texto": "Cuando la gente lo regañó, Bartimeo se calló.", "verdadera": false, "porque": "Gritó todavía más fuerte." },
+            { "texto": "Jesús siguió caminando sin escucharlo.", "verdadera": false, "porque": "Jesús se detuvo y lo mandó llamar." },
+            { "texto": "Bartimeo tiró su capa y fue hacia Jesús.", "verdadera": true, "porque": "Se levantó de un salto." },
+            { "texto": "Después de ver, Bartimeo se fue lejos de Jesús.", "verdadera": false, "porque": "Siguió a Jesús por el camino." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "El nombre Bartimeo quiere decir «hijo de Timeo».", "verdadera": true, "porque": "Marcos lo explica: «Bartimeo el ciego, hijo de Timeo» (Marcos 10:46)." },
+            { "texto": "Jesús entraba a Jericó cuando encontró a Bartimeo.", "verdadera": false, "porque": "Marcos dice que Jesús salía de Jericó (Marcos 10:46)." },
+            { "texto": "Llamar a Jesús «Hijo de David» era reconocerlo como el Mesías.", "verdadera": true, "porque": "El Mesías prometido sería descendiente del rey David." },
+            { "texto": "Los que reprendían a Bartimeo lograron callarlo.", "verdadera": false, "porque": "Él «daba mayores voces» (Marcos 10:48)." },
+            { "texto": "Le dijeron: «Ten confianza: levántate, te llama».", "verdadera": true, "porque": "Así lo cuenta Marcos 10:49." },
+            { "texto": "Bartimeo llevó su capa consigo al ir hacia Jesús.", "verdadera": false, "porque": "Echó su capa y se levantó (Marcos 10:50)." },
+            { "texto": "Jesús le preguntó: «¿Qué quieres que te haga?».", "verdadera": true, "porque": "Jesús quiso escuchar su petición (Marcos 10:51)." },
+            { "texto": "Jesús le dijo: «Tu fe te ha salvado».", "verdadera": true, "porque": "Y luego cobró la vista (Marcos 10:52)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "Ordena la historia de Bartimeo.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Bartimeo está sentado junto al camino.",
+            "Bartimeo grita: «¡Jesús, ayúdame!».",
+            "¡Bartimeo puede ver!"
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Bartimeo pide limosna junto al camino.",
+            "Oye que Jesús está pasando.",
+            "Grita, aunque la gente lo regaña.",
+            "Jesús se detiene y lo llama.",
+            "Bartimeo puede ver y sigue a Jesús."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Jesús sale de Jericó con una gran multitud.",
+            "Bartimeo clama: «Hijo de David, ten misericordia de mí».",
+            "Muchos lo reprenden, pero él da mayores voces.",
+            "Jesús lo manda llamar y Bartimeo echa su capa.",
+            "Jesús pregunta: «¿Qué quieres que te haga?».",
+            "Bartimeo cobra la vista y sigue a Jesús en el camino."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño aprenda que Jesús escucha a quien lo llama con fe, aunque otros quieran callarlo.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Jesús no sana hoy a todas las personas que no ven?",
+        "respuesta": "Sé honesto: «No siempre sabemos por qué». Aclara que no ver no es un castigo ni falta de fe. Las personas ciegas son tan amadas y valiosas como todos. Jesús hoy también cuida a través de médicos, familias y amigos."
+      },
+      {
+        "pregunta": "¿Por qué la gente quería que Bartimeo se callara?",
+        "respuesta": "Quizá pensaban que un mendigo no era importante. Pero para Jesús sí lo era: se detuvo solo por él. Pueden hablar de cómo escuchar a quienes otros ignoran."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo Bartimeo cuando la gente le decía que se callara?",
+      "sentir": "¿Cómo crees que se sintió Bartimeo cuando le dijeron: «¡Ánimo, Jesús te llama!»?",
+      "vivir": "¿Qué le queremos pedir a Jesús esta semana? ¿A quién podemos decirle: «¡Ánimo!»?"
+    },
+    "oracion": "Jesús, gracias porque te detienes cuando te llamo. Abre mis ojos para verte y ver a los que necesitan ayuda. Amén.",
+    "gesto": "Jueguen a guiar a alguien con los ojos vendados por la casa. Luego conversen: ¿cómo nos cuida Jesús cuando no vemos el camino?"
+  },
+  "estampa": "La capa de Bartimeo"
+}

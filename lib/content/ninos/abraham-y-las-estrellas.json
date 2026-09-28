@@ -1,0 +1,144 @@
+{
+  "id": "abraham-y-las-estrellas",
+  "titulo": "Abraham cuenta las estrellas",
+  "referencia": "Génesis 15",
+  "estudio": "genesis-12-50",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "dios-llama",
+      "texto": {
+        "3-5": "Dios le habló a Abraham: «Ve a una tierra nueva. Te bendeciré». ¡Y Abraham fue, con su esposa Sara!",
+        "6-8": "Abram vivía en Harán con su esposa Sarai. Más adelante, Dios les cambiaría los nombres: Abraham y Sara. Un día, Dios le dijo: «Deja tu tierra y ve al lugar que te mostraré. Haré de ti una gran nación». Abram confió y se puso en camino.",
+        "9-12": "Dios dijo a Abram: «Vete de tu tierra y de tu parentela» (Génesis 12:1). Tenía setenta y cinco años y no sabía bien adónde iba. Aun así, salió de Harán rumbo a Canaán con Sarai, su sobrino Lot y todo lo que tenían. Años después, Dios les cambiaría los nombres: Abraham y Sara."
+      }
+    },
+    {
+      "id": "sin-hijos",
+      "texto": {
+        "3-5": "Abraham y Sara eran viejitos. No tenían hijos. ¡Y querían tanto un bebé!",
+        "6-8": "Pasaron los años. Abram y Sarai ya eran mayores y no tenían hijos. Dios le había prometido una gran familia, pero ¿cómo? Abram le habló a Dios con sinceridad: «No me has dado hijos. Mi heredero será uno de los que sirven en mi casa».",
+        "9-12": "Un tiempo después, Dios le habló en visión: «No temas, Abram; yo soy tu escudo» (Génesis 15:1). Abram respondió con honestidad: no tenía hijos, y su heredero sería Eliezer, el mayordomo de su casa. La fe de Abram no escondía sus dudas: se las contaba a Dios."
+      }
+    },
+    {
+      "id": "mira-el-cielo",
+      "texto": {
+        "3-5": "Dios lo sacó afuera. «Mira el cielo. ¿Puedes contar las estrellas?». Una, dos, tres… ¡Son muchísimas!",
+        "6-8": "Entonces Dios sacó a Abram afuera. Le dijo: «Mira el cielo y cuenta las estrellas, si puedes». Abram miró hacia arriba. Una, dos, tres, cien, mil… ¡Era imposible contarlas!",
+        "9-12": "Dios lo sacó fuera: «Mira ahora a los cielos, y cuenta las estrellas, si las puedes contar» (Génesis 15:5). En aquel tiempo no había luces de ciudades, y el cielo brillaba con miles de estrellas. Entonces Dios añadió: «Así será tu simiente». La promesa era tan grande como el cielo."
+      }
+    },
+    {
+      "id": "abram-cree",
+      "texto": {
+        "3-5": "Dios dijo: «Tu familia será así de grande». ¡Y Abraham le creyó a Dios!",
+        "6-8": "Dios le prometió: «Así de grande será tu familia». Abram todavía no tenía ni un hijo, pero le creyó a Dios. Y Dios tomó en cuenta esa fe: por creerle, lo consideró justo.",
+        "9-12": "Abram creyó al Señor, y Dios se lo contó por justicia (Génesis 15:6). Todavía no veía nada, pero confió en quien había prometido. Siglos después, el apóstol Pablo usaría esta frase para explicar que Dios nos acepta por la fe."
+      }
+    },
+    {
+      "id": "el-pacto",
+      "texto": {
+        "3-5": "Dios le hizo una promesa especial a Abraham. ¡Y Dios siempre cumple!",
+        "6-8": "Ese día, Dios hizo un pacto con Abram, una promesa muy seria. Le dijo: «A tu familia le daré esta tierra». Y Dios cumplió. Abram tuvo un hijo, Isaac, y su familia llegó a ser un pueblo enorme.",
+        "9-12": "Al caer el sol, Dios selló la promesa con un pacto. Una antorcha de fuego pasó entre los animales preparados, y Dios dijo: «A tu simiente daré esta tierra» (Génesis 15:18). Así se cerraban entonces los acuerdos más solemnes. Pero aquí solo pasó el fuego de Dios: Él mismo se comprometió a cumplir."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Yo confío en Dios.", "referencia": "Génesis 15:6", "fuente": "adaptado" },
+    "6-8": { "texto": "Mira el cielo y cuenta las estrellas: así será tu familia.", "referencia": "Génesis 15:5", "fuente": "adaptado" },
+    "9-12": { "texto": "Y sacole fuera, y dijo: Mira ahora a los cielos, y cuenta las estrellas, si las puedes contar. Y le dijo: Así será tu simiente.", "referencia": "Génesis 15:5", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de la historia de Abraham.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["el cielo", "las estrellas"],
+            ["Abraham", "Sara"],
+            ["Dios", "la promesa"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Abram", "Sarai"],
+            ["Harán", "la ciudad de donde salió"],
+            ["Canaán", "la tierra prometida"],
+            ["las estrellas", "la gran familia"],
+            ["Lot", "el sobrino"],
+            ["el pacto", "una promesa muy seria"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Génesis 12:1", "«Vete de tu tierra»"],
+            ["Génesis 15:1", "«Yo soy tu escudo»"],
+            ["Génesis 15:5", "«Cuenta las estrellas»"],
+            ["Génesis 15:6", "Abram creyó al Señor"],
+            ["Eliezer", "el mayordomo de Abram"],
+            ["Lot", "el sobrino de Abram"],
+            ["Ur de los Caldeos", "de donde Dios sacó a Abram"],
+            ["75 años", "la edad de Abram al salir de Harán"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de Abraham? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué le pidió Dios a Abraham que contara?", "opciones": ["Las estrellas", "Las piedras"], "correcta": 0 },
+            { "texto": "¿Abraham le creyó a Dios?", "opciones": ["No", "Sí"], "correcta": 1 },
+            { "texto": "¿Tenían hijos Abraham y Sara?", "opciones": ["Todavía no", "Tenían diez"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Adónde le pidió Dios a Abram que fuera?", "opciones": ["A Egipto", "A la tierra que Dios le mostraría", "Al mar"], "correcta": 1 },
+            { "texto": "¿Qué le preocupaba a Abram?", "opciones": ["No tener hijos", "No tener camellos", "No tener casa"], "correcta": 0 },
+            { "texto": "¿Qué le dijo Dios que contara?", "opciones": ["Las ovejas", "Las monedas", "Las estrellas"], "correcta": 2 },
+            { "texto": "¿Qué hizo Abram con la promesa de Dios?", "opciones": ["Se enojó", "Le creyó a Dios", "Se fue a dormir"], "correcta": 1 },
+            { "texto": "¿Cómo se llamarían después Abram y Sarai?", "opciones": ["Abraham y Sara", "Adán y Eva", "Isaac y Rebeca"], "correcta": 0 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cuántos años tenía Abram al salir de Harán?", "opciones": ["Veinte", "Cuarenta", "Setenta y cinco", "Cien"], "correcta": 2, "explicacion": "Génesis 12:4." },
+            { "texto": "¿Qué le dijo Dios en la visión de Génesis 15:1?", "opciones": ["«Yo soy tu escudo»", "«Construye un arca»", "«Sube al monte»", "«Vuelve a Ur»"], "correcta": 0 },
+            { "texto": "¿Quién iba a ser el heredero de Abram, según él?", "opciones": ["Lot", "Eliezer, su mayordomo", "Faraón", "Melquisedec"], "correcta": 1 },
+            { "texto": "¿Qué significa que Dios le «contó por justicia» su fe?", "opciones": ["Que lo castigó", "Que le pagó dinero", "Que lo aceptó como justo por creerle", "Que lo hizo rey"], "correcta": 2 },
+            { "texto": "¿Qué pasó entre los animales al caer el sol?", "opciones": ["Una antorcha de fuego", "Un río", "Un ángel con espada", "Una paloma"], "correcta": 0, "explicacion": "Génesis 15:17: un horno humeando y una antorcha de fuego." },
+            { "texto": "¿Qué prometió Dios en el pacto de Génesis 15:18?", "opciones": ["Un palacio", "Un arca", "Una corona", "Dar la tierra a su descendencia"], "correcta": 3 }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño aprenda que confiar en Dios es creerle, aunque todavía no veamos lo que ha prometido.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Dios tardó tanto en darle un hijo?",
+        "respuesta": "La Biblia no explica todos los porqués. Muestra que los tiempos de Dios no son los nuestros, y que Abram aprendió a confiar esperando. Puedes decir: «A veces esperar es difícil, pero Dios no se olvida»."
+      },
+      {
+        "pregunta": "¿Por qué partió animales?",
+        "respuesta": "Era una forma antigua de hacer un pacto muy serio: quienes se comprometían pasaban entre los animales. Aquí solo pasó el fuego de Dios, como diciendo: «Yo cumpliré». Con los pequeños no hace falta entrar en detalles."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué le pidió Dios a Abram que contara en el cielo?",
+      "sentir": "¿Cómo se siente esperar algo que deseas mucho? ¿Qué te ayuda a tener paciencia?",
+      "vivir": "¿Qué promesa de Dios podemos recordar juntos esta semana cuando algo nos preocupe?"
+    },
+    "oracion": "Señor, tú conoces cada estrella y nos conoces a nosotros. Ayúdanos a confiar en ti, aun cuando tengamos que esperar. Amén.",
+    "gesto": "Una noche despejada, salgan a mirar el cielo e intenten contar estrellas. Digan juntos: «Dios cumple lo que promete»."
+  },
+  "estampa": "Las estrellas de Abraham"
+}

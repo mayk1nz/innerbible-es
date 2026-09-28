@@ -1,0 +1,147 @@
+{
+  "id": "jesus-bendice-a-los-ninos",
+  "titulo": "Jesús bendice a los niños",
+  "referencia": "Marcos 10:13-16",
+  "estudio": "camino-a-jerusalen",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "traen-a-los-ninos",
+      "texto": {
+        "3-5": "Unas familias traían a sus niños. «¡Vamos a ver a Jesús!». ¡Querían que Jesús los tocara!",
+        "6-8": "Jesús iba de camino y mucha gente lo seguía para escucharlo. Algunas familias le traían a sus niños pequeños. Querían que Jesús los tocara y los bendijera, porque sabían que Él era bueno y amaba a todos.",
+        "9-12": "Jesús iba camino a Jerusalén, enseñando a las multitudes en la región de Judea (Marcos 10:1). Algunas personas le presentaban niños «para que los tocase» (Marcos 10:13). Deseaban que el Maestro pusiera sus manos sobre ellos y los bendijera."
+      }
+    },
+    {
+      "id": "los-discipulos",
+      "texto": {
+        "3-5": "Los amigos de Jesús dijeron: «¡No, no! Jesús está ocupado». Y los niños se quedaron atrás.",
+        "6-8": "Pero los discípulos regañaron a quienes traían a los niños. Tal vez pensaron que Jesús tenía cosas más importantes que hacer. Los niños tuvieron que quedarse atrás, sin poder acercarse.",
+        "9-12": "Pero los discípulos «reñían a los que los presentaban». Quizá creían que los niños eran una distracción para un maestro tan importante. En aquel tiempo, los niños no tenían mucho lugar en la vida pública. Los discípulos pensaban que estaban ayudando a Jesús."
+      }
+    },
+    {
+      "id": "dejad-venir",
+      "texto": {
+        "3-5": "Jesús se enojó con sus amigos. Dijo: «¡Dejen que los niños vengan a mí!». ¡Y los niños corrieron hacia Él!",
+        "6-8": "Cuando Jesús vio lo que pasaba, se enojó con sus discípulos. Les dijo: «Dejen que los niños vengan a mí, no se lo impidan. El reino de Dios es de los que son como ellos».",
+        "9-12": "Al verlo, Jesús «se enojó» (Marcos 10:14). Es una de las pocas veces que los Evangelios dicen que Jesús se enojó, y fue para defender a los niños. Dijo: «Dejad los niños venir, y no se lo estorbéis; porque de los tales es el reino de Dios»."
+      }
+    },
+    {
+      "id": "como-un-nino",
+      "texto": {
+        "3-5": "Jesús dijo: «Para estar con Dios, hay que ser como un niño». ¡Confiar como un niño!",
+        "6-8": "Luego Jesús enseñó: «Quien no recibe el reino de Dios como un niño, no entrará en él». Un niño recibe un regalo con alegría y confía en quien lo ama. Así debemos recibir el amor de Dios.",
+        "9-12": "Después añadió: «El que no recibiere el reino de Dios como un niño, no entrará en él» (Marcos 10:15). Un niño no puede ganarse un regalo ni pagarlo: solo lo recibe con confianza. Así se recibe el reino de Dios: como un regalo de su amor."
+      }
+    },
+    {
+      "id": "la-bendicion",
+      "texto": {
+        "3-5": "Jesús los tomó en sus brazos. ¡Qué abrazo! Puso sus manos sobre ellos y los bendijo.",
+        "6-8": "Entonces Jesús tomó a los niños en sus brazos. Puso sus manos sobre cada uno y los bendijo. Aquellos niños descubrieron que eran muy importantes para Jesús. ¡Y tú también lo eres!",
+        "9-12": "Por último, Jesús tomó a los niños en sus brazos, puso las manos sobre ellos y los bendecía (Marcos 10:16). Hizo más de lo que las familias pedían: no solo los tocó, sino que los abrazó. Para Jesús, ningún niño es un estorbo."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Jesús me abraza y me bendice.", "referencia": "Marcos 10:16", "fuente": "adaptado" },
+    "6-8": { "texto": "Jesús tomó a los niños en sus brazos, puso sus manos sobre ellos y los bendijo.", "referencia": "Marcos 10:16", "fuente": "adaptado" },
+    "9-12": { "texto": "Y tomándolos en los brazos, poniendo las manos sobre ellos, los bendecía.", "referencia": "Marcos 10:16", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["Jesús", "los brazos abiertos"],
+            ["los niños", "corren hacia Jesús"],
+            ["las familias", "traen a sus hijos"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["Jesús", "bendice a los niños"],
+            ["los discípulos", "regañan a las familias"],
+            ["las familias", "traen a sus niños"],
+            ["los niños", "vienen a Jesús"],
+            ["el reino de Dios", "es de los que son como niños"],
+            ["las manos de Jesús", "sobre los niños"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Marcos 10:13", "le presentaban niños"],
+            ["los discípulos", "reñían a los que los traían"],
+            ["Jesús se enojó", "para defender a los niños"],
+            ["«Dejad los niños venir»", "no se lo estorbéis"],
+            ["el reino de Dios", "se recibe como un niño"],
+            ["un regalo", "no se gana, se recibe"],
+            ["«tomándolos en los brazos»", "un abrazo de Jesús"],
+            ["las manos de Jesús", "los bendecía"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Jesús quería que los niños se acercaran.", "verdadera": true, "porque": "Dijo: «Dejen que los niños vengan a mí»." },
+            { "texto": "Jesús dijo: «Váyanse, niños».", "verdadera": false, "porque": "Jesús los llamó y los abrazó." },
+            { "texto": "Jesús abrazó a los niños.", "verdadera": true, "porque": "Los tomó en sus brazos y los bendijo." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Las familias querían que Jesús tocara a sus niños.", "verdadera": true, "porque": "Querían que Jesús los bendijera." },
+            { "texto": "Los discípulos ayudaron a los niños a pasar.", "verdadera": false, "porque": "Los discípulos regañaron a quienes los traían." },
+            { "texto": "Jesús se enojó con los niños.", "verdadera": false, "porque": "Se enojó con los discípulos, que no dejaban pasar a los niños." },
+            { "texto": "Jesús dijo que el reino de Dios es de los que son como niños.", "verdadera": true, "porque": "«El reino de Dios es de los que son como ellos»." },
+            { "texto": "Jesús solo saludó a los niños de lejos.", "verdadera": false, "porque": "Los tomó en sus brazos." },
+            { "texto": "Jesús puso sus manos sobre los niños y los bendijo.", "verdadera": true, "porque": "Así lo cuenta Marcos 10:16." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Le presentaban niños para que los tocase.", "verdadera": true, "porque": "Así empieza el relato (Marcos 10:13)." },
+            { "texto": "Los discípulos reñían a los que traían a los niños.", "verdadera": true, "porque": "Pensaban que los niños eran un estorbo (Marcos 10:13)." },
+            { "texto": "Jesús aprobó lo que hicieron los discípulos.", "verdadera": false, "porque": "Al verlo, Jesús «se enojó» (Marcos 10:14)." },
+            { "texto": "Jesús dijo: «De los tales es el reino de Dios».", "verdadera": true, "porque": "Lo dijo de los niños (Marcos 10:14)." },
+            { "texto": "Para entrar en el reino, hay que ser adulto y muy sabio.", "verdadera": false, "porque": "Hay que recibirlo «como un niño» (Marcos 10:15)." },
+            { "texto": "El reino de Dios se gana con esfuerzo, como un premio.", "verdadera": false, "porque": "Se recibe como un regalo, con la confianza de un niño." },
+            { "texto": "Jesús hizo más de lo que las familias pedían.", "verdadera": true, "porque": "Pedían que los tocara, y Él los abrazó y bendijo." },
+            { "texto": "Este relato ocurre mientras Jesús iba de camino a Jerusalén.", "verdadera": true, "porque": "Marcos lo sitúa en la región de Judea (Marcos 10:1)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño sepa que es importante y amado por Jesús, y que puede acercarse a Él con toda confianza.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Jesús se enojó? ¿Eso no es malo?",
+        "respuesta": "Enojarse no siempre es malo. Jesús se enojó porque estaban dejando fuera a los niños. Fue un enojo para proteger y abrazar, no para lastimar. Pueden hablar de cómo expresar el enojo sin herir."
+      },
+      {
+        "pregunta": "¿Hoy Jesús también me abraza, si no lo veo?",
+        "respuesta": "«Sí. Jesús te conoce por tu nombre y te ama igual que a aquellos niños». Puedes añadir: «Cuando te abrazo o te bendigo antes de dormir, Jesús también te abraza a través de nosotros»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo Jesús cuando los discípulos no dejaban pasar a los niños?",
+      "sentir": "¿Cómo crees que se sintieron los niños cuando Jesús los abrazó?",
+      "vivir": "¿A qué niño o persona podemos incluir esta semana, para que no se quede afuera?"
+    },
+    "oracion": "Jesús, gracias porque me quieres cerca de ti. Tómame en tus brazos y bendice a mi familia. Amén.",
+    "gesto": "Cada noche de esta semana, pongan la mano sobre la cabeza de su hijo y díganle: «Que Jesús te bendiga. Eres muy amado»."
+  },
+  "estampa": "Los brazos abiertos de Jesús"
+}

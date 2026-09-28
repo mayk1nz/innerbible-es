@@ -1,0 +1,125 @@
+{
+  "id": "cielo-nuevo",
+  "titulo": "Un cielo nuevo y una tierra nueva",
+  "referencia": "Apocalipsis 21:1-5",
+  "estudio": "apocalipsis",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "juan-ve",
+      "texto": {
+        "3-5": "Juan era amigo de Jesús. Un día, Dios le mostró algo maravilloso. ¡Algo que va a pasar!",
+        "6-8": "Juan, el amigo de Jesús, estaba en una isla llamada Patmos. Allí Dios le mostró, como en un sueño, cosas que todavía no han pasado. Juan escribió todo en el último libro de la Biblia, el Apocalipsis, para darnos esperanza.",
+        "9-12": "Juan estaba en la isla de Patmos «por la palabra de Dios y el testimonio de Jesucristo» (Apocalipsis 1:9). Allí recibió una revelación: visiones llenas de símbolos sobre el final de la historia. En el último capítulo de esa gran visión, Dios le mostró hacia dónde va todo."
+      }
+    },
+    {
+      "id": "todo-nuevo",
+      "texto": {
+        "3-5": "Juan vio un cielo nuevo y una tierra nueva. ¡Todo nuevo y precioso!",
+        "6-8": "Juan escribió: «Vi un cielo nuevo y una tierra nueva». El mundo de antes, con sus cosas tristes, ya había pasado. Dios no tira su creación a la basura: la hace nueva, más bonita que nunca.",
+        "9-12": "«Y vi un cielo nuevo, y una tierra nueva: porque el primer cielo y la primera tierra se fueron» (Apocalipsis 21:1). Juan añade que «el mar ya no es». Para los israelitas, el mar era muchas veces una imagen del caos y del peligro. En la creación nueva, nada amenazará al pueblo de Dios."
+      }
+    },
+    {
+      "id": "la-ciudad",
+      "texto": {
+        "3-5": "Juan vio una ciudad santa que bajaba del cielo. ¡Estaba preciosa, como una novia el día de su boda!",
+        "6-8": "Luego Juan vio una ciudad santa, la nueva Jerusalén, que bajaba del cielo, de parte de Dios. Estaba hermosa, como una novia arreglada para su boda. En esa ciudad no hace falta sol ni luna, porque la luz de Dios lo ilumina todo.",
+        "9-12": "Juan vio «la santa ciudad, Jerusalem nueva, que descendía del cielo, de Dios». Estaba dispuesta «como una esposa ataviada para su marido» (Apocalipsis 21:2). Más adelante dice que no necesita sol ni luna, «porque la claridad de Dios la iluminó» (Apocalipsis 21:23). La historia que empezó en un jardín termina en una ciudad llena de luz."
+      }
+    },
+    {
+      "id": "dios-con-nosotros",
+      "texto": {
+        "3-5": "Una gran voz dijo: «¡Dios vivirá con su pueblo! Dios secará todas sus lágrimas. ¡Ya no habrá tristeza!».",
+        "6-8": "Juan oyó una gran voz desde el trono: «¡Aquí está la casa de Dios con las personas! Dios vivirá con ellos, y ellos serán su pueblo». Dios secará toda lágrima de sus ojos. Ya no habrá muerte, ni llanto, ni dolor. ¡Todo lo triste habrá pasado para siempre!",
+        "9-12": "Una gran voz del cielo anunció: «He aquí el tabernáculo de Dios con los hombres, y morará con ellos» (Apocalipsis 21:3). Lo que Dios siempre quiso, vivir con su pueblo, se cumple por completo. Él mismo limpiará toda lágrima. La muerte, el llanto y el dolor ya no existirán, «porque las primeras cosas son pasadas»."
+      }
+    },
+    {
+      "id": "todo-lo-hago-nuevo",
+      "texto": {
+        "3-5": "Dios dijo: «¡Yo hago nuevas todas las cosas!». Dios cumple sus promesas. ¡Qué gran esperanza!",
+        "6-8": "Entonces el que estaba sentado en el trono dijo: «Yo hago nuevas todas las cosas». Y le pidió a Juan: «Escribe, porque estas palabras son verdaderas». Por eso, aunque hoy haya cosas tristes, sabemos cómo termina la historia: con Dios haciendo todo nuevo.",
+        "9-12": "El que estaba sentado en el trono dijo: «He aquí, yo hago nuevas todas las cosas» (Apocalipsis 21:5). Y ordenó a Juan escribirlo, porque «estas palabras son fieles y verdaderas». La Biblia empieza con Dios creando todo bueno y termina con Dios haciendo todo nuevo. Esa es nuestra esperanza."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios hace nuevas todas las cosas.", "referencia": "Apocalipsis 21:5", "fuente": "adaptado" },
+    "6-8": { "texto": "Dios secará toda lágrima de sus ojos, y ya no habrá muerte, ni llanto, ni dolor.", "referencia": "Apocalipsis 21:4", "fuente": "adaptado" },
+    "9-12": { "texto": "Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y me dijo: Escribe; porque estas palabras son fieles y verdaderas.", "referencia": "Apocalipsis 21:5", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Juan vio un cielo nuevo y una tierra nueva.", "verdadera": true, "porque": "Dios le mostró que hará todo nuevo." },
+            { "texto": "En la ciudad de Dios habrá mucha tristeza.", "verdadera": false, "porque": "Dios secará todas las lágrimas." },
+            { "texto": "Dios vivirá con su pueblo.", "verdadera": true, "porque": "Una gran voz lo anunció." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Juan escribió lo que vio en el último libro de la Biblia.", "verdadera": true, "porque": "Es el libro del Apocalipsis." },
+            { "texto": "La ciudad santa subía desde la tierra.", "verdadera": false, "porque": "Bajaba del cielo, de parte de Dios." },
+            { "texto": "La ciudad estaba hermosa como una novia.", "verdadera": true, "porque": "Como una novia arreglada para su boda." },
+            { "texto": "En la ciudad de Dios hará falta mucha luz eléctrica.", "verdadera": false, "porque": "La luz de Dios lo ilumina todo." },
+            { "texto": "Dios secará toda lágrima.", "verdadera": true, "porque": "Ya no habrá muerte, ni llanto, ni dolor." },
+            { "texto": "Dios dijo: «Yo hago viejas todas las cosas».", "verdadera": false, "porque": "Dijo: «Yo hago nuevas todas las cosas»." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Juan recibió esta visión en la isla de Patmos.", "verdadera": true, "porque": "Así lo dice Apocalipsis 1:9." },
+            { "texto": "Juan dice que el primer cielo y la primera tierra se fueron.", "verdadera": true, "porque": "Apocalipsis 21:1." },
+            { "texto": "La nueva Jerusalén la construyen los hombres.", "verdadera": false, "porque": "Descendía «del cielo, de Dios» (Apocalipsis 21:2)." },
+            { "texto": "El «tabernáculo de Dios con los hombres» significa que Dios vivirá con su pueblo.", "verdadera": true, "porque": "«Morará con ellos» (Apocalipsis 21:3)." },
+            { "texto": "En la ciudad nueva seguirá habiendo muerte y dolor.", "verdadera": false, "porque": "«La muerte no será más» (Apocalipsis 21:4)." },
+            { "texto": "La ciudad necesita sol y luna para iluminarse.", "verdadera": false, "porque": "«La claridad de Dios la iluminó» (Apocalipsis 21:23)." },
+            { "texto": "Dios mandó a Juan escribir porque sus palabras son fieles y verdaderas.", "verdadera": true, "porque": "Apocalipsis 21:5." },
+            { "texto": "La Biblia empieza con un jardín y termina con una ciudad llena de luz.", "verdadera": true, "porque": "De Génesis 2 a Apocalipsis 21: Dios lleva su historia a buen fin." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la ciudad nueva.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["LUZ", "CIELO", "DIOS"], "diagonales": false, "seed": 521 },
+        "6-8": { "tamano": 6, "palabras": ["NUEVO", "CIUDAD", "TRONO", "JUAN"], "diagonales": false, "seed": 522 },
+        "9-12": { "tamano": 10, "palabras": ["CIELO", "TIERRA", "CIUDAD", "JERUSALÉN", "TRONO", "LÁGRIMA", "NUEVAS", "PATMOS"], "diagonales": true, "seed": 523 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que la historia de Dios termina bien: Dios hará todo nuevo y vivirá para siempre con su pueblo.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Mi abuelito, que murió, estará allí?",
+        "respuesta": "Con ternura: «Dios promete que secará toda lágrima y que la muerte no será más. Los que aman a Jesús estarán con Él». Si el niño vive un duelo, acompáñalo sin prisa y deja espacio para su tristeza."
+      },
+      {
+        "pregunta": "¿No habrá mar? ¡A mí me gusta el mar!",
+        "respuesta": "El Apocalipsis habla con imágenes. Para el pueblo de Israel, el mar era muchas veces señal de peligro. Juan quiere decir que allí nada nos hará daño. Lo seguro es que todo será más bonito de lo que imaginamos."
+      },
+      {
+        "pregunta": "¿Cuándo va a pasar?",
+        "respuesta": "Nadie sabe el día: Jesús dijo que ni siquiera los ángeles lo saben (Mateo 24:36). No es para tener miedo, sino para vivir con esperanza y amor mientras esperamos."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué dijo el que estaba sentado en el trono?",
+      "sentir": "¿Qué cosa triste te gustaría que Dios hiciera nueva? ¿Cómo te hace sentir su promesa?",
+      "vivir": "Mientras esperamos el cielo nuevo, ¿cómo podemos secar las lágrimas de alguien esta semana?"
+    },
+    "oracion": "Dios de amor, gracias porque un día harás nuevas todas las cosas y secarás nuestras lágrimas. Llénanos de esperanza. Amén.",
+    "gesto": "Dibujen juntos cómo imaginan la ciudad nueva llena de luz. Pónganlo en un lugar visible para recordar que Dios cumple sus promesas."
+  },
+  "estampa": "La ciudad llena de luz"
+}

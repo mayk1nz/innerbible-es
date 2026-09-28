@@ -1,0 +1,118 @@
+{
+  "id": "jesus-calma-la-tormenta",
+  "titulo": "Jesús calma la tormenta",
+  "referencia": "Marcos 4:35-41",
+  "estudio": "galilea-milagros",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "al-otro-lado",
+      "texto": {
+        "3-5": "Era de tarde. Jesús dijo: «Vamos al otro lado del lago». Y subieron a la barca.",
+        "6-8": "Jesús había enseñado todo el día. Al caer la tarde, dijo a sus discípulos: «Crucemos al otro lado del lago». Dejaron a la gente y subieron con Jesús a la barca. Otras barcas iban con ellos.",
+        "9-12": "Aquel día, al caer la tarde, Jesús dijo a sus discípulos: «Pasemos de la otra parte» (Marcos 4:35). Había pasado el día enseñando con parábolas junto al mar de Galilea. Despidieron a la multitud y lo llevaron en el barco, tal como estaba. Otros barquitos los acompañaban."
+      }
+    },
+    {
+      "id": "la-tormenta",
+      "texto": {
+        "3-5": "¡Fuuu! Sopló un viento muy fuerte. ¡Las olas subían y bajaban! La barca se llenaba de agua.",
+        "6-8": "De repente, se levantó una tormenta muy fuerte. El viento soplaba y las olas golpeaban la barca. ¡La barca se estaba llenando de agua! Los discípulos tenían mucho miedo.",
+        "9-12": "Entonces se levantó «una grande tempestad de viento» (Marcos 4:37). Las olas entraban en el barco, que ya se llenaba de agua. Varios discípulos eran pescadores y conocían bien ese lago. Pero esta vez tuvieron miedo."
+      }
+    },
+    {
+      "id": "jesus-duerme",
+      "texto": {
+        "3-5": "¿Y Jesús? ¡Dormía tranquilo sobre una almohada! Zzz… Sus amigos lo despertaron: «¡Maestro, ayúdanos!».",
+        "6-8": "¿Y Jesús? Estaba en la parte de atrás de la barca, ¡durmiendo sobre un cojín! Los discípulos lo despertaron y le dijeron: «¡Maestro! ¿No te importa que nos hundamos?».",
+        "9-12": "Jesús estaba en la popa, «durmiendo sobre un cabezal» (Marcos 4:38). Lo despertaron: «¿Maestro, no tienes cuidado que perecemos?». En su miedo, dudaron de que a Jesús le importaran. Pero Jesús descansaba porque confiaba plenamente en su Padre."
+      }
+    },
+    {
+      "id": "calla",
+      "texto": {
+        "3-5": "Jesús se levantó. Le dijo al viento: «¡Silencio! ¡Quédate quieto!». Y todo quedó en calma. Shhh…",
+        "6-8": "Jesús se levantó, reprendió al viento y le dijo al lago: «¡Silencio! ¡Cálmate!». Y el viento se detuvo. Todo quedó en una calma muy grande. ¡El agua estaba quieta como un espejo!",
+        "9-12": "Jesús se levantó, increpó al viento y dijo a la mar: «Calla, enmudece». Y cesó el viento, y fue hecha grande bonanza (Marcos 4:39). «Bonanza» significa calma total. No hizo falta nada más: bastó su palabra. El mismo que dormía cansado, como hombre, mandaba sobre el mar, como solo Dios puede hacerlo."
+      }
+    },
+    {
+      "id": "quien-es",
+      "texto": {
+        "3-5": "Jesús preguntó: «¿Por qué tienen miedo?». ¡Jesús estaba con ellos! Y Jesús nos cuida también a nosotros.",
+        "6-8": "Jesús les preguntó: «¿Por qué tienen tanto miedo? ¿Todavía no tienen fe?». Los discípulos, asombrados, se decían: «¿Quién es este, que hasta el viento y el lago le obedecen?». Jesús estaba con ellos, y con Él no estaban solos.",
+        "9-12": "Jesús les preguntó: «¿Por qué estáis así amedrentados? ¿Cómo no tenéis fe?» (Marcos 4:40). Entonces sintieron un temor distinto: asombro ante Jesús. Se decían: «¿Quién es éste, que aun el viento y la mar le obedecen?». Es la gran pregunta del evangelio de Marcos. Y Marcos la responde desde su primera línea: Jesús es el Hijo de Dios."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Silencio, viento! ¡Cálmate, mar!", "referencia": "Marcos 4:39", "fuente": "adaptado" },
+    "6-8": { "texto": "¿Quién es este, que hasta el viento y el mar le obedecen?", "referencia": "Marcos 4:41", "fuente": "adaptado" },
+    "9-12": { "texto": "Y levantándose, increpó al viento, y dijo a la mar: Calla, enmudece. Y cesó el viento, y fue hecha grande bonanza.", "referencia": "Marcos 4:39", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la tormenta.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["MAR", "OLA", "BARCA"], "diagonales": false, "seed": 4435 },
+        "6-8": { "tamano": 6, "palabras": ["VIENTO", "OLAS", "BARCA", "CALMA"], "diagonales": false, "seed": 44356 },
+        "9-12": { "tamano": 10, "palabras": ["TEMPESTAD", "VIENTO", "OLAS", "BARCO", "CABEZAL", "BONANZA", "MAESTRO", "FE"], "diagonales": true, "seed": 443541 }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Te acuerdas de la historia? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué hacía Jesús en la barca?", "opciones": ["Dormía", "Pescaba"], "correcta": 0, "explicacion": "Dormía tranquilo sobre una almohada." },
+            { "texto": "¿Qué le dijo Jesús al viento?", "opciones": ["¡Sopla más!", "¡Silencio!"], "correcta": 1, "explicacion": "Y el viento le obedeció." },
+            { "texto": "¿Qué pasó después?", "opciones": ["Todo quedó en calma", "Llovió más"], "correcta": 0, "explicacion": "¡Todo quedó en calma!" }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿A dónde quería ir Jesús?", "opciones": ["Al otro lado del lago", "A Jerusalén", "A la montaña"], "correcta": 0, "explicacion": "Dijo: «Crucemos al otro lado»." },
+            { "texto": "¿Dónde dormía Jesús?", "opciones": ["En una casa", "En la barca, sobre un cojín", "En la arena"], "correcta": 1, "explicacion": "Dormía en la parte de atrás de la barca." },
+            { "texto": "¿Qué le dijeron los discípulos?", "opciones": ["«¿No te importa que nos hundamos?»", "«Queremos pescar»", "«Tenemos hambre»"], "correcta": 0, "explicacion": "Tenían mucho miedo." },
+            { "texto": "¿Qué pasó cuando Jesús habló?", "opciones": ["El viento sopló más", "Llegó otra barca", "El viento se detuvo"], "correcta": 2, "explicacion": "Todo quedó en una gran calma." },
+            { "texto": "¿Qué se preguntaban los discípulos?", "opciones": ["¿Quién es este?", "¿Qué hora es?", "¿Dónde está la orilla?"], "correcta": 0, "explicacion": "¡Hasta el viento y el lago le obedecían!" }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cuándo dijo Jesús: «Pasemos de la otra parte»?", "opciones": ["Al amanecer", "Al mediodía", "Al caer la tarde", "A medianoche"], "correcta": 2, "explicacion": "«Cuando fue tarde» (Marcos 4:35)." },
+            { "texto": "¿Iba solo el barco de Jesús?", "opciones": ["Sí", "No, había otros barquitos", "Iba con un barco de soldados", "No se sabe"], "correcta": 1, "explicacion": "Había también otros barquitos (Marcos 4:36)." },
+            { "texto": "¿En qué parte del barco dormía Jesús?", "opciones": ["En la proa", "En la popa", "En el mástil", "En el agua"], "correcta": 1, "explicacion": "Dormía en la popa, sobre un cabezal (Marcos 4:38)." },
+            { "texto": "¿Qué palabras dijo Jesús a la mar?", "opciones": ["«Calla, enmudece»", "«Vete lejos»", "«Obedéceme, mar»", "«Paz a vosotros»"], "correcta": 0, "explicacion": "Así lo dice Marcos 4:39." },
+            { "texto": "¿Qué significa «bonanza»?", "opciones": ["Tormenta", "Riqueza", "Calma total", "Lluvia"], "correcta": 2, "explicacion": "El mar quedó en completa calma." },
+            { "texto": "¿Qué preguntó Jesús a sus discípulos?", "opciones": ["«¿Tenéis hambre?»", "«¿Cómo no tenéis fe?»", "«¿Dónde está Pedro?»", "«¿Quién me tocó?»"], "correcta": 1, "explicacion": "Así lo dice Marcos 4:40." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Jesús está con nosotros en las «tormentas» de la vida y que podemos confiarle nuestros miedos.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Jesús se enojó con sus amigos por tener miedo?",
+        "respuesta": "Jesús les hizo una pregunta para que aprendieran a confiar, pero no los dejó solos: primero calmó la tormenta. Puedes decir: «Tener miedo es normal. Jesús quiere que, cuando tengamos miedo, lo llamemos a Él»."
+      },
+      {
+        "pregunta": "¿Por qué Jesús no calma todas las tormentas de verdad?",
+        "respuesta": "Es una pregunta honesta. No siempre entendemos por qué pasan cosas difíciles. La promesa de Jesús es estar con nosotros en medio de ellas. Pueden recordar juntos momentos en que Dios los ayudó a pasar un tiempo difícil."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué estaba haciendo Jesús cuando empezó la tormenta?",
+      "sentir": "¿Qué cosas te dan miedo? ¿Qué haces cuando tienes miedo?",
+      "vivir": "¿Qué «tormenta» tiene hoy alguien de la familia? ¿Cómo podemos orar por él y acompañarlo?"
+    },
+    "oracion": "Jesús, cuando tengamos miedo, recuérdanos que estás con nosotros. Calma nuestro corazón con tu paz. Amén.",
+    "gesto": "Esta semana, cuando alguien tenga miedo o esté nervioso, respiren hondo juntos y digan: «Jesús está en mi barca»."
+  },
+  "estampa": "La calma después del viento"
+}

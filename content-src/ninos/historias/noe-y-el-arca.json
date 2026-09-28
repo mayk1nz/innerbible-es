@@ -1,0 +1,142 @@
+{
+  "id": "noe-y-el-arca",
+  "titulo": "Noé y el arca",
+  "referencia": "Génesis 6–9",
+  "estudio": "genesis-1-11",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "dios-habla",
+      "texto": {
+        "3-5": "Noé amaba a Dios. Dios le dijo: «Construye un barco muy, muy grande: un arca».",
+        "6-8": "Hace muchísimo tiempo, la gente se había olvidado de Dios y se hacía daño. Pero Noé era diferente: amaba a Dios y lo escuchaba. Un día, Dios le dijo: «Viene una gran inundación. Construye un arca, un barco enorme, para salvar a tu familia y a los animales».",
+        "9-12": "La tierra se había llenado de violencia, y eso le dolía a Dios en el corazón. En medio de todo, «con Dios caminó Noé» (Génesis 6:9). Dios le confió un plan: construir una enorme arca de madera. Sería más larga que una cancha de fútbol y alta como un edificio de cuatro pisos. Así protegería a su familia y a los animales del diluvio."
+      }
+    },
+    {
+      "id": "construyen",
+      "texto": {
+        "3-5": "Noé y su familia trabajaron mucho. ¡Toc, toc, toc! Y el arca quedó lista.",
+        "6-8": "Noé obedeció, aunque todavía no llovía. Con sus hijos Sem, Cam y Jafet cortó madera y martilló. Cubrieron el arca con brea por dentro y por fuera, para que no entrara el agua. ¡Era un trabajo enorme!",
+        "9-12": "Noé hizo «conforme a todo lo que Dios le mandó» (Génesis 6:22), aunque no se veía ni una nube. Con sus hijos Sem, Cam y Jafet levantó tres pisos, una ventana y una puerta, y cubrió todo con brea. Confiar en Dios, a veces, es hacer lo correcto antes de ver el resultado."
+      }
+    },
+    {
+      "id": "animales",
+      "texto": {
+        "3-5": "Llegaron los animales de dos en dos. ¡Leones, jirafas, elefantes y patitos! Y Dios cerró la puerta.",
+        "6-8": "Llegaron los animales, de dos en dos: macho y hembra de cada especie. Noé, su esposa, sus hijos y las esposas de sus hijos también entraron: ¡ocho personas! Y el Señor mismo cerró la puerta del arca.",
+        "9-12": "Entraron parejas de todos los animales, y de los animales limpios y las aves, siete parejas. Con ellos entraron las ocho personas de la familia. Entonces el Señor les cerró la puerta (Génesis 7:16): Dios mismo cuidaba a los que estaban dentro."
+      }
+    },
+    {
+      "id": "lluvia-paloma",
+      "texto": {
+        "3-5": "Llovió y llovió… ¡cuarenta días y cuarenta noches! Pero dentro del arca todos estaban seguros. Un día, una palomita trajo una hojita verde.",
+        "6-8": "Llovió cuarenta días y cuarenta noches. El agua lo cubrió todo, pero el arca flotaba y dentro estaban a salvo. Después, Noé soltó una paloma. Una tarde volvió con una hoja de olivo en el pico: ¡ya había tierra seca!",
+        "9-12": "Fueron cuarenta días de lluvia y muchos meses sobre el agua. Pero «acordose Dios de Noé» (Génesis 8:1), y un viento hizo bajar las aguas. El arca se detuvo sobre los montes de Ararat, en Armenia. Noé envió un cuervo y después una paloma. La segunda vez, la paloma regresó con una hoja de olivo: la tierra volvía a respirar."
+      }
+    },
+    {
+      "id": "arcoiris",
+      "texto": {
+        "3-5": "Todos salieron del arca. «¡Gracias, Dios!», dijo Noé. Y en el cielo apareció un arcoíris. ¡Dios cumple sus promesas!",
+        "6-8": "Al salir, lo primero que hizo Noé fue dar gracias a Dios. Entonces Dios puso un arcoíris en las nubes y prometió: «Nunca más un diluvio destruirá la tierra». Cada vez que veas un arcoíris, recuerda: Dios cumple lo que promete.",
+        "9-12": "Noé construyó un altar y adoró a Dios. Dios hizo un pacto, una promesa solemne, con Noé, con sus descendientes y con todos los seres vivos. Y puso el arco en las nubes como señal (Génesis 9:12-17). La historia no termina en el agua: termina en una promesa de vida."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Dios cumple sus promesas.", "referencia": "Génesis 9:13-15", "fuente": "adaptado" },
+    "6-8": { "texto": "Pondré mi arcoíris en las nubes: será la señal de mi promesa.", "referencia": "Génesis 9:13", "fuente": "adaptado" },
+    "9-12": { "texto": "Mi arco pondré en las nubes, el cual será por señal de convenio entre mí y la tierra.", "referencia": "Génesis 9:13", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de Noé? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Qué construyó Noé?", "opciones": ["Un arca", "Una torre"], "correcta": 0 },
+            { "texto": "¿Cómo entraron los animales?", "opciones": ["De uno en uno", "De dos en dos"], "correcta": 1 },
+            { "texto": "¿Qué trajo la paloma en el pico?", "opciones": ["Una hoja de olivo", "Una piedra"], "correcta": 0 },
+            { "texto": "¿Qué puso Dios en el cielo?", "opciones": ["Una escalera", "Un arcoíris"], "correcta": 1 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Cómo era Noé?", "opciones": ["El más fuerte de todos", "Amaba a Dios y hacía el bien", "Un rey muy rico"], "correcta": 1 },
+            { "texto": "¿Cuántas personas entraron en el arca?", "opciones": ["Dos", "Ocho", "Cien"], "correcta": 1, "explicacion": "Noé, su esposa, sus tres hijos y las esposas de sus hijos." },
+            { "texto": "¿Quién cerró la puerta del arca?", "opciones": ["Noé", "Un elefante", "El Señor"], "correcta": 2 },
+            { "texto": "¿Cuántos días y noches llovió?", "opciones": ["Siete", "Cuarenta", "Mil"], "correcta": 1 },
+            { "texto": "¿Qué hizo Noé al salir del arca?", "opciones": ["Construyó un altar y dio gracias a Dios", "Se fue a dormir", "Construyó una casa"], "correcta": 0 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Qué dice Génesis 6:9 de Noé?", "opciones": ["Que era rey", "Que con Dios caminó Noé", "Que era marinero", "Que vivía solo"], "correcta": 1 },
+            { "texto": "¿Cómo se llamaban los hijos de Noé?", "opciones": ["Caín, Abel y Set", "Sem, Cam y Jafet", "Pedro, Juan y Santiago", "Abraham, Isaac y Jacob"], "correcta": 1 },
+            { "texto": "¿De qué animales entraron siete parejas?", "opciones": ["De los peces", "De ninguno", "De los animales limpios y las aves", "De los leones"], "correcta": 2, "explicacion": "Génesis 7:2-3: de los animales limpios y de las aves, de siete en siete." },
+            { "texto": "¿Dónde se detuvo el arca?", "opciones": ["En Egipto", "Sobre los montes de Ararat, en Armenia", "En Belén", "En una isla"], "correcta": 1, "explicacion": "La Reina-Valera 1909 dice «montes de Armenia»; otras traducciones dicen «Ararat» (Génesis 8:4)." },
+            { "texto": "¿Qué ave envió Noé antes de la paloma?", "opciones": ["Un águila", "Un cuervo", "Un gorrión", "Un búho"], "correcta": 1 },
+            { "texto": "¿Cuál fue la señal del pacto?", "opciones": ["Una estrella", "Una paloma", "El arco en las nubes", "Un altar"], "correcta": 2, "explicacion": "Dios puso su arco en las nubes como señal (Génesis 9:13)." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia de Noé en orden.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Noé construye el arca.",
+            "Los animales entran de dos en dos.",
+            "Aparece el arcoíris."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Dios le habla a Noé.",
+            "Noé y sus hijos construyen el arca.",
+            "Entran los animales y la familia.",
+            "Llueve y la paloma trae una hoja de olivo.",
+            "Dios pone el arcoíris en las nubes."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Dios le pide a Noé construir un arca.",
+            "Noé obedece aunque no se ve ninguna nube.",
+            "El Señor cierra la puerta del arca.",
+            "El arca se detiene sobre los montes de Ararat.",
+            "La paloma regresa con una hoja de olivo.",
+            "Dios pone el arco en las nubes como señal de su pacto."
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios cuida a los que confían en Él y siempre cumple sus promesas.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Y las personas que no entraron en el arca?",
+        "respuesta": "Responde con calma y sin asustar: «A Dios le dolía mucho el mal que había en el mundo. Por eso hizo una promesa: nunca más un diluvio. Dios quiere salvar, y por eso después nos envió a Jesús». A los pequeños no hace falta darles más detalles."
+      },
+      {
+        "pregunta": "¿Cómo cabían tantos animales?",
+        "respuesta": "El arca era enorme: unos 135 metros de largo y con tres pisos. La Biblia no da todos los detalles. Está bien decir: «No lo sé todo, pero sé que Dios cuidó a cada uno»."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué traía la paloma en el pico cuando volvió al arca?",
+      "sentir": "¿Cómo crees que se sentía Noé construyendo un barco sin ver lluvia? ¿Alguna vez hiciste algo bueno aunque nadie entendiera por qué?",
+      "vivir": "Dios cumple sus promesas. ¿Qué promesa pequeña podemos cumplir nosotros esta semana en casa?"
+    },
+    "oracion": "Gracias, Dios, porque nos cuidas y siempre cumples tus promesas. Ayúdanos a cumplir las nuestras. Amén.",
+    "gesto": "Esta semana, cada vez que vean un arcoíris (o dibujen uno), digan juntos: «Dios cumple sus promesas»."
+  },
+  "estampa": "El arcoíris de la promesa"
+}

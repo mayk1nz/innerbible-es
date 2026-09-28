@@ -1,0 +1,118 @@
+{
+  "id": "zaqueo",
+  "titulo": "Zaqueo baja del árbol",
+  "referencia": "Lucas 19:1-10",
+  "estudio": "camino-a-jerusalen",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "quien-era-zaqueo",
+      "texto": {
+        "3-5": "En Jericó vivía Zaqueo. Tenía mucho dinero. Pero la gente no lo quería.",
+        "6-8": "En la ciudad de Jericó vivía un hombre llamado Zaqueo. Era el jefe de los cobradores de impuestos, y era rico. La gente no lo quería, porque muchos cobradores pedían más dinero del que debían. Todos decían que Zaqueo era un pecador.",
+        "9-12": "En Jericó vivía Zaqueo, «el principal de los publicanos, y era rico» (Lucas 19:2). Los publicanos cobraban impuestos para Roma, el imperio que dominaba al pueblo. Muchos cobraban de más y se quedaban con la diferencia. Por eso la gente los despreciaba y los llamaba pecadores."
+      }
+    },
+    {
+      "id": "sube-al-arbol",
+      "texto": {
+        "3-5": "Jesús pasaba por ahí. Zaqueo quería verlo. ¡Pero era muy bajito! Corrió y… ¡hop! Se subió a un árbol.",
+        "6-8": "Un día, Jesús pasó por Jericó. Zaqueo quería ver quién era Jesús, pero había mucha gente y él era bajito. ¡No veía nada! Entonces corrió por delante y se subió a un árbol, porque Jesús iba a pasar por ahí.",
+        "9-12": "Cuando Jesús pasaba por Jericó, Zaqueo «procuraba ver a Jesús quién fuese» (Lucas 19:3). Pero la multitud no lo dejaba, porque era pequeño de estatura. Entonces corrió delante y se subió a un sicómoro, un árbol de ramas bajas y fuertes. Un hombre rico trepando a un árbol: ¡qué escena!"
+      }
+    },
+    {
+      "id": "jesus-lo-llama",
+      "texto": {
+        "3-5": "Jesús se detuvo y miró hacia arriba. «¡Zaqueo, baja rápido! Hoy voy a tu casa». ¡Jesús sabía su nombre!",
+        "6-8": "Cuando Jesús llegó a ese lugar, miró hacia arriba. ¡Lo llamó por su nombre! «Zaqueo, baja rápido. Hoy tengo que quedarme en tu casa». Zaqueo bajó enseguida y recibió a Jesús muy contento.",
+        "9-12": "Al llegar allí, Jesús miró hacia arriba y lo llamó por su nombre. Le dijo: «Zaqueo, date priesa, desciende, porque hoy es necesario que pose en tu casa» (Lucas 19:5). Zaqueo bajó a toda prisa y lo recibió gozoso."
+      }
+    },
+    {
+      "id": "la-gente-murmura",
+      "texto": {
+        "3-5": "La gente dijo: «¡Mmm! ¿Jesús va a la casa de Zaqueo?». Pero Jesús quería a Zaqueo.",
+        "6-8": "Al ver esto, la gente murmuraba: «¡Jesús se fue a la casa de un pecador!». No entendían por qué Jesús elegía la casa de Zaqueo. Pero Jesús veía algo que ellos no veían: un corazón que podía cambiar.",
+        "9-12": "Al verlo, todos murmuraban: había entrado a posar «con un hombre pecador» (Lucas 19:7). Para ellos, comer en casa de alguien era aprobar su vida. Jesús no aprobaba lo malo que había hecho Zaqueo, pero lo buscó antes de que cambiara."
+      }
+    },
+    {
+      "id": "zaqueo-cambia",
+      "texto": {
+        "3-5": "Zaqueo dijo: «¡Voy a compartir con los pobres! ¡Y voy a devolver lo que tomé!». Jesús se alegró mucho.",
+        "6-8": "Zaqueo se puso de pie: «Señor, daré a los pobres la mitad de lo que tengo. Y si le quité algo a alguien, le devolveré cuatro veces más». Jesús dijo: «Hoy ha llegado la salvación a esta casa».",
+        "9-12": "Zaqueo, puesto en pie, prometió dar la mitad de sus bienes a los pobres y devolver cuatro veces lo que hubiera robado. Nadie se lo exigió: el amor de Jesús le cambió el corazón. Jesús dijo: «Hoy ha venido la salvación a esta casa». Y añadió que Él vino «a buscar y a salvar lo que se había perdido»."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Jesús me busca y me llama por mi nombre.", "referencia": "Lucas 19:5", "fuente": "adaptado" },
+    "6-8": { "texto": "El Hijo del hombre vino a buscar y a salvar a los que estaban perdidos.", "referencia": "Lucas 19:10", "fuente": "adaptado" },
+    "9-12": { "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.", "referencia": "Lucas 19:10", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia de Zaqueo en orden.",
+      "niveles": {
+        "3-5": {
+          "items": [
+            "Zaqueo se sube a un árbol.",
+            "Jesús lo llama: «¡Zaqueo, baja!».",
+            "Zaqueo comparte con los pobres."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Zaqueo quiere ver a Jesús, pero es bajito.",
+            "Corre y se sube a un árbol.",
+            "Jesús lo llama por su nombre.",
+            "La gente murmura contra Jesús.",
+            "Zaqueo promete dar y devolver."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Jesús entra en Jericó y va pasando.",
+            "La multitud no deja ver a Zaqueo.",
+            "Zaqueo sube a un sicómoro.",
+            "«Zaqueo, date priesa, desciende».",
+            "Todos murmuran: «Entró a posar con un pecador».",
+            "«Hoy ha venido la salvación a esta casa»."
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas entre las ramas.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["ÁRBOL", "JESÚS", "CASA"], "diagonales": false, "seed": 461 },
+        "6-8": { "tamano": 6, "palabras": ["ZAQUEO", "ÁRBOL", "JERICÓ", "POBRES"], "diagonales": false, "seed": 462 },
+        "9-12": { "tamano": 10, "palabras": ["ZAQUEO", "SICÓMORO", "JERICÓ", "PUBLICANO", "RICO", "POBRES", "CASA", "SALVACIÓN"], "diagonales": true, "seed": 463 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Jesús lo busca y lo llama por su nombre, y que su amor nos ayuda a cambiar.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Jesús fue a la casa de alguien que robaba?",
+        "respuesta": "Jesús no aprobaba lo malo, pero amaba a Zaqueo. Fue a buscarlo, y ese amor le cambió el corazón. Jesús no espera a que seamos perfectos para acercarse a nosotros."
+      },
+      {
+        "pregunta": "¿Por qué Zaqueo devolvió cuatro veces más?",
+        "respuesta": "Quería reparar el daño que había hecho, y más todavía. Cuando pedimos perdón de verdad, también tratamos de arreglar lo que rompimos."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo Zaqueo para poder ver a Jesús?",
+      "sentir": "¿Cómo crees que se sintió Zaqueo cuando Jesús lo llamó por su nombre?",
+      "vivir": "Si alguna vez tomamos o rompimos algo que no era nuestro, ¿cómo podemos repararlo esta semana?"
+    },
+    "oracion": "Jesús, gracias porque me buscas y me llamas por mi nombre. Cambia mi corazón para que sepa compartir. Amén.",
+    "gesto": "Elijan juntos algo que puedan compartir esta semana, como un juguete, ropa o comida, y llévenlo a alguien que lo necesite."
+  },
+  "estampa": "El árbol de Zaqueo"
+}

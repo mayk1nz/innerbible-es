@@ -1,0 +1,121 @@
+{
+  "id": "nace-isaac",
+  "titulo": "Sara ríe: nace Isaac",
+  "referencia": "Génesis 21",
+  "estudio": "genesis-12-50",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "visitantes",
+      "texto": {
+        "3-5": "Un día llegaron tres visitantes. Abraham corrió a recibirlos. ¡Les dio agua, pan y comida rica!",
+        "6-8": "Abraham estaba sentado a la puerta de su tienda, en el calor del día. De pronto vio a tres hombres. Corrió a recibirlos y les ofreció agua para lavarse los pies y sombra bajo el árbol. Pidió a Sara que hiciera panes y les sirvió una gran comida.",
+        "9-12": "En el calor del día, en el valle de Mamre, Abraham vio a tres varones. Corrió a recibirlos y se inclinó hasta el suelo. Pidió a Sara panes recién hechos, preparó un becerro tierno y les sirvió bajo el árbol. Génesis 18:1 dice que así se le apareció el Señor: era Dios quien lo visitaba."
+      }
+    },
+    {
+      "id": "sara-rie",
+      "texto": {
+        "3-5": "Uno dijo: «Sara tendrá un bebé». Sara escuchaba en la tienda. Se rió bajito: «¿Un bebé? ¡Si somos viejitos!».",
+        "6-8": "Los visitantes preguntaron: «¿Dónde está Sara?». Y anunciaron: «Sara tendrá un hijo». Sara escuchaba a la puerta de la tienda y se rió por dentro. Pensó: «¿Un bebé, a mi edad? ¡Y mi esposo también es viejo!».",
+        "9-12": "«¿Dónde está Sara tu mujer?», preguntaron. Luego vino la promesa: Sara tendría un hijo. Sara escuchaba a la puerta de la tienda y se rió para sí. Ella tenía unos noventa años, y Abraham casi cien (Génesis 17:17). Tuvo miedo y negó haberse reído, pero el Señor le dijo: «No es así, sino que te has reído»."
+      }
+    },
+    {
+      "id": "nada-dificil",
+      "texto": {
+        "3-5": "Dios preguntó: «¿Hay algo difícil para mí?». ¡No! ¡Para Dios nada es difícil!",
+        "6-8": "El Señor le preguntó a Abraham: «¿Por qué se rió Sara? ¿Hay algo que sea difícil para Dios?». La respuesta es: ¡no! Dios puede hacer lo que parece imposible. Y prometió volver en el tiempo señalado.",
+        "9-12": "Entonces el Señor hizo una de las preguntas más grandes de la Biblia: «¿Hay para Dios alguna cosa difícil?» (Génesis 18:14). No era un regaño: era una invitación a creer. Lo que para Sara era imposible por la edad, para Dios era cuestión de tiempo: «Al tiempo señalado volveré a ti»."
+      }
+    },
+    {
+      "id": "nace-isaac",
+      "texto": {
+        "3-5": "¡Y Dios cumplió! Sara tuvo un bebé. ¡Un niño precioso! Se llamó Isaac.",
+        "6-8": "Y Dios cumplió su palabra. Sara, ya mayor, tuvo un hijo en el tiempo que Dios había dicho. Abraham tenía cien años. Le pusieron por nombre Isaac, un nombre que en su idioma suena a «risa».",
+        "9-12": "El Señor visitó a Sara, «como había dicho» (Génesis 21:1). Ella dio a luz un hijo en su vejez, en el tiempo exacto que Dios había anunciado. Abraham tenía cien años. Lo llamó Isaac, nombre que en hebreo significa «él ríe»."
+      }
+    },
+    {
+      "id": "risa-de-alegria",
+      "texto": {
+        "3-5": "Sara se rió otra vez. ¡Pero ahora de alegría! «¡Dios me hizo reír!».",
+        "6-8": "Sara volvió a reír, pero esta vez de pura alegría. Dijo: «Dios me hizo reír, y todos los que lo sepan se reirán conmigo». Cuando Isaac creció un poco, Abraham hizo una gran fiesta. ¡Dios había cumplido su promesa!",
+        "9-12": "Antes, Sara se había reído de incredulidad. Ahora reía de gozo: «Dios me ha hecho reir, y cualquiera que lo oyere, se reirá conmigo» (Génesis 21:6). Cuando Isaac fue destetado, Abraham hizo un gran banquete. Dios puede convertir nuestras risas de duda en risas de alegría."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Para Dios nada es difícil!", "referencia": "Génesis 18:14", "fuente": "adaptado" },
+    "6-8": { "texto": "Dios me hizo reír, y todos se reirán conmigo.", "referencia": "Génesis 21:6", "fuente": "adaptado" },
+    "9-12": { "texto": "¿Hay para Dios alguna cosa difícil? Al tiempo señalado volveré a ti, según el tiempo de la vida, y Sara tendrá un hijo.", "referencia": "Génesis 18:14", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre Sara y Abraham.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "Abraham recibió a los visitantes con comida.", "verdadera": true, "porque": "Les dio agua, pan y comida rica." },
+            { "texto": "Sara se rió cuando oyó la promesa.", "verdadera": true, "porque": "Pensó que era demasiado mayor." },
+            { "texto": "Dios se olvidó de su promesa.", "verdadera": false, "porque": "Dios cumplió: nació Isaac." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Abraham recibió a tres visitantes.", "verdadera": true, "porque": "Los vio junto a su tienda y corrió a recibirlos." },
+            { "texto": "Abraham les pidió que se fueran rápido.", "verdadera": false, "porque": "Les ofreció agua, sombra y comida." },
+            { "texto": "Sara se rió porque pensó que era demasiado mayor.", "verdadera": true, "porque": "Ella y Abraham ya eran viejos." },
+            { "texto": "Dios dijo: «Para mí hay cosas muy difíciles».", "verdadera": false, "porque": "Dios preguntó: «¿Hay algo difícil para Dios?»." },
+            { "texto": "Abraham tenía cien años cuando nació Isaac.", "verdadera": true, "porque": "¡Era muy mayor, pero Dios cumplió!" },
+            { "texto": "El nombre Isaac tiene que ver con el llanto.", "verdadera": false, "porque": "Su nombre tiene que ver con la risa." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Abraham estaba en el valle de Mamre cuando llegaron los visitantes.", "verdadera": true, "porque": "Así lo dice Génesis 18:1." },
+            { "texto": "Abraham hizo esperar a los visitantes mientras descansaba.", "verdadera": false, "porque": "Corrió a recibirlos y se dio prisa en servirles (Génesis 18:2-7)." },
+            { "texto": "Sara tenía unos noventa años.", "verdadera": true, "porque": "Lo dice Génesis 17:17." },
+            { "texto": "Sara negó haberse reído porque tuvo miedo.", "verdadera": true, "porque": "Así lo cuenta Génesis 18:15." },
+            { "texto": "Dios dijo que el niño nacería en diez años.", "verdadera": false, "porque": "Dijo «por este tiempo el año siguiente» (Génesis 17:21)." },
+            { "texto": "Sara dijo: «Dios me ha hecho reír».", "verdadera": true, "porque": "Está en Génesis 21:6." },
+            { "texto": "Abraham hizo un banquete el mismo día en que nació Isaac.", "verdadera": false, "porque": "Fue el día en que Isaac fue destetado (Génesis 21:8)." },
+            { "texto": "Isaac nació en el tiempo que Dios había dicho.", "verdadera": true, "porque": "Lo afirma Génesis 21:2." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas en la tienda de Abraham.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["SARA", "RISA", "BEBÉ"], "diagonales": false, "seed": 61 },
+        "6-8": { "tamano": 6, "palabras": ["SARA", "ISAAC", "RISA", "TIENDA"], "diagonales": false, "seed": 62 },
+        "9-12": { "tamano": 10, "palabras": ["ABRAHAM", "SARA", "ISAAC", "MAMRE", "TIENDA", "PROMESA", "BANQUETE", "RISA"], "diagonales": true, "seed": 63 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que para Dios nada es imposible. Él cumple sus promesas a su tiempo, aunque nos cueste creerlo.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Cómo pudo tener un bebé siendo tan mayor?",
+        "respuesta": "Fue un milagro. La historia quiere mostrar justamente eso: Isaac fue un regalo de Dios, no algo que ellos pudieran lograr solos. Puedes decir: «Dios hizo lo que nadie más podía hacer»."
+      },
+      {
+        "pregunta": "¿Quién era Ismael?",
+        "respuesta": "Era otro hijo de Abraham, nacido de Agar, la sierva de Sara. Génesis 21 cuenta que Agar e Ismael tuvieron que irse. Pero Dios escuchó el llanto del muchacho y los cuidó en el desierto. Dios no se olvida de nadie."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Por qué se rió Sara la primera vez? ¿Y por qué se rió la segunda vez?",
+      "sentir": "¿Qué te hace reír de alegría? ¿Alguna vez algo te pareció imposible y después pasó?",
+      "vivir": "¿Cómo podemos recibir con cariño a alguien que nos visite esta semana, como hizo Abraham?"
+    },
+    "oracion": "Señor, para ti nada es difícil. Gracias por las alegrías que nos regalas. Ayúdanos a confiar en tus promesas. Amén.",
+    "gesto": "Preparen juntos una merienda sencilla y compártanla con alguien. Recuerden que Dios convirtió la espera de Sara en alegría."
+  },
+  "estampa": "La risa de Sara"
+}

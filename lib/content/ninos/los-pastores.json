@@ -1,0 +1,103 @@
+{
+  "id": "los-pastores",
+  "titulo": "Los pastores y los ángeles",
+  "referencia": "Lucas 2:8-20",
+  "estudio": "nacimiento",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "de-noche",
+      "texto": {
+        "3-5": "Era de noche. Unos pastores cuidaban sus ovejas en el campo. Beee, beee… Todo estaba tranquilo.",
+        "6-8": "Cerca de Belén, en el campo, había unos pastores. Era de noche y ellos hacían guardia para cuidar a sus ovejas. Afuera estaba oscuro y todo parecía tranquilo.",
+        "9-12": "En los campos cercanos a Belén, unos pastores velaban de noche y guardaban su rebaño (Lucas 2:8). Eran gente sencilla, de trabajo duro, y para muchos no eran importantes. Pero Dios los eligió para ser los primeros en recibir la gran noticia."
+      }
+    },
+    {
+      "id": "el-angel",
+      "texto": {
+        "3-5": "¡De pronto, una luz brillante! Un ángel dijo: «No tengan miedo. ¡Les traigo una noticia muy alegre!».",
+        "6-8": "De repente apareció un ángel del Señor, y la luz de Dios brilló a su alrededor. Los pastores se asustaron mucho. Pero el ángel les dijo: «No tengan miedo. Les traigo una noticia que dará mucha alegría a todo el pueblo».",
+        "9-12": "De pronto se presentó el ángel del Señor, y «la claridad de Dios los cercó de resplandor» (Lucas 2:9). Tuvieron gran temor. Pero el ángel les dijo: «No temáis; porque he aquí os doy nuevas de gran gozo». Era una noticia para todo el pueblo."
+      }
+    },
+    {
+      "id": "la-noticia",
+      "texto": {
+        "3-5": "«¡Hoy nació Jesús, el Salvador! Está envuelto en pañales, en un pesebre».",
+        "6-8": "Siguió: «Hoy, en la ciudad de David, les ha nacido un Salvador: es el Cristo, el Señor. Esta será la señal: encontrarán a un bebé envuelto en pañales y acostado en un pesebre».",
+        "9-12": "El ángel anunció: «Os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor» (Lucas 2:11). Y les dio una señal: un niño envuelto en pañales, acostado en un pesebre. ¡Qué señal tan extraña para un rey! Dios se hacía pequeño para acercarse a todos."
+      }
+    },
+    {
+      "id": "muchos-angeles",
+      "texto": {
+        "3-5": "¡Y aparecieron muchos, muchos ángeles! Alababan a Dios: «¡Gloria a Dios! ¡Paz en la tierra!».",
+        "6-8": "De repente, junto al ángel apareció una multitud de ángeles del cielo. Todos alababan a Dios y decían: «¡Gloria a Dios en las alturas, y en la tierra paz!». ¡Qué noche tan hermosa!",
+        "9-12": "Repentinamente, una multitud de los ejércitos celestiales se unió al ángel. Alababan a Dios: «Gloria en las alturas a Dios, y en la tierra paz, buena voluntad para con los hombres». El cielo celebraba lo que en la tierra casi nadie había notado."
+      }
+    },
+    {
+      "id": "van-a-belen",
+      "texto": {
+        "3-5": "Los pastores corrieron a Belén. ¡Allí estaba el bebé! Luego contaron a todos: «¡Jesús nació!».",
+        "6-8": "Al irse los ángeles, los pastores se dijeron: «¡Vamos a Belén a ver lo que Dios nos contó!». Fueron de prisa y encontraron a María, a José y al bebé en el pesebre. Después contaron lo que el ángel les había dicho, y la gente se asombraba.",
+        "9-12": "«Pasemos pues hasta Bethlehem», se dijeron, y fueron apresurados. Hallaron a María, a José y al niño acostado en el pesebre, tal como les habían dicho. Entonces contaron a otros lo que el ángel había anunciado. Y todos los que los oían se maravillaban."
+      }
+    },
+    {
+      "id": "alabando",
+      "texto": {
+        "3-5": "Los pastores volvieron a sus ovejas. ¡Iban felices, alabando a Dios! Y María guardaba todo en su corazón.",
+        "6-8": "María escuchaba todo y lo guardaba en su corazón. Los pastores volvieron al campo muy felices, alabando a Dios por todo lo que habían visto y oído. ¡Todo fue como el ángel les había dicho!",
+        "9-12": "María guardaba todas estas cosas, «confiriéndolas en su corazón» (Lucas 2:19): pensaba en ellas con calma. Los pastores regresaron a su trabajo, pero ya no eran los mismos. Volvían glorificando y alabando a Dios. La buena noticia no se queda guardada: se comparte."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Gloria a Dios! ¡Paz en la tierra!", "referencia": "Lucas 2:14", "fuente": "adaptado" },
+    "6-8": { "texto": "Hoy les ha nacido un Salvador: es Cristo, el Señor.", "referencia": "Lucas 2:11", "fuente": "adaptado" },
+    "9-12": { "texto": "Gloria en las alturas a Dios, y en la tierra paz, buena voluntad para con los hombres.", "referencia": "Lucas 2:14", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la noche en Belén.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["LUZ", "OVEJA", "PAZ"], "diagonales": false, "seed": 2814 },
+        "6-8": { "tamano": 6, "palabras": ["ÁNGEL", "OVEJAS", "BELÉN", "PAZ"], "diagonales": false, "seed": 28206 },
+        "9-12": { "tamano": 10, "palabras": ["PASTORES", "ÁNGELES", "GLORIA", "PESEBRE", "PAÑALES", "BELÉN", "SALVADOR", "REBAÑO"], "diagonales": true, "seed": 281420 }
+      }
+    },
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
+      "niveles": {
+        "3-5": { "items": ["Los pastores cuidan sus ovejas.", "Un ángel trae la noticia.", "Los pastores ven al bebé Jesús."] },
+        "6-8": { "items": ["Los pastores cuidan sus ovejas de noche.", "Un ángel les habla y la luz de Dios brilla.", "Muchos ángeles alaban a Dios.", "Los pastores van de prisa a Belén.", "Encuentran al bebé en el pesebre."] },
+        "9-12": { "items": ["Los pastores velan sobre su rebaño.", "La claridad de Dios los rodea de resplandor.", "El ángel anuncia: «Os ha nacido hoy un Salvador».", "Una multitud celestial alaba a Dios.", "Los pastores hallan al niño en el pesebre.", "Vuelven glorificando y alabando a Dios."] }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Jesús es una buena noticia para todos, también para los sencillos, y que vale la pena compartirla.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Los ángeles dan miedo?",
+        "respuesta": "En la Biblia, lo primero que suelen decir los ángeles es «no tengan miedo». Son mensajeros de Dios que traen buenas noticias. Los pastores se asustaron al principio, pero terminaron felices y alabando a Dios."
+      },
+      {
+        "pregunta": "¿Jesús nació el 25 de diciembre?",
+        "respuesta": "La Biblia no dice la fecha. Muchos cristianos celebran la Navidad el 25 de diciembre desde hace siglos para recordar juntos su nacimiento. Lo importante es lo que celebramos: que Jesús vino a estar con nosotros."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué señal les dio el ángel a los pastores para encontrar al bebé?",
+      "sentir": "Los pastores pasaron del susto a la alegría. ¿Alguna vez te pasó algo así?",
+      "vivir": "Los pastores contaron la buena noticia. ¿A quién podemos contarle esta semana algo bueno que Dios hizo?"
+    },
+    "oracion": "Gracias, Dios, por la buena noticia de Jesús. Llena nuestra casa de tu paz y ayúdanos a compartir tu alegría. Amén.",
+    "gesto": "Esta semana, salúdense cada mañana con un «¡Paz en la tierra!» y compartan una buena noticia con alguien."
+  },
+  "estampa": "La noche de los ángeles"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "jesus-nace-en-belen",
+  "titulo": "Jesús nace en Belén",
+  "referencia": "Lucas 2:1-7",
+  "estudio": "nacimiento",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-censo",
+      "texto": {
+        "3-5": "El emperador de Roma quiso contar a toda la gente. ¡Todos tenían que ir al pueblo de su familia!",
+        "6-8": "Hace mucho tiempo, el emperador Augusto, que gobernaba desde Roma, dio una orden. Todas las personas debían anotarse en una lista. Cada uno tenía que ir al pueblo de su familia para inscribirse.",
+        "9-12": "En aquellos días, el emperador Augusto César ordenó un censo: toda la tierra debía ser empadronada (Lucas 2:1). Empadronar es anotar a cada persona en una lista oficial. Cada uno debía ir a la ciudad de su familia. Un emperador daba órdenes desde Roma, sin saber que Dios estaba cumpliendo una promesa antigua."
+      }
+    },
+    {
+      "id": "el-camino",
+      "texto": {
+        "3-5": "José y María caminaron mucho, mucho. María esperaba un bebé. ¡Iban a Belén!",
+        "6-8": "José era de la familia del rey David, y la ciudad de David era Belén. Así que José salió de Nazaret, en Galilea, y viajó hasta Belén con María. María estaba esperando un bebé. ¡Era un camino largo!",
+        "9-12": "José era «de la casa y familia de David» (Lucas 2:4). Por eso subió desde Nazaret, en Galilea, hasta Belén de Judea, la ciudad de David. Lo acompañaba María, que estaba embarazada. Siglos antes, el profeta Miqueas había anunciado que de Belén saldría un gobernante para el pueblo de Dios."
+      }
+    },
+    {
+      "id": "no-hay-lugar",
+      "texto": {
+        "3-5": "En Belén había muchísima gente. ¡No había lugar para ellos en la posada!",
+        "6-8": "Belén estaba llena de gente que había llegado para el censo. Para José y María no había lugar en el mesón, la casa donde se quedaban los viajeros. Tuvieron que quedarse donde pudieron.",
+        "9-12": "Belén estaba llena de viajeros. «No había lugar para ellos en el mesón» (Lucas 2:7), el lugar donde se alojaban los que estaban de paso. La Biblia no habla de un posadero, pero sí de un lugar humilde. El Hijo de Dios llegaría al mundo sin comodidades ni lujos."
+      }
+    },
+    {
+      "id": "nace-jesus",
+      "texto": {
+        "3-5": "Y allí nació el bebé: ¡Jesús! María lo envolvió en pañales. Lo acostó en un pesebre.",
+        "6-8": "Estando allí, llegó el momento: ¡nació el bebé! María lo envolvió en pañales, bien abrigadito, y lo acostó en un pesebre. Un pesebre es el cajón donde comen los animales. ¡Esa fue la primera cuna de Jesús!",
+        "9-12": "Mientras estaban allí, se cumplieron los días y María dio a luz a su hijo. Lo envolvió en pañales y lo acostó en un pesebre, el comedero de los animales. El Rey prometido tuvo por cuna un comedero: Dios eligió la humildad."
+      }
+    },
+    {
+      "id": "dios-con-nosotros",
+      "texto": {
+        "3-5": "Jesús es el regalo de Dios. ¡Dios nos ama tanto! Shhh… el bebé duerme.",
+        "6-8": "Ese bebé tan pequeño era Jesús, el Hijo de Dios. Dios cumplió su promesa: envió un Salvador para todos. No llegó a un palacio, sino a un lugar sencillo. Así nos mostró que está cerca de todos: de los grandes y de los chiquitos.",
+        "9-12": "Ese niño era el Salvador prometido. Un ángel lo anunció a unos pastores: «Os ha nacido hoy, en la ciudad de David, un Salvador» (Lucas 2:11). Jesús no nació en un palacio: vino como uno de nosotros, pequeño y cercano. Así empezó la historia más importante del mundo."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Nació Jesús, el Salvador!", "referencia": "Lucas 2:11", "fuente": "adaptado" },
+    "6-8": { "texto": "María envolvió a su hijo en pañales y lo acostó en un pesebre.", "referencia": "Lucas 2:7", "fuente": "adaptado" },
+    "9-12": { "texto": "Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.", "referencia": "Lucas 2:11", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
+      "niveles": {
+        "3-5": { "pares": [["José", "Belén"], ["María", "los pañales"], ["Jesús", "el pesebre"]] },
+        "6-8": {
+          "pares": [
+            ["José", "familia de David"],
+            ["María", "envolvió al bebé"],
+            ["Jesús", "el pesebre"],
+            ["Augusto", "el emperador"],
+            ["Belén", "ciudad de David"],
+            ["Nazaret", "de donde salieron"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Augusto César", "ordenó el censo"],
+            ["Cirenio", "gobernador de Siria"],
+            ["José", "de la casa de David"],
+            ["María", "lo envolvió en pañales"],
+            ["Nazaret", "ciudad de Galilea"],
+            ["Belén", "ciudad de David, en Judea"],
+            ["el mesón", "no había lugar"],
+            ["el pesebre", "la primera cuna"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Te acuerdas de la historia? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿Dónde nació Jesús?", "opciones": ["En Belén", "En el mar"], "correcta": 0, "explicacion": "Jesús nació en Belén." },
+            { "texto": "¿Dónde acostó María al bebé?", "opciones": ["En una cama de rey", "En un pesebre"], "correcta": 1, "explicacion": "Lo acostó en un pesebre." },
+            { "texto": "¿Cómo se llama el bebé?", "opciones": ["Jesús", "Moisés"], "correcta": 0, "explicacion": "¡Es Jesús, el regalo de Dios!" }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Quién ordenó que todos se anotaran en una lista?", "opciones": ["El rey David", "El emperador Augusto", "Herodes"], "correcta": 1, "explicacion": "Fue el emperador Augusto, desde Roma." },
+            { "texto": "¿De qué familia era José?", "opciones": ["Del rey David", "De Moisés", "De Noé"], "correcta": 0, "explicacion": "José era de la familia del rey David." },
+            { "texto": "¿Desde qué pueblo viajaron José y María?", "opciones": ["Desde Jerusalén", "Desde Nazaret", "Desde Egipto"], "correcta": 1, "explicacion": "Salieron de Nazaret, en Galilea." },
+            { "texto": "¿Por qué no se quedaron en el mesón?", "opciones": ["Porque no había lugar", "Porque era de noche", "Porque no les gustó"], "correcta": 0, "explicacion": "Belén estaba llena y no había lugar para ellos." },
+            { "texto": "¿Qué es un pesebre?", "opciones": ["Una cama de oro", "Un barco", "El cajón donde comen los animales"], "correcta": 2, "explicacion": "Fue la primera cuna de Jesús." }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Qué ordenó Augusto César?", "opciones": ["Construir un templo", "Empadronar toda la tierra", "Una guerra", "Una fiesta"], "correcta": 1, "explicacion": "Ordenó un censo (Lucas 2:1)." },
+            { "texto": "¿Quién gobernaba Siria en ese tiempo?", "opciones": ["Pilato", "Herodes", "Cirenio", "Augusto"], "correcta": 2, "explicacion": "Cirenio era gobernador de Siria (Lucas 2:2)." },
+            { "texto": "¿Por qué José fue a Belén?", "opciones": ["Por trabajo", "Porque era de la casa y familia de David", "Para visitar el templo", "Para vender ovejas"], "correcta": 1, "explicacion": "Belén era la ciudad de David (Lucas 2:4)." },
+            { "texto": "¿De qué región salió José?", "opciones": ["Galilea", "Egipto", "Samaria", "Babilonia"], "correcta": 0, "explicacion": "Salió de Nazaret, en Galilea (Lucas 2:4)." },
+            { "texto": "¿Con qué envolvió María al niño?", "opciones": ["Con una manta de oro", "Con pañales", "Con hojas", "Con lana de camello"], "correcta": 1, "explicacion": "Lo envolvió en pañales (Lucas 2:7)." },
+            { "texto": "¿Qué profeta anunció que de Belén saldría un gobernante?", "opciones": ["Jonás", "Elías", "Miqueas", "Daniel"], "correcta": 2, "explicacion": "Miqueas 5:2; Mateo 2:6 lo cita." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios cumplió su promesa enviando a Jesús, y que Jesús vino humilde y cercano, para todos.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Jesús nació donde comen los animales?",
+        "respuesta": "Porque no había lugar en el mesón. Dios eligió un comienzo sencillo para que nadie se sienta demasiado pequeño o pobre para acercarse a Jesús. Puedes decir: «Jesús vino para estar cerca de todos»."
+      },
+      {
+        "pregunta": "¿Había un burrito y un buey?",
+        "respuesta": "La Biblia no los menciona. Son parte de hermosas tradiciones, como los nacimientos que armamos en casa. Disfruten el nacimiento y cuenten también lo que dice la Biblia: el pesebre, los pañales y el amor de José y María."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Dónde acostó María al bebé Jesús?",
+      "sentir": "¿Cómo crees que se sintieron José y María al no encontrar lugar? ¿Y al ver a su bebé?",
+      "vivir": "Jesús vino para todos. ¿A quién podemos hacerle lugar esta semana: en la mesa, en el juego, en nuestro grupo?"
+    },
+    "oracion": "Jesús, gracias por venir al mundo como un bebé pequeño. Queremos hacerte lugar en nuestro corazón y en nuestra casa. Amén.",
+    "gesto": "Esta semana, armen juntos un pequeño pesebre o dibujen uno, y cada noche den gracias por el regalo de Jesús."
+  },
+  "estampa": "El pesebre de Belén"
+}

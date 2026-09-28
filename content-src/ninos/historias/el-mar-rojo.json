@@ -1,0 +1,121 @@
+{
+  "id": "el-mar-rojo",
+  "titulo": "El paso del mar Rojo",
+  "referencia": "Éxodo 14",
+  "estudio": "exodo",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-faraon-persigue",
+      "texto": {
+        "3-5": "¡Por fin libres! El pueblo de Dios salió de Egipto. Pero el faraón cambió de idea. ¡Tacatá, tacatá! Venían sus carros.",
+        "6-8": "Después de muchos años de esclavitud, el pueblo de Israel por fin salió de Egipto. Pero el faraón se arrepintió de dejarlos ir. Preparó sus carros de guerra y salió a perseguirlos con todo su ejército.",
+        "9-12": "Después de las plagas, el faraón dejó salir a Israel. Pero pronto se arrepintió: «¿Cómo hemos hecho esto de haber dejado ir a Israel?» (Éxodo 14:5). Tomó seiscientos carros escogidos y todos los carros de Egipto. Así persiguió al pueblo hasta alcanzarlo junto al mar."
+      }
+    },
+    {
+      "id": "entre-el-mar-y-el-ejercito",
+      "texto": {
+        "3-5": "Adelante estaba el mar. Atrás venía el faraón. ¡El pueblo tuvo mucho miedo!",
+        "6-8": "Los israelitas acampaban junto al mar cuando vieron a los egipcios acercarse. ¡Delante el mar, detrás el ejército! Tuvieron mucho miedo y se quejaron con Moisés. Pero Moisés les dijo: «No tengan miedo. Quédense tranquilos y verán cómo el Señor los salva».",
+        "9-12": "Atrapados entre el mar y el ejército, los israelitas temieron en gran manera y clamaron. Algunos reprocharon a Moisés haberlos sacado de Egipto. Moisés respondió: «No temáis; estáos quedos» (Éxodo 14:13). Les aseguró que verían la salvación de Dios, porque el Señor pelearía por ellos."
+      }
+    },
+    {
+      "id": "la-nube",
+      "texto": {
+        "3-5": "Dios puso una nube entre ellos. Del lado del faraón, todo oscuro. ¡Del lado del pueblo, mucha luz!",
+        "6-8": "Entonces la columna de nube que guiaba al pueblo se movió y se puso detrás de ellos. Para los egipcios era oscuridad, pero a Israel le daba luz en la noche. En toda la noche, los egipcios no pudieron acercarse.",
+        "9-12": "El ángel de Dios y la columna de nube, que iban delante del pueblo, se pusieron detrás, entre los dos campamentos. Para los egipcios era nube y tinieblas; para Israel, luz en la noche (Éxodo 14:19-20). Dios mismo se había puesto como escudo entre su pueblo y el peligro."
+      }
+    },
+    {
+      "id": "el-mar-se-abre",
+      "texto": {
+        "3-5": "Moisés levantó su vara. ¡Fiuuu! Sopló un viento fuerte. ¡El mar se abrió y apareció un camino seco!",
+        "6-8": "Dios le dijo a Moisés: «Levanta tu vara y extiende tu mano sobre el mar». Moisés obedeció, y el Señor envió un viento fuerte toda la noche. ¡El mar se abrió en dos! El pueblo caminó por tierra seca, con una pared de agua a cada lado.",
+        "9-12": "Moisés extendió su mano sobre el mar, y el Señor lo hizo retroceder con un recio viento oriental toda la noche. Las aguas se dividieron, y los israelitas cruzaron en seco. Tenían «las aguas como muro a su diestra y a su siniestra» (Éxodo 14:22). Familias enteras, niños y ancianos, pasaron a salvo."
+      }
+    },
+    {
+      "id": "a-salvo",
+      "texto": {
+        "3-5": "Todos llegaron al otro lado. El agua volvió a su lugar. «¡Gracias, Dios!». ¡Estaban a salvo!",
+        "6-8": "Los egipcios intentaron seguirlos, pero las ruedas de sus carros se trabaron. Cuando todo el pueblo llegó al otro lado, Moisés extendió otra vez su mano. El mar volvió a su lugar, y el ejército ya no pudo perseguirlos. El pueblo confió en el Señor y cantó de alegría.",
+        "9-12": "Los egipcios entraron tras ellos, pero las ruedas de sus carros se trabaron. Al amanecer, Moisés extendió de nuevo su mano, y las aguas volvieron a su lugar sobre el ejército. Israel estaba libre. El pueblo vio la obra de Dios y creyó en él (Éxodo 14:31). Después, Moisés y María cantaron de alegría (Éxodo 15)."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "No tengas miedo: Dios te cuida.", "referencia": "Éxodo 14:13", "fuente": "adaptado" },
+    "6-8": { "texto": "El Señor peleará por ustedes; ustedes quédense tranquilos.", "referencia": "Éxodo 14:14", "fuente": "adaptado" },
+    "9-12": { "texto": "Cuando pasares por las aguas, yo seré contigo; y por los ríos, no te anegarán. Cuando pasares por el fuego, no te quemarás, ni la llama arderá en ti.", "referencia": "Isaías 43:2", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase sobre el paso del mar.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "El pueblo cruzó el mar por un camino seco.", "verdadera": true, "porque": "¡Dios abrió el mar para ellos!" },
+            { "texto": "Moisés levantó su vara.", "verdadera": true, "porque": "Moisés obedeció a Dios." },
+            { "texto": "El pueblo se quedó atrapado.", "verdadera": false, "porque": "Dios los ayudó a llegar a salvo al otro lado." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "El faraón se alegró de que Israel se fuera.", "verdadera": false, "porque": "Se arrepintió y salió a perseguirlos." },
+            { "texto": "El pueblo tuvo miedo al ver al ejército.", "verdadera": true, "porque": "Tenían el mar delante y a los egipcios detrás." },
+            { "texto": "Moisés dijo: «No tengan miedo».", "verdadera": true, "porque": "Les pidió confiar en el Señor." },
+            { "texto": "La nube dejaba a oscuras a Israel.", "verdadera": false, "porque": "A Israel le daba luz; a los egipcios, oscuridad." },
+            { "texto": "Un viento fuerte sopló toda la noche.", "verdadera": true, "porque": "Así abrió Dios el camino en el mar." },
+            { "texto": "El pueblo cruzó el mar nadando.", "verdadera": false, "porque": "¡Cruzó por tierra seca!" }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "El faraón salió con seiscientos carros escogidos.", "verdadera": true, "porque": "Y con todos los carros de Egipto (Éxodo 14:7)." },
+            { "texto": "Los israelitas estaban tranquilos cuando vieron a los egipcios.", "verdadera": false, "porque": "Temieron en gran manera y clamaron (Éxodo 14:10)." },
+            { "texto": "Moisés dijo al pueblo: «No temáis; estáos quedos».", "verdadera": true, "porque": "Así lo cuenta Éxodo 14:13." },
+            { "texto": "La columna de nube se puso detrás del pueblo.", "verdadera": true, "porque": "Quedó entre los dos campamentos (Éxodo 14:19-20)." },
+            { "texto": "El viento que abrió el mar sopló solo un momento.", "verdadera": false, "porque": "Sopló «toda aquella noche» (Éxodo 14:21)." },
+            { "texto": "Los israelitas tenían las aguas como muro a los dos lados.", "verdadera": true, "porque": "A su derecha y a su izquierda (Éxodo 14:22)." },
+            { "texto": "Los carros egipcios avanzaban cada vez más rápido.", "verdadera": false, "porque": "Dios les quitó las ruedas y los trastornó (Éxodo 14:25)." },
+            { "texto": "Después del cruce, el pueblo creyó en el Señor y en Moisés.", "verdadera": true, "porque": "Así termina Éxodo 14:31." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas en el camino del mar.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["MAR", "NUBE", "VARA"], "diagonales": false, "seed": 1311 },
+        "6-8": { "tamano": 6, "palabras": ["MAR", "MOISÉS", "VIENTO", "NUBE"], "diagonales": false, "seed": 1312 },
+        "9-12": { "tamano": 10, "palabras": ["MAR", "MOISÉS", "FARAÓN", "CARROS", "VIENTO", "NUBE", "COLUMNA", "EGIPTO"], "diagonales": true, "seed": 1313 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios abre caminos cuando parece que no hay salida. Podemos confiar en Él cuando tenemos miedo.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Qué pasó con los soldados egipcios?",
+        "respuesta": "La Biblia dice que el agua volvió y los cubrió. Con los pequeños basta decir: «El ejército ya no pudo perseguirlos». Con los mayores, explica que Dios liberó a un pueblo esclavizado; la historia celebra la libertad, no el dolor de nadie."
+      },
+      {
+        "pregunta": "¿El mar se abrió de verdad?",
+        "respuesta": "La Biblia lo cuenta como un milagro: Dios usó un viento fuerte toda la noche para abrir el camino. Lo más importante es que Dios cuidó a su pueblo cuando no había salida."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hizo Moisés con su mano y su vara cuando Dios se lo pidió?",
+      "sentir": "¿Cómo crees que se sentía el pueblo con el mar delante y el ejército detrás? ¿Cuándo sientes tú mucho miedo?",
+      "vivir": "Cuando tengamos miedo esta semana, ¿qué podemos decirnos para recordar que Dios nos cuida?"
+    },
+    "oracion": "Señor, tú abres caminos donde no los vemos. Cuando tengamos miedo, ayúdanos a confiar en ti. Amén.",
+    "gesto": "Esta semana, cuando alguien tenga miedo (a la oscuridad, a un examen), repitan juntos: «No tengas miedo: Dios te cuida»."
+  },
+  "estampa": "El camino en medio del mar"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "jose-perdona",
+  "titulo": "José perdona a sus hermanos",
+  "referencia": "Génesis 45",
+  "estudio": "genesis-12-50",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "gobernador",
+      "texto": {
+        "3-5": "Dios cuidó a José en Egipto. ¡Ahora José era muy importante! Guardaba comida para todos.",
+        "6-8": "Pasaron más de veinte años. Dios estuvo con José en Egipto, y ahora era el gobernador de todo el país. Guardó trigo durante los años buenos. Cuando llegó el hambre, gente de muchos lugares venía a comprarle comida.",
+        "9-12": "Dios estuvo con José en Egipto. Después de años difíciles, Faraón lo puso como gobernador de toda la tierra. Durante siete años de abundancia guardó trigo, y cuando llegó el hambre, de todas partes venían a comprarle. José era ahora «el señor de la tierra» (Génesis 42:6)."
+      }
+    },
+    {
+      "id": "llegan-los-hermanos",
+      "texto": {
+        "3-5": "Un día llegaron sus hermanos a comprar comida. ¡No lo reconocieron! Pero José sí los reconoció.",
+        "6-8": "En Canaán también había hambre, y Jacob envió a sus hijos a Egipto a comprar trigo. Llegaron ante el gobernador y se inclinaron hasta el suelo. ¡No sabían que era José! Él sí los reconoció, pero no dijo nada.",
+        "9-12": "Diez de sus hermanos llegaron desde Canaán y se inclinaron ante él, rostro en tierra, como José lo había soñado. Él los reconoció, pero ellos no a él. José les habló con dureza y los puso a prueba. Entre ellos se decían: «Verdaderamente hemos pecado contra nuestro hermano» (Génesis 42:21)."
+      }
+    },
+    {
+      "id": "la-prueba",
+      "texto": {
+        "3-5": "José escondió una copa en el saco de Benjamín, el hermanito menor. ¿Lo dejarían solo? ¡No!",
+        "6-8": "José pidió que trajeran a su hermano menor, Benjamín. Cuando vinieron con él, José escondió su copa de plata en el saco de Benjamín. ¿Abandonarían a su hermanito, como antes a José? ¡No! Judá dijo: «Déjame a mí como siervo, y que el muchacho vuelva con mi padre».",
+        "9-12": "José pidió que trajeran a Benjamín, el hermano menor. Luego hizo esconder su copa de plata en el costal de Benjamín y ordenó detenerlo. Era la gran prueba: ¿lo abandonarían, como antes a José? Judá se ofreció a quedarse como siervo en lugar del muchacho, por amor a su padre (Génesis 44:33). Los hermanos habían cambiado."
+      }
+    },
+    {
+      "id": "yo-soy-jose",
+      "texto": {
+        "3-5": "José no aguantó más y lloró. «¡Soy yo, José, su hermano!». ¡Sus hermanos no podían creerlo!",
+        "6-8": "José no pudo contenerse más. Pidió que todos los egipcios salieran y lloró tan fuerte que lo oyeron afuera. «¡Yo soy José, su hermano!», les dijo. Los hermanos estaban tan asustados que no podían responder.",
+        "9-12": "José no pudo contenerse. Hizo salir a todos y lloró a gritos, tanto que lo oyeron los egipcios. «Yo soy José: ¿vive aún mi padre?» (Génesis 45:3). Sus hermanos no podían responder, turbados delante de él. El hermano al que habían vendido tenía ahora todo el poder… y lo usó para abrazarlos."
+      }
+    },
+    {
+      "id": "el-abrazo",
+      "texto": {
+        "3-5": "«No estén tristes», les dijo José. ¡Los perdonó! Los abrazó y les dio besos. ¡Todos lloraron de alegría!",
+        "6-8": "José les dijo: «Acérquense. No estén tristes por haberme vendido. Dios me envió antes que ustedes para salvar muchas vidas». Abrazó a Benjamín y lloraron juntos. Después besó a todos sus hermanos. ¡La familia volvió a estar unida!",
+        "9-12": "«No os entristezcáis, ni os pese de haberme vendido acá; que para preservación de vida me envió Dios» (Génesis 45:5). Así habló José. No negó el mal que le hicieron, pero vio la mano de Dios en toda su historia. Abrazó a Benjamín, besó a todos sus hermanos y lloró con ellos."
+      }
+    },
+    {
+      "id": "jacob-vive",
+      "texto": {
+        "3-5": "José mandó carros para traer a papá Jacob. ¡Toda la familia estaría junta otra vez!",
+        "6-8": "José envió carros para traer a su padre. Cuando le contaron a Jacob que José vivía, al principio no lo creyó. ¡Pero vio los carros y se llenó de vida! Dijo: «Mi hijo José vive todavía. Iré a verlo».",
+        "9-12": "José envió carros y provisiones para traer a su padre y a toda la familia a Gosén. Al principio Jacob no creía la noticia, pero al ver los carros «el espíritu de Jacob su padre revivió» (Génesis 45:27). Años después, José lo resumió así: «Vosotros pensasteis mal sobre mí, mas Dios lo encaminó a bien»."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "Yo perdono, como Dios me perdona.", "referencia": "Efesios 4:32", "fuente": "adaptado" },
+    "6-8": { "texto": "Sean buenos unos con otros y perdónense, como Dios los perdonó.", "referencia": "Efesios 4:32", "fuente": "adaptado" },
+    "9-12": { "texto": "Antes sed los unos con los otros benignos, misericordiosos, perdonándoos los unos a los otros, como también Dios os perdonó en Cristo.", "referencia": "Efesios 4:32", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "memoria",
+      "enunciado": "Da vuelta a las cartas y encuentra las parejas de la historia de José.",
+      "niveles": {
+        "3-5": {
+          "pares": [
+            ["José", "Egipto"],
+            ["Benjamín", "la copa"],
+            ["Jacob", "los carros"]
+          ]
+        },
+        "6-8": {
+          "pares": [
+            ["José", "gobernador de Egipto"],
+            ["Benjamín", "el hermano menor"],
+            ["la copa de plata", "el saco de Benjamín"],
+            ["Judá", "«Déjame a mí en su lugar»"],
+            ["Jacob", "el papá que esperaba"],
+            ["los carros", "para traer a Jacob"]
+          ]
+        },
+        "9-12": {
+          "pares": [
+            ["Génesis 42:6", "se inclinaron ante José"],
+            ["Simeón", "quedó preso en Egipto"],
+            ["Benjamín", "hijo de la madre de José"],
+            ["Judá", "se ofreció como siervo"],
+            ["Génesis 45:3", "«Yo soy José»"],
+            ["Génesis 45:5", "«Me envió Dios»"],
+            ["Gosén", "la tierra para la familia"],
+            ["Génesis 50:20", "«Dios lo encaminó a bien»"]
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas en los sacos de trigo.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["JOSÉ", "COPA", "PAN"], "diagonales": false, "seed": 91 },
+        "6-8": { "tamano": 6, "palabras": ["JOSÉ", "COPA", "TRIGO", "ABRAZO"], "diagonales": false, "seed": 92 },
+        "9-12": { "tamano": 10, "palabras": ["JOSÉ", "BENJAMÍN", "JUDÁ", "EGIPTO", "PERDÓN", "COPA", "TRIGO", "GOSÉN"], "diagonales": true, "seed": 93 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que, con la ayuda de Dios, es posible perdonar, y que el perdón puede sanar a una familia.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué José los trató con dureza al principio?",
+        "respuesta": "José quería saber si sus hermanos habían cambiado. Por eso los puso a prueba, y lloró a escondidas más de una vez. Perdonar no es hacer como que nada pasó, pero José eligió no vengarse."
+      },
+      {
+        "pregunta": "¿Tengo que perdonar aunque me hayan hecho algo muy malo?",
+        "respuesta": "Perdonar es soltar la venganza y dejarla en manos de Dios, y puede tomar tiempo. Pero perdonar no es quedarse en peligro: si alguien le hace daño, el niño siempre debe contárselo a un adulto de confianza."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué dijo José cuando por fin se dio a conocer a sus hermanos?",
+      "sentir": "¿Cómo crees que se sintieron los hermanos cuando José los abrazó? ¿Cómo te sientes tú cuando alguien te perdona?",
+      "vivir": "¿Hay alguien a quien necesitemos pedir perdón o perdonar esta semana? ¿Cómo lo haremos?"
+    },
+    "oracion": "Señor, gracias porque nos perdonas en Jesús. Danos un corazón como el de José, para perdonar y abrazar a nuestra familia. Amén.",
+    "gesto": "Esta semana, cuando haya una pelea en casa, terminen con un abrazo y la frase: «Te perdono, como Dios me perdona»."
+  },
+  "estampa": "El abrazo de José"
+}

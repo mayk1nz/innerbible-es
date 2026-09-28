@@ -1,0 +1,129 @@
+{
+  "id": "naaman-y-la-nina",
+  "titulo": "Naamán y la niña valiente",
+  "referencia": "2 Reyes 5",
+  "estudio": "2-reyes-1-14",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "el-general",
+      "texto": {
+        "3-5": "Naamán era un general muy importante de Siria. Pero tenía una enfermedad en la piel. ¡Nadie lo podía curar!",
+        "6-8": "Naamán era el jefe del ejército del rey de Siria. Era valiente y muy respetado. Pero tenía lepra, una enfermedad de la piel que en ese tiempo nadie sabía curar. En su casa servía una niña de Israel que vivía lejos de su tierra.",
+        "9-12": "Naamán era general del ejército del rey de Siria, un hombre valiente y muy estimado. Pero tenía lepra, una enfermedad de la piel que entonces no tenía cura (2 Reyes 5:1). En su casa, una muchacha israelita servía a su esposa. Unos soldados sirios la habían llevado lejos de su tierra. Estaba lejos de su familia, pero no lejos de Dios."
+      }
+    },
+    {
+      "id": "la-nina-habla",
+      "texto": {
+        "3-5": "Una niña de Israel ayudaba en su casa. Ella dijo: «¡En mi tierra hay un profeta de Dios! Él puede sanar a Naamán».",
+        "6-8": "Un día, la niña le dijo a su señora: «¡Ojalá mi señor viera al profeta de Samaria! Él lo sanaría de su lepra». La niña era pequeña, pero confiaba en Dios y quería el bien de Naamán.",
+        "9-12": "La muchacha dijo: «Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra». No sabemos su nombre, pero sí conocemos su fe. Estaba lejos de casa y podía haber callado. En cambio, buscó el bien de quien la tenía en su casa."
+      }
+    },
+    {
+      "id": "el-viaje",
+      "texto": {
+        "3-5": "Naamán viajó con sus caballos y su carro. ¡Clop, clop, clop! Llegó a la casa del profeta Eliseo.",
+        "6-8": "El rey de Siria mandó a Naamán con una carta y muchos regalos para el rey de Israel. El rey de Israel se asustó: «¡Yo no soy Dios para sanar a nadie!». Entonces el profeta Eliseo dijo: «Que venga a mí». Y Naamán llegó con sus caballos y su carro a la puerta de Eliseo.",
+        "9-12": "El rey de Siria envió a Naamán con cartas para el rey de Israel, y con plata, oro y ropa fina. Al leerlas, el rey de Israel rasgó sus vestidos, angustiado: él no podía sanar a nadie. Eliseo, el varón de Dios, mandó decirle: «Venga ahora a mí, y sabrá que hay profeta en Israel» (2 Reyes 5:8). Y Naamán llegó con sus caballos y su carro."
+      }
+    },
+    {
+      "id": "siete-veces",
+      "texto": {
+        "3-5": "Eliseo mandó a decir: «Lávate siete veces en el río Jordán». Naamán se enojó: «¡Grrr! ¿Solo eso?». Sus ayudantes le dijeron: «¡Inténtalo!».",
+        "6-8": "Eliseo no salió. Solo le mandó un mensaje: «Lávate siete veces en el río Jordán, y quedarás sano». Naamán se enojó mucho: «¡Pensé que saldría a orar por mí! ¡En mi tierra hay ríos mejores!». Pero sus criados le dijeron: «Si te pidiera algo difícil, lo harías. ¿Por qué no hacer algo tan sencillo?».",
+        "9-12": "Eliseo solo le envió un mensajero: «Ve, y lávate siete veces en el Jordán». Naamán se fue enojado. Esperaba que el profeta saliera, invocara a su Dios y moviera la mano sobre él. «¿No son mejores los ríos de Damasco?», protestó. Sus criados le dijeron: «Padre mío, si el profeta te mandara alguna gran cosa, ¿no la hicieras?» (2 Reyes 5:13)."
+      }
+    },
+    {
+      "id": "sano",
+      "texto": {
+        "3-5": "Naamán bajó al río. Uno, dos, tres… ¡siete veces! ¡Splash! Su piel quedó sanita, como la de un niño.",
+        "6-8": "Naamán bajó al río Jordán y se metió en el agua una, dos, tres… ¡siete veces! Al salir la séptima vez, su piel estaba sana y suave, como la piel de un niño. ¡Dios lo había sanado!",
+        "9-12": "Naamán bajó y se sumergió siete veces en el Jordán, «conforme a la palabra del varón de Dios» (2 Reyes 5:14). Su piel quedó como la de un niño, y fue limpio. El orgulloso general tuvo que hacer algo humilde y sencillo. Y Dios hizo lo que ningún médico podía hacer."
+      }
+    },
+    {
+      "id": "gracias",
+      "texto": {
+        "3-5": "Naamán volvió muy feliz. «¡Ahora sé que no hay otro Dios como el Dios de Israel!». ¡Y todo empezó con una niña valiente!",
+        "6-8": "Naamán volvió y dijo: «Ahora sé que no hay Dios en toda la tierra, sino en Israel». Quiso darle regalos, pero Eliseo no aceptó nada: la sanidad era un regalo de Dios. Y todo empezó con las palabras de una niña valiente.",
+        "9-12": "Naamán volvió y dijo: «Ahora conozco que no hay Dios en toda la tierra, sino en Israel» (2 Reyes 5:15). Quiso pagar con regalos, pero Eliseo se negó: la gracia de Dios no se compra. Luego lo despidió: «Vete en paz». Todo empezó con la fe de una muchacha sin nombre."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡No hay otro Dios como nuestro Dios!", "referencia": "2 Reyes 5:15", "fuente": "adaptado" },
+    "6-8": { "texto": "Ve y lávate siete veces en el Jordán, y quedarás sano.", "referencia": "2 Reyes 5:10", "fuente": "adaptado" },
+    "9-12": { "texto": "Dijo a su señora: Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra.", "referencia": "2 Reyes 5:3", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "ordenar",
+      "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
+      "niveles": {
+        "3-5": { "items": ["Naamán está enfermo.", "La niña habla del profeta.", "Naamán se lava en el río y queda sano."] },
+        "6-8": { "items": ["Naamán, el general, tiene lepra.", "La niña habla del profeta de Samaria.", "Naamán llega a la casa de Eliseo.", "Naamán se enoja, pero sus criados lo animan.", "Naamán se lava siete veces y queda sano."] },
+        "9-12": { "items": ["Una muchacha israelita sirve en casa de Naamán.", "Ella habla del profeta que está en Samaria.", "El rey de Israel rasga sus vestidos al leer la carta.", "Eliseo manda decir: «Lávate siete veces en el Jordán».", "Los criados convencen a Naamán de obedecer.", "Naamán queda limpio y reconoce al Dios de Israel."] }
+      }
+    },
+    {
+      "tipo": "verdadero-falso",
+      "enunciado": "¿Verdadero o falso? Escucha cada frase y decide.",
+      "niveles": {
+        "3-5": {
+          "frases": [
+            { "texto": "La niña ayudó a Naamán.", "verdadera": true, "porque": "Le habló del profeta de Dios." },
+            { "texto": "Naamán se lavó en el río tres veces.", "verdadera": false, "porque": "¡Fueron siete veces!" },
+            { "texto": "Dios sanó a Naamán.", "verdadera": true, "porque": "Su piel quedó sana, como la de un niño." }
+          ]
+        },
+        "6-8": {
+          "frases": [
+            { "texto": "Naamán era un general de Siria.", "verdadera": true, "porque": "Era el jefe del ejército del rey de Siria." },
+            { "texto": "La niña era de Israel.", "verdadera": true, "porque": "Era una niña israelita que servía a la esposa de Naamán." },
+            { "texto": "Eliseo salió corriendo a recibir a Naamán.", "verdadera": false, "porque": "Eliseo solo le mandó un mensaje." },
+            { "texto": "Al principio, Naamán se enojó.", "verdadera": true, "porque": "Esperaba algo más espectacular." },
+            { "texto": "Naamán se lavó en un río de Damasco.", "verdadera": false, "porque": "Se lavó en el río Jordán, como dijo Eliseo." },
+            { "texto": "Eliseo aceptó muchos regalos.", "verdadera": false, "porque": "No aceptó nada: la sanidad era un regalo de Dios." }
+          ]
+        },
+        "9-12": {
+          "frases": [
+            { "texto": "Naamán era valiente, pero tenía lepra.", "verdadera": true, "porque": "Así lo describe 2 Reyes 5:1." },
+            { "texto": "La muchacha servía a la esposa de Naamán.", "verdadera": true, "porque": "Lo dice 2 Reyes 5:2." },
+            { "texto": "El rey de Israel se alegró mucho al leer la carta.", "verdadera": false, "porque": "Rasgó sus vestidos, angustiado (2 Reyes 5:7)." },
+            { "texto": "Eliseo dijo: «Sabrá que hay profeta en Israel».", "verdadera": true, "porque": "Es su mensaje en 2 Reyes 5:8." },
+            { "texto": "Abana y Farfar eran ríos de Damasco.", "verdadera": true, "porque": "Naamán pensaba que eran mejores que el Jordán (2 Reyes 5:12)." },
+            { "texto": "Los criados llamaron a Naamán «Padre mío».", "verdadera": true, "porque": "Así le hablaron con respeto (2 Reyes 5:13)." },
+            { "texto": "Naamán se sumergió en el Jordán cinco veces.", "verdadera": false, "porque": "Fueron siete veces (2 Reyes 5:14)." },
+            { "texto": "Eliseo aceptó el presente de Naamán.", "verdadera": false, "porque": "Se negó: «No lo tomaré» (2 Reyes 5:16)." }
+          ]
+        }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que Dios usa a los pequeños y que obedecer con humildad abre la puerta a su cuidado.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué la niña vivía lejos de su familia?",
+        "respuesta": "Unos soldados la llevaron lejos de su tierra, y eso fue muy triste. La Biblia no cuenta más. Lo hermoso es que, aun lejos de casa, ella siguió confiando en Dios y quiso el bien de otros. Dios estaba con ella también allí."
+      },
+      {
+        "pregunta": "¿Qué es la lepra?",
+        "respuesta": "Una enfermedad de la piel que en ese tiempo no tenía cura, y los enfermos solían quedar apartados. Hoy tiene tratamiento. Jesús también tocó y sanó a personas con lepra: Dios no se aleja de los enfermos."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Cuántas veces se lavó Naamán en el río Jordán?",
+      "sentir": "¿Cómo crees que se sentía la niña, tan lejos de su casa? ¿Qué le dio valor para hablar?",
+      "vivir": "¿A quién podemos ayudar esta semana contándole algo bueno de Dios?"
+    },
+    "oracion": "Señor, gracias porque cuidas de los grandes y de los pequeños. Danos la fe valiente de la niña y un corazón humilde para obedecerte. Amén.",
+    "gesto": "Esta semana, si alguien está triste o enfermo, háganle un dibujo y oren por él, como la niña valiente."
+  },
+  "estampa": "La niña valiente"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "job-confia",
+  "titulo": "Job confía en Dios",
+  "referencia": "Job 1–2",
+  "estudio": "job",
+  "minutos": 10,
+  "escenas": [
+    {
+      "id": "job-bendecido",
+      "texto": {
+        "3-5": "Job amaba a Dios. Tenía siete hijos y tres hijas. ¡Y muchísimos animales: ovejas, camellos y burritos!",
+        "6-8": "En la tierra de Uz vivía un hombre llamado Job. Era bueno y honesto, amaba a Dios y se alejaba del mal. Tenía siete hijos, tres hijas y miles de ovejas y camellos. Y siempre oraba a Dios por cada uno de sus hijos.",
+        "9-12": "En Uz vivía Job, un hombre «perfecto y recto, y temeroso de Dios, y apartado del mal» (Job 1:1). Tenía siete hijos, tres hijas, siete mil ovejas y tres mil camellos. Era el hombre más importante de Oriente. Aun así, después de cada fiesta de sus hijos, madrugaba para orar y ofrecer sacrificios por ellos."
+      }
+    },
+    {
+      "id": "malas-noticias",
+      "texto": {
+        "3-5": "Un día llegaron noticias muy tristes. Job perdió sus animales y también a sus hijos. Job lloró mucho.",
+        "6-8": "Un día llegaron mensajeros, uno tras otro, con noticias muy tristes. Job había perdido sus bueyes, sus ovejas y sus camellos. Y un viento muy fuerte derribó la casa donde estaban sus hijos: todos murieron. Job no sabía por qué pasaba todo eso.",
+        "9-12": "Un día, Satán, el acusador, se presentó ante Dios. Dijo que Job solo amaba a Dios por todo lo que tenía (Job 1:9-11). Dios permitió una prueba, pero le puso un límite. Poco después llegaron mensajeros con noticias terribles: se perdieron los bueyes, las ovejas y los camellos. Y un gran viento derribó la casa donde estaban sus hijos, y murieron."
+      }
+    },
+    {
+      "id": "job-adora",
+      "texto": {
+        "3-5": "Job se arrodilló y oró: «Todo me lo dio Dios. ¡Bendito sea el Señor!». Job siguió confiando.",
+        "6-8": "Job rasgó su manto, como se hacía entonces para mostrar tristeza, y se arrodilló en el suelo. Pero en vez de enojarse con Dios, lo adoró: «El Señor dio, y el Señor quitó. ¡Bendito sea el nombre del Señor!». Job estaba muy triste, pero no dejó de confiar.",
+        "9-12": "Job rasgó su manto y se rapó la cabeza, señales de luto en aquel tiempo. Luego adoró: «El Señor dio, y el Señor quitó: sea el nombre del Señor bendito» (Job 1:21). La Biblia dice que en todo esto Job no pecó ni culpó a Dios de nada."
+      }
+    },
+    {
+      "id": "los-amigos",
+      "texto": {
+        "3-5": "Después, Job se enfermó. ¡Le dolía todo el cuerpo! Tres amigos vinieron y se sentaron con él.",
+        "6-8": "Después, Job se enfermó: tenía llagas en todo el cuerpo y se sentó sobre la ceniza. Tres amigos, Elifaz, Bildad y Zofar, vinieron a consolarlo. Al verlo, lloraron. Y se sentaron con él en silencio siete días y siete noches.",
+        "9-12": "Luego Job enfermó con llagas desde los pies hasta la cabeza. Su esposa, muy dolida, le dijo que dejara de confiar en Dios. Pero él respondió: «¿Recibiremos de Dios el bien, y el mal no lo recibiremos?» (Job 2:10). Tres amigos, Elifaz, Bildad y Zofar, vinieron a consolarlo. Se sentaron con él siete días en silencio, porque su dolor era muy grande."
+      }
+    },
+    {
+      "id": "dios-bendice",
+      "texto": {
+        "3-5": "Al final, Dios habló con Job y lo cuidó. ¡Le dio otra vez hijos, hijas y el doble de animales!",
+        "6-8": "Job tenía muchas preguntas, y al final Dios le habló. Job entendió que Dios es muy grande y sabe lo que nosotros no sabemos. Entonces Job oró por sus amigos, y Dios le devolvió el doble de lo que tenía. Tuvo otra vez siete hijos y tres hijas.",
+        "9-12": "Job hizo muchas preguntas, y Dios le respondió desde un torbellino (Job 38:1). Job no recibió todas las respuestas, pero dijo: «De oídas te había oído; mas ahora mis ojos te ven» (Job 42:5). Oró por sus amigos, y Dios le devolvió el doble de todo. Tuvo siete hijos y tres hijas más, y vivió muchos años."
+      }
+    }
+  ],
+  "versiculo": {
+    "3-5": { "texto": "¡Bendito sea el Señor!", "referencia": "Job 1:21", "fuente": "adaptado" },
+    "6-8": { "texto": "El Señor dio, y el Señor quitó: ¡bendito sea el nombre del Señor!", "referencia": "Job 1:21", "fuente": "adaptado" },
+    "9-12": { "texto": "Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti.", "referencia": "Job 42:2", "fuente": "RV1909" }
+  },
+  "juegos": [
+    {
+      "tipo": "quiz",
+      "enunciado": "¿Cuánto recuerdas de Job? Elige la respuesta correcta.",
+      "niveles": {
+        "3-5": {
+          "preguntas": [
+            { "texto": "¿A quién amaba Job?", "opciones": ["A Dios", "A nadie"], "correcta": 0 },
+            { "texto": "¿Quiénes se sentaron con Job cuando estaba triste?", "opciones": ["Unos leones", "Sus amigos"], "correcta": 1 },
+            { "texto": "¿Qué hizo Dios al final?", "opciones": ["Bendijo a Job otra vez", "Se olvidó de Job"], "correcta": 0 }
+          ]
+        },
+        "6-8": {
+          "preguntas": [
+            { "texto": "¿Dónde vivía Job?", "opciones": ["En Egipto", "En la tierra de Uz", "En Belén"], "correcta": 1 },
+            { "texto": "¿Qué hizo Job al recibir las noticias tristes?", "opciones": ["Se enojó con Dios", "Adoró a Dios", "Se escondió"], "correcta": 1, "explicacion": "Dijo: «¡Bendito sea el nombre del Señor!»." },
+            { "texto": "¿Cuántos amigos vinieron a consolarlo?", "opciones": ["Dos", "Tres", "Diez"], "correcta": 1 },
+            { "texto": "¿Cuántos días se quedaron con él en silencio?", "opciones": ["Siete", "Uno", "Cuarenta"], "correcta": 0, "explicacion": "A veces, acompañar en silencio es el mejor regalo." },
+            { "texto": "¿Qué le dio Dios a Job al final?", "opciones": ["Nada", "El doble de lo que tenía", "Solo un camello"], "correcta": 1 }
+          ]
+        },
+        "9-12": {
+          "preguntas": [
+            { "texto": "¿Cómo describe la Biblia a Job?", "opciones": ["Perfecto y recto, temeroso de Dios", "Rico pero egoísta", "Un rey de Egipto", "Un profeta de Israel"], "correcta": 0, "explicacion": "Así lo presenta Job 1:1." },
+            { "texto": "¿Qué decía el acusador sobre Job?", "opciones": ["Que era muy pobre", "Que solo amaba a Dios por lo que tenía", "Que no tenía amigos", "Que no sabía orar"], "correcta": 1, "explicacion": "«¿Teme Job a Dios de balde?» (Job 1:9)." },
+            { "texto": "¿Qué dijo Job después de perderlo todo?", "opciones": ["«Me voy a otra tierra»", "«Nunca más oraré»", "«El Señor dio, y el Señor quitó: sea bendito»", "No dijo nada"], "correcta": 2 },
+            { "texto": "¿Qué hicieron sus amigos al llegar?", "opciones": ["Se burlaron de él", "Se sentaron con él siete días en silencio", "Le pidieron dinero", "Se fueron enseguida"], "correcta": 1, "explicacion": "Veían que su dolor era muy grande (Job 2:13)." },
+            { "texto": "¿Desde dónde respondió Dios a Job?", "opciones": ["Desde una zarza", "Desde el templo", "Desde un torbellino", "Desde un barco"], "correcta": 2, "explicacion": "Job 38:1." },
+            { "texto": "¿Qué pasó cuando Job oró por sus amigos?", "opciones": ["Nada cambió", "Sus amigos se enojaron", "Se fue a vivir lejos", "Dios le devolvió el doble"], "correcta": 3, "explicacion": "Job 42:10." }
+          ]
+        }
+      }
+    },
+    {
+      "tipo": "sopa",
+      "enunciado": "Busca las palabras escondidas de la historia de Job.",
+      "niveles": {
+        "3-5": { "tamano": 5, "palabras": ["JOB", "DIOS", "ORAR"], "diagonales": false, "seed": 1011 },
+        "6-8": { "tamano": 6, "palabras": ["JOB", "DIOS", "AMIGOS", "OVEJA"], "diagonales": false, "seed": 1012 },
+        "9-12": { "tamano": 10, "palabras": ["JOB", "CAMELLOS", "OVEJAS", "AMIGOS", "CENIZA", "CONFIAR", "ELIFAZ", "TORBELLINO"], "diagonales": true, "seed": 1013 }
+      }
+    }
+  ],
+  "padres": {
+    "objetivo": "Que el niño descubra que puede confiar en Dios en los días tristes. Acompañar a quien sufre también es una forma de amar.",
+    "siPregunta": [
+      {
+        "pregunta": "¿Por qué Dios dejó que Job sufriera tanto?",
+        "respuesta": "La Biblia no da una respuesta sencilla, y está bien decirlo. Lo que sí muestra es que Dios puso un límite al mal, nunca abandonó a Job y al final lo consoló. Job no entendía todo, pero siguió hablando con Dios."
+      },
+      {
+        "pregunta": "Si alguien se enferma o sufre, ¿es porque se portó mal?",
+        "respuesta": "No. Los amigos de Job pensaban eso, y Dios les dijo que no habían hablado bien (Job 42:7). Job era bueno y aun así sufrió. Cuando alguien sufre, lo que toca es acompañarlo con cariño, no juzgarlo."
+      }
+    ],
+    "preguntas": {
+      "recordar": "¿Qué hicieron los tres amigos de Job cuando llegaron a verlo?",
+      "sentir": "¿Cómo crees que se sentía Job cuando perdió tantas cosas? ¿Qué te ayuda a ti cuando estás muy triste?",
+      "vivir": "¿A quién que esté enfermo o triste podemos acompañar esta semana, aunque sea en silencio?"
+    },
+    "oracion": "Señor, en los días felices y en los días tristes, confiamos en ti. Ayúdanos a acompañar a quien sufre. Amén.",
+    "gesto": "Esta semana, hagan juntos una tarjeta o una llamada para alguien enfermo o triste, y díganle: «Estamos contigo»."
+  },
+  "estampa": "El corazón confiado de Job"
+}
