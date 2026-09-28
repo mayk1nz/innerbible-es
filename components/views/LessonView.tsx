@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { AudioPlayer } from '../AudioPlayer'
 import { EstudioLesson } from './EstudioLesson'
+import { GuiaLesson } from './GuiaLesson'
 import { ReadingDay } from './ReadingDay'
 import { AudioPromo, LockedProduct } from '../cards'
 import { Icon, type IconName } from '../icons'
@@ -118,6 +119,8 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
 
       {lesson.lectura ? (
         <ReadingDay dia={lesson.lectura} />
+      ) : lesson.guia ? (
+        <GuiaLesson guia={lesson.guia} lessonId={lesson.id} scale={s.fontScale} />
       ) : lesson.estudio ? (
         <EstudioLesson lessonId={lesson.id} scale={s.fontScale} />
       ) : (

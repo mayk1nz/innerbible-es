@@ -1,6 +1,7 @@
 import type { IconName } from '@/components/icons'
 import { PLAN_TITLES, type PlanId } from './content/plans/titles'
 import { ESTUDIO_ERAS, ESTUDIO_LECCIONES } from './content/estudio/maestra'
+import { GUIA_SECCIONES } from './content/guias'
 import { PLAN_365, type DiaPlan365 } from './content/plan365'
 import { COMIENZA_AQUI, GENESIS } from './content/sample'
 import { slugify } from './text'
@@ -52,6 +53,8 @@ export interface Lesson {
   estudio?: boolean
   /** Plan de 365 días: the day's reading (opens in the in-app Bible). */
   lectura?: DiaPlan365
+  /** Gift guides (Mandamientos, Milagros, Mujeres, Biografías): the guide whose lesson this is. */
+  guia?: string
 }
 
 export interface Section {
@@ -161,6 +164,17 @@ function planDays(planId: PlanId, count: number): Lesson[] {
     subtitle: PLAN_TITLES[planId][i],
     format: 'texto' as const,
     plan: { id: planId, day: i + 1 },
+  }))
+}
+
+/** A gift guide's sections from its index (content-src/guias/<guia>/indice.json), or `fallback` until it is written. */
+function guiaSections(guia: string, fallback: Section[]): Section[] {
+  const secciones = GUIA_SECCIONES[guia]
+  if (!secciones) return fallback
+  return secciones.map((sec) => ({
+    id: sec.id,
+    title: sec.titulo,
+    lessons: sec.lecciones.map((l) => ({ id: l.id, title: l.titulo, rotulo: l.subtitulo, format: 'texto' as const, guia })),
   }))
 }
 
@@ -322,7 +336,7 @@ export const PRODUCTS: Product[] = [
     kind: 'guia',
     offer: 'front',
     cover: { ...WARM, lines: ['Apóstoles y', 'personajes'], highlight: 'Biografías', icon: 'user' },
-    sections: pendingGuide(),
+    sections: guiaSections('biografias', pendingGuide()),
   },
   {
     id: 'mandamientos',
@@ -332,7 +346,7 @@ export const PRODUCTS: Product[] = [
     kind: 'guia',
     offer: 'front',
     cover: { ...OLIVE, lines: ['Mandamientos', 'explicados'], highlight: '10', icon: 'star' },
-    sections: [{ id: 'mandamientos', title: 'Los Diez Mandamientos', lessons: lessons(COMMANDMENTS, 'texto') }],
+    sections: guiaSections('mandamientos', [{ id: 'mandamientos', title: 'Los Diez Mandamientos', lessons: lessons(COMMANDMENTS, 'texto') }]),
   },
   {
     id: 'plan-365',
@@ -363,7 +377,7 @@ export const PRODUCTS: Product[] = [
     kind: 'guia',
     offer: 'front',
     cover: { ...DUSK, lines: ['Milagros', 'de Jesús'], highlight: '43', icon: 'sparkles' },
-    sections: pendingGuide(),
+    sections: guiaSections('milagros-jesus', pendingGuide()),
   },
   {
     id: 'mujeres-virtuosas',
@@ -373,7 +387,7 @@ export const PRODUCTS: Product[] = [
     kind: 'guia',
     offer: 'front',
     cover: { ...ROSE, lines: ['Virtuosas', 'de la Biblia'], highlight: 'Mujeres', icon: 'heart' },
-    sections: pendingGuide(),
+    sections: guiaSections('mujeres-virtuosas', pendingGuide()),
   },
   {
     id: 'guia-ia',

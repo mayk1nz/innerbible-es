@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import Link from 'next/link'
 import { useEffect, useState, type ReactNode } from 'react'
@@ -14,10 +14,10 @@ import { parseRef } from '@/lib/estudio-ref'
 // sentences, the key verse, before and after) and "Estudio completo" (everything, in the
 // order a study flows). Every reference opens the Bible inside the app.
 
-const LEVEL_KEY = 'ib-es-estudio-nivel'
-type Nivel = 'minuto' | 'completo'
+export const LEVEL_KEY = 'ib-es-estudio-nivel'
+export type Nivel = 'minuto' | 'completo'
 
-function readLevel(): Nivel {
+export function readLevel(): Nivel {
   try {
     return window.localStorage.getItem(LEVEL_KEY) === 'completo' ? 'completo' : 'minuto'
   } catch {
@@ -42,7 +42,7 @@ function useLeccion(id: string): Leccion | null | undefined {
 }
 
 /** "Génesis 22:8" → a link into the in-app Bible (plain text if it can't be read). */
-function RefLink({ refText, className = '' }: { refText: string; className?: string }) {
+export function RefLink({ refText, className = '' }: { refText: string; className?: string }) {
   const r = parseRef(refText)
   if (!r) return <span className={className}>{refText}</span>
   return (
@@ -179,7 +179,7 @@ function AntesDespues({ l }: { l: Leccion }) {
   )
 }
 
-function Bloque({ icon, title, children, tone = 'plain' }: { icon: IconName; title: string; children: ReactNode; tone?: 'plain' | 'navy' | 'gold' }) {
+export function Bloque({ icon, title, children, tone = 'plain' }: { icon: IconName; title: string; children: ReactNode; tone?: 'plain' | 'navy' | 'gold' }) {
   const box = tone === 'navy' ? 'bg-primary text-white shadow-float' : tone === 'gold' ? 'bg-gold-soft/60 text-ink' : 'border border-line bg-surface text-ink shadow-card'
   return (
     <section className={`rounded-3xl p-5 ${box}`}>
@@ -362,7 +362,7 @@ function Glosario({ terms }: { terms: { id: string; termino: string; definicion:
   )
 }
 
-function Quiz({ preguntas }: { preguntas: PreguntaQuiz[] }) {
+export function Quiz({ preguntas }: { preguntas: Pick<PreguntaQuiz, 'pregunta' | 'opciones' | 'correcta' | 'explicacion'>[] }) {
   const [answers, setAnswers] = useState<(number | null)[]>(() => preguntas.map(() => null))
   const right = answers.filter((a, i) => a === preguntas[i].correcta).length
   const done = answers.every((a) => a !== null)
