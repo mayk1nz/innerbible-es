@@ -84,6 +84,20 @@ export function LibraryView() {
             <Icon name="chevronRight" className="size-5 text-muted" />
           </Link>
 
+          <Link
+            href="/estudio"
+            className="mt-3 flex items-center gap-3.5 rounded-3xl border border-line bg-surface p-4 shadow-card transition hover:bg-surface-hover active:scale-[0.99]"
+          >
+            <span aria-hidden className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-gold-bright">
+              <Icon name="sparkles" className="size-6" />
+            </span>
+            <span className="min-w-0 flex-1">
+              <span className="block font-serif text-[18px] font-semibold text-ink">Tu Guía de Estudio</span>
+              <span className="block text-[14px] text-muted">Escribe un pasaje, un personaje o un tema</span>
+            </span>
+            <Icon name="chevronRight" className="size-5 text-muted" />
+          </Link>
+
           <div role="tablist" aria-label="Secciones de la biblioteca" className="mt-5 grid grid-cols-2 gap-1 rounded-2xl border border-line bg-surface p-1">
             {(
               [

@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { AudioPlayer } from '../AudioPlayer'
 import { EstudioLesson } from './EstudioLesson'
+import { ReadingDay } from './ReadingDay'
 import { AudioPromo, LockedProduct } from '../cards'
 import { Icon, type IconName } from '../icons'
 import { PageHeader } from '../PageHeader'
@@ -103,7 +104,7 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         <p className="text-[14.5px] leading-snug text-muted">
           {section.plan ? section.title : lesson.rotulo ?? product.title}
           <br />
-          {section.plan ? `Día ${dayN} de ${section.lessons.length}` : `Lección ${index + 1} de ${total}`}
+          {section.plan ? `Día ${dayN} de ${section.lessons.length}` : lesson.lectura ? `Día ${lesson.lectura.dia} de ${total}` : `Lección ${index + 1} de ${total}`}
         </p>
         <FontScaleControl scale={s.fontScale} />
       </div>
@@ -115,7 +116,9 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
         </div>
       )}
 
-      {lesson.estudio ? (
+      {lesson.lectura ? (
+        <ReadingDay dia={lesson.lectura} />
+      ) : lesson.estudio ? (
         <EstudioLesson lessonId={lesson.id} scale={s.fontScale} />
       ) : (
         // An audio lesson is the audio; its text shows only when there is one.

@@ -141,6 +141,20 @@ export function HomeView() {
         <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
       </Link>
 
+      <Link
+        href="/estudio"
+        className="mt-3 flex items-center gap-3.5 rounded-3xl border border-line bg-surface p-4 shadow-card transition hover:bg-surface-hover"
+      >
+        <span className="grid size-12 shrink-0 place-items-center rounded-2xl bg-primary text-gold-bright">
+          <Icon name="sparkles" className="size-6" />
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="block font-serif text-[17px] font-semibold leading-snug text-ink">¿Qué estás estudiando?</span>
+          <span className="mt-0.5 block text-[14px] leading-snug text-muted">Tu Guía de Estudio te muestra todos los pasajes conectados, en orden.</span>
+        </span>
+        <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
+      </Link>
+
       {hero && (
         <>
           <SectionTitle>{otherRecorridos.length ? 'Tu recorrido actual' : 'Tu recorrido'}</SectionTitle>
