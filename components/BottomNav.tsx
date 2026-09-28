@@ -8,7 +8,7 @@ import { useAppState } from '@/lib/store'
 
 const TABS: { href: string; label: string; icon: IconName; match: string[] }[] = [
   { href: '/inicio', label: 'Inicio', icon: 'home', match: ['/inicio'] },
-  { href: '/leer', label: 'Leer', icon: 'book', match: ['/leer', '/modulo', '/leccion'] },
+  { href: '/leer', label: 'Leer', icon: 'book', match: ['/leer', '/modulo', '/leccion', '/biblia'] },
   { href: '/consejero', label: 'Consejero', icon: 'chatCross', match: ['/consejero'] },
   { href: '/comunidad', label: 'Comunidad', icon: 'globe', match: ['/comunidad'] },
   { href: '/tienda', label: 'Tienda', icon: 'store', match: ['/tienda'] },

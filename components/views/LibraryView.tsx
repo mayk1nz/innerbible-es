@@ -66,6 +66,24 @@ export function LibraryView() {
         </section>
       ) : (
         <>
+          <Link
+            href="/biblia"
+            className="mt-5 flex items-center gap-3.5 rounded-3xl border border-line bg-surface p-4 shadow-card transition hover:bg-surface-hover active:scale-[0.99]"
+          >
+            <span
+              aria-hidden
+              className="grid size-12 shrink-0 place-items-center rounded-2xl text-gold-bright"
+              style={{ backgroundImage: 'radial-gradient(120% 80% at 50% 0%, rgba(255,210,130,.45), transparent 60%), linear-gradient(180deg, #2b2418, #0c0a07)' }}
+            >
+              <Icon name="book" className="size-6" strokeWidth={1.7} />
+            </span>
+            <span className="min-w-0 flex-1">
+              <span className="block font-serif text-[18px] font-semibold text-ink">La Biblia completa</span>
+              <span className="block text-[14px] text-muted">Los 66 libros para leer aquí, con letra grande</span>
+            </span>
+            <Icon name="chevronRight" className="size-5 text-muted" />
+          </Link>
+
           <div role="tablist" aria-label="Secciones de la biblioteca" className="mt-5 grid grid-cols-2 gap-1 rounded-2xl border border-line bg-surface p-1">
             {(
               [
