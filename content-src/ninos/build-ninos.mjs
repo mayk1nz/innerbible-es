@@ -95,8 +95,11 @@ if (failed) {
 fs.mkdirSync(OUT, { recursive: true })
 const loaders = []
 for (const f of files) {
-  fs.copyFileSync(path.join(HDIR, f), path.join(OUT, f))
   const id = f.replace(/\.json$/, '')
+  // The illustration, when public/ninos/<id>.webp exists (made in Canva, one per story).
+  const h = JSON.parse(fs.readFileSync(path.join(HDIR, f), 'utf8'))
+  if (fs.existsSync(path.join(ROOT, 'public', 'ninos', `${id}.webp`))) h.imagen = { src: `/ninos/${id}.webp`, alt: h.titulo }
+  fs.writeFileSync(path.join(OUT, f), JSON.stringify(h, null, 2) + '\n')
   loaders.push(`  '${id}': () => import('./${id}.json').then((m) => m.default as unknown as HistoriaNinos),`)
 }
 fs.writeFileSync(

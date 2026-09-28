@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios está conmigo: ¡no tengo miedo!", "referencia": "1 Samuel 17:37", "fuente": "adaptado" },
-    "6-8": { "texto": "El Señor que me libró del león y del oso también me librará ahora.", "referencia": "1 Samuel 17:37", "fuente": "adaptado" },
-    "9-12": { "texto": "Salmo de David. Jehová es mi luz y mi salvación: ¿de quién temeré? Jehová es la fortaleza de mi vida: ¿de quién he de atemorizarme?", "referencia": "Salmos 27:1", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios está conmigo: ¡no tengo miedo!",
+      "referencia": "1 Samuel 17:37",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Señor que me libró del león y del oso también me librará ahora.",
+      "referencia": "1 Samuel 17:37",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Salmo de David. Jehová es mi luz y mi salvación: ¿de quién temeré? Jehová es la fortaleza de mi vida: ¿de quién he de atemorizarme?",
+      "referencia": "Salmos 27:1",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["David", "la honda"],
-            ["Goliat", "la lanza"],
-            ["el arroyo", "las piedras"]
+            [
+              "David",
+              "la honda"
+            ],
+            [
+              "Goliat",
+              "la lanza"
+            ],
+            [
+              "el arroyo",
+              "las piedras"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["David", "la honda"],
-            ["Goliat", "el casco"],
-            ["Saúl", "la armadura"],
-            ["el arroyo", "cinco piedras"],
-            ["Isaí", "panes y quesos"],
-            ["las ovejas", "el león y el oso"]
+            [
+              "David",
+              "la honda"
+            ],
+            [
+              "Goliat",
+              "el casco"
+            ],
+            [
+              "Saúl",
+              "la armadura"
+            ],
+            [
+              "el arroyo",
+              "cinco piedras"
+            ],
+            [
+              "Isaí",
+              "panes y quesos"
+            ],
+            [
+              "las ovejas",
+              "el león y el oso"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["David", "el hijo menor de Isaí"],
-            ["Goliat", "de Gat"],
-            ["seis codos y un palmo", "la altura del gigante"],
-            ["Saúl", "«Tú eres mozo»"],
-            ["Eliab", "el hermano enojado"],
-            ["cinco piedras", "el saco de pastor"],
-            ["cuarenta días", "el desafío"],
-            ["el nombre del Señor", "la confianza de David"]
+            [
+              "David",
+              "el hijo menor de Isaí"
+            ],
+            [
+              "Goliat",
+              "de Gat"
+            ],
+            [
+              "seis codos y un palmo",
+              "la altura del gigante"
+            ],
+            [
+              "Saúl",
+              "«Tú eres mozo»"
+            ],
+            [
+              "Eliab",
+              "el hermano enojado"
+            ],
+            [
+              "cinco piedras",
+              "el saco de pastor"
+            ],
+            [
+              "cuarenta días",
+              "el desafío"
+            ],
+            [
+              "el nombre del Señor",
+              "la confianza de David"
+            ]
           ]
         }
       }

@@ -47,18 +47,63 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios ama a los humildes.", "referencia": "Santiago 4:6", "fuente": "adaptado" },
-    "6-8": { "texto": "Dios se opone a los orgullosos y ayuda a los humildes.", "referencia": "Santiago 4:6", "fuente": "adaptado" },
-    "9-12": { "texto": "Mas él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.", "referencia": "Santiago 4:6", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios ama a los humildes.",
+      "referencia": "Santiago 4:6",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dios se opone a los orgullosos y ayuda a los humildes.",
+      "referencia": "Santiago 4:6",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Mas él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.",
+      "referencia": "Santiago 4:6",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas entre los ladrillos de la torre.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["TORRE", "DIOS", "BABEL"], "diagonales": false, "seed": 41 },
-        "6-8": { "tamano": 6, "palabras": ["TORRE", "BABEL", "SINAR", "IDIOMA"], "diagonales": false, "seed": 42 },
-        "9-12": { "tamano": 10, "palabras": ["BABEL", "TORRE", "LADRILLO", "BETÚN", "CIUDAD", "LENGUA", "SINAR", "HUMILDE"], "diagonales": true, "seed": 43 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "TORRE",
+            "DIOS",
+            "BABEL"
+          ],
+          "diagonales": false,
+          "seed": 41
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "TORRE",
+            "BABEL",
+            "SINAR",
+            "IDIOMA"
+          ],
+          "diagonales": false,
+          "seed": 42
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "BABEL",
+            "TORRE",
+            "LADRILLO",
+            "BETÚN",
+            "CIUDAD",
+            "LENGUA",
+            "SINAR",
+            "HUMILDE"
+          ],
+          "diagonales": true,
+          "seed": 43
+        }
       }
     },
     {
@@ -67,31 +112,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Al principio, todos hablaban igual.", "verdadera": true, "porque": "Todos se entendían." },
-            { "texto": "Hicieron la torre con ladrillos.", "verdadera": true, "porque": "Hicieron muchos ladrillos cocidos al fuego." },
-            { "texto": "Todos se quedaron juntos para siempre.", "verdadera": false, "porque": "Dios los esparció por toda la tierra." }
+            {
+              "texto": "Al principio, todos hablaban igual.",
+              "verdadera": true,
+              "porque": "Todos se entendían."
+            },
+            {
+              "texto": "Hicieron la torre con ladrillos.",
+              "verdadera": true,
+              "porque": "Hicieron muchos ladrillos cocidos al fuego."
+            },
+            {
+              "texto": "Todos se quedaron juntos para siempre.",
+              "verdadera": false,
+              "porque": "Dios los esparció por toda la tierra."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Todos hablaban el mismo idioma.", "verdadera": true, "porque": "Usaban las mismas palabras." },
-            { "texto": "Construyeron la torre con piedras grandes.", "verdadera": false, "porque": "Usaron ladrillos cocidos al fuego y betún." },
-            { "texto": "Querían que la torre llegara hasta el cielo.", "verdadera": true, "porque": "Querían una torre altísima." },
-            { "texto": "Querían hacerse famosos.", "verdadera": true, "porque": "Querían hacerse un nombre." },
-            { "texto": "Cuando Dios confundió su idioma, siguieron construyendo.", "verdadera": false, "porque": "No se entendían, y dejaron de construir." },
-            { "texto": "La ciudad se llamó Jerusalén.", "verdadera": false, "porque": "Se llamó Babel." }
+            {
+              "texto": "Todos hablaban el mismo idioma.",
+              "verdadera": true,
+              "porque": "Usaban las mismas palabras."
+            },
+            {
+              "texto": "Construyeron la torre con piedras grandes.",
+              "verdadera": false,
+              "porque": "Usaron ladrillos cocidos al fuego y betún."
+            },
+            {
+              "texto": "Querían que la torre llegara hasta el cielo.",
+              "verdadera": true,
+              "porque": "Querían una torre altísima."
+            },
+            {
+              "texto": "Querían hacerse famosos.",
+              "verdadera": true,
+              "porque": "Querían hacerse un nombre."
+            },
+            {
+              "texto": "Cuando Dios confundió su idioma, siguieron construyendo.",
+              "verdadera": false,
+              "porque": "No se entendían, y dejaron de construir."
+            },
+            {
+              "texto": "La ciudad se llamó Jerusalén.",
+              "verdadera": false,
+              "porque": "Se llamó Babel."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "La llanura donde se asentaron estaba en la tierra de Sinar.", "verdadera": true, "porque": "Así lo dice Génesis 11:2." },
-            { "texto": "Usaron betún en lugar de mezcla.", "verdadera": true, "porque": "Está en Génesis 11:3." },
-            { "texto": "Querían hacerse un nombre para no ser esparcidos.", "verdadera": true, "porque": "Así lo dijeron en Génesis 11:4." },
-            { "texto": "Dios había pedido a Noé y a sus hijos que llenaran la tierra.", "verdadera": true, "porque": "«Fructificad, y multiplicad, y henchid la tierra» (Génesis 9:1)." },
-            { "texto": "La Biblia dice que Dios destruyó la torre con un rayo.", "verdadera": false, "porque": "El texto no lo dice: solo que dejaron de edificar la ciudad (Génesis 11:8)." },
-            { "texto": "El nombre Babel se relaciona con la confusión de las lenguas.", "verdadera": true, "porque": "Génesis 11:9 lo explica así." },
-            { "texto": "Después de Babel, Dios se olvidó de los pueblos de la tierra.", "verdadera": false, "porque": "Enseguida llamó a Abram para bendecir a todas las familias de la tierra (Génesis 12:3)." },
-            { "texto": "En Pentecostés, cada uno oía hablar en su propia lengua.", "verdadera": true, "porque": "Así lo cuenta Hechos 2:6." }
+            {
+              "texto": "La llanura donde se asentaron estaba en la tierra de Sinar.",
+              "verdadera": true,
+              "porque": "Así lo dice Génesis 11:2."
+            },
+            {
+              "texto": "Usaron betún en lugar de mezcla.",
+              "verdadera": true,
+              "porque": "Está en Génesis 11:3."
+            },
+            {
+              "texto": "Querían hacerse un nombre para no ser esparcidos.",
+              "verdadera": true,
+              "porque": "Así lo dijeron en Génesis 11:4."
+            },
+            {
+              "texto": "Dios había pedido a Noé y a sus hijos que llenaran la tierra.",
+              "verdadera": true,
+              "porque": "«Fructificad, y multiplicad, y henchid la tierra» (Génesis 9:1)."
+            },
+            {
+              "texto": "La Biblia dice que Dios destruyó la torre con un rayo.",
+              "verdadera": false,
+              "porque": "El texto no lo dice: solo que dejaron de edificar la ciudad (Génesis 11:8)."
+            },
+            {
+              "texto": "El nombre Babel se relaciona con la confusión de las lenguas.",
+              "verdadera": true,
+              "porque": "Génesis 11:9 lo explica así."
+            },
+            {
+              "texto": "Después de Babel, Dios se olvidó de los pueblos de la tierra.",
+              "verdadera": false,
+              "porque": "Enseguida llamó a Abram para bendecir a todas las familias de la tierra (Génesis 12:3)."
+            },
+            {
+              "texto": "En Pentecostés, cada uno oía hablar en su propia lengua.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Hechos 2:6."
+            }
           ]
         }
       }

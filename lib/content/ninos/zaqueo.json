@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Jesús me busca y me llama por mi nombre.", "referencia": "Lucas 19:5", "fuente": "adaptado" },
-    "6-8": { "texto": "El Hijo del hombre vino a buscar y a salvar a los que estaban perdidos.", "referencia": "Lucas 19:10", "fuente": "adaptado" },
-    "9-12": { "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.", "referencia": "Lucas 19:10", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Jesús me busca y me llama por mi nombre.",
+      "referencia": "Lucas 19:5",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Hijo del hombre vino a buscar y a salvar a los que estaban perdidos.",
+      "referencia": "Lucas 19:10",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.",
+      "referencia": "Lucas 19:10",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -88,9 +100,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas entre las ramas.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["ÁRBOL", "JESÚS", "CASA"], "diagonales": false, "seed": 461 },
-        "6-8": { "tamano": 6, "palabras": ["ZAQUEO", "ÁRBOL", "JERICÓ", "POBRES"], "diagonales": false, "seed": 462 },
-        "9-12": { "tamano": 10, "palabras": ["ZAQUEO", "SICÓMORO", "JERICÓ", "PUBLICANO", "RICO", "POBRES", "CASA", "SALVACIÓN"], "diagonales": true, "seed": 463 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "ÁRBOL",
+            "JESÚS",
+            "CASA"
+          ],
+          "diagonales": false,
+          "seed": 461
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "ZAQUEO",
+            "ÁRBOL",
+            "JERICÓ",
+            "POBRES"
+          ],
+          "diagonales": false,
+          "seed": 462
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "ZAQUEO",
+            "SICÓMORO",
+            "JERICÓ",
+            "PUBLICANO",
+            "RICO",
+            "POBRES",
+            "CASA",
+            "SALVACIÓN"
+          ],
+          "diagonales": true,
+          "seed": 463
+        }
       }
     }
   ],

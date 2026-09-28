@@ -47,18 +47,63 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Juntos y con Dios, construimos!", "referencia": "Nehemías 2:18", "fuente": "adaptado" },
-    "6-8": { "texto": "El Dios de los cielos nos ayudará: ¡levantémonos y construyamos!", "referencia": "Nehemías 2:20", "fuente": "adaptado" },
-    "9-12": { "texto": "Edificamos pues el muro, y toda la muralla fue junta hasta su mitad: y el pueblo tuvo ánimo para obrar.", "referencia": "Nehemías 4:6", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Juntos y con Dios, construimos!",
+      "referencia": "Nehemías 2:18",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Dios de los cielos nos ayudará: ¡levantémonos y construyamos!",
+      "referencia": "Nehemías 2:20",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Edificamos pues el muro, y toda la muralla fue junta hasta su mitad: y el pueblo tuvo ánimo para obrar.",
+      "referencia": "Nehemías 4:6",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "sopa",
       "enunciado": "Busca en la sopa de letras las palabras de la historia de Nehemías.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["MURO", "REY", "DIOS"], "diagonales": false, "seed": 2918 },
-        "6-8": { "tamano": 6, "palabras": ["MURO", "PUERTA", "PIEDRA", "ORAR"], "diagonales": false, "seed": 4471 },
-        "9-12": { "tamano": 10, "palabras": ["NEHEMIAS", "MURALLA", "JERUSALEN", "PUERTAS", "ARTAJERJES", "ORACION", "COPERO", "CARTAS"], "diagonales": true, "seed": 90213 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "MURO",
+            "REY",
+            "DIOS"
+          ],
+          "diagonales": false,
+          "seed": 2918
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "MURO",
+            "PUERTA",
+            "PIEDRA",
+            "ORAR"
+          ],
+          "diagonales": false,
+          "seed": 4471
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "NEHEMIAS",
+            "MURALLA",
+            "JERUSALEN",
+            "PUERTAS",
+            "ARTAJERJES",
+            "ORACION",
+            "COPERO",
+            "CARTAS"
+          ],
+          "diagonales": true,
+          "seed": 90213
+        }
       }
     },
     {
@@ -66,7 +111,11 @@
       "enunciado": "Ordena lo que hizo Nehemías, del primero al último.",
       "niveles": {
         "3-5": {
-          "items": ["Nehemías escucha una noticia triste.", "Nehemías habla con el rey.", "Todos construyen el muro juntos."]
+          "items": [
+            "Nehemías escucha una noticia triste.",
+            "Nehemías habla con el rey.",
+            "Todos construyen el muro juntos."
+          ]
         },
         "6-8": {
           "items": [

@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Jesús crecía, y todos lo querían.", "referencia": "Lucas 2:52", "fuente": "adaptado" },
-    "6-8": { "texto": "Jesús crecía en sabiduría y en estatura, y Dios y la gente lo querían.", "referencia": "Lucas 2:52", "fuente": "adaptado" },
-    "9-12": { "texto": "Y Jesús crecía en sabiduría, y en edad, y en gracia para con Dios y los hombres.", "referencia": "Lucas 2:52", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Jesús crecía, y todos lo querían.",
+      "referencia": "Lucas 2:52",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Jesús crecía en sabiduría y en estatura, y Dios y la gente lo querían.",
+      "referencia": "Lucas 2:52",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y Jesús crecía en sabiduría, y en edad, y en gracia para con Dios y los hombres.",
+      "referencia": "Lucas 2:52",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,157 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Cuántos años tenía Jesús?", "opciones": ["Doce años", "Dos años"], "correcta": 0, "explicacion": "¡Tenía doce años!" },
-            { "texto": "¿Dónde encontraron a Jesús?", "opciones": ["En el templo", "En el mar"], "correcta": 0, "explicacion": "Estaba en el templo, escuchando y preguntando." },
-            { "texto": "¿Qué hizo Jesús después?", "opciones": ["Se fue solo otra vez", "Volvió a casa y obedecía"], "correcta": 1, "explicacion": "Volvió a Nazaret y obedecía a José y María." }
+            {
+              "texto": "¿Cuántos años tenía Jesús?",
+              "opciones": [
+                "Doce años",
+                "Dos años"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Tenía doce años!"
+            },
+            {
+              "texto": "¿Dónde encontraron a Jesús?",
+              "opciones": [
+                "En el templo",
+                "En el mar"
+              ],
+              "correcta": 0,
+              "explicacion": "Estaba en el templo, escuchando y preguntando."
+            },
+            {
+              "texto": "¿Qué hizo Jesús después?",
+              "opciones": [
+                "Se fue solo otra vez",
+                "Volvió a casa y obedecía"
+              ],
+              "correcta": 1,
+              "explicacion": "Volvió a Nazaret y obedecía a José y María."
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿A qué fiesta fueron?", "opciones": ["La Pascua", "Una boda", "Un cumpleaños"], "correcta": 0, "explicacion": "Iban cada año a la fiesta de la Pascua." },
-            { "texto": "¿Cuándo lo encontraron?", "opciones": ["Al primer día", "Al tercer día", "Al décimo día"], "correcta": 1, "explicacion": "Lo encontraron al tercer día." },
-            { "texto": "¿Qué hacía Jesús en el templo?", "opciones": ["Dormía", "Vendía palomas", "Escuchaba y hacía preguntas"], "correcta": 2, "explicacion": "Estaba entre los maestros, escuchando y preguntando." },
-            { "texto": "¿Cómo se sentían José y María mientras lo buscaban?", "opciones": ["Angustiados", "Aburridos", "Enojados con los maestros"], "correcta": 0, "explicacion": "María dijo que lo buscaban muy angustiados." },
-            { "texto": "¿A quién llamó Jesús «mi Padre»?", "opciones": ["A un maestro", "A Dios", "Al rey"], "correcta": 1, "explicacion": "Jesús sabía que Dios era su Padre." }
+            {
+              "texto": "¿A qué fiesta fueron?",
+              "opciones": [
+                "La Pascua",
+                "Una boda",
+                "Un cumpleaños"
+              ],
+              "correcta": 0,
+              "explicacion": "Iban cada año a la fiesta de la Pascua."
+            },
+            {
+              "texto": "¿Cuándo lo encontraron?",
+              "opciones": [
+                "Al primer día",
+                "Al tercer día",
+                "Al décimo día"
+              ],
+              "correcta": 1,
+              "explicacion": "Lo encontraron al tercer día."
+            },
+            {
+              "texto": "¿Qué hacía Jesús en el templo?",
+              "opciones": [
+                "Dormía",
+                "Vendía palomas",
+                "Escuchaba y hacía preguntas"
+              ],
+              "correcta": 2,
+              "explicacion": "Estaba entre los maestros, escuchando y preguntando."
+            },
+            {
+              "texto": "¿Cómo se sentían José y María mientras lo buscaban?",
+              "opciones": [
+                "Angustiados",
+                "Aburridos",
+                "Enojados con los maestros"
+              ],
+              "correcta": 0,
+              "explicacion": "María dijo que lo buscaban muy angustiados."
+            },
+            {
+              "texto": "¿A quién llamó Jesús «mi Padre»?",
+              "opciones": [
+                "A un maestro",
+                "A Dios",
+                "Al rey"
+              ],
+              "correcta": 1,
+              "explicacion": "Jesús sabía que Dios era su Padre."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Qué recordaba la fiesta de la Pascua?", "opciones": ["La creación", "La liberación de Egipto", "El diluvio", "La torre de Babel"], "correcta": 1, "explicacion": "Recordaba cómo Dios sacó a su pueblo de Egipto." },
-            { "texto": "¿Dónde pensaban José y María que estaba Jesús?", "opciones": ["En casa", "En la caravana", "En el templo", "Con los soldados"], "correcta": 1, "explicacion": "Pensaban que iba en la compañía (Lucas 2:44)." },
-            { "texto": "¿Con quiénes estaba sentado Jesús en el templo?", "opciones": ["Con los doctores", "Con los soldados", "Con los pastores", "Con los pescadores"], "correcta": 0, "explicacion": "Estaba «en medio de los doctores» (Lucas 2:46)." },
-            { "texto": "¿De qué se asombraban los que lo oían?", "opciones": ["De su ropa", "De su voz fuerte", "De su entendimiento y sus respuestas", "De su edad"], "correcta": 2, "explicacion": "Así lo dice Lucas 2:47." },
-            { "texto": "¿Qué dice Lucas 2:51 de Jesús en Nazaret?", "opciones": ["Que viajaba mucho", "Que estaba sujeto a sus padres", "Que enseñaba en el templo", "Que vivía solo"], "correcta": 1, "explicacion": "El Hijo de Dios obedecía a sus padres." },
-            { "texto": "¿En qué crecía Jesús?", "opciones": ["Solo en estatura", "En riquezas", "En sabiduría, edad y gracia", "En fama"], "correcta": 2, "explicacion": "Así lo resume Lucas 2:52." }
+            {
+              "texto": "¿Qué recordaba la fiesta de la Pascua?",
+              "opciones": [
+                "La creación",
+                "La liberación de Egipto",
+                "El diluvio",
+                "La torre de Babel"
+              ],
+              "correcta": 1,
+              "explicacion": "Recordaba cómo Dios sacó a su pueblo de Egipto."
+            },
+            {
+              "texto": "¿Dónde pensaban José y María que estaba Jesús?",
+              "opciones": [
+                "En casa",
+                "En la caravana",
+                "En el templo",
+                "Con los soldados"
+              ],
+              "correcta": 1,
+              "explicacion": "Pensaban que iba en la compañía (Lucas 2:44)."
+            },
+            {
+              "texto": "¿Con quiénes estaba sentado Jesús en el templo?",
+              "opciones": [
+                "Con los doctores",
+                "Con los soldados",
+                "Con los pastores",
+                "Con los pescadores"
+              ],
+              "correcta": 0,
+              "explicacion": "Estaba «en medio de los doctores» (Lucas 2:46)."
+            },
+            {
+              "texto": "¿De qué se asombraban los que lo oían?",
+              "opciones": [
+                "De su ropa",
+                "De su voz fuerte",
+                "De su entendimiento y sus respuestas",
+                "De su edad"
+              ],
+              "correcta": 2,
+              "explicacion": "Así lo dice Lucas 2:47."
+            },
+            {
+              "texto": "¿Qué dice Lucas 2:51 de Jesús en Nazaret?",
+              "opciones": [
+                "Que viajaba mucho",
+                "Que estaba sujeto a sus padres",
+                "Que enseñaba en el templo",
+                "Que vivía solo"
+              ],
+              "correcta": 1,
+              "explicacion": "El Hijo de Dios obedecía a sus padres."
+            },
+            {
+              "texto": "¿En qué crecía Jesús?",
+              "opciones": [
+                "Solo en estatura",
+                "En riquezas",
+                "En sabiduría, edad y gracia",
+                "En fama"
+              ],
+              "correcta": 2,
+              "explicacion": "Así lo resume Lucas 2:52."
+            }
           ]
         }
       }
@@ -88,9 +229,32 @@
       "tipo": "ordenar",
       "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
       "niveles": {
-        "3-5": { "items": ["Jesús va a la fiesta en Jerusalén.", "José y María buscan a Jesús.", "Lo encuentran en el templo."] },
-        "6-8": { "items": ["La familia viaja a Jerusalén para la Pascua.", "Jesús se queda en Jerusalén.", "José y María lo buscan entre los parientes.", "Lo encuentran en el templo con los maestros.", "Jesús vuelve a Nazaret y los obedece."] },
-        "9-12": { "items": ["Jesús, de doce años, sube a Jerusalén.", "Terminada la fiesta, se queda en la ciudad.", "Sus padres andan un día de camino sin él.", "Tres días después lo hallan en el templo.", "Jesús habla de «los negocios de mi Padre».", "Crece en sabiduría, edad y gracia."] }
+        "3-5": {
+          "items": [
+            "Jesús va a la fiesta en Jerusalén.",
+            "José y María buscan a Jesús.",
+            "Lo encuentran en el templo."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "La familia viaja a Jerusalén para la Pascua.",
+            "Jesús se queda en Jerusalén.",
+            "José y María lo buscan entre los parientes.",
+            "Lo encuentran en el templo con los maestros.",
+            "Jesús vuelve a Nazaret y los obedece."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Jesús, de doce años, sube a Jerusalén.",
+            "Terminada la fiesta, se queda en la ciudad.",
+            "Sus padres andan un día de camino sin él.",
+            "Tres días después lo hallan en el templo.",
+            "Jesús habla de «los negocios de mi Padre».",
+            "Crece en sabiduría, edad y gracia."
+          ]
+        }
       }
     }
   ],

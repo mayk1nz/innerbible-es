@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me busca porque me ama.", "referencia": "Génesis 3:9", "fuente": "adaptado" },
-    "6-8": { "texto": "El Señor llamó al hombre y le dijo: «¿Dónde estás?».", "referencia": "Génesis 3:9", "fuente": "adaptado" },
-    "9-12": { "texto": "Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad.", "referencia": "1 Juan 1:9", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me busca porque me ama.",
+      "referencia": "Génesis 3:9",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Señor llamó al hombre y le dijo: «¿Dónde estás?».",
+      "referencia": "Génesis 3:9",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad.",
+      "referencia": "1 Juan 1:9",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Dios les dio un jardín precioso.", "verdadera": true, "porque": "Les regaló árboles, frutas y agua." },
-            { "texto": "La serpiente dijo la verdad.", "verdadera": false, "porque": "La serpiente dijo una mentira." },
-            { "texto": "Dios los buscó y les hizo ropa.", "verdadera": true, "porque": "Dios los siguió cuidando." }
+            {
+              "texto": "Dios les dio un jardín precioso.",
+              "verdadera": true,
+              "porque": "Les regaló árboles, frutas y agua."
+            },
+            {
+              "texto": "La serpiente dijo la verdad.",
+              "verdadera": false,
+              "porque": "La serpiente dijo una mentira."
+            },
+            {
+              "texto": "Dios los buscó y les hizo ropa.",
+              "verdadera": true,
+              "porque": "Dios los siguió cuidando."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Dios les prohibió comer de todos los árboles.", "verdadera": false, "porque": "Solo les pidió no comer de un árbol." },
-            { "texto": "La serpiente era astuta y dijo una mentira.", "verdadera": true, "porque": "Dijo: «No les pasará nada», y no era verdad." },
-            { "texto": "La Biblia dice que el fruto era una manzana.", "verdadera": false, "porque": "La Biblia no dice qué fruta era." },
-            { "texto": "Adán y la mujer se escondieron entre los árboles.", "verdadera": true, "porque": "Sintieron vergüenza cuando oyeron la voz de Dios." },
-            { "texto": "Adán dijo enseguida: «Yo tuve la culpa».", "verdadera": false, "porque": "Adán culpó a la mujer, y la mujer a la serpiente." },
-            { "texto": "Dios les hizo ropa de pieles.", "verdadera": true, "porque": "Aun después de desobedecer, Dios los cuidó." }
+            {
+              "texto": "Dios les prohibió comer de todos los árboles.",
+              "verdadera": false,
+              "porque": "Solo les pidió no comer de un árbol."
+            },
+            {
+              "texto": "La serpiente era astuta y dijo una mentira.",
+              "verdadera": true,
+              "porque": "Dijo: «No les pasará nada», y no era verdad."
+            },
+            {
+              "texto": "La Biblia dice que el fruto era una manzana.",
+              "verdadera": false,
+              "porque": "La Biblia no dice qué fruta era."
+            },
+            {
+              "texto": "Adán y la mujer se escondieron entre los árboles.",
+              "verdadera": true,
+              "porque": "Sintieron vergüenza cuando oyeron la voz de Dios."
+            },
+            {
+              "texto": "Adán dijo enseguida: «Yo tuve la culpa».",
+              "verdadera": false,
+              "porque": "Adán culpó a la mujer, y la mujer a la serpiente."
+            },
+            {
+              "texto": "Dios les hizo ropa de pieles.",
+              "verdadera": true,
+              "porque": "Aun después de desobedecer, Dios los cuidó."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "El árbol de la vida estaba en medio del huerto.", "verdadera": true, "porque": "Así lo dice Génesis 2:9." },
-            { "texto": "Dios les dijo que no comieran de ningún árbol.", "verdadera": false, "porque": "Así torció la serpiente sus palabras; Dios les dio todos los árboles menos uno (Génesis 2:16-17)." },
-            { "texto": "La serpiente contradijo a Dios diciendo: «No moriréis».", "verdadera": true, "porque": "Está en Génesis 3:4." },
-            { "texto": "Se cubrieron con hojas de higuera.", "verdadera": true, "porque": "Cosieron hojas de higuera (Génesis 3:7)." },
-            { "texto": "Dios preguntó «¿Dónde estás tú?» porque no sabía dónde estaban.", "verdadera": false, "porque": "Dios lo sabe todo; la pregunta invitaba a Adán a acercarse y reconocer lo que hizo." },
-            { "texto": "Adán llamó a su mujer Eva, porque sería madre de todos los vivientes.", "verdadera": true, "porque": "Así lo cuenta Génesis 3:20." },
-            { "texto": "Dios los despidió del huerto sin nada.", "verdadera": false, "porque": "Antes les hizo túnicas de pieles y los vistió (Génesis 3:21)." },
-            { "texto": "Génesis 3:15 anuncia que la simiente de la mujer heriría la cabeza de la serpiente.", "verdadera": true, "porque": "Muchos cristianos lo llaman el primer anuncio del Salvador." }
+            {
+              "texto": "El árbol de la vida estaba en medio del huerto.",
+              "verdadera": true,
+              "porque": "Así lo dice Génesis 2:9."
+            },
+            {
+              "texto": "Dios les dijo que no comieran de ningún árbol.",
+              "verdadera": false,
+              "porque": "Así torció la serpiente sus palabras; Dios les dio todos los árboles menos uno (Génesis 2:16-17)."
+            },
+            {
+              "texto": "La serpiente contradijo a Dios diciendo: «No moriréis».",
+              "verdadera": true,
+              "porque": "Está en Génesis 3:4."
+            },
+            {
+              "texto": "Se cubrieron con hojas de higuera.",
+              "verdadera": true,
+              "porque": "Cosieron hojas de higuera (Génesis 3:7)."
+            },
+            {
+              "texto": "Dios preguntó «¿Dónde estás tú?» porque no sabía dónde estaban.",
+              "verdadera": false,
+              "porque": "Dios lo sabe todo; la pregunta invitaba a Adán a acercarse y reconocer lo que hizo."
+            },
+            {
+              "texto": "Adán llamó a su mujer Eva, porque sería madre de todos los vivientes.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Génesis 3:20."
+            },
+            {
+              "texto": "Dios los despidió del huerto sin nada.",
+              "verdadera": false,
+              "porque": "Antes les hizo túnicas de pieles y los vistió (Génesis 3:21)."
+            },
+            {
+              "texto": "Génesis 3:15 anuncia que la simiente de la mujer heriría la cabeza de la serpiente.",
+              "verdadera": true,
+              "porque": "Muchos cristianos lo llaman el primer anuncio del Salvador."
+            }
           ]
         }
       }
@@ -91,9 +171,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas en el jardín de Edén.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["EDÉN", "DIOS", "FRUTO"], "diagonales": false, "seed": 21 },
-        "6-8": { "tamano": 6, "palabras": ["EDÉN", "ÁRBOL", "ADÁN", "FRUTO"], "diagonales": false, "seed": 22 },
-        "9-12": { "tamano": 10, "palabras": ["EDÉN", "HUERTO", "SERPIENTE", "HIGUERA", "TÚNICA", "PROMESA", "EVA", "ADÁN"], "diagonales": true, "seed": 23 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "EDÉN",
+            "DIOS",
+            "FRUTO"
+          ],
+          "diagonales": false,
+          "seed": 21
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "EDÉN",
+            "ÁRBOL",
+            "ADÁN",
+            "FRUTO"
+          ],
+          "diagonales": false,
+          "seed": 22
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "EDÉN",
+            "HUERTO",
+            "SERPIENTE",
+            "HIGUERA",
+            "TÚNICA",
+            "PROMESA",
+            "EVA",
+            "ADÁN"
+          ],
+          "diagonales": true,
+          "seed": 23
+        }
       }
     }
   ],

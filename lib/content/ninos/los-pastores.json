@@ -55,27 +55,95 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Gloria a Dios! ¡Paz en la tierra!", "referencia": "Lucas 2:14", "fuente": "adaptado" },
-    "6-8": { "texto": "Hoy les ha nacido un Salvador: es Cristo, el Señor.", "referencia": "Lucas 2:11", "fuente": "adaptado" },
-    "9-12": { "texto": "Gloria en las alturas a Dios, y en la tierra paz, buena voluntad para con los hombres.", "referencia": "Lucas 2:14", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Gloria a Dios! ¡Paz en la tierra!",
+      "referencia": "Lucas 2:14",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Hoy les ha nacido un Salvador: es Cristo, el Señor.",
+      "referencia": "Lucas 2:11",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Gloria en las alturas a Dios, y en la tierra paz, buena voluntad para con los hombres.",
+      "referencia": "Lucas 2:14",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la noche en Belén.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["LUZ", "OVEJA", "PAZ"], "diagonales": false, "seed": 2814 },
-        "6-8": { "tamano": 6, "palabras": ["ÁNGEL", "OVEJAS", "BELÉN", "PAZ"], "diagonales": false, "seed": 28206 },
-        "9-12": { "tamano": 10, "palabras": ["PASTORES", "ÁNGELES", "GLORIA", "PESEBRE", "PAÑALES", "BELÉN", "SALVADOR", "REBAÑO"], "diagonales": true, "seed": 281420 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "LUZ",
+            "OVEJA",
+            "PAZ"
+          ],
+          "diagonales": false,
+          "seed": 2814
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "ÁNGEL",
+            "OVEJAS",
+            "BELÉN",
+            "PAZ"
+          ],
+          "diagonales": false,
+          "seed": 28206
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "PASTORES",
+            "ÁNGELES",
+            "GLORIA",
+            "PESEBRE",
+            "PAÑALES",
+            "BELÉN",
+            "SALVADOR",
+            "REBAÑO"
+          ],
+          "diagonales": true,
+          "seed": 281420
+        }
       }
     },
     {
       "tipo": "ordenar",
       "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
       "niveles": {
-        "3-5": { "items": ["Los pastores cuidan sus ovejas.", "Un ángel trae la noticia.", "Los pastores ven al bebé Jesús."] },
-        "6-8": { "items": ["Los pastores cuidan sus ovejas de noche.", "Un ángel les habla y la luz de Dios brilla.", "Muchos ángeles alaban a Dios.", "Los pastores van de prisa a Belén.", "Encuentran al bebé en el pesebre."] },
-        "9-12": { "items": ["Los pastores velan sobre su rebaño.", "La claridad de Dios los rodea de resplandor.", "El ángel anuncia: «Os ha nacido hoy un Salvador».", "Una multitud celestial alaba a Dios.", "Los pastores hallan al niño en el pesebre.", "Vuelven glorificando y alabando a Dios."] }
+        "3-5": {
+          "items": [
+            "Los pastores cuidan sus ovejas.",
+            "Un ángel trae la noticia.",
+            "Los pastores ven al bebé Jesús."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Los pastores cuidan sus ovejas de noche.",
+            "Un ángel les habla y la luz de Dios brilla.",
+            "Muchos ángeles alaban a Dios.",
+            "Los pastores van de prisa a Belén.",
+            "Encuentran al bebé en el pesebre."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Los pastores velan sobre su rebaño.",
+            "La claridad de Dios los rodea de resplandor.",
+            "El ángel anuncia: «Os ha nacido hoy un Salvador».",
+            "Una multitud celestial alaba a Dios.",
+            "Los pastores hallan al niño en el pesebre.",
+            "Vuelven glorificando y alabando a Dios."
+          ]
+        }
       }
     }
   ],

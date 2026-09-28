@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me cuida siempre.", "referencia": "Daniel 6:22", "fuente": "adaptado" },
-    "6-8": { "texto": "Mi Dios envió a su ángel y cerró la boca de los leones.", "referencia": "Daniel 6:22", "fuente": "adaptado" },
-    "9-12": { "texto": "Tarde y mañana y a medio día oraré y clamaré; y él oirá mi voz.", "referencia": "Salmos 55:17", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me cuida siempre.",
+      "referencia": "Daniel 6:22",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Mi Dios envió a su ángel y cerró la boca de los leones.",
+      "referencia": "Daniel 6:22",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Tarde y mañana y a medio día oraré y clamaré; y él oirá mi voz.",
+      "referencia": "Salmos 55:17",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -90,28 +102,146 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Con quién hablaba Daniel tres veces al día?", "opciones": ["Con Dios", "Con los leones"], "correcta": 0 },
-            { "texto": "¿Quién cerró la boca de los leones?", "opciones": ["El rey", "Un ángel de Dios"], "correcta": 1 },
-            { "texto": "¿Cómo salió Daniel del foso?", "opciones": ["Sano y feliz", "Muy lastimado"], "correcta": 0 }
+            {
+              "texto": "¿Con quién hablaba Daniel tres veces al día?",
+              "opciones": [
+                "Con Dios",
+                "Con los leones"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Quién cerró la boca de los leones?",
+              "opciones": [
+                "El rey",
+                "Un ángel de Dios"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cómo salió Daniel del foso?",
+              "opciones": [
+                "Sano y feliz",
+                "Muy lastimado"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Por qué esos hombres querían acusar a Daniel?", "opciones": ["Porque tenían envidia", "Porque Daniel robó", "Porque Daniel era perezoso"], "correcta": 0, "explicacion": "No encontraron ninguna falta en Daniel: solo tenían envidia." },
-            { "texto": "¿Qué decía la ley que firmó el rey?", "opciones": ["Que todos debían cantar", "Que solo se podía pedir al rey", "Que nadie podía comer pan"], "correcta": 1 },
-            { "texto": "¿Qué hizo Daniel al saber de la ley?", "opciones": ["Se escondió", "Dejó de orar", "Siguió orando como siempre"], "correcta": 2 },
-            { "texto": "¿Cómo pasó la noche el rey?", "opciones": ["Sin poder dormir", "En una gran fiesta", "Durmiendo tranquilo"], "correcta": 0 },
-            { "texto": "¿Quién protegió a Daniel?", "opciones": ["Los soldados", "Un ángel enviado por Dios", "Un domador"], "correcta": 1 }
+            {
+              "texto": "¿Por qué esos hombres querían acusar a Daniel?",
+              "opciones": [
+                "Porque tenían envidia",
+                "Porque Daniel robó",
+                "Porque Daniel era perezoso"
+              ],
+              "correcta": 0,
+              "explicacion": "No encontraron ninguna falta en Daniel: solo tenían envidia."
+            },
+            {
+              "texto": "¿Qué decía la ley que firmó el rey?",
+              "opciones": [
+                "Que todos debían cantar",
+                "Que solo se podía pedir al rey",
+                "Que nadie podía comer pan"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué hizo Daniel al saber de la ley?",
+              "opciones": [
+                "Se escondió",
+                "Dejó de orar",
+                "Siguió orando como siempre"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Cómo pasó la noche el rey?",
+              "opciones": [
+                "Sin poder dormir",
+                "En una gran fiesta",
+                "Durmiendo tranquilo"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Quién protegió a Daniel?",
+              "opciones": [
+                "Los soldados",
+                "Un ángel enviado por Dios",
+                "Un domador"
+              ],
+              "correcta": 1
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Cuántos presidentes puso Darío sobre los gobernadores?", "opciones": ["Dos", "Tres", "Siete", "Doce"], "correcta": 1, "explicacion": "Eran tres, y Daniel era uno de ellos (Daniel 6:2)." },
-            { "texto": "¿Por qué el edicto no se podía cambiar?", "opciones": ["Porque lo escribió Daniel", "Por la ley de Media y de Persia", "Porque estaba grabado en piedra", "Porque lo firmó un ángel"], "correcta": 1 },
-            { "texto": "¿Hacia qué ciudad miraban las ventanas de Daniel?", "opciones": ["Babilonia", "Nínive", "Jerusalén", "Egipto"], "correcta": 2 },
-            { "texto": "¿Qué hizo el rey para librar a Daniel?", "opciones": ["Nada", "Buscó cómo librarlo hasta la puesta del sol", "Huyó del reino", "Cambió la ley"], "correcta": 1 },
-            { "texto": "¿Qué dijo Daniel que hizo Dios?", "opciones": ["Durmió a los leones con música", "Rompió la piedra del foso", "Mandó una gran tormenta", "Envió su ángel y cerró la boca de los leones"], "correcta": 3 },
-            { "texto": "¿Qué escribió el rey Darío a todo su reino?", "opciones": ["Que el Dios de Daniel es el Dios viviente", "Que Daniel debía irse", "Que los leones eran peligrosos", "Que nadie podía orar"], "correcta": 0, "explicacion": "Darío escribió que el Dios de Daniel «salva y libra» (Daniel 6:26-27)." }
+            {
+              "texto": "¿Cuántos presidentes puso Darío sobre los gobernadores?",
+              "opciones": [
+                "Dos",
+                "Tres",
+                "Siete",
+                "Doce"
+              ],
+              "correcta": 1,
+              "explicacion": "Eran tres, y Daniel era uno de ellos (Daniel 6:2)."
+            },
+            {
+              "texto": "¿Por qué el edicto no se podía cambiar?",
+              "opciones": [
+                "Porque lo escribió Daniel",
+                "Por la ley de Media y de Persia",
+                "Porque estaba grabado en piedra",
+                "Porque lo firmó un ángel"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Hacia qué ciudad miraban las ventanas de Daniel?",
+              "opciones": [
+                "Babilonia",
+                "Nínive",
+                "Jerusalén",
+                "Egipto"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué hizo el rey para librar a Daniel?",
+              "opciones": [
+                "Nada",
+                "Buscó cómo librarlo hasta la puesta del sol",
+                "Huyó del reino",
+                "Cambió la ley"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué dijo Daniel que hizo Dios?",
+              "opciones": [
+                "Durmió a los leones con música",
+                "Rompió la piedra del foso",
+                "Mandó una gran tormenta",
+                "Envió su ángel y cerró la boca de los leones"
+              ],
+              "correcta": 3
+            },
+            {
+              "texto": "¿Qué escribió el rey Darío a todo su reino?",
+              "opciones": [
+                "Que el Dios de Daniel es el Dios viviente",
+                "Que Daniel debía irse",
+                "Que los leones eran peligrosos",
+                "Que nadie podía orar"
+              ],
+              "correcta": 0,
+              "explicacion": "Darío escribió que el Dios de Daniel «salva y libra» (Daniel 6:26-27)."
+            }
           ]
         }
       }

@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Escucho a Jesús y hago lo que dice.", "referencia": "Mateo 7:24", "fuente": "adaptado" },
-    "6-8": { "texto": "Quien escucha las palabras de Jesús y las pone en práctica es como el que construyó su casa sobre la roca.", "referencia": "Mateo 7:24", "fuente": "adaptado" },
-    "9-12": { "texto": "Y descendió lluvia, y vinieron ríos, y soplaron vientos, y combatieron aquella casa; y no cayó: porque estaba fundada sobre la peña.", "referencia": "Mateo 7:25", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Escucho a Jesús y hago lo que dice.",
+      "referencia": "Mateo 7:24",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Quien escucha las palabras de Jesús y las pone en práctica es como el que construyó su casa sobre la roca.",
+      "referencia": "Mateo 7:24",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y descendió lluvia, y vinieron ríos, y soplaron vientos, y combatieron aquella casa; y no cayó: porque estaba fundada sobre la peña.",
+      "referencia": "Mateo 7:25",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,148 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Dónde hizo su casa el hombre sabio?", "opciones": ["Sobre la roca", "Sobre la arena"], "correcta": 0 },
-            { "texto": "¿Qué llegó un día?", "opciones": ["Una fiesta", "Una gran tormenta"], "correcta": 1 },
-            { "texto": "¿Qué casa quedó firme?", "opciones": ["La casa de la roca", "La casa de la arena"], "correcta": 0 }
+            {
+              "texto": "¿Dónde hizo su casa el hombre sabio?",
+              "opciones": [
+                "Sobre la roca",
+                "Sobre la arena"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué llegó un día?",
+              "opciones": [
+                "Una fiesta",
+                "Una gran tormenta"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué casa quedó firme?",
+              "opciones": [
+                "La casa de la roca",
+                "La casa de la arena"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Dónde estaba Jesús cuando contó esta historia?", "opciones": ["En un barco", "En un monte", "En el templo"], "correcta": 1 },
-            { "texto": "¿Por qué el segundo hombre construyó sobre la arena?", "opciones": ["Porque era más fácil y rápido", "Porque la roca estaba lejos del mar", "Porque Jesús se lo pidió"], "correcta": 0 },
-            { "texto": "¿Qué golpeó a las dos casas?", "opciones": ["Solo el viento", "Lluvia, ríos y vientos", "Un terremoto"], "correcta": 1, "explicacion": "La tormenta llegó para las dos casas por igual." },
-            { "texto": "¿Qué pasó con la casa sobre la arena?", "opciones": ["Se cayó", "Se mojó un poquito", "Nada"], "correcta": 0 },
-            { "texto": "¿A quién se parece el hombre prudente?", "opciones": ["A quien canta muy fuerte", "A quien escucha a Jesús y hace lo que dice", "A quien tiene la casa más grande"], "correcta": 1 }
+            {
+              "texto": "¿Dónde estaba Jesús cuando contó esta historia?",
+              "opciones": [
+                "En un barco",
+                "En un monte",
+                "En el templo"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Por qué el segundo hombre construyó sobre la arena?",
+              "opciones": [
+                "Porque era más fácil y rápido",
+                "Porque la roca estaba lejos del mar",
+                "Porque Jesús se lo pidió"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué golpeó a las dos casas?",
+              "opciones": [
+                "Solo el viento",
+                "Lluvia, ríos y vientos",
+                "Un terremoto"
+              ],
+              "correcta": 1,
+              "explicacion": "La tormenta llegó para las dos casas por igual."
+            },
+            {
+              "texto": "¿Qué pasó con la casa sobre la arena?",
+              "opciones": [
+                "Se cayó",
+                "Se mojó un poquito",
+                "Nada"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿A quién se parece el hombre prudente?",
+              "opciones": [
+                "A quien canta muy fuerte",
+                "A quien escucha a Jesús y hace lo que dice",
+                "A quien tiene la casa más grande"
+              ],
+              "correcta": 1
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Con qué enseñanza termina esta comparación?", "opciones": ["Las parábolas del mar", "El Sermón del Monte", "La última cena", "El sermón de Pentecostés"], "correcta": 1, "explicacion": "Es el final del Sermón del Monte (Mateo 5–7)." },
-            { "texto": "Según Jesús, ¿qué hace el hombre prudente con sus palabras?", "opciones": ["Solo las oye", "Las escribe", "Las oye y las hace", "Las discute"], "correcta": 2 },
-            { "texto": "¿Qué detalle añade Lucas sobre el constructor prudente?", "opciones": ["Que «cavó y ahondó»", "Que usó madera de cedro", "Que era carpintero", "Que tardó siete años"], "correcta": 0, "explicacion": "Llegó hasta la roca para poner el fundamento (Lucas 6:48)." },
-            { "texto": "¿Qué casas recibieron la tormenta?", "opciones": ["Solo la de arena", "Solo la de roca", "Ninguna", "Las dos"], "correcta": 3, "explicacion": "Obedecer a Jesús no quita las tormentas, pero nos mantiene firmes." },
-            { "texto": "¿Por qué no cayó la casa del prudente?", "opciones": ["Porque era más alta", "Porque estaba fundada sobre la peña", "Porque tenía muros dobles", "Porque la lluvia fue poca"], "correcta": 1 },
-            { "texto": "¿Por qué se admiraba la gente de Jesús?", "opciones": ["Porque hablaba muy fuerte", "Porque contaba chistes", "Porque enseñaba como quien tiene autoridad", "Porque hablaba en griego"], "correcta": 2, "explicacion": "«Les enseñaba como quien tiene autoridad» (Mateo 7:29)." }
+            {
+              "texto": "¿Con qué enseñanza termina esta comparación?",
+              "opciones": [
+                "Las parábolas del mar",
+                "El Sermón del Monte",
+                "La última cena",
+                "El sermón de Pentecostés"
+              ],
+              "correcta": 1,
+              "explicacion": "Es el final del Sermón del Monte (Mateo 5–7)."
+            },
+            {
+              "texto": "Según Jesús, ¿qué hace el hombre prudente con sus palabras?",
+              "opciones": [
+                "Solo las oye",
+                "Las escribe",
+                "Las oye y las hace",
+                "Las discute"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué detalle añade Lucas sobre el constructor prudente?",
+              "opciones": [
+                "Que «cavó y ahondó»",
+                "Que usó madera de cedro",
+                "Que era carpintero",
+                "Que tardó siete años"
+              ],
+              "correcta": 0,
+              "explicacion": "Llegó hasta la roca para poner el fundamento (Lucas 6:48)."
+            },
+            {
+              "texto": "¿Qué casas recibieron la tormenta?",
+              "opciones": [
+                "Solo la de arena",
+                "Solo la de roca",
+                "Ninguna",
+                "Las dos"
+              ],
+              "correcta": 3,
+              "explicacion": "Obedecer a Jesús no quita las tormentas, pero nos mantiene firmes."
+            },
+            {
+              "texto": "¿Por qué no cayó la casa del prudente?",
+              "opciones": [
+                "Porque era más alta",
+                "Porque estaba fundada sobre la peña",
+                "Porque tenía muros dobles",
+                "Porque la lluvia fue poca"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Por qué se admiraba la gente de Jesús?",
+              "opciones": [
+                "Porque hablaba muy fuerte",
+                "Porque contaba chistes",
+                "Porque enseñaba como quien tiene autoridad",
+                "Porque hablaba en griego"
+              ],
+              "correcta": 2,
+              "explicacion": "«Les enseñaba como quien tiene autoridad» (Mateo 7:29)."
+            }
           ]
         }
       }
@@ -88,9 +220,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la historia.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["ROCA", "CASA", "AGUA"], "diagonales": false, "seed": 391 },
-        "6-8": { "tamano": 6, "palabras": ["ROCA", "ARENA", "LLUVIA", "VIENTO"], "diagonales": false, "seed": 392 },
-        "9-12": { "tamano": 10, "palabras": ["PEÑA", "ARENA", "LLUVIA", "VIENTOS", "RÍOS", "CASA", "PRUDENTE", "MONTE"], "diagonales": true, "seed": 393 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "ROCA",
+            "CASA",
+            "AGUA"
+          ],
+          "diagonales": false,
+          "seed": 391
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "ROCA",
+            "ARENA",
+            "LLUVIA",
+            "VIENTO"
+          ],
+          "diagonales": false,
+          "seed": 392
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "PEÑA",
+            "ARENA",
+            "LLUVIA",
+            "VIENTOS",
+            "RÍOS",
+            "CASA",
+            "PRUDENTE",
+            "MONTE"
+          ],
+          "diagonales": true,
+          "seed": 393
+        }
       }
     }
   ],

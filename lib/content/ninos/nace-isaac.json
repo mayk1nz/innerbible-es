@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Para Dios nada es difícil!", "referencia": "Génesis 18:14", "fuente": "adaptado" },
-    "6-8": { "texto": "Dios me hizo reír, y todos se reirán conmigo.", "referencia": "Génesis 21:6", "fuente": "adaptado" },
-    "9-12": { "texto": "¿Hay para Dios alguna cosa difícil? Al tiempo señalado volveré a ti, según el tiempo de la vida, y Sara tendrá un hijo.", "referencia": "Génesis 18:14", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Para Dios nada es difícil!",
+      "referencia": "Génesis 18:14",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dios me hizo reír, y todos se reirán conmigo.",
+      "referencia": "Génesis 21:6",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "¿Hay para Dios alguna cosa difícil? Al tiempo señalado volveré a ti, según el tiempo de la vida, y Sara tendrá un hijo.",
+      "referencia": "Génesis 18:14",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Abraham recibió a los visitantes con comida.", "verdadera": true, "porque": "Les dio agua, pan y comida rica." },
-            { "texto": "Sara se rió cuando oyó la promesa.", "verdadera": true, "porque": "Pensó que era demasiado mayor." },
-            { "texto": "Dios se olvidó de su promesa.", "verdadera": false, "porque": "Dios cumplió: nació Isaac." }
+            {
+              "texto": "Abraham recibió a los visitantes con comida.",
+              "verdadera": true,
+              "porque": "Les dio agua, pan y comida rica."
+            },
+            {
+              "texto": "Sara se rió cuando oyó la promesa.",
+              "verdadera": true,
+              "porque": "Pensó que era demasiado mayor."
+            },
+            {
+              "texto": "Dios se olvidó de su promesa.",
+              "verdadera": false,
+              "porque": "Dios cumplió: nació Isaac."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Abraham recibió a tres visitantes.", "verdadera": true, "porque": "Los vio junto a su tienda y corrió a recibirlos." },
-            { "texto": "Abraham les pidió que se fueran rápido.", "verdadera": false, "porque": "Les ofreció agua, sombra y comida." },
-            { "texto": "Sara se rió porque pensó que era demasiado mayor.", "verdadera": true, "porque": "Ella y Abraham ya eran viejos." },
-            { "texto": "Dios dijo: «Para mí hay cosas muy difíciles».", "verdadera": false, "porque": "Dios preguntó: «¿Hay algo difícil para Dios?»." },
-            { "texto": "Abraham tenía cien años cuando nació Isaac.", "verdadera": true, "porque": "¡Era muy mayor, pero Dios cumplió!" },
-            { "texto": "El nombre Isaac tiene que ver con el llanto.", "verdadera": false, "porque": "Su nombre tiene que ver con la risa." }
+            {
+              "texto": "Abraham recibió a tres visitantes.",
+              "verdadera": true,
+              "porque": "Los vio junto a su tienda y corrió a recibirlos."
+            },
+            {
+              "texto": "Abraham les pidió que se fueran rápido.",
+              "verdadera": false,
+              "porque": "Les ofreció agua, sombra y comida."
+            },
+            {
+              "texto": "Sara se rió porque pensó que era demasiado mayor.",
+              "verdadera": true,
+              "porque": "Ella y Abraham ya eran viejos."
+            },
+            {
+              "texto": "Dios dijo: «Para mí hay cosas muy difíciles».",
+              "verdadera": false,
+              "porque": "Dios preguntó: «¿Hay algo difícil para Dios?»."
+            },
+            {
+              "texto": "Abraham tenía cien años cuando nació Isaac.",
+              "verdadera": true,
+              "porque": "¡Era muy mayor, pero Dios cumplió!"
+            },
+            {
+              "texto": "El nombre Isaac tiene que ver con el llanto.",
+              "verdadera": false,
+              "porque": "Su nombre tiene que ver con la risa."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Abraham estaba en el valle de Mamre cuando llegaron los visitantes.", "verdadera": true, "porque": "Así lo dice Génesis 18:1." },
-            { "texto": "Abraham hizo esperar a los visitantes mientras descansaba.", "verdadera": false, "porque": "Corrió a recibirlos y se dio prisa en servirles (Génesis 18:2-7)." },
-            { "texto": "Sara tenía unos noventa años.", "verdadera": true, "porque": "Lo dice Génesis 17:17." },
-            { "texto": "Sara negó haberse reído porque tuvo miedo.", "verdadera": true, "porque": "Así lo cuenta Génesis 18:15." },
-            { "texto": "Dios dijo que el niño nacería en diez años.", "verdadera": false, "porque": "Dijo «por este tiempo el año siguiente» (Génesis 17:21)." },
-            { "texto": "Sara dijo: «Dios me ha hecho reír».", "verdadera": true, "porque": "Está en Génesis 21:6." },
-            { "texto": "Abraham hizo un banquete el mismo día en que nació Isaac.", "verdadera": false, "porque": "Fue el día en que Isaac fue destetado (Génesis 21:8)." },
-            { "texto": "Isaac nació en el tiempo que Dios había dicho.", "verdadera": true, "porque": "Lo afirma Génesis 21:2." }
+            {
+              "texto": "Abraham estaba en el valle de Mamre cuando llegaron los visitantes.",
+              "verdadera": true,
+              "porque": "Así lo dice Génesis 18:1."
+            },
+            {
+              "texto": "Abraham hizo esperar a los visitantes mientras descansaba.",
+              "verdadera": false,
+              "porque": "Corrió a recibirlos y se dio prisa en servirles (Génesis 18:2-7)."
+            },
+            {
+              "texto": "Sara tenía unos noventa años.",
+              "verdadera": true,
+              "porque": "Lo dice Génesis 17:17."
+            },
+            {
+              "texto": "Sara negó haberse reído porque tuvo miedo.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Génesis 18:15."
+            },
+            {
+              "texto": "Dios dijo que el niño nacería en diez años.",
+              "verdadera": false,
+              "porque": "Dijo «por este tiempo el año siguiente» (Génesis 17:21)."
+            },
+            {
+              "texto": "Sara dijo: «Dios me ha hecho reír».",
+              "verdadera": true,
+              "porque": "Está en Génesis 21:6."
+            },
+            {
+              "texto": "Abraham hizo un banquete el mismo día en que nació Isaac.",
+              "verdadera": false,
+              "porque": "Fue el día en que Isaac fue destetado (Génesis 21:8)."
+            },
+            {
+              "texto": "Isaac nació en el tiempo que Dios había dicho.",
+              "verdadera": true,
+              "porque": "Lo afirma Génesis 21:2."
+            }
           ]
         }
       }
@@ -91,9 +171,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas en la tienda de Abraham.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["SARA", "RISA", "BEBÉ"], "diagonales": false, "seed": 61 },
-        "6-8": { "tamano": 6, "palabras": ["SARA", "ISAAC", "RISA", "TIENDA"], "diagonales": false, "seed": 62 },
-        "9-12": { "tamano": 10, "palabras": ["ABRAHAM", "SARA", "ISAAC", "MAMRE", "TIENDA", "PROMESA", "BANQUETE", "RISA"], "diagonales": true, "seed": 63 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "SARA",
+            "RISA",
+            "BEBÉ"
+          ],
+          "diagonales": false,
+          "seed": 61
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "SARA",
+            "ISAAC",
+            "RISA",
+            "TIENDA"
+          ],
+          "diagonales": false,
+          "seed": 62
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "ABRAHAM",
+            "SARA",
+            "ISAAC",
+            "MAMRE",
+            "TIENDA",
+            "PROMESA",
+            "BANQUETE",
+            "RISA"
+          ],
+          "diagonales": true,
+          "seed": 63
+        }
       }
     }
   ],

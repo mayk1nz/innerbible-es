@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me enseña a amar.", "referencia": "Éxodo 20:1-17", "fuente": "adaptado" },
-    "6-8": { "texto": "Ama a Dios con todo tu corazón, y a los demás como a ti mismo.", "referencia": "Mateo 22:37-39", "fuente": "adaptado" },
-    "9-12": { "texto": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de siervos. No tendrás dioses ajenos delante de mí.", "referencia": "Éxodo 20:2-3", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me enseña a amar.",
+      "referencia": "Éxodo 20:1-17",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Ama a Dios con todo tu corazón, y a los demás como a ti mismo.",
+      "referencia": "Mateo 22:37-39",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de siervos. No tendrás dioses ajenos delante de mí.",
+      "referencia": "Éxodo 20:2-3",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Dios le habló a su pueblo desde un monte.", "verdadera": true, "porque": "Fue en el monte Sinaí." },
-            { "texto": "Dios dice: «Di mentiras».", "verdadera": false, "porque": "Dios nos pide decir siempre la verdad." },
-            { "texto": "Dios nos pide obedecer a papá y a mamá.", "verdadera": true, "porque": "Honrar a papá y a mamá es una de sus palabras." }
+            {
+              "texto": "Dios le habló a su pueblo desde un monte.",
+              "verdadera": true,
+              "porque": "Fue en el monte Sinaí."
+            },
+            {
+              "texto": "Dios dice: «Di mentiras».",
+              "verdadera": false,
+              "porque": "Dios nos pide decir siempre la verdad."
+            },
+            {
+              "texto": "Dios nos pide obedecer a papá y a mamá.",
+              "verdadera": true,
+              "porque": "Honrar a papá y a mamá es una de sus palabras."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Dios habló en el monte Sinaí.", "verdadera": true, "porque": "El pueblo acampó frente al monte y Dios les habló." },
-            { "texto": "Antes de dar sus mandamientos, Dios recordó que había liberado a su pueblo.", "verdadera": true, "porque": "Dijo: «Yo te saqué de Egipto»." },
-            { "texto": "Los mandamientos sirven para que Dios nos quiera.", "verdadera": false, "porque": "Dios ya nos ama; sus palabras nos enseñan a vivir en ese amor." },
-            { "texto": "Dios nos pide descansar un día de la semana.", "verdadera": true, "porque": "Un día es para descansar y recordar a Dios." },
-            { "texto": "Tomar algo que no es tuyo está bien si nadie te ve.", "verdadera": false, "porque": "«No robes» vale siempre, aunque nadie mire." },
-            { "texto": "Jesús resumió los mandamientos en amar a Dios y amar a los demás.", "verdadera": true, "porque": "Así lo enseñó Jesús." }
+            {
+              "texto": "Dios habló en el monte Sinaí.",
+              "verdadera": true,
+              "porque": "El pueblo acampó frente al monte y Dios les habló."
+            },
+            {
+              "texto": "Antes de dar sus mandamientos, Dios recordó que había liberado a su pueblo.",
+              "verdadera": true,
+              "porque": "Dijo: «Yo te saqué de Egipto»."
+            },
+            {
+              "texto": "Los mandamientos sirven para que Dios nos quiera.",
+              "verdadera": false,
+              "porque": "Dios ya nos ama; sus palabras nos enseñan a vivir en ese amor."
+            },
+            {
+              "texto": "Dios nos pide descansar un día de la semana.",
+              "verdadera": true,
+              "porque": "Un día es para descansar y recordar a Dios."
+            },
+            {
+              "texto": "Tomar algo que no es tuyo está bien si nadie te ve.",
+              "verdadera": false,
+              "porque": "«No robes» vale siempre, aunque nadie mire."
+            },
+            {
+              "texto": "Jesús resumió los mandamientos en amar a Dios y amar a los demás.",
+              "verdadera": true,
+              "porque": "Así lo enseñó Jesús."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Dios dio los mandamientos en el monte Sinaí.", "verdadera": true, "porque": "El pueblo acampó frente al Sinaí al tercer mes (Éxodo 19:1; 20:1)." },
-            { "texto": "Lo primero que Dios dijo fue una prohibición.", "verdadera": false, "porque": "Primero dijo: «Yo soy el Señor tu Dios, que te saqué de Egipto» (Éxodo 20:2)." },
-            { "texto": "El día de descanso recuerda que Dios reposó el séptimo día.", "verdadera": true, "porque": "Así lo explica Éxodo 20:11." },
-            { "texto": "«Honra a tu padre y a tu madre» viene con una promesa.", "verdadera": true, "porque": "«Para que tus días se alarguen en la tierra» (Éxodo 20:12)." },
-            { "texto": "Codiciar significa trabajar mucho para tener algo.", "verdadera": false, "porque": "Codiciar es desear con ansia lo que es de otro (Éxodo 20:17)." },
-            { "texto": "Al ver el humo y oír la trompeta, el pueblo corrió a subir al monte.", "verdadera": false, "porque": "Temblaron y se quedaron lejos (Éxodo 20:18)." },
-            { "texto": "Moisés le dijo al pueblo: «No teman».", "verdadera": true, "porque": "Dios no quería asustarlos, sino enseñarles a no pecar (Éxodo 20:20)." },
-            { "texto": "Jesús dijo que los mandamientos ya no importan.", "verdadera": false, "porque": "Jesús los resumió en amar a Dios y al prójimo (Mateo 22:37-40)." }
+            {
+              "texto": "Dios dio los mandamientos en el monte Sinaí.",
+              "verdadera": true,
+              "porque": "El pueblo acampó frente al Sinaí al tercer mes (Éxodo 19:1; 20:1)."
+            },
+            {
+              "texto": "Lo primero que Dios dijo fue una prohibición.",
+              "verdadera": false,
+              "porque": "Primero dijo: «Yo soy el Señor tu Dios, que te saqué de Egipto» (Éxodo 20:2)."
+            },
+            {
+              "texto": "El día de descanso recuerda que Dios reposó el séptimo día.",
+              "verdadera": true,
+              "porque": "Así lo explica Éxodo 20:11."
+            },
+            {
+              "texto": "«Honra a tu padre y a tu madre» viene con una promesa.",
+              "verdadera": true,
+              "porque": "«Para que tus días se alarguen en la tierra» (Éxodo 20:12)."
+            },
+            {
+              "texto": "Codiciar significa trabajar mucho para tener algo.",
+              "verdadera": false,
+              "porque": "Codiciar es desear con ansia lo que es de otro (Éxodo 20:17)."
+            },
+            {
+              "texto": "Al ver el humo y oír la trompeta, el pueblo corrió a subir al monte.",
+              "verdadera": false,
+              "porque": "Temblaron y se quedaron lejos (Éxodo 20:18)."
+            },
+            {
+              "texto": "Moisés le dijo al pueblo: «No teman».",
+              "verdadera": true,
+              "porque": "Dios no quería asustarlos, sino enseñarles a no pecar (Éxodo 20:20)."
+            },
+            {
+              "texto": "Jesús dijo que los mandamientos ya no importan.",
+              "verdadera": false,
+              "porque": "Jesús los resumió en amar a Dios y al prójimo (Mateo 22:37-40)."
+            }
           ]
         }
       }
@@ -93,31 +173,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["Moisés", "las tablas de piedra"],
-            ["el monte", "la nube de humo"],
-            ["la trompeta", "¡tuuu!"]
+            [
+              "Moisés",
+              "las tablas de piedra"
+            ],
+            [
+              "el monte",
+              "la nube de humo"
+            ],
+            [
+              "la trompeta",
+              "¡tuuu!"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Moisés", "las tablas"],
-            ["el monte", "Sinaí"],
-            ["papá y mamá", "honrar"],
-            ["la verdad", "no mentir"],
-            ["lo de otro", "no robar"],
-            ["el séptimo día", "descansar"]
+            [
+              "Moisés",
+              "las tablas"
+            ],
+            [
+              "el monte",
+              "Sinaí"
+            ],
+            [
+              "papá y mamá",
+              "honrar"
+            ],
+            [
+              "la verdad",
+              "no mentir"
+            ],
+            [
+              "lo de otro",
+              "no robar"
+            ],
+            [
+              "el séptimo día",
+              "descansar"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Sinaí", "el monte"],
-            ["Egipto", "casa de esclavitud"],
-            ["ídolos", "nada en lugar de Dios"],
-            ["el nombre de Dios", "con respeto"],
-            ["séptimo día", "reposo"],
-            ["padre y madre", "honra"],
-            ["codiciar", "desear lo ajeno"],
-            ["Jesús", "ama a Dios y al prójimo"]
+            [
+              "Sinaí",
+              "el monte"
+            ],
+            [
+              "Egipto",
+              "casa de esclavitud"
+            ],
+            [
+              "ídolos",
+              "nada en lugar de Dios"
+            ],
+            [
+              "el nombre de Dios",
+              "con respeto"
+            ],
+            [
+              "séptimo día",
+              "reposo"
+            ],
+            [
+              "padre y madre",
+              "honra"
+            ],
+            [
+              "codiciar",
+              "desear lo ajeno"
+            ],
+            [
+              "Jesús",
+              "ama a Dios y al prójimo"
+            ]
           ]
         }
       }

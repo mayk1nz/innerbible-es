@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Un buen amigo no te deja solo.", "referencia": "Rut 1:16", "fuente": "adaptado" },
-    "6-8": { "texto": "Donde tú vayas, iré yo; tu Dios será mi Dios.", "referencia": "Rut 1:16", "fuente": "adaptado" },
-    "9-12": { "texto": "En todo tiempo ama el amigo; y el hermano para la angustia es nacido.", "referencia": "Proverbios 17:17", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Un buen amigo no te deja solo.",
+      "referencia": "Rut 1:16",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Donde tú vayas, iré yo; tu Dios será mi Dios.",
+      "referencia": "Rut 1:16",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "En todo tiempo ama el amigo; y el hermano para la angustia es nacido.",
+      "referencia": "Proverbios 17:17",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Rut dejó sola a Noemí.", "verdadera": false, "porque": "Rut se quedó con ella: ¡fue una amiga fiel!" },
-            { "texto": "Rut recogía espigas en el campo.", "verdadera": true, "porque": "Trabajaba para que Noemí y ella tuvieran pan." },
-            { "texto": "Booz fue malo con Rut.", "verdadera": false, "porque": "Booz fue muy bueno: le dio agua, pan y espigas." }
+            {
+              "texto": "Rut dejó sola a Noemí.",
+              "verdadera": false,
+              "porque": "Rut se quedó con ella: ¡fue una amiga fiel!"
+            },
+            {
+              "texto": "Rut recogía espigas en el campo.",
+              "verdadera": true,
+              "porque": "Trabajaba para que Noemí y ella tuvieran pan."
+            },
+            {
+              "texto": "Booz fue malo con Rut.",
+              "verdadera": false,
+              "porque": "Booz fue muy bueno: le dio agua, pan y espigas."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Noemí y su familia se fueron a Moab porque había hambre.", "verdadera": true, "porque": "En Belén no había comida." },
-            { "texto": "Orfa y Rut se quedaron las dos con Noemí.", "verdadera": false, "porque": "Orfa regresó a su casa; Rut se quedó." },
-            { "texto": "Rut dijo: «Tu Dios será mi Dios».", "verdadera": true, "porque": "Rut decidió seguir al Dios de Noemí." },
-            { "texto": "Rut trabajó recogiendo espigas para cuidar a Noemí.", "verdadera": true, "porque": "Así tenían pan las dos." },
-            { "texto": "Booz pidió que no dejaran caer ni una espiga.", "verdadera": false, "porque": "Pidió dejar caer espigas a propósito para ella." },
-            { "texto": "El bebé de Rut y Booz se llamó David.", "verdadera": false, "porque": "Se llamó Obed; David fue su nieto." }
+            {
+              "texto": "Noemí y su familia se fueron a Moab porque había hambre.",
+              "verdadera": true,
+              "porque": "En Belén no había comida."
+            },
+            {
+              "texto": "Orfa y Rut se quedaron las dos con Noemí.",
+              "verdadera": false,
+              "porque": "Orfa regresó a su casa; Rut se quedó."
+            },
+            {
+              "texto": "Rut dijo: «Tu Dios será mi Dios».",
+              "verdadera": true,
+              "porque": "Rut decidió seguir al Dios de Noemí."
+            },
+            {
+              "texto": "Rut trabajó recogiendo espigas para cuidar a Noemí.",
+              "verdadera": true,
+              "porque": "Así tenían pan las dos."
+            },
+            {
+              "texto": "Booz pidió que no dejaran caer ni una espiga.",
+              "verdadera": false,
+              "porque": "Pidió dejar caer espigas a propósito para ella."
+            },
+            {
+              "texto": "El bebé de Rut y Booz se llamó David.",
+              "verdadera": false,
+              "porque": "Se llamó Obed; David fue su nieto."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Elimelec y Noemí eran de Belén de Judá.", "verdadera": true, "porque": "Así lo dice Rut 1:1-2." },
-            { "texto": "Rut era israelita, igual que Noemí.", "verdadera": false, "porque": "Rut era moabita, una extranjera (Rut 1:4; 2:10)." },
-            { "texto": "Noemí pidió que la llamaran Mara, que significa «amarga».", "verdadera": true, "porque": "Estaba muy dolida por sus pérdidas (Rut 1:20)." },
-            { "texto": "Llegaron a Belén al terminar la cosecha.", "verdadera": false, "porque": "Llegaron al comenzar la siega de la cebada (Rut 1:22)." },
-            { "texto": "Booz sabía cómo Rut había cuidado a su suegra.", "verdadera": true, "porque": "Se lo habían contado todo (Rut 2:11)." },
-            { "texto": "Un «pariente redentor» ayudaba a rescatar la tierra y la familia de un pariente.", "verdadera": true, "porque": "Eso hizo Booz ante los ancianos (Rut 4:9-10)." },
-            { "texto": "Obed fue el padre del rey David.", "verdadera": false, "porque": "Fue su abuelo: Obed, Isaí, David (Rut 4:17)." },
-            { "texto": "Rut aparece en la genealogía de Jesús.", "verdadera": true, "porque": "Mateo 1:5 la nombra." }
+            {
+              "texto": "Elimelec y Noemí eran de Belén de Judá.",
+              "verdadera": true,
+              "porque": "Así lo dice Rut 1:1-2."
+            },
+            {
+              "texto": "Rut era israelita, igual que Noemí.",
+              "verdadera": false,
+              "porque": "Rut era moabita, una extranjera (Rut 1:4; 2:10)."
+            },
+            {
+              "texto": "Noemí pidió que la llamaran Mara, que significa «amarga».",
+              "verdadera": true,
+              "porque": "Estaba muy dolida por sus pérdidas (Rut 1:20)."
+            },
+            {
+              "texto": "Llegaron a Belén al terminar la cosecha.",
+              "verdadera": false,
+              "porque": "Llegaron al comenzar la siega de la cebada (Rut 1:22)."
+            },
+            {
+              "texto": "Booz sabía cómo Rut había cuidado a su suegra.",
+              "verdadera": true,
+              "porque": "Se lo habían contado todo (Rut 2:11)."
+            },
+            {
+              "texto": "Un «pariente redentor» ayudaba a rescatar la tierra y la familia de un pariente.",
+              "verdadera": true,
+              "porque": "Eso hizo Booz ante los ancianos (Rut 4:9-10)."
+            },
+            {
+              "texto": "Obed fue el padre del rey David.",
+              "verdadera": false,
+              "porque": "Fue su abuelo: Obed, Isaí, David (Rut 4:17)."
+            },
+            {
+              "texto": "Rut aparece en la genealogía de Jesús.",
+              "verdadera": true,
+              "porque": "Mateo 1:5 la nombra."
+            }
           ]
         }
       }
@@ -91,9 +171,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas en el campo de Booz.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["RUT", "PAN", "BOOZ"], "diagonales": false, "seed": 181 },
-        "6-8": { "tamano": 6, "palabras": ["RUT", "NOEMÍ", "BOOZ", "ESPIGA"], "diagonales": false, "seed": 182 },
-        "9-12": { "tamano": 10, "palabras": ["RUT", "NOEMÍ", "BOOZ", "ORFA", "BELÉN", "CEBADA", "ESPIGAS", "OBED"], "diagonales": true, "seed": 183 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "RUT",
+            "PAN",
+            "BOOZ"
+          ],
+          "diagonales": false,
+          "seed": 181
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "RUT",
+            "NOEMÍ",
+            "BOOZ",
+            "ESPIGA"
+          ],
+          "diagonales": false,
+          "seed": 182
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "RUT",
+            "NOEMÍ",
+            "BOOZ",
+            "ORFA",
+            "BELÉN",
+            "CEBADA",
+            "ESPIGAS",
+            "OBED"
+          ],
+          "diagonales": true,
+          "seed": 183
+        }
       }
     }
   ],

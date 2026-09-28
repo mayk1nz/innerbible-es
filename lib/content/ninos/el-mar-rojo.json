@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "No tengas miedo: Dios te cuida.", "referencia": "Éxodo 14:13", "fuente": "adaptado" },
-    "6-8": { "texto": "El Señor peleará por ustedes; ustedes quédense tranquilos.", "referencia": "Éxodo 14:14", "fuente": "adaptado" },
-    "9-12": { "texto": "Cuando pasares por las aguas, yo seré contigo; y por los ríos, no te anegarán. Cuando pasares por el fuego, no te quemarás, ni la llama arderá en ti.", "referencia": "Isaías 43:2", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "No tengas miedo: Dios te cuida.",
+      "referencia": "Éxodo 14:13",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Señor peleará por ustedes; ustedes quédense tranquilos.",
+      "referencia": "Éxodo 14:14",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Cuando pasares por las aguas, yo seré contigo; y por los ríos, no te anegarán. Cuando pasares por el fuego, no te quemarás, ni la llama arderá en ti.",
+      "referencia": "Isaías 43:2",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "El pueblo cruzó el mar por un camino seco.", "verdadera": true, "porque": "¡Dios abrió el mar para ellos!" },
-            { "texto": "Moisés levantó su vara.", "verdadera": true, "porque": "Moisés obedeció a Dios." },
-            { "texto": "El pueblo se quedó atrapado.", "verdadera": false, "porque": "Dios los ayudó a llegar a salvo al otro lado." }
+            {
+              "texto": "El pueblo cruzó el mar por un camino seco.",
+              "verdadera": true,
+              "porque": "¡Dios abrió el mar para ellos!"
+            },
+            {
+              "texto": "Moisés levantó su vara.",
+              "verdadera": true,
+              "porque": "Moisés obedeció a Dios."
+            },
+            {
+              "texto": "El pueblo se quedó atrapado.",
+              "verdadera": false,
+              "porque": "Dios los ayudó a llegar a salvo al otro lado."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "El faraón se alegró de que Israel se fuera.", "verdadera": false, "porque": "Se arrepintió y salió a perseguirlos." },
-            { "texto": "El pueblo tuvo miedo al ver al ejército.", "verdadera": true, "porque": "Tenían el mar delante y a los egipcios detrás." },
-            { "texto": "Moisés dijo: «No tengan miedo».", "verdadera": true, "porque": "Les pidió confiar en el Señor." },
-            { "texto": "La nube dejaba a oscuras a Israel.", "verdadera": false, "porque": "A Israel le daba luz; a los egipcios, oscuridad." },
-            { "texto": "Un viento fuerte sopló toda la noche.", "verdadera": true, "porque": "Así abrió Dios el camino en el mar." },
-            { "texto": "El pueblo cruzó el mar nadando.", "verdadera": false, "porque": "¡Cruzó por tierra seca!" }
+            {
+              "texto": "El faraón se alegró de que Israel se fuera.",
+              "verdadera": false,
+              "porque": "Se arrepintió y salió a perseguirlos."
+            },
+            {
+              "texto": "El pueblo tuvo miedo al ver al ejército.",
+              "verdadera": true,
+              "porque": "Tenían el mar delante y a los egipcios detrás."
+            },
+            {
+              "texto": "Moisés dijo: «No tengan miedo».",
+              "verdadera": true,
+              "porque": "Les pidió confiar en el Señor."
+            },
+            {
+              "texto": "La nube dejaba a oscuras a Israel.",
+              "verdadera": false,
+              "porque": "A Israel le daba luz; a los egipcios, oscuridad."
+            },
+            {
+              "texto": "Un viento fuerte sopló toda la noche.",
+              "verdadera": true,
+              "porque": "Así abrió Dios el camino en el mar."
+            },
+            {
+              "texto": "El pueblo cruzó el mar nadando.",
+              "verdadera": false,
+              "porque": "¡Cruzó por tierra seca!"
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "El faraón salió con seiscientos carros escogidos.", "verdadera": true, "porque": "Y con todos los carros de Egipto (Éxodo 14:7)." },
-            { "texto": "Los israelitas estaban tranquilos cuando vieron a los egipcios.", "verdadera": false, "porque": "Temieron en gran manera y clamaron (Éxodo 14:10)." },
-            { "texto": "Moisés dijo al pueblo: «No temáis; estáos quedos».", "verdadera": true, "porque": "Así lo cuenta Éxodo 14:13." },
-            { "texto": "La columna de nube se puso detrás del pueblo.", "verdadera": true, "porque": "Quedó entre los dos campamentos (Éxodo 14:19-20)." },
-            { "texto": "El viento que abrió el mar sopló solo un momento.", "verdadera": false, "porque": "Sopló «toda aquella noche» (Éxodo 14:21)." },
-            { "texto": "Los israelitas tenían las aguas como muro a los dos lados.", "verdadera": true, "porque": "A su derecha y a su izquierda (Éxodo 14:22)." },
-            { "texto": "Los carros egipcios avanzaban cada vez más rápido.", "verdadera": false, "porque": "Dios les quitó las ruedas y los trastornó (Éxodo 14:25)." },
-            { "texto": "Después del cruce, el pueblo creyó en el Señor y en Moisés.", "verdadera": true, "porque": "Así termina Éxodo 14:31." }
+            {
+              "texto": "El faraón salió con seiscientos carros escogidos.",
+              "verdadera": true,
+              "porque": "Y con todos los carros de Egipto (Éxodo 14:7)."
+            },
+            {
+              "texto": "Los israelitas estaban tranquilos cuando vieron a los egipcios.",
+              "verdadera": false,
+              "porque": "Temieron en gran manera y clamaron (Éxodo 14:10)."
+            },
+            {
+              "texto": "Moisés dijo al pueblo: «No temáis; estáos quedos».",
+              "verdadera": true,
+              "porque": "Así lo cuenta Éxodo 14:13."
+            },
+            {
+              "texto": "La columna de nube se puso detrás del pueblo.",
+              "verdadera": true,
+              "porque": "Quedó entre los dos campamentos (Éxodo 14:19-20)."
+            },
+            {
+              "texto": "El viento que abrió el mar sopló solo un momento.",
+              "verdadera": false,
+              "porque": "Sopló «toda aquella noche» (Éxodo 14:21)."
+            },
+            {
+              "texto": "Los israelitas tenían las aguas como muro a los dos lados.",
+              "verdadera": true,
+              "porque": "A su derecha y a su izquierda (Éxodo 14:22)."
+            },
+            {
+              "texto": "Los carros egipcios avanzaban cada vez más rápido.",
+              "verdadera": false,
+              "porque": "Dios les quitó las ruedas y los trastornó (Éxodo 14:25)."
+            },
+            {
+              "texto": "Después del cruce, el pueblo creyó en el Señor y en Moisés.",
+              "verdadera": true,
+              "porque": "Así termina Éxodo 14:31."
+            }
           ]
         }
       }
@@ -91,9 +171,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas en el camino del mar.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["MAR", "NUBE", "VARA"], "diagonales": false, "seed": 1311 },
-        "6-8": { "tamano": 6, "palabras": ["MAR", "MOISÉS", "VIENTO", "NUBE"], "diagonales": false, "seed": 1312 },
-        "9-12": { "tamano": 10, "palabras": ["MAR", "MOISÉS", "FARAÓN", "CARROS", "VIENTO", "NUBE", "COLUMNA", "EGIPTO"], "diagonales": true, "seed": 1313 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "MAR",
+            "NUBE",
+            "VARA"
+          ],
+          "diagonales": false,
+          "seed": 1311
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "MAR",
+            "MOISÉS",
+            "VIENTO",
+            "NUBE"
+          ],
+          "diagonales": false,
+          "seed": 1312
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "MAR",
+            "MOISÉS",
+            "FARAÓN",
+            "CARROS",
+            "VIENTO",
+            "NUBE",
+            "COLUMNA",
+            "EGIPTO"
+          ],
+          "diagonales": true,
+          "seed": 1313
+        }
       }
     }
   ],

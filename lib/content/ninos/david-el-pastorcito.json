@@ -47,18 +47,63 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios mira mi corazón.", "referencia": "1 Samuel 16:7", "fuente": "adaptado" },
-    "6-8": { "texto": "Las personas miran lo de afuera, pero Dios mira el corazón.", "referencia": "1 Samuel 16:7", "fuente": "adaptado" },
-    "9-12": { "texto": "Salmo de David. Jehová es mi pastor; nada me faltará.", "referencia": "Salmos 23:1", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios mira mi corazón.",
+      "referencia": "1 Samuel 16:7",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Las personas miran lo de afuera, pero Dios mira el corazón.",
+      "referencia": "1 Samuel 16:7",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Salmo de David. Jehová es mi pastor; nada me faltará.",
+      "referencia": "Salmos 23:1",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas en el campo del pastorcito.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["DAVID", "ARPA", "OVEJA"], "diagonales": false, "seed": 2111 },
-        "6-8": { "tamano": 6, "palabras": ["DAVID", "SAMUEL", "ACEITE", "ARPA"], "diagonales": false, "seed": 2112 },
-        "9-12": { "tamano": 10, "palabras": ["DAVID", "SAMUEL", "ISAÍ", "ELIAB", "BELÉN", "ACEITE", "CORAZÓN", "PASTOR"], "diagonales": true, "seed": 2113 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "DAVID",
+            "ARPA",
+            "OVEJA"
+          ],
+          "diagonales": false,
+          "seed": 2111
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "DAVID",
+            "SAMUEL",
+            "ACEITE",
+            "ARPA"
+          ],
+          "diagonales": false,
+          "seed": 2112
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "DAVID",
+            "SAMUEL",
+            "ISAÍ",
+            "ELIAB",
+            "BELÉN",
+            "ACEITE",
+            "CORAZÓN",
+            "PASTOR"
+          ],
+          "diagonales": true,
+          "seed": 2113
+        }
       }
     },
     {
@@ -67,28 +112,148 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué cuidaba David?", "opciones": ["Ovejas", "Leones"], "correcta": 0 },
-            { "texto": "¿Qué mira Dios en nosotros?", "opciones": ["La ropa", "El corazón"], "correcta": 1 },
-            { "texto": "¿Qué tocaba David?", "opciones": ["El arpa", "El tambor"], "correcta": 0 }
+            {
+              "texto": "¿Qué cuidaba David?",
+              "opciones": [
+                "Ovejas",
+                "Leones"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué mira Dios en nosotros?",
+              "opciones": [
+                "La ropa",
+                "El corazón"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué tocaba David?",
+              "opciones": [
+                "El arpa",
+                "El tambor"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿A qué pueblo envió Dios a Samuel?", "opciones": ["Belén", "Nínive", "Egipto"], "correcta": 0 },
-            { "texto": "¿Por qué Dios no eligió a Eliab?", "opciones": ["Porque era bajito", "Porque Dios mira el corazón", "Porque llegó tarde"], "correcta": 1 },
-            { "texto": "¿Cuántos hijos de Isaí pasaron antes de David?", "opciones": ["Tres", "Siete", "Doce"], "correcta": 1 },
-            { "texto": "¿Dónde estaba David cuando llegó Samuel?", "opciones": ["Cuidando las ovejas", "Durmiendo", "En el palacio"], "correcta": 0 },
-            { "texto": "¿Qué derramó Samuel sobre la cabeza de David?", "opciones": ["Agua", "Aceite", "Miel"], "correcta": 1, "explicacion": "Ungir con aceite era la señal de que Dios lo había elegido." }
+            {
+              "texto": "¿A qué pueblo envió Dios a Samuel?",
+              "opciones": [
+                "Belén",
+                "Nínive",
+                "Egipto"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Por qué Dios no eligió a Eliab?",
+              "opciones": [
+                "Porque era bajito",
+                "Porque Dios mira el corazón",
+                "Porque llegó tarde"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cuántos hijos de Isaí pasaron antes de David?",
+              "opciones": [
+                "Tres",
+                "Siete",
+                "Doce"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Dónde estaba David cuando llegó Samuel?",
+              "opciones": [
+                "Cuidando las ovejas",
+                "Durmiendo",
+                "En el palacio"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué derramó Samuel sobre la cabeza de David?",
+              "opciones": [
+                "Agua",
+                "Aceite",
+                "Miel"
+              ],
+              "correcta": 1,
+              "explicacion": "Ungir con aceite era la señal de que Dios lo había elegido."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Cómo se llamaba el padre de David?", "opciones": ["Isaí", "Saúl", "Samuel", "Booz"], "correcta": 0 },
-            { "texto": "¿Qué llevó Samuel para ungir al nuevo rey?", "opciones": ["Una corona", "Un cuerno de aceite", "Una espada", "Un manto"], "correcta": 1, "explicacion": "1 Samuel 16:1." },
-            { "texto": "Según el Señor, ¿qué mira Dios?", "opciones": ["La estatura", "La riqueza", "El corazón", "La edad"], "correcta": 2, "explicacion": "1 Samuel 16:7." },
-            { "texto": "¿Quién era el hijo mayor de Isaí?", "opciones": ["David", "Eliab", "Samma", "Abinadab"], "correcta": 1 },
-            { "texto": "¿Qué pasó con David desde el día en que fue ungido?", "opciones": ["Se fue a vivir a Egipto", "El Espíritu del Señor vino sobre él", "Fue rey ese mismo día", "Dejó de cuidar ovejas"], "correcta": 1, "explicacion": "Todavía faltaban años para que reinara (1 Samuel 16:13)." },
-            { "texto": "¿Para qué llamaron a David al palacio de Saúl?", "opciones": ["Para pelear", "Para cocinar", "Para cuidar caballos", "Para tocar el arpa"], "correcta": 3, "explicacion": "Su música aliviaba al rey (1 Samuel 16:23)." }
+            {
+              "texto": "¿Cómo se llamaba el padre de David?",
+              "opciones": [
+                "Isaí",
+                "Saúl",
+                "Samuel",
+                "Booz"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué llevó Samuel para ungir al nuevo rey?",
+              "opciones": [
+                "Una corona",
+                "Un cuerno de aceite",
+                "Una espada",
+                "Un manto"
+              ],
+              "correcta": 1,
+              "explicacion": "1 Samuel 16:1."
+            },
+            {
+              "texto": "Según el Señor, ¿qué mira Dios?",
+              "opciones": [
+                "La estatura",
+                "La riqueza",
+                "El corazón",
+                "La edad"
+              ],
+              "correcta": 2,
+              "explicacion": "1 Samuel 16:7."
+            },
+            {
+              "texto": "¿Quién era el hijo mayor de Isaí?",
+              "opciones": [
+                "David",
+                "Eliab",
+                "Samma",
+                "Abinadab"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué pasó con David desde el día en que fue ungido?",
+              "opciones": [
+                "Se fue a vivir a Egipto",
+                "El Espíritu del Señor vino sobre él",
+                "Fue rey ese mismo día",
+                "Dejó de cuidar ovejas"
+              ],
+              "correcta": 1,
+              "explicacion": "Todavía faltaban años para que reinara (1 Samuel 16:13)."
+            },
+            {
+              "texto": "¿Para qué llamaron a David al palacio de Saúl?",
+              "opciones": [
+                "Para pelear",
+                "Para cocinar",
+                "Para cuidar caballos",
+                "Para tocar el arpa"
+              ],
+              "correcta": 3,
+              "explicacion": "Su música aliviaba al rey (1 Samuel 16:23)."
+            }
           ]
         }
       }

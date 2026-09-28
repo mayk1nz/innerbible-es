@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Ama a tu prójimo como a ti mismo.", "referencia": "Lucas 10:27", "fuente": "adaptado" },
-    "6-8": { "texto": "Ama al Señor tu Dios con todo tu corazón, y a tu prójimo como a ti mismo.", "referencia": "Lucas 10:27", "fuente": "adaptado" },
-    "9-12": { "texto": "Y él dijo: El que usó con él de misericordia. Entonces Jesús le dijo: Ve, y haz tú lo mismo.", "referencia": "Lucas 10:37", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Ama a tu prójimo como a ti mismo.",
+      "referencia": "Lucas 10:27",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Ama al Señor tu Dios con todo tu corazón, y a tu prójimo como a ti mismo.",
+      "referencia": "Lucas 10:27",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y él dijo: El que usó con él de misericordia. Entonces Jesús le dijo: Ve, y haz tú lo mismo.",
+      "referencia": "Lucas 10:37",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -90,31 +102,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "El samaritano ayudó al señor lastimado.", "verdadera": true, "porque": "Lo curó y lo llevó a una posada." },
-            { "texto": "El samaritano pasó de largo.", "verdadera": false, "porque": "El samaritano se detuvo y lo ayudó." },
-            { "texto": "Jesús quiere que ayudemos a los demás.", "verdadera": true, "porque": "Jesús dijo: «Haz tú lo mismo»." }
+            {
+              "texto": "El samaritano ayudó al señor lastimado.",
+              "verdadera": true,
+              "porque": "Lo curó y lo llevó a una posada."
+            },
+            {
+              "texto": "El samaritano pasó de largo.",
+              "verdadera": false,
+              "porque": "El samaritano se detuvo y lo ayudó."
+            },
+            {
+              "texto": "Jesús quiere que ayudemos a los demás.",
+              "verdadera": true,
+              "porque": "Jesús dijo: «Haz tú lo mismo»."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "El hombre iba de Jerusalén a Jericó.", "verdadera": true, "porque": "Así empieza la historia que contó Jesús." },
-            { "texto": "Los ladrones le regalaron dinero.", "verdadera": false, "porque": "Los ladrones le quitaron todo y lo dejaron herido." },
-            { "texto": "El sacerdote se detuvo a curarlo.", "verdadera": false, "porque": "El sacerdote siguió de largo, y el levita también." },
-            { "texto": "Judíos y samaritanos no se llevaban bien.", "verdadera": true, "porque": "Por eso sorprende que el que ayuda sea un samaritano." },
-            { "texto": "El samaritano pagó la posada.", "verdadera": true, "porque": "Dejó dinero y prometió pagar lo que faltara." },
-            { "texto": "Nuestro prójimo es solo nuestro mejor amigo.", "verdadera": false, "porque": "Prójimo es cualquier persona que necesita nuestra ayuda." }
+            {
+              "texto": "El hombre iba de Jerusalén a Jericó.",
+              "verdadera": true,
+              "porque": "Así empieza la historia que contó Jesús."
+            },
+            {
+              "texto": "Los ladrones le regalaron dinero.",
+              "verdadera": false,
+              "porque": "Los ladrones le quitaron todo y lo dejaron herido."
+            },
+            {
+              "texto": "El sacerdote se detuvo a curarlo.",
+              "verdadera": false,
+              "porque": "El sacerdote siguió de largo, y el levita también."
+            },
+            {
+              "texto": "Judíos y samaritanos no se llevaban bien.",
+              "verdadera": true,
+              "porque": "Por eso sorprende que el que ayuda sea un samaritano."
+            },
+            {
+              "texto": "El samaritano pagó la posada.",
+              "verdadera": true,
+              "porque": "Dejó dinero y prometió pagar lo que faltara."
+            },
+            {
+              "texto": "Nuestro prójimo es solo nuestro mejor amigo.",
+              "verdadera": false,
+              "porque": "Prójimo es cualquier persona que necesita nuestra ayuda."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "La pregunta del doctor de la ley era sobre la vida eterna.", "verdadera": true, "porque": "Preguntó qué haría para heredar la vida eterna (Lucas 10:25)." },
-            { "texto": "El doctor citó dos mandamientos: amar a Dios y al prójimo.", "verdadera": true, "porque": "Jesús le dijo: «Bien has respondido» (Lucas 10:28)." },
-            { "texto": "El camino iba de Jericó a Jerusalén.", "verdadera": false, "porque": "El hombre bajaba de Jerusalén a Jericó (Lucas 10:30)." },
-            { "texto": "El levita se detuvo y lo ayudó.", "verdadera": false, "porque": "El levita también «se pasó de un lado» (Lucas 10:32)." },
-            { "texto": "El samaritano usó aceite y vino para curar las heridas.", "verdadera": true, "porque": "Así se limpiaban y aliviaban las heridas (Lucas 10:34)." },
-            { "texto": "El samaritano dejó cinco denarios en el mesón.", "verdadera": false, "porque": "Dejó dos denarios y prometió pagar el resto (Lucas 10:35)." },
-            { "texto": "Jesús preguntó quién fue el prójimo del herido.", "verdadera": true, "porque": "Cambió la pregunta: no «¿quién es mi prójimo?», sino «¿de quién me hago prójimo?» (Lucas 10:36)." },
-            { "texto": "Jesús terminó diciendo: «Ve, y haz tú lo mismo».", "verdadera": true, "porque": "La historia termina con una invitación a actuar (Lucas 10:37)." }
+            {
+              "texto": "La pregunta del doctor de la ley era sobre la vida eterna.",
+              "verdadera": true,
+              "porque": "Preguntó qué haría para heredar la vida eterna (Lucas 10:25)."
+            },
+            {
+              "texto": "El doctor citó dos mandamientos: amar a Dios y al prójimo.",
+              "verdadera": true,
+              "porque": "Jesús le dijo: «Bien has respondido» (Lucas 10:28)."
+            },
+            {
+              "texto": "El camino iba de Jericó a Jerusalén.",
+              "verdadera": false,
+              "porque": "El hombre bajaba de Jerusalén a Jericó (Lucas 10:30)."
+            },
+            {
+              "texto": "El levita se detuvo y lo ayudó.",
+              "verdadera": false,
+              "porque": "El levita también «se pasó de un lado» (Lucas 10:32)."
+            },
+            {
+              "texto": "El samaritano usó aceite y vino para curar las heridas.",
+              "verdadera": true,
+              "porque": "Así se limpiaban y aliviaban las heridas (Lucas 10:34)."
+            },
+            {
+              "texto": "El samaritano dejó cinco denarios en el mesón.",
+              "verdadera": false,
+              "porque": "Dejó dos denarios y prometió pagar el resto (Lucas 10:35)."
+            },
+            {
+              "texto": "Jesús preguntó quién fue el prójimo del herido.",
+              "verdadera": true,
+              "porque": "Cambió la pregunta: no «¿quién es mi prójimo?», sino «¿de quién me hago prójimo?» (Lucas 10:36)."
+            },
+            {
+              "texto": "Jesús terminó diciendo: «Ve, y haz tú lo mismo».",
+              "verdadera": true,
+              "porque": "La historia termina con una invitación a actuar (Lucas 10:37)."
+            }
           ]
         }
       }

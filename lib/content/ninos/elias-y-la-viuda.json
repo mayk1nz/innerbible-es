@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡No tengas miedo! Dios te cuida.", "referencia": "1 Reyes 17:13", "fuente": "adaptado" },
-    "6-8": { "texto": "La harina no se acabará, y no faltará el aceite.", "referencia": "1 Reyes 17:14", "fuente": "adaptado" },
-    "9-12": { "texto": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.", "referencia": "Filipenses 4:19", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡No tengas miedo! Dios te cuida.",
+      "referencia": "1 Reyes 17:13",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "La harina no se acabará, y no faltará el aceite.",
+      "referencia": "1 Reyes 17:14",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.",
+      "referencia": "Filipenses 4:19",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -90,31 +102,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["Elías", "los cuervos"],
-            ["la viuda", "la harina"],
-            ["el arroyo", "el agua"]
+            [
+              "Elías",
+              "los cuervos"
+            ],
+            [
+              "la viuda",
+              "la harina"
+            ],
+            [
+              "el arroyo",
+              "el agua"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Elías", "el profeta"],
-            ["los cuervos", "pan y carne"],
-            ["el arroyo", "se secó"],
-            ["la viuda", "la leña"],
-            ["la tinaja", "la harina"],
-            ["la botija", "el aceite"]
+            [
+              "Elías",
+              "el profeta"
+            ],
+            [
+              "los cuervos",
+              "pan y carne"
+            ],
+            [
+              "el arroyo",
+              "se secó"
+            ],
+            [
+              "la viuda",
+              "la leña"
+            ],
+            [
+              "la tinaja",
+              "la harina"
+            ],
+            [
+              "la botija",
+              "el aceite"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Elías", "profeta de Galaad"],
-            ["Acab", "el rey"],
-            ["Querit", "el arroyo"],
-            ["Sarepta", "ciudad de Sidón"],
-            ["la tinaja", "no escaseó"],
-            ["la botija", "no menguó"],
-            ["«No hayas temor»", "palabras de Elías"],
-            ["«Mira, tu hijo vive»", "el niño revive"]
+            [
+              "Elías",
+              "profeta de Galaad"
+            ],
+            [
+              "Acab",
+              "el rey"
+            ],
+            [
+              "Querit",
+              "el arroyo"
+            ],
+            [
+              "Sarepta",
+              "ciudad de Sidón"
+            ],
+            [
+              "la tinaja",
+              "no escaseó"
+            ],
+            [
+              "la botija",
+              "no menguó"
+            ],
+            [
+              "«No hayas temor»",
+              "palabras de Elías"
+            ],
+            [
+              "«Mira, tu hijo vive»",
+              "el niño revive"
+            ]
           ]
         }
       }

@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Bendito sea el Señor!", "referencia": "Job 1:21", "fuente": "adaptado" },
-    "6-8": { "texto": "El Señor dio, y el Señor quitó: ¡bendito sea el nombre del Señor!", "referencia": "Job 1:21", "fuente": "adaptado" },
-    "9-12": { "texto": "Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti.", "referencia": "Job 42:2", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Bendito sea el Señor!",
+      "referencia": "Job 1:21",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Señor dio, y el Señor quitó: ¡bendito sea el nombre del Señor!",
+      "referencia": "Job 1:21",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti.",
+      "referencia": "Job 42:2",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,150 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿A quién amaba Job?", "opciones": ["A Dios", "A nadie"], "correcta": 0 },
-            { "texto": "¿Quiénes se sentaron con Job cuando estaba triste?", "opciones": ["Unos leones", "Sus amigos"], "correcta": 1 },
-            { "texto": "¿Qué hizo Dios al final?", "opciones": ["Bendijo a Job otra vez", "Se olvidó de Job"], "correcta": 0 }
+            {
+              "texto": "¿A quién amaba Job?",
+              "opciones": [
+                "A Dios",
+                "A nadie"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Quiénes se sentaron con Job cuando estaba triste?",
+              "opciones": [
+                "Unos leones",
+                "Sus amigos"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué hizo Dios al final?",
+              "opciones": [
+                "Bendijo a Job otra vez",
+                "Se olvidó de Job"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Dónde vivía Job?", "opciones": ["En Egipto", "En la tierra de Uz", "En Belén"], "correcta": 1 },
-            { "texto": "¿Qué hizo Job al recibir las noticias tristes?", "opciones": ["Se enojó con Dios", "Adoró a Dios", "Se escondió"], "correcta": 1, "explicacion": "Dijo: «¡Bendito sea el nombre del Señor!»." },
-            { "texto": "¿Cuántos amigos vinieron a consolarlo?", "opciones": ["Dos", "Tres", "Diez"], "correcta": 1 },
-            { "texto": "¿Cuántos días se quedaron con él en silencio?", "opciones": ["Siete", "Uno", "Cuarenta"], "correcta": 0, "explicacion": "A veces, acompañar en silencio es el mejor regalo." },
-            { "texto": "¿Qué le dio Dios a Job al final?", "opciones": ["Nada", "El doble de lo que tenía", "Solo un camello"], "correcta": 1 }
+            {
+              "texto": "¿Dónde vivía Job?",
+              "opciones": [
+                "En Egipto",
+                "En la tierra de Uz",
+                "En Belén"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué hizo Job al recibir las noticias tristes?",
+              "opciones": [
+                "Se enojó con Dios",
+                "Adoró a Dios",
+                "Se escondió"
+              ],
+              "correcta": 1,
+              "explicacion": "Dijo: «¡Bendito sea el nombre del Señor!»."
+            },
+            {
+              "texto": "¿Cuántos amigos vinieron a consolarlo?",
+              "opciones": [
+                "Dos",
+                "Tres",
+                "Diez"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cuántos días se quedaron con él en silencio?",
+              "opciones": [
+                "Siete",
+                "Uno",
+                "Cuarenta"
+              ],
+              "correcta": 0,
+              "explicacion": "A veces, acompañar en silencio es el mejor regalo."
+            },
+            {
+              "texto": "¿Qué le dio Dios a Job al final?",
+              "opciones": [
+                "Nada",
+                "El doble de lo que tenía",
+                "Solo un camello"
+              ],
+              "correcta": 1
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Cómo describe la Biblia a Job?", "opciones": ["Perfecto y recto, temeroso de Dios", "Rico pero egoísta", "Un rey de Egipto", "Un profeta de Israel"], "correcta": 0, "explicacion": "Así lo presenta Job 1:1." },
-            { "texto": "¿Qué decía el acusador sobre Job?", "opciones": ["Que era muy pobre", "Que solo amaba a Dios por lo que tenía", "Que no tenía amigos", "Que no sabía orar"], "correcta": 1, "explicacion": "«¿Teme Job a Dios de balde?» (Job 1:9)." },
-            { "texto": "¿Qué dijo Job después de perderlo todo?", "opciones": ["«Me voy a otra tierra»", "«Nunca más oraré»", "«El Señor dio, y el Señor quitó: sea bendito»", "No dijo nada"], "correcta": 2 },
-            { "texto": "¿Qué hicieron sus amigos al llegar?", "opciones": ["Se burlaron de él", "Se sentaron con él siete días en silencio", "Le pidieron dinero", "Se fueron enseguida"], "correcta": 1, "explicacion": "Veían que su dolor era muy grande (Job 2:13)." },
-            { "texto": "¿Desde dónde respondió Dios a Job?", "opciones": ["Desde una zarza", "Desde el templo", "Desde un torbellino", "Desde un barco"], "correcta": 2, "explicacion": "Job 38:1." },
-            { "texto": "¿Qué pasó cuando Job oró por sus amigos?", "opciones": ["Nada cambió", "Sus amigos se enojaron", "Se fue a vivir lejos", "Dios le devolvió el doble"], "correcta": 3, "explicacion": "Job 42:10." }
+            {
+              "texto": "¿Cómo describe la Biblia a Job?",
+              "opciones": [
+                "Perfecto y recto, temeroso de Dios",
+                "Rico pero egoísta",
+                "Un rey de Egipto",
+                "Un profeta de Israel"
+              ],
+              "correcta": 0,
+              "explicacion": "Así lo presenta Job 1:1."
+            },
+            {
+              "texto": "¿Qué decía el acusador sobre Job?",
+              "opciones": [
+                "Que era muy pobre",
+                "Que solo amaba a Dios por lo que tenía",
+                "Que no tenía amigos",
+                "Que no sabía orar"
+              ],
+              "correcta": 1,
+              "explicacion": "«¿Teme Job a Dios de balde?» (Job 1:9)."
+            },
+            {
+              "texto": "¿Qué dijo Job después de perderlo todo?",
+              "opciones": [
+                "«Me voy a otra tierra»",
+                "«Nunca más oraré»",
+                "«El Señor dio, y el Señor quitó: sea bendito»",
+                "No dijo nada"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué hicieron sus amigos al llegar?",
+              "opciones": [
+                "Se burlaron de él",
+                "Se sentaron con él siete días en silencio",
+                "Le pidieron dinero",
+                "Se fueron enseguida"
+              ],
+              "correcta": 1,
+              "explicacion": "Veían que su dolor era muy grande (Job 2:13)."
+            },
+            {
+              "texto": "¿Desde dónde respondió Dios a Job?",
+              "opciones": [
+                "Desde una zarza",
+                "Desde el templo",
+                "Desde un torbellino",
+                "Desde un barco"
+              ],
+              "correcta": 2,
+              "explicacion": "Job 38:1."
+            },
+            {
+              "texto": "¿Qué pasó cuando Job oró por sus amigos?",
+              "opciones": [
+                "Nada cambió",
+                "Sus amigos se enojaron",
+                "Se fue a vivir lejos",
+                "Dios le devolvió el doble"
+              ],
+              "correcta": 3,
+              "explicacion": "Job 42:10."
+            }
           ]
         }
       }
@@ -88,9 +222,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la historia de Job.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["JOB", "DIOS", "ORAR"], "diagonales": false, "seed": 1011 },
-        "6-8": { "tamano": 6, "palabras": ["JOB", "DIOS", "AMIGOS", "OVEJA"], "diagonales": false, "seed": 1012 },
-        "9-12": { "tamano": 10, "palabras": ["JOB", "CAMELLOS", "OVEJAS", "AMIGOS", "CENIZA", "CONFIAR", "ELIFAZ", "TORBELLINO"], "diagonales": true, "seed": 1013 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "JOB",
+            "DIOS",
+            "ORAR"
+          ],
+          "diagonales": false,
+          "seed": 1011
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "JOB",
+            "DIOS",
+            "AMIGOS",
+            "OVEJA"
+          ],
+          "diagonales": false,
+          "seed": 1012
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "JOB",
+            "CAMELLOS",
+            "OVEJAS",
+            "AMIGOS",
+            "CENIZA",
+            "CONFIAR",
+            "ELIFAZ",
+            "TORBELLINO"
+          ],
+          "diagonales": true,
+          "seed": 1013
+        }
       }
     }
   ],

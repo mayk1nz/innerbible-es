@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Dios está conmigo!", "referencia": "Jueces 6:12", "fuente": "adaptado" },
-    "6-8": { "texto": "No tengas miedo: yo estaré contigo.", "referencia": "Jueces 6:16", "fuente": "adaptado" },
-    "9-12": { "texto": "Y el ángel de Jehová se le apareció, y díjole: Jehová es contigo, varón esforzado.", "referencia": "Jueces 6:12", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Dios está conmigo!",
+      "referencia": "Jueces 6:12",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "No tengas miedo: yo estaré contigo.",
+      "referencia": "Jueces 6:16",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y el ángel de Jehová se le apareció, y díjole: Jehová es contigo, varón esforzado.",
+      "referencia": "Jueces 6:12",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["Gedeón", "la antorcha"],
-            ["la lana", "el rocío"],
-            ["la trompeta", "¡tuuu!"]
+            [
+              "Gedeón",
+              "la antorcha"
+            ],
+            [
+              "la lana",
+              "el rocío"
+            ],
+            [
+              "la trompeta",
+              "¡tuuu!"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Gedeón", "el lagar"],
-            ["la lana", "el rocío"],
-            ["300", "soldados"],
-            ["el cántaro", "la antorcha"],
-            ["el sueño", "el pan de cebada"],
-            ["el ángel", "«¡Valiente!»"]
+            [
+              "Gedeón",
+              "el lagar"
+            ],
+            [
+              "la lana",
+              "el rocío"
+            ],
+            [
+              "300",
+              "soldados"
+            ],
+            [
+              "el cántaro",
+              "la antorcha"
+            ],
+            [
+              "el sueño",
+              "el pan de cebada"
+            ],
+            [
+              "el ángel",
+              "«¡Valiente!»"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Gedeón", "el menor de su familia"],
-            ["el vellón", "la señal"],
-            ["32.000", "demasiados"],
-            ["300", "bebieron con la mano"],
-            ["el sueño", "el pan de cebada"],
-            ["los cántaros", "las antorchas"],
-            ["los madianitas", "como langostas"],
-            ["el grito", "«¡La espada del Señor!»"]
+            [
+              "Gedeón",
+              "el menor de su familia"
+            ],
+            [
+              "el vellón",
+              "la señal"
+            ],
+            [
+              "32.000",
+              "demasiados"
+            ],
+            [
+              "300",
+              "bebieron con la mano"
+            ],
+            [
+              "el sueño",
+              "el pan de cebada"
+            ],
+            [
+              "los cántaros",
+              "las antorchas"
+            ],
+            [
+              "los madianitas",
+              "como langostas"
+            ],
+            [
+              "el grito",
+              "«¡La espada del Señor!»"
+            ]
           ]
         }
       }
@@ -92,7 +155,11 @@
       "enunciado": "Pon en orden la historia de Gedeón.",
       "niveles": {
         "3-5": {
-          "items": ["Un ángel visita a Gedeón", "Quedan trescientos soldados", "¡Trompetas y luces!"]
+          "items": [
+            "Un ángel visita a Gedeón",
+            "Quedan trescientos soldados",
+            "¡Trompetas y luces!"
+          ]
         },
         "6-8": {
           "items": [

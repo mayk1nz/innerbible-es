@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me ve y me cuida.", "referencia": "Éxodo 2:25", "fuente": "adaptado" },
-    "6-8": { "texto": "Dios escuchó a su pueblo y se acordó de su promesa.", "referencia": "Éxodo 2:24", "fuente": "adaptado" },
-    "9-12": { "texto": "Así, no es la voluntad de vuestro Padre que está en los cielos, que se pierda uno de estos pequeños.", "referencia": "Mateo 18:14", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me ve y me cuida.",
+      "referencia": "Éxodo 2:25",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dios escuchó a su pueblo y se acordó de su promesa.",
+      "referencia": "Éxodo 2:24",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Así, no es la voluntad de vuestro Padre que está en los cielos, que se pierda uno de estos pequeños.",
+      "referencia": "Mateo 18:14",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -90,31 +102,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["el bebé", "la canasta"],
-            ["la princesa", "el río"],
-            ["la hermana", "«¡Yo la busco!»"]
+            [
+              "el bebé",
+              "la canasta"
+            ],
+            [
+              "la princesa",
+              "el río"
+            ],
+            [
+              "la hermana",
+              "«¡Yo la busco!»"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["el bebé", "la canasta"],
-            ["la hermana", "mira de lejos"],
-            ["la princesa", "el río"],
-            ["la mamá", "lo esconde"],
-            ["Moisés", "«sacado del agua»"],
-            ["la brea", "no entra el agua"]
+            [
+              "el bebé",
+              "la canasta"
+            ],
+            [
+              "la hermana",
+              "mira de lejos"
+            ],
+            [
+              "la princesa",
+              "el río"
+            ],
+            [
+              "la mamá",
+              "lo esconde"
+            ],
+            [
+              "Moisés",
+              "«sacado del agua»"
+            ],
+            [
+              "la brea",
+              "no entra el agua"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Moisés", "«de las aguas lo saqué»"],
-            ["la arquilla", "juncos, betún y brea"],
-            ["la hermana", "«¿Iré a llamarte un ama?»"],
-            ["la hija del faraón", "tuvo compasión"],
-            ["Jocabed", "la madre de Moisés"],
-            ["Leví", "la tribu de la familia"],
-            ["tres meses", "escondido en casa"],
-            ["el carrizal", "la orilla del río"]
+            [
+              "Moisés",
+              "«de las aguas lo saqué»"
+            ],
+            [
+              "la arquilla",
+              "juncos, betún y brea"
+            ],
+            [
+              "la hermana",
+              "«¿Iré a llamarte un ama?»"
+            ],
+            [
+              "la hija del faraón",
+              "tuvo compasión"
+            ],
+            [
+              "Jocabed",
+              "la madre de Moisés"
+            ],
+            [
+              "Leví",
+              "la tribu de la familia"
+            ],
+            [
+              "tres meses",
+              "escondido en casa"
+            ],
+            [
+              "el carrizal",
+              "la orilla del río"
+            ]
           ]
         }
       }

@@ -47,18 +47,63 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me busca y se alegra conmigo.", "referencia": "Lucas 15:4-6", "fuente": "adaptado" },
-    "6-8": { "texto": "Alégrense conmigo, porque encontré la oveja que se había perdido.", "referencia": "Lucas 15:6", "fuente": "adaptado" },
-    "9-12": { "texto": "Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen.", "referencia": "Juan 10:14", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me busca y se alegra conmigo.",
+      "referencia": "Lucas 15:4-6",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Alégrense conmigo, porque encontré la oveja que se había perdido.",
+      "referencia": "Lucas 15:6",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen.",
+      "referencia": "Juan 10:14",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "sopa",
       "enunciado": "¡Ayuda al pastor! Busca las palabras escondidas.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["OVEJA", "CASA", "DIOS"], "diagonales": false, "seed": 1534 },
-        "6-8": { "tamano": 6, "palabras": ["OVEJA", "PASTOR", "CIEN", "FIESTA"], "diagonales": false, "seed": 15347 },
-        "9-12": { "tamano": 10, "palabras": ["PASTOR", "OVEJA", "NOVENTA", "HOMBROS", "VECINOS", "AMIGOS", "GOZO", "CIELO"], "diagonales": true, "seed": 153407 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "OVEJA",
+            "CASA",
+            "DIOS"
+          ],
+          "diagonales": false,
+          "seed": 1534
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "OVEJA",
+            "PASTOR",
+            "CIEN",
+            "FIESTA"
+          ],
+          "diagonales": false,
+          "seed": 15347
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "PASTOR",
+            "OVEJA",
+            "NOVENTA",
+            "HOMBROS",
+            "VECINOS",
+            "AMIGOS",
+            "GOZO",
+            "CIELO"
+          ],
+          "diagonales": true,
+          "seed": 153407
+        }
       }
     },
     {
@@ -67,28 +112,157 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Cuántas ovejas tenía el pastor?", "opciones": ["Cien", "Dos"], "correcta": 0, "explicacion": "¡Cien ovejas!" },
-            { "texto": "¿Qué hizo el pastor cuando se perdió una?", "opciones": ["Se fue a dormir", "La buscó"], "correcta": 1, "explicacion": "La buscó hasta encontrarla." },
-            { "texto": "¿Cómo llevó a la oveja a casa?", "opciones": ["Sobre sus hombros", "En un carro"], "correcta": 0, "explicacion": "La cargó sobre sus hombros, muy feliz." }
+            {
+              "texto": "¿Cuántas ovejas tenía el pastor?",
+              "opciones": [
+                "Cien",
+                "Dos"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Cien ovejas!"
+            },
+            {
+              "texto": "¿Qué hizo el pastor cuando se perdió una?",
+              "opciones": [
+                "Se fue a dormir",
+                "La buscó"
+              ],
+              "correcta": 1,
+              "explicacion": "La buscó hasta encontrarla."
+            },
+            {
+              "texto": "¿Cómo llevó a la oveja a casa?",
+              "opciones": [
+                "Sobre sus hombros",
+                "En un carro"
+              ],
+              "correcta": 0,
+              "explicacion": "La cargó sobre sus hombros, muy feliz."
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Cuántas ovejas se quedaron en el campo?", "opciones": ["Diez", "Noventa y nueve", "Cincuenta"], "correcta": 1, "explicacion": "Noventa y nueve se quedaron; una se había perdido." },
-            { "texto": "¿Hasta cuándo buscó el pastor?", "opciones": ["Hasta la hora de comer", "Un ratito", "Hasta encontrarla"], "correcta": 2, "explicacion": "No se rindió hasta encontrarla." },
-            { "texto": "¿Cómo se sintió el pastor al encontrarla?", "opciones": ["Enojado", "Lleno de alegría", "Cansado y triste"], "correcta": 1, "explicacion": "La puso sobre sus hombros, lleno de alegría." },
-            { "texto": "¿A quiénes llamó al llegar a casa?", "opciones": ["A sus amigos y vecinos", "A los soldados", "A nadie"], "correcta": 0, "explicacion": "Les dijo: «¡Alégrense conmigo!»." },
-            { "texto": "¿Quién se alegra cuando alguien vuelve a Dios?", "opciones": ["Nadie", "Solo el pastor", "Todo el cielo"], "correcta": 2, "explicacion": "Jesús dijo que hay alegría en el cielo." }
+            {
+              "texto": "¿Cuántas ovejas se quedaron en el campo?",
+              "opciones": [
+                "Diez",
+                "Noventa y nueve",
+                "Cincuenta"
+              ],
+              "correcta": 1,
+              "explicacion": "Noventa y nueve se quedaron; una se había perdido."
+            },
+            {
+              "texto": "¿Hasta cuándo buscó el pastor?",
+              "opciones": [
+                "Hasta la hora de comer",
+                "Un ratito",
+                "Hasta encontrarla"
+              ],
+              "correcta": 2,
+              "explicacion": "No se rindió hasta encontrarla."
+            },
+            {
+              "texto": "¿Cómo se sintió el pastor al encontrarla?",
+              "opciones": [
+                "Enojado",
+                "Lleno de alegría",
+                "Cansado y triste"
+              ],
+              "correcta": 1,
+              "explicacion": "La puso sobre sus hombros, lleno de alegría."
+            },
+            {
+              "texto": "¿A quiénes llamó al llegar a casa?",
+              "opciones": [
+                "A sus amigos y vecinos",
+                "A los soldados",
+                "A nadie"
+              ],
+              "correcta": 0,
+              "explicacion": "Les dijo: «¡Alégrense conmigo!»."
+            },
+            {
+              "texto": "¿Quién se alegra cuando alguien vuelve a Dios?",
+              "opciones": [
+                "Nadie",
+                "Solo el pastor",
+                "Todo el cielo"
+              ],
+              "correcta": 2,
+              "explicacion": "Jesús dijo que hay alegría en el cielo."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Por qué murmuraban algunos fariseos y escribas?", "opciones": ["Porque Jesús comía con pecadores", "Porque Jesús no oraba", "Porque llovía", "Porque Jesús cobraba impuestos"], "correcta": 0, "explicacion": "«Este a los pecadores recibe, y con ellos come» (Lucas 15:2)." },
-            { "texto": "¿Dónde dejó el pastor a las noventa y nueve?", "opciones": ["En el templo", "En el desierto", "En el mar", "En la ciudad"], "correcta": 1, "explicacion": "Las dejó «en el desierto», es decir, en el campo abierto (Lucas 15:4)." },
-            { "texto": "¿Hasta cuándo busca el pastor?", "opciones": ["Hasta el anochecer", "Tres días", "Hasta que la halla", "Hasta cansarse"], "correcta": 2, "explicacion": "«Hasta que la halle» (Lucas 15:4)." },
-            { "texto": "¿Cuántas historias de cosas perdidas cuenta Jesús en Lucas 15?", "opciones": ["Una", "Dos", "Tres", "Siete"], "correcta": 2, "explicacion": "La oveja, la moneda y el hijo perdidos." },
-            { "texto": "¿Qué pide el pastor a amigos y vecinos?", "opciones": ["Que lo ayuden a vender", "Que se alegren con él", "Que cuiden el rebaño", "Que guarden silencio"], "correcta": 1, "explicacion": "«Dadme el parabién», es decir, alégrense conmigo (Lucas 15:6)." },
-            { "texto": "Según Jesús, ¿qué causa gozo en el cielo?", "opciones": ["Un pecador que se arrepiente", "Un rebaño grande", "Una fiesta en el pueblo", "Un pastor rico"], "correcta": 0, "explicacion": "Así lo dice Jesús en Lucas 15:7." }
+            {
+              "texto": "¿Por qué murmuraban algunos fariseos y escribas?",
+              "opciones": [
+                "Porque Jesús comía con pecadores",
+                "Porque Jesús no oraba",
+                "Porque llovía",
+                "Porque Jesús cobraba impuestos"
+              ],
+              "correcta": 0,
+              "explicacion": "«Este a los pecadores recibe, y con ellos come» (Lucas 15:2)."
+            },
+            {
+              "texto": "¿Dónde dejó el pastor a las noventa y nueve?",
+              "opciones": [
+                "En el templo",
+                "En el desierto",
+                "En el mar",
+                "En la ciudad"
+              ],
+              "correcta": 1,
+              "explicacion": "Las dejó «en el desierto», es decir, en el campo abierto (Lucas 15:4)."
+            },
+            {
+              "texto": "¿Hasta cuándo busca el pastor?",
+              "opciones": [
+                "Hasta el anochecer",
+                "Tres días",
+                "Hasta que la halla",
+                "Hasta cansarse"
+              ],
+              "correcta": 2,
+              "explicacion": "«Hasta que la halle» (Lucas 15:4)."
+            },
+            {
+              "texto": "¿Cuántas historias de cosas perdidas cuenta Jesús en Lucas 15?",
+              "opciones": [
+                "Una",
+                "Dos",
+                "Tres",
+                "Siete"
+              ],
+              "correcta": 2,
+              "explicacion": "La oveja, la moneda y el hijo perdidos."
+            },
+            {
+              "texto": "¿Qué pide el pastor a amigos y vecinos?",
+              "opciones": [
+                "Que lo ayuden a vender",
+                "Que se alegren con él",
+                "Que cuiden el rebaño",
+                "Que guarden silencio"
+              ],
+              "correcta": 1,
+              "explicacion": "«Dadme el parabién», es decir, alégrense conmigo (Lucas 15:6)."
+            },
+            {
+              "texto": "Según Jesús, ¿qué causa gozo en el cielo?",
+              "opciones": [
+                "Un pecador que se arrepiente",
+                "Un rebaño grande",
+                "Una fiesta en el pueblo",
+                "Un pastor rico"
+              ],
+              "correcta": 0,
+              "explicacion": "Así lo dice Jesús en Lucas 15:7."
+            }
           ]
         }
       }

@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios cumple lo que dice.", "referencia": "Josué 6:2", "fuente": "adaptado" },
-    "6-8": { "texto": "Mira: yo te he entregado la ciudad. Confía en mí.", "referencia": "Josué 6:2", "fuente": "adaptado" },
-    "9-12": { "texto": "Por fe cayeron los muros de Jericó con rodearlos siete días.", "referencia": "Hebreos 11:30", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios cumple lo que dice.",
+      "referencia": "Josué 6:2",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Mira: yo te he entregado la ciudad. Confía en mí.",
+      "referencia": "Josué 6:2",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Por fe cayeron los muros de Jericó con rodearlos siete días.",
+      "referencia": "Hebreos 11:30",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -57,7 +69,11 @@
       "enunciado": "¿Qué pasó primero? Pon la historia de Jericó en orden.",
       "niveles": {
         "3-5": {
-          "items": ["Las murallas están cerradas", "Caminan y tocan las trompetas", "¡Las murallas caen!"]
+          "items": [
+            "Las murallas están cerradas",
+            "Caminan y tocan las trompetas",
+            "¡Las murallas caen!"
+          ]
         },
         "6-8": {
           "items": [
@@ -86,28 +102,150 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué tocaban los sacerdotes?", "opciones": ["Trompetas", "Tambores"], "correcta": 0 },
-            { "texto": "¿Cuántas vueltas dieron el último día?", "opciones": ["Una", "Siete"], "correcta": 1 },
-            { "texto": "¿Qué pasó con las murallas?", "opciones": ["Se cayeron", "Crecieron"], "correcta": 0 }
+            {
+              "texto": "¿Qué tocaban los sacerdotes?",
+              "opciones": [
+                "Trompetas",
+                "Tambores"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Cuántas vueltas dieron el último día?",
+              "opciones": [
+                "Una",
+                "Siete"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué pasó con las murallas?",
+              "opciones": [
+                "Se cayeron",
+                "Crecieron"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Quién guiaba al pueblo en Jericó?", "opciones": ["Moisés", "Josué", "David"], "correcta": 1 },
-            { "texto": "¿De qué eran las trompetas?", "opciones": ["De cuerno de carnero", "De oro", "De madera"], "correcta": 0 },
-            { "texto": "¿Cuántos días marcharon en total?", "opciones": ["Tres", "Siete", "Cuarenta"], "correcta": 1 },
-            { "texto": "¿Qué no podían hacer mientras caminaban?", "opciones": ["Hablar ni gritar", "Comer", "Mirar la muralla"], "correcta": 0, "explicacion": "Josué les pidió silencio hasta el último día." },
-            { "texto": "¿Quiénes salieron a salvo de Jericó?", "opciones": ["El rey y sus soldados", "Rahab y su familia", "Nadie"], "correcta": 1, "explicacion": "Rahab había ayudado a los espías de Israel." }
+            {
+              "texto": "¿Quién guiaba al pueblo en Jericó?",
+              "opciones": [
+                "Moisés",
+                "Josué",
+                "David"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿De qué eran las trompetas?",
+              "opciones": [
+                "De cuerno de carnero",
+                "De oro",
+                "De madera"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Cuántos días marcharon en total?",
+              "opciones": [
+                "Tres",
+                "Siete",
+                "Cuarenta"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué no podían hacer mientras caminaban?",
+              "opciones": [
+                "Hablar ni gritar",
+                "Comer",
+                "Mirar la muralla"
+              ],
+              "correcta": 0,
+              "explicacion": "Josué les pidió silencio hasta el último día."
+            },
+            {
+              "texto": "¿Quiénes salieron a salvo de Jericó?",
+              "opciones": [
+                "El rey y sus soldados",
+                "Rahab y su familia",
+                "Nadie"
+              ],
+              "correcta": 1,
+              "explicacion": "Rahab había ayudado a los espías de Israel."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "Además de las trompetas, ¿qué llevaban en la marcha?", "opciones": ["El arca del pacto", "Carros de guerra", "Escaleras", "Arietes"], "correcta": 0, "explicacion": "El arca recordaba que Dios iba con su pueblo (Josué 6:6)." },
-            { "texto": "Contando los siete días, ¿cuántas vueltas dieron en total?", "opciones": ["7", "13", "14", "49"], "correcta": 1, "explicacion": "Seis días una vuelta, y el séptimo, siete: 13 vueltas." },
-            { "texto": "¿Por qué el pueblo debía callar?", "opciones": ["Para no despertar al rey", "Para obedecer a Josué hasta la señal", "Porque tenían miedo", "Porque era de noche"], "correcta": 1, "explicacion": "Josué 6:10: gritarían solo cuando él lo dijera." },
-            { "texto": "¿Por qué fue rescatada Rahab?", "opciones": ["Porque era rica", "Porque abrió las puertas", "Porque escondió a los espías y confió en Dios", "Porque era de Israel"], "correcta": 2, "explicacion": "Josué 6:25." },
-            { "texto": "Según Hebreos 11:30, ¿cómo cayeron los muros?", "opciones": ["Por fe", "Por la fuerza de los soldados", "Por un viento fuerte", "Por casualidad"], "correcta": 0 },
-            { "texto": "¿Quién le dio el plan a Josué?", "opciones": ["Rahab", "Los espías", "El Señor", "Los sacerdotes"], "correcta": 2, "explicacion": "Josué 6:2-5." }
+            {
+              "texto": "Además de las trompetas, ¿qué llevaban en la marcha?",
+              "opciones": [
+                "El arca del pacto",
+                "Carros de guerra",
+                "Escaleras",
+                "Arietes"
+              ],
+              "correcta": 0,
+              "explicacion": "El arca recordaba que Dios iba con su pueblo (Josué 6:6)."
+            },
+            {
+              "texto": "Contando los siete días, ¿cuántas vueltas dieron en total?",
+              "opciones": [
+                "7",
+                "13",
+                "14",
+                "49"
+              ],
+              "correcta": 1,
+              "explicacion": "Seis días una vuelta, y el séptimo, siete: 13 vueltas."
+            },
+            {
+              "texto": "¿Por qué el pueblo debía callar?",
+              "opciones": [
+                "Para no despertar al rey",
+                "Para obedecer a Josué hasta la señal",
+                "Porque tenían miedo",
+                "Porque era de noche"
+              ],
+              "correcta": 1,
+              "explicacion": "Josué 6:10: gritarían solo cuando él lo dijera."
+            },
+            {
+              "texto": "¿Por qué fue rescatada Rahab?",
+              "opciones": [
+                "Porque era rica",
+                "Porque abrió las puertas",
+                "Porque escondió a los espías y confió en Dios",
+                "Porque era de Israel"
+              ],
+              "correcta": 2,
+              "explicacion": "Josué 6:25."
+            },
+            {
+              "texto": "Según Hebreos 11:30, ¿cómo cayeron los muros?",
+              "opciones": [
+                "Por fe",
+                "Por la fuerza de los soldados",
+                "Por un viento fuerte",
+                "Por casualidad"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Quién le dio el plan a Josué?",
+              "opciones": [
+                "Rahab",
+                "Los espías",
+                "El Señor",
+                "Los sacerdotes"
+              ],
+              "correcta": 2,
+              "explicacion": "Josué 6:2-5."
+            }
           ]
         }
       }

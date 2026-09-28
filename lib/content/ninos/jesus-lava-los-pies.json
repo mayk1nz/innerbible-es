@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Jesús me enseña a ayudar a los demás.", "referencia": "Juan 13:15", "fuente": "adaptado" },
-    "6-8": { "texto": "Les he dado ejemplo, para que hagan lo mismo que yo he hecho con ustedes.", "referencia": "Juan 13:15", "fuente": "adaptado" },
-    "9-12": { "texto": "Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis.", "referencia": "Juan 13:15", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Jesús me enseña a ayudar a los demás.",
+      "referencia": "Juan 13:15",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Les he dado ejemplo, para que hagan lo mismo que yo he hecho con ustedes.",
+      "referencia": "Juan 13:15",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis.",
+      "referencia": "Juan 13:15",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,148 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué lavó Jesús a sus amigos?", "opciones": ["Los pies", "La ropa"], "correcta": 0 },
-            { "texto": "¿Qué usó Jesús para secarlos?", "opciones": ["Una toalla", "Una hoja"], "correcta": 0 },
-            { "texto": "¿Qué nos enseña Jesús?", "opciones": ["A ayudar a los demás", "A pelear"], "correcta": 0 }
+            {
+              "texto": "¿Qué lavó Jesús a sus amigos?",
+              "opciones": [
+                "Los pies",
+                "La ropa"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué usó Jesús para secarlos?",
+              "opciones": [
+                "Una toalla",
+                "Una hoja"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué nos enseña Jesús?",
+              "opciones": [
+                "A ayudar a los demás",
+                "A pelear"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Qué fiesta estaba cerca?", "opciones": ["La Pascua", "Una boda", "Un cumpleaños"], "correcta": 0 },
-            { "texto": "¿Qué se ató Jesús a la cintura?", "opciones": ["Una cuerda", "Una toalla", "Un cinturón de oro"], "correcta": 1 },
-            { "texto": "¿Qué dijo Pedro al principio?", "opciones": ["«¡Qué bien!»", "«¡Nunca me lavarás los pies!»", "«Lava primero a Juan»"], "correcta": 1 },
-            { "texto": "¿A quién le lavó Jesús los pies?", "opciones": ["Solo a Pedro", "Solo a los buenos", "A todos, también a Judas"], "correcta": 2, "explicacion": "Jesús sabía que Judas lo traicionaría, y aun así le lavó los pies." },
-            { "texto": "¿Qué quería enseñar Jesús?", "opciones": ["Que nos sirvamos unos a otros", "Que siempre hay que tener los pies limpios", "Que el más importante manda"], "correcta": 0 }
+            {
+              "texto": "¿Qué fiesta estaba cerca?",
+              "opciones": [
+                "La Pascua",
+                "Una boda",
+                "Un cumpleaños"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué se ató Jesús a la cintura?",
+              "opciones": [
+                "Una cuerda",
+                "Una toalla",
+                "Un cinturón de oro"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué dijo Pedro al principio?",
+              "opciones": [
+                "«¡Qué bien!»",
+                "«¡Nunca me lavarás los pies!»",
+                "«Lava primero a Juan»"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿A quién le lavó Jesús los pies?",
+              "opciones": [
+                "Solo a Pedro",
+                "Solo a los buenos",
+                "A todos, también a Judas"
+              ],
+              "correcta": 2,
+              "explicacion": "Jesús sabía que Judas lo traicionaría, y aun así le lavó los pies."
+            },
+            {
+              "texto": "¿Qué quería enseñar Jesús?",
+              "opciones": [
+                "Que nos sirvamos unos a otros",
+                "Que siempre hay que tener los pies limpios",
+                "Que el más importante manda"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "Según Juan 13:1, ¿cómo amó Jesús a los suyos?", "opciones": ["Solo cuando se portaban bien", "Hasta el fin", "Un poco más que antes", "Como a siervos"], "correcta": 1 },
-            { "texto": "¿En qué puso Jesús el agua?", "opciones": ["En una tinaja de piedra", "En un lebrillo", "En un cáliz", "En un odre"], "correcta": 1, "explicacion": "Un lebrillo es un recipiente ancho y bajo (Juan 13:5)." },
-            { "texto": "¿Quién solía lavar los pies de los invitados?", "opciones": ["El dueño de la casa", "Un siervo", "El sacerdote", "Nadie"], "correcta": 1, "explicacion": "Era la tarea más humilde, y Jesús la hizo." },
-            { "texto": "¿Qué respondió Jesús cuando Pedro dijo «No me lavarás los pies jamás»?", "opciones": ["«Entonces lávalos tú»", "«Si no te lavare, no tendrás parte conmigo»", "«Tienes razón»", "«Mañana lo haré»"], "correcta": 1 },
-            { "texto": "¿Qué quiso decir Jesús con «No estáis limpios todos»?", "opciones": ["Que faltaba agua", "Que Judas lo iba a entregar", "Que Pedro no se había bañado", "Que debían lavarse las manos"], "correcta": 1, "explicacion": "«Porque sabía quién le había de entregar» (Juan 13:11)." },
-            { "texto": "¿Cuándo dice Jesús que seremos bienaventurados?", "opciones": ["Si sabemos muchas cosas", "Si comemos juntos", "Si hacemos lo que Él enseñó", "Si nadie nos ve"], "correcta": 2, "explicacion": "«Bienaventurados seréis, si las hiciereis» (Juan 13:17)." }
+            {
+              "texto": "Según Juan 13:1, ¿cómo amó Jesús a los suyos?",
+              "opciones": [
+                "Solo cuando se portaban bien",
+                "Hasta el fin",
+                "Un poco más que antes",
+                "Como a siervos"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿En qué puso Jesús el agua?",
+              "opciones": [
+                "En una tinaja de piedra",
+                "En un lebrillo",
+                "En un cáliz",
+                "En un odre"
+              ],
+              "correcta": 1,
+              "explicacion": "Un lebrillo es un recipiente ancho y bajo (Juan 13:5)."
+            },
+            {
+              "texto": "¿Quién solía lavar los pies de los invitados?",
+              "opciones": [
+                "El dueño de la casa",
+                "Un siervo",
+                "El sacerdote",
+                "Nadie"
+              ],
+              "correcta": 1,
+              "explicacion": "Era la tarea más humilde, y Jesús la hizo."
+            },
+            {
+              "texto": "¿Qué respondió Jesús cuando Pedro dijo «No me lavarás los pies jamás»?",
+              "opciones": [
+                "«Entonces lávalos tú»",
+                "«Si no te lavare, no tendrás parte conmigo»",
+                "«Tienes razón»",
+                "«Mañana lo haré»"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué quiso decir Jesús con «No estáis limpios todos»?",
+              "opciones": [
+                "Que faltaba agua",
+                "Que Judas lo iba a entregar",
+                "Que Pedro no se había bañado",
+                "Que debían lavarse las manos"
+              ],
+              "correcta": 1,
+              "explicacion": "«Porque sabía quién le había de entregar» (Juan 13:11)."
+            },
+            {
+              "texto": "¿Cuándo dice Jesús que seremos bienaventurados?",
+              "opciones": [
+                "Si sabemos muchas cosas",
+                "Si comemos juntos",
+                "Si hacemos lo que Él enseñó",
+                "Si nadie nos ve"
+              ],
+              "correcta": 2,
+              "explicacion": "«Bienaventurados seréis, si las hiciereis» (Juan 13:17)."
+            }
           ]
         }
       }
@@ -90,31 +222,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["Jesús", "la toalla"],
-            ["el agua", "los pies"],
-            ["Pedro", "«¡No, Jesús!»"]
+            [
+              "Jesús",
+              "la toalla"
+            ],
+            [
+              "el agua",
+              "los pies"
+            ],
+            [
+              "Pedro",
+              "«¡No, Jesús!»"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Jesús", "lava los pies"],
-            ["Pedro", "«¡Nunca!»"],
-            ["Judas", "también le lavó los pies"],
-            ["la toalla", "atada a la cintura"],
-            ["la Pascua", "la fiesta que se acercaba"],
-            ["el ejemplo", "sírvanse unos a otros"]
+            [
+              "Jesús",
+              "lava los pies"
+            ],
+            [
+              "Pedro",
+              "«¡Nunca!»"
+            ],
+            [
+              "Judas",
+              "también le lavó los pies"
+            ],
+            [
+              "la toalla",
+              "atada a la cintura"
+            ],
+            [
+              "la Pascua",
+              "la fiesta que se acercaba"
+            ],
+            [
+              "el ejemplo",
+              "sírvanse unos a otros"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Juan 13:1", "los amó hasta el fin"],
-            ["el lebrillo", "recipiente para el agua"],
-            ["la toalla", "Jesús se la ciñó"],
-            ["Pedro", "«No me lavarás los pies jamás»"],
-            ["«lo entenderás después»", "respuesta de Jesús a Pedro"],
-            ["Judas", "«No estáis limpios todos»"],
-            ["Maestro y Señor", "así llamaban a Jesús"],
-            ["bienaventurados", "si las hiciereis"]
+            [
+              "Juan 13:1",
+              "los amó hasta el fin"
+            ],
+            [
+              "el lebrillo",
+              "recipiente para el agua"
+            ],
+            [
+              "la toalla",
+              "Jesús se la ciñó"
+            ],
+            [
+              "Pedro",
+              "«No me lavarás los pies jamás»"
+            ],
+            [
+              "«lo entenderás después»",
+              "respuesta de Jesús a Pedro"
+            ],
+            [
+              "Judas",
+              "«No estáis limpios todos»"
+            ],
+            [
+              "Maestro y Señor",
+              "así llamaban a Jesús"
+            ],
+            [
+              "bienaventurados",
+              "si las hiciereis"
+            ]
           ]
         }
       }

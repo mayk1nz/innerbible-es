@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Con Jesús, lo poco alcanza para todos.", "referencia": "Juan 6:11-13", "fuente": "adaptado" },
-    "6-8": { "texto": "Jesús tomó los panes, dio gracias y los repartió: todos comieron lo que quisieron.", "referencia": "Juan 6:11", "fuente": "adaptado" },
-    "9-12": { "texto": "Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos; ¿mas qué es esto entre tantos?", "referencia": "Juan 6:9", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Con Jesús, lo poco alcanza para todos.",
+      "referencia": "Juan 6:11-13",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Jesús tomó los panes, dio gracias y los repartió: todos comieron lo que quisieron.",
+      "referencia": "Juan 6:11",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos; ¿mas qué es esto entre tantos?",
+      "referencia": "Juan 6:9",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,157 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Cuántos panes tenía el niño?", "opciones": ["Cinco panes", "Cien panes"], "correcta": 0, "explicacion": "Tenía cinco panes y dos pescaditos." },
-            { "texto": "¿Qué hizo Jesús antes de repartir?", "opciones": ["Se fue a dormir", "Dio gracias a Dios"], "correcta": 1, "explicacion": "Jesús dio gracias a Dios por la comida." },
-            { "texto": "¿Alcanzó la comida para todos?", "opciones": ["¡Sí, y sobró!", "No, faltó"], "correcta": 0, "explicacion": "¡Sobraron doce canastas!" }
+            {
+              "texto": "¿Cuántos panes tenía el niño?",
+              "opciones": [
+                "Cinco panes",
+                "Cien panes"
+              ],
+              "correcta": 0,
+              "explicacion": "Tenía cinco panes y dos pescaditos."
+            },
+            {
+              "texto": "¿Qué hizo Jesús antes de repartir?",
+              "opciones": [
+                "Se fue a dormir",
+                "Dio gracias a Dios"
+              ],
+              "correcta": 1,
+              "explicacion": "Jesús dio gracias a Dios por la comida."
+            },
+            {
+              "texto": "¿Alcanzó la comida para todos?",
+              "opciones": [
+                "¡Sí, y sobró!",
+                "No, faltó"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Sobraron doce canastas!"
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿A quién le preguntó Jesús dónde comprar pan?", "opciones": ["A Pedro", "A Felipe", "A Juan"], "correcta": 1, "explicacion": "Se lo preguntó a Felipe, para ponerlo a prueba." },
-            { "texto": "¿Quién habló del muchacho que tenía panes?", "opciones": ["Andrés", "Tomás", "Zaqueo"], "correcta": 0, "explicacion": "Andrés, el hermano de Pedro." },
-            { "texto": "¿Qué tenía el muchacho?", "opciones": ["Tres panes y un pez", "Diez panes", "Cinco panes y dos pescados"], "correcta": 2, "explicacion": "Cinco panes y dos pescados: ¡poquito para tanta gente!" },
-            { "texto": "¿Dónde se sentó la gente?", "opciones": ["En la hierba", "En sillas", "En un barco"], "correcta": 0, "explicacion": "Había mucha hierba en aquel lugar." },
-            { "texto": "¿Cuántas canastas sobraron?", "opciones": ["Dos", "Siete", "Doce"], "correcta": 2, "explicacion": "¡Doce canastas llenas de pedazos!" }
+            {
+              "texto": "¿A quién le preguntó Jesús dónde comprar pan?",
+              "opciones": [
+                "A Pedro",
+                "A Felipe",
+                "A Juan"
+              ],
+              "correcta": 1,
+              "explicacion": "Se lo preguntó a Felipe, para ponerlo a prueba."
+            },
+            {
+              "texto": "¿Quién habló del muchacho que tenía panes?",
+              "opciones": [
+                "Andrés",
+                "Tomás",
+                "Zaqueo"
+              ],
+              "correcta": 0,
+              "explicacion": "Andrés, el hermano de Pedro."
+            },
+            {
+              "texto": "¿Qué tenía el muchacho?",
+              "opciones": [
+                "Tres panes y un pez",
+                "Diez panes",
+                "Cinco panes y dos pescados"
+              ],
+              "correcta": 2,
+              "explicacion": "Cinco panes y dos pescados: ¡poquito para tanta gente!"
+            },
+            {
+              "texto": "¿Dónde se sentó la gente?",
+              "opciones": [
+                "En la hierba",
+                "En sillas",
+                "En un barco"
+              ],
+              "correcta": 0,
+              "explicacion": "Había mucha hierba en aquel lugar."
+            },
+            {
+              "texto": "¿Cuántas canastas sobraron?",
+              "opciones": [
+                "Dos",
+                "Siete",
+                "Doce"
+              ],
+              "correcta": 2,
+              "explicacion": "¡Doce canastas llenas de pedazos!"
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Qué fiesta estaba cerca?", "opciones": ["La Pascua", "Pentecostés", "La cosecha", "El Año Nuevo"], "correcta": 0, "explicacion": "«Estaba cerca la Pascua» (Juan 6:4)." },
-            { "texto": "¿Por qué Jesús preguntó a Felipe dónde comprar pan?", "opciones": ["Porque no sabía qué hacer", "Para probarlo", "Porque tenía hambre", "Para enviarlo al mercado"], "correcta": 1, "explicacion": "Juan dice que lo hizo «para probarle»; Él ya sabía lo que iba a hacer (Juan 6:6)." },
-            { "texto": "¿De qué eran los panes del muchacho?", "opciones": ["De trigo", "De maíz", "De cebada", "De arroz"], "correcta": 2, "explicacion": "Pan de cebada, el pan sencillo de la gente humilde (Juan 6:9)." },
-            { "texto": "Solo contando a los hombres, ¿cuántos eran?", "opciones": ["Unos quinientos", "Unos cinco mil", "Unos cincuenta mil", "Doce"], "correcta": 1, "explicacion": "Eran como cinco mil varones (Juan 6:10)." },
-            { "texto": "¿Por qué mandó Jesús recoger los pedazos?", "opciones": ["Para venderlos", "Para dárselos a los pájaros", "Para guardarlos para sí", "Para que no se perdiera nada"], "correcta": 3, "explicacion": "«Porque no se pierda nada» (Juan 6:12)." },
-            { "texto": "¿Cómo llama Juan a este milagro?", "opciones": ["Una señal", "Una parábola", "Un sueño", "Una ley"], "correcta": 0, "explicacion": "Una señal: muestra quién es Jesús (Juan 6:14)." }
+            {
+              "texto": "¿Qué fiesta estaba cerca?",
+              "opciones": [
+                "La Pascua",
+                "Pentecostés",
+                "La cosecha",
+                "El Año Nuevo"
+              ],
+              "correcta": 0,
+              "explicacion": "«Estaba cerca la Pascua» (Juan 6:4)."
+            },
+            {
+              "texto": "¿Por qué Jesús preguntó a Felipe dónde comprar pan?",
+              "opciones": [
+                "Porque no sabía qué hacer",
+                "Para probarlo",
+                "Porque tenía hambre",
+                "Para enviarlo al mercado"
+              ],
+              "correcta": 1,
+              "explicacion": "Juan dice que lo hizo «para probarle»; Él ya sabía lo que iba a hacer (Juan 6:6)."
+            },
+            {
+              "texto": "¿De qué eran los panes del muchacho?",
+              "opciones": [
+                "De trigo",
+                "De maíz",
+                "De cebada",
+                "De arroz"
+              ],
+              "correcta": 2,
+              "explicacion": "Pan de cebada, el pan sencillo de la gente humilde (Juan 6:9)."
+            },
+            {
+              "texto": "Solo contando a los hombres, ¿cuántos eran?",
+              "opciones": [
+                "Unos quinientos",
+                "Unos cinco mil",
+                "Unos cincuenta mil",
+                "Doce"
+              ],
+              "correcta": 1,
+              "explicacion": "Eran como cinco mil varones (Juan 6:10)."
+            },
+            {
+              "texto": "¿Por qué mandó Jesús recoger los pedazos?",
+              "opciones": [
+                "Para venderlos",
+                "Para dárselos a los pájaros",
+                "Para guardarlos para sí",
+                "Para que no se perdiera nada"
+              ],
+              "correcta": 3,
+              "explicacion": "«Porque no se pierda nada» (Juan 6:12)."
+            },
+            {
+              "texto": "¿Cómo llama Juan a este milagro?",
+              "opciones": [
+                "Una señal",
+                "Una parábola",
+                "Un sueño",
+                "Una ley"
+              ],
+              "correcta": 0,
+              "explicacion": "Una señal: muestra quién es Jesús (Juan 6:14)."
+            }
           ]
         }
       }
@@ -88,9 +229,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la historia.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["PAN", "PEZ", "NIÑO"], "diagonales": false, "seed": 611 },
-        "6-8": { "tamano": 6, "palabras": ["PANES", "PECES", "FELIPE", "CESTAS"], "diagonales": false, "seed": 6114 },
-        "9-12": { "tamano": 10, "palabras": ["PANES", "PECES", "FELIPE", "ANDRÉS", "CEBADA", "HIERBA", "GRACIAS", "CESTAS"], "diagonales": true, "seed": 61014 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "PAN",
+            "PEZ",
+            "NIÑO"
+          ],
+          "diagonales": false,
+          "seed": 611
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "PANES",
+            "PECES",
+            "FELIPE",
+            "CESTAS"
+          ],
+          "diagonales": false,
+          "seed": 6114
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "PANES",
+            "PECES",
+            "FELIPE",
+            "ANDRÉS",
+            "CEBADA",
+            "HIERBA",
+            "GRACIAS",
+            "CESTAS"
+          ],
+          "diagonales": true,
+          "seed": 61014
+        }
       }
     }
   ],

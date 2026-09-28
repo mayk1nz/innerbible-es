@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios cumple sus promesas.", "referencia": "Génesis 9:13-15", "fuente": "adaptado" },
-    "6-8": { "texto": "Pondré mi arcoíris en las nubes: será la señal de mi promesa.", "referencia": "Génesis 9:13", "fuente": "adaptado" },
-    "9-12": { "texto": "Mi arco pondré en las nubes, el cual será por señal de convenio entre mí y la tierra.", "referencia": "Génesis 9:13", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios cumple sus promesas.",
+      "referencia": "Génesis 9:13-15",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Pondré mi arcoíris en las nubes: será la señal de mi promesa.",
+      "referencia": "Génesis 9:13",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Mi arco pondré en las nubes, el cual será por señal de convenio entre mí y la tierra.",
+      "referencia": "Génesis 9:13",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,29 +70,155 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué construyó Noé?", "opciones": ["Un arca", "Una torre"], "correcta": 0 },
-            { "texto": "¿Cómo entraron los animales?", "opciones": ["De uno en uno", "De dos en dos"], "correcta": 1 },
-            { "texto": "¿Qué trajo la paloma en el pico?", "opciones": ["Una hoja de olivo", "Una piedra"], "correcta": 0 },
-            { "texto": "¿Qué puso Dios en el cielo?", "opciones": ["Una escalera", "Un arcoíris"], "correcta": 1 }
+            {
+              "texto": "¿Qué construyó Noé?",
+              "opciones": [
+                "Un arca",
+                "Una torre"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Cómo entraron los animales?",
+              "opciones": [
+                "De uno en uno",
+                "De dos en dos"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué trajo la paloma en el pico?",
+              "opciones": [
+                "Una hoja de olivo",
+                "Una piedra"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué puso Dios en el cielo?",
+              "opciones": [
+                "Una escalera",
+                "Un arcoíris"
+              ],
+              "correcta": 1
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Cómo era Noé?", "opciones": ["El más fuerte de todos", "Amaba a Dios y hacía el bien", "Un rey muy rico"], "correcta": 1 },
-            { "texto": "¿Cuántas personas entraron en el arca?", "opciones": ["Dos", "Ocho", "Cien"], "correcta": 1, "explicacion": "Noé, su esposa, sus tres hijos y las esposas de sus hijos." },
-            { "texto": "¿Quién cerró la puerta del arca?", "opciones": ["Noé", "Un elefante", "El Señor"], "correcta": 2 },
-            { "texto": "¿Cuántos días y noches llovió?", "opciones": ["Siete", "Cuarenta", "Mil"], "correcta": 1 },
-            { "texto": "¿Qué hizo Noé al salir del arca?", "opciones": ["Construyó un altar y dio gracias a Dios", "Se fue a dormir", "Construyó una casa"], "correcta": 0 }
+            {
+              "texto": "¿Cómo era Noé?",
+              "opciones": [
+                "El más fuerte de todos",
+                "Amaba a Dios y hacía el bien",
+                "Un rey muy rico"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cuántas personas entraron en el arca?",
+              "opciones": [
+                "Dos",
+                "Ocho",
+                "Cien"
+              ],
+              "correcta": 1,
+              "explicacion": "Noé, su esposa, sus tres hijos y las esposas de sus hijos."
+            },
+            {
+              "texto": "¿Quién cerró la puerta del arca?",
+              "opciones": [
+                "Noé",
+                "Un elefante",
+                "El Señor"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Cuántos días y noches llovió?",
+              "opciones": [
+                "Siete",
+                "Cuarenta",
+                "Mil"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué hizo Noé al salir del arca?",
+              "opciones": [
+                "Construyó un altar y dio gracias a Dios",
+                "Se fue a dormir",
+                "Construyó una casa"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Qué dice Génesis 6:9 de Noé?", "opciones": ["Que era rey", "Que con Dios caminó Noé", "Que era marinero", "Que vivía solo"], "correcta": 1 },
-            { "texto": "¿Cómo se llamaban los hijos de Noé?", "opciones": ["Caín, Abel y Set", "Sem, Cam y Jafet", "Pedro, Juan y Santiago", "Abraham, Isaac y Jacob"], "correcta": 1 },
-            { "texto": "¿De qué animales entraron siete parejas?", "opciones": ["De los peces", "De ninguno", "De los animales limpios y las aves", "De los leones"], "correcta": 2, "explicacion": "Génesis 7:2-3: de los animales limpios y de las aves, de siete en siete." },
-            { "texto": "¿Dónde se detuvo el arca?", "opciones": ["En Egipto", "Sobre los montes de Ararat, en Armenia", "En Belén", "En una isla"], "correcta": 1, "explicacion": "La Reina-Valera 1909 dice «montes de Armenia»; otras traducciones dicen «Ararat» (Génesis 8:4)." },
-            { "texto": "¿Qué ave envió Noé antes de la paloma?", "opciones": ["Un águila", "Un cuervo", "Un gorrión", "Un búho"], "correcta": 1 },
-            { "texto": "¿Cuál fue la señal del pacto?", "opciones": ["Una estrella", "Una paloma", "El arco en las nubes", "Un altar"], "correcta": 2, "explicacion": "Dios puso su arco en las nubes como señal (Génesis 9:13)." }
+            {
+              "texto": "¿Qué dice Génesis 6:9 de Noé?",
+              "opciones": [
+                "Que era rey",
+                "Que con Dios caminó Noé",
+                "Que era marinero",
+                "Que vivía solo"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cómo se llamaban los hijos de Noé?",
+              "opciones": [
+                "Caín, Abel y Set",
+                "Sem, Cam y Jafet",
+                "Pedro, Juan y Santiago",
+                "Abraham, Isaac y Jacob"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿De qué animales entraron siete parejas?",
+              "opciones": [
+                "De los peces",
+                "De ninguno",
+                "De los animales limpios y las aves",
+                "De los leones"
+              ],
+              "correcta": 2,
+              "explicacion": "Génesis 7:2-3: de los animales limpios y de las aves, de siete en siete."
+            },
+            {
+              "texto": "¿Dónde se detuvo el arca?",
+              "opciones": [
+                "En Egipto",
+                "Sobre los montes de Ararat, en Armenia",
+                "En Belén",
+                "En una isla"
+              ],
+              "correcta": 1,
+              "explicacion": "La Reina-Valera 1909 dice «montes de Armenia»; otras traducciones dicen «Ararat» (Génesis 8:4)."
+            },
+            {
+              "texto": "¿Qué ave envió Noé antes de la paloma?",
+              "opciones": [
+                "Un águila",
+                "Un cuervo",
+                "Un gorrión",
+                "Un búho"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cuál fue la señal del pacto?",
+              "opciones": [
+                "Una estrella",
+                "Una paloma",
+                "El arco en las nubes",
+                "Un altar"
+              ],
+              "correcta": 2,
+              "explicacion": "Dios puso su arco en las nubes como señal (Génesis 9:13)."
+            }
           ]
         }
       }

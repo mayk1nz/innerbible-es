@@ -45,6 +45,8 @@ export interface HistoriaNinos {
   /** Estudio Cronológico lesson for the grown-ups (maestra id). */
   estudio: string
   minutos: number
+  /** The story's illustration (public/ninos/<id>.webp), set by build-ninos when the file exists. */
+  imagen?: { src: string; alt: string }
   escenas: Escena[]
   /** Age 3–5 and 6–8: short, adapted sentence marked "(adaptado)"; 9–12: exact RV1909. */
   versiculo: PorBanda<{ texto: string; referencia: string; fuente: 'RV1909' | 'adaptado' }>

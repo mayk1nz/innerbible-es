@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me espera y me abraza.", "referencia": "Lucas 15:20", "fuente": "adaptado" },
-    "6-8": { "texto": "Cuando todavía estaba lejos, su padre lo vio, sintió compasión, corrió y lo abrazó.", "referencia": "Lucas 15:20", "fuente": "adaptado" },
-    "9-12": { "texto": "Y levantándose, vino a su padre. Y como aun estuviese lejos, violo su padre, y fue movido a misericordia, y corrió, y echose sobre su cuello, y besole.", "referencia": "Lucas 15:20", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me espera y me abraza.",
+      "referencia": "Lucas 15:20",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Cuando todavía estaba lejos, su padre lo vio, sintió compasión, corrió y lo abrazó.",
+      "referencia": "Lucas 15:20",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y levantándose, vino a su padre. Y como aun estuviese lejos, violo su padre, y fue movido a misericordia, y corrió, y echose sobre su cuello, y besole.",
+      "referencia": "Lucas 15:20",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "El papá corrió a abrazar a su hijo.", "verdadera": true, "porque": "Lo vio de lejos, corrió y lo abrazó." },
-            { "texto": "El papá se enojó y cerró la puerta.", "verdadera": false, "porque": "El papá lo abrazó e hizo una fiesta." },
-            { "texto": "Dios nos ama como ese papá.", "verdadera": true, "porque": "Jesús contó esta historia para mostrarnos el amor de Dios." }
+            {
+              "texto": "El papá corrió a abrazar a su hijo.",
+              "verdadera": true,
+              "porque": "Lo vio de lejos, corrió y lo abrazó."
+            },
+            {
+              "texto": "El papá se enojó y cerró la puerta.",
+              "verdadera": false,
+              "porque": "El papá lo abrazó e hizo una fiesta."
+            },
+            {
+              "texto": "Dios nos ama como ese papá.",
+              "verdadera": true,
+              "porque": "Jesús contó esta historia para mostrarnos el amor de Dios."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "El papá tenía dos hijos.", "verdadera": true, "porque": "Un hijo menor y un hijo mayor." },
-            { "texto": "El hijo menor ahorró todo su dinero.", "verdadera": false, "porque": "Lo malgastó todo en un país lejano." },
-            { "texto": "El hijo terminó cuidando cerdos.", "verdadera": true, "porque": "Tenía tanta hambre que deseaba comer lo que comían los cerdos." },
-            { "texto": "El papá esperó sentado a que el hijo le pidiera perdón.", "verdadera": false, "porque": "El papá corrió hacia él y lo abrazó primero." },
-            { "texto": "El papá le dio ropa nueva, un anillo y sandalias.", "verdadera": true, "porque": "Así mostró que seguía siendo su hijo." },
-            { "texto": "El papá no quería al hermano mayor.", "verdadera": false, "porque": "También salió a buscarlo: «Todo lo mío es tuyo»." }
+            {
+              "texto": "El papá tenía dos hijos.",
+              "verdadera": true,
+              "porque": "Un hijo menor y un hijo mayor."
+            },
+            {
+              "texto": "El hijo menor ahorró todo su dinero.",
+              "verdadera": false,
+              "porque": "Lo malgastó todo en un país lejano."
+            },
+            {
+              "texto": "El hijo terminó cuidando cerdos.",
+              "verdadera": true,
+              "porque": "Tenía tanta hambre que deseaba comer lo que comían los cerdos."
+            },
+            {
+              "texto": "El papá esperó sentado a que el hijo le pidiera perdón.",
+              "verdadera": false,
+              "porque": "El papá corrió hacia él y lo abrazó primero."
+            },
+            {
+              "texto": "El papá le dio ropa nueva, un anillo y sandalias.",
+              "verdadera": true,
+              "porque": "Así mostró que seguía siendo su hijo."
+            },
+            {
+              "texto": "El papá no quería al hermano mayor.",
+              "verdadera": false,
+              "porque": "También salió a buscarlo: «Todo lo mío es tuyo»."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "El hijo menor pidió su herencia en vida del padre.", "verdadera": true, "porque": "«Padre, dame la parte de la hacienda que me pertenece» (Lucas 15:12)." },
-            { "texto": "El hijo se fue a una provincia cercana.", "verdadera": false, "porque": "Partió «lejos a una provincia apartada» (Lucas 15:13)." },
-            { "texto": "Durante la hambre, alguien le daba algarrobas.", "verdadera": false, "porque": "«Nadie se las daba» (Lucas 15:16)." },
-            { "texto": "El hijo «volvió en sí» antes de regresar.", "verdadera": true, "porque": "Recordó la casa de su padre y decidió volver (Lucas 15:17)." },
-            { "texto": "El padre lo vio cuando aún estaba lejos.", "verdadera": true, "porque": "Lo vio, se compadeció y corrió (Lucas 15:20)." },
-            { "texto": "El padre lo hizo jornalero, como el hijo pidió.", "verdadera": false, "porque": "Le dio el mejor vestido, anillo y calzado: lo recibió como hijo (Lucas 15:22)." },
-            { "texto": "El hermano mayor se alegró y entró enseguida.", "verdadera": false, "porque": "Se enojó y no quería entrar (Lucas 15:28)." },
-            { "texto": "Jesús no cuenta si el hermano mayor entró a la fiesta.", "verdadera": true, "porque": "El final queda abierto, como una invitación (Lucas 15:32)." }
+            {
+              "texto": "El hijo menor pidió su herencia en vida del padre.",
+              "verdadera": true,
+              "porque": "«Padre, dame la parte de la hacienda que me pertenece» (Lucas 15:12)."
+            },
+            {
+              "texto": "El hijo se fue a una provincia cercana.",
+              "verdadera": false,
+              "porque": "Partió «lejos a una provincia apartada» (Lucas 15:13)."
+            },
+            {
+              "texto": "Durante la hambre, alguien le daba algarrobas.",
+              "verdadera": false,
+              "porque": "«Nadie se las daba» (Lucas 15:16)."
+            },
+            {
+              "texto": "El hijo «volvió en sí» antes de regresar.",
+              "verdadera": true,
+              "porque": "Recordó la casa de su padre y decidió volver (Lucas 15:17)."
+            },
+            {
+              "texto": "El padre lo vio cuando aún estaba lejos.",
+              "verdadera": true,
+              "porque": "Lo vio, se compadeció y corrió (Lucas 15:20)."
+            },
+            {
+              "texto": "El padre lo hizo jornalero, como el hijo pidió.",
+              "verdadera": false,
+              "porque": "Le dio el mejor vestido, anillo y calzado: lo recibió como hijo (Lucas 15:22)."
+            },
+            {
+              "texto": "El hermano mayor se alegró y entró enseguida.",
+              "verdadera": false,
+              "porque": "Se enojó y no quería entrar (Lucas 15:28)."
+            },
+            {
+              "texto": "Jesús no cuenta si el hermano mayor entró a la fiesta.",
+              "verdadera": true,
+              "porque": "El final queda abierto, como una invitación (Lucas 15:32)."
+            }
           ]
         }
       }

@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios, dame un corazón sabio.", "referencia": "1 Reyes 3:9", "fuente": "adaptado" },
-    "6-8": { "texto": "Dame un corazón sabio para saber qué es bueno y qué es malo.", "referencia": "1 Reyes 3:9", "fuente": "adaptado" },
-    "9-12": { "texto": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia.", "referencia": "Proverbios 2:6", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios, dame un corazón sabio.",
+      "referencia": "1 Reyes 3:9",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dame un corazón sabio para saber qué es bueno y qué es malo.",
+      "referencia": "1 Reyes 3:9",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia.",
+      "referencia": "Proverbios 2:6",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,148 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué le pidió Salomón a Dios?", "opciones": ["Mucho oro", "Sabiduría"], "correcta": 1 },
-            { "texto": "¿Cómo le habló Dios a Salomón?", "opciones": ["En un sueño", "Con una carta"], "correcta": 0 },
-            { "texto": "¿Qué dijo la mamá de verdad?", "opciones": ["«¡No le hagan daño!»", "«¡No me importa!»"], "correcta": 0 }
+            {
+              "texto": "¿Qué le pidió Salomón a Dios?",
+              "opciones": [
+                "Mucho oro",
+                "Sabiduría"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cómo le habló Dios a Salomón?",
+              "opciones": [
+                "En un sueño",
+                "Con una carta"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué dijo la mamá de verdad?",
+              "opciones": [
+                "«¡No le hagan daño!»",
+                "«¡No me importa!»"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿De quién era hijo Salomón?", "opciones": ["Del rey David", "De Moisés", "De Noé"], "correcta": 0 },
-            { "texto": "¿Cómo le habló Dios a Salomón?", "opciones": ["En un sueño", "Con un trueno", "Con una carta"], "correcta": 0 },
-            { "texto": "¿Qué pidió Salomón?", "opciones": ["Una vida larga", "Muchas riquezas", "Un corazón sabio"], "correcta": 2 },
-            { "texto": "¿Qué le dio Dios además?", "opciones": ["Nada más", "Riquezas y honra", "Un ejército"], "correcta": 1, "explicacion": "Dios le dio también lo que no había pedido." },
-            { "texto": "¿Cómo descubrió Salomón quién era la mamá?", "opciones": ["Preguntó a los vecinos", "Con una prueba sabia", "Lanzó una moneda"], "correcta": 1 }
+            {
+              "texto": "¿De quién era hijo Salomón?",
+              "opciones": [
+                "Del rey David",
+                "De Moisés",
+                "De Noé"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Cómo le habló Dios a Salomón?",
+              "opciones": [
+                "En un sueño",
+                "Con un trueno",
+                "Con una carta"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué pidió Salomón?",
+              "opciones": [
+                "Una vida larga",
+                "Muchas riquezas",
+                "Un corazón sabio"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué le dio Dios además?",
+              "opciones": [
+                "Nada más",
+                "Riquezas y honra",
+                "Un ejército"
+              ],
+              "correcta": 1,
+              "explicacion": "Dios le dio también lo que no había pedido."
+            },
+            {
+              "texto": "¿Cómo descubrió Salomón quién era la mamá?",
+              "opciones": [
+                "Preguntó a los vecinos",
+                "Con una prueba sabia",
+                "Lanzó una moneda"
+              ],
+              "correcta": 1
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Dónde se le apareció Dios a Salomón?", "opciones": ["En Gabaón", "En Belén", "En Nínive", "En Egipto"], "correcta": 0, "explicacion": "1 Reyes 3:5." },
-            { "texto": "¿Cómo se describió Salomón ante Dios?", "opciones": ["Como un gran guerrero", "Como «mozo pequeño»", "Como el más sabio", "Como un profeta"], "correcta": 1, "explicacion": "1 Reyes 3:7." },
-            { "texto": "¿Qué es un «corazón dócil»?", "opciones": ["Un corazón duro", "Un corazón miedoso", "Un corazón que sabe escuchar", "Un corazón rico"], "correcta": 2 },
-            { "texto": "¿Qué NO pidió Salomón?", "opciones": ["Sabiduría", "Distinguir lo bueno y lo malo", "Juzgar bien al pueblo", "Riquezas ni larga vida"], "correcta": 3, "explicacion": "1 Reyes 3:11." },
-            { "texto": "¿Cómo supo Salomón quién era la verdadera madre?", "opciones": ["Por el parecido con el bebé", "Porque llegó primero", "Porque prefirió perderlo antes que verlo sufrir", "Porque gritó más fuerte"], "correcta": 2 },
-            { "texto": "¿Qué vio todo Israel en Salomón?", "opciones": ["Mucha fuerza", "Sabiduría de Dios para juzgar", "Muchos caballos", "Mucho enojo"], "correcta": 1, "explicacion": "1 Reyes 3:28." }
+            {
+              "texto": "¿Dónde se le apareció Dios a Salomón?",
+              "opciones": [
+                "En Gabaón",
+                "En Belén",
+                "En Nínive",
+                "En Egipto"
+              ],
+              "correcta": 0,
+              "explicacion": "1 Reyes 3:5."
+            },
+            {
+              "texto": "¿Cómo se describió Salomón ante Dios?",
+              "opciones": [
+                "Como un gran guerrero",
+                "Como «mozo pequeño»",
+                "Como el más sabio",
+                "Como un profeta"
+              ],
+              "correcta": 1,
+              "explicacion": "1 Reyes 3:7."
+            },
+            {
+              "texto": "¿Qué es un «corazón dócil»?",
+              "opciones": [
+                "Un corazón duro",
+                "Un corazón miedoso",
+                "Un corazón que sabe escuchar",
+                "Un corazón rico"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué NO pidió Salomón?",
+              "opciones": [
+                "Sabiduría",
+                "Distinguir lo bueno y lo malo",
+                "Juzgar bien al pueblo",
+                "Riquezas ni larga vida"
+              ],
+              "correcta": 3,
+              "explicacion": "1 Reyes 3:11."
+            },
+            {
+              "texto": "¿Cómo supo Salomón quién era la verdadera madre?",
+              "opciones": [
+                "Por el parecido con el bebé",
+                "Porque llegó primero",
+                "Porque prefirió perderlo antes que verlo sufrir",
+                "Porque gritó más fuerte"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué vio todo Israel en Salomón?",
+              "opciones": [
+                "Mucha fuerza",
+                "Sabiduría de Dios para juzgar",
+                "Muchos caballos",
+                "Mucho enojo"
+              ],
+              "correcta": 1,
+              "explicacion": "1 Reyes 3:28."
+            }
           ]
         }
       }
@@ -90,31 +222,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Salomón pidió mucho oro.", "verdadera": false, "porque": "Pidió sabiduría para cuidar al pueblo." },
-            { "texto": "Dios le habló en un sueño.", "verdadera": true, "porque": "Le dijo: «Pide lo que quieras»." },
-            { "texto": "Salomón ayudó a una mamá a recuperar a su bebé.", "verdadera": true, "porque": "Descubrió quién era la mamá de verdad." }
+            {
+              "texto": "Salomón pidió mucho oro.",
+              "verdadera": false,
+              "porque": "Pidió sabiduría para cuidar al pueblo."
+            },
+            {
+              "texto": "Dios le habló en un sueño.",
+              "verdadera": true,
+              "porque": "Le dijo: «Pide lo que quieras»."
+            },
+            {
+              "texto": "Salomón ayudó a una mamá a recuperar a su bebé.",
+              "verdadera": true,
+              "porque": "Descubrió quién era la mamá de verdad."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Salomón era hijo del rey David.", "verdadera": true, "porque": "Fue rey después de su padre." },
-            { "texto": "Salomón se sentía como un niño que no sabía gobernar.", "verdadera": true, "porque": "Por eso pidió ayuda a Dios." },
-            { "texto": "Salomón pidió ganar todas las batallas.", "verdadera": false, "porque": "Pidió un corazón sabio." },
-            { "texto": "Dios se enojó por lo que pidió Salomón.", "verdadera": false, "porque": "¡A Dios le agradó mucho!" },
-            { "texto": "Dios le dio también riquezas y honra.", "verdadera": true, "porque": "Le dio lo que no había pedido." },
-            { "texto": "Las dos mujeres estaban de acuerdo.", "verdadera": false, "porque": "Las dos decían que el bebé vivo era suyo." }
+            {
+              "texto": "Salomón era hijo del rey David.",
+              "verdadera": true,
+              "porque": "Fue rey después de su padre."
+            },
+            {
+              "texto": "Salomón se sentía como un niño que no sabía gobernar.",
+              "verdadera": true,
+              "porque": "Por eso pidió ayuda a Dios."
+            },
+            {
+              "texto": "Salomón pidió ganar todas las batallas.",
+              "verdadera": false,
+              "porque": "Pidió un corazón sabio."
+            },
+            {
+              "texto": "Dios se enojó por lo que pidió Salomón.",
+              "verdadera": false,
+              "porque": "¡A Dios le agradó mucho!"
+            },
+            {
+              "texto": "Dios le dio también riquezas y honra.",
+              "verdadera": true,
+              "porque": "Le dio lo que no había pedido."
+            },
+            {
+              "texto": "Las dos mujeres estaban de acuerdo.",
+              "verdadera": false,
+              "porque": "Las dos decían que el bebé vivo era suyo."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Salomón ofreció mil sacrificios en Gabaón.", "verdadera": true, "porque": "Así lo cuenta 1 Reyes 3:4." },
-            { "texto": "Dios le habló a Salomón mientras estaba despierto en el templo.", "verdadera": false, "porque": "Le habló en sueños, en Gabaón (1 Reyes 3:5)." },
-            { "texto": "Salomón recordó la bondad de Dios con su padre David.", "verdadera": true, "porque": "Empezó su oración dando gracias (1 Reyes 3:6)." },
-            { "texto": "Salomón pidió la muerte de sus enemigos.", "verdadera": false, "porque": "Dios destacó que no pidió eso (1 Reyes 3:11)." },
-            { "texto": "Dios prometió alargar sus días si seguía sus caminos.", "verdadera": true, "porque": "Como había hecho David (1 Reyes 3:14)." },
-            { "texto": "Al despertar, Salomón volvió a Jerusalén e hizo un banquete.", "verdadera": true, "porque": "Invitó a todos sus siervos (1 Reyes 3:15)." },
-            { "texto": "Salomón decidió quién era la madre echando suertes.", "verdadera": false, "porque": "Una prueba mostró el amor de la verdadera madre (1 Reyes 3:26-27)." },
-            { "texto": "Todo Israel vio que había en él sabiduría de Dios.", "verdadera": true, "porque": "Así termina 1 Reyes 3:28." }
+            {
+              "texto": "Salomón ofreció mil sacrificios en Gabaón.",
+              "verdadera": true,
+              "porque": "Así lo cuenta 1 Reyes 3:4."
+            },
+            {
+              "texto": "Dios le habló a Salomón mientras estaba despierto en el templo.",
+              "verdadera": false,
+              "porque": "Le habló en sueños, en Gabaón (1 Reyes 3:5)."
+            },
+            {
+              "texto": "Salomón recordó la bondad de Dios con su padre David.",
+              "verdadera": true,
+              "porque": "Empezó su oración dando gracias (1 Reyes 3:6)."
+            },
+            {
+              "texto": "Salomón pidió la muerte de sus enemigos.",
+              "verdadera": false,
+              "porque": "Dios destacó que no pidió eso (1 Reyes 3:11)."
+            },
+            {
+              "texto": "Dios prometió alargar sus días si seguía sus caminos.",
+              "verdadera": true,
+              "porque": "Como había hecho David (1 Reyes 3:14)."
+            },
+            {
+              "texto": "Al despertar, Salomón volvió a Jerusalén e hizo un banquete.",
+              "verdadera": true,
+              "porque": "Invitó a todos sus siervos (1 Reyes 3:15)."
+            },
+            {
+              "texto": "Salomón decidió quién era la madre echando suertes.",
+              "verdadera": false,
+              "porque": "Una prueba mostró el amor de la verdadera madre (1 Reyes 3:26-27)."
+            },
+            {
+              "texto": "Todo Israel vio que había en él sabiduría de Dios.",
+              "verdadera": true,
+              "porque": "Así termina 1 Reyes 3:28."
+            }
           ]
         }
       }

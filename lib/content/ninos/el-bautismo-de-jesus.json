@@ -47,36 +47,105 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Tú eres mi Hijo amado.", "referencia": "Marcos 1:11", "fuente": "adaptado" },
-    "6-8": { "texto": "Tú eres mi Hijo amado; estoy muy contento contigo.", "referencia": "Marcos 1:11", "fuente": "adaptado" },
-    "9-12": { "texto": "Y hubo una voz de los cielos que decía: Tú eres mi Hijo amado; en ti tomo contentamiento.", "referencia": "Marcos 1:11", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Tú eres mi Hijo amado.",
+      "referencia": "Marcos 1:11",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Tú eres mi Hijo amado; estoy muy contento contigo.",
+      "referencia": "Marcos 1:11",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y hubo una voz de los cielos que decía: Tú eres mi Hijo amado; en ti tomo contentamiento.",
+      "referencia": "Marcos 1:11",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "memoria",
       "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
       "niveles": {
-        "3-5": { "pares": [["Juan", "el río Jordán"], ["Jesús", "el Hijo amado"], ["el Espíritu", "la paloma"]] },
+        "3-5": {
+          "pares": [
+            [
+              "Juan",
+              "el río Jordán"
+            ],
+            [
+              "Jesús",
+              "el Hijo amado"
+            ],
+            [
+              "el Espíritu",
+              "la paloma"
+            ]
+          ]
+        },
         "6-8": {
           "pares": [
-            ["Juan", "pelo de camello"],
-            ["Jesús", "vino de Nazaret"],
-            ["el río", "Jordán"],
-            ["el Espíritu Santo", "como paloma"],
-            ["la voz del cielo", "«Mi Hijo amado»"],
-            ["langostas", "y miel silvestre"]
+            [
+              "Juan",
+              "pelo de camello"
+            ],
+            [
+              "Jesús",
+              "vino de Nazaret"
+            ],
+            [
+              "el río",
+              "Jordán"
+            ],
+            [
+              "el Espíritu Santo",
+              "como paloma"
+            ],
+            [
+              "la voz del cielo",
+              "«Mi Hijo amado»"
+            ],
+            [
+              "langostas",
+              "y miel silvestre"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Juan el Bautista", "preparaba el camino"],
-            ["el Jordán", "el río del bautismo"],
-            ["Nazaret", "de donde vino Jesús"],
-            ["pelo de camello", "la ropa de Juan"],
-            ["las sandalias", "Juan no se sentía digno"],
-            ["los cielos", "se abrieron"],
-            ["el Espíritu", "descendió como paloma"],
-            ["la voz", "«en ti tomo contentamiento»"]
+            [
+              "Juan el Bautista",
+              "preparaba el camino"
+            ],
+            [
+              "el Jordán",
+              "el río del bautismo"
+            ],
+            [
+              "Nazaret",
+              "de donde vino Jesús"
+            ],
+            [
+              "pelo de camello",
+              "la ropa de Juan"
+            ],
+            [
+              "las sandalias",
+              "Juan no se sentía digno"
+            ],
+            [
+              "los cielos",
+              "se abrieron"
+            ],
+            [
+              "el Espíritu",
+              "descendió como paloma"
+            ],
+            [
+              "la voz",
+              "«en ti tomo contentamiento»"
+            ]
           ]
         }
       }
@@ -87,31 +156,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Juan bautizó a Jesús en el mar.", "verdadera": false, "porque": "Fue en el río Jordán." },
-            { "texto": "El Espíritu bajó como una paloma.", "verdadera": true, "porque": "Así lo cuenta la Biblia." },
-            { "texto": "Dios dijo: «Tú eres mi Hijo amado».", "verdadera": true, "porque": "Dios Padre ama a Jesús." }
+            {
+              "texto": "Juan bautizó a Jesús en el mar.",
+              "verdadera": false,
+              "porque": "Fue en el río Jordán."
+            },
+            {
+              "texto": "El Espíritu bajó como una paloma.",
+              "verdadera": true,
+              "porque": "Así lo cuenta la Biblia."
+            },
+            {
+              "texto": "Dios dijo: «Tú eres mi Hijo amado».",
+              "verdadera": true,
+              "porque": "Dios Padre ama a Jesús."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Juan comía langostas y miel silvestre.", "verdadera": true, "porque": "Así lo cuenta Marcos." },
-            { "texto": "Juan decía que él era más poderoso que Jesús.", "verdadera": false, "porque": "Decía que venía alguien más poderoso que él." },
-            { "texto": "Jesús vino de Nazaret para ser bautizado.", "verdadera": true, "porque": "Vino de Nazaret, en Galilea." },
-            { "texto": "Juan se sorprendió de que Jesús quisiera bautizarse.", "verdadera": true, "porque": "Dijo: «Yo necesito que tú me bautices»." },
-            { "texto": "Cuando Jesús salió del agua, empezó a llover.", "verdadera": false, "porque": "El cielo se abrió y bajó el Espíritu como paloma." },
-            { "texto": "La voz del cielo dijo: «Tú eres mi Hijo amado».", "verdadera": true, "porque": "Era la voz de Dios Padre." }
+            {
+              "texto": "Juan comía langostas y miel silvestre.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Marcos."
+            },
+            {
+              "texto": "Juan decía que él era más poderoso que Jesús.",
+              "verdadera": false,
+              "porque": "Decía que venía alguien más poderoso que él."
+            },
+            {
+              "texto": "Jesús vino de Nazaret para ser bautizado.",
+              "verdadera": true,
+              "porque": "Vino de Nazaret, en Galilea."
+            },
+            {
+              "texto": "Juan se sorprendió de que Jesús quisiera bautizarse.",
+              "verdadera": true,
+              "porque": "Dijo: «Yo necesito que tú me bautices»."
+            },
+            {
+              "texto": "Cuando Jesús salió del agua, empezó a llover.",
+              "verdadera": false,
+              "porque": "El cielo se abrió y bajó el Espíritu como paloma."
+            },
+            {
+              "texto": "La voz del cielo dijo: «Tú eres mi Hijo amado».",
+              "verdadera": true,
+              "porque": "Era la voz de Dios Padre."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Juan predicaba en el desierto.", "verdadera": true, "porque": "Así lo dice Marcos 1:4." },
-            { "texto": "Solo la gente de Galilea iba a ver a Juan.", "verdadera": false, "porque": "Iba gente de toda Judea y de Jerusalén (Marcos 1:5)." },
-            { "texto": "Juan dijo que el que venía bautizaría con Espíritu Santo.", "verdadera": true, "porque": "Así lo anunció en Marcos 1:8." },
-            { "texto": "Jesús fue bautizado en el Jordán.", "verdadera": true, "porque": "Así lo dice Marcos 1:9." },
-            { "texto": "Juan aceptó enseguida bautizar a Jesús.", "verdadera": false, "porque": "Primero se resistía (Mateo 3:14)." },
-            { "texto": "Lucas dice que Jesús oraba cuando se abrió el cielo.", "verdadera": true, "porque": "Así lo cuenta Lucas 3:21." },
-            { "texto": "El Espíritu descendió como un águila.", "verdadera": false, "porque": "Descendió como paloma (Marcos 1:10)." },
-            { "texto": "La voz dijo: «En ti tomo contentamiento».", "verdadera": true, "porque": "Así lo dice Marcos 1:11." }
+            {
+              "texto": "Juan predicaba en el desierto.",
+              "verdadera": true,
+              "porque": "Así lo dice Marcos 1:4."
+            },
+            {
+              "texto": "Solo la gente de Galilea iba a ver a Juan.",
+              "verdadera": false,
+              "porque": "Iba gente de toda Judea y de Jerusalén (Marcos 1:5)."
+            },
+            {
+              "texto": "Juan dijo que el que venía bautizaría con Espíritu Santo.",
+              "verdadera": true,
+              "porque": "Así lo anunció en Marcos 1:8."
+            },
+            {
+              "texto": "Jesús fue bautizado en el Jordán.",
+              "verdadera": true,
+              "porque": "Así lo dice Marcos 1:9."
+            },
+            {
+              "texto": "Juan aceptó enseguida bautizar a Jesús.",
+              "verdadera": false,
+              "porque": "Primero se resistía (Mateo 3:14)."
+            },
+            {
+              "texto": "Lucas dice que Jesús oraba cuando se abrió el cielo.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Lucas 3:21."
+            },
+            {
+              "texto": "El Espíritu descendió como un águila.",
+              "verdadera": false,
+              "porque": "Descendió como paloma (Marcos 1:10)."
+            },
+            {
+              "texto": "La voz dijo: «En ti tomo contentamiento».",
+              "verdadera": true,
+              "porque": "Así lo dice Marcos 1:11."
+            }
           ]
         }
       }

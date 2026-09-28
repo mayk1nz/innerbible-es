@@ -103,6 +103,7 @@ export function NinosStory({ id, scale, onPlayed }: { id: string; scale: number;
     setLeyendo(false)
   }
   const verso = h.versiculo[banda]
+  const img = e.img ?? h.imagen
   const estudio = ESTUDIO_LECCIONES.find((l) => l.id === h.estudio)
 
   return (
@@ -116,12 +117,12 @@ export function NinosStory({ id, scale, onPlayed }: { id: string; scale: number;
           {/* The story, one scene at a time. */}
           <section aria-label="La historia" className="overflow-hidden rounded-3xl border border-line bg-surface shadow-card">
             <div
-              className="relative grid h-40 place-items-center"
+              className={`relative grid place-items-center ${img ? 'aspect-video' : 'h-40'}`}
               style={{ backgroundImage: 'radial-gradient(120% 75% at 50% -5%, rgba(214,220,140,.32) 0%, transparent 60%), linear-gradient(180deg, #28291a 0%, #0b0c07 100%)' }}
             >
-              {e.img ? (
+              {img ? (
                 // eslint-disable-next-line @next/next/no-img-element
-                <img src={e.img.src} alt={e.img.alt} className="absolute inset-0 size-full object-cover" />
+                <img src={img.src} alt={img.alt} className="absolute inset-0 size-full object-cover" />
               ) : (
                 <div className="text-center">
                   <Icon name="book" className="mx-auto size-9 text-gold-bright" />

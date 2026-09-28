@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios está conmigo.", "referencia": "Génesis 28:15", "fuente": "adaptado" },
-    "6-8": { "texto": "Yo estoy contigo y te cuidaré a dondequiera que vayas.", "referencia": "Génesis 28:15", "fuente": "adaptado" },
-    "9-12": { "texto": "Y despertó Jacob de su sueño, y dijo: Ciertamente Jehová está en este lugar, y yo no lo sabía.", "referencia": "Génesis 28:16", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios está conmigo.",
+      "referencia": "Génesis 28:15",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Yo estoy contigo y te cuidaré a dondequiera que vayas.",
+      "referencia": "Génesis 28:15",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y despertó Jacob de su sueño, y dijo: Ciertamente Jehová está en este lugar, y yo no lo sabía.",
+      "referencia": "Génesis 28:16",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,147 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué usó Jacob como almohada?", "opciones": ["Una piedra", "Una nube"], "correcta": 0 },
-            { "texto": "¿Quiénes subían y bajaban por la escalera?", "opciones": ["Los gatos", "Los ángeles"], "correcta": 1 },
-            { "texto": "¿Qué le dijo Dios a Jacob?", "opciones": ["«Yo estoy contigo»", "«Vete solo»"], "correcta": 0 }
+            {
+              "texto": "¿Qué usó Jacob como almohada?",
+              "opciones": [
+                "Una piedra",
+                "Una nube"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Quiénes subían y bajaban por la escalera?",
+              "opciones": [
+                "Los gatos",
+                "Los ángeles"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué le dijo Dios a Jacob?",
+              "opciones": [
+                "«Yo estoy contigo»",
+                "«Vete solo»"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Por qué Jacob tuvo que irse lejos?", "opciones": ["Porque había engañado a su hermano Esaú", "Porque buscaba un tesoro", "Porque quería ser rey"], "correcta": 0 },
-            { "texto": "¿Hasta dónde llegaba la escalera?", "opciones": ["Hasta el techo", "Hasta el cielo", "Hasta el mar"], "correcta": 1 },
-            { "texto": "¿Qué le prometió Dios?", "opciones": ["Un camello nuevo", "Estar con él y cuidarlo", "Una casa grande"], "correcta": 1 },
-            { "texto": "¿Qué hizo Jacob con la piedra por la mañana?", "opciones": ["La tiró al río", "La usó para una casa", "La puso de pie como recuerdo y le echó aceite"], "correcta": 2 },
-            { "texto": "¿Qué significa Betel?", "opciones": ["Casa de Dios", "Escalera", "Piedra grande"], "correcta": 0 }
+            {
+              "texto": "¿Por qué Jacob tuvo que irse lejos?",
+              "opciones": [
+                "Porque había engañado a su hermano Esaú",
+                "Porque buscaba un tesoro",
+                "Porque quería ser rey"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Hasta dónde llegaba la escalera?",
+              "opciones": [
+                "Hasta el techo",
+                "Hasta el cielo",
+                "Hasta el mar"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué le prometió Dios?",
+              "opciones": [
+                "Un camello nuevo",
+                "Estar con él y cuidarlo",
+                "Una casa grande"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué hizo Jacob con la piedra por la mañana?",
+              "opciones": [
+                "La tiró al río",
+                "La usó para una casa",
+                "La puso de pie como recuerdo y le echó aceite"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué significa Betel?",
+              "opciones": [
+                "Casa de Dios",
+                "Escalera",
+                "Piedra grande"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Adónde se dirigía Jacob?", "opciones": ["A Egipto", "A Harán", "A Jerusalén", "A Nínive"], "correcta": 1 },
-            { "texto": "¿De qué lugar salió Jacob?", "opciones": ["De Beer-seba", "De Belén", "De Ur", "De Sodoma"], "correcta": 0 },
-            { "texto": "¿Cómo sería la descendencia de Jacob, según Dios?", "opciones": ["Como los árboles", "Como el polvo de la tierra", "Como las olas", "Como las nubes"], "correcta": 1, "explicacion": "Génesis 28:14: «como el polvo de la tierra»." },
-            { "texto": "¿Cómo se llamaba antes la ciudad de Betel?", "opciones": ["Salem", "Hebrón", "Luz", "Siquem"], "correcta": 2, "explicacion": "Génesis 28:19." },
-            { "texto": "¿Qué prometió Jacob apartar para Dios de todo lo que recibiera?", "opciones": ["Nada", "La mitad", "El diezmo", "Todo"], "correcta": 2, "explicacion": "Génesis 28:22." },
-            { "texto": "¿Quién usó la imagen de los ángeles que suben y bajan para hablar de sí mismo?", "opciones": ["Moisés", "David", "Pablo", "Jesús"], "correcta": 3, "explicacion": "Juan 1:51." }
+            {
+              "texto": "¿Adónde se dirigía Jacob?",
+              "opciones": [
+                "A Egipto",
+                "A Harán",
+                "A Jerusalén",
+                "A Nínive"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿De qué lugar salió Jacob?",
+              "opciones": [
+                "De Beer-seba",
+                "De Belén",
+                "De Ur",
+                "De Sodoma"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Cómo sería la descendencia de Jacob, según Dios?",
+              "opciones": [
+                "Como los árboles",
+                "Como el polvo de la tierra",
+                "Como las olas",
+                "Como las nubes"
+              ],
+              "correcta": 1,
+              "explicacion": "Génesis 28:14: «como el polvo de la tierra»."
+            },
+            {
+              "texto": "¿Cómo se llamaba antes la ciudad de Betel?",
+              "opciones": [
+                "Salem",
+                "Hebrón",
+                "Luz",
+                "Siquem"
+              ],
+              "correcta": 2,
+              "explicacion": "Génesis 28:19."
+            },
+            {
+              "texto": "¿Qué prometió Jacob apartar para Dios de todo lo que recibiera?",
+              "opciones": [
+                "Nada",
+                "La mitad",
+                "El diezmo",
+                "Todo"
+              ],
+              "correcta": 2,
+              "explicacion": "Génesis 28:22."
+            },
+            {
+              "texto": "¿Quién usó la imagen de los ángeles que suben y bajan para hablar de sí mismo?",
+              "opciones": [
+                "Moisés",
+                "David",
+                "Pablo",
+                "Jesús"
+              ],
+              "correcta": 3,
+              "explicacion": "Juan 1:51."
+            }
           ]
         }
       }
@@ -88,9 +219,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas junto a la escalera.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["JACOB", "SUEÑO", "DIOS"], "diagonales": false, "seed": 71 },
-        "6-8": { "tamano": 6, "palabras": ["JACOB", "PIEDRA", "SUEÑO", "ÁNGEL"], "diagonales": false, "seed": 72 },
-        "9-12": { "tamano": 10, "palabras": ["JACOB", "ESCALERA", "BETEL", "ÁNGELES", "PIEDRA", "ACEITE", "HARÁN", "SUEÑO"], "diagonales": true, "seed": 73 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "JACOB",
+            "SUEÑO",
+            "DIOS"
+          ],
+          "diagonales": false,
+          "seed": 71
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "JACOB",
+            "PIEDRA",
+            "SUEÑO",
+            "ÁNGEL"
+          ],
+          "diagonales": false,
+          "seed": 72
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "JACOB",
+            "ESCALERA",
+            "BETEL",
+            "ÁNGELES",
+            "PIEDRA",
+            "ACEITE",
+            "HARÁN",
+            "SUEÑO"
+          ],
+          "diagonales": true,
+          "seed": 73
+        }
       }
     }
   ],

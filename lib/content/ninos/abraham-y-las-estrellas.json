@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Yo confío en Dios.", "referencia": "Génesis 15:6", "fuente": "adaptado" },
-    "6-8": { "texto": "Mira el cielo y cuenta las estrellas: así será tu familia.", "referencia": "Génesis 15:5", "fuente": "adaptado" },
-    "9-12": { "texto": "Y sacole fuera, y dijo: Mira ahora a los cielos, y cuenta las estrellas, si las puedes contar. Y le dijo: Así será tu simiente.", "referencia": "Génesis 15:5", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Yo confío en Dios.",
+      "referencia": "Génesis 15:6",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Mira el cielo y cuenta las estrellas: así será tu familia.",
+      "referencia": "Génesis 15:5",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y sacole fuera, y dijo: Mira ahora a los cielos, y cuenta las estrellas, si las puedes contar. Y le dijo: Así será tu simiente.",
+      "referencia": "Génesis 15:5",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["el cielo", "las estrellas"],
-            ["Abraham", "Sara"],
-            ["Dios", "la promesa"]
+            [
+              "el cielo",
+              "las estrellas"
+            ],
+            [
+              "Abraham",
+              "Sara"
+            ],
+            [
+              "Dios",
+              "la promesa"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Abram", "Sarai"],
-            ["Harán", "la ciudad de donde salió"],
-            ["Canaán", "la tierra prometida"],
-            ["las estrellas", "la gran familia"],
-            ["Lot", "el sobrino"],
-            ["el pacto", "una promesa muy seria"]
+            [
+              "Abram",
+              "Sarai"
+            ],
+            [
+              "Harán",
+              "la ciudad de donde salió"
+            ],
+            [
+              "Canaán",
+              "la tierra prometida"
+            ],
+            [
+              "las estrellas",
+              "la gran familia"
+            ],
+            [
+              "Lot",
+              "el sobrino"
+            ],
+            [
+              "el pacto",
+              "una promesa muy seria"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Génesis 12:1", "«Vete de tu tierra»"],
-            ["Génesis 15:1", "«Yo soy tu escudo»"],
-            ["Génesis 15:5", "«Cuenta las estrellas»"],
-            ["Génesis 15:6", "Abram creyó al Señor"],
-            ["Eliezer", "el mayordomo de Abram"],
-            ["Lot", "el sobrino de Abram"],
-            ["Ur de los Caldeos", "de donde Dios sacó a Abram"],
-            ["75 años", "la edad de Abram al salir de Harán"]
+            [
+              "Génesis 12:1",
+              "«Vete de tu tierra»"
+            ],
+            [
+              "Génesis 15:1",
+              "«Yo soy tu escudo»"
+            ],
+            [
+              "Génesis 15:5",
+              "«Cuenta las estrellas»"
+            ],
+            [
+              "Génesis 15:6",
+              "Abram creyó al Señor"
+            ],
+            [
+              "Eliezer",
+              "el mayordomo de Abram"
+            ],
+            [
+              "Lot",
+              "el sobrino de Abram"
+            ],
+            [
+              "Ur de los Caldeos",
+              "de donde Dios sacó a Abram"
+            ],
+            [
+              "75 años",
+              "la edad de Abram al salir de Harán"
+            ]
           ]
         }
       }
@@ -93,28 +156,145 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué le pidió Dios a Abraham que contara?", "opciones": ["Las estrellas", "Las piedras"], "correcta": 0 },
-            { "texto": "¿Abraham le creyó a Dios?", "opciones": ["No", "Sí"], "correcta": 1 },
-            { "texto": "¿Tenían hijos Abraham y Sara?", "opciones": ["Todavía no", "Tenían diez"], "correcta": 0 }
+            {
+              "texto": "¿Qué le pidió Dios a Abraham que contara?",
+              "opciones": [
+                "Las estrellas",
+                "Las piedras"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Abraham le creyó a Dios?",
+              "opciones": [
+                "No",
+                "Sí"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Tenían hijos Abraham y Sara?",
+              "opciones": [
+                "Todavía no",
+                "Tenían diez"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Adónde le pidió Dios a Abram que fuera?", "opciones": ["A Egipto", "A la tierra que Dios le mostraría", "Al mar"], "correcta": 1 },
-            { "texto": "¿Qué le preocupaba a Abram?", "opciones": ["No tener hijos", "No tener camellos", "No tener casa"], "correcta": 0 },
-            { "texto": "¿Qué le dijo Dios que contara?", "opciones": ["Las ovejas", "Las monedas", "Las estrellas"], "correcta": 2 },
-            { "texto": "¿Qué hizo Abram con la promesa de Dios?", "opciones": ["Se enojó", "Le creyó a Dios", "Se fue a dormir"], "correcta": 1 },
-            { "texto": "¿Cómo se llamarían después Abram y Sarai?", "opciones": ["Abraham y Sara", "Adán y Eva", "Isaac y Rebeca"], "correcta": 0 }
+            {
+              "texto": "¿Adónde le pidió Dios a Abram que fuera?",
+              "opciones": [
+                "A Egipto",
+                "A la tierra que Dios le mostraría",
+                "Al mar"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué le preocupaba a Abram?",
+              "opciones": [
+                "No tener hijos",
+                "No tener camellos",
+                "No tener casa"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué le dijo Dios que contara?",
+              "opciones": [
+                "Las ovejas",
+                "Las monedas",
+                "Las estrellas"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué hizo Abram con la promesa de Dios?",
+              "opciones": [
+                "Se enojó",
+                "Le creyó a Dios",
+                "Se fue a dormir"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Cómo se llamarían después Abram y Sarai?",
+              "opciones": [
+                "Abraham y Sara",
+                "Adán y Eva",
+                "Isaac y Rebeca"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Cuántos años tenía Abram al salir de Harán?", "opciones": ["Veinte", "Cuarenta", "Setenta y cinco", "Cien"], "correcta": 2, "explicacion": "Génesis 12:4." },
-            { "texto": "¿Qué le dijo Dios en la visión de Génesis 15:1?", "opciones": ["«Yo soy tu escudo»", "«Construye un arca»", "«Sube al monte»", "«Vuelve a Ur»"], "correcta": 0 },
-            { "texto": "¿Quién iba a ser el heredero de Abram, según él?", "opciones": ["Lot", "Eliezer, su mayordomo", "Faraón", "Melquisedec"], "correcta": 1 },
-            { "texto": "¿Qué significa que Dios le «contó por justicia» su fe?", "opciones": ["Que lo castigó", "Que le pagó dinero", "Que lo aceptó como justo por creerle", "Que lo hizo rey"], "correcta": 2 },
-            { "texto": "¿Qué pasó entre los animales al caer el sol?", "opciones": ["Una antorcha de fuego", "Un río", "Un ángel con espada", "Una paloma"], "correcta": 0, "explicacion": "Génesis 15:17: un horno humeando y una antorcha de fuego." },
-            { "texto": "¿Qué prometió Dios en el pacto de Génesis 15:18?", "opciones": ["Un palacio", "Un arca", "Una corona", "Dar la tierra a su descendencia"], "correcta": 3 }
+            {
+              "texto": "¿Cuántos años tenía Abram al salir de Harán?",
+              "opciones": [
+                "Veinte",
+                "Cuarenta",
+                "Setenta y cinco",
+                "Cien"
+              ],
+              "correcta": 2,
+              "explicacion": "Génesis 12:4."
+            },
+            {
+              "texto": "¿Qué le dijo Dios en la visión de Génesis 15:1?",
+              "opciones": [
+                "«Yo soy tu escudo»",
+                "«Construye un arca»",
+                "«Sube al monte»",
+                "«Vuelve a Ur»"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Quién iba a ser el heredero de Abram, según él?",
+              "opciones": [
+                "Lot",
+                "Eliezer, su mayordomo",
+                "Faraón",
+                "Melquisedec"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué significa que Dios le «contó por justicia» su fe?",
+              "opciones": [
+                "Que lo castigó",
+                "Que le pagó dinero",
+                "Que lo aceptó como justo por creerle",
+                "Que lo hizo rey"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué pasó entre los animales al caer el sol?",
+              "opciones": [
+                "Una antorcha de fuego",
+                "Un río",
+                "Un ángel con espada",
+                "Una paloma"
+              ],
+              "correcta": 0,
+              "explicacion": "Génesis 15:17: un horno humeando y una antorcha de fuego."
+            },
+            {
+              "texto": "¿Qué prometió Dios en el pacto de Génesis 15:18?",
+              "opciones": [
+                "Un palacio",
+                "Un arca",
+                "Una corona",
+                "Dar la tierra a su descendencia"
+              ],
+              "correcta": 3
+            }
           ]
         }
       }

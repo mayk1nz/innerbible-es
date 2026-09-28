@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios no se olvida de mí.", "referencia": "Génesis 39:2", "fuente": "adaptado" },
-    "6-8": { "texto": "El Señor estaba con José, y todo le salía bien.", "referencia": "Génesis 39:2", "fuente": "adaptado" },
-    "9-12": { "texto": "Mas Jehová fue con José, y fue varón prosperado: y estaba en la casa de su señor el Egipcio.", "referencia": "Génesis 39:2", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios no se olvida de mí.",
+      "referencia": "Génesis 39:2",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "El Señor estaba con José, y todo le salía bien.",
+      "referencia": "Génesis 39:2",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Mas Jehová fue con José, y fue varón prosperado: y estaba en la casa de su señor el Egipcio.",
+      "referencia": "Génesis 39:2",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -90,31 +102,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Jacob le regaló a José una túnica de colores.", "verdadera": true, "porque": "¡Era una túnica muy bonita!" },
-            { "texto": "Los hermanos de José se alegraron por él.", "verdadera": false, "porque": "Sintieron envidia." },
-            { "texto": "Dios se olvidó de José.", "verdadera": false, "porque": "Dios estaba con José en Egipto." }
+            {
+              "texto": "Jacob le regaló a José una túnica de colores.",
+              "verdadera": true,
+              "porque": "¡Era una túnica muy bonita!"
+            },
+            {
+              "texto": "Los hermanos de José se alegraron por él.",
+              "verdadera": false,
+              "porque": "Sintieron envidia."
+            },
+            {
+              "texto": "Dios se olvidó de José.",
+              "verdadera": false,
+              "porque": "Dios estaba con José en Egipto."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "José tenía once hermanos.", "verdadera": true, "porque": "Jacob tenía doce hijos." },
-            { "texto": "José soñó que sus hermanos se inclinaban ante él.", "verdadera": true, "porque": "Así fue su primer sueño, con los manojos de espigas." },
-            { "texto": "Rubén quiso proteger a José.", "verdadera": true, "porque": "No dejó que le hicieran daño." },
-            { "texto": "Echaron a José en un pozo lleno de agua.", "verdadera": false, "porque": "El pozo estaba seco, sin agua." },
-            { "texto": "Vendieron a José por veinte monedas de plata.", "verdadera": true, "porque": "Se lo vendieron a unos comerciantes." },
-            { "texto": "Jacob supo enseguida que José estaba vivo.", "verdadera": false, "porque": "Creyó que un animal lo había atacado, y lloró mucho." }
+            {
+              "texto": "José tenía once hermanos.",
+              "verdadera": true,
+              "porque": "Jacob tenía doce hijos."
+            },
+            {
+              "texto": "José soñó que sus hermanos se inclinaban ante él.",
+              "verdadera": true,
+              "porque": "Así fue su primer sueño, con los manojos de espigas."
+            },
+            {
+              "texto": "Rubén quiso proteger a José.",
+              "verdadera": true,
+              "porque": "No dejó que le hicieran daño."
+            },
+            {
+              "texto": "Echaron a José en un pozo lleno de agua.",
+              "verdadera": false,
+              "porque": "El pozo estaba seco, sin agua."
+            },
+            {
+              "texto": "Vendieron a José por veinte monedas de plata.",
+              "verdadera": true,
+              "porque": "Se lo vendieron a unos comerciantes."
+            },
+            {
+              "texto": "Jacob supo enseguida que José estaba vivo.",
+              "verdadera": false,
+              "porque": "Creyó que un animal lo había atacado, y lloró mucho."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "José tenía diecisiete años.", "verdadera": true, "porque": "Lo dice Génesis 37:2." },
-            { "texto": "Jacob amaba igual a todos sus hijos.", "verdadera": false, "porque": "Amaba a José más que a todos (Génesis 37:3)." },
-            { "texto": "Jacob también reprendió a José por uno de sus sueños.", "verdadera": true, "porque": "Así lo cuenta Génesis 37:10." },
-            { "texto": "José encontró a sus hermanos en Dotán.", "verdadera": true, "porque": "Está en Génesis 37:17." },
-            { "texto": "Judá quería dejar a José en la cisterna para siempre.", "verdadera": false, "porque": "Judá propuso venderlo antes que dañarlo (Génesis 37:26-27)." },
-            { "texto": "La caravana llevaba aromas, bálsamo y mirra.", "verdadera": true, "porque": "Lo dice Génesis 37:25." },
-            { "texto": "Jacob se consoló pronto.", "verdadera": false, "porque": "No quiso tomar consolación (Génesis 37:35)." },
-            { "texto": "En Egipto, José fue vendido a Potifar.", "verdadera": true, "porque": "Era capitán de la guardia de Faraón (Génesis 37:36)." }
+            {
+              "texto": "José tenía diecisiete años.",
+              "verdadera": true,
+              "porque": "Lo dice Génesis 37:2."
+            },
+            {
+              "texto": "Jacob amaba igual a todos sus hijos.",
+              "verdadera": false,
+              "porque": "Amaba a José más que a todos (Génesis 37:3)."
+            },
+            {
+              "texto": "Jacob también reprendió a José por uno de sus sueños.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Génesis 37:10."
+            },
+            {
+              "texto": "José encontró a sus hermanos en Dotán.",
+              "verdadera": true,
+              "porque": "Está en Génesis 37:17."
+            },
+            {
+              "texto": "Judá quería dejar a José en la cisterna para siempre.",
+              "verdadera": false,
+              "porque": "Judá propuso venderlo antes que dañarlo (Génesis 37:26-27)."
+            },
+            {
+              "texto": "La caravana llevaba aromas, bálsamo y mirra.",
+              "verdadera": true,
+              "porque": "Lo dice Génesis 37:25."
+            },
+            {
+              "texto": "Jacob se consoló pronto.",
+              "verdadera": false,
+              "porque": "No quiso tomar consolación (Génesis 37:35)."
+            },
+            {
+              "texto": "En Egipto, José fue vendido a Potifar.",
+              "verdadera": true,
+              "porque": "Era capitán de la guardia de Faraón (Génesis 37:36)."
+            }
           ]
         }
       }

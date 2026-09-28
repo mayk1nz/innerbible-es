@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios está conmigo.", "referencia": "Éxodo 3:12", "fuente": "adaptado" },
-    "6-8": { "texto": "Ve, porque yo estaré contigo.", "referencia": "Éxodo 3:12", "fuente": "adaptado" },
-    "9-12": { "texto": "Y respondió Dios a Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás a los hijos de Israel: YO SOY me ha enviado a vosotros.", "referencia": "Éxodo 3:14", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios está conmigo.",
+      "referencia": "Éxodo 3:12",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Ve, porque yo estaré contigo.",
+      "referencia": "Éxodo 3:12",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y respondió Dios a Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás a los hijos de Israel: YO SOY me ha enviado a vosotros.",
+      "referencia": "Éxodo 3:14",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["Moisés", "las ovejas"],
-            ["la zarza", "el fuego"],
-            ["las sandalias", "tierra santa"]
+            [
+              "Moisés",
+              "las ovejas"
+            ],
+            [
+              "la zarza",
+              "el fuego"
+            ],
+            [
+              "las sandalias",
+              "tierra santa"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Moisés", "las ovejas"],
-            ["la zarza", "no se quema"],
-            ["las sandalias", "tierra santa"],
-            ["Jetro", "el suegro"],
-            ["Horeb", "el monte de Dios"],
-            ["Dios", "«Yo estaré contigo»"]
+            [
+              "Moisés",
+              "las ovejas"
+            ],
+            [
+              "la zarza",
+              "no se quema"
+            ],
+            [
+              "las sandalias",
+              "tierra santa"
+            ],
+            [
+              "Jetro",
+              "el suegro"
+            ],
+            [
+              "Horeb",
+              "el monte de Dios"
+            ],
+            [
+              "Dios",
+              "«Yo estaré contigo»"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Moisés", "«Heme aquí»"],
-            ["la zarza", "no se consumía"],
-            ["Horeb", "el monte de Dios"],
-            ["Jetro", "sacerdote de Madián"],
-            ["los zapatos", "tierra santa"],
-            ["«YO SOY»", "el nombre de Dios"],
-            ["leche y miel", "la tierra prometida"],
-            ["«¿Quién soy yo?»", "«Yo seré contigo»"]
+            [
+              "Moisés",
+              "«Heme aquí»"
+            ],
+            [
+              "la zarza",
+              "no se consumía"
+            ],
+            [
+              "Horeb",
+              "el monte de Dios"
+            ],
+            [
+              "Jetro",
+              "sacerdote de Madián"
+            ],
+            [
+              "los zapatos",
+              "tierra santa"
+            ],
+            [
+              "«YO SOY»",
+              "el nombre de Dios"
+            ],
+            [
+              "leche y miel",
+              "la tierra prometida"
+            ],
+            [
+              "«¿Quién soy yo?»",
+              "«Yo seré contigo»"
+            ]
           ]
         }
       }
@@ -93,31 +156,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Moisés cuidaba ovejas.", "verdadera": true, "porque": "Cuidaba las ovejas de su suegro." },
-            { "texto": "La zarza se quemó toda.", "verdadera": false, "porque": "¡Ardía, pero no se quemaba!" },
-            { "texto": "Dios le prometió: «Yo estaré contigo».", "verdadera": true, "porque": "Dios no deja solo a Moisés." }
+            {
+              "texto": "Moisés cuidaba ovejas.",
+              "verdadera": true,
+              "porque": "Cuidaba las ovejas de su suegro."
+            },
+            {
+              "texto": "La zarza se quemó toda.",
+              "verdadera": false,
+              "porque": "¡Ardía, pero no se quemaba!"
+            },
+            {
+              "texto": "Dios le prometió: «Yo estaré contigo».",
+              "verdadera": true,
+              "porque": "Dios no deja solo a Moisés."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Moisés vivía en Egipto cuando vio la zarza.", "verdadera": false, "porque": "Vivía en Madián, lejos de Egipto." },
-            { "texto": "La zarza ardía, pero no se consumía.", "verdadera": true, "porque": "Por eso Moisés se acercó a mirar." },
-            { "texto": "Dios le pidió quitarse las sandalias.", "verdadera": true, "porque": "Estaba pisando tierra santa." },
-            { "texto": "Dios no sabía que su pueblo sufría.", "verdadera": false, "porque": "Dios dijo: «He visto cómo sufre mi pueblo»." },
-            { "texto": "Dios envió a Moisés al faraón.", "verdadera": true, "porque": "Para sacar a su pueblo de Egipto." },
-            { "texto": "Moisés se sintió el mejor para esa misión.", "verdadera": false, "porque": "Dijo: «¿Quién soy yo?». Se sentía pequeño." }
+            {
+              "texto": "Moisés vivía en Egipto cuando vio la zarza.",
+              "verdadera": false,
+              "porque": "Vivía en Madián, lejos de Egipto."
+            },
+            {
+              "texto": "La zarza ardía, pero no se consumía.",
+              "verdadera": true,
+              "porque": "Por eso Moisés se acercó a mirar."
+            },
+            {
+              "texto": "Dios le pidió quitarse las sandalias.",
+              "verdadera": true,
+              "porque": "Estaba pisando tierra santa."
+            },
+            {
+              "texto": "Dios no sabía que su pueblo sufría.",
+              "verdadera": false,
+              "porque": "Dios dijo: «He visto cómo sufre mi pueblo»."
+            },
+            {
+              "texto": "Dios envió a Moisés al faraón.",
+              "verdadera": true,
+              "porque": "Para sacar a su pueblo de Egipto."
+            },
+            {
+              "texto": "Moisés se sintió el mejor para esa misión.",
+              "verdadera": false,
+              "porque": "Dijo: «¿Quién soy yo?». Se sentía pequeño."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "El suegro de Moisés era sacerdote de Madián.", "verdadera": true, "porque": "Se llamaba Jetro (Éxodo 3:1)." },
-            { "texto": "Moisés vio la zarza en el monte Horeb.", "verdadera": true, "porque": "Horeb, «monte de Dios» (Éxodo 3:1)." },
-            { "texto": "El ángel del Señor apareció en una nube.", "verdadera": false, "porque": "Apareció en una llama de fuego, en medio de una zarza (Éxodo 3:2)." },
-            { "texto": "Moisés se acercó para ver por qué la zarza no se quemaba.", "verdadera": true, "porque": "Así lo cuenta Éxodo 3:3." },
-            { "texto": "Dios se presentó como el Dios de Abraham, Isaac y Jacob.", "verdadera": true, "porque": "Era el Dios de sus antepasados (Éxodo 3:6)." },
-            { "texto": "Moisés miró fijamente a Dios sin ningún temor.", "verdadera": false, "porque": "Se cubrió el rostro (Éxodo 3:6)." },
-            { "texto": "Dios prometió una tierra «que fluye leche y miel».", "verdadera": true, "porque": "Una tierra buena y ancha (Éxodo 3:8)." },
-            { "texto": "Cuando Moisés preguntó su nombre, Dios no respondió.", "verdadera": false, "porque": "Dijo: «YO SOY EL QUE SOY» (Éxodo 3:14)." }
+            {
+              "texto": "El suegro de Moisés era sacerdote de Madián.",
+              "verdadera": true,
+              "porque": "Se llamaba Jetro (Éxodo 3:1)."
+            },
+            {
+              "texto": "Moisés vio la zarza en el monte Horeb.",
+              "verdadera": true,
+              "porque": "Horeb, «monte de Dios» (Éxodo 3:1)."
+            },
+            {
+              "texto": "El ángel del Señor apareció en una nube.",
+              "verdadera": false,
+              "porque": "Apareció en una llama de fuego, en medio de una zarza (Éxodo 3:2)."
+            },
+            {
+              "texto": "Moisés se acercó para ver por qué la zarza no se quemaba.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Éxodo 3:3."
+            },
+            {
+              "texto": "Dios se presentó como el Dios de Abraham, Isaac y Jacob.",
+              "verdadera": true,
+              "porque": "Era el Dios de sus antepasados (Éxodo 3:6)."
+            },
+            {
+              "texto": "Moisés miró fijamente a Dios sin ningún temor.",
+              "verdadera": false,
+              "porque": "Se cubrió el rostro (Éxodo 3:6)."
+            },
+            {
+              "texto": "Dios prometió una tierra «que fluye leche y miel».",
+              "verdadera": true,
+              "porque": "Una tierra buena y ancha (Éxodo 3:8)."
+            },
+            {
+              "texto": "Cuando Moisés preguntó su nombre, Dios no respondió.",
+              "verdadera": false,
+              "porque": "Dijo: «YO SOY EL QUE SOY» (Éxodo 3:14)."
+            }
           ]
         }
       }

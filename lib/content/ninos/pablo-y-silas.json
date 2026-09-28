@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Canto a Dios, ¡aun en la noche!", "referencia": "Hechos 16:25", "fuente": "adaptado" },
-    "6-8": { "texto": "A medianoche, Pablo y Silas oraban y cantaban himnos a Dios, y los otros presos los escuchaban.", "referencia": "Hechos 16:25", "fuente": "adaptado" },
-    "9-12": { "texto": "Mas a media noche, orando Pablo y Silas, cantaban himnos a Dios: y los que estaban presos los oían.", "referencia": "Hechos 16:25", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Canto a Dios, ¡aun en la noche!",
+      "referencia": "Hechos 16:25",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "A medianoche, Pablo y Silas oraban y cantaban himnos a Dios, y los otros presos los escuchaban.",
+      "referencia": "Hechos 16:25",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Mas a media noche, orando Pablo y Silas, cantaban himnos a Dios: y los que estaban presos los oían.",
+      "referencia": "Hechos 16:25",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,147 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué hicieron Pablo y Silas en la cárcel?", "opciones": ["Lloraron", "Oraron y cantaron"], "correcta": 1 },
-            { "texto": "¿Qué pasó de repente?", "opciones": ["La tierra tembló", "Empezó a nevar"], "correcta": 0 },
-            { "texto": "¿Qué le dijo Pablo al carcelero?", "opciones": ["«¡Cree en Jesús!»", "«¡Nos vamos!»"], "correcta": 0 }
+            {
+              "texto": "¿Qué hicieron Pablo y Silas en la cárcel?",
+              "opciones": [
+                "Lloraron",
+                "Oraron y cantaron"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué pasó de repente?",
+              "opciones": [
+                "La tierra tembló",
+                "Empezó a nevar"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué le dijo Pablo al carcelero?",
+              "opciones": [
+                "«¡Cree en Jesús!»",
+                "«¡Nos vamos!»"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿En qué ciudad estaban Pablo y Silas?", "opciones": ["Filipos", "Belén", "Nínive"], "correcta": 0 },
-            { "texto": "¿Por qué se enojaron los dueños de la muchacha?", "opciones": ["Porque Pablo cantaba", "Porque ya no ganarían dinero", "Porque llovía"], "correcta": 1 },
-            { "texto": "¿A qué hora cantaban Pablo y Silas?", "opciones": ["Al mediodía", "En la tarde", "A medianoche"], "correcta": 2 },
-            { "texto": "¿Qué hicieron los presos cuando se abrieron las puertas?", "opciones": ["Todos se quedaron", "Todos escaparon", "Se escondieron"], "correcta": 0, "explicacion": "Pablo dijo: «¡Todos estamos aquí!»." },
-            { "texto": "¿Qué hizo el carcelero esa noche?", "opciones": ["Los encerró otra vez", "Creyó en Jesús con su familia", "Se fue de la ciudad"], "correcta": 1 }
+            {
+              "texto": "¿En qué ciudad estaban Pablo y Silas?",
+              "opciones": [
+                "Filipos",
+                "Belén",
+                "Nínive"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Por qué se enojaron los dueños de la muchacha?",
+              "opciones": [
+                "Porque Pablo cantaba",
+                "Porque ya no ganarían dinero",
+                "Porque llovía"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿A qué hora cantaban Pablo y Silas?",
+              "opciones": [
+                "Al mediodía",
+                "En la tarde",
+                "A medianoche"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Qué hicieron los presos cuando se abrieron las puertas?",
+              "opciones": [
+                "Todos se quedaron",
+                "Todos escaparon",
+                "Se escondieron"
+              ],
+              "correcta": 0,
+              "explicacion": "Pablo dijo: «¡Todos estamos aquí!»."
+            },
+            {
+              "texto": "¿Qué hizo el carcelero esa noche?",
+              "opciones": [
+                "Los encerró otra vez",
+                "Creyó en Jesús con su familia",
+                "Se fue de la ciudad"
+              ],
+              "correcta": 1
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Con qué ganaban dinero los amos de la muchacha?", "opciones": ["Con su canto", "Con sus adivinaciones", "Vendiendo púrpura", "Con un mercado"], "correcta": 1, "explicacion": "Tenía un espíritu de adivinación (Hechos 16:16)." },
-            { "texto": "¿En nombre de quién liberó Pablo a la muchacha?", "opciones": ["De Silas", "De los magistrados", "De Jesucristo", "De Roma"], "correcta": 2 },
-            { "texto": "¿Dónde sujetaron los pies de Pablo y Silas?", "opciones": ["En el cepo", "En un barco", "En el templo", "En una cueva"], "correcta": 0, "explicacion": "En la cárcel de más adentro (Hechos 16:24)." },
-            { "texto": "Según Hechos 16:25, ¿quiénes oían a Pablo y Silas?", "opciones": ["Los magistrados", "Los que estaban presos", "Los ángeles", "Nadie"], "correcta": 1 },
-            { "texto": "¿Qué pensó el carcelero al ver las puertas abiertas?", "opciones": ["Que era un sueño", "Que los presos habían huido", "Que llegaba el rey", "Que Pablo había roto la puerta"], "correcta": 1 },
-            { "texto": "¿Qué hizo el carcelero con las heridas de Pablo y Silas?", "opciones": ["Nada", "Las lavó", "Se burló", "Llamó a un médico romano"], "correcta": 1, "explicacion": "«Les lavó los azotes» y luego les puso la mesa (Hechos 16:33-34)." }
+            {
+              "texto": "¿Con qué ganaban dinero los amos de la muchacha?",
+              "opciones": [
+                "Con su canto",
+                "Con sus adivinaciones",
+                "Vendiendo púrpura",
+                "Con un mercado"
+              ],
+              "correcta": 1,
+              "explicacion": "Tenía un espíritu de adivinación (Hechos 16:16)."
+            },
+            {
+              "texto": "¿En nombre de quién liberó Pablo a la muchacha?",
+              "opciones": [
+                "De Silas",
+                "De los magistrados",
+                "De Jesucristo",
+                "De Roma"
+              ],
+              "correcta": 2
+            },
+            {
+              "texto": "¿Dónde sujetaron los pies de Pablo y Silas?",
+              "opciones": [
+                "En el cepo",
+                "En un barco",
+                "En el templo",
+                "En una cueva"
+              ],
+              "correcta": 0,
+              "explicacion": "En la cárcel de más adentro (Hechos 16:24)."
+            },
+            {
+              "texto": "Según Hechos 16:25, ¿quiénes oían a Pablo y Silas?",
+              "opciones": [
+                "Los magistrados",
+                "Los que estaban presos",
+                "Los ángeles",
+                "Nadie"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué pensó el carcelero al ver las puertas abiertas?",
+              "opciones": [
+                "Que era un sueño",
+                "Que los presos habían huido",
+                "Que llegaba el rey",
+                "Que Pablo había roto la puerta"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué hizo el carcelero con las heridas de Pablo y Silas?",
+              "opciones": [
+                "Nada",
+                "Las lavó",
+                "Se burló",
+                "Llamó a un médico romano"
+              ],
+              "correcta": 1,
+              "explicacion": "«Les lavó los azotes» y luego les puso la mesa (Hechos 16:33-34)."
+            }
           ]
         }
       }

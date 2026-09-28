@@ -55,9 +55,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios lo hizo todo muy bueno.", "referencia": "Génesis 1:31", "fuente": "adaptado" },
-    "6-8": { "texto": "Dios vio todo lo que había hecho, y era muy bueno.", "referencia": "Génesis 1:31", "fuente": "adaptado" },
-    "9-12": { "texto": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.", "referencia": "Génesis 1:31", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios lo hizo todo muy bueno.",
+      "referencia": "Génesis 1:31",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dios vio todo lo que había hecho, y era muy bueno.",
+      "referencia": "Génesis 1:31",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.",
+      "referencia": "Génesis 1:31",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -98,32 +110,86 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["el sol", "el día"],
-            ["la luna", "la noche"],
-            ["los peces", "el mar"],
-            ["los pájaros", "el cielo"]
+            [
+              "el sol",
+              "el día"
+            ],
+            [
+              "la luna",
+              "la noche"
+            ],
+            [
+              "los peces",
+              "el mar"
+            ],
+            [
+              "los pájaros",
+              "el cielo"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Día 1", "la luz"],
-            ["Día 3", "las plantas"],
-            ["Día 4", "el sol y la luna"],
-            ["Día 5", "peces y aves"],
-            ["Día 6", "las personas"],
-            ["Día 7", "el descanso"]
+            [
+              "Día 1",
+              "la luz"
+            ],
+            [
+              "Día 3",
+              "las plantas"
+            ],
+            [
+              "Día 4",
+              "el sol y la luna"
+            ],
+            [
+              "Día 5",
+              "peces y aves"
+            ],
+            [
+              "Día 6",
+              "las personas"
+            ],
+            [
+              "Día 7",
+              "el descanso"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Día 1", "la luz"],
-            ["Día 2", "los cielos"],
-            ["Día 3", "la tierra seca y las plantas"],
-            ["Día 4", "las lumbreras y las estrellas"],
-            ["Día 5", "peces, ballenas y aves"],
-            ["Día 6", "animales y ser humano"],
-            ["Día 7", "Dios reposa"],
-            ["Génesis 1:1", "En el principio"]
+            [
+              "Día 1",
+              "la luz"
+            ],
+            [
+              "Día 2",
+              "los cielos"
+            ],
+            [
+              "Día 3",
+              "la tierra seca y las plantas"
+            ],
+            [
+              "Día 4",
+              "las lumbreras y las estrellas"
+            ],
+            [
+              "Día 5",
+              "peces, ballenas y aves"
+            ],
+            [
+              "Día 6",
+              "animales y ser humano"
+            ],
+            [
+              "Día 7",
+              "Dios reposa"
+            ],
+            [
+              "Génesis 1:1",
+              "En el principio"
+            ]
           ]
         }
       }

@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me escucha cuando oro.", "referencia": "1 Samuel 1:27", "fuente": "adaptado" },
-    "6-8": { "texto": "Cuéntale a Dios lo que hay en tu corazón: Él te escucha.", "referencia": "1 Samuel 1:15", "fuente": "adaptado" },
-    "9-12": { "texto": "Por este niño oraba, y Jehová me dio lo que le pedí.", "referencia": "1 Samuel 1:27", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me escucha cuando oro.",
+      "referencia": "1 Samuel 1:27",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Cuéntale a Dios lo que hay en tu corazón: Él te escucha.",
+      "referencia": "1 Samuel 1:15",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Por este niño oraba, y Jehová me dio lo que le pedí.",
+      "referencia": "1 Samuel 1:27",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -57,7 +69,11 @@
       "enunciado": "¿Qué pasó primero? Pon en orden la historia de Ana.",
       "niveles": {
         "3-5": {
-          "items": ["Ana está triste", "Ana ora a Dios", "¡Nace Samuel!"]
+          "items": [
+            "Ana está triste",
+            "Ana ora a Dios",
+            "¡Nace Samuel!"
+          ]
         },
         "6-8": {
           "items": [
@@ -86,31 +102,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Ana le contó a Dios su tristeza.", "verdadera": true, "porque": "Ana oró con todo su corazón." },
-            { "texto": "Dios no escuchó a Ana.", "verdadera": false, "porque": "Dios la escuchó y le dio a Samuel." },
-            { "texto": "El bebé de Ana se llamó Samuel.", "verdadera": true, "porque": "¡Samuel, el niño que Ana pidió a Dios!" }
+            {
+              "texto": "Ana le contó a Dios su tristeza.",
+              "verdadera": true,
+              "porque": "Ana oró con todo su corazón."
+            },
+            {
+              "texto": "Dios no escuchó a Ana.",
+              "verdadera": false,
+              "porque": "Dios la escuchó y le dio a Samuel."
+            },
+            {
+              "texto": "El bebé de Ana se llamó Samuel.",
+              "verdadera": true,
+              "porque": "¡Samuel, el niño que Ana pidió a Dios!"
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Ana estaba triste porque no tenía hijos.", "verdadera": true, "porque": "Y además Penina se burlaba de ella." },
-            { "texto": "Ana oró gritando muy fuerte.", "verdadera": false, "porque": "Oró en silencio: solo movía los labios." },
-            { "texto": "Al principio, Elí pensó que Ana había tomado vino.", "verdadera": true, "porque": "No entendía por qué movía los labios sin sonido." },
-            { "texto": "Elí le dijo: «Ve en paz».", "verdadera": true, "porque": "Y le deseó que Dios le diera lo que pedía." },
-            { "texto": "Ana le puso Samuel porque se lo había pedido al Señor.", "verdadera": true, "porque": "Así lo explicó ella misma." },
-            { "texto": "Ana nunca volvió a ver a Samuel.", "verdadera": false, "porque": "Cada año lo visitaba y le llevaba una túnica." }
+            {
+              "texto": "Ana estaba triste porque no tenía hijos.",
+              "verdadera": true,
+              "porque": "Y además Penina se burlaba de ella."
+            },
+            {
+              "texto": "Ana oró gritando muy fuerte.",
+              "verdadera": false,
+              "porque": "Oró en silencio: solo movía los labios."
+            },
+            {
+              "texto": "Al principio, Elí pensó que Ana había tomado vino.",
+              "verdadera": true,
+              "porque": "No entendía por qué movía los labios sin sonido."
+            },
+            {
+              "texto": "Elí le dijo: «Ve en paz».",
+              "verdadera": true,
+              "porque": "Y le deseó que Dios le diera lo que pedía."
+            },
+            {
+              "texto": "Ana le puso Samuel porque se lo había pedido al Señor.",
+              "verdadera": true,
+              "porque": "Así lo explicó ella misma."
+            },
+            {
+              "texto": "Ana nunca volvió a ver a Samuel.",
+              "verdadera": false,
+              "porque": "Cada año lo visitaba y le llevaba una túnica."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Ana y Penina eran las dos esposas de Elcana.", "verdadera": true, "porque": "1 Samuel 1:2." },
-            { "texto": "Elcana amaba a Ana.", "verdadera": true, "porque": "Le daba una parte escogida y la consolaba (1 Samuel 1:5, 8)." },
-            { "texto": "Ana prometió que su hijo serviría al Señor solo unos años.", "verdadera": false, "porque": "Prometió «todos los días de su vida» (1 Samuel 1:11)." },
-            { "texto": "Elí vio que Ana movía los labios sin que se oyera su voz.", "verdadera": true, "porque": "Oraba en su corazón (1 Samuel 1:13)." },
-            { "texto": "Después de orar, Ana siguió sin comer.", "verdadera": false, "porque": "Comió y ya no estuvo triste (1 Samuel 1:18)." },
-            { "texto": "Ana llevó a Samuel a Silo apenas nació.", "verdadera": false, "porque": "Esperó a que dejara de tomar pecho (1 Samuel 1:22-24)." },
-            { "texto": "Ana le dijo a Elí: «Por este niño oraba».", "verdadera": true, "porque": "1 Samuel 1:27." },
-            { "texto": "Después de Samuel, Ana tuvo cinco hijos más.", "verdadera": true, "porque": "Tres hijos y dos hijas (1 Samuel 2:21)." }
+            {
+              "texto": "Ana y Penina eran las dos esposas de Elcana.",
+              "verdadera": true,
+              "porque": "1 Samuel 1:2."
+            },
+            {
+              "texto": "Elcana amaba a Ana.",
+              "verdadera": true,
+              "porque": "Le daba una parte escogida y la consolaba (1 Samuel 1:5, 8)."
+            },
+            {
+              "texto": "Ana prometió que su hijo serviría al Señor solo unos años.",
+              "verdadera": false,
+              "porque": "Prometió «todos los días de su vida» (1 Samuel 1:11)."
+            },
+            {
+              "texto": "Elí vio que Ana movía los labios sin que se oyera su voz.",
+              "verdadera": true,
+              "porque": "Oraba en su corazón (1 Samuel 1:13)."
+            },
+            {
+              "texto": "Después de orar, Ana siguió sin comer.",
+              "verdadera": false,
+              "porque": "Comió y ya no estuvo triste (1 Samuel 1:18)."
+            },
+            {
+              "texto": "Ana llevó a Samuel a Silo apenas nació.",
+              "verdadera": false,
+              "porque": "Esperó a que dejara de tomar pecho (1 Samuel 1:22-24)."
+            },
+            {
+              "texto": "Ana le dijo a Elí: «Por este niño oraba».",
+              "verdadera": true,
+              "porque": "1 Samuel 1:27."
+            },
+            {
+              "texto": "Después de Samuel, Ana tuvo cinco hijos más.",
+              "verdadera": true,
+              "porque": "Tres hijos y dos hijas (1 Samuel 2:21)."
+            }
           ]
         }
       }

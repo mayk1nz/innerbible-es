@@ -55,9 +55,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios ama a todas las personas.", "referencia": "Jonás 4:11", "fuente": "adaptado" },
-    "6-8": { "texto": "Dios es bueno y compasivo, paciente y lleno de amor.", "referencia": "Jonás 4:2", "fuente": "adaptado" },
-    "9-12": { "texto": "Misericordioso y clemente es Jehová; lento para la ira, y grande en misericordia.", "referencia": "Salmos 103:8", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios ama a todas las personas.",
+      "referencia": "Jonás 4:11",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dios es bueno y compasivo, paciente y lleno de amor.",
+      "referencia": "Jonás 4:2",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Misericordioso y clemente es Jehová; lento para la ira, y grande en misericordia.",
+      "referencia": "Salmos 103:8",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -66,31 +78,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Jonás obedeció enseguida.", "verdadera": false, "porque": "Primero huyó en un barco." },
-            { "texto": "Un gran pez se tragó a Jonás.", "verdadera": true, "porque": "Dios lo preparó para rescatarlo." },
-            { "texto": "Dios perdonó a la gente de Nínive.", "verdadera": true, "porque": "Dios los ama a todos." }
+            {
+              "texto": "Jonás obedeció enseguida.",
+              "verdadera": false,
+              "porque": "Primero huyó en un barco."
+            },
+            {
+              "texto": "Un gran pez se tragó a Jonás.",
+              "verdadera": true,
+              "porque": "Dios lo preparó para rescatarlo."
+            },
+            {
+              "texto": "Dios perdonó a la gente de Nínive.",
+              "verdadera": true,
+              "porque": "Dios los ama a todos."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Dios mandó a Jonás a Nínive.", "verdadera": true, "porque": "Quería avisar a la gran ciudad." },
-            { "texto": "Jonás tomó un barco hacia Nínive.", "verdadera": false, "porque": "Se fue hacia Tarsis, en dirección contraria." },
-            { "texto": "Durante la tormenta, Jonás estaba dormido.", "verdadera": true, "porque": "Dormía en el fondo del barco." },
-            { "texto": "Jonás pasó tres días y tres noches dentro del pez.", "verdadera": true, "porque": "Allí oró a Dios." },
-            { "texto": "La gente de Nínive no hizo caso.", "verdadera": false, "porque": "Creyeron a Dios y dejaron su mal camino." },
-            { "texto": "Jonás se alegró de que Dios perdonara a Nínive.", "verdadera": false, "porque": "Se enojó, y Dios le enseñó a tener compasión." }
+            {
+              "texto": "Dios mandó a Jonás a Nínive.",
+              "verdadera": true,
+              "porque": "Quería avisar a la gran ciudad."
+            },
+            {
+              "texto": "Jonás tomó un barco hacia Nínive.",
+              "verdadera": false,
+              "porque": "Se fue hacia Tarsis, en dirección contraria."
+            },
+            {
+              "texto": "Durante la tormenta, Jonás estaba dormido.",
+              "verdadera": true,
+              "porque": "Dormía en el fondo del barco."
+            },
+            {
+              "texto": "Jonás pasó tres días y tres noches dentro del pez.",
+              "verdadera": true,
+              "porque": "Allí oró a Dios."
+            },
+            {
+              "texto": "La gente de Nínive no hizo caso.",
+              "verdadera": false,
+              "porque": "Creyeron a Dios y dejaron su mal camino."
+            },
+            {
+              "texto": "Jonás se alegró de que Dios perdonara a Nínive.",
+              "verdadera": false,
+              "porque": "Se enojó, y Dios le enseñó a tener compasión."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Nínive era una ciudad pequeña.", "verdadera": false, "porque": "Era «ciudad sobremanera grande, de tres días de camino» (Jonás 3:3)." },
-            { "texto": "Jonás bajó a Jope para huir a Tarsis.", "verdadera": true, "porque": "Así lo cuenta Jonás 1:3." },
-            { "texto": "Los marineros echaron suertes para saber quién causaba la tormenta.", "verdadera": true, "porque": "La suerte cayó sobre Jonás (Jonás 1:7)." },
-            { "texto": "Jonás dijo que adoraba al Dios que hizo la mar y la tierra.", "verdadera": true, "porque": "Así se presentó ante los marineros (Jonás 1:9)." },
-            { "texto": "Jonás oró desde el vientre del pez.", "verdadera": true, "porque": "Su oración está en Jonás 2." },
-            { "texto": "Dios habló a Jonás una sola vez.", "verdadera": false, "porque": "Le habló «segunda vez» (Jonás 3:1)." },
-            { "texto": "El rey de Nínive se vistió de saco y se sentó en ceniza.", "verdadera": true, "porque": "Así mostró su arrepentimiento (Jonás 3:6)." },
-            { "texto": "Jonás huyó porque pensaba que Dios era demasiado duro.", "verdadera": false, "porque": "Huyó porque sabía que Dios es clemente y misericordioso (Jonás 4:2)." }
+            {
+              "texto": "Nínive era una ciudad pequeña.",
+              "verdadera": false,
+              "porque": "Era «ciudad sobremanera grande, de tres días de camino» (Jonás 3:3)."
+            },
+            {
+              "texto": "Jonás bajó a Jope para huir a Tarsis.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Jonás 1:3."
+            },
+            {
+              "texto": "Los marineros echaron suertes para saber quién causaba la tormenta.",
+              "verdadera": true,
+              "porque": "La suerte cayó sobre Jonás (Jonás 1:7)."
+            },
+            {
+              "texto": "Jonás dijo que adoraba al Dios que hizo la mar y la tierra.",
+              "verdadera": true,
+              "porque": "Así se presentó ante los marineros (Jonás 1:9)."
+            },
+            {
+              "texto": "Jonás oró desde el vientre del pez.",
+              "verdadera": true,
+              "porque": "Su oración está en Jonás 2."
+            },
+            {
+              "texto": "Dios habló a Jonás una sola vez.",
+              "verdadera": false,
+              "porque": "Le habló «segunda vez» (Jonás 3:1)."
+            },
+            {
+              "texto": "El rey de Nínive se vistió de saco y se sentó en ceniza.",
+              "verdadera": true,
+              "porque": "Así mostró su arrepentimiento (Jonás 3:6)."
+            },
+            {
+              "texto": "Jonás huyó porque pensaba que Dios era demasiado duro.",
+              "verdadera": false,
+              "porque": "Huyó porque sabía que Dios es clemente y misericordioso (Jonás 4:2)."
+            }
           ]
         }
       }

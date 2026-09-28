@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios me cuida cada día.", "referencia": "Éxodo 16:4", "fuente": "adaptado" },
-    "6-8": { "texto": "Haré llover pan del cielo para ustedes, cada día.", "referencia": "Éxodo 16:4", "fuente": "adaptado" },
-    "9-12": { "texto": "Danos hoy nuestro pan cotidiano.", "referencia": "Mateo 6:11", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios me cuida cada día.",
+      "referencia": "Éxodo 16:4",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Haré llover pan del cielo para ustedes, cada día.",
+      "referencia": "Éxodo 16:4",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Danos hoy nuestro pan cotidiano.",
+      "referencia": "Mateo 6:11",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,28 +70,151 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué les dio Dios en el desierto?", "opciones": ["Pan del cielo", "Helados"], "correcta": 0 },
-            { "texto": "¿Cuándo aparecía el maná?", "opciones": ["En la noche", "En la mañana"], "correcta": 1 },
-            { "texto": "¿A qué sabía el maná?", "opciones": ["A miel", "A limón"], "correcta": 0 }
+            {
+              "texto": "¿Qué les dio Dios en el desierto?",
+              "opciones": [
+                "Pan del cielo",
+                "Helados"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Cuándo aparecía el maná?",
+              "opciones": [
+                "En la noche",
+                "En la mañana"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿A qué sabía el maná?",
+              "opciones": [
+                "A miel",
+                "A limón"
+              ],
+              "correcta": 0
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Por qué se quejaba el pueblo en el desierto?", "opciones": ["Tenían frío", "Tenían hambre", "Querían dormir"], "correcta": 1 },
-            { "texto": "¿Qué llegó en la tarde para comer?", "opciones": ["Codornices", "Peces", "Manzanas"], "correcta": 0 },
-            { "texto": "¿Qué preguntó la gente al ver el maná?", "opciones": ["«¿Dónde está Moisés?»", "«¿Qué es esto?»", "«¿Ya llegamos?»"], "correcta": 1 },
-            { "texto": "¿Qué pasaba si guardaban maná para otro día?", "opciones": ["Se volvía oro", "Crecía más", "Se llenaba de gusanos"], "correcta": 2, "explicacion": "Dios quería que confiaran en Él cada mañana." },
-            { "texto": "¿Qué pasaba el séptimo día?", "opciones": ["Descansaban", "Caía maná doble", "Volvían a Egipto"], "correcta": 0, "explicacion": "El sexto día recogían el doble para poder descansar." }
+            {
+              "texto": "¿Por qué se quejaba el pueblo en el desierto?",
+              "opciones": [
+                "Tenían frío",
+                "Tenían hambre",
+                "Querían dormir"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué llegó en la tarde para comer?",
+              "opciones": [
+                "Codornices",
+                "Peces",
+                "Manzanas"
+              ],
+              "correcta": 0
+            },
+            {
+              "texto": "¿Qué preguntó la gente al ver el maná?",
+              "opciones": [
+                "«¿Dónde está Moisés?»",
+                "«¿Qué es esto?»",
+                "«¿Ya llegamos?»"
+              ],
+              "correcta": 1
+            },
+            {
+              "texto": "¿Qué pasaba si guardaban maná para otro día?",
+              "opciones": [
+                "Se volvía oro",
+                "Crecía más",
+                "Se llenaba de gusanos"
+              ],
+              "correcta": 2,
+              "explicacion": "Dios quería que confiaran en Él cada mañana."
+            },
+            {
+              "texto": "¿Qué pasaba el séptimo día?",
+              "opciones": [
+                "Descansaban",
+                "Caía maná doble",
+                "Volvían a Egipto"
+              ],
+              "correcta": 0,
+              "explicacion": "El sexto día recogían el doble para poder descansar."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿En qué desierto empezó a caer el maná?", "opciones": ["Sin", "Sahara", "Gobi", "Atacama"], "correcta": 0, "explicacion": "El desierto de Sin, entre Elim y Sinaí (Éxodo 16:1)." },
-            { "texto": "En esta historia, ¿qué significa «murmurar»?", "opciones": ["Cantar bajito", "Quejarse contra alguien", "Orar en silencio", "Contar secretos"], "correcta": 1, "explicacion": "El pueblo se quejaba contra Moisés y Aarón, y en el fondo contra Dios (Éxodo 16:8)." },
-            { "texto": "¿Cuánto maná recogía cada persona?", "opciones": ["Un gomer", "Un saco lleno", "Todo lo que pudiera", "Nada, se lo daban"], "correcta": 0, "explicacion": "Un gomer por persona (Éxodo 16:16)." },
-            { "texto": "¿Por qué el sexto día recogían el doble?", "opciones": ["Porque tenían más hambre", "Porque el séptimo día era de descanso", "Porque iban de viaje", "Porque Moisés lo vendía"], "correcta": 1, "explicacion": "El séptimo día era el sábado y no caía maná (Éxodo 16:26)." },
-            { "texto": "¿Cuántos años comió maná el pueblo?", "opciones": ["Siete", "Doce", "Cuarenta", "Cien"], "correcta": 2, "explicacion": "Hasta llegar a Canaán (Éxodo 16:35)." },
-            { "texto": "¿Qué oración de Jesús nos recuerda esta historia?", "opciones": ["«Danos hoy nuestro pan de cada día»", "«Habla, Señor, que tu siervo escucha»", "«Señor, sálvame»", "«Hágase tu voluntad»"], "correcta": 0, "explicacion": "El Padrenuestro (Mateo 6:11): pedimos a Dios lo de cada día." }
+            {
+              "texto": "¿En qué desierto empezó a caer el maná?",
+              "opciones": [
+                "Sin",
+                "Sahara",
+                "Gobi",
+                "Atacama"
+              ],
+              "correcta": 0,
+              "explicacion": "El desierto de Sin, entre Elim y Sinaí (Éxodo 16:1)."
+            },
+            {
+              "texto": "En esta historia, ¿qué significa «murmurar»?",
+              "opciones": [
+                "Cantar bajito",
+                "Quejarse contra alguien",
+                "Orar en silencio",
+                "Contar secretos"
+              ],
+              "correcta": 1,
+              "explicacion": "El pueblo se quejaba contra Moisés y Aarón, y en el fondo contra Dios (Éxodo 16:8)."
+            },
+            {
+              "texto": "¿Cuánto maná recogía cada persona?",
+              "opciones": [
+                "Un gomer",
+                "Un saco lleno",
+                "Todo lo que pudiera",
+                "Nada, se lo daban"
+              ],
+              "correcta": 0,
+              "explicacion": "Un gomer por persona (Éxodo 16:16)."
+            },
+            {
+              "texto": "¿Por qué el sexto día recogían el doble?",
+              "opciones": [
+                "Porque tenían más hambre",
+                "Porque el séptimo día era de descanso",
+                "Porque iban de viaje",
+                "Porque Moisés lo vendía"
+              ],
+              "correcta": 1,
+              "explicacion": "El séptimo día era el sábado y no caía maná (Éxodo 16:26)."
+            },
+            {
+              "texto": "¿Cuántos años comió maná el pueblo?",
+              "opciones": [
+                "Siete",
+                "Doce",
+                "Cuarenta",
+                "Cien"
+              ],
+              "correcta": 2,
+              "explicacion": "Hasta llegar a Canaán (Éxodo 16:35)."
+            },
+            {
+              "texto": "¿Qué oración de Jesús nos recuerda esta historia?",
+              "opciones": [
+                "«Danos hoy nuestro pan de cada día»",
+                "«Habla, Señor, que tu siervo escucha»",
+                "«Señor, sálvame»",
+                "«Hágase tu voluntad»"
+              ],
+              "correcta": 0,
+              "explicacion": "El Padrenuestro (Mateo 6:11): pedimos a Dios lo de cada día."
+            }
           ]
         }
       }
@@ -88,9 +223,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas del pan del cielo.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["PAN", "MANÁ", "MIEL"], "diagonales": false, "seed": 1614 },
-        "6-8": { "tamano": 6, "palabras": ["MANÁ", "PAN", "MOISÉS", "MIEL"], "diagonales": false, "seed": 1615 },
-        "9-12": { "tamano": 10, "palabras": ["MANÁ", "CODORNIZ", "DESIERTO", "SÁBADO", "ROCÍO", "GOMER", "MOISÉS", "AARÓN"], "diagonales": true, "seed": 1635 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "PAN",
+            "MANÁ",
+            "MIEL"
+          ],
+          "diagonales": false,
+          "seed": 1614
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "MANÁ",
+            "PAN",
+            "MOISÉS",
+            "MIEL"
+          ],
+          "diagonales": false,
+          "seed": 1615
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "MANÁ",
+            "CODORNIZ",
+            "DESIERTO",
+            "SÁBADO",
+            "ROCÍO",
+            "GOMER",
+            "MOISÉS",
+            "AARÓN"
+          ],
+          "diagonales": true,
+          "seed": 1635
+        }
       }
     }
   ],

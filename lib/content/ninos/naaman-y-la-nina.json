@@ -55,18 +55,53 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡No hay otro Dios como nuestro Dios!", "referencia": "2 Reyes 5:15", "fuente": "adaptado" },
-    "6-8": { "texto": "Ve y lávate siete veces en el Jordán, y quedarás sano.", "referencia": "2 Reyes 5:10", "fuente": "adaptado" },
-    "9-12": { "texto": "Dijo a su señora: Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra.", "referencia": "2 Reyes 5:3", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡No hay otro Dios como nuestro Dios!",
+      "referencia": "2 Reyes 5:15",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Ve y lávate siete veces en el Jordán, y quedarás sano.",
+      "referencia": "2 Reyes 5:10",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Dijo a su señora: Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra.",
+      "referencia": "2 Reyes 5:3",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "ordenar",
       "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
       "niveles": {
-        "3-5": { "items": ["Naamán está enfermo.", "La niña habla del profeta.", "Naamán se lava en el río y queda sano."] },
-        "6-8": { "items": ["Naamán, el general, tiene lepra.", "La niña habla del profeta de Samaria.", "Naamán llega a la casa de Eliseo.", "Naamán se enoja, pero sus criados lo animan.", "Naamán se lava siete veces y queda sano."] },
-        "9-12": { "items": ["Una muchacha israelita sirve en casa de Naamán.", "Ella habla del profeta que está en Samaria.", "El rey de Israel rasga sus vestidos al leer la carta.", "Eliseo manda decir: «Lávate siete veces en el Jordán».", "Los criados convencen a Naamán de obedecer.", "Naamán queda limpio y reconoce al Dios de Israel."] }
+        "3-5": {
+          "items": [
+            "Naamán está enfermo.",
+            "La niña habla del profeta.",
+            "Naamán se lava en el río y queda sano."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Naamán, el general, tiene lepra.",
+            "La niña habla del profeta de Samaria.",
+            "Naamán llega a la casa de Eliseo.",
+            "Naamán se enoja, pero sus criados lo animan.",
+            "Naamán se lava siete veces y queda sano."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "Una muchacha israelita sirve en casa de Naamán.",
+            "Ella habla del profeta que está en Samaria.",
+            "El rey de Israel rasga sus vestidos al leer la carta.",
+            "Eliseo manda decir: «Lávate siete veces en el Jordán».",
+            "Los criados convencen a Naamán de obedecer.",
+            "Naamán queda limpio y reconoce al Dios de Israel."
+          ]
+        }
       }
     },
     {
@@ -75,31 +110,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "La niña ayudó a Naamán.", "verdadera": true, "porque": "Le habló del profeta de Dios." },
-            { "texto": "Naamán se lavó en el río tres veces.", "verdadera": false, "porque": "¡Fueron siete veces!" },
-            { "texto": "Dios sanó a Naamán.", "verdadera": true, "porque": "Su piel quedó sana, como la de un niño." }
+            {
+              "texto": "La niña ayudó a Naamán.",
+              "verdadera": true,
+              "porque": "Le habló del profeta de Dios."
+            },
+            {
+              "texto": "Naamán se lavó en el río tres veces.",
+              "verdadera": false,
+              "porque": "¡Fueron siete veces!"
+            },
+            {
+              "texto": "Dios sanó a Naamán.",
+              "verdadera": true,
+              "porque": "Su piel quedó sana, como la de un niño."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Naamán era un general de Siria.", "verdadera": true, "porque": "Era el jefe del ejército del rey de Siria." },
-            { "texto": "La niña era de Israel.", "verdadera": true, "porque": "Era una niña israelita que servía a la esposa de Naamán." },
-            { "texto": "Eliseo salió corriendo a recibir a Naamán.", "verdadera": false, "porque": "Eliseo solo le mandó un mensaje." },
-            { "texto": "Al principio, Naamán se enojó.", "verdadera": true, "porque": "Esperaba algo más espectacular." },
-            { "texto": "Naamán se lavó en un río de Damasco.", "verdadera": false, "porque": "Se lavó en el río Jordán, como dijo Eliseo." },
-            { "texto": "Eliseo aceptó muchos regalos.", "verdadera": false, "porque": "No aceptó nada: la sanidad era un regalo de Dios." }
+            {
+              "texto": "Naamán era un general de Siria.",
+              "verdadera": true,
+              "porque": "Era el jefe del ejército del rey de Siria."
+            },
+            {
+              "texto": "La niña era de Israel.",
+              "verdadera": true,
+              "porque": "Era una niña israelita que servía a la esposa de Naamán."
+            },
+            {
+              "texto": "Eliseo salió corriendo a recibir a Naamán.",
+              "verdadera": false,
+              "porque": "Eliseo solo le mandó un mensaje."
+            },
+            {
+              "texto": "Al principio, Naamán se enojó.",
+              "verdadera": true,
+              "porque": "Esperaba algo más espectacular."
+            },
+            {
+              "texto": "Naamán se lavó en un río de Damasco.",
+              "verdadera": false,
+              "porque": "Se lavó en el río Jordán, como dijo Eliseo."
+            },
+            {
+              "texto": "Eliseo aceptó muchos regalos.",
+              "verdadera": false,
+              "porque": "No aceptó nada: la sanidad era un regalo de Dios."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Naamán era valiente, pero tenía lepra.", "verdadera": true, "porque": "Así lo describe 2 Reyes 5:1." },
-            { "texto": "La muchacha servía a la esposa de Naamán.", "verdadera": true, "porque": "Lo dice 2 Reyes 5:2." },
-            { "texto": "El rey de Israel se alegró mucho al leer la carta.", "verdadera": false, "porque": "Rasgó sus vestidos, angustiado (2 Reyes 5:7)." },
-            { "texto": "Eliseo dijo: «Sabrá que hay profeta en Israel».", "verdadera": true, "porque": "Es su mensaje en 2 Reyes 5:8." },
-            { "texto": "Abana y Farfar eran ríos de Damasco.", "verdadera": true, "porque": "Naamán pensaba que eran mejores que el Jordán (2 Reyes 5:12)." },
-            { "texto": "Los criados llamaron a Naamán «Padre mío».", "verdadera": true, "porque": "Así le hablaron con respeto (2 Reyes 5:13)." },
-            { "texto": "Naamán se sumergió en el Jordán cinco veces.", "verdadera": false, "porque": "Fueron siete veces (2 Reyes 5:14)." },
-            { "texto": "Eliseo aceptó el presente de Naamán.", "verdadera": false, "porque": "Se negó: «No lo tomaré» (2 Reyes 5:16)." }
+            {
+              "texto": "Naamán era valiente, pero tenía lepra.",
+              "verdadera": true,
+              "porque": "Así lo describe 2 Reyes 5:1."
+            },
+            {
+              "texto": "La muchacha servía a la esposa de Naamán.",
+              "verdadera": true,
+              "porque": "Lo dice 2 Reyes 5:2."
+            },
+            {
+              "texto": "El rey de Israel se alegró mucho al leer la carta.",
+              "verdadera": false,
+              "porque": "Rasgó sus vestidos, angustiado (2 Reyes 5:7)."
+            },
+            {
+              "texto": "Eliseo dijo: «Sabrá que hay profeta en Israel».",
+              "verdadera": true,
+              "porque": "Es su mensaje en 2 Reyes 5:8."
+            },
+            {
+              "texto": "Abana y Farfar eran ríos de Damasco.",
+              "verdadera": true,
+              "porque": "Naamán pensaba que eran mejores que el Jordán (2 Reyes 5:12)."
+            },
+            {
+              "texto": "Los criados llamaron a Naamán «Padre mío».",
+              "verdadera": true,
+              "porque": "Así le hablaron con respeto (2 Reyes 5:13)."
+            },
+            {
+              "texto": "Naamán se sumergió en el Jordán cinco veces.",
+              "verdadera": false,
+              "porque": "Fueron siete veces (2 Reyes 5:14)."
+            },
+            {
+              "texto": "Eliseo aceptó el presente de Naamán.",
+              "verdadera": false,
+              "porque": "Se negó: «No lo tomaré» (2 Reyes 5:16)."
+            }
           ]
         }
       }

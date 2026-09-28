@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Hagan lo que Jesús les diga!", "referencia": "Juan 2:5", "fuente": "adaptado" },
-    "6-8": { "texto": "Este fue el primer milagro de Jesús: mostró su gloria, y sus discípulos creyeron en él.", "referencia": "Juan 2:11", "fuente": "adaptado" },
-    "9-12": { "texto": "Su madre dice a los que servían: Haced todo lo que os dijere.", "referencia": "Juan 2:5", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Hagan lo que Jesús les diga!",
+      "referencia": "Juan 2:5",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Este fue el primer milagro de Jesús: mostró su gloria, y sus discípulos creyeron en él.",
+      "referencia": "Juan 2:11",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Su madre dice a los que servían: Haced todo lo que os dijere.",
+      "referencia": "Juan 2:5",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "La fiesta era una boda.", "verdadera": true, "porque": "Era una boda en Caná." },
-            { "texto": "En la fiesta se acabó el agua.", "verdadera": false, "porque": "Se acabó el vino." },
-            { "texto": "Jesús convirtió el agua en vino.", "verdadera": true, "porque": "¡Fue su primer milagro!" }
+            {
+              "texto": "La fiesta era una boda.",
+              "verdadera": true,
+              "porque": "Era una boda en Caná."
+            },
+            {
+              "texto": "En la fiesta se acabó el agua.",
+              "verdadera": false,
+              "porque": "Se acabó el vino."
+            },
+            {
+              "texto": "Jesús convirtió el agua en vino.",
+              "verdadera": true,
+              "porque": "¡Fue su primer milagro!"
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "La boda fue en Caná de Galilea.", "verdadera": true, "porque": "Así lo cuenta Juan." },
-            { "texto": "María no estaba en la boda.", "verdadera": false, "porque": "La madre de Jesús estaba allí." },
-            { "texto": "María dijo: «Hagan todo lo que él les diga».", "verdadera": true, "porque": "Se lo dijo a los que servían." },
-            { "texto": "Las tinajas eran de madera.", "verdadera": false, "porque": "Eran de piedra." },
-            { "texto": "El encargado sabía de dónde venía el vino.", "verdadera": false, "porque": "No lo sabía, pero los sirvientes sí." },
-            { "texto": "Los discípulos creyeron en Jesús.", "verdadera": true, "porque": "Vieron su gloria y creyeron en él." }
+            {
+              "texto": "La boda fue en Caná de Galilea.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Juan."
+            },
+            {
+              "texto": "María no estaba en la boda.",
+              "verdadera": false,
+              "porque": "La madre de Jesús estaba allí."
+            },
+            {
+              "texto": "María dijo: «Hagan todo lo que él les diga».",
+              "verdadera": true,
+              "porque": "Se lo dijo a los que servían."
+            },
+            {
+              "texto": "Las tinajas eran de madera.",
+              "verdadera": false,
+              "porque": "Eran de piedra."
+            },
+            {
+              "texto": "El encargado sabía de dónde venía el vino.",
+              "verdadera": false,
+              "porque": "No lo sabía, pero los sirvientes sí."
+            },
+            {
+              "texto": "Los discípulos creyeron en Jesús.",
+              "verdadera": true,
+              "porque": "Vieron su gloria y creyeron en él."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "La boda fue «al tercer día».", "verdadera": true, "porque": "Así empieza Juan 2:1." },
-            { "texto": "Jesús fue a la boda con sus discípulos.", "verdadera": true, "porque": "Los invitaron a todos (Juan 2:2)." },
-            { "texto": "Jesús dijo: «Aún no ha venido mi hora».", "verdadera": true, "porque": "Se lo dijo a su madre (Juan 2:4)." },
-            { "texto": "Había doce tinajas de piedra.", "verdadera": false, "porque": "Eran seis (Juan 2:6)." },
-            { "texto": "Las tinajas eran para la purificación de los judíos.", "verdadera": true, "porque": "Así lo explica Juan 2:6." },
-            { "texto": "Los sirvientes llenaron las tinajas hasta la mitad.", "verdadera": false, "porque": "Las llenaron hasta arriba (Juan 2:7)." },
-            { "texto": "El maestresala le habló al novio del buen vino.", "verdadera": true, "porque": "Le dijo que había guardado el buen vino hasta ahora (Juan 2:10)." },
-            { "texto": "Este fue el último milagro de Jesús.", "verdadera": false, "porque": "Fue el «principio de señales» (Juan 2:11)." }
+            {
+              "texto": "La boda fue «al tercer día».",
+              "verdadera": true,
+              "porque": "Así empieza Juan 2:1."
+            },
+            {
+              "texto": "Jesús fue a la boda con sus discípulos.",
+              "verdadera": true,
+              "porque": "Los invitaron a todos (Juan 2:2)."
+            },
+            {
+              "texto": "Jesús dijo: «Aún no ha venido mi hora».",
+              "verdadera": true,
+              "porque": "Se lo dijo a su madre (Juan 2:4)."
+            },
+            {
+              "texto": "Había doce tinajas de piedra.",
+              "verdadera": false,
+              "porque": "Eran seis (Juan 2:6)."
+            },
+            {
+              "texto": "Las tinajas eran para la purificación de los judíos.",
+              "verdadera": true,
+              "porque": "Así lo explica Juan 2:6."
+            },
+            {
+              "texto": "Los sirvientes llenaron las tinajas hasta la mitad.",
+              "verdadera": false,
+              "porque": "Las llenaron hasta arriba (Juan 2:7)."
+            },
+            {
+              "texto": "El maestresala le habló al novio del buen vino.",
+              "verdadera": true,
+              "porque": "Le dijo que había guardado el buen vino hasta ahora (Juan 2:10)."
+            },
+            {
+              "texto": "Este fue el último milagro de Jesús.",
+              "verdadera": false,
+              "porque": "Fue el «principio de señales» (Juan 2:11)."
+            }
           ]
         }
       }
@@ -93,28 +173,157 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué se acabó en la fiesta?", "opciones": ["El vino", "Los globos"], "correcta": 0, "explicacion": "Se acabó el vino." },
-            { "texto": "¿Con qué llenaron las tinajas?", "opciones": ["Con arena", "Con agua"], "correcta": 1, "explicacion": "Las llenaron de agua hasta arriba." },
-            { "texto": "¿En qué se convirtió el agua?", "opciones": ["En vino", "En leche"], "correcta": 0, "explicacion": "¡Jesús hizo un milagro!" }
+            {
+              "texto": "¿Qué se acabó en la fiesta?",
+              "opciones": [
+                "El vino",
+                "Los globos"
+              ],
+              "correcta": 0,
+              "explicacion": "Se acabó el vino."
+            },
+            {
+              "texto": "¿Con qué llenaron las tinajas?",
+              "opciones": [
+                "Con arena",
+                "Con agua"
+              ],
+              "correcta": 1,
+              "explicacion": "Las llenaron de agua hasta arriba."
+            },
+            {
+              "texto": "¿En qué se convirtió el agua?",
+              "opciones": [
+                "En vino",
+                "En leche"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Jesús hizo un milagro!"
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Quién le avisó a Jesús que faltaba vino?", "opciones": ["María, su madre", "El novio", "Pedro"], "correcta": 0, "explicacion": "María le dijo: «Ya no tienen vino»." },
-            { "texto": "¿Cuántas tinajas de piedra había?", "opciones": ["Dos", "Seis", "Veinte"], "correcta": 1, "explicacion": "Había seis tinajas grandes." },
-            { "texto": "¿Qué les dijo María a los sirvientes?", "opciones": ["«Váyanse a casa»", "«Hagan todo lo que él les diga»", "«Compren más vino»"], "correcta": 1, "explicacion": "María confiaba en Jesús." },
-            { "texto": "¿A quién le llevaron primero el vino?", "opciones": ["Al encargado de la fiesta", "A la novia", "Al rey"], "correcta": 0, "explicacion": "Se lo llevaron al encargado para que lo probara." },
-            { "texto": "¿Qué hicieron los discípulos al ver el milagro?", "opciones": ["Se fueron", "Se rieron", "Creyeron en Jesús"], "correcta": 2, "explicacion": "Vieron su gloria y creyeron en él." }
+            {
+              "texto": "¿Quién le avisó a Jesús que faltaba vino?",
+              "opciones": [
+                "María, su madre",
+                "El novio",
+                "Pedro"
+              ],
+              "correcta": 0,
+              "explicacion": "María le dijo: «Ya no tienen vino»."
+            },
+            {
+              "texto": "¿Cuántas tinajas de piedra había?",
+              "opciones": [
+                "Dos",
+                "Seis",
+                "Veinte"
+              ],
+              "correcta": 1,
+              "explicacion": "Había seis tinajas grandes."
+            },
+            {
+              "texto": "¿Qué les dijo María a los sirvientes?",
+              "opciones": [
+                "«Váyanse a casa»",
+                "«Hagan todo lo que él les diga»",
+                "«Compren más vino»"
+              ],
+              "correcta": 1,
+              "explicacion": "María confiaba en Jesús."
+            },
+            {
+              "texto": "¿A quién le llevaron primero el vino?",
+              "opciones": [
+                "Al encargado de la fiesta",
+                "A la novia",
+                "Al rey"
+              ],
+              "correcta": 0,
+              "explicacion": "Se lo llevaron al encargado para que lo probara."
+            },
+            {
+              "texto": "¿Qué hicieron los discípulos al ver el milagro?",
+              "opciones": [
+                "Se fueron",
+                "Se rieron",
+                "Creyeron en Jesús"
+              ],
+              "correcta": 2,
+              "explicacion": "Vieron su gloria y creyeron en él."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿En qué región estaba Caná?", "opciones": ["Judea", "Galilea", "Samaria", "Egipto"], "correcta": 1, "explicacion": "Caná de Galilea (Juan 2:1)." },
-            { "texto": "¿Para qué era el agua de las tinajas?", "opciones": ["Para cocinar", "Para regar", "Para la purificación", "Para los animales"], "correcta": 2, "explicacion": "Era para la purificación de los judíos (Juan 2:6)." },
-            { "texto": "¿Qué quiere decir «maestresala»?", "opciones": ["El novio", "El encargado del banquete", "Un sirviente nuevo", "El padre de la novia"], "correcta": 1, "explicacion": "Era quien dirigía el banquete." },
-            { "texto": "¿Quiénes sabían de dónde venía el vino?", "opciones": ["Los sirvientes", "Los invitados", "El novio", "Nadie"], "correcta": 0, "explicacion": "Lo sabían los que habían sacado el agua (Juan 2:9)." },
-            { "texto": "¿Qué dijo el maestresala del vino?", "opciones": ["Que era peor", "Que era el mejor, guardado hasta ahora", "Que era agua", "Que era poco"], "correcta": 1, "explicacion": "«Tú has guardado el buen vino hasta ahora» (Juan 2:10)." },
-            { "texto": "¿Cómo llama Juan a este milagro?", "opciones": ["Una parábola", "El principio de señales", "Una profecía", "Un sueño"], "correcta": 1, "explicacion": "Fue la primera señal de Jesús (Juan 2:11)." }
+            {
+              "texto": "¿En qué región estaba Caná?",
+              "opciones": [
+                "Judea",
+                "Galilea",
+                "Samaria",
+                "Egipto"
+              ],
+              "correcta": 1,
+              "explicacion": "Caná de Galilea (Juan 2:1)."
+            },
+            {
+              "texto": "¿Para qué era el agua de las tinajas?",
+              "opciones": [
+                "Para cocinar",
+                "Para regar",
+                "Para la purificación",
+                "Para los animales"
+              ],
+              "correcta": 2,
+              "explicacion": "Era para la purificación de los judíos (Juan 2:6)."
+            },
+            {
+              "texto": "¿Qué quiere decir «maestresala»?",
+              "opciones": [
+                "El novio",
+                "El encargado del banquete",
+                "Un sirviente nuevo",
+                "El padre de la novia"
+              ],
+              "correcta": 1,
+              "explicacion": "Era quien dirigía el banquete."
+            },
+            {
+              "texto": "¿Quiénes sabían de dónde venía el vino?",
+              "opciones": [
+                "Los sirvientes",
+                "Los invitados",
+                "El novio",
+                "Nadie"
+              ],
+              "correcta": 0,
+              "explicacion": "Lo sabían los que habían sacado el agua (Juan 2:9)."
+            },
+            {
+              "texto": "¿Qué dijo el maestresala del vino?",
+              "opciones": [
+                "Que era peor",
+                "Que era el mejor, guardado hasta ahora",
+                "Que era agua",
+                "Que era poco"
+              ],
+              "correcta": 1,
+              "explicacion": "«Tú has guardado el buen vino hasta ahora» (Juan 2:10)."
+            },
+            {
+              "texto": "¿Cómo llama Juan a este milagro?",
+              "opciones": [
+                "Una parábola",
+                "El principio de señales",
+                "Una profecía",
+                "Un sueño"
+              ],
+              "correcta": 1,
+              "explicacion": "Fue la primera señal de Jesús (Juan 2:11)."
+            }
           ]
         }
       }

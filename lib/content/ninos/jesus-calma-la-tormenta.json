@@ -47,18 +47,63 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Silencio, viento! ¡Cálmate, mar!", "referencia": "Marcos 4:39", "fuente": "adaptado" },
-    "6-8": { "texto": "¿Quién es este, que hasta el viento y el mar le obedecen?", "referencia": "Marcos 4:41", "fuente": "adaptado" },
-    "9-12": { "texto": "Y levantándose, increpó al viento, y dijo a la mar: Calla, enmudece. Y cesó el viento, y fue hecha grande bonanza.", "referencia": "Marcos 4:39", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Silencio, viento! ¡Cálmate, mar!",
+      "referencia": "Marcos 4:39",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "¿Quién es este, que hasta el viento y el mar le obedecen?",
+      "referencia": "Marcos 4:41",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y levantándose, increpó al viento, y dijo a la mar: Calla, enmudece. Y cesó el viento, y fue hecha grande bonanza.",
+      "referencia": "Marcos 4:39",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la tormenta.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["MAR", "OLA", "BARCA"], "diagonales": false, "seed": 4435 },
-        "6-8": { "tamano": 6, "palabras": ["VIENTO", "OLAS", "BARCA", "CALMA"], "diagonales": false, "seed": 44356 },
-        "9-12": { "tamano": 10, "palabras": ["TEMPESTAD", "VIENTO", "OLAS", "BARCO", "CABEZAL", "BONANZA", "MAESTRO", "FE"], "diagonales": true, "seed": 443541 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "MAR",
+            "OLA",
+            "BARCA"
+          ],
+          "diagonales": false,
+          "seed": 4435
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "VIENTO",
+            "OLAS",
+            "BARCA",
+            "CALMA"
+          ],
+          "diagonales": false,
+          "seed": 44356
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "TEMPESTAD",
+            "VIENTO",
+            "OLAS",
+            "BARCO",
+            "CABEZAL",
+            "BONANZA",
+            "MAESTRO",
+            "FE"
+          ],
+          "diagonales": true,
+          "seed": 443541
+        }
       }
     },
     {
@@ -67,28 +112,157 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Qué hacía Jesús en la barca?", "opciones": ["Dormía", "Pescaba"], "correcta": 0, "explicacion": "Dormía tranquilo sobre una almohada." },
-            { "texto": "¿Qué le dijo Jesús al viento?", "opciones": ["¡Sopla más!", "¡Silencio!"], "correcta": 1, "explicacion": "Y el viento le obedeció." },
-            { "texto": "¿Qué pasó después?", "opciones": ["Todo quedó en calma", "Llovió más"], "correcta": 0, "explicacion": "¡Todo quedó en calma!" }
+            {
+              "texto": "¿Qué hacía Jesús en la barca?",
+              "opciones": [
+                "Dormía",
+                "Pescaba"
+              ],
+              "correcta": 0,
+              "explicacion": "Dormía tranquilo sobre una almohada."
+            },
+            {
+              "texto": "¿Qué le dijo Jesús al viento?",
+              "opciones": [
+                "¡Sopla más!",
+                "¡Silencio!"
+              ],
+              "correcta": 1,
+              "explicacion": "Y el viento le obedeció."
+            },
+            {
+              "texto": "¿Qué pasó después?",
+              "opciones": [
+                "Todo quedó en calma",
+                "Llovió más"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Todo quedó en calma!"
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿A dónde quería ir Jesús?", "opciones": ["Al otro lado del lago", "A Jerusalén", "A la montaña"], "correcta": 0, "explicacion": "Dijo: «Crucemos al otro lado»." },
-            { "texto": "¿Dónde dormía Jesús?", "opciones": ["En una casa", "En la barca, sobre un cojín", "En la arena"], "correcta": 1, "explicacion": "Dormía en la parte de atrás de la barca." },
-            { "texto": "¿Qué le dijeron los discípulos?", "opciones": ["«¿No te importa que nos hundamos?»", "«Queremos pescar»", "«Tenemos hambre»"], "correcta": 0, "explicacion": "Tenían mucho miedo." },
-            { "texto": "¿Qué pasó cuando Jesús habló?", "opciones": ["El viento sopló más", "Llegó otra barca", "El viento se detuvo"], "correcta": 2, "explicacion": "Todo quedó en una gran calma." },
-            { "texto": "¿Qué se preguntaban los discípulos?", "opciones": ["¿Quién es este?", "¿Qué hora es?", "¿Dónde está la orilla?"], "correcta": 0, "explicacion": "¡Hasta el viento y el lago le obedecían!" }
+            {
+              "texto": "¿A dónde quería ir Jesús?",
+              "opciones": [
+                "Al otro lado del lago",
+                "A Jerusalén",
+                "A la montaña"
+              ],
+              "correcta": 0,
+              "explicacion": "Dijo: «Crucemos al otro lado»."
+            },
+            {
+              "texto": "¿Dónde dormía Jesús?",
+              "opciones": [
+                "En una casa",
+                "En la barca, sobre un cojín",
+                "En la arena"
+              ],
+              "correcta": 1,
+              "explicacion": "Dormía en la parte de atrás de la barca."
+            },
+            {
+              "texto": "¿Qué le dijeron los discípulos?",
+              "opciones": [
+                "«¿No te importa que nos hundamos?»",
+                "«Queremos pescar»",
+                "«Tenemos hambre»"
+              ],
+              "correcta": 0,
+              "explicacion": "Tenían mucho miedo."
+            },
+            {
+              "texto": "¿Qué pasó cuando Jesús habló?",
+              "opciones": [
+                "El viento sopló más",
+                "Llegó otra barca",
+                "El viento se detuvo"
+              ],
+              "correcta": 2,
+              "explicacion": "Todo quedó en una gran calma."
+            },
+            {
+              "texto": "¿Qué se preguntaban los discípulos?",
+              "opciones": [
+                "¿Quién es este?",
+                "¿Qué hora es?",
+                "¿Dónde está la orilla?"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Hasta el viento y el lago le obedecían!"
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Cuándo dijo Jesús: «Pasemos de la otra parte»?", "opciones": ["Al amanecer", "Al mediodía", "Al caer la tarde", "A medianoche"], "correcta": 2, "explicacion": "«Cuando fue tarde» (Marcos 4:35)." },
-            { "texto": "¿Iba solo el barco de Jesús?", "opciones": ["Sí", "No, había otros barquitos", "Iba con un barco de soldados", "No se sabe"], "correcta": 1, "explicacion": "Había también otros barquitos (Marcos 4:36)." },
-            { "texto": "¿En qué parte del barco dormía Jesús?", "opciones": ["En la proa", "En la popa", "En el mástil", "En el agua"], "correcta": 1, "explicacion": "Dormía en la popa, sobre un cabezal (Marcos 4:38)." },
-            { "texto": "¿Qué palabras dijo Jesús a la mar?", "opciones": ["«Calla, enmudece»", "«Vete lejos»", "«Obedéceme, mar»", "«Paz a vosotros»"], "correcta": 0, "explicacion": "Así lo dice Marcos 4:39." },
-            { "texto": "¿Qué significa «bonanza»?", "opciones": ["Tormenta", "Riqueza", "Calma total", "Lluvia"], "correcta": 2, "explicacion": "El mar quedó en completa calma." },
-            { "texto": "¿Qué preguntó Jesús a sus discípulos?", "opciones": ["«¿Tenéis hambre?»", "«¿Cómo no tenéis fe?»", "«¿Dónde está Pedro?»", "«¿Quién me tocó?»"], "correcta": 1, "explicacion": "Así lo dice Marcos 4:40." }
+            {
+              "texto": "¿Cuándo dijo Jesús: «Pasemos de la otra parte»?",
+              "opciones": [
+                "Al amanecer",
+                "Al mediodía",
+                "Al caer la tarde",
+                "A medianoche"
+              ],
+              "correcta": 2,
+              "explicacion": "«Cuando fue tarde» (Marcos 4:35)."
+            },
+            {
+              "texto": "¿Iba solo el barco de Jesús?",
+              "opciones": [
+                "Sí",
+                "No, había otros barquitos",
+                "Iba con un barco de soldados",
+                "No se sabe"
+              ],
+              "correcta": 1,
+              "explicacion": "Había también otros barquitos (Marcos 4:36)."
+            },
+            {
+              "texto": "¿En qué parte del barco dormía Jesús?",
+              "opciones": [
+                "En la proa",
+                "En la popa",
+                "En el mástil",
+                "En el agua"
+              ],
+              "correcta": 1,
+              "explicacion": "Dormía en la popa, sobre un cabezal (Marcos 4:38)."
+            },
+            {
+              "texto": "¿Qué palabras dijo Jesús a la mar?",
+              "opciones": [
+                "«Calla, enmudece»",
+                "«Vete lejos»",
+                "«Obedéceme, mar»",
+                "«Paz a vosotros»"
+              ],
+              "correcta": 0,
+              "explicacion": "Así lo dice Marcos 4:39."
+            },
+            {
+              "texto": "¿Qué significa «bonanza»?",
+              "opciones": [
+                "Tormenta",
+                "Riqueza",
+                "Calma total",
+                "Lluvia"
+              ],
+              "correcta": 2,
+              "explicacion": "El mar quedó en completa calma."
+            },
+            {
+              "texto": "¿Qué preguntó Jesús a sus discípulos?",
+              "opciones": [
+                "«¿Tenéis hambre?»",
+                "«¿Cómo no tenéis fe?»",
+                "«¿Dónde está Pedro?»",
+                "«¿Quién me tocó?»"
+              ],
+              "correcta": 1,
+              "explicacion": "Así lo dice Marcos 4:40."
+            }
           ]
         }
       }

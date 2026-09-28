@@ -47,36 +47,105 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Nació Jesús, el Salvador!", "referencia": "Lucas 2:11", "fuente": "adaptado" },
-    "6-8": { "texto": "María envolvió a su hijo en pañales y lo acostó en un pesebre.", "referencia": "Lucas 2:7", "fuente": "adaptado" },
-    "9-12": { "texto": "Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.", "referencia": "Lucas 2:11", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Nació Jesús, el Salvador!",
+      "referencia": "Lucas 2:11",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "María envolvió a su hijo en pañales y lo acostó en un pesebre.",
+      "referencia": "Lucas 2:7",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.",
+      "referencia": "Lucas 2:11",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "memoria",
       "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
       "niveles": {
-        "3-5": { "pares": [["José", "Belén"], ["María", "los pañales"], ["Jesús", "el pesebre"]] },
+        "3-5": {
+          "pares": [
+            [
+              "José",
+              "Belén"
+            ],
+            [
+              "María",
+              "los pañales"
+            ],
+            [
+              "Jesús",
+              "el pesebre"
+            ]
+          ]
+        },
         "6-8": {
           "pares": [
-            ["José", "familia de David"],
-            ["María", "envolvió al bebé"],
-            ["Jesús", "el pesebre"],
-            ["Augusto", "el emperador"],
-            ["Belén", "ciudad de David"],
-            ["Nazaret", "de donde salieron"]
+            [
+              "José",
+              "familia de David"
+            ],
+            [
+              "María",
+              "envolvió al bebé"
+            ],
+            [
+              "Jesús",
+              "el pesebre"
+            ],
+            [
+              "Augusto",
+              "el emperador"
+            ],
+            [
+              "Belén",
+              "ciudad de David"
+            ],
+            [
+              "Nazaret",
+              "de donde salieron"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Augusto César", "ordenó el censo"],
-            ["Cirenio", "gobernador de Siria"],
-            ["José", "de la casa de David"],
-            ["María", "lo envolvió en pañales"],
-            ["Nazaret", "ciudad de Galilea"],
-            ["Belén", "ciudad de David, en Judea"],
-            ["el mesón", "no había lugar"],
-            ["el pesebre", "la primera cuna"]
+            [
+              "Augusto César",
+              "ordenó el censo"
+            ],
+            [
+              "Cirenio",
+              "gobernador de Siria"
+            ],
+            [
+              "José",
+              "de la casa de David"
+            ],
+            [
+              "María",
+              "lo envolvió en pañales"
+            ],
+            [
+              "Nazaret",
+              "ciudad de Galilea"
+            ],
+            [
+              "Belén",
+              "ciudad de David, en Judea"
+            ],
+            [
+              "el mesón",
+              "no había lugar"
+            ],
+            [
+              "el pesebre",
+              "la primera cuna"
+            ]
           ]
         }
       }
@@ -87,28 +156,157 @@
       "niveles": {
         "3-5": {
           "preguntas": [
-            { "texto": "¿Dónde nació Jesús?", "opciones": ["En Belén", "En el mar"], "correcta": 0, "explicacion": "Jesús nació en Belén." },
-            { "texto": "¿Dónde acostó María al bebé?", "opciones": ["En una cama de rey", "En un pesebre"], "correcta": 1, "explicacion": "Lo acostó en un pesebre." },
-            { "texto": "¿Cómo se llama el bebé?", "opciones": ["Jesús", "Moisés"], "correcta": 0, "explicacion": "¡Es Jesús, el regalo de Dios!" }
+            {
+              "texto": "¿Dónde nació Jesús?",
+              "opciones": [
+                "En Belén",
+                "En el mar"
+              ],
+              "correcta": 0,
+              "explicacion": "Jesús nació en Belén."
+            },
+            {
+              "texto": "¿Dónde acostó María al bebé?",
+              "opciones": [
+                "En una cama de rey",
+                "En un pesebre"
+              ],
+              "correcta": 1,
+              "explicacion": "Lo acostó en un pesebre."
+            },
+            {
+              "texto": "¿Cómo se llama el bebé?",
+              "opciones": [
+                "Jesús",
+                "Moisés"
+              ],
+              "correcta": 0,
+              "explicacion": "¡Es Jesús, el regalo de Dios!"
+            }
           ]
         },
         "6-8": {
           "preguntas": [
-            { "texto": "¿Quién ordenó que todos se anotaran en una lista?", "opciones": ["El rey David", "El emperador Augusto", "Herodes"], "correcta": 1, "explicacion": "Fue el emperador Augusto, desde Roma." },
-            { "texto": "¿De qué familia era José?", "opciones": ["Del rey David", "De Moisés", "De Noé"], "correcta": 0, "explicacion": "José era de la familia del rey David." },
-            { "texto": "¿Desde qué pueblo viajaron José y María?", "opciones": ["Desde Jerusalén", "Desde Nazaret", "Desde Egipto"], "correcta": 1, "explicacion": "Salieron de Nazaret, en Galilea." },
-            { "texto": "¿Por qué no se quedaron en el mesón?", "opciones": ["Porque no había lugar", "Porque era de noche", "Porque no les gustó"], "correcta": 0, "explicacion": "Belén estaba llena y no había lugar para ellos." },
-            { "texto": "¿Qué es un pesebre?", "opciones": ["Una cama de oro", "Un barco", "El cajón donde comen los animales"], "correcta": 2, "explicacion": "Fue la primera cuna de Jesús." }
+            {
+              "texto": "¿Quién ordenó que todos se anotaran en una lista?",
+              "opciones": [
+                "El rey David",
+                "El emperador Augusto",
+                "Herodes"
+              ],
+              "correcta": 1,
+              "explicacion": "Fue el emperador Augusto, desde Roma."
+            },
+            {
+              "texto": "¿De qué familia era José?",
+              "opciones": [
+                "Del rey David",
+                "De Moisés",
+                "De Noé"
+              ],
+              "correcta": 0,
+              "explicacion": "José era de la familia del rey David."
+            },
+            {
+              "texto": "¿Desde qué pueblo viajaron José y María?",
+              "opciones": [
+                "Desde Jerusalén",
+                "Desde Nazaret",
+                "Desde Egipto"
+              ],
+              "correcta": 1,
+              "explicacion": "Salieron de Nazaret, en Galilea."
+            },
+            {
+              "texto": "¿Por qué no se quedaron en el mesón?",
+              "opciones": [
+                "Porque no había lugar",
+                "Porque era de noche",
+                "Porque no les gustó"
+              ],
+              "correcta": 0,
+              "explicacion": "Belén estaba llena y no había lugar para ellos."
+            },
+            {
+              "texto": "¿Qué es un pesebre?",
+              "opciones": [
+                "Una cama de oro",
+                "Un barco",
+                "El cajón donde comen los animales"
+              ],
+              "correcta": 2,
+              "explicacion": "Fue la primera cuna de Jesús."
+            }
           ]
         },
         "9-12": {
           "preguntas": [
-            { "texto": "¿Qué ordenó Augusto César?", "opciones": ["Construir un templo", "Empadronar toda la tierra", "Una guerra", "Una fiesta"], "correcta": 1, "explicacion": "Ordenó un censo (Lucas 2:1)." },
-            { "texto": "¿Quién gobernaba Siria en ese tiempo?", "opciones": ["Pilato", "Herodes", "Cirenio", "Augusto"], "correcta": 2, "explicacion": "Cirenio era gobernador de Siria (Lucas 2:2)." },
-            { "texto": "¿Por qué José fue a Belén?", "opciones": ["Por trabajo", "Porque era de la casa y familia de David", "Para visitar el templo", "Para vender ovejas"], "correcta": 1, "explicacion": "Belén era la ciudad de David (Lucas 2:4)." },
-            { "texto": "¿De qué región salió José?", "opciones": ["Galilea", "Egipto", "Samaria", "Babilonia"], "correcta": 0, "explicacion": "Salió de Nazaret, en Galilea (Lucas 2:4)." },
-            { "texto": "¿Con qué envolvió María al niño?", "opciones": ["Con una manta de oro", "Con pañales", "Con hojas", "Con lana de camello"], "correcta": 1, "explicacion": "Lo envolvió en pañales (Lucas 2:7)." },
-            { "texto": "¿Qué profeta anunció que de Belén saldría un gobernante?", "opciones": ["Jonás", "Elías", "Miqueas", "Daniel"], "correcta": 2, "explicacion": "Miqueas 5:2; Mateo 2:6 lo cita." }
+            {
+              "texto": "¿Qué ordenó Augusto César?",
+              "opciones": [
+                "Construir un templo",
+                "Empadronar toda la tierra",
+                "Una guerra",
+                "Una fiesta"
+              ],
+              "correcta": 1,
+              "explicacion": "Ordenó un censo (Lucas 2:1)."
+            },
+            {
+              "texto": "¿Quién gobernaba Siria en ese tiempo?",
+              "opciones": [
+                "Pilato",
+                "Herodes",
+                "Cirenio",
+                "Augusto"
+              ],
+              "correcta": 2,
+              "explicacion": "Cirenio era gobernador de Siria (Lucas 2:2)."
+            },
+            {
+              "texto": "¿Por qué José fue a Belén?",
+              "opciones": [
+                "Por trabajo",
+                "Porque era de la casa y familia de David",
+                "Para visitar el templo",
+                "Para vender ovejas"
+              ],
+              "correcta": 1,
+              "explicacion": "Belén era la ciudad de David (Lucas 2:4)."
+            },
+            {
+              "texto": "¿De qué región salió José?",
+              "opciones": [
+                "Galilea",
+                "Egipto",
+                "Samaria",
+                "Babilonia"
+              ],
+              "correcta": 0,
+              "explicacion": "Salió de Nazaret, en Galilea (Lucas 2:4)."
+            },
+            {
+              "texto": "¿Con qué envolvió María al niño?",
+              "opciones": [
+                "Con una manta de oro",
+                "Con pañales",
+                "Con hojas",
+                "Con lana de camello"
+              ],
+              "correcta": 1,
+              "explicacion": "Lo envolvió en pañales (Lucas 2:7)."
+            },
+            {
+              "texto": "¿Qué profeta anunció que de Belén saldría un gobernante?",
+              "opciones": [
+                "Jonás",
+                "Elías",
+                "Miqueas",
+                "Daniel"
+              ],
+              "correcta": 2,
+              "explicacion": "Miqueas 5:2; Mateo 2:6 lo cita."
+            }
           ]
         }
       }

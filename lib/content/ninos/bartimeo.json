@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Jesús me escucha cuando lo llamo.", "referencia": "Marcos 10:49", "fuente": "adaptado" },
-    "6-8": { "texto": "Jesús le dijo: «Vete, tu fe te ha sanado». Y al momento pudo ver y siguió a Jesús.", "referencia": "Marcos 10:52", "fuente": "adaptado" },
-    "9-12": { "texto": "Y Jesús le dijo: Ve, tu fe te ha salvado. Y luego cobró la vista, y seguía a Jesús en el camino.", "referencia": "Marcos 10:52", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Jesús me escucha cuando lo llamo.",
+      "referencia": "Marcos 10:49",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Jesús le dijo: «Vete, tu fe te ha sanado». Y al momento pudo ver y siguió a Jesús.",
+      "referencia": "Marcos 10:52",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y Jesús le dijo: Ve, tu fe te ha salvado. Y luego cobró la vista, y seguía a Jesús en el camino.",
+      "referencia": "Marcos 10:52",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Bartimeo no podía ver.", "verdadera": true, "porque": "Bartimeo era ciego." },
-            { "texto": "Bartimeo se quedó callado.", "verdadera": false, "porque": "Gritó muy fuerte: «¡Jesús, ayúdame!»." },
-            { "texto": "Jesús sanó a Bartimeo.", "verdadera": true, "porque": "¡Bartimeo pudo ver!" }
+            {
+              "texto": "Bartimeo no podía ver.",
+              "verdadera": true,
+              "porque": "Bartimeo era ciego."
+            },
+            {
+              "texto": "Bartimeo se quedó callado.",
+              "verdadera": false,
+              "porque": "Gritó muy fuerte: «¡Jesús, ayúdame!»."
+            },
+            {
+              "texto": "Jesús sanó a Bartimeo.",
+              "verdadera": true,
+              "porque": "¡Bartimeo pudo ver!"
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Bartimeo pedía limosna junto al camino.", "verdadera": true, "porque": "Como no podía ver, pedía ayuda a los que pasaban." },
-            { "texto": "Bartimeo gritó: «¡Hijo de David, ten compasión de mí!».", "verdadera": true, "porque": "Sabía que Jesús podía ayudarlo." },
-            { "texto": "Cuando la gente lo regañó, Bartimeo se calló.", "verdadera": false, "porque": "Gritó todavía más fuerte." },
-            { "texto": "Jesús siguió caminando sin escucharlo.", "verdadera": false, "porque": "Jesús se detuvo y lo mandó llamar." },
-            { "texto": "Bartimeo tiró su capa y fue hacia Jesús.", "verdadera": true, "porque": "Se levantó de un salto." },
-            { "texto": "Después de ver, Bartimeo se fue lejos de Jesús.", "verdadera": false, "porque": "Siguió a Jesús por el camino." }
+            {
+              "texto": "Bartimeo pedía limosna junto al camino.",
+              "verdadera": true,
+              "porque": "Como no podía ver, pedía ayuda a los que pasaban."
+            },
+            {
+              "texto": "Bartimeo gritó: «¡Hijo de David, ten compasión de mí!».",
+              "verdadera": true,
+              "porque": "Sabía que Jesús podía ayudarlo."
+            },
+            {
+              "texto": "Cuando la gente lo regañó, Bartimeo se calló.",
+              "verdadera": false,
+              "porque": "Gritó todavía más fuerte."
+            },
+            {
+              "texto": "Jesús siguió caminando sin escucharlo.",
+              "verdadera": false,
+              "porque": "Jesús se detuvo y lo mandó llamar."
+            },
+            {
+              "texto": "Bartimeo tiró su capa y fue hacia Jesús.",
+              "verdadera": true,
+              "porque": "Se levantó de un salto."
+            },
+            {
+              "texto": "Después de ver, Bartimeo se fue lejos de Jesús.",
+              "verdadera": false,
+              "porque": "Siguió a Jesús por el camino."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "El nombre Bartimeo quiere decir «hijo de Timeo».", "verdadera": true, "porque": "Marcos lo explica: «Bartimeo el ciego, hijo de Timeo» (Marcos 10:46)." },
-            { "texto": "Jesús entraba a Jericó cuando encontró a Bartimeo.", "verdadera": false, "porque": "Marcos dice que Jesús salía de Jericó (Marcos 10:46)." },
-            { "texto": "Llamar a Jesús «Hijo de David» era reconocerlo como el Mesías.", "verdadera": true, "porque": "El Mesías prometido sería descendiente del rey David." },
-            { "texto": "Los que reprendían a Bartimeo lograron callarlo.", "verdadera": false, "porque": "Él «daba mayores voces» (Marcos 10:48)." },
-            { "texto": "Le dijeron: «Ten confianza: levántate, te llama».", "verdadera": true, "porque": "Así lo cuenta Marcos 10:49." },
-            { "texto": "Bartimeo llevó su capa consigo al ir hacia Jesús.", "verdadera": false, "porque": "Echó su capa y se levantó (Marcos 10:50)." },
-            { "texto": "Jesús le preguntó: «¿Qué quieres que te haga?».", "verdadera": true, "porque": "Jesús quiso escuchar su petición (Marcos 10:51)." },
-            { "texto": "Jesús le dijo: «Tu fe te ha salvado».", "verdadera": true, "porque": "Y luego cobró la vista (Marcos 10:52)." }
+            {
+              "texto": "El nombre Bartimeo quiere decir «hijo de Timeo».",
+              "verdadera": true,
+              "porque": "Marcos lo explica: «Bartimeo el ciego, hijo de Timeo» (Marcos 10:46)."
+            },
+            {
+              "texto": "Jesús entraba a Jericó cuando encontró a Bartimeo.",
+              "verdadera": false,
+              "porque": "Marcos dice que Jesús salía de Jericó (Marcos 10:46)."
+            },
+            {
+              "texto": "Llamar a Jesús «Hijo de David» era reconocerlo como el Mesías.",
+              "verdadera": true,
+              "porque": "El Mesías prometido sería descendiente del rey David."
+            },
+            {
+              "texto": "Los que reprendían a Bartimeo lograron callarlo.",
+              "verdadera": false,
+              "porque": "Él «daba mayores voces» (Marcos 10:48)."
+            },
+            {
+              "texto": "Le dijeron: «Ten confianza: levántate, te llama».",
+              "verdadera": true,
+              "porque": "Así lo cuenta Marcos 10:49."
+            },
+            {
+              "texto": "Bartimeo llevó su capa consigo al ir hacia Jesús.",
+              "verdadera": false,
+              "porque": "Echó su capa y se levantó (Marcos 10:50)."
+            },
+            {
+              "texto": "Jesús le preguntó: «¿Qué quieres que te haga?».",
+              "verdadera": true,
+              "porque": "Jesús quiso escuchar su petición (Marcos 10:51)."
+            },
+            {
+              "texto": "Jesús le dijo: «Tu fe te ha salvado».",
+              "verdadera": true,
+              "porque": "Y luego cobró la vista (Marcos 10:52)."
+            }
           ]
         }
       }

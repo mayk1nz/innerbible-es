@@ -47,27 +47,95 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Porque tú lo dices, lo haré!", "referencia": "Lucas 5:5", "fuente": "adaptado" },
-    "6-8": { "texto": "No tengas miedo: desde ahora serás pescador de personas.", "referencia": "Lucas 5:10", "fuente": "adaptado" },
-    "9-12": { "texto": "Y respondiendo Simón, le dijo: Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red.", "referencia": "Lucas 5:5", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Porque tú lo dices, lo haré!",
+      "referencia": "Lucas 5:5",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "No tengas miedo: desde ahora serás pescador de personas.",
+      "referencia": "Lucas 5:10",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y respondiendo Simón, le dijo: Maestro, habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red.",
+      "referencia": "Lucas 5:5",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
       "tipo": "ordenar",
       "enunciado": "¿Qué pasó primero? Pon la historia en orden.",
       "niveles": {
-        "3-5": { "items": ["Jesús enseña desde la barca.", "La red se llena de peces.", "Los pescadores siguen a Jesús."] },
-        "6-8": { "items": ["Los pescadores lavan sus redes.", "Jesús enseña desde la barca de Simón.", "Simón echa las redes porque Jesús lo dice.", "La red se llena y casi se rompe.", "Lo dejan todo y siguen a Jesús."] },
-        "9-12": { "items": ["La gente se agolpa para oír la palabra de Dios.", "Jesús enseña sentado en el barco de Simón.", "Jesús dice: «Tira a alta mar».", "Simón responde: «En tu palabra echaré la red».", "Los dos barcos se llenan hasta casi hundirse.", "Pedro cae de rodillas y Jesús le dice: «No temas»."] }
+        "3-5": {
+          "items": [
+            "Jesús enseña desde la barca.",
+            "La red se llena de peces.",
+            "Los pescadores siguen a Jesús."
+          ]
+        },
+        "6-8": {
+          "items": [
+            "Los pescadores lavan sus redes.",
+            "Jesús enseña desde la barca de Simón.",
+            "Simón echa las redes porque Jesús lo dice.",
+            "La red se llena y casi se rompe.",
+            "Lo dejan todo y siguen a Jesús."
+          ]
+        },
+        "9-12": {
+          "items": [
+            "La gente se agolpa para oír la palabra de Dios.",
+            "Jesús enseña sentado en el barco de Simón.",
+            "Jesús dice: «Tira a alta mar».",
+            "Simón responde: «En tu palabra echaré la red».",
+            "Los dos barcos se llenan hasta casi hundirse.",
+            "Pedro cae de rodillas y Jesús le dice: «No temas»."
+          ]
+        }
       }
     },
     {
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la pesca.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["RED", "PEZ", "BARCA"], "diagonales": false, "seed": 5111 },
-        "6-8": { "tamano": 6, "palabras": ["REDES", "PECES", "SIMÓN", "LAGO"], "diagonales": false, "seed": 51106 },
-        "9-12": { "tamano": 10, "palabras": ["PESCADORES", "REDES", "BARCOS", "SIMÓN", "JACOBO", "JUAN", "MAESTRO", "PALABRA"], "diagonales": true, "seed": 511012 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "RED",
+            "PEZ",
+            "BARCA"
+          ],
+          "diagonales": false,
+          "seed": 5111
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "REDES",
+            "PECES",
+            "SIMÓN",
+            "LAGO"
+          ],
+          "diagonales": false,
+          "seed": 51106
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "PESCADORES",
+            "REDES",
+            "BARCOS",
+            "SIMÓN",
+            "JACOBO",
+            "JUAN",
+            "MAESTRO",
+            "PALABRA"
+          ],
+          "diagonales": true,
+          "seed": 511012
+        }
       }
     }
   ],

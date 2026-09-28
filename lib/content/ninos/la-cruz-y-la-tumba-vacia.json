@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "¡Jesús está vivo!", "referencia": "Lucas 24:6", "fuente": "adaptado" },
-    "6-8": { "texto": "¿Por qué buscan entre los muertos al que vive? No está aquí: ¡ha resucitado!", "referencia": "Lucas 24:5-6", "fuente": "adaptado" },
-    "9-12": { "texto": "Y como tuviesen ellas temor, y bajasen el rostro a tierra, les dijeron: ¿Por qué buscáis entre los muertos al que vive?", "referencia": "Lucas 24:5", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "¡Jesús está vivo!",
+      "referencia": "Lucas 24:6",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "¿Por qué buscan entre los muertos al que vive? No está aquí: ¡ha resucitado!",
+      "referencia": "Lucas 24:5-6",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y como tuviesen ellas temor, y bajasen el rostro a tierra, les dijeron: ¿Por qué buscáis entre los muertos al que vive?",
+      "referencia": "Lucas 24:5",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -90,31 +102,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Jesús oró por los que le hacían daño.", "verdadera": true, "porque": "Dijo: «Padre, perdónalos»." },
-            { "texto": "Las mujeres encontraron a Jesús en la tumba.", "verdadera": false, "porque": "¡La tumba estaba vacía! Jesús resucitó." },
-            { "texto": "Jesús está vivo.", "verdadera": true, "porque": "¡Jesús resucitó!" }
+            {
+              "texto": "Jesús oró por los que le hacían daño.",
+              "verdadera": true,
+              "porque": "Dijo: «Padre, perdónalos»."
+            },
+            {
+              "texto": "Las mujeres encontraron a Jesús en la tumba.",
+              "verdadera": false,
+              "porque": "¡La tumba estaba vacía! Jesús resucitó."
+            },
+            {
+              "texto": "Jesús está vivo.",
+              "verdadera": true,
+              "porque": "¡Jesús resucitó!"
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Jesús había hecho algo malo.", "verdadera": false, "porque": "Jesús no había hecho nada malo." },
-            { "texto": "José de Arimatea puso a Jesús en una tumba nueva.", "verdadera": true, "porque": "Una tumba cavada en la roca, donde nadie había sido puesto." },
-            { "texto": "Las mujeres fueron a la tumba un domingo muy temprano.", "verdadera": true, "porque": "Fueron el primer día de la semana, muy de mañana." },
-            { "texto": "La piedra seguía cerrando la tumba.", "verdadera": false, "porque": "La piedra estaba corrida." },
-            { "texto": "Los apóstoles creyeron enseguida a las mujeres.", "verdadera": false, "porque": "Al principio no les creyeron." },
-            { "texto": "Pedro corrió a la tumba para ver.", "verdadera": true, "porque": "Miró dentro, vio las telas y se fue asombrado." }
+            {
+              "texto": "Jesús había hecho algo malo.",
+              "verdadera": false,
+              "porque": "Jesús no había hecho nada malo."
+            },
+            {
+              "texto": "José de Arimatea puso a Jesús en una tumba nueva.",
+              "verdadera": true,
+              "porque": "Una tumba cavada en la roca, donde nadie había sido puesto."
+            },
+            {
+              "texto": "Las mujeres fueron a la tumba un domingo muy temprano.",
+              "verdadera": true,
+              "porque": "Fueron el primer día de la semana, muy de mañana."
+            },
+            {
+              "texto": "La piedra seguía cerrando la tumba.",
+              "verdadera": false,
+              "porque": "La piedra estaba corrida."
+            },
+            {
+              "texto": "Los apóstoles creyeron enseguida a las mujeres.",
+              "verdadera": false,
+              "porque": "Al principio no les creyeron."
+            },
+            {
+              "texto": "Pedro corrió a la tumba para ver.",
+              "verdadera": true,
+              "porque": "Miró dentro, vio las telas y se fue asombrado."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Desde la cruz, Jesús pidió perdón para quienes lo crucificaban.", "verdadera": true, "porque": "«Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34)." },
-            { "texto": "José de Arimatea estuvo de acuerdo con condenar a Jesús.", "verdadera": false, "porque": "Lucas dice que no había consentido en esa decisión (Lucas 23:51)." },
-            { "texto": "Las mujeres reposaron el sábado, conforme al mandamiento.", "verdadera": true, "porque": "Así lo cuenta Lucas 23:56." },
-            { "texto": "Las mujeres esperaban encontrar la tumba vacía.", "verdadera": false, "porque": "Llevaban perfumes para el cuerpo: no lo esperaban (Lucas 24:1-3)." },
-            { "texto": "Los varones les preguntaron por qué buscaban entre los muertos al que vive.", "verdadera": true, "porque": "Lucas 24:5." },
-            { "texto": "Jesús nunca había anunciado que resucitaría.", "verdadera": false, "porque": "Lo había dicho en Galilea: «resucite al tercer día» (Lucas 24:6-7)." },
-            { "texto": "Entre las mujeres estaban María Magdalena y Juana.", "verdadera": true, "porque": "También María la madre de Jacobo y otras (Lucas 24:10)." },
-            { "texto": "Pedro vio el cuerpo de Jesús dentro del sepulcro.", "verdadera": false, "porque": "Vio «solos los lienzos echados» (Lucas 24:12)." }
+            {
+              "texto": "Desde la cruz, Jesús pidió perdón para quienes lo crucificaban.",
+              "verdadera": true,
+              "porque": "«Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34)."
+            },
+            {
+              "texto": "José de Arimatea estuvo de acuerdo con condenar a Jesús.",
+              "verdadera": false,
+              "porque": "Lucas dice que no había consentido en esa decisión (Lucas 23:51)."
+            },
+            {
+              "texto": "Las mujeres reposaron el sábado, conforme al mandamiento.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Lucas 23:56."
+            },
+            {
+              "texto": "Las mujeres esperaban encontrar la tumba vacía.",
+              "verdadera": false,
+              "porque": "Llevaban perfumes para el cuerpo: no lo esperaban (Lucas 24:1-3)."
+            },
+            {
+              "texto": "Los varones les preguntaron por qué buscaban entre los muertos al que vive.",
+              "verdadera": true,
+              "porque": "Lucas 24:5."
+            },
+            {
+              "texto": "Jesús nunca había anunciado que resucitaría.",
+              "verdadera": false,
+              "porque": "Lo había dicho en Galilea: «resucite al tercer día» (Lucas 24:6-7)."
+            },
+            {
+              "texto": "Entre las mujeres estaban María Magdalena y Juana.",
+              "verdadera": true,
+              "porque": "También María la madre de Jacobo y otras (Lucas 24:10)."
+            },
+            {
+              "texto": "Pedro vio el cuerpo de Jesús dentro del sepulcro.",
+              "verdadera": false,
+              "porque": "Vio «solos los lienzos echados» (Lucas 24:12)."
+            }
           ]
         }
       }

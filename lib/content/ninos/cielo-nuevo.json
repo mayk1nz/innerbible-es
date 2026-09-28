@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Dios hace nuevas todas las cosas.", "referencia": "Apocalipsis 21:5", "fuente": "adaptado" },
-    "6-8": { "texto": "Dios secará toda lágrima de sus ojos, y ya no habrá muerte, ni llanto, ni dolor.", "referencia": "Apocalipsis 21:4", "fuente": "adaptado" },
-    "9-12": { "texto": "Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y me dijo: Escribe; porque estas palabras son fieles y verdaderas.", "referencia": "Apocalipsis 21:5", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Dios hace nuevas todas las cosas.",
+      "referencia": "Apocalipsis 21:5",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Dios secará toda lágrima de sus ojos, y ya no habrá muerte, ni llanto, ni dolor.",
+      "referencia": "Apocalipsis 21:4",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y me dijo: Escribe; porque estas palabras son fieles y verdaderas.",
+      "referencia": "Apocalipsis 21:5",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Juan vio un cielo nuevo y una tierra nueva.", "verdadera": true, "porque": "Dios le mostró que hará todo nuevo." },
-            { "texto": "En la ciudad de Dios habrá mucha tristeza.", "verdadera": false, "porque": "Dios secará todas las lágrimas." },
-            { "texto": "Dios vivirá con su pueblo.", "verdadera": true, "porque": "Una gran voz lo anunció." }
+            {
+              "texto": "Juan vio un cielo nuevo y una tierra nueva.",
+              "verdadera": true,
+              "porque": "Dios le mostró que hará todo nuevo."
+            },
+            {
+              "texto": "En la ciudad de Dios habrá mucha tristeza.",
+              "verdadera": false,
+              "porque": "Dios secará todas las lágrimas."
+            },
+            {
+              "texto": "Dios vivirá con su pueblo.",
+              "verdadera": true,
+              "porque": "Una gran voz lo anunció."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Juan escribió lo que vio en el último libro de la Biblia.", "verdadera": true, "porque": "Es el libro del Apocalipsis." },
-            { "texto": "La ciudad santa subía desde la tierra.", "verdadera": false, "porque": "Bajaba del cielo, de parte de Dios." },
-            { "texto": "La ciudad estaba hermosa como una novia.", "verdadera": true, "porque": "Como una novia arreglada para su boda." },
-            { "texto": "En la ciudad de Dios hará falta mucha luz eléctrica.", "verdadera": false, "porque": "La luz de Dios lo ilumina todo." },
-            { "texto": "Dios secará toda lágrima.", "verdadera": true, "porque": "Ya no habrá muerte, ni llanto, ni dolor." },
-            { "texto": "Dios dijo: «Yo hago viejas todas las cosas».", "verdadera": false, "porque": "Dijo: «Yo hago nuevas todas las cosas»." }
+            {
+              "texto": "Juan escribió lo que vio en el último libro de la Biblia.",
+              "verdadera": true,
+              "porque": "Es el libro del Apocalipsis."
+            },
+            {
+              "texto": "La ciudad santa subía desde la tierra.",
+              "verdadera": false,
+              "porque": "Bajaba del cielo, de parte de Dios."
+            },
+            {
+              "texto": "La ciudad estaba hermosa como una novia.",
+              "verdadera": true,
+              "porque": "Como una novia arreglada para su boda."
+            },
+            {
+              "texto": "En la ciudad de Dios hará falta mucha luz eléctrica.",
+              "verdadera": false,
+              "porque": "La luz de Dios lo ilumina todo."
+            },
+            {
+              "texto": "Dios secará toda lágrima.",
+              "verdadera": true,
+              "porque": "Ya no habrá muerte, ni llanto, ni dolor."
+            },
+            {
+              "texto": "Dios dijo: «Yo hago viejas todas las cosas».",
+              "verdadera": false,
+              "porque": "Dijo: «Yo hago nuevas todas las cosas»."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Juan recibió esta visión en la isla de Patmos.", "verdadera": true, "porque": "Así lo dice Apocalipsis 1:9." },
-            { "texto": "Juan dice que el primer cielo y la primera tierra se fueron.", "verdadera": true, "porque": "Apocalipsis 21:1." },
-            { "texto": "La nueva Jerusalén la construyen los hombres.", "verdadera": false, "porque": "Descendía «del cielo, de Dios» (Apocalipsis 21:2)." },
-            { "texto": "El «tabernáculo de Dios con los hombres» significa que Dios vivirá con su pueblo.", "verdadera": true, "porque": "«Morará con ellos» (Apocalipsis 21:3)." },
-            { "texto": "En la ciudad nueva seguirá habiendo muerte y dolor.", "verdadera": false, "porque": "«La muerte no será más» (Apocalipsis 21:4)." },
-            { "texto": "La ciudad necesita sol y luna para iluminarse.", "verdadera": false, "porque": "«La claridad de Dios la iluminó» (Apocalipsis 21:23)." },
-            { "texto": "Dios mandó a Juan escribir porque sus palabras son fieles y verdaderas.", "verdadera": true, "porque": "Apocalipsis 21:5." },
-            { "texto": "La Biblia empieza con un jardín y termina con una ciudad llena de luz.", "verdadera": true, "porque": "De Génesis 2 a Apocalipsis 21: Dios lleva su historia a buen fin." }
+            {
+              "texto": "Juan recibió esta visión en la isla de Patmos.",
+              "verdadera": true,
+              "porque": "Así lo dice Apocalipsis 1:9."
+            },
+            {
+              "texto": "Juan dice que el primer cielo y la primera tierra se fueron.",
+              "verdadera": true,
+              "porque": "Apocalipsis 21:1."
+            },
+            {
+              "texto": "La nueva Jerusalén la construyen los hombres.",
+              "verdadera": false,
+              "porque": "Descendía «del cielo, de Dios» (Apocalipsis 21:2)."
+            },
+            {
+              "texto": "El «tabernáculo de Dios con los hombres» significa que Dios vivirá con su pueblo.",
+              "verdadera": true,
+              "porque": "«Morará con ellos» (Apocalipsis 21:3)."
+            },
+            {
+              "texto": "En la ciudad nueva seguirá habiendo muerte y dolor.",
+              "verdadera": false,
+              "porque": "«La muerte no será más» (Apocalipsis 21:4)."
+            },
+            {
+              "texto": "La ciudad necesita sol y luna para iluminarse.",
+              "verdadera": false,
+              "porque": "«La claridad de Dios la iluminó» (Apocalipsis 21:23)."
+            },
+            {
+              "texto": "Dios mandó a Juan escribir porque sus palabras son fieles y verdaderas.",
+              "verdadera": true,
+              "porque": "Apocalipsis 21:5."
+            },
+            {
+              "texto": "La Biblia empieza con un jardín y termina con una ciudad llena de luz.",
+              "verdadera": true,
+              "porque": "De Génesis 2 a Apocalipsis 21: Dios lleva su historia a buen fin."
+            }
           ]
         }
       }
@@ -91,9 +171,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de la ciudad nueva.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["LUZ", "CIELO", "DIOS"], "diagonales": false, "seed": 521 },
-        "6-8": { "tamano": 6, "palabras": ["NUEVO", "CIUDAD", "TRONO", "JUAN"], "diagonales": false, "seed": 522 },
-        "9-12": { "tamano": 10, "palabras": ["CIELO", "TIERRA", "CIUDAD", "JERUSALÉN", "TRONO", "LÁGRIMA", "NUEVAS", "PATMOS"], "diagonales": true, "seed": 523 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "LUZ",
+            "CIELO",
+            "DIOS"
+          ],
+          "diagonales": false,
+          "seed": 521
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "NUEVO",
+            "CIUDAD",
+            "TRONO",
+            "JUAN"
+          ],
+          "diagonales": false,
+          "seed": 522
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "CIELO",
+            "TIERRA",
+            "CIUDAD",
+            "JERUSALÉN",
+            "TRONO",
+            "LÁGRIMA",
+            "NUEVAS",
+            "PATMOS"
+          ],
+          "diagonales": true,
+          "seed": 523
+        }
       }
     }
   ],

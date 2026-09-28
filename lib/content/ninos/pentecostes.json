@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "El Espíritu Santo está conmigo.", "referencia": "Hechos 2:4", "fuente": "adaptado" },
-    "6-8": { "texto": "Todos fueron llenos del Espíritu Santo y comenzaron a hablar en otros idiomas.", "referencia": "Hechos 2:4", "fuente": "adaptado" },
-    "9-12": { "texto": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, como el Espíritu les daba que hablasen.", "referencia": "Hechos 2:4", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "El Espíritu Santo está conmigo.",
+      "referencia": "Hechos 2:4",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Todos fueron llenos del Espíritu Santo y comenzaron a hablar en otros idiomas.",
+      "referencia": "Hechos 2:4",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, como el Espíritu les daba que hablasen.",
+      "referencia": "Hechos 2:4",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["el viento", "¡Fuuuu!"],
-            ["el fuego", "llamitas"],
-            ["Pedro", "habla de Jesús"]
+            [
+              "el viento",
+              "¡Fuuuu!"
+            ],
+            [
+              "el fuego",
+              "llamitas"
+            ],
+            [
+              "Pedro",
+              "habla de Jesús"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["Jesús", "prometió el Espíritu Santo"],
-            ["el ruido del cielo", "como un viento fuerte"],
-            ["lenguas de fuego", "sobre cada uno"],
-            ["otros idiomas", "que nunca aprendieron"],
-            ["Pedro", "habló a la multitud"],
-            ["tres mil personas", "fueron bautizadas"]
+            [
+              "Jesús",
+              "prometió el Espíritu Santo"
+            ],
+            [
+              "el ruido del cielo",
+              "como un viento fuerte"
+            ],
+            [
+              "lenguas de fuego",
+              "sobre cada uno"
+            ],
+            [
+              "otros idiomas",
+              "que nunca aprendieron"
+            ],
+            [
+              "Pedro",
+              "habló a la multitud"
+            ],
+            [
+              "tres mil personas",
+              "fueron bautizadas"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Hechos 1:8", "«me seréis testigos»"],
-            ["Pentecostés", "cincuenta días después de la Pascua"],
-            ["María, la madre de Jesús", "oraba con los discípulos"],
-            ["un estruendo", "como de un viento recio"],
-            ["lenguas como de fuego", "sobre cada uno de ellos"],
-            ["la multitud", "de todas las naciones"],
-            ["el profeta Joel", "«Derramaré de mi Espíritu»"],
-            ["tres mil", "se añadieron aquel día"]
+            [
+              "Hechos 1:8",
+              "«me seréis testigos»"
+            ],
+            [
+              "Pentecostés",
+              "cincuenta días después de la Pascua"
+            ],
+            [
+              "María, la madre de Jesús",
+              "oraba con los discípulos"
+            ],
+            [
+              "un estruendo",
+              "como de un viento recio"
+            ],
+            [
+              "lenguas como de fuego",
+              "sobre cada uno de ellos"
+            ],
+            [
+              "la multitud",
+              "de todas las naciones"
+            ],
+            [
+              "el profeta Joel",
+              "«Derramaré de mi Espíritu»"
+            ],
+            [
+              "tres mil",
+              "se añadieron aquel día"
+            ]
           ]
         }
       }
@@ -91,9 +154,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas de Pentecostés.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["FUEGO", "PEDRO", "DIOS"], "diagonales": false, "seed": 501 },
-        "6-8": { "tamano": 6, "palabras": ["VIENTO", "FUEGO", "PEDRO", "CIELO"], "diagonales": false, "seed": 502 },
-        "9-12": { "tamano": 10, "palabras": ["ESPÍRITU", "VIENTO", "FUEGO", "LENGUAS", "PEDRO", "JOEL", "IGLESIA", "PROMESA"], "diagonales": true, "seed": 503 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "FUEGO",
+            "PEDRO",
+            "DIOS"
+          ],
+          "diagonales": false,
+          "seed": 501
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "VIENTO",
+            "FUEGO",
+            "PEDRO",
+            "CIELO"
+          ],
+          "diagonales": false,
+          "seed": 502
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "ESPÍRITU",
+            "VIENTO",
+            "FUEGO",
+            "LENGUAS",
+            "PEDRO",
+            "JOEL",
+            "IGLESIA",
+            "PROMESA"
+          ],
+          "diagonales": true,
+          "seed": 503
+        }
       }
     }
   ],

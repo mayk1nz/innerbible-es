@@ -47,9 +47,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Seguimos la estrella hasta Jesús.", "referencia": "Mateo 2:9-10", "fuente": "adaptado" },
-    "6-8": { "texto": "Vimos su estrella y venimos a adorarlo.", "referencia": "Mateo 2:2", "fuente": "adaptado" },
-    "9-12": { "texto": "Y vista la estrella, se regocijaron con muy grande gozo.", "referencia": "Mateo 2:10", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Seguimos la estrella hasta Jesús.",
+      "referencia": "Mateo 2:9-10",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Vimos su estrella y venimos a adorarlo.",
+      "referencia": "Mateo 2:2",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Y vista la estrella, se regocijaron con muy grande gozo.",
+      "referencia": "Mateo 2:10",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -58,31 +70,99 @@
       "niveles": {
         "3-5": {
           "frases": [
-            { "texto": "Los magos siguieron una estrella.", "verdadera": true, "porque": "La estrella iba delante de ellos." },
-            { "texto": "Los magos le llevaron juguetes a Jesús.", "verdadera": false, "porque": "Le llevaron oro, incienso y mirra." },
-            { "texto": "Dios les habló en un sueño.", "verdadera": true, "porque": "Les avisó que volvieran por otro camino." }
+            {
+              "texto": "Los magos siguieron una estrella.",
+              "verdadera": true,
+              "porque": "La estrella iba delante de ellos."
+            },
+            {
+              "texto": "Los magos le llevaron juguetes a Jesús.",
+              "verdadera": false,
+              "porque": "Le llevaron oro, incienso y mirra."
+            },
+            {
+              "texto": "Dios les habló en un sueño.",
+              "verdadera": true,
+              "porque": "Les avisó que volvieran por otro camino."
+            }
           ]
         },
         "6-8": {
           "frases": [
-            { "texto": "Los magos venían del oriente.", "verdadera": true, "porque": "Mateo dice que vinieron del oriente, de tierras lejanas." },
-            { "texto": "La Biblia dice que eran tres magos.", "verdadera": false, "porque": "La Biblia no dice cuántos eran. Decimos «tres» por los tres regalos." },
-            { "texto": "El rey Herodes se puso muy contento.", "verdadera": false, "porque": "Se inquietó mucho, y toda Jerusalén con él." },
-            { "texto": "Los maestros de la Ley dijeron que el niño nacería en Belén.", "verdadera": true, "porque": "Así lo había escrito un profeta." },
-            { "texto": "Los magos encontraron a Jesús con María, su madre.", "verdadera": true, "porque": "Entraron en la casa y lo vieron con María." },
-            { "texto": "Los magos volvieron a ver a Herodes.", "verdadera": false, "porque": "Dios les avisó en sueños y volvieron por otro camino." }
+            {
+              "texto": "Los magos venían del oriente.",
+              "verdadera": true,
+              "porque": "Mateo dice que vinieron del oriente, de tierras lejanas."
+            },
+            {
+              "texto": "La Biblia dice que eran tres magos.",
+              "verdadera": false,
+              "porque": "La Biblia no dice cuántos eran. Decimos «tres» por los tres regalos."
+            },
+            {
+              "texto": "El rey Herodes se puso muy contento.",
+              "verdadera": false,
+              "porque": "Se inquietó mucho, y toda Jerusalén con él."
+            },
+            {
+              "texto": "Los maestros de la Ley dijeron que el niño nacería en Belén.",
+              "verdadera": true,
+              "porque": "Así lo había escrito un profeta."
+            },
+            {
+              "texto": "Los magos encontraron a Jesús con María, su madre.",
+              "verdadera": true,
+              "porque": "Entraron en la casa y lo vieron con María."
+            },
+            {
+              "texto": "Los magos volvieron a ver a Herodes.",
+              "verdadera": false,
+              "porque": "Dios les avisó en sueños y volvieron por otro camino."
+            }
           ]
         },
         "9-12": {
           "frases": [
-            { "texto": "Los magos llegaron en días del rey Herodes.", "verdadera": true, "porque": "Así lo dice Mateo 2:1." },
-            { "texto": "La Biblia llama a los magos Melchor, Gaspar y Baltasar.", "verdadera": false, "porque": "Esos nombres vienen de una tradición posterior; Mateo no los menciona." },
-            { "texto": "Mateo dice que los magos eran reyes.", "verdadera": false, "porque": "Los llama «magos». La tradición los llamó reyes, recordando el Salmo 72:10-11." },
-            { "texto": "Los escribas citaron a un profeta que hablaba de Belén.", "verdadera": true, "porque": "Citaron la profecía de Miqueas (Mateo 2:5-6)." },
-            { "texto": "Herodes llamó a los magos en secreto.", "verdadera": true, "porque": "Así lo cuenta Mateo 2:7." },
-            { "texto": "La estrella se detuvo sobre el palacio de Herodes.", "verdadera": false, "porque": "Se detuvo sobre donde estaba el niño (Mateo 2:9)." },
-            { "texto": "Los magos adoraron al niño en una casa.", "verdadera": true, "porque": "«Entrando en la casa, vieron al niño» (Mateo 2:11)." },
-            { "texto": "Los regalos fueron oro, incienso y mirra.", "verdadera": true, "porque": "Así lo dice Mateo 2:11." }
+            {
+              "texto": "Los magos llegaron en días del rey Herodes.",
+              "verdadera": true,
+              "porque": "Así lo dice Mateo 2:1."
+            },
+            {
+              "texto": "La Biblia llama a los magos Melchor, Gaspar y Baltasar.",
+              "verdadera": false,
+              "porque": "Esos nombres vienen de una tradición posterior; Mateo no los menciona."
+            },
+            {
+              "texto": "Mateo dice que los magos eran reyes.",
+              "verdadera": false,
+              "porque": "Los llama «magos». La tradición los llamó reyes, recordando el Salmo 72:10-11."
+            },
+            {
+              "texto": "Los escribas citaron a un profeta que hablaba de Belén.",
+              "verdadera": true,
+              "porque": "Citaron la profecía de Miqueas (Mateo 2:5-6)."
+            },
+            {
+              "texto": "Herodes llamó a los magos en secreto.",
+              "verdadera": true,
+              "porque": "Así lo cuenta Mateo 2:7."
+            },
+            {
+              "texto": "La estrella se detuvo sobre el palacio de Herodes.",
+              "verdadera": false,
+              "porque": "Se detuvo sobre donde estaba el niño (Mateo 2:9)."
+            },
+            {
+              "texto": "Los magos adoraron al niño en una casa.",
+              "verdadera": true,
+              "porque": "«Entrando en la casa, vieron al niño» (Mateo 2:11)."
+            },
+            {
+              "texto": "Los regalos fueron oro, incienso y mirra.",
+              "verdadera": true,
+              "porque": "Así lo dice Mateo 2:11."
+            }
           ]
         }
       }
@@ -91,27 +171,84 @@
       "tipo": "memoria",
       "enunciado": "Da vuelta las cartas y encuentra las parejas de la historia.",
       "niveles": {
-        "3-5": { "pares": [["los magos", "la estrella"], ["Herodes", "Jerusalén"], ["Jesús", "Belén"]] },
+        "3-5": {
+          "pares": [
+            [
+              "los magos",
+              "la estrella"
+            ],
+            [
+              "Herodes",
+              "Jerusalén"
+            ],
+            [
+              "Jesús",
+              "Belén"
+            ]
+          ]
+        },
         "6-8": {
           "pares": [
-            ["los magos", "venían del oriente"],
-            ["la estrella", "iba delante"],
-            ["Herodes", "rey en Jerusalén"],
-            ["Belén", "donde estaba el niño"],
-            ["María", "la madre de Jesús"],
-            ["el sueño", "«No vuelvan con Herodes»"]
+            [
+              "los magos",
+              "venían del oriente"
+            ],
+            [
+              "la estrella",
+              "iba delante"
+            ],
+            [
+              "Herodes",
+              "rey en Jerusalén"
+            ],
+            [
+              "Belén",
+              "donde estaba el niño"
+            ],
+            [
+              "María",
+              "la madre de Jesús"
+            ],
+            [
+              "el sueño",
+              "«No vuelvan con Herodes»"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["los magos", "vinieron del oriente"],
-            ["Herodes", "se turbó"],
-            ["los escribas", "conocían las Escrituras"],
-            ["Belén", "«no eres muy pequeña»"],
-            ["la estrella", "se detuvo sobre el niño"],
-            ["el oro", "regalo para un rey"],
-            ["el incienso", "perfume para adorar"],
-            ["el sueño", "«por otro camino»"]
+            [
+              "los magos",
+              "vinieron del oriente"
+            ],
+            [
+              "Herodes",
+              "se turbó"
+            ],
+            [
+              "los escribas",
+              "conocían las Escrituras"
+            ],
+            [
+              "Belén",
+              "«no eres muy pequeña»"
+            ],
+            [
+              "la estrella",
+              "se detuvo sobre el niño"
+            ],
+            [
+              "el oro",
+              "regalo para un rey"
+            ],
+            [
+              "el incienso",
+              "perfume para adorar"
+            ],
+            [
+              "el sueño",
+              "«por otro camino»"
+            ]
           ]
         }
       }

@@ -55,9 +55,21 @@
     }
   ],
   "versiculo": {
-    "3-5": { "texto": "Yo perdono, como Dios me perdona.", "referencia": "Efesios 4:32", "fuente": "adaptado" },
-    "6-8": { "texto": "Sean buenos unos con otros y perdónense, como Dios los perdonó.", "referencia": "Efesios 4:32", "fuente": "adaptado" },
-    "9-12": { "texto": "Antes sed los unos con los otros benignos, misericordiosos, perdonándoos los unos a los otros, como también Dios os perdonó en Cristo.", "referencia": "Efesios 4:32", "fuente": "RV1909" }
+    "3-5": {
+      "texto": "Yo perdono, como Dios me perdona.",
+      "referencia": "Efesios 4:32",
+      "fuente": "adaptado"
+    },
+    "6-8": {
+      "texto": "Sean buenos unos con otros y perdónense, como Dios los perdonó.",
+      "referencia": "Efesios 4:32",
+      "fuente": "adaptado"
+    },
+    "9-12": {
+      "texto": "Antes sed los unos con los otros benignos, misericordiosos, perdonándoos los unos a los otros, como también Dios os perdonó en Cristo.",
+      "referencia": "Efesios 4:32",
+      "fuente": "RV1909"
+    }
   },
   "juegos": [
     {
@@ -66,31 +78,82 @@
       "niveles": {
         "3-5": {
           "pares": [
-            ["José", "Egipto"],
-            ["Benjamín", "la copa"],
-            ["Jacob", "los carros"]
+            [
+              "José",
+              "Egipto"
+            ],
+            [
+              "Benjamín",
+              "la copa"
+            ],
+            [
+              "Jacob",
+              "los carros"
+            ]
           ]
         },
         "6-8": {
           "pares": [
-            ["José", "gobernador de Egipto"],
-            ["Benjamín", "el hermano menor"],
-            ["la copa de plata", "el saco de Benjamín"],
-            ["Judá", "«Déjame a mí en su lugar»"],
-            ["Jacob", "el papá que esperaba"],
-            ["los carros", "para traer a Jacob"]
+            [
+              "José",
+              "gobernador de Egipto"
+            ],
+            [
+              "Benjamín",
+              "el hermano menor"
+            ],
+            [
+              "la copa de plata",
+              "el saco de Benjamín"
+            ],
+            [
+              "Judá",
+              "«Déjame a mí en su lugar»"
+            ],
+            [
+              "Jacob",
+              "el papá que esperaba"
+            ],
+            [
+              "los carros",
+              "para traer a Jacob"
+            ]
           ]
         },
         "9-12": {
           "pares": [
-            ["Génesis 42:6", "se inclinaron ante José"],
-            ["Simeón", "quedó preso en Egipto"],
-            ["Benjamín", "hijo de la madre de José"],
-            ["Judá", "se ofreció como siervo"],
-            ["Génesis 45:3", "«Yo soy José»"],
-            ["Génesis 45:5", "«Me envió Dios»"],
-            ["Gosén", "la tierra para la familia"],
-            ["Génesis 50:20", "«Dios lo encaminó a bien»"]
+            [
+              "Génesis 42:6",
+              "se inclinaron ante José"
+            ],
+            [
+              "Simeón",
+              "quedó preso en Egipto"
+            ],
+            [
+              "Benjamín",
+              "hijo de la madre de José"
+            ],
+            [
+              "Judá",
+              "se ofreció como siervo"
+            ],
+            [
+              "Génesis 45:3",
+              "«Yo soy José»"
+            ],
+            [
+              "Génesis 45:5",
+              "«Me envió Dios»"
+            ],
+            [
+              "Gosén",
+              "la tierra para la familia"
+            ],
+            [
+              "Génesis 50:20",
+              "«Dios lo encaminó a bien»"
+            ]
           ]
         }
       }
@@ -99,9 +162,42 @@
       "tipo": "sopa",
       "enunciado": "Busca las palabras escondidas en los sacos de trigo.",
       "niveles": {
-        "3-5": { "tamano": 5, "palabras": ["JOSÉ", "COPA", "PAN"], "diagonales": false, "seed": 91 },
-        "6-8": { "tamano": 6, "palabras": ["JOSÉ", "COPA", "TRIGO", "ABRAZO"], "diagonales": false, "seed": 92 },
-        "9-12": { "tamano": 10, "palabras": ["JOSÉ", "BENJAMÍN", "JUDÁ", "EGIPTO", "PERDÓN", "COPA", "TRIGO", "GOSÉN"], "diagonales": true, "seed": 93 }
+        "3-5": {
+          "tamano": 5,
+          "palabras": [
+            "JOSÉ",
+            "COPA",
+            "PAN"
+          ],
+          "diagonales": false,
+          "seed": 91
+        },
+        "6-8": {
+          "tamano": 6,
+          "palabras": [
+            "JOSÉ",
+            "COPA",
+            "TRIGO",
+            "ABRAZO"
+          ],
+          "diagonales": false,
+          "seed": 92
+        },
+        "9-12": {
+          "tamano": 10,
+          "palabras": [
+            "JOSÉ",
+            "BENJAMÍN",
+            "JUDÁ",
+            "EGIPTO",
+            "PERDÓN",
+            "COPA",
+            "TRIGO",
+            "GOSÉN"
+          ],
+          "diagonales": true,
+          "seed": 93
+        }
       }
     }
   ],
