@@ -1,12 +1,12 @@
 import type { IconName } from '@/components/icons'
 
-// The owner's quiz, question for question, with its illustrations (public/funil/assets).
+// The owner's quiz, question for question, with its own illustrations (public/funil/quiz).
 //
 // Images: a question `image` shows above the title. Options with images render as a
 // two-column grid of picture cards, or — with `thumbs` — as a list with a small
 // picture on the left (for small illustrations such as the scroll and the book).
 
-const A = (file: string) => `/funil/assets/${file}`
+const A = (file: string) => `/funil/quiz/${file}`
 
 export interface ProfileQuestion {
   kind: 'profile'
@@ -36,18 +36,18 @@ export const INTRO = {
   title: '¿Cuánto conoces la Palabra?',
   text: 'Haz este test rápido y descubre cuál es tu nivel de conocimiento sobre las escrituras.',
   gift: '¡Al final recibirás tres regalos!',
-  image: A('5932855a6aea.jpg'),
+  image: A('intro-rollo.webp'),
   button: 'Empezar el test',
 }
 
 export const TEST_INTRO = {
   title: '¡Ahora pongamos a prueba tu conocimiento sobre la Palabra de Dios!',
   text: 'Responde las siguientes preguntas.',
-  image: A('427bcc431455.jpg'),
+  image: A('inicio-test.webp'),
   button: 'Comenzar',
 }
 
-export const ANALYSIS_IMAGE = A('9663a02b6178.jpg')
+export const ANALYSIS_IMAGE = A('analisis.webp')
 
 export const PROFILE: ProfileQuestion[] = [
   {
@@ -56,21 +56,21 @@ export const PROFILE: ProfileQuestion[] = [
     eyebrow: 'Antes, queremos saber un poco más sobre ti.',
     title: '¿Cuál es la forma en que más sueles conectarte con la Palabra de Dios?',
     options: [
-      { label: 'Lecturas, videos o predicaciones', image: A('0ba2f5618e0f.jpg') },
-      { label: 'Leyendo la Biblia / devocional', image: A('ab8f47db12c3.jpg') },
-      { label: 'Cultos y reuniones', image: A('e3c8133b3c68.jpg') },
-      { label: 'No estoy logrando conectarme con Dios', image: A('0d1f6e8b4e4c.jpg') },
+      { label: 'Lecturas, videos o predicaciones', image: A('conexion-videos.webp') },
+      { label: 'Leyendo la Biblia / devocional', image: A('conexion-biblia.webp') },
+      { label: 'Cultos y reuniones', image: A('conexion-culto.webp') },
+      { label: 'No estoy logrando conectarme con Dios', image: A('conexion-distante.webp') },
     ],
   },
   {
     kind: 'profile',
     id: 'dificultad',
     title: '¿Qué parte de la Biblia te resulta difícil de entender?',
-    image: A('da5eeb04f639.jpg'),
+    image: A('dificultad.webp'),
     thumbs: true,
     options: [
-      { label: 'Antiguo Testamento', image: A('ad0185192c2b.png') },
-      { label: 'Nuevo Testamento', image: A('392de206fdde.png') },
+      { label: 'Antiguo Testamento', image: A('antiguo-testamento.webp') },
+      { label: 'Nuevo Testamento', image: A('nuevo-testamento.webp') },
     ],
   },
   {
@@ -78,10 +78,10 @@ export const PROFILE: ProfileQuestion[] = [
     id: 'sentimiento',
     title: '¿Cómo te sientes al intentar entender la Biblia en su totalidad?',
     options: [
-      { label: 'Ya lo intenté varias veces y me rendí', image: A('86967420bc64.jpg') },
-      { label: 'Intento pero no lo consigo de ninguna manera', image: A('dfbf4286b0d4.jpg') },
-      { label: 'A veces confundido/a, pero la entiendo', image: A('98219e64b88d.jpg') },
-      { label: 'Tranquilo/a, pero siento que puedo mejorar', image: A('a25afd282159.jpg') },
+      { label: 'Ya lo intenté varias veces y me rendí', image: A('sentimiento-me-rendi.webp') },
+      { label: 'Intento pero no lo consigo de ninguna manera', image: A('sentimiento-frustrada.webp') },
+      { label: 'A veces confundido/a, pero la entiendo', image: A('sentimiento-confundido.webp') },
+      { label: 'Tranquilo/a, pero siento que puedo mejorar', image: A('sentimiento-tranquila.webp') },
     ],
   },
   {
@@ -89,7 +89,7 @@ export const PROFILE: ProfileQuestion[] = [
     id: 'freno',
     title: '¿Cuál es el mayor desafío que enfrentas cuando intentas leer la Biblia?',
     hint: 'Puedes seleccionar más de uno si es el caso',
-    image: A('1f42a824330b.jpg'),
+    image: A('desafio-lectura.webp'),
     multi: true,
     options: [
       { label: 'No sé por dónde empezar' },
@@ -103,7 +103,7 @@ export const PROFILE: ProfileQuestion[] = [
     kind: 'profile',
     id: 'completa',
     title: '¿Has logrado leer toda la Biblia?',
-    image: A('c419e8e9d0c6.jpg'),
+    image: A('biblia-completa.webp'),
     options: [
       { label: 'Sí, ya lo logré', icon: 'check' },
       { label: 'No, todavía no lo logré', icon: 'x' },
@@ -114,8 +114,8 @@ export const PROFILE: ProfileQuestion[] = [
     id: 'genero',
     title: 'Usted es:',
     options: [
-      { label: 'Cristiano', image: A('660ce8f8a425.jpg') },
-      { label: 'Cristiana', image: A('dca1f1f0ae30.jpg') },
+      { label: 'Cristiano', image: A('cristiano.webp') },
+      { label: 'Cristiana', image: A('cristiana.webp') },
     ],
   },
   {
@@ -123,10 +123,10 @@ export const PROFILE: ProfileQuestion[] = [
     id: 'edad',
     title: '¿Cuál es su edad?',
     options: [
-      { label: '18 a 34', image: A('1624ba59a944.jpg') },
-      { label: '35 a 44', image: A('9d1ca84b491d.jpg') },
-      { label: '45 a 54', image: A('b835e63aadc4.jpg') },
-      { label: '55+', image: A('125dddb9bd91.jpg') },
+      { label: '18 a 34', image: A('edad-18-34.webp') },
+      { label: '35 a 44', image: A('edad-35-44.webp') },
+      { label: '45 a 54', image: A('edad-45-54.webp') },
+      { label: '55+', image: A('edad-55.webp') },
     ],
   },
 ]
@@ -137,14 +137,14 @@ export const TEST: TestQuestion[] = [
     id: 't1',
     title: '¿Quién derrotó a un gigante usando una honda y una piedra?',
     options: ['Josué', 'Moisés', 'David', 'Sansón'],
-    optionImages: [A('098950509c58.webp'), A('0e261719ce9c.webp'), A('bbf14f60abf9.webp'), A('7dcd52bc8aed.webp')],
+    optionImages: [A('t1-josue.webp'), A('t1-moises.webp'), A('t1-david.webp'), A('t1-sanson.webp')],
     correct: 2,
   },
   {
     kind: 'test',
     id: 't2',
     title: '¿Qué escena muestra a María, José y un bebé en un pesebre?',
-    image: A('2c6873e4b0f1.jpg'),
+    image: A('t2-natividad.webp'),
     options: ['La Transfiguración', 'La Natividad', 'La Anunciación', 'La Última Cena'],
     correct: 1,
   },
@@ -153,14 +153,14 @@ export const TEST: TestQuestion[] = [
     id: 't3',
     title: '¿Qué batalla fue ganada por 300 hombres usando trompetas y antorchas?',
     options: ['La rebelión de Absalón', 'La batalla de Jericó', 'La conquista de Canaán', 'La batalla de Madián'],
-    optionImages: [A('50ccc33bce10.webp'), A('b55f79d6c2c8.jpg'), A('a39a0b61be97.jpg'), A('1af3b904dc36.jpg')],
+    optionImages: [A('t3-absalon.webp'), A('t3-jerico.webp'), A('t3-canaan.webp'), A('t3-madian.webp')],
     correct: 3,
   },
   {
     kind: 'test',
     id: 't4',
     title: '¿Qué evento muestra los muros de una ciudad cayendo tras siete días de marcha?',
-    image: A('dc99fc4f82be.jpg'),
+    image: A('t4-muros-jerico.webp'),
     options: ['La fundación de Jerusalén', 'La destrucción de Sodoma', 'La caída de Babilonia', 'La batalla de Jericó'],
     correct: 3,
   },
@@ -168,7 +168,7 @@ export const TEST: TestQuestion[] = [
     kind: 'test',
     id: 't5',
     title: '¿Qué promesa de Dios se simboliza con un arcoíris en el cielo?',
-    image: A('1ddd10d66bab.jpg'),
+    image: A('t5-arcoiris-noe.webp'),
     options: ['El éxodo de Egipto', 'La creación', 'La venida de Jesús', 'El Pacto con Noé'],
     correct: 3,
   },
@@ -177,7 +177,7 @@ export const TEST: TestQuestion[] = [
     id: 't6',
     title: '¿Qué profeta subió al cielo en un carro de fuego?',
     options: ['Elías', 'Ezequiel', 'Jeremías', 'Isaías'],
-    optionImages: [A('dba0b06b71b5.webp'), A('874ee62f147e.webp'), A('a1b858db99d5.webp'), A('7ded05a5e1ba.webp')],
+    optionImages: [A('t6-elias.webp'), A('profeta-ezequiel.webp'), A('t6-jeremias.webp'), A('profeta-isaias.webp')],
     correct: 0,
   },
   {
@@ -185,7 +185,7 @@ export const TEST: TestQuestion[] = [
     id: 't7',
     title: '¿Qué profeta tuvo la visión de un valle de huesos secos que revivían?',
     options: ['Oseas', 'Ezequiel', 'Daniel', 'Isaías'],
-    optionImages: [A('c085d547d210.webp'), A('874ee62f147e.webp'), A('e2e9061b85b9.webp'), A('7ded05a5e1ba.webp')],
+    optionImages: [A('t7-oseas.webp'), A('profeta-ezequiel.webp'), A('t7-daniel.webp'), A('profeta-isaias.webp')],
     correct: 1,
   },
   {
@@ -193,14 +193,14 @@ export const TEST: TestQuestion[] = [
     id: 't8',
     title: '¿Qué rey quemó un rollo con la profecía de Jeremías?',
     options: ['Josías', 'Manasés', 'Sedequías', 'Joacim'],
-    optionImages: [A('5296c8a9b95f.webp'), A('6ad8082f2a1e.webp'), A('e6d9e81400fb.webp'), A('419521e1f991.webp')],
+    optionImages: [A('t8-josias.webp'), A('t8-manases.webp'), A('t8-sedequias.webp'), A('t8-joacim.webp')],
     correct: 3,
   },
   {
     kind: 'test',
     id: 't9',
     title: '¿Qué personaje es conocido por su túnica de colores y por interpretar los sueños del faraón?',
-    image: A('5c790905fc1d.jpg'),
+    image: A('t9-jose.webp'),
     options: ['José', 'Eliseo', 'Moisés', 'Daniel'],
     correct: 0,
   },
@@ -209,15 +209,15 @@ export const TEST: TestQuestion[] = [
     id: 't10',
     title: '¿Cuál fue el martirio del primer cristiano en el libro de los Hechos?',
     options: ['La decapitación de Juan el Bautista', 'El apedreamiento de Esteban', 'La muerte de Jacobo', 'La muerte de Pedro'],
-    optionImages: [A('3a8c11fab85f.jpg'), A('277ab8c877ff.jpg'), A('1fc30b6ec0a3.jpg'), A('8026eff08f78.jpg')],
+    optionImages: [A('t10-juan-bautista.webp'), A('t10-esteban.webp'), A('t10-jacobo.webp'), A('t10-pedro.webp')],
     correct: 1,
   },
 ]
 
 export const RESULT = {
   eyebrow: 'Resultados de tu Desafío Bíblico',
-  image: A('91c1c80705ec.jpg'),
-  productImage: A('c014d152c355.webp'),
+  image: A('resultado.webp'),
+  productImage: A('producto.webp'),
   high: [
     '¡Felicidades, estás en el camino correcto!',
     'Parece que conoces bastante sobre la Biblia, pero siempre hay algo nuevo por aprender.',
