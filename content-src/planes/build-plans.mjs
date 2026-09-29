@@ -1,7 +1,9 @@
 // Turns the writers' JSON (planes/<plan>/days-*.json) into the app's content files:
-//   lib/content/plans/titles.ts      — only the day titles (small; used by the catalog)
-//   lib/content/plans/<plan>.ts      — the full days, loaded only when a day is opened
-// Usage: node build-plans.mjs <app root>
+//   lib/content/plans/titles.ts          — only the day titles (small; used by the catalog)
+//   content-private/planes/<plan>.json   — the full days (day n = [n - 1]), served by
+//                                          /api/content to members and read by the Consejero
+//   lib/consejero/map.ts                 — the Consejero's map of the plans
+// Usage: node content-src/planes/build-plans.mjs [app root]
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -9,9 +11,11 @@ import { fileURLToPath } from 'node:url'
 const PLANS = ['transformacion', 'vivir-como-jesus', 'nueva-mentalidad']
 // fileURLToPath decodes %20 etc. — the project folder has spaces in its name.
 const HERE = path.dirname(fileURLToPath(import.meta.url))
-const APP = process.argv[2]
+const APP = process.argv[2] ?? path.join(HERE, '..', '..')
 const OUT = path.join(APP, 'lib', 'content', 'plans')
+const PRIV = path.join(APP, 'content-private', 'planes')
 fs.mkdirSync(OUT, { recursive: true })
+fs.mkdirSync(PRIV, { recursive: true })
 
 const titles = {}
 for (const plan of PLANS) {
@@ -34,12 +38,9 @@ for (const plan of PLANS) {
     practica: d.practica,
     meditar: d.meditar,
   }))
-  fs.writeFileSync(
-    path.join(OUT, `${plan}.ts`),
-    `// Generated from the plan texts (scratchpad planes/${plan}). Day n = DAYS[n - 1].\n` +
-      `import type { LessonContent } from '../../catalog'\n\n` +
-      `export const DAYS: LessonContent[] = ${JSON.stringify(content, null, 2)}\n`,
-  )
+  fs.writeFileSync(path.join(PRIV, `${plan}.json`), JSON.stringify(content, null, 2) + '\n')
+  // Older builds wrote the texts into the app's JavaScript (lib/content/plans/<plan>.ts).
+  fs.rmSync(path.join(OUT, `${plan}.ts`), { force: true })
   console.log(`${plan}: ${days.length} días${problems.length ? ' — PROBLEMAS: ' + problems.join('; ') : ' OK'}`)
 }
 

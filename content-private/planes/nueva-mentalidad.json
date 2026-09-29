@@ -1,7 +1,4 @@
-// Generated from the plan texts (scratchpad planes/nueva-mentalidad). Day n = DAYS[n - 1].
-import type { LessonContent } from '../../catalog'
-
-export const DAYS: LessonContent[] = [
+[
   {
     "versiculo": {
       "texto": "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta.",

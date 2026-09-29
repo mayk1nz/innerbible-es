@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react'
 import { Icon, type IconName } from '../icons'
 import { Segmented } from '../ui'
 import { Bloque, LEVEL_KEY, Quiz, RefLink, readLevel, type Nivel } from './EstudioLesson'
-import { GUIA_LECCIONES } from '@/lib/content/guias'
+import { loadGuiaLeccion } from '@/lib/content/guias'
 import type { Bloque as BloqueGuia, GuiaLeccion } from '@/lib/content/guias/types'
 import { ESTUDIO_LECCIONES } from '@/lib/content/estudio/maestra'
 import { lessonHref } from '@/lib/progress'
@@ -16,9 +16,8 @@ import { lessonHref } from '@/lib/progress'
 function useGuiaLeccion(key: string): GuiaLeccion | null | undefined {
   const [loaded, setLoaded] = useState<{ key: string; leccion: GuiaLeccion | null } | null>(null)
   useEffect(() => {
-    const load = GUIA_LECCIONES[key]
     let alive = true
-    ;(load ? load() : Promise.resolve(null))
+    loadGuiaLeccion(key)
       .then((leccion) => alive && setLoaded({ key, leccion }))
       .catch(() => alive && setLoaded({ key, leccion: null }))
     return () => {

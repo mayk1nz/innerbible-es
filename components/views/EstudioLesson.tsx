@@ -7,7 +7,7 @@ import { Icon, type IconName } from '../icons'
 import { Segmented } from '../ui'
 import { bookById, chapterHref } from '@/lib/biblia'
 import GLOSARIO from '@/lib/content/estudio/glosario.json'
-import { LECCIONES_ESCRITAS } from '@/lib/content/estudio/lecciones'
+import { loadLeccion } from '@/lib/content/estudio/lecciones'
 import type { Leccion, PreguntaQuiz } from '@/lib/content/estudio/types'
 import { parseRef } from '@/lib/estudio-ref'
 
@@ -30,9 +30,8 @@ export function readLevel(): Nivel {
 function useLeccion(id: string): Leccion | null | undefined {
   const [loaded, setLoaded] = useState<{ id: string; leccion: Leccion | null } | null>(null)
   useEffect(() => {
-    const load = LECCIONES_ESCRITAS[id]
     let alive = true
-    ;(load ? load() : Promise.resolve(null))
+    loadLeccion(id)
       .then((leccion) => alive && setLoaded({ id, leccion }))
       .catch(() => alive && setLoaded({ id, leccion: null }))
     return () => {

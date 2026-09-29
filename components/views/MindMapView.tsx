@@ -6,7 +6,7 @@ import { Icon, type IconName } from '../icons'
 import { Segmented } from '../ui'
 import { Bloque, Quiz, RefLink } from './EstudioLesson'
 import { ESTUDIO_LECCIONES } from '@/lib/content/estudio/maestra'
-import { MAPAS, MAPAS_SECCIONES } from '@/lib/content/mapas'
+import { MAPAS_SECCIONES, loadMapa } from '@/lib/content/mapas'
 import type { ColorRama, MapaMental, TipoHoja } from '@/lib/content/mapas/types'
 import { lessonHref } from '@/lib/progress'
 
@@ -29,9 +29,8 @@ const MODE_KEY = 'ib-es-mapas-modo'
 function useMapa(id: string): MapaMental | null | undefined {
   const [loaded, setLoaded] = useState<{ id: string; mapa: MapaMental | null } | null>(null)
   useEffect(() => {
-    const load = MAPAS[id]
     let alive = true
-    ;(load ? load() : Promise.resolve(null))
+    loadMapa(id)
       .then((mapa) => alive && setLoaded({ id, mapa }))
       .catch(() => alive && setLoaded({ id, mapa: null }))
     return () => {

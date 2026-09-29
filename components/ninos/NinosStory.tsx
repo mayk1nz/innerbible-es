@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react'
 import { Icon } from '../icons'
 import { Segmented } from '../ui'
 import { JuegoView } from './Juegos'
-import { NINOS_HISTORIAS } from '@/lib/content/ninos'
+import { loadHistoria } from '@/lib/content/ninos'
 import type { Banda, HistoriaNinos } from '@/lib/content/ninos/types'
 import { ESTUDIO_LECCIONES } from '@/lib/content/estudio/maestra'
 import { lessonHref } from '@/lib/progress'
@@ -33,9 +33,8 @@ function readBanda(): Banda {
 export function useHistoria(id: string): HistoriaNinos | null | undefined {
   const [loaded, setLoaded] = useState<{ id: string; h: HistoriaNinos | null } | null>(null)
   useEffect(() => {
-    const load = NINOS_HISTORIAS[id]
     let alive = true
-    ;(load ? load() : Promise.resolve(null))
+    loadHistoria(id)
       .then((h) => alive && setLoaded({ id, h }))
       .catch(() => alive && setLoaded({ id, h: null }))
     return () => {

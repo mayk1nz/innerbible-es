@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { useEffect, useState } from 'react'
 import { Icon } from '../icons'
 import { bookById, chapterHref } from '@/lib/biblia'
-import { LECCIONES_ESCRITAS } from '@/lib/content/estudio/lecciones'
+import { LECCIONES_ESCRITAS, loadLeccion } from '@/lib/content/estudio/lecciones'
 import { ESTUDIO_LECCIONES } from '@/lib/content/estudio/maestra'
 import type { DiaPlan365 } from '@/lib/content/plan365'
 import { lessonHref } from '@/lib/progress'
@@ -75,11 +75,10 @@ export function ReadingDay({ dia }: { dia: DiaPlan365 }) {
 function useFirstSentence(id: string): string | null {
   const [value, setValue] = useState<{ id: string; text: string | null } | null>(null)
   useEffect(() => {
-    const load = LECCIONES_ESCRITAS[id]
-    if (!load) return
+    if (!LECCIONES_ESCRITAS.has(id)) return
     let alive = true
-    load()
-      .then((l) => alive && setValue({ id, text: l.enUnMinuto[0] }))
+    loadLeccion(id)
+      .then((l) => alive && setValue({ id, text: l?.enUnMinuto[0] ?? null }))
       .catch(() => alive && setValue({ id, text: null }))
     return () => {
       alive = false

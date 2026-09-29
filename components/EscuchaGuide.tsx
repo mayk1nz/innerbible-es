@@ -6,7 +6,7 @@ import { DealBadge } from './Deal'
 import { Icon } from './icons'
 import { RefLink } from './views/EstudioLesson'
 import type { Lesson } from '@/lib/catalog'
-import { GUIAS_ESCUCHA } from '@/lib/content/escucha'
+import { GUIAS_ESCUCHA, loadGuiaEscucha } from '@/lib/content/escucha'
 import type { GuiaEscucha } from '@/lib/content/escucha/types'
 import { ESTUDIO_LECCIONES } from '@/lib/content/estudio/maestra'
 import { lessonHref } from '@/lib/progress'
@@ -14,7 +14,7 @@ import { useAppState } from '@/lib/store'
 
 // Guía de escucha (upsell 1): under each audio of the Resumen en Audio, what to keep from it.
 // The secret gift's listening plan plays the same files: there the guide shows locked, one
-// tap from the offer.
+// tap from the offer (the text itself only reaches members of the upsell, via /api/content).
 
 /** The Resumen en Audio lesson id an audio lesson plays ("genesis"), or null. */
 export function escuchaId(productId: string, lesson: Lesson): string | null {
@@ -22,27 +22,31 @@ export function escuchaId(productId: string, lesson: Lesson): string | null {
   return lesson.audioFile?.match(/^cronologico-audio\/(.+)\.mp3$/)?.[1] ?? null
 }
 
-function useGuia(id: string): GuiaEscucha | null | undefined {
+/** The guide of an audio (null = none; undefined = loading); `id` null loads nothing. */
+function useGuia(id: string | null): GuiaEscucha | null | undefined {
   const [loaded, setLoaded] = useState<{ id: string; g: GuiaEscucha | null } | null>(null)
   useEffect(() => {
-    const load = GUIAS_ESCUCHA[id]
+    if (!id) return
     let alive = true
-    ;(load ? load() : Promise.resolve(null))
+    loadGuiaEscucha(id)
       .then((g) => alive && setLoaded({ id, g }))
       .catch(() => alive && setLoaded({ id, g: null }))
     return () => {
       alive = false
     }
   }, [id])
+  if (!id) return null
   return loaded?.id === id ? loaded.g : undefined
 }
 
 export function EscuchaGuide({ id }: { id: string }) {
   const { owned } = useAppState()
-  const g = useGuia(id)
-  if (!g) return null
+  const unlocked = owned.includes('upsell1')
+  const exists = GUIAS_ESCUCHA.has(id)
+  const g = useGuia(unlocked && exists ? id : null)
+  if (!exists) return null
 
-  if (!owned.includes('upsell1')) {
+  if (!unlocked) {
     return (
       <Link href="/modulo/cronologico-audio" className="mt-4 block rounded-3xl border border-gold/40 bg-gold-soft/40 p-4 transition hover:bg-gold-soft/70">
         <span className="flex flex-wrap items-center gap-2">
@@ -50,13 +54,15 @@ export function EscuchaGuide({ id }: { id: string }) {
           <span className="font-serif text-[17px] font-semibold text-ink">Guía de escucha</span>
           <DealBadge offer="upsell1" />
         </span>
+        {/* A stand-in under the blur: the guide's text is only sent to members of the upsell. */}
         <span className="mt-2 block select-none text-[15px] leading-relaxed text-text blur-[3px]" aria-hidden>
-          {g.puntos[0]}
+          Lo que Dios hace en esta parte de la historia, explicado en palabras sencillas para recordarlo durante el día.
         </span>
         <span className="mt-2 block text-[14.5px] leading-snug text-muted">Los puntos clave, un versículo, una pregunta y una oración para cada audio. Incluida en el Resumen en Audio.</span>
       </Link>
     )
   }
+  if (!g) return null
 
   const estudio = (g.estudio ?? []).map((sid) => ESTUDIO_LECCIONES.find((l) => l.id === sid)).filter((l) => l !== undefined)
   return (

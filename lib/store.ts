@@ -1,6 +1,7 @@
 import { useSyncExternalStore } from 'react'
 import type { OfferId } from './catalog'
 import { POINTS } from './config'
+import { clearContentCache } from './content/fetch-content'
 import { localDay } from './dates'
 
 // The member's state. While the app runs on sample data it lives in localStorage;
@@ -322,6 +323,7 @@ export function setTheme(theme: 'light' | 'dark'): void {
 export function signOut(): void {
   pushProgress(true)
   syncedFor = null
+  clearContentCache()
   update((s) => ({ ...s, session: null }))
   // Also end the server session (the cookie); if offline, the next /me check does it.
   void fetch('/api/auth/me', { method: 'DELETE' }).catch(() => {})

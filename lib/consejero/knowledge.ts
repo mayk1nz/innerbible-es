@@ -1,9 +1,7 @@
 import 'server-only'
 import { PRODUCTS, type LessonContent } from '../catalog'
-import { DAYS as NUEVA_MENTALIDAD } from '../content/plans/nueva-mentalidad'
 import { PLAN_TITLES, type PlanId } from '../content/plans/titles'
-import { DAYS as TRANSFORMACION } from '../content/plans/transformacion'
-import { DAYS as VIVIR_COMO_JESUS } from '../content/plans/vivir-como-jesus'
+import { planDays } from '../server/content'
 
 // The Consejero's library: everything the app teaches, searched on our own server
 // (no outside lookup). For each question only the few most relevant passages are sent
@@ -23,11 +21,6 @@ const PLAN_NAMES: Record<PlanId, string> = {
   'vivir-como-jesus': 'Vivir como Jesús',
   'nueva-mentalidad': 'Nueva mentalidad',
 }
-const PLAN_DAYS: Record<PlanId, LessonContent[]> = {
-  transformacion: TRANSFORMACION,
-  'vivir-como-jesus': VIVIR_COMO_JESUS,
-  'nueva-mentalidad': NUEVA_MENTALIDAD,
-}
 
 function contentText(c: LessonContent): string {
   return [
@@ -43,8 +36,9 @@ function contentText(c: LessonContent): string {
 
 function buildLibrary(): Passage[] {
   const out: Passage[] = []
-  for (const plan of Object.keys(PLAN_DAYS) as PlanId[]) {
-    PLAN_DAYS[plan].forEach((c, i) => {
+  // The plan texts are read from content-private (lib/server/content.ts).
+  for (const plan of Object.keys(PLAN_NAMES) as PlanId[]) {
+    planDays(plan).forEach((c, i) => {
       out.push({
         source: `Palabras del Señor · ${PLAN_NAMES[plan]} · Día ${i + 1}: ${PLAN_TITLES[plan][i] ?? ''}`,
         href: `/leccion/hacedores/${plan}-dia-${i + 1}`,

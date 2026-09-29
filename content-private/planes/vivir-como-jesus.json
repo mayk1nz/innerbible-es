@@ -1,7 +1,4 @@
-// Generated from the plan texts (scratchpad planes/vivir-como-jesus). Day n = DAYS[n - 1].
-import type { LessonContent } from '../../catalog'
-
-export const DAYS: LessonContent[] = [
+[
   {
     "versiculo": {
       "texto": "Y al pasar, vio a Leví hijo de Alfeo, sentado al banco de los tributos públicos, y le dijo: Sígueme. Y levantándose, le siguió.",
