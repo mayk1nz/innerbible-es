@@ -1,3 +1,4 @@
+import { hasOffensiveWords } from '@/lib/profanity'
 import { COMMUNITY_LIMITS } from '@/lib/config'
 import { db, t } from '@/lib/server/db'
 import {
@@ -51,6 +52,7 @@ export async function POST(request: Request, { params }: Ctx) {
   const text = cleanText(body.text)
   if (!text) return json({ error: 'empty' }, 400)
   if (text.length > COMMUNITY_LIMITS.commentChars) return json({ error: 'too-long' }, 400)
+  if (hasOffensiveWords(text)) return json({ error: 'offensive' }, 400)
   try {
     if (!(await canWrite(email))) return json({ error: 'no-purchase' }, 403)
     const { data: post, error: postError } = await db().from(t('community_posts')).select('id').eq('id', id).eq('hidden', false).maybeSingle()

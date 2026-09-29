@@ -101,9 +101,17 @@ function pick<T>(list: T[], day: string, salt = 0): T {
 
 const hi = (c: MemberContext) => (c.name ? `, ${c.name}` : '')
 
-export function morningMessage(c: MemberContext, day: string): Reminder {
+export function morningMessage(c: MemberContext, day: string, word?: { referencia: string; pregunta: string } | null): Reminder {
   const next = c.next?.title
   const url = c.next?.href ?? '/inicio'
+  // Every other day the morning brings the Palabra del día of the Community.
+  if (word && Number(day.replaceAll('-', '')) % 2 === 0) {
+    return {
+      title: c.streak >= 2 ? `🔥 ${c.streak} días · Palabra del día 📖` : 'Palabra del día 📖',
+      body: `${word.pregunta} (${word.referencia}). Léela y responde en la Comunidad.`,
+      url: '/comunidad',
+    }
+  }
   if (c.streak >= 2) {
     return pick(
       [

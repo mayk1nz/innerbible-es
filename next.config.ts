@@ -13,11 +13,15 @@ const nextConfig: NextConfig = {
     "/api/consejero": ["./content-private/planes/**"],
     "/api/cron/recordatorio": ["./content-private/estudio/**"],
   },
-  // Old upsell addresses (may still be set in KashPay) → the current pages.
+  // Old funnel addresses (may still be set in KashPay) → the current pages. The query
+  // string (KashPay's ks) goes along.
   async redirects() {
     return [
-      { source: "/up1", destination: "/upsell", permanent: false },
+      { source: "/up1", destination: "/resumen-en-audio", permanent: false },
+      { source: "/upsell", destination: "/resumen-en-audio", permanent: false },
+      { source: "/upsell-downsell", destination: "/resumen-en-audio-oferta", permanent: false },
       { source: "/up2", destination: "/palabras-del-senor", permanent: false },
+      { source: "/palabras-del-senor-downsell", destination: "/palabras-del-senor-oferta", permanent: false },
     ];
   },
 };

@@ -1,3 +1,4 @@
+import { hasOffensiveWords } from '@/lib/profanity'
 import { COMMUNITY_LIMITS } from '@/lib/config'
 import { db, t } from '@/lib/server/db'
 import {
@@ -60,6 +61,7 @@ export async function PUT(request: Request) {
       return json({ shared: false })
     }
     if (!(await canWrite(email))) return json({ error: 'no-purchase' }, 403)
+    if (hasOffensiveWords(text)) return json({ error: 'offensive' }, 400)
     const author = await authorOf(email)
     const existing = await db().from(t('community_posts')).select('id').eq('email', email).eq('kind', 'reflection').eq('lesson_key', lesson).maybeSingle()
     if (existing.error) throw existing.error

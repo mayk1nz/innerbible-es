@@ -58,6 +58,14 @@ export async function sendScheduled(now = new Date(), dry = false): Promise<{ se
     .filter((x) => x.slot && (x.slot === 'morning' ? x.s.morning_day : x.s.night_day) !== x.local.day)
   const localDayOf = new Map(due.map((x) => [x.s.email, x.local.day]))
   const contexts = await memberContexts([...localDayOf.keys()], (email) => localDayOf.get(email) ?? now.toISOString().slice(0, 10))
+  // Today's Palabra del día (the Community's post), for the morning reminder.
+  const { dailyWordFor } = await import('./daily-word')
+  let word: ReturnType<typeof dailyWordFor> = null
+  try {
+    word = dailyWordFor(localNow('America/Mexico_City', now).day)
+  } catch {
+    word = null
+  }
   let sent = 0
   let removed = 0
   let failed = 0
@@ -73,7 +81,7 @@ export async function sendScheduled(now = new Date(), dry = false): Promise<{ se
     const celebrated = c.streak < s.milestone ? 0 : s.milestone
     const milestone = slot === 'night' ? milestoneFor(c.streak, celebrated) : null
     const weekly = slot === 'night' && local.sunday && s.week_day !== local.day
-    const reminder = slot === 'morning' ? morningMessage(c, local.day) : nightMessage(c, local.day, weekly, milestone)
+    const reminder = slot === 'morning' ? morningMessage(c, local.day, word) : nightMessage(c, local.day, weekly, milestone)
     // Rehearsal: what would be sent, nothing sent or saved.
     if (dry) {
       preview.push({ email: s.email.replace(/^(.{2}).*(@.*)$/, '$1…$2'), slot: slot ?? '', local: ` ${local.hour}h`, reminder })

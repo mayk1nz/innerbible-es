@@ -1,5 +1,6 @@
 'use client'
 
+import { OFFENSIVE_MESSAGE } from './profanity'
 import { useEffect, useState } from 'react'
 import type { CommunityComment, CommunityPost, FeedResponse, RankingResponse } from './community'
 import type { RankMode } from './gamification'
@@ -57,6 +58,7 @@ export function errorText(error: string): string {
   if (error === 'no-purchase') return 'Para publicar necesitas un acceso activo.'
   if (error === 'no-session') return 'Tu sesión terminó. Vuelve a entrar para publicar.'
   if (error === 'too-long') return 'El texto es demasiado largo.'
+  if (error === 'offensive') return OFFENSIVE_MESSAGE
   return 'No pudimos completar esto ahora. Inténtalo de nuevo en un momento.'
 }
 

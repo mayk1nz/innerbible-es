@@ -1,3 +1,4 @@
+import { hasOffensiveWords } from '@/lib/profanity'
 import type { FeedResponse } from '@/lib/community'
 import { COMMUNITY_LIMITS } from '@/lib/config'
 import { db, t } from '@/lib/server/db'
@@ -78,6 +79,7 @@ export async function POST(request: Request) {
   const text = cleanText(body.text)
   if (!text) return json({ error: 'empty' }, 400)
   if (text.length > COMMUNITY_LIMITS.postChars) return json({ error: 'too-long' }, 400)
+  if (hasOffensiveWords(text)) return json({ error: 'offensive' }, 400)
   const lessonKey = isLessonKey(body.lessonKey) ? body.lessonKey : null
   try {
     if (!(await canWrite(email))) return json({ error: 'no-purchase' }, 403)

@@ -94,7 +94,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
     text: 'Solo vas a ver esta página una vez, por eso te pido que prestes mucha atención y mires el video de abajo.',
     accept: 'Sí, quiero el Resumen en Audio',
     decline: 'No, gracias. No quiero el audio',
-    next: '/upsell-downsell',
+    next: '/resumen-en-audio-oferta',
   },
   down1: {
     kind: 'downsell',
@@ -118,7 +118,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
     text: 'Esta es la última etapa antes de entregarte todo el material que acabas de adquirir. Mira el video de abajo.',
     accept: 'Sí, quiero Palabras del Señor',
     decline: 'No, gracias. Continuar sin esta guía',
-    next: '/palabras-del-senor-downsell',
+    next: '/palabras-del-senor-oferta',
   },
   down2: {
     kind: 'downsell',
@@ -148,6 +148,7 @@ const TEXT = {
   sameCard: 'Suscripción mensual de {price} al mes, con el mismo método de pago y sin volver a escribir tus datos.',
   error: 'No pudimos conectar con el pago. No se cobró nada: recarga la página e inténtalo de nuevo.',
   unavailable: 'Esta oferta no está disponible en este momento.',
+  noPurchase: 'Esta oferta es para quien acaba de hacer su compra: aparece sola después del pago. No se cobró nada.',
   ps: 'Esta es una oportunidad exclusiva, válida solo ahora en esta página: esta condición no volverá a estar disponible para ti.',
 }
 
@@ -189,6 +190,7 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
   // No video → the buttons are shown straight away.
   const revealed = videoRevealed || !hasVideo
   const [failed, setFailed] = useState(false)
+  const [noPurchase, setNoPurchase] = useState(false)
   const checkout = validUpsellUrl(config.checkoutUrl)
   // Downsell discount from the real prices, so the text can never disagree with them.
   const pct = config.priceFrom > config.price ? Math.round((1 - config.price / config.priceFrom) * 100) : 0
@@ -204,8 +206,16 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
 
   // KashPay's own functions, called with the step's /u/ link exactly as KashPay
   // generated it. KashPay handles the charge, the double clicks and the redirect.
+  // KashPay's `ks` (the purchase that brought the buyer here). Without it — the page opened
+  // by hand, not after a purchase — KashPay's functions have nothing to charge or follow.
+  const fromPurchase = new URLSearchParams(search).has('ks')
+
   const accept = () => {
     if (!checkout) return
+    if (!fromPurchase) {
+      setNoPurchase(true)
+      return
+    }
     if (typeof window.acceptUpsell !== 'function') {
       setFailed(true)
       return
@@ -215,7 +225,7 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
   }
 
   const decline = () => {
-    if (checkout && typeof window.declineUpsell === 'function') {
+    if (fromPurchase && checkout && typeof window.declineUpsell === 'function') {
       window.declineUpsell(checkout)
       return
     }
@@ -248,6 +258,11 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
             {fill(copy.accept)}
           </button>
           {config.price > 0 && <p className="mt-3 text-[14px] leading-snug text-muted">{fill(TEXT.sameCard)}</p>}
+          {noPurchase && (
+            <p role="alert" className="mt-3 text-[14.5px] font-medium text-ink">
+              {TEXT.noPurchase}
+            </p>
+          )}
           {failed && (
             <p role="alert" className="mt-3 text-[14.5px] font-medium text-danger">
               {TEXT.error}

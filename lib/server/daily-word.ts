@@ -19,6 +19,9 @@ export interface DailyWord {
   day: string
   lessonKey: string
   text: string
+  /** For the morning notification: the verse's reference and the question. */
+  referencia: string
+  pregunta: string
 }
 
 function dayOfYear(day: string): number {
@@ -39,7 +42,7 @@ export function dailyWordFor(day: string): DailyWord | null {
   const sentence = sentences.length ? sentences[(plan.dia - 1) % sentences.length] : ''
   const verse = lesson.versiculo.texto.trim().replace(/^[«"]|[»"]$/g, '')
   const text = [`«${verse}»\n— ${lesson.versiculo.referencia}`, sentence, `💬 ${lesson.paraTuVida.pregunta.trim()}`].filter(Boolean).join('\n\n')
-  return { day, lessonKey: `cronologico/${plan.leccion}`, text }
+  return { day, lessonKey: `cronologico/${plan.leccion}`, text, referencia: lesson.versiculo.referencia, pregunta: lesson.paraTuVida.pregunta.trim() }
 }
 
 /** Creates today's Palabra once. `dry`: only says what it would publish. */
