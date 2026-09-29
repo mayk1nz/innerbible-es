@@ -373,12 +373,18 @@ export function saveReflection(key: string, text: string, shared: boolean): void
   })
 }
 
-export function addPost(text: string, lessonKey: string | null): void {
+/**
+ * A post the member published (`serverId`: its id on the wall, /api/comunidad). The copy
+ * kept here gives the points; the wall shows the server's copy. Posts without a server id
+ * are from before the real Comunidad and stay visible only to their author.
+ */
+export function addPost(text: string, lessonKey: string | null, serverId?: string): void {
   const clean = text.trim().slice(0, 1500)
   if (!clean) return
   update((s) => {
     const at = Date.now()
-    const id = uid('post')
+    const id = serverId ?? uid('post')
+    if (s.posts.some((p) => p.id === id)) return s
     return {
       ...s,
       posts: [{ id, text: clean, at, lessonKey }, ...s.posts],
@@ -387,6 +393,12 @@ export function addPost(text: string, lessonKey: string | null): void {
   })
 }
 
+/** The member deleted one of their posts. Its points stay (the daily cap already limits them). */
+export function removePost(id: string): void {
+  update((s) => (s.posts.some((p) => p.id === id) ? { ...s, posts: s.posts.filter((p) => p.id !== id) } : s))
+}
+
+/** Likes and comments below are for the example posts only (the real ones live on the server). */
 export function toggleLike(postId: string): void {
   update((s) => ({
     ...s,

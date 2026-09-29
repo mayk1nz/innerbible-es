@@ -1,7 +1,9 @@
 'use client'
 
+import { useMemo } from 'react'
 import { Avatar } from './ui'
-import type { RankMode, RankRow } from '@/lib/gamification'
+import { useRanking } from '@/lib/community-client'
+import { leaderboard, mergedLeaderboard, type RankMode, type RankRow } from '@/lib/gamification'
 import { plural } from '@/lib/text'
 
 const MEDALS: Record<number, string> = { 1: '#e0ac4a', 2: '#c9c3b5', 3: '#c98d58' }
@@ -31,4 +33,36 @@ export function RankItem({ row, mode }: { row: RankRow; mode: RankMode }) {
       <span className="shrink-0 font-serif text-[17px] font-semibold tabular-nums text-ink">{value}</span>
     </li>
   )
+}
+
+/** Placeholder rows while the ranking loads (same height as the real ones). */
+export function RankSkeleton({ count }: { count: number }) {
+  return (
+    <ol className="space-y-2" aria-busy="true" aria-label="Cargando el ranking">
+      {Array.from({ length: count }, (_, i) => (
+        <li key={i} className="flex h-[66px] animate-pulse items-center gap-3 rounded-2xl border border-line bg-surface px-3.5">
+          <span className="size-8 rounded-full bg-line-soft" />
+          <span className="size-9 rounded-full bg-line-soft" />
+          <span className="h-3.5 flex-1 rounded-full bg-line-soft" />
+        </li>
+      ))}
+    </ol>
+  )
+}
+
+/**
+ * The ranking the member sees: the real one from the server (with the example members
+ * while the Comunidad is small); offline, the example members and the member only.
+ */
+export function useLeaderboard(
+  mode: RankMode,
+  me: { name: string; weekPoints: number; streak: number },
+): { rows: RankRow[]; status: 'loading' | 'ok' | 'offline'; total: number } {
+  const { status, data } = useRanking(mode)
+  const { name, weekPoints, streak } = me
+  return useMemo(() => {
+    const mine = { name, weekPoints, streak }
+    if (status === 'ok' && data) return { rows: mergedLeaderboard(mode, data, mine), status: 'ok' as const, total: data.total }
+    return { rows: leaderboard(mode, mine), status: status === 'loading' ? ('loading' as const) : ('offline' as const), total: 0 }
+  }, [status, data, mode, name, weekPoints, streak])
 }

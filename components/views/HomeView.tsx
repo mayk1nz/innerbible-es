@@ -5,12 +5,12 @@ import { useMemo } from 'react'
 import { ProductHeroCard, ProductTile } from '../cards'
 import { Cover } from '../Cover'
 import { Icon, type IconName } from '../icons'
-import { RankItem } from '../Leaderboard'
+import { RankItem, RankSkeleton, useLeaderboard } from '../Leaderboard'
 import { NotifyPrompt } from '../NotifyPrompt'
 import { PageHeader } from '../PageHeader'
 import { SectionTitle } from '../ui'
 import { OFFERS, PRODUCTS, productById, type Lesson, type Product } from '@/lib/catalog'
-import { computeStats, leaderboard, type Stats } from '@/lib/gamification'
+import { computeStats, type Stats } from '@/lib/gamification'
 import { continueTarget, isOwned, lessonHref } from '@/lib/progress'
 import { useAppState, useNowMinute, useToday } from '@/lib/store'
 import { plural } from '@/lib/text'
@@ -109,11 +109,8 @@ export function HomeView() {
   const stats = useMemo(() => computeStats(s, today), [s, today])
   const target = useMemo(() => continueTarget(s, today), [s, today])
   const name = s.session?.name ?? ''
-  const board = useMemo(
-    () => leaderboard('semana', { name, weekPoints: stats.weekPoints, streak: stats.streak }),
-    [name, stats.weekPoints, stats.streak],
-  )
-  const me = board.find((r) => r.me)
+  const board = useLeaderboard('semana', { name, weekPoints: stats.weekPoints, streak: stats.streak })
+  const me = board.rows.find((r) => r.me)
   const recorridos = PRODUCTS.filter((p) => p.kind === 'recorrido' && isOwned(p, s.owned))
   // One big card — the recorrido in progress — and the rest as small covers, so Home
   // stays short however much the member owns.
@@ -220,12 +217,16 @@ export function HomeView() {
       >
         Constancia de la semana
       </SectionTitle>
-      <ol className="space-y-2">
-        {board.slice(0, 3).map((row) => (
-          <RankItem key={row.name + row.rank} row={row} mode="semana" />
-        ))}
-      </ol>
-      {me && me.rank > 3 && (
+      {board.status === 'loading' ? (
+        <RankSkeleton count={3} />
+      ) : (
+        <ol className="space-y-2">
+          {board.rows.slice(0, 3).map((row) => (
+            <RankItem key={row.name + row.rank} row={row} mode="semana" />
+          ))}
+        </ol>
+      )}
+      {board.status !== 'loading' && me && me.rank > 3 && (
         <p className="mt-3 text-center text-[15px] text-muted">
           Tú vas en el puesto <strong className="text-ink">{me.rank}</strong> con {me.weekPoints} pts. Cada lección suma.
         </p>

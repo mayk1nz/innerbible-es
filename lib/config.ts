@@ -66,6 +66,19 @@ export const PUSH_PUBLIC_KEY = 'BFKcZtQQMSYJ_xcfylnG24SUCdGH7rLR58UjsFRHa6U-Ufy9
 /** What each action is worth. Shown to members, so keep it simple. */
 export const POINTS = { lesson: 10, reflection: 5, post: 3 } as const
 
+/**
+ * The example members, posts and reflections (lib/community-seed.ts) keep the Comunidad
+ * alive while it is small. Once this many real members have progress, they disappear
+ * from the ranking, the wall and the lessons on their own.
+ */
+export const REAL_MEMBERS_TO_HIDE_SEEDS = 100
+
+/** Who signs the daily "Palabra del día" on the wall. */
+export const TEAM_AUTHOR = 'Equipo La Biblia Interior'
+
+/** Limits of the wall, per member (a rolling 24 hours). */
+export const COMMUNITY_LIMITS = { postsPerDay: 10, postChars: 1500, commentsPerDay: 30, commentChars: 800, reflectionChars: 1200 } as const
+
 /** Demo panel (unlock offers, reset progress): always in dev, opt-in on a deployed build. */
 export const DEMO_MODE =
   process.env.NODE_ENV !== 'production' || process.env.NEXT_PUBLIC_DEMO_MODE === '1'

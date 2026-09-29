@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useEffect, useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useRef, useState, type FormEvent } from 'react'
 import { AudioPlayer } from '../AudioPlayer'
 import { EstudioLesson } from './EstudioLesson'
 import { GuiaLesson } from './GuiaLesson'
@@ -17,6 +17,8 @@ import { Avatar, FontScaleControl, buttonClass } from '../ui'
 import type { Lesson, LessonContent, Product, Section } from '@/lib/catalog'
 import { loadPlanDay } from '@/lib/content/plans/load'
 import { trackFor } from '@/lib/player'
+import { minutesSince, type CommunityPost } from '@/lib/community'
+import { fetchLessonItems, shareReflection } from '@/lib/community-client'
 import { SEED_POSTS, SEED_REFLECTIONS } from '@/lib/community-seed'
 import { POINTS } from '@/lib/config'
 import { computeStats } from '@/lib/gamification'
@@ -59,6 +61,8 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
   const stats = useMemo(() => computeStats(s, today), [s, today])
   const done = Boolean(s.completed[key])
   const [celebrate, setCelebrate] = useState(false)
+  // Bumped when the member's reflection reaches the server, so the hermanos' list reloads.
+  const [reflectionsVersion, setReflectionsVersion] = useState(0)
   // Plan days open one at a time; a day not open yet shows when it opens instead.
   const status = planDayStatus(product.id, section, lesson.id, s.completed, today)
   const waiting = status === 'locked' || status === 'tomorrow'
@@ -163,8 +167,8 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
 
       {!lesson.ninos && (
         <>
-          <ReflectionBox lessonKey={key} existing={s.reflections[key]} />
-          <SharedReflections lessonKey={key} mine={s.reflections[key]} myPosts={s.posts} myName={s.session?.name ?? 'Tú'} />
+          <ReflectionBox lessonKey={key} existing={s.reflections[key]} onSynced={() => setReflectionsVersion((n) => n + 1)} />
+          <SharedReflections lessonKey={key} mine={s.reflections[key]} myPosts={s.posts} myName={s.session?.name ?? 'Tú'} version={reflectionsVersion} />
         </>
       )}
 
@@ -409,18 +413,33 @@ function tabPosition(product: Product, section: Section, lessonId: string): stri
 /** Guides about personal struggles: reflections stay private unless the member chooses to share. */
 const PRIVATE_BY_DEFAULT = new Set(['hacedores', 'caminando-gigantes'])
 
-function ReflectionBox({ lessonKey: key, existing }: { lessonKey: string; existing?: Reflection }) {
+/** Reflections saved before the Comunidad was real never reached the server: sent once when seen. */
+const SHARED_BEFORE_REAL_COMMUNITY = Date.UTC(2026, 9, 1)
+
+function ReflectionBox({ lessonKey: key, existing, onSynced }: { lessonKey: string; existing?: Reflection; onSynced: () => void }) {
   const [text, setText] = useState(existing?.text ?? '')
   const [shared, setShared] = useState(existing?.shared ?? !PRIVATE_BY_DEFAULT.has(key.split('/')[0]))
-  const [saved, setSaved] = useState(false)
+  const [sync, setSync] = useState<'idle' | 'saving' | 'ok' | 'error'>('idle')
+  const [savedAs, setSavedAs] = useState<{ shared: boolean; removed: boolean }>({ shared: false, removed: false })
   const dirty = text.trim() !== (existing?.text ?? '') || shared !== (existing?.shared ?? true)
+
+  // The server copy is what the hermanos see: shared → published there, otherwise removed.
+  const publish = async (clean: string, share: boolean) => {
+    setSync('saving')
+    setSavedAs({ shared: share && Boolean(clean), removed: !clean })
+    const r = await shareReflection(key, clean, share && Boolean(clean))
+    setSync(r.ok ? 'ok' : 'error')
+    if (r.ok) onSynced()
+  }
 
   const submit = (e: FormEvent) => {
     e.preventDefault()
-    saveReflection(key, text, shared)
-    setSaved(true)
+    const clean = text.trim()
+    saveReflection(key, clean, shared)
+    void publish(clean, shared)
   }
 
+  const clean = text.trim()
   return (
     <section className="mt-10" aria-labelledby="reflexion-titulo">
       <h2 id="reflexion-titulo" className="font-serif text-[22px] font-semibold text-ink">
@@ -436,7 +455,7 @@ function ReflectionBox({ lessonKey: key, existing }: { lessonKey: string; existi
           value={text}
           onChange={(e) => {
             setText(e.target.value)
-            setSaved(false)
+            setSync('idle')
           }}
           rows={4}
           maxLength={1200}
@@ -449,19 +468,32 @@ function ReflectionBox({ lessonKey: key, existing }: { lessonKey: string; existi
             checked={shared}
             onChange={(e) => {
               setShared(e.target.checked)
-              setSaved(false)
+              setSync('idle')
             }}
             className="size-5 accent-primary"
           />
           Compartir con los hermanos
         </label>
-        <button type="submit" disabled={!dirty || !text.trim()} className={`${buttonClass.secondary} mt-2`}>
-          {existing ? 'Actualizar reflexión' : 'Guardar reflexión'}
+        <button type="submit" disabled={!dirty || (!clean && !existing) || sync === 'saving'} className={`${buttonClass.secondary} mt-2`}>
+          {existing && !clean ? 'Borrar reflexión' : existing ? 'Actualizar reflexión' : 'Guardar reflexión'}
           {!existing && <span className="text-[13px] font-semibold text-gold">+{POINTS.reflection} pts</span>}
         </button>
-        {saved && !dirty && (
+        {sync === 'saving' && (
+          <p role="status" className="mt-2.5 text-center text-[14.5px] font-medium text-muted">
+            Guardando…
+          </p>
+        )}
+        {sync === 'ok' && !dirty && (
           <p role="status" className="mt-2.5 text-center text-[14.5px] font-medium text-success">
-            {shared ? 'Guardada y compartida con los hermanos.' : 'Guardada solo para ti.'}
+            {savedAs.removed ? 'Reflexión borrada.' : savedAs.shared ? 'Guardada y compartida con los hermanos.' : 'Guardada solo para ti.'}
+          </p>
+        )}
+        {sync === 'error' && !dirty && (
+          <p role="alert" className="mt-2.5 text-center text-[14.5px] leading-snug text-danger">
+            {savedAs.shared ? 'Guardada en tu dispositivo, pero no pudimos compartirla ahora.' : 'Guardada en tu dispositivo, pero no pudimos actualizar la Comunidad.'}{' '}
+            <button type="button" onClick={() => void publish(clean, shared)} className="font-semibold text-primary underline underline-offset-4">
+              Intentar de nuevo
+            </button>
           </p>
         )}
       </form>
@@ -469,42 +501,111 @@ function ReflectionBox({ lessonKey: key, existing }: { lessonKey: string; existi
   )
 }
 
+interface HermanoItem {
+  key: string
+  author: string
+  text: string
+  ago: number
+  me: boolean
+}
+
 // Shared reflections and wall posts about this lesson, in one conversation: a post
 // tagged "Génesis" on the Comunidad wall shows up here too, so the lesson and the
-// community feed each other instead of living in separate tabs.
+// community feed each other instead of living in separate tabs. The real ones come from
+// the server; the example ones show while the Comunidad is small.
 function SharedReflections({
   lessonKey: key,
   mine,
   myPosts,
   myName,
+  version,
 }: {
   lessonKey: string
   mine?: Reflection
   myPosts: UserPost[]
   myName: string
+  version: number
 }) {
   const minute = useNowMinute()
+  const [remote, setRemote] = useState<{ status: 'loading' | 'ok' | 'error'; items: CommunityPost[]; seeds: boolean }>({ status: 'loading', items: [], seeds: true })
+  const [attempt, setAttempt] = useState(0)
+  const mineRef = useRef(mine)
+  useEffect(() => {
+    mineRef.current = mine
+  }, [mine])
+
+  useEffect(() => {
+    let alive = true
+    void (async () => {
+      let r = await fetchLessonItems(key)
+      const m = mineRef.current
+      // A reflection shared before the Comunidad was real: publish it now, once.
+      if (r.ok && m?.shared && m.text && m.at < SHARED_BEFORE_REAL_COMMUNITY && !r.items.some((i) => i.mine && i.kind === 'reflection')) {
+        const sent = await shareReflection(key, m.text, true)
+        if (sent.ok) r = await fetchLessonItems(key)
+      }
+      if (!alive) return
+      setRemote(r.ok ? { status: 'ok', items: r.items, seeds: r.seeds } : { status: 'error', items: [], seeds: true })
+    })()
+    return () => {
+      alive = false
+    }
+  }, [key, version, attempt])
+
   const ago = (at: number) => (minute ? Math.max(0, minute - Math.floor(at / 60_000)) : 0)
-  const items = [
-    ...(mine?.shared ? [{ author: myName, text: mine.text, ago: ago(mine.at), me: true }] : []),
-    ...myPosts.filter((p) => p.lessonKey === key).map((p) => ({ author: myName, text: p.text, ago: ago(p.at), me: true })),
-    ...(SEED_REFLECTIONS[key] ?? []).map((r) => ({ author: r.author, text: r.text, ago: r.ageMin, me: false })),
-    ...SEED_POSTS.filter((p) => p.lessonKey === key).map((p) => ({ author: p.author, text: p.text, ago: p.ageMin, me: false })),
+  const serverHasMine = remote.items.some((i) => i.mine && i.kind === 'reflection')
+  const showSeeds = remote.status !== 'ok' || remote.seeds
+  const items: HermanoItem[] = [
+    ...remote.items.map((p) => ({ key: p.id, author: p.author, text: p.text, ago: minutesSince(p.createdAt, minute), me: p.mine })),
+    // Not on the server yet (offline, or still sending): the member still sees their own.
+    ...(mine?.shared && !serverHasMine && remote.status !== 'loading' ? [{ key: 'mine', author: myName, text: mine.text, ago: ago(mine.at), me: true }] : []),
+    ...myPosts
+      .filter((p) => p.lessonKey === key && p.id.startsWith('post_'))
+      .map((p) => ({ key: p.id, author: myName, text: p.text, ago: ago(p.at), me: true })),
+    ...(showSeeds
+      ? [
+          ...(SEED_REFLECTIONS[key] ?? []).map((r) => ({ key: `seed-${r.author}-${r.ageMin}`, author: r.author, text: r.text, ago: r.ageMin, me: false })),
+          ...SEED_POSTS.filter((p) => p.lessonKey === key).map((p) => ({ key: p.id, author: p.author, text: p.text, ago: p.ageMin, me: false })),
+        ]
+      : []),
   ].sort((a, b) => a.ago - b.ago)
 
   return (
-    <section className="mt-10" aria-labelledby="hermanos-titulo">
+    <section className="mt-10" aria-labelledby="hermanos-titulo" aria-busy={remote.status === 'loading'}>
       <h2 id="hermanos-titulo" className="font-serif text-[22px] font-semibold text-ink">
         Lo que entendieron los hermanos
       </h2>
-      {items.length === 0 ? (
+      {remote.status === 'error' && (
+        <p role="alert" className="mt-3 text-[14.5px] leading-snug text-muted">
+          No pudimos cargar las reflexiones de los hermanos.{' '}
+          <button
+            type="button"
+            onClick={() => {
+              setRemote((r) => ({ ...r, status: 'loading' }))
+              setAttempt((n) => n + 1)
+            }}
+            className="font-semibold text-primary underline-offset-4 hover:underline"
+          >
+            Reintentar
+          </button>
+        </p>
+      )}
+      {remote.status === 'loading' && items.length === 0 ? (
+        <div className="mt-3.5 animate-pulse rounded-2xl border border-line bg-surface p-4">
+          <div className="flex items-center gap-3">
+            <span className="size-9 rounded-full bg-line-soft" />
+            <span className="h-3.5 w-28 rounded-full bg-line-soft" />
+          </div>
+          <span className="mt-3 block h-3.5 w-full rounded-full bg-line-soft" />
+        </div>
+      ) : items.length === 0 ? (
         <p className="mt-3 rounded-2xl border border-dashed border-line px-5 py-6 text-center text-[15.5px] leading-relaxed text-muted">
           Todavía nadie compartió una reflexión aquí. Sé el primero.
         </p>
       ) : (
         <ul className="mt-3.5 space-y-3">
           {items.map((r) => (
-            <li key={`${r.author}-${r.ago}-${r.text.slice(0, 24)}`} className="rounded-2xl border border-line bg-surface p-4">
+            <li key={r.key} className="rounded-2xl border border-line bg-surface p-4">
               <div className="flex items-center gap-3">
                 <Avatar name={r.author} size="sm" primary={r.me} />
                 <div className="min-w-0">
@@ -515,7 +616,7 @@ function SharedReflections({
                   <p className="text-[13.5px] text-muted">{timeAgo(r.ago)}</p>
                 </div>
               </div>
-              <p className="mt-2.5 font-serif text-[16.5px] leading-relaxed text-text">{r.text}</p>
+              <p className="mt-2.5 whitespace-pre-line break-words font-serif text-[16.5px] leading-relaxed text-text">{r.text}</p>
             </li>
           ))}
         </ul>

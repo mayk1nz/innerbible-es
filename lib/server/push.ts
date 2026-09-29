@@ -102,6 +102,25 @@ export async function sendScheduled(now = new Date(), dry = false): Promise<{ se
   return { sent, removed, failed, skipped, ...(dry ? { preview } : {}) }
 }
 
+/**
+ * Sends one notification to one device. A device that no longer exists (the browser
+ * says 404/410) is removed.
+ */
+export async function sendPush(s: { endpoint: string; p256dh: string; auth: string }, reminder: Reminder, ttlS = 60 * 60 * 3): Promise<'sent' | 'removed' | 'failed'> {
+  await setup()
+  try {
+    await webpush.sendNotification({ endpoint: s.endpoint, keys: { p256dh: s.p256dh, auth: s.auth } }, JSON.stringify(reminder), { TTL: ttlS })
+    return 'sent'
+  } catch (e) {
+    const code = (e as { statusCode?: number }).statusCode
+    if (code === 404 || code === 410) {
+      await db().from(t('push_subscriptions')).delete().eq('endpoint', s.endpoint)
+      return 'removed'
+    }
+    return 'failed'
+  }
+}
+
 export async function removeSubscription(email: string, endpoint: string): Promise<void> {
   await db().from(t('push_subscriptions')).delete().eq('endpoint', endpoint).eq('email', email)
 }

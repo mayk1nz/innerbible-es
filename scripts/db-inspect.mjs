@@ -24,7 +24,9 @@ if (process.argv.includes('--payload')) {
   for (const row of r.rows) console.log(JSON.stringify(row, null, 2))
 }
 if (process.argv.includes('--clean-test')) {
-  for (const t of ['kashpay_events', 'entitlements', 'members', 'consejero_messages', 'consejero_usage', 'member_progress', 'estudio_usage']) {
+  const tables = ['kashpay_events', 'entitlements', 'members', 'consejero_messages', 'consejero_usage', 'member_progress', 'estudio_usage',
+    'community_likes', 'community_comments', 'community_posts', 'ranking_snapshots', 'push_subscriptions']
+  for (const t of tables) {
     const r = await client.query(`delete from public.${P}${t} where email like '%@example.com'`)
     console.log(`limpo ${t}: ${r.rowCount}`)
   }

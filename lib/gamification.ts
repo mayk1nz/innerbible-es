@@ -1,3 +1,4 @@
+import type { RankingResponse } from './community'
 import { SEED_MEMBERS } from './community-seed'
 import { addDays, weekStart } from './dates'
 import type { AppState } from './store'
@@ -66,15 +67,39 @@ export interface RankRow {
   me: boolean
 }
 
-export function leaderboard(mode: RankMode, me: { name: string; weekPoints: number; streak: number }): RankRow[] {
-  const rows = [
-    ...SEED_MEMBERS.map((m) => ({ ...m, me: false })),
-    { ...me, me: true },
-  ]
-  rows.sort((a, b) =>
+type Entry = Omit<RankRow, 'rank'>
+
+function byMode(mode: RankMode) {
+  return (a: Entry, b: Entry) =>
     mode === 'semana'
       ? b.weekPoints - a.weekPoints || b.streak - a.streak || Number(b.me) - Number(a.me)
-      : b.streak - a.streak || b.weekPoints - a.weekPoints || Number(b.me) - Number(a.me),
-  )
+      : b.streak - a.streak || b.weekPoints - a.weekPoints || Number(b.me) - Number(a.me)
+}
+
+/** The ranking with the example members only (offline, or before the server answers). */
+export function leaderboard(mode: RankMode, me: { name: string; weekPoints: number; streak: number }): RankRow[] {
+  const rows: Entry[] = [...SEED_MEMBERS.map((m) => ({ ...m, me: false })), { ...me, me: true }]
+  rows.sort(byMode(mode))
   return rows.map((r, i) => ({ ...r, rank: i + 1 }))
+}
+
+/**
+ * The real ranking from the server (top real members + the member's own place among
+ * them) mixed with the example members while the Comunidad is small (`board.seeds`).
+ * The member's own numbers come from this device, which is never behind the server.
+ */
+export function mergedLeaderboard(
+  mode: RankMode,
+  board: RankingResponse,
+  me: { name: string; weekPoints: number; streak: number },
+): RankRow[] {
+  const others: Entry[] = board.rows.filter((r) => !r.me).map((r) => ({ name: r.name, weekPoints: r.weekPoints, streak: r.streak, me: false }))
+  const rows: Entry[] = [...others, ...(board.seeds ? SEED_MEMBERS.map((m) => ({ ...m, me: false })) : []), { ...me, me: true }]
+  rows.sort(byMode(mode))
+  // Real members between the top shown and the member (not sent by the server) are still above them.
+  const hidden = board.me
+    ? board.rows.some((r) => r.me) ? 0 : Math.max(0, board.me.rank - 1 - others.length)
+    : Math.max(0, board.total - others.length)
+  const mine = rows.findIndex((r) => r.me)
+  return rows.map((r, i) => ({ ...r, rank: i + 1 + (i >= mine ? hidden : 0) }))
 }
