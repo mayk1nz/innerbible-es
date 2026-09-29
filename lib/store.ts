@@ -111,6 +111,7 @@ const RENAMED: Record<string, string> = {
   'juan-1': 'el-verbo',
   'el-ministerio-de-jesus-una-armonia-de-los-evangelios': 'galilea-ensenanzas',
   'hechos-de-los-apostoles': 'hechos-1-7',
+  'conclusion-del-genesis-al-apocalipsis': 'conclusion',
 }
 
 function migrateKey(key: string): string {
@@ -125,6 +126,20 @@ function migrateRecord<T>(rec: Record<string, T>): Record<string, T> {
     if (!(nk in out)) out[nk] = v
   }
   return out
+}
+
+/**
+ * Point events carry the lesson key in their id ("lesson:cronologico/genesis"): migrate it too,
+ * and keep one event per id (the oldest), so a renamed lesson is never counted twice.
+ */
+function migratePoints(points: PointEvent[]): PointEvent[] {
+  const out = new Map<string, PointEvent>()
+  for (const p of [...points].sort((a, b) => a.at - b.at)) {
+    const m = /^(lesson|reflection):(.+)$/.exec(p.id)
+    const id = m ? `${m[1]}:${migrateKey(m[2])}` : p.id
+    if (!out.has(id)) out.set(id, { ...p, id })
+  }
+  return [...out.values()]
 }
 
 function sanitize(raw: unknown): AppState {
@@ -143,7 +158,7 @@ function sanitize(raw: unknown): AppState {
     posts: Array.isArray(raw.posts) ? (raw.posts as UserPost[]).map((p) => (p.lessonKey ? { ...p, lessonKey: migrateKey(p.lessonKey) } : p)) : [],
     likes: isRecord(raw.likes) ? (raw.likes as AppState['likes']) : {},
     comments: isRecord(raw.comments) ? (raw.comments as AppState['comments']) : {},
-    points: Array.isArray(raw.points) ? (raw.points as PointEvent[]) : [],
+    points: Array.isArray(raw.points) ? migratePoints(raw.points as PointEvent[]) : [],
     lastLesson: typeof raw.lastLesson === 'string' ? migrateKey(raw.lastLesson) : null,
     fontScale: typeof raw.fontScale === 'number' ? clampScale(raw.fontScale) : 1,
     audioPos: isRecord(raw.audioPos) ? (raw.audioPos as AppState['audioPos']) : {},
@@ -184,7 +199,12 @@ function commit(next: AppState): void {
 function update(fn: (s: AppState) => AppState): void {
   const prev = getAppState()
   const next = fn(prev)
-  if (next !== prev) commit(next)
+  if (next === prev) return
+  commit(next)
+  // Progress follows the member to other devices (see syncProgress below).
+  if (prev.completed !== next.completed || prev.reflections !== next.reflections || prev.points !== next.points || prev.lastLesson !== next.lastLesson) {
+    schedulePush()
+  }
 }
 
 function subscribe(cb: () => void): () => void {
@@ -242,14 +262,24 @@ function omit<T>(obj: Record<string, T>, key: string): Record<string, T> {
   return next
 }
 
+/**
+ * Adds a point event once. An event taken back (pts 0, see withoutPoint) gets its points
+ * back on its ORIGINAL day: unmarking and marking again never moves old points into this
+ * week's ranking.
+ */
 function withPoint(points: PointEvent[], id: string, kind: PointKind, pts: number, at: number): PointEvent[] {
-  if (points.some((p) => p.id === id)) return points
+  const found = points.find((p) => p.id === id)
+  if (found) return found.pts === pts ? points : points.map((p) => (p.id === id ? { ...p, pts } : p))
   return [...points, { id, kind, pts, day: localDay(at), at }]
 }
 
+/** Takes the points back but keeps the event (its day still counts as a day of activity). */
 function withoutPoint(points: PointEvent[], id: string): PointEvent[] {
-  return points.some((p) => p.id === id) ? points.filter((p) => p.id !== id) : points
+  return points.some((p) => p.id === id && p.pts) ? points.map((p) => (p.id === id ? { ...p, pts: 0 } : p)) : points
 }
+
+/** Posts earn points up to this many a day (the ranking must reward constancy, not volume). */
+const POSTS_WITH_POINTS_PER_DAY = 3
 
 /**
  * The member as the server knows them (after /api/auth/login or /api/auth/me): the
@@ -277,6 +307,8 @@ export function setMember(email: string, fallbackName: string, me: ServerMember)
       offerStartedAt: me.offerStartedAt ?? base.offerStartedAt,
     }
   })
+  // Bring this member's progress from the server (another phone, the installed app…).
+  void syncProgress()
 }
 
 export function setName(name: string): void {
@@ -288,6 +320,8 @@ export function setTheme(theme: 'light' | 'dark'): void {
 }
 
 export function signOut(): void {
+  pushProgress(true)
+  syncedFor = null
   update((s) => ({ ...s, session: null }))
   // Also end the server session (the cookie); if offline, the next /me check does it.
   void fetch('/api/auth/me', { method: 'DELETE' }).catch(() => {})
@@ -346,7 +380,7 @@ export function addPost(text: string, lessonKey: string | null): void {
     return {
       ...s,
       posts: [{ id, text: clean, at, lessonKey }, ...s.posts],
-      points: withPoint(s.points, `post:${id}`, 'post', POINTS.post, at),
+      points: withPoint(s.points, `post:${id}`, 'post', s.points.filter((p) => p.kind === 'post' && p.day === localDay(at) && p.pts).length < POSTS_WITH_POINTS_PER_DAY ? POINTS.post : 0, at),
     }
   })
 }
@@ -377,6 +411,85 @@ export function setFontScale(value: number): void {
 
 export function saveAudioPosition(key: string, seconds: number): void {
   update((s) => ({ ...s, audioPos: { ...s.audioPos, [key]: Math.max(0, Math.floor(seconds)) } }))
+}
+
+// ─── Progress on the server ────────────────────────────────────────
+// Lessons done, points, reflections and where the member left off live on this device
+// AND on the server (/api/progress), so nothing is lost when they change phone, use the
+// installed app and the browser, or share the device with family. On every visit the
+// device merges the server's copy into its own (nothing done anywhere is lost), then
+// sends the result back; every change after that is sent a moment later.
+
+type Progress = Pick<AppState, 'completed' | 'reflections' | 'points' | 'lastLesson' | 'audioPos'>
+
+const progressOf = (s: AppState): Progress => ({
+  completed: s.completed,
+  reflections: s.reflections,
+  points: s.points,
+  lastLesson: s.lastLesson,
+  audioPos: s.audioPos,
+})
+
+/** The server's copy merged into this device's state (this device wins on conflicts). */
+function mergeProgress(s: AppState, remote: unknown): AppState {
+  const r = sanitize({ ...DEFAULT_STATE, ...(isRecord(remote) ? remote : {}), v: 1 })
+  const completed = { ...r.completed }
+  for (const [k, c] of Object.entries(s.completed)) if (!completed[k] || c.at < completed[k].at) completed[k] = c
+  const byId = new Map(r.points.map((p) => [p.id, p]))
+  for (const p of s.points) byId.set(p.id, p)
+  let points = [...byId.values()]
+  // A lesson done on any device keeps its points.
+  for (const [k, c] of Object.entries(completed)) points = withPoint(points, `lesson:${k}`, 'lesson', POINTS.lesson, c.at)
+  return {
+    ...s,
+    completed,
+    points,
+    reflections: { ...r.reflections, ...s.reflections },
+    audioPos: { ...r.audioPos, ...s.audioPos },
+    lastLesson: s.lastLesson ?? r.lastLesson,
+  }
+}
+
+/** The member whose progress this device has already merged with the server's. */
+let syncedFor: string | null = null
+let pushTimer: ReturnType<typeof setTimeout> | null = null
+
+export async function syncProgress(): Promise<void> {
+  const email = getAppState().session?.email
+  if (!email) return
+  const res = await fetch('/api/progress', { cache: 'no-store' }).catch(() => null)
+  if (!res?.ok) return
+  const { data } = (await res.json().catch(() => ({ data: null }))) as { data: unknown }
+  if (getAppState().session?.email !== email) return
+  if (data) update((s) => mergeProgress(s, data))
+  syncedFor = email
+  pushProgress()
+}
+
+function pushProgress(keepalive = false): void {
+  if (pushTimer) clearTimeout(pushTimer)
+  pushTimer = null
+  const s = getAppState()
+  if (!s.session || s.session.email !== syncedFor) return
+  void fetch('/api/progress', {
+    method: 'PUT',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ data: progressOf(s) }),
+    keepalive,
+  }).catch(() => {})
+}
+
+function schedulePush(): void {
+  if (!syncedFor) return
+  if (pushTimer) clearTimeout(pushTimer)
+  pushTimer = setTimeout(() => pushProgress(), 2000)
+}
+
+// Leaving the page with a change still waiting: send it now.
+if (typeof window !== 'undefined') {
+  window.addEventListener('pagehide', () => {
+    if (pushTimer) pushProgress(true)
+  })
 }
 
 // ─── Demo only (profile panel) ─────────────────────────────────────

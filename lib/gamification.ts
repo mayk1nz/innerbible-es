@@ -41,7 +41,8 @@ export function bestStreak(days: ReadonlySet<string>): number {
 }
 
 export function computeStats(s: AppState, today: string): Stats {
-  const days = new Set(Object.values(s.completed).map((c) => c.day))
+  // Days with a lesson done (an event taken back still counts: that day there was activity).
+  const days = new Set([...Object.values(s.completed).map((c) => c.day), ...s.points.filter((p) => p.kind === 'lesson').map((p) => p.day)])
   const monday = today ? weekStart(today) : ''
   const sum = (from: string) =>
     s.points.reduce((total, p) => (from === '' || p.day >= from ? total + p.pts : total), 0)

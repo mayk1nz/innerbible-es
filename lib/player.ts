@@ -40,6 +40,8 @@ let state: PlayerState = IDLE
 let audio: HTMLAudioElement | null = null
 let lastSaved = 0
 let sleepTimer: ReturnType<typeof setTimeout> | null = null
+/** A listening-plan day being played: its audios in order and the day to mark when all are heard. */
+let queue: { tracks: Track[]; dayKey: string } | null = null
 const listeners = new Set<() => void>()
 
 function set(patch: Partial<PlayerState>): void {
@@ -99,7 +101,14 @@ function element(): HTMLAudioElement {
     set({ playing: false })
     if (state.track) saveAudioPosition(state.track.key, el.currentTime)
   })
-  el.addEventListener('error', () => set({ playing: false, missing: true }))
+  el.addEventListener('error', () => {
+    set({ playing: false, missing: true })
+    // A listening-plan day with an audio not uploaded yet: go on with the next one.
+    const t = state.track
+    const i = queue && t ? queue.tracks.findIndex((q) => q.key === t.key) : -1
+    const nextInDay = queue && i >= 0 ? queue.tracks[i + 1] : undefined
+    if (nextInDay) start(nextInDay)
+  })
   el.addEventListener('ended', () => {
     const t = state.track
     set({ playing: false })
@@ -108,9 +117,24 @@ function element(): HTMLAudioElement {
     completeLesson(t.key)
     // Modo descanso "al terminar este audio": stop here.
     if (state.sleep === 'fin') return set({ sleep: null })
+    // A listening-plan day: the next audio of the day, and after the last one the day
+    // is done and the player stops (the next day opens tomorrow).
+    if (queue) {
+      const i = queue.tracks.findIndex((q) => q.key === t.key)
+      if (i >= 0) {
+        const nextInDay = queue.tracks[i + 1]
+        if (nextInDay) return start(nextInDay)
+        const done = getAppState().completed
+        if (queue.tracks.every((q) => q.key === t.key || done[q.key])) completeLesson(queue.dayKey)
+        queue = null
+        return
+      }
+    }
+    // A day of a plan (one a day): stop at the end of the day.
+    if (findLesson(t.productId, t.lessonId)?.section.plan) return
     // Like an audiobook: the next chapter starts by itself.
     const next = neighbour(1)
-    if (next) playTrack(next)
+    if (next) start(next)
   })
   audio = el
   mediaSession()
@@ -139,6 +163,22 @@ function showOnLockScreen(t: Track): void {
 
 /** Plays a lesson: resumes it if it is the current one, otherwise switches to it. */
 export function playTrack(t: Track): void {
+  // Chosen by hand: whatever listening-plan day was playing is left.
+  if (queue && !queue.tracks.some((q) => q.key === t.key)) queue = null
+  start(t)
+}
+
+/**
+ * Plays a listening-plan day from index: its audios one after another; when the last
+ * one ends, the day (dayKey) is marked done.
+ */
+export function playDay(tracks: Track[], index: number, dayKey: string): void {
+  if (!tracks[index]) return
+  queue = { tracks, dayKey }
+  start(tracks[index])
+}
+
+function start(t: Track): void {
   const el = element()
   if (state.track?.key !== t.key) {
     if (state.track) saveAudioPosition(state.track.key, el.currentTime)
@@ -175,14 +215,14 @@ export function cycleRate(): void {
 
 export function next(): void {
   const t = neighbour(1)
-  if (t) playTrack(t)
+  if (t) start(t)
 }
 
 export function previous(): void {
   // Like any player: back to the start first, the previous track on a second tap.
   if (state.time > 5) return seek(0)
   const t = neighbour(-1)
-  if (t) playTrack(t)
+  if (t) start(t)
 }
 
 /**
@@ -228,6 +268,7 @@ export function closePlayer(): void {
     el.pause()
   }
   setSleep(null)
+  queue = null
   set({ ...IDLE, rate: state.rate })
 }
 

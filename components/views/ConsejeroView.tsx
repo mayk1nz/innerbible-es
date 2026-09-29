@@ -21,12 +21,32 @@ interface Message {
   crisis?: boolean
 }
 
+interface Conversation {
+  id: string
+  title: string
+  updatedAt: string
+  questions: number
+}
+
 interface Status {
   member: boolean
   limit: number
   used: number
   offerStartedAt: string | null
+  /** The member's conversations, most recent first. */
+  conversations: Conversation[]
+  /** The conversation on screen (null: a new one). */
+  conversationId: string | null
   messages: Message[]
+}
+
+/** "Hoy", "Ayer", "Hace 3 días" or the date. */
+function when(iso: string): string {
+  const days = Math.floor((Date.now() - Date.parse(iso)) / 86_400_000)
+  if (days <= 0) return 'Hoy'
+  if (days === 1) return 'Ayer'
+  if (days < 7) return `Hace ${days} días`
+  return new Date(iso).toLocaleDateString('es', { day: 'numeric', month: 'short' })
 }
 
 export function ConsejeroView() {
@@ -161,6 +181,10 @@ function TopicPicker({ onPick, title = '¿Sobre qué quieres conversar?' }: { on
 
 function Chat({ status, name, mode }: { status: Status; name: string; mode: 'member' | 'free' }) {
   const [messages, setMessages] = useState<Message[]>(status.messages)
+  const [conversationId, setConversationId] = useState<string | null>(status.conversationId)
+  const [conversations, setConversations] = useState<Conversation[]>(status.conversations ?? [])
+  const [tab, setTab] = useState<'chat' | 'historial'>('chat')
+  const [opening, setOpening] = useState<string | null>(null)
   const [used, setUsed] = useState(status.used)
   const [input, setInput] = useState('')
   const [busy, setBusy] = useState(false)
@@ -187,13 +211,24 @@ function Chat({ status, name, mode }: { status: Status; name: string; mode: 'mem
       const res = await fetch('/api/consejero', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ message: question }),
+        body: JSON.stringify({ message: question, conversationId }),
       })
       if (!res.ok || !res.body) {
         const code = ((await res.json().catch(() => ({}))) as { error?: string }).error
         throw new Error(code ?? 'upstream')
       }
       setUsed((u) => u + 1)
+      // A new conversation gets its id from the server; the history list follows along.
+      const id = res.headers.get('x-conversation') ?? conversationId
+      if (id) {
+        setConversationId(id)
+        const now = new Date().toISOString()
+        setConversations((list) => {
+          const found = list.find((c) => c.id === id)
+          const entry = found ? { ...found, updatedAt: now, questions: found.questions + 1 } : { id, title: question.length > 90 ? `${question.slice(0, 88)}…` : question, updatedAt: now, questions: 1 }
+          return [entry, ...list.filter((c) => c.id !== id)]
+        })
+      }
       const crisis = res.headers.get('x-crisis') === '1'
       const reader = res.body.getReader()
       const decoder = new TextDecoder()
@@ -234,13 +269,37 @@ function Chat({ status, name, mode }: { status: Status; name: string; mode: 'mem
     void send(input)
   }
 
-  const reset = async () => {
-    if (!window.confirm('¿Borrar toda tu conversación con el Consejero? No se puede deshacer.')) return
-    const res = await fetch('/api/consejero', { method: 'DELETE' }).catch(() => null)
-    if (res?.ok) setMessages([])
+  /** "Nueva conversación": the one on screen stays in the history. */
+  const startNew = () => {
+    setMessages([])
+    setConversationId(null)
+    setNotice(null)
+    setTab('chat')
+  }
+
+  const open = async (id: string) => {
+    if (id === conversationId) return setTab('chat')
+    setOpening(id)
+    const res = await fetch(`/api/consejero?c=${id}`, { cache: 'no-store' }).catch(() => null)
+    const data = res?.ok ? ((await res.json()) as Status) : null
+    setOpening(null)
+    if (!data) return setNotice('No pude abrir esa conversación. Inténtalo de nuevo.')
+    setMessages(data.messages)
+    setConversationId(data.conversationId)
+    setNotice(null)
+    setTab('chat')
+  }
+
+  const remove = async (id: string) => {
+    if (!window.confirm('¿Borrar esta conversación? No se puede deshacer.')) return
+    const res = await fetch(`/api/consejero?c=${id}`, { method: 'DELETE' }).catch(() => null)
+    if (!res?.ok) return
+    setConversations((list) => list.filter((c) => c.id !== id))
+    if (id === conversationId) startNew()
   }
 
   const empty = messages.length === 0
+  const others = conversations.filter((c) => c.id !== conversationId)
 
   return (
     <>
@@ -273,6 +332,51 @@ function Chat({ status, name, mode }: { status: Status; name: string; mode: 'mem
         </div>
       ) : (
         <PageHeader title="Tu Consejero Bíblico" subtitle="Consuelo y dirección en la Palabra" />
+      )}
+
+      {(conversations.length > 0 || !empty) && (
+        <div className="mt-4 flex items-center gap-2">
+          <div role="tablist" aria-label="Tu Consejero" className="grid flex-1 grid-cols-2 gap-1 rounded-2xl border border-line bg-surface p-1">
+            {(
+              [
+                ['chat', 'Conversación'],
+                ['historial', `Historial${others.length ? ` (${others.length})` : ''}`],
+              ] as const
+            ).map(([id, label]) => (
+              <button
+                key={id}
+                type="button"
+                role="tab"
+                aria-selected={tab === id}
+                onClick={() => setTab(id)}
+                className={`min-h-11 rounded-xl text-[15px] font-semibold transition ${tab === id ? 'bg-primary text-white shadow-card' : 'text-text hover:text-ink'}`}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
+          {tab === 'chat' && !empty && !busy && (
+            <button
+              type="button"
+              onClick={startNew}
+              aria-label="Nueva conversación"
+              title="Nueva conversación: esta queda guardada en tu historial"
+              className="grid size-12 shrink-0 place-items-center rounded-2xl border border-line bg-surface text-primary shadow-card transition hover:bg-surface-hover"
+            >
+              <Icon name="plus" className="size-5" />
+            </button>
+          )}
+        </div>
+      )}
+
+      {tab === 'historial' ? (
+        <History conversations={others} opening={opening} onOpen={(id) => void open(id)} onRemove={(id) => void remove(id)} onNew={startNew} />
+      ) : (
+        <>
+      {!empty && conversations.length > 0 && (
+        <p className="mt-3 text-center text-[13.5px] leading-snug text-muted">
+          Sigue preguntando sobre este tema aquí. Para hablar de otra cosa, toca <strong className="font-semibold text-ink">+</strong> y esta conversación queda en tu historial.
+        </p>
       )}
 
       {empty && left > 0 && <TopicPicker onPick={(t) => void send(t)} title={free ? '¿Sobre qué quieres preguntar?' : undefined} />}
@@ -343,18 +447,76 @@ function Chat({ status, name, mode }: { status: Status; name: string; mode: 'mem
           </div>
           <div className="flex items-center justify-between px-3 pb-1 pt-1 text-[12.5px] text-muted">
             <span>{free ? (left ? '1 consulta gratis hoy' : 'Consulta de hoy usada') : `${left} de ${status.limit} conversaciones hoy`}</span>
-            {!empty && !free && (
-              <button type="button" onClick={() => void reset()} className="font-semibold text-primary underline-offset-4 hover:underline">
+            {!empty && !free && conversationId && (
+              <button type="button" onClick={() => void remove(conversationId)} className="font-semibold text-primary underline-offset-4 hover:underline">
                 Borrar conversación
               </button>
             )}
           </div>
         </form>
       )}
+        </>
+      )}
 
       <p className="mt-3 text-center text-[13px] leading-snug text-muted">
         Tu Consejero usa inteligencia artificial para ayudarte a buscar luz en la Biblia. No reemplaza a tu pastor, a tu sacerdote ni a un profesional. Tu conversación es privada: solo tú la ves.
       </p>
+    </>
+  )
+}
+
+/** Past conversations: open one to keep talking about that topic, or delete it. */
+function History({
+  conversations,
+  opening,
+  onOpen,
+  onRemove,
+  onNew,
+}: {
+  conversations: Conversation[]
+  opening: string | null
+  onOpen: (id: string) => void
+  onRemove: (id: string) => void
+  onNew: () => void
+}) {
+  if (conversations.length === 0) {
+    return (
+      <div className="mt-5 rounded-3xl border border-dashed border-line bg-surface-2 px-6 py-8 text-center">
+        <Icon name="chatCross" className="mx-auto size-8 text-gold" />
+        <p className="mt-3 font-serif text-[18px] font-semibold text-ink">Tu historial está vacío</p>
+        <p className="mx-auto mt-1.5 max-w-xs text-[15px] leading-relaxed text-muted">Cuando empieces una conversación nueva, la anterior quedará guardada aquí para que puedas volver a ella.</p>
+      </div>
+    )
+  }
+  return (
+    <>
+      <ul className="mt-4 space-y-2.5">
+        {conversations.map((c) => (
+          <li key={c.id} className="flex items-stretch overflow-hidden rounded-2xl border border-line bg-surface shadow-card">
+            <button type="button" onClick={() => onOpen(c.id)} className="flex min-h-16 min-w-0 flex-1 items-center gap-3 px-4 py-3 text-left transition hover:bg-surface-hover">
+              <span className="min-w-0 flex-1">
+                <span className="line-clamp-2 block font-serif text-[16px] leading-snug text-ink">{c.title}</span>
+                <span className="mt-1 block text-[13px] text-muted">
+                  {when(c.updatedAt)} · {c.questions === 1 ? '1 pregunta' : `${c.questions} preguntas`}
+                </span>
+              </span>
+              {opening === c.id ? <span className="text-[13px] text-muted">Abriendo…</span> : <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />}
+            </button>
+            <button
+              type="button"
+              onClick={() => onRemove(c.id)}
+              aria-label={`Borrar la conversación «${c.title}»`}
+              className="grid w-12 shrink-0 place-items-center border-l border-line-soft text-muted transition hover:bg-surface-hover hover:text-ink"
+            >
+              <Icon name="trash" className="size-4.5" />
+            </button>
+          </li>
+        ))}
+      </ul>
+      <button type="button" onClick={onNew} className={`${buttonClass.secondary} mt-4`}>
+        <Icon name="plus" className="size-5" />
+        Nueva conversación
+      </button>
     </>
   )
 }

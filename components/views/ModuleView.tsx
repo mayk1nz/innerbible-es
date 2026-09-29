@@ -20,6 +20,16 @@ export function ModuleView({ productId }: { productId: string }) {
   if (product.kind === 'enlace') return <LinkProduct product={product} />
   if (product.kind === 'herramienta') return <ToolProduct product={product} />
   if (product.tabs) return <TabbedModule product={product} completed={s.completed} lastLesson={s.lastLesson} />
+  // A product that is one day-by-day plan (the secret gift's listening plan).
+  if (product.sections.length === 1 && product.sections[0].plan) {
+    return (
+      <>
+        <PageHeader back="/leer" title={product.title} />
+        <PlanPanel product={product} section={product.sections[0]} completed={s.completed} />
+        {product.id === 'plan-escucha' && <AudioPromo owned={s.owned} />}
+      </>
+    )
+  }
   return (
     <>
       <ModuleContent product={product} completed={s.completed} />

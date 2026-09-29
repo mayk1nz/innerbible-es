@@ -2,7 +2,7 @@ import type { ReactNode } from 'react'
 
 export type IconName =
   | 'home' | 'book' | 'globe' | 'store' | 'lock' | 'check' | 'play' | 'pause'
-  | 'chevronDown' | 'chevronRight' | 'search' | 'arrowLeft' | 'arrowRight'
+  | 'chevronDown' | 'chevronRight' | 'plus' | 'trash' | 'search' | 'arrowLeft' | 'arrowRight'
   | 'flame' | 'star' | 'trophy' | 'message' | 'heart' | 'send' | 'headphones'
   | 'sparkles' | 'user' | 'logout' | 'external' | 'x' | 'users' | 'gift' | 'map'
   | 'feather' | 'calendar' | 'mail' | 'rewind' | 'forward' | 'skipBack' | 'skipForward' | 'download' | 'share' | 'plusSquare'
@@ -19,6 +19,8 @@ const PATHS: Record<IconName, ReactNode> = {
   pause: (<><rect x="6.5" y="5" width="3.5" height="14" rx="1" fill="currentColor" /><rect x="14" y="5" width="3.5" height="14" rx="1" fill="currentColor" /></>),
   chevronDown: <path d="m6 9 6 6 6-6" />,
   chevronRight: <path d="m9 6 6 6-6 6" />,
+  plus: <path d="M12 5v14M5 12h14" />,
+  trash: (<><path d="M4 7h16" /><path d="M9.5 7V4.5h5V7" /><path d="m6.5 7 1 13h9l1-13" /><path d="M10.5 11v5M13.5 11v5" /></>),
   search: (<><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></>),
   arrowLeft: (<><path d="M19 12H5" /><path d="m11 6-6 6 6 6" /></>),
   arrowRight: (<><path d="M5 12h14" /><path d="m13 6 6 6-6 6" /></>),

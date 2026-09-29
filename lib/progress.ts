@@ -55,8 +55,24 @@ export function allLessons(product: Product): Lesson[] {
   return product.sections.flatMap((s) => s.lessons)
 }
 
+/**
+ * The sections that count as the product's main content: for a product with tabs, the
+ * first tab (the audios, the guide), not the day plans beside it.
+ */
+function mainSections(product: Product): Section[] {
+  if (!product.tabs) return product.sections
+  const tab = product.sections[0]?.tab
+  return product.sections.filter((sec) => sec.tab === tab)
+}
+
+/** The sections a lesson moves on with: its own plan, or the lessons of the same tab. */
+function sameTrack(product: Product, section: Section): Section[] {
+  if (section.plan) return [section]
+  return product.sections.filter((sec) => !sec.plan && sec.tab === section.tab)
+}
+
 export function productProgress(product: Product, completed: AppState['completed']): { done: number; total: number; pct: number } {
-  const list = allLessons(product)
+  const list = mainSections(product).flatMap((s) => s.lessons)
   const done = list.filter((l) => completed[lessonKey(product.id, l.id)]).length
   return { done, total: list.length, pct: list.length ? Math.round((done / list.length) * 100) : 0 }
 }
@@ -101,28 +117,39 @@ export function nextLesson(
   product: Product,
   completed: AppState['completed'],
   fromId?: string,
+  today = '',
 ): { section: Section; lesson: Lesson } | null {
-  const flat = product.sections.flatMap((section) => section.lessons.map((lesson) => ({ section, lesson })))
+  // Stay on the same track: a plan keeps to its own days, the rest to its tab (never
+  // from the guide into a plan, or from one plan into another).
+  const from = fromId ? findLesson(product.id, fromId) : null
+  const sections = from ? sameTrack(product, from.section) : mainSections(product)
+  const flat = sections.flatMap((section) => section.lessons.map((lesson) => ({ section, lesson })))
   if (!flat.length) return null
-  const isOpen = (l: Lesson) => !completed[lessonKey(product.id, l.id)]
+  // A plan day that opens tomorrow (or later) is not "next" yet. Without a date, only
+  // the locked ones are skipped.
+  const isOpen = ({ section, lesson }: { section: Section; lesson: Lesson }) => {
+    if (completed[lessonKey(product.id, lesson.id)]) return false
+    const st = planDayStatus(product.id, section, lesson.id, completed, today || '9999-12-31')
+    return st === null || st === 'open'
+  }
   const start = fromId ? Math.max(0, flat.findIndex((f) => f.lesson.id === fromId)) : 0
   for (let i = 0; i < flat.length; i += 1) {
     const item = flat[(start + i) % flat.length]
-    if (isOpen(item.lesson)) return item
+    if (isOpen(item)) return item
   }
   return null
 }
 
 /** Where "Continuar" leads: the product last opened, else the first owned recorrido. */
-export function continueTarget(s: AppState): { product: Product; lesson: Lesson } | null {
+export function continueTarget(s: AppState, today = ''): { product: Product; lesson: Lesson } | null {
   const last = s.lastLesson ? findLessonByKey(s.lastLesson) : null
   if (last && isOwned(last.product, s.owned)) {
-    const n = nextLesson(last.product, s.completed, last.lesson.id)
+    const n = nextLesson(last.product, s.completed, last.lesson.id, today)
     if (n) return { product: last.product, lesson: n.lesson }
   }
   for (const product of PRODUCTS) {
     if (product.kind !== 'recorrido' || !isOwned(product, s.owned)) continue
-    const n = nextLesson(product, s.completed)
+    const n = nextLesson(product, s.completed, undefined, today)
     if (n) return { product, lesson: n.lesson }
   }
   return null

@@ -482,7 +482,8 @@ export const PRODUCTS: Product[] = [
     kind: 'guia',
     offer: 'front',
     cover: { ...AMBER, lines: ['Plan de', 'Escucha'], highlight: '30 días', icon: 'headphones' },
-    sections: [{ id: 'dias', title: '30 días', lessons: listeningPlan() }],
+    // One a day, like the other plans: the next day opens the day after.
+    sections: [{ id: 'dias', title: '30 días', plan: { goal: 'Un audio por día, de «Comienza aquí» al Apocalipsis.' }, lessons: listeningPlan() }],
   },
 ]
 

@@ -45,7 +45,15 @@ export function LessonView({ productId, lessonId }: { productId: string; lessonI
 }
 
 function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: AppState }) {
-  const { product, section, lesson, index, total, prev, next } = lessonRef
+  const { product, section, lesson, index, total } = lessonRef
+  // Previous/next stay on the same track: never from the audios into a plan's Day 1, or
+  // from the end of one plan into another.
+  const sameTrack = (l: Lesson | null): Lesson | null => {
+    const r = l ? findLesson(product.id, l.id) : null
+    return r && (r.section === section || (!r.section.plan && !section.plan && r.section.tab === section.tab)) ? r.lesson : null
+  }
+  const prev = sameTrack(lessonRef.prev)
+  const next = sameTrack(lessonRef.next)
   const key = lessonKey(product.id, lesson.id)
   const today = useToday()
   const stats = useMemo(() => computeStats(s, today), [s, today])
@@ -123,11 +131,11 @@ function LessonReader({ lessonRef, state: s }: { lessonRef: LessonRef; state: Ap
       )}
 
       {lesson.escucha ? (
-        <ListeningDay product={product} ids={lesson.escucha} repaso={Boolean(lesson.subtitle?.startsWith('Repaso'))} />
+        <ListeningDay product={product} ids={lesson.escucha} repaso={Boolean(lesson.subtitle?.startsWith('Repaso'))} dayKey={key} />
       ) : lesson.lectura ? (
         <ReadingDay dia={lesson.lectura} />
       ) : lesson.ninos ? (
-        <NinosStory id={lesson.id} scale={s.fontScale} />
+        <NinosStory id={lesson.id} scale={s.fontScale} onPlayed={() => completeLesson(key)} />
       ) : lesson.mapa ? (
         <MindMapView mapId={lesson.id} scale={s.fontScale} />
       ) : lesson.guia ? (

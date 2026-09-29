@@ -47,21 +47,58 @@ export interface StoredMessage {
   created_at: string
 }
 
-export async function recentMessages(email: string, limit: number): Promise<StoredMessage[]> {
+/** The last `limit` messages of one conversation, oldest first. */
+export async function recentMessages(email: string, conversationId: string, limit: number): Promise<StoredMessage[]> {
   const { data } = await db()
     .from(t('consejero_messages'))
     .select('role, content, crisis, created_at')
     .eq('email', email)
+    .eq('conversation_id', conversationId)
     .order('created_at', { ascending: false })
     .order('id', { ascending: false })
     .limit(limit)
   return ((data ?? []) as StoredMessage[]).reverse()
 }
 
-export async function saveMessage(email: string, role: 'user' | 'assistant', content: string, crisis = false): Promise<void> {
-  await db().from(t('consejero_messages')).insert({ email, role, content, crisis })
+export interface ConversationSummary {
+  id: string
+  /** The member's first question, shortened. */
+  title: string
+  updatedAt: string
+  /** Questions asked in it. */
+  questions: number
 }
 
-export async function clearMessages(email: string): Promise<void> {
-  await db().from(t('consejero_messages')).delete().eq('email', email)
+/** The member's conversations, most recent first (built from their questions). */
+export async function listConversations(email: string): Promise<ConversationSummary[]> {
+  const { data } = await db()
+    .from(t('consejero_messages'))
+    .select('conversation_id, content, created_at')
+    .eq('email', email)
+    .eq('role', 'user')
+    .not('conversation_id', 'is', null)
+    .order('created_at', { ascending: true })
+    .limit(2000)
+  const byId = new Map<string, ConversationSummary>()
+  for (const row of (data ?? []) as { conversation_id: string; content: string; created_at: string }[]) {
+    const c = byId.get(row.conversation_id)
+    if (c) {
+      c.updatedAt = row.created_at
+      c.questions++
+    } else {
+      const title = row.content.replace(/\s+/g, ' ').trim()
+      byId.set(row.conversation_id, { id: row.conversation_id, title: title.length > 90 ? `${title.slice(0, 88)}…` : title, updatedAt: row.created_at, questions: 1 })
+    }
+  }
+  return [...byId.values()].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt))
+}
+
+export async function saveMessage(email: string, conversationId: string, role: 'user' | 'assistant', content: string, crisis = false): Promise<void> {
+  await db().from(t('consejero_messages')).insert({ email, conversation_id: conversationId, role, content, crisis })
+}
+
+/** Deletes one conversation, or all of them. */
+export async function clearMessages(email: string, conversationId?: string): Promise<void> {
+  const q = db().from(t('consejero_messages')).delete().eq('email', email)
+  await (conversationId ? q.eq('conversation_id', conversationId) : q)
 }

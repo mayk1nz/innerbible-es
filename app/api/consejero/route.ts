@@ -1,45 +1,56 @@
 import { searchLibrary } from '@/lib/consejero/knowledge'
 import { APP_MAP } from '@/lib/consejero/map'
 import { CRISIS_NOTE, SYSTEM_PROMPT, contextMessage, looksLikeCrisis } from '@/lib/consejero/prompt'
-import { clearMessages, consejeroStatus, countMessage, recentMessages, saveMessage } from '@/lib/server/consejero'
+import { clearMessages, consejeroStatus, countMessage, listConversations, recentMessages, saveMessage } from '@/lib/server/consejero'
 import { sessionEmail } from '@/lib/server/session'
 
 // Tu Consejero Bíblico.
-//   GET    → today's status (member?, limit, used, offer start) + the recent conversation
-//   POST   → { message } — one answer, streamed as it is written
-//   DELETE → erase this member's conversation
-// The signed-in member comes from the session cookie; the conversation lives in the
+//   GET    ?c=<id> → today's status (member?, limit, used, offer start), the member's
+//                    conversations and the messages of one (the given one, else the latest)
+//   POST   → { message, conversationId? } — one answer, streamed as it is written; no id
+//            starts a new conversation (its id comes back in the x-conversation header)
+//   DELETE ?c=<id> → erase that conversation (without ?c: all of them)
+// The signed-in member comes from the session cookie; the conversations live in the
 // database (consejero_messages), visible only through these routes.
 
 export const dynamic = 'force-dynamic'
 
 const DEEPSEEK_URL = 'https://api.deepseek.com/chat/completions'
 const HISTORY_FOR_MODEL = 8
-const HISTORY_FOR_SCREEN = 40
+const HISTORY_FOR_SCREEN = 60
 const MAX_CHARS = 1500
+const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 
 const json = (body: unknown, status = 200) => Response.json(body, { status })
-
-export async function GET() {
-  const email = await sessionEmail()
-  if (!email) return json({ error: 'no-session' }, 401)
-  const [status, messages] = await Promise.all([consejeroStatus(email), recentMessages(email, HISTORY_FOR_SCREEN)])
-  return json({ ...status, messages })
+const conversationParam = (request: Request) => {
+  const c = new URL(request.url).searchParams.get('c')
+  return c && UUID.test(c) ? c : null
 }
 
-export async function DELETE() {
+export async function GET(request: Request) {
   const email = await sessionEmail()
   if (!email) return json({ error: 'no-session' }, 401)
-  await clearMessages(email)
+  const [status, conversations] = await Promise.all([consejeroStatus(email), listConversations(email)])
+  const asked = conversationParam(request)
+  const conversationId = asked && conversations.some((c) => c.id === asked) ? asked : (conversations[0]?.id ?? null)
+  const messages = conversationId ? await recentMessages(email, conversationId, HISTORY_FOR_SCREEN) : []
+  return json({ ...status, conversations, conversationId, messages })
+}
+
+export async function DELETE(request: Request) {
+  const email = await sessionEmail()
+  if (!email) return json({ error: 'no-session' }, 401)
+  await clearMessages(email, conversationParam(request) ?? undefined)
   return json({ ok: true })
 }
 
 export async function POST(request: Request) {
   const email = await sessionEmail()
   if (!email) return json({ error: 'no-session' }, 401)
-  const body = (await request.json().catch(() => ({}))) as { message?: unknown }
+  const body = (await request.json().catch(() => ({}))) as { message?: unknown; conversationId?: unknown }
   const message = typeof body.message === 'string' ? body.message.trim().slice(0, MAX_CHARS) : ''
   if (!message) return json({ error: 'empty' }, 400)
+  const conversationId = typeof body.conversationId === 'string' && UUID.test(body.conversationId) ? body.conversationId : crypto.randomUUID()
 
   const status = await consejeroStatus(email)
   if (status.used >= status.limit) return json({ error: status.member ? 'limit' : 'free-used', ...status }, 429)
@@ -48,7 +59,8 @@ export async function POST(request: Request) {
   if (!key) return json({ error: 'not-configured' }, 503)
 
   const crisis = looksLikeCrisis(message)
-  const history = (await recentMessages(email, HISTORY_FOR_MODEL)).map(({ role, content }) => ({ role, content }))
+  // The model remembers only this conversation.
+  const history = (await recentMessages(email, conversationId, HISTORY_FOR_MODEL)).map(({ role, content }) => ({ role, content }))
   const previousUser = [...history].reverse().find((m) => m.role === 'user')?.content ?? ''
   const passages = searchLibrary(`${message} ${previousUser}`, 3)
 
@@ -70,13 +82,13 @@ export async function POST(request: Request) {
   if (!upstream || !upstream.ok || !upstream.body) return json({ error: 'upstream' }, 502)
 
   // Counted and saved only once DeepSeek has accepted the question.
-  await Promise.all([countMessage(email), saveMessage(email, 'user', message, crisis)])
+  await Promise.all([countMessage(email), saveMessage(email, conversationId, 'user', message, crisis)])
 
-  const headers = new Headers({ 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' })
+  const headers = new Headers({ 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store', 'x-conversation': conversationId })
   if (crisis) headers.set('x-crisis', '1')
   return new Response(
     sseToText(upstream.body, async (answer) => {
-      if (answer.trim()) await saveMessage(email, 'assistant', answer, crisis)
+      if (answer.trim()) await saveMessage(email, conversationId, 'assistant', answer, crisis)
     }),
     { headers },
   )

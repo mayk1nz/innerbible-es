@@ -106,7 +106,7 @@ export function HomeView() {
   const today = useToday()
   const minute = useNowMinute()
   const stats = useMemo(() => computeStats(s, today), [s, today])
-  const target = useMemo(() => continueTarget(s), [s])
+  const target = useMemo(() => continueTarget(s, today), [s, today])
   const name = s.session?.name ?? ''
   const board = useMemo(
     () => leaderboard('semana', { name, weekPoints: stats.weekPoints, streak: stats.streak }),
