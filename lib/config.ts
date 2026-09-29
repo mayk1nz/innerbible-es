@@ -44,6 +44,26 @@ export function hasFullAccess(email: string): boolean {
   return FULL_ACCESS.has(cyrb53(email.trim().toLowerCase()))
 }
 
+/**
+ * Who sees /admin/funil and gets the "payment declined" push (their devices with
+ * notifications on, signed in with one of these e-mails). ADMIN_EMAILS on the server
+ * (comma-separated) replaces the default. Server-side only: read through adminEmails(),
+ * never in a component, so the list never reaches the browser bundle.
+ */
+const DEFAULT_ADMIN_EMAILS = 'maykinz@gmail.com,maykseat05@gmail.com,maykdarktube@gmail.com'
+
+export function adminEmails(): string[] {
+  const raw = process.env.ADMIN_EMAILS?.trim() || DEFAULT_ADMIN_EMAILS
+  return raw
+    .split(/[\s,;]+/)
+    .map((e) => e.trim().toLowerCase())
+    .filter((e) => e.includes('@'))
+}
+
+export function isAdminEmail(email: string | null | undefined): boolean {
+  return Boolean(email) && adminEmails().includes((email ?? '').trim().toLowerCase())
+}
+
 /** Tu Consejero Bíblico (included in upsell 2, Palabras del Señor; its offer is DEALS.upsell2). */
 export const CONSEJERO = {
   dailyLimit: 30,

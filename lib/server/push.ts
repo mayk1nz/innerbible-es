@@ -137,6 +137,8 @@ export interface Reminder {
   title: string
   body: string
   url: string
+  /** Notification tag (same tag = replaces the previous one). Default: the daily reminder's. */
+  tag?: string
 }
 
 /**

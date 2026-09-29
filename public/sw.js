@@ -20,7 +20,8 @@ self.addEventListener('fetch', (event) => {
   event.respondWith(fetch(event.request).catch(() => caches.match(OFFLINE_URL)))
 })
 
-// Daily reminder (Perfil → Notificaciones). The server sends { title, body, url }.
+// Daily reminder (Perfil → Notificaciones) and the owner's alerts (declined payments).
+// The server sends { title, body, url, tag? }.
 self.addEventListener('push', (event) => {
   let data = {}
   try {
@@ -33,7 +34,7 @@ self.addEventListener('push', (event) => {
       body: data.body || 'Tu paso de hoy te espera.',
       icon: '/icons/icon-192.png',
       badge: '/icons/icon-192.png',
-      tag: 'recordatorio-diario',
+      tag: typeof data.tag === 'string' && data.tag ? data.tag : 'recordatorio-diario',
       data: { url: data.url || '/inicio' },
     }),
   )

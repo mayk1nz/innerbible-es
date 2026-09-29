@@ -4,9 +4,50 @@ import { useEffect, useId, useRef } from 'react'
 import { preload } from 'react-dom'
 import { Icon } from '../icons'
 import type { VslConfig } from '@/lib/funnel/config'
+import { track } from '@/lib/analytics/track'
 
 type SmartPlayer = HTMLElement & {
   displayHiddenElements?: (seconds: number, selectors: string[], options: { persist: boolean }) => void
+  // Read-only state of VTurb's v4 player (checked in a real player, 2026-09).
+  currentTime?: number
+  duration?: number
+  paused?: boolean
+  /** True while the muted autoplay preview runs, before the viewer taps to watch. */
+  inSmartAutoPlay?: boolean
+}
+
+const MILESTONES = [25, 50, 75, 100] as const
+
+/**
+ * Telemetry of a VSL: `vsl_play` when the viewer really starts it (not the muted
+ * autoplay preview) and `vsl_progress` at 25/50/75/100% of its length. VTurb v4 exposes
+ * its state as properties on the element, so it is read once a second (no private API).
+ */
+function watchProgress(player: SmartPlayer, page: string): () => void {
+  let played = false
+  const sent = new Set<number>()
+  const timer = window.setInterval(() => {
+    try {
+      if (player.paused !== false || player.inSmartAutoPlay !== false) return
+      const current = Number(player.currentTime) || 0
+      const duration = Number(player.duration) || 0
+      if (!played) {
+        played = true
+        track('vsl_play', { page, sec: Math.round(current) })
+      }
+      if (duration <= 0) return
+      const pct = (current / duration) * 100
+      for (const m of MILESTONES) {
+        if (!sent.has(m) && (pct >= m || (m === 100 && pct >= 98))) {
+          sent.add(m)
+          track('vsl_progress', { page, pct: m, sec: Math.round(current), duration: Math.round(duration) })
+        }
+      }
+    } catch {
+      // the player changed shape: telemetry just stops
+    }
+  }, 1000)
+  return () => window.clearInterval(timer)
 }
 
 // Mounts a VTurb smartplayer from the owner's own account and tells the page when the
@@ -17,7 +58,7 @@ type SmartPlayer = HTMLElement & {
 // No player configured, or the script fails to load → the offer is revealed at once:
 // a broken video must never hide the buy button.
 
-export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: () => void }) {
+export function VturbPlayer({ video, onReveal, page }: { video: VslConfig; onReveal: () => void; page?: string }) {
   const mount = useRef<HTMLDivElement>(null)
   const sentinel = useRef<HTMLSpanElement>(null)
   const sentinelId = `offer-gate-${useId().replace(/[^a-zA-Z0-9]/g, '')}`
@@ -49,6 +90,7 @@ export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: (
     }
     player.addEventListener('player:ready', onReady)
     host.appendChild(player)
+    const stopWatching = page ? watchProgress(player, page) : () => {}
 
     const observer = new MutationObserver(() => {
       if (gate.style.display && gate.style.display !== 'none') onReveal()
@@ -65,11 +107,12 @@ export function VturbPlayer({ video, onReveal }: { video: VslConfig; onReveal: (
     }
 
     return () => {
+      stopWatching()
       observer.disconnect()
       player.removeEventListener('player:ready', onReady)
       player.remove()
     }
-  }, [configured, video.playerId, video.scriptUrl, video.delaySeconds, sentinelId, onReveal])
+  }, [configured, video.playerId, video.scriptUrl, video.delaySeconds, sentinelId, onReveal, page])
 
   return (
     <div>

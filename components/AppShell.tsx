@@ -1,6 +1,7 @@
 'use client'
 
 import { refreshPush } from '@/lib/push-client'
+import { trackOnce } from '@/lib/analytics/track'
 import { useEffect, type ReactNode } from 'react'
 import { useRouter } from 'next/navigation'
 import { BottomNav } from './BottomNav'
@@ -51,6 +52,8 @@ export function AppShell({ children }: { children: ReactNode }) {
         else {
           setMember(email, name, me)
           void refreshPush()
+          // Funnel telemetry: first time this account opens the app on this device.
+          trackOnce(`open:${email}`, 'app_first_open')
         }
       })
       .catch(() => {

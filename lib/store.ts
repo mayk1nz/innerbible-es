@@ -1,4 +1,5 @@
 import { useSyncExternalStore } from 'react'
+import { trackOnce } from './analytics/track'
 import type { OfferId } from './catalog'
 import { POINTS } from './config'
 import { clearContentCache } from './content/fetch-content'
@@ -330,6 +331,11 @@ export function signOut(): void {
 }
 
 export function completeLesson(key: string): void {
+  // Funnel telemetry: the account's first lesson ever (activation).
+  const before = getAppState()
+  if (before.session && !before.completed[key] && Object.keys(before.completed).length === 0) {
+    trackOnce(`lesson1:${before.session.email}`, 'first_lesson_done', { lesson: key })
+  }
   update((s) => {
     if (s.completed[key]) return s
     const at = Date.now()

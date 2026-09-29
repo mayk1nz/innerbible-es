@@ -1,6 +1,8 @@
 import 'server-only'
 import { createHmac, timingSafeEqual } from 'node:crypto'
 import type { OfferId } from '../catalog'
+import { ANUAL } from '../config'
+import { FUNNEL } from '../funnel/config'
 
 // Reading KashPay webhooks. KashPay has no public documentation of the payload, so the
 // parser looks for the fields by name anywhere in it (e-mail, product name, dates) and
@@ -94,6 +96,51 @@ export function parseEvent(payload: Json): ParsedEvent {
     if (rule?.days) days = rule.days
   }
   return { event, email, product: names.join(' + ') || null, offers: [...offers], days, periodEnd }
+}
+
+/** Funnel step of a KashPay order, from the price of its first offer (US$ cents). */
+function funnelStepOf(priceCents: number | null, name: string): 'front' | 'up1' | 'down1' | 'up2' | 'down2' | 'anual' | 'other' {
+  if (/anual|annual|12 meses/i.test(name)) return 'anual'
+  if (priceCents === null) return 'other'
+  const cents = (usd: number) => Math.round(usd * 100)
+  const steps = [
+    ['front', FUNNEL.front.price],
+    ['up1', FUNNEL.up1.price],
+    ['down1', FUNNEL.down1.price],
+    ['up2', FUNNEL.up2.price],
+    ['down2', FUNNEL.down2.price],
+    ['anual', ANUAL.price],
+  ] as const
+  return steps.find(([, usd]) => cents(usd) === priceCents)?.[0] ?? 'other'
+}
+
+export interface OrderInfo {
+  orderId: string | null
+  /** Funnel step of the order: front, up1, down1, up2, down2, anual, other. */
+  step: string
+  amountCents: number | null
+  currency: string | null
+  /** Stripe payment intent that charged it (data.payment_details.id). */
+  paymentIntent: string | null
+  tracking: Json
+}
+
+/** The order fields the funnel telemetry needs (data.id, amount, offers, tracking…). */
+export function orderInfo(payload: Json): OrderInfo {
+  const root = payload && typeof payload === 'object' && !Array.isArray(payload) ? payload : {}
+  const data = root.data && typeof root.data === 'object' && !Array.isArray(root.data) ? root.data : {}
+  const offers = Array.isArray(data.offers) ? data.offers : []
+  const first = offers.find((o) => o && typeof o === 'object' && !Array.isArray(o)) as { [key: string]: Json } | undefined
+  const price = typeof first?.price === 'number' ? first.price : typeof data.amount === 'number' ? data.amount : null
+  const details = data.payment_details && typeof data.payment_details === 'object' && !Array.isArray(data.payment_details) ? data.payment_details : {}
+  return {
+    orderId: typeof data.id === 'string' ? data.id : null,
+    step: funnelStepOf(price, typeof first?.name === 'string' ? first.name : ''),
+    amountCents: typeof data.amount === 'number' ? data.amount : null,
+    currency: typeof data.currency === 'string' ? data.currency.toUpperCase() : null,
+    paymentIntent: typeof details.id === 'string' ? details.id : null,
+    tracking: data.tracking ?? null,
+  }
 }
 
 /**

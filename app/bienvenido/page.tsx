@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { TrackView } from '@/components/funnel/TrackView'
 import { Icon } from '@/components/icons'
 import { buttonClass } from '@/components/styles'
 import { BrandMark } from '@/components/ui'
@@ -11,6 +12,7 @@ export const metadata = { title: 'Gracias por tu compra', robots: { index: false
 export default function Page() {
   return (
     <main className="grid min-h-dvh place-items-center px-5 py-10">
+      <TrackView name="welcome_view" />
       <div className="w-full max-w-[420px] rounded-[28px] border border-line bg-surface px-6 py-8 text-center shadow-card">
         <div className="flex justify-center">
           <BrandMark size="lg" />

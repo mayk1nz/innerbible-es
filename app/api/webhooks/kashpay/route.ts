@@ -1,5 +1,6 @@
 import { db, t } from '@/lib/server/db'
-import { checkSignature, parseEvent } from '@/lib/server/kashpay'
+import { linkVisitor, recordServerEvent, vidForEmail, vidFromTracking } from '@/lib/server/funnel'
+import { checkSignature, orderInfo, parseEvent } from '@/lib/server/kashpay'
 
 // KashPay webhook. Every event is stored raw first (kashpay_events), then applied to
 // the member's access (entitlements):
@@ -61,7 +62,41 @@ export async function POST(request: Request) {
     await db().from(t('kashpay_events')).update({ processed: true, note: results.join(' · ') }).eq('id', stored.id)
   }
 
+  if (signatureOk !== false) await stitch(parsed.event, parsed.email, payload as Parameters<typeof orderInfo>[0])
+
   return Response.json({ ok: true })
+}
+
+/**
+ * Funnel telemetry: the browser id the checkout link carried (data.tracking.sck/src)
+ * is tied to the buyer's e-mail, and paid / failed orders become funnel events of that
+ * visitor (by e-mail when the tracking brought no id). Never affects the webhook's answer.
+ */
+async function stitch(event: string, email: string | null, payload: Parameters<typeof orderInfo>[0]): Promise<void> {
+  try {
+    const order = orderInfo(payload)
+    const trackedVid = vidFromTracking(order.tracking)
+    if (email && trackedVid) await linkVisitor(trackedVid, email, 'kashpay')
+    if (event !== 'order.paid' && event !== 'order.failed') return
+    if (!email && !trackedVid) return
+    const vid = trackedVid ?? (await vidForEmail(email))
+    await recordServerEvent({
+      name: event === 'order.paid' ? 'purchase' : 'purchase_failed',
+      vid,
+      email,
+      key: `kashpay:${event}:${order.orderId ?? order.paymentIntent ?? Date.now()}`,
+      props: {
+        offer: order.step,
+        amount_cents: order.amountCents,
+        currency: order.currency,
+        order_id: order.orderId,
+        payment_intent: order.paymentIntent,
+        source: 'kashpay',
+      },
+    })
+  } catch (e) {
+    console.error('kashpay-webhook: funnel stitch failed', e instanceof Error ? e.name : 'unknown')
+  }
 }
 
 /**

@@ -7,6 +7,7 @@ import { BrandMark, buttonClass } from '../ui'
 import { APP } from '@/lib/config'
 import { FUNNEL, formatUsd, type OneClickStep } from '@/lib/funnel/config'
 import { initPixel, trackCheckout } from '@/lib/funnel/tracking'
+import { flush, track } from '@/lib/analytics/track'
 
 // The pages after the main purchase: two upsells (video, then the buttons) and a
 // half-price downsell after each "no". Each page is one step of the upsell flow set
@@ -203,7 +204,12 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
 
   useEffect(() => {
     initPixel()
-  }, [])
+    track('upsell_view', { step, kind: COPY[step].kind, from_purchase: new URLSearchParams(window.location.search).has('ks'), price: FUNNEL[step].price })
+  }, [step])
+
+  useEffect(() => {
+    if (revealed) track('upsell_reveal', { step, video: hasVideo })
+  }, [revealed, step, hasVideo])
 
   // KashPay's own functions, called with the step's /u/ link exactly as KashPay
   // generated it. KashPay handles the charge, the double clicks and the redirect.
@@ -214,18 +220,24 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
   const accept = () => {
     if (!checkout) return
     if (!fromPurchase) {
+      track('upsell_no_purchase', { step })
       setNoPurchase(true)
       return
     }
-    if (typeof window.acceptUpsell !== 'function') {
+    const scriptReady = typeof window.acceptUpsell === 'function'
+    track('upsell_accept_click', { step, price: config.price, script: scriptReady })
+    flush()
+    if (!scriptReady) {
       setFailed(true)
       return
     }
     trackCheckout(copy.kind === 'downsell' ? `${copy.product.id}-downsell` : copy.product.id, config.price)
-    window.acceptUpsell(checkout)
+    window.acceptUpsell?.(checkout)
   }
 
   const decline = () => {
+    track('upsell_decline_click', { step, from_purchase: fromPurchase })
+    flush()
     if (fromPurchase && checkout && typeof window.declineUpsell === 'function') {
       window.declineUpsell(checkout)
       return
@@ -308,7 +320,7 @@ export function OneClickPage({ step }: { step: OneClickStep }) {
           <p className="mx-auto mt-3 max-w-md text-center text-[16.5px] leading-relaxed text-text">{copy.text}</p>
           {hasVideo && (
             <div className="mt-6">
-              <VturbPlayer video={config.video} onReveal={reveal} />
+              <VturbPlayer video={config.video} onReveal={reveal} page={step} />
             </div>
           )}
           {revealed && (

@@ -18,7 +18,8 @@ import {
   type ProfileQuestion,
   type TestQuestion,
 } from '@/lib/funnel/questions'
-import { initPixel, trackCheckout, trackViewContent, withAttribution } from '@/lib/funnel/tracking'
+import { initPixel, trackCheckout, trackViewContent } from '@/lib/funnel/tracking'
+import { checkoutUrl, flush, track } from '@/lib/analytics/track'
 
 // The owner's quiz funnel in the app's look. 22 steps:
 //   0 intro · 1–7 profile · 8 test intro · 9–18 test · 19 analysis · 20 result · 21 video
@@ -36,6 +37,21 @@ const PRODUCT_ID = 'resumen-cronologico'
 
 type ProfileAnswers = Record<string, number[]>
 type HeadingRef = RefObject<HTMLHeadingElement | null>
+
+/** Name of a step in the telemetry (quiz_view), e.g. "perfil:edad", "test:3". */
+function stepName(step: number): string {
+  if (step === 0) return 'intro'
+  if (step >= 1 && step <= PROFILE.length) return `perfil:${PROFILE[step - 1].id}`
+  if (step === TEST_INTRO_STEP) return 'test_intro'
+  if (step >= FIRST_TEST && step < ANALYSIS) return `test:${step - FIRST_TEST + 1}`
+  if (step === ANALYSIS) return 'analisis'
+  if (step === RESULT_STEP) return 'resultado'
+  return 'oferta'
+}
+
+function scoreOf(test: number[]): number {
+  return TEST.reduce((sum, q, i) => sum + (test[i] === q.correct ? 1 : 0), 0)
+}
 
 export function QuizFunnel() {
   const [step, setStep] = useState(0)
@@ -63,6 +79,7 @@ export function QuizFunnel() {
   useEffect(() => {
     window.scrollTo(0, 0)
     if (step > 0) heading.current?.focus({ preventScroll: true })
+    track('quiz_view', { step, name: stepName(step) })
   }, [step])
 
   const go = useCallback((next: number) => {
@@ -82,18 +99,29 @@ export function QuizFunnel() {
     if (picked !== null) return
     setPicked(choice)
     setProfile((p) => ({ ...p, [q.id]: [choice] }))
+    track('quiz_answer', { step, section: 'perfil', q: q.id, choice })
     window.setTimeout(() => go(step + 1), 220)
+  }
+
+  const continueMulti = (q: ProfileQuestion) => {
+    track('quiz_answer', { step, section: 'perfil', q: q.id, choice: (profile[q.id] ?? []).join(',') })
+    go(step + 1)
   }
 
   const answerTest = (index: number, choice: number) => {
     if (picked !== null) return
     setPicked(choice)
-    setTest((t) => {
-      const next = [...t]
-      next[index] = choice
-      return next
-    })
+    const next = [...test]
+    next[index] = choice
+    setTest(next)
+    track('quiz_answer', { step, section: 'test', q: `t${index + 1}`, choice, correct: choice === TEST[index].correct })
+    if (index === TEST.length - 1) track('quiz_complete', { score: scoreOf(next), total: TEST.length })
     window.setTimeout(() => go(step + 1), 260)
+  }
+
+  const start = () => {
+    track('quiz_start')
+    go(1)
   }
 
   const inProfile = step >= 1 && step <= PROFILE.length
@@ -115,7 +143,7 @@ export function QuizFunnel() {
       </header>
 
       <main key={step} className="animate-rise">
-        {step === 0 && <Intro onStart={() => go(1)} />}
+        {step === 0 && <Intro onStart={start} />}
 
         {inProfile && (
           <ProfileStep
@@ -125,7 +153,7 @@ export function QuizFunnel() {
             multiValue={profile[PROFILE[step - 1].id] ?? []}
             onPick={(c) => answerProfile(PROFILE[step - 1], c)}
             onMulti={(values) => setProfile((p) => ({ ...p, [PROFILE[step - 1].id]: values }))}
-            onContinue={() => go(step + 1)}
+            onContinue={() => continueMulti(PROFILE[step - 1])}
           />
         )}
 
@@ -428,7 +456,7 @@ function Analysis({ headingRef, onDone }: { headingRef: HeadingRef; onDone: () =
 }
 
 function Result({ headingRef, test, onNext }: { headingRef: HeadingRef; test: number[]; onNext: () => void }) {
-  const score = TEST.reduce((sum, q, i) => sum + (test[i] === q.correct ? 1 : 0), 0)
+  const score = scoreOf(test)
   const lines = score >= 7 ? RESULT.high : RESULT.low
 
   return (
@@ -478,11 +506,19 @@ function VideoOffer({ headingRef }: { headingRef: HeadingRef }) {
 
   useEffect(() => {
     trackViewContent(PRODUCT_ID, offer.price)
+    track('offer_view', { page: 'front', price: offer.price })
   }, [offer.price])
+
+  useEffect(() => {
+    if (revealed) track('offer_reveal', { page: 'front' })
+  }, [revealed])
 
   const buy = () => {
     trackCheckout(PRODUCT_ID, offer.price)
-    window.location.href = withAttribution(offer.checkoutUrl, window.location.search)
+    track('checkout_click', { page: 'front', price: offer.price })
+    // The beacon goes out before the page unloads; the link carries the id + UTMs.
+    flush()
+    window.location.href = checkoutUrl(offer.checkoutUrl)
   }
 
   return (
@@ -490,7 +526,7 @@ function VideoOffer({ headingRef }: { headingRef: HeadingRef }) {
       <h1 ref={headingRef} tabIndex={-1} className={`mb-5 text-center text-[24px] ${headingClass}`}>
         {OFFER.title}
       </h1>
-      <VturbPlayer video={offer.video} onReveal={reveal} />
+      <VturbPlayer video={offer.video} onReveal={reveal} page="front" />
 
       {revealed && (
         <div className="animate-rise mt-6 rounded-3xl border-2 border-gold-bright bg-surface p-5 text-center shadow-card">

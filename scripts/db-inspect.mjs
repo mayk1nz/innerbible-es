@@ -2,6 +2,7 @@
 //   node scripts/db-inspect.mjs              events + entitlements
 //   node scripts/db-inspect.mjs --payload    also the raw payload/headers of the last 3 events
 //   node scripts/db-inspect.mjs --clean-test removes rows of @example.com test e-mails
+//                                            (and the funnel/Stripe test rows, see below)
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -30,5 +31,17 @@ if (process.argv.includes('--clean-test')) {
     const r = await client.query(`delete from public.${P}${t} where email like '%@example.com'`)
     console.log(`limpo ${t}: ${r.rowCount}`)
   }
+  // Funnel telemetry: test visitors are the @example.com e-mails, the ids starting with
+  // "vtest" (E2E) and the visits with utm_source e2e-test*; plus their events and the
+  // Stripe events/alerts of those e-mails or with test ids (evt_test_* / pi_test_*).
+  const testVids = `select vid from public.${P}funnel_visitors where vid like 'vtest%' or email like '%@example.com' or utm_source like 'e2e-test%'`
+  const fe = await client.query(`delete from public.${P}funnel_events where vid like 'vtest%' or email like '%@example.com' or utm_source like 'e2e-test%' or vid in (${testVids})`)
+  console.log(`limpo funnel_events: ${fe.rowCount}`)
+  const fv = await client.query(`delete from public.${P}funnel_visitors where vid in (${testVids})`)
+  console.log(`limpo funnel_visitors: ${fv.rowCount}`)
+  const sa = await client.query(`delete from public.${P}stripe_alerts where key like 'pi_test_%' or key like 'ch_test_%' or stripe_event_id like 'evt_test_%' or stripe_event_id in (select stripe_event_id from public.${P}stripe_events where email like '%@example.com')`)
+  console.log(`limpo stripe_alerts: ${sa.rowCount}`)
+  const se = await client.query(`delete from public.${P}stripe_events where email like '%@example.com' or stripe_event_id like 'evt_test_%' or payment_intent like 'pi_test_%'`)
+  console.log(`limpo stripe_events: ${se.rowCount}`)
 }
 await client.end()
