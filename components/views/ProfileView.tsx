@@ -133,17 +133,17 @@ function NotificationsRow() {
   const hint = failed
     ? 'No pudimos activarlas en este navegador. Prueba desde la app instalada o desde Chrome.'
     : state === 'on'
-      ? 'Te recordamos tu paso del día cada mañana.'
+      ? 'Te recordamos tu paso cada mañana y cada noche, en tu horario.'
       : state === 'blocked'
         ? 'Están bloqueadas en tu navegador. Actívalas en los ajustes del sitio.'
         : state === 'install-first'
           ? 'En iPhone, primero instala la app en tu pantalla de inicio.'
           : state === 'unsupported'
             ? 'Este navegador no permite notificaciones.'
-            : 'Un recordatorio diario para no perder tu racha.'
+            : 'Un recordatorio por la mañana y otro por la noche para no perder tu racha.'
   return (
     <Row icon="bell" title="Notificaciones" hint={hint}>
-      <Switch on={state === 'on'} onChange={(n) => void toggle(n)} label="Recordatorio diario" disabled={busy || state === 'loading' || state === 'blocked' || state === 'install-first' || state === 'unsupported'} />
+      <Switch on={state === 'on'} onChange={(n) => void toggle(n)} label="Recordatorios" disabled={busy || state === 'loading' || state === 'blocked' || state === 'install-first' || state === 'unsupported'} />
     </Row>
   )
 }

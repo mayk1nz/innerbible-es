@@ -6,6 +6,7 @@ import { ProductHeroCard, ProductTile } from '../cards'
 import { Cover } from '../Cover'
 import { Icon, type IconName } from '../icons'
 import { RankItem } from '../Leaderboard'
+import { NotifyPrompt } from '../NotifyPrompt'
 import { PageHeader } from '../PageHeader'
 import { SectionTitle } from '../ui'
 import { OFFERS, PRODUCTS, productById, type Lesson, type Product } from '@/lib/catalog'
@@ -127,6 +128,7 @@ export function HomeView() {
       <PageHeader title={`${greeting(minute)}, ${name}`} subtitle="Un paso cada día. Qué bueno tenerte aquí." />
       <StatsStrip stats={stats} />
       <TodayCard stats={stats} target={target} />
+      <NotifyPrompt />
 
       <Link
         href="/consejero"

@@ -1,5 +1,6 @@
 'use client'
 
+import { refreshPush } from '@/lib/push-client'
 import { useEffect, type ReactNode } from 'react'
 import { useRouter } from 'next/navigation'
 import { BottomNav } from './BottomNav'
@@ -47,7 +48,10 @@ export function AppShell({ children }: { children: ReactNode }) {
         if (!res.ok) return // server hiccup: keep what the device knows
         const me = (await res.json()) as ServerMember & { email: string }
         if (me.email !== email) signOut()
-        else setMember(email, name, me)
+        else {
+          setMember(email, name, me)
+          void refreshPush()
+        }
       })
       .catch(() => {
         // offline: keep what the device knows

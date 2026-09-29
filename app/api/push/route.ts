@@ -17,9 +17,12 @@ function parse(raw: unknown): PushSub | null {
 export async function POST(request: Request) {
   const email = await sessionEmail()
   if (!email) return Response.json({ error: 'no-session' }, { status: 401 })
-  const sub = parse(await request.json().catch(() => null))
+  const raw = await request.json().catch(() => null)
+  const sub = parse(raw)
   if (!sub) return Response.json({ error: 'invalid' }, { status: 400 })
-  await saveSubscription(email, sub)
+  // The phone's time zone ("America/Bogota"), so reminders arrive in its morning and night.
+  const tz = (raw as { tz?: unknown }).tz
+  await saveSubscription(email, sub, typeof tz === 'string' && /^[A-Za-z_]+(\/[A-Za-z0-9_+-]+){0,2}$/.test(tz) ? tz : undefined)
   return Response.json({ ok: true })
 }
 

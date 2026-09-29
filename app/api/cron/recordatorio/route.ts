@@ -1,26 +1,34 @@
-import { sendDailyReminders, type Reminder } from '@/lib/server/push'
+import { db, t } from '@/lib/server/db'
+import { sendScheduled } from '@/lib/server/push'
 
-// The daily reminder, run by Vercel Cron (vercel.json) once a day. Each device gets at
-// most one reminder per day (last_sent_day), so calling this again does nothing more.
-// With CRON_SECRET set on Vercel, only Vercel's own call is accepted.
+// The reminders, run every hour by Supabase (pg_cron + pg_net, migration 006) and once a
+// day by Vercel Cron (vercel.json) as a fallback. Each device gets its morning and its
+// night reminder in its own time zone, once a day each (lib/server/push.ts), so calling
+// this more often never sends more.
+// Accepted callers: Vercel Cron (Authorization: Bearer CRON_SECRET) or Supabase
+// (x-cron-key = app_config.cron_key).
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 60
 
-const MESSAGES: Omit<Reminder, 'url'>[] = [
-  { title: 'Tu paso de hoy te espera 📖', body: 'Unos minutos con la Palabra para empezar el día en paz.' },
-  { title: 'Un momento con Dios', body: 'Tu lectura de hoy está lista. ¿La hacemos juntos?' },
-  { title: 'Sigue tu camino 🙏', body: 'Un paso cada día: hoy también cuenta para tu racha.' },
-  { title: 'La Palabra para hoy', body: '«Lámpara es a mis pies tu palabra». Tu lectura te espera.' },
-]
+async function allowed(request: Request): Promise<boolean> {
+  const secret = process.env.CRON_SECRET
+  if (secret && request.headers.get('authorization') === `Bearer ${secret}`) return true
+  const key = request.headers.get('x-cron-key')
+  if (key) {
+    const { data } = await db().from(t('app_config')).select('value').eq('key', 'cron_key').maybeSingle()
+    if (data?.value && data.value === key) return true
+  }
+  // No secret configured anywhere: open (sending is idempotent per day).
+  return !secret && !key
+}
 
 export async function GET(request: Request) {
-  const secret = process.env.CRON_SECRET
-  if (secret && request.headers.get('authorization') !== `Bearer ${secret}`) {
-    return Response.json({ error: 'unauthorized' }, { status: 401 })
-  }
-  // Same message for everyone on a given day, changing through the week.
-  const message = MESSAGES[Math.floor(Date.now() / 86_400_000) % MESSAGES.length]
-  const result = await sendDailyReminders(() => ({ ...message, url: '/inicio' }))
+  if (!(await allowed(request))) return Response.json({ error: 'unauthorized' }, { status: 401 })
+  // ?dry=1&at=<ISO date>: a rehearsal of what would be sent at that moment (nothing is sent).
+  const url = new URL(request.url)
+  const at = url.searchParams.get('at')
+  const when = at && !Number.isNaN(Date.parse(at)) ? new Date(at) : new Date()
+  const result = await sendScheduled(when, url.searchParams.get('dry') === '1')
   return Response.json({ ok: true, ...result })
 }

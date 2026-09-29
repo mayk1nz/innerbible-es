@@ -1,6 +1,7 @@
 import { PUSH_PUBLIC_KEY } from './config'
 
-// Daily reminder on this device: ask permission, subscribe the browser, tell the server.
+// Reminders on this device (morning and night, in the member's own time): ask permission,
+// subscribe the browser, tell the server — with the phone's time zone.
 
 export type PushState = 'on' | 'off' | 'blocked' | 'install-first' | 'unsupported'
 
@@ -43,9 +44,35 @@ export async function enablePush(): Promise<PushState> {
   const reg = (await registration()) ?? (await navigator.serviceWorker.register('/sw.js'))
   await navigator.serviceWorker.ready
   const sub = (await reg.pushManager.getSubscription()) ?? (await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: keyBytes(PUSH_PUBLIC_KEY) }))
-  const res = await fetch('/api/push', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(sub.toJSON()) })
+  const res = await saveSubscription(sub)
   if (!res.ok) throw new Error('save-failed')
   return 'on'
+}
+
+function timeZone(): string | undefined {
+  try {
+    return Intl.DateTimeFormat().resolvedOptions().timeZone
+  } catch {
+    return undefined
+  }
+}
+
+function saveSubscription(sub: PushSubscription): Promise<Response> {
+  return fetch('/api/push', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ ...sub.toJSON(), tz: timeZone() }) })
+}
+
+/**
+ * On each visit with reminders on: tell the server this device's current time zone (it
+ * may have changed, or been saved before time zones were sent).
+ */
+export async function refreshPush(): Promise<void> {
+  try {
+    if (!('serviceWorker' in navigator) || !('PushManager' in window) || Notification.permission !== 'granted') return
+    const sub = await (await registration())?.pushManager.getSubscription()
+    if (sub) await saveSubscription(sub)
+  } catch {
+    // offline: next visit
+  }
 }
 
 export async function disablePush(): Promise<PushState> {
