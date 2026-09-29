@@ -1,4 +1,4 @@
-// Writes content-src/escucha/indice.json: the 68 audios of the Resumen en Audio (ids and
+// Writes content-src/escucha/indice.json: the audios of the Resumen en Audio (ids and
 // titles, read from lib/catalog.ts) with the Estudio lessons that tell the same part (the
 // reverse of the map in components/EstudioAudio.tsx). The writers of the Guía de escucha
 // use it as their list and their sources.
@@ -27,6 +27,6 @@ for (const m of map.matchAll(/^\s+'?([a-z0-9-]+)'?: \[([^\]]+)\],?$/gm)) {
 }
 
 const audios = titles.map((titulo) => ({ id: slug(titulo), titulo, estudio: byTitle[titulo] ?? [] }))
-if (audios.length !== 68) throw new Error(`${audios.length} audios (esperava 68)`)
+if (audios.length !== 67) throw new Error(`${audios.length} audios (esperava 67)`)
 fs.writeFileSync(path.join(HERE, 'indice.json'), JSON.stringify({ audios }, null, 2) + '\n')
 console.log(`indice.json: ${audios.length} audios; sem lição do Estudio: ${audios.filter((a) => !a.estudio.length).map((a) => a.id).join(', ') || 'nenhum'}`)

@@ -88,7 +88,6 @@ const AUDIOS: Record<string, string[]> = {
   '2-pedro': ['2 Pedro'],
   hebreos: ['Hebreos'],
   judas: ['Judas'],
-  '1-juan': ['1 Juan'],
   '2-juan': ['2 Juan'],
   '3-juan': ['3 Juan'],
   apocalipsis: ['Apocalipsis'],

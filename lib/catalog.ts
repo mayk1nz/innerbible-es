@@ -140,7 +140,7 @@ function audioLessons(productId: string, titles: string[]): Lesson[] {
 /**
  * The listening plan (the secret gift of the front): 30 audios of the Resumen en Audio, one
  * a day, through the key moments of the story. It plays the same files, so a member who
- * enjoys it already knows what the full audio (68 audios) is like.
+ * enjoys it already knows what the full audio is like.
  */
 const ESCUCHA = [
   'Comienza aquí', 'Génesis', 'Job', 'Éxodo', 'Números', 'Josué', 'Jueces', 'Rut', '1 Samuel', '2 Samuel',
@@ -225,7 +225,7 @@ const NEW_TESTAMENT = [
   'Lucas 1-2', 'Mateo 1-2', 'Marcos 1', 'Juan 1', 'El ministerio de Jesús: una armonía de los evangelios',
   'Hechos de los Apóstoles', 'Santiago', 'Gálatas', '1 Tesalonicenses', '2 Tesalonicenses', '1 Corintios',
   '2 Corintios', 'Romanos', 'Efesios', 'Filipenses', 'Colosenses', 'Filemón', '1 Timoteo', 'Tito',
-  '2 Timoteo', '1 Pedro', '2 Pedro', 'Hebreos', 'Judas', '1 Juan', '2 Juan', '3 Juan', 'Apocalipsis',
+  '2 Timoteo', '1 Pedro', '2 Pedro', 'Hebreos', 'Judas', '2 Juan', '3 Juan', 'Apocalipsis',
 ]
 
 const COMMANDMENTS = [

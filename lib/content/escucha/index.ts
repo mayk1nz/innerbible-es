@@ -7,7 +7,6 @@ import type { GuiaEscucha } from './types'
 export const GUIAS_ESCUCHA: ReadonlySet<string> = new Set([
   "1-corintios",
   "1-cronicas",
-  "1-juan",
   "1-pedro",
   "1-reyes-1-11",
   "1-samuel",

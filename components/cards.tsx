@@ -88,8 +88,10 @@ export function ProductTile({ product, state }: { product: Product; state: AppSt
 
 /**
  * In the listening plan (the secret gift): the full Resumen en Audio for whoever does not
- * have it yet — 30 audios here, 68 there.
+ * have it yet — 30 audios here, all of them there.
  */
+const FULL_AUDIOS = (productById('cronologico-audio')?.sections ?? []).flatMap((s) => s.lessons).filter((l) => l.audioSrc).length
+
 export function AudioPromo({ owned }: { owned: readonly OfferId[] }) {
   if (owned.includes('upsell1')) return null
   return (
@@ -106,7 +108,7 @@ export function AudioPromo({ owned }: { owned: readonly OfferId[] }) {
           <DealBadge offer="upsell1" />
         </span>
         <span className="mt-0.5 block text-[14.5px] leading-snug text-text">
-          Este plan tiene 30 audios. El Resumen Cronológico en Audio completo tiene los 68, de la creación al Apocalipsis.
+          Este plan tiene 30 audios. El Resumen Cronológico en Audio completo tiene los {FULL_AUDIOS}, de la creación al Apocalipsis.
         </span>
       </span>
       <Icon name="chevronRight" className="size-5 shrink-0 text-muted" />
