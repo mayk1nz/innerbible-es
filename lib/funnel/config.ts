@@ -94,7 +94,14 @@ export const FUNNEL = {
     // Monthly subscription, as set in the KashPay step.
     price: num(process.env.NEXT_PUBLIC_PRICE_UP2, 9.9),
     priceFrom: 0,
-    video: noVideo(process.env.NEXT_PUBLIC_VTURB_UP2_ID, process.env.NEXT_PUBLIC_VTURB_UP2_SCRIPT, process.env.NEXT_PUBLIC_VTURB_UP2_DELAY),
+    // Owner's VTurb player of the upsell 2 VSL; the offer appears at 7:10 (430 s).
+    video: {
+      playerId: process.env.NEXT_PUBLIC_VTURB_UP2_ID || 'vid-6abb0bedc0453b59c0af851c',
+      scriptUrl:
+        process.env.NEXT_PUBLIC_VTURB_UP2_SCRIPT ||
+        'https://scripts.converteai.net/90eef771-3dd8-46c8-b5b3-3c5b48ea076b/players/6abb0bedc0453b59c0af851c/v4/player.js',
+      delaySeconds: num(process.env.NEXT_PUBLIC_VTURB_UP2_DELAY, 430),
+    } satisfies VslConfig,
   } satisfies OneClickOffer,
   /** Downsell of upsell 2 — about half price, monthly. */
   down2: {
