@@ -22,6 +22,15 @@ const nextConfig: NextConfig = {
       { source: "/upsell-downsell", destination: "/resumen-en-audio-oferta", permanent: false },
       { source: "/up2", destination: "/palabras-del-senor", permanent: false },
       { source: "/palabras-del-senor-downsell", destination: "/palabras-del-senor-oferta", permanent: false },
+      // The short link said in the YouTube videos: the quiz, marked as coming from YouTube
+      // (a link with its own utm_* keeps them).
+      {
+        source: "/regalo",
+        missing: [{ type: "query", key: "utm_source" }],
+        destination: "/quiz?utm_source=youtube&utm_medium=video&utm_campaign=regalo",
+        permanent: false,
+      },
+      { source: "/regalo", destination: "/quiz", permanent: false },
     ];
   },
 };
