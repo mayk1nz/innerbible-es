@@ -41,8 +41,10 @@ const AUDIO = {
   id: 'cronologico-audio',
   name: 'Resumen Cronológico en Audio',
   receive: [
-    'Resumen Cronológico en Audio',
-    'Los 66 libros narrados en orden cronológico',
+    'Resumen Cronológico en Audio: 67 audios, toda la historia bíblica en orden',
+    'Versión Premium: la Guía de escucha de cada audio (puntos clave, versículo, pregunta y oración)',
+    'Modo descanso: escucha antes de dormir y el audio se apaga solo',
+    'Plan de escucha completo en 30, 60 o 90 días',
     'Velocidad ajustable y la posición guardada donde lo dejaste',
     'Garantía incondicional de 30 días',
   ],
@@ -52,13 +54,12 @@ const PALABRAS = {
   id: 'palabras-del-senor',
   name: 'Palabras del Señor',
   receive: [
-    'Guía Palabras del Señor',
-    'Tu Consejero Bíblico: conversa cuando lo necesites y recibe consuelo y dirección en la Palabra',
+    'Guía Palabras del Señor: 104 situaciones reales con el paso a paso bíblico',
+    'Tu Consejero Bíblico (inteligencia artificial): conversa cuando lo necesites y recibe consuelo y dirección en la Palabra',
     'Plan de 90 días de Transformación Espiritual',
     'Plan de 90 días para aprender a vivir según la filosofía de Jesús (paso a paso)',
     'Plan de 90 días para cambiar tu mentalidad y convertirte en un verdadero cristiano',
-    'Biblioteca «Caminando con Gigantes»',
-    'Regalo secreto',
+    'Biblioteca «Caminando con Gigantes»: 31 personajes que pasaron por lo mismo que tú',
     'Garantía incondicional de 30 días',
   ],
 }
@@ -101,7 +102,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
     progress: 55,
     product: AUDIO,
     paragraphs: [
-      'Entiendo perfectamente que {from} puede parecer mucho en este momento, especialmente después de acabar de adquirir el Resumen Cronológico de la Biblia.',
+      'Entiendo perfectamente que {from} puede parecer mucho en este momento, especialmente después de acabar de adquirir el Estudio Cronológico de la Biblia.',
       'Pero creo de verdad que la Palabra se graba más hondo cuando **también la escuchas**, en esos momentos del día en que no puedes sentarte a leer.',
       'Por eso, voy a hacer algo que **solo ofrezco en esta página**:',
       'Voy a darte acceso al **Resumen Cronológico en Audio** con un descuento del {pct}%.',
@@ -125,7 +126,7 @@ const COPY: Record<OneClickStep, UpsellCopy | DownsellCopy> = {
     progress: 92,
     product: PALABRAS,
     paragraphs: [
-      'Entiendo perfectamente que {from} puede parecer mucho en este momento, especialmente después de acabar de adquirir el Resumen Cronológico de la Biblia.',
+      'Entiendo perfectamente que {from} puede parecer mucho en este momento, especialmente después de acabar de adquirir el Estudio Cronológico de la Biblia.',
       'Pero creo de verdad que el potencial total de nuestro material solo se alcanza cuando **pones en práctica** todo lo que aprendes en él.',
       'Por eso, voy a hacer algo que **solo ofrezco en esta página**:',
       'Voy a darte acceso a **Palabras del Señor** con un descuento del {pct}%.',

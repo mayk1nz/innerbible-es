@@ -461,7 +461,7 @@ function Result({ headingRef, test, onNext }: { headingRef: HeadingRef; test: nu
       </div>
 
       {/* eslint-disable-next-line @next/next/no-img-element -- local static product image */}
-      <img src={RESULT.productImage} alt="Resumen Cronológico de la Biblia" className="mx-auto mt-6 w-full max-w-[340px]" />
+      <img src={RESULT.productImage} alt="Estudio Cronológico de la Biblia" className="mx-auto mt-6 w-full max-w-[340px]" />
 
       <button type="button" onClick={onNext} className={`${buttonClass.primary} mt-6 min-h-14 text-[17px]`}>
         {RESULT.button}

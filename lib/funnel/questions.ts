@@ -234,15 +234,15 @@ export const RESULT = {
     'La verdadera transformación ocurre cuando logras absorber las enseñanzas de Dios con simplicidad e intención.',
     'Y yo descubrí la forma más simple de hacerlo.',
   ],
-  product: 'El nombre es Resumen Cronológico de la Biblia',
+  product: 'El nombre es Estudio Cronológico de la Biblia',
   button: 'Haga clic para descubrir cómo recibirlo',
 }
 
 export const OFFER = {
   title: 'Mira el video a continuación para descubrir el secreto para entender la Biblia.',
   headline: '¡Recibe ahora!',
-  product: 'Resumen Cronológico',
-  extra: '+ 8 regalos especiales',
+  product: 'Estudio Cronológico de la Biblia',
+  extra: '+ 8 regalos especiales y un regalo secreto',
   button: 'Haz clic aquí para asegurar tu material',
   bullets: ['Acceso inmediato', 'Garantía de 30 días'],
   perMonth: '/mes',
