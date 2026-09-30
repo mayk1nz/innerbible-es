@@ -31,6 +31,14 @@ const nextConfig: NextConfig = {
         permanent: false,
       },
       { source: "/regalo", destination: "/quiz", permanent: false },
+      // The Instagram bio link: the quiz, marked as coming from the profile.
+      {
+        source: "/bio",
+        missing: [{ type: "query", key: "utm_source" }],
+        destination: "/quiz?utm_source=instagram&utm_medium=bio&utm_campaign=perfil",
+        permanent: false,
+      },
+      { source: "/bio", destination: "/quiz", permanent: false },
     ];
   },
 };
