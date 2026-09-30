@@ -42,7 +42,7 @@ const noVideo = (id?: string, script?: string, delay?: string): VslConfig => ({
 })
 
 export const FUNNEL = {
-  pixelId: process.env.NEXT_PUBLIC_FUNNEL_PIXEL_ID || '1734156964506551',
+  pixelId: process.env.NEXT_PUBLIC_FUNNEL_PIXEL_ID || '1463452902513152',
   currency: 'USD',
   front: {
     // KashPay "Plan Mensual" of the Estudio Cronológico: US$ 11,90 per month.
