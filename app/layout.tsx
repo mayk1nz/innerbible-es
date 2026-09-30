@@ -20,6 +20,8 @@ export const metadata: Metadata = {
   // Members-only app: nothing here should be indexed.
   robots: { index: false, follow: false },
   appleWebApp: { capable: true, title: APP.name, statusBarStyle: 'default' },
+  // Meta (Facebook) domain verification of innerbible.app: must be in the server HTML.
+  other: { 'facebook-domain-verification': 'rwxi44hvrzi1zoe382qu2dv8hhbuds' },
 }
 
 export const viewport: Viewport = {
